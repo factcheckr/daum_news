@@ -1,0 +1,8 @@
+[factcheck]
+title = "다음 뉴스 ─ 팩트체크"
+url = "https://focus.daum.net/ch/news/factcheck"
+entrySelector = "ul.list_news.news_type2 li"
+titleSelector = "strong.tit_txt"
+linkSelector = "a"
+contentSelector = "div.desc_thumb"
+waitUntil = "networkidle"
