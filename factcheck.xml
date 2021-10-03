@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-10-03T05:31:38.254Z</updated>
+    <updated>2021-10-03T17:36:52.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사실확인] 코로나19가 남녀 고용 성별 격차 더 키웠다?]]></title>
+        <id>https://v.daum.net/v/20211003203522152</id>
+        <link href="https://v.daum.net/v/20211003203522152"/>
+        <updated>2021-10-03T17:36:52.248Z</updated>
+        <content type="html"><![CDATA[【 앵커멘트 】 코로나19로 실업, 휴직 어려움 겪는 분들이 적지 않습니다. 특히 여성들이 더 큰 타격을 입다보니 남녀 고용 격차가 더 커졌다는 이야기도 있습니다. 김보미 기자가 사실확인에서 따져봤습니다. 【 기자 】 코로나 이후 남성과 여성의 고용 상황은 어떻게 달라졌을까요? 지난해 2월 이후 자료를 살펴봤습니다. 남성 취업자 수가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알고보니] '급격한 탈원전' 탓은 아니지만..앞으론 어떨까]]></title>
         <id>https://v.daum.net/v/20211002101009103</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20210929200402919"/>
         <updated>2021-09-29T17:38:46.385Z</updated>
         <content type="html"><![CDATA[베이징 올림픽 유치 홍보영상에 한복이 등장했단 소식, 어제 전해드렸죠. 중국의 '문화 동북공정'이란 우려가 나오는데, 중국 온라인에선 이런 주장까지 나옵니다. [요우즈 / 중국 누리꾼] "중국인들이면 다 아는 처우잉 화가의 '청명상하도' 일부입니다. 다들 보면 아시겠죠. '태극기'가 한눈에 보이지 않습니까." 태극기가 이 주장대로 명나라 군대 깃]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] "한국에선 연간 100만 마리 개가 도축" 사실은?]]></title>
-        <id>https://v.daum.net/v/20210929140000645</id>
-        <link href="https://v.daum.net/v/20210929140000645"/>
-        <updated>2021-09-29T05:31:28.928Z</updated>
-        <content type="html"><![CDATA[문재인 대통령이 개고기 식용 금지를 검토하겠다는 입장을 내놨습니다. 지난 27일 김부겸 국무총리와의 주례 회동에서 '유기된 반려 동물 관리 체계' 개선 보고를 받은 뒤 나온 말입니다. 개 식용 찬반 양론이 다시 불붙었습니다.&nbsp; 그런데, 생각보다 해외에서 관심이 뜨겁습니다. 외신들이 비중 있게 보도하고 있습니다. AP, AFP, 로이터, 가디언, CNN, B]]></content>
     </entry>
 </feed>
