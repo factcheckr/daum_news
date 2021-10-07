@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FactCheckr.github.io/Daum_News/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-06T17:37:26.407Z</updated>
+    <updated>2021-10-07T05:31:48.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[사실은] '타워팰리스 산 중국인' 팩트체크 했습니다 (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20211007105400062</id>
+        <link href="https://v.daum.net/v/20211007105400062"/>
+        <updated>2021-10-07T05:31:47.511Z</updated>
+        <content type="html"><![CDATA[최근 30대 중국인이 89억 원에 육박하는 서울 강남구 타워팰리스를 은행 대출로 매입한 사실이 알려지면서 논란이 일었습니다. 407.96㎡(123평형) 복층 구조로, 아파트 내에서도 몇 채 안 되는 펜트하우스입니다. 정부는 은행 대출 기준을 꾸준히 강화해 왔습니다. 2019년부터는 투기지역과 투기과열지역에서 15억 원 이상 주택을 매입할 때, 주택담보대출을]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실확인] 회사에서 직원 소지품 검사할 수 있다? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20211006204320441</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20211003203522152"/>
         <updated>2021-10-03T17:36:52.248Z</updated>
         <content type="html"><![CDATA[【 앵커멘트 】 코로나19로 실업, 휴직 어려움 겪는 분들이 적지 않습니다. 특히 여성들이 더 큰 타격을 입다보니 남녀 고용 격차가 더 커졌다는 이야기도 있습니다. 김보미 기자가 사실확인에서 따져봤습니다. 【 기자 】 코로나 이후 남성과 여성의 고용 상황은 어떻게 달라졌을까요? 지난해 2월 이후 자료를 살펴봤습니다. 남성 취업자 수가]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] '급격한 탈원전' 탓은 아니지만..앞으론 어떨까 (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20211002101009103</id>
-        <link href="https://v.daum.net/v/20211002101009103"/>
-        <updated>2021-10-02T05:31:38.634Z</updated>
-        <content type="html"><![CDATA[전기요금이 논란입니다. 3분기보다 kWh당 3원 오르는 전기요금, 1인 가구 기준 평균 한달에 1,000원 가량 오르는 셈이지만, 가뜩이나 다른 물가 다 오르는데 가계의 부담이 가중되는 건 어찌보면 당연합니다. 1% 전기요금 오르면 소비자 물가가 0.017%p 오른다는 선험적인 통계도 있습니다. 하지만 그렇다고 해도 '8년 만에 1.6%' 오른 것을 두고,]]></content>
     </entry>
 </feed>
