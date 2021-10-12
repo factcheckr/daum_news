@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FactCheckr.github.io/Daum_News/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-11T17:38:04.905Z</updated>
+    <updated>2021-10-12T05:31:38.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[美 코로나19 사망, 시골이 도시의 2배? [FACT IN 뉴스] (다음 뉴스 ─ 팩트체크)]]></title>
+        <id>https://v.daum.net/v/20211012140123664</id>
+        <link href="https://v.daum.net/v/20211012140123664"/>
+        <updated>2021-10-12T05:31:37.329Z</updated>
+        <content type="html"><![CDATA[미국이 신종 코로나바이러스 감염증(코로나19) 델타 변이 확산으로 비상인 가운데 플로리다주 마이애미의 한 이동검사소 앞에 차례를 기다리는 주민들이 줄지어 있다. 마이애미=EPA연합뉴스  도시와 시골 중 신종 코로나바이러스 감염증(코로나19)에 더 취약한 곳을 꼽자면 인구밀도가 더 높은 도시일 것이다. 출퇴근 시간에 붐비는 지하철에서나 유동인구가 많은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트맨]물놀이 카페도 안전요원 배치 필수? (다음 뉴스 ─ 팩트체크)]]></title>
         <id>https://v.daum.net/v/20211011203058170</id>
@@ -66,12 +73,5 @@
         <link href="https://v.daum.net/v/20211009062807776"/>
         <updated>2021-10-09T05:31:30.291Z</updated>
         <content type="html"><![CDATA[[앵커] 사회적 거리 두기를 완화하고 '단계적 일상 회복'에 들어가는 구체적인 시점이 나왔죠. 관건은 독감처럼 사망률을 0.1%에 가깝게 낮출 수 있느냐인데, 관련 지표들 역시 '파란불'인지 따져봤습니다. 팩트와이, 강정규 기자입니다. [기자] '단계적 일상 회복'의 시간표가 나왔습니다. 국정 감사에서 질의에 대답하는 형식이었지만, 구체적인 날짜]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알고보니] 영양실조로 사망 외환위기 후 최다? (다음 뉴스 ─ 팩트체크)]]></title>
-        <id>https://v.daum.net/v/20211008203716374</id>
-        <link href="https://v.daum.net/v/20211008203716374"/>
-        <updated>2021-10-08T17:39:40.290Z</updated>
-        <content type="html"><![CDATA[[뉴스데스크] ◀ 기자 ▶ 알고보니 시작합니다. 어제 한 일간지 기사 제목입니다. 영양실조로 우리나라에서 지난해 345명이 숨졌다는 겁니다. 코로나 사태로 취약계층 결식이 늘어서 300명 넘게 숨졌다는 내용인데, 온라인에서 반향도 컸습니다. 그런데 요 몇 년 새 나온 정부발표나 기사들 보면요. 영양실조 사망자가 100명대 안팎이라고 나오는데, 어떻게]]></content>
     </entry>
 </feed>
