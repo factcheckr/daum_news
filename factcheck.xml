@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-10-19T05:31:57.314Z</updated>
+    <updated>2021-10-19T17:38:58.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트맨]아파트 주차장 알박기, 단속 못한다?]]></title>
+        <id>https://v.daum.net/v/20211019200300948</id>
+        <link href="https://v.daum.net/v/20211019200300948"/>
+        <updated>2021-10-19T17:38:58.088Z</updated>
+        <content type="html"><![CDATA[최근 온라인에서 화제가 된 사진입니다. 아파트 주차장 바닥에 놓인 상자에 붙은 안내문인데. "독서실에서 공부 중인 고3 아들을 데리러 가니, 다른 곳에 주차해달라"고 적혀 있습니다. 공용 공간인 아파트 주차장을 사유지처럼 알박기한다는 비판이 나오는데, 제재할 방법있는지 확인해봅니다. 아파트 주차장을 임의로 점유하면 단속 가능하다는 주장. 사]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팩트체크] '오징어 게임' 만든 넷플릭스, 지원군인가 먹튀인가]]></title>
         <id>https://v.daum.net/v/20211019084443929</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20211017045216341"/>
         <updated>2021-10-17T05:31:30.086Z</updated>
         <content type="html"><![CDATA[[앵커] 일부 미접종자들 사이에서 백신을 맞은 사람 옆에만 가도 두통이나 가려움, 가슴 통증 같은 부작용이 전염된다는 황당한 주장이 퍼지고 있습니다. 백신 접종 이후 바이러스가 몸 밖으로 배출되기 때문이라며 '쉐딩 현상'이라는 개념까지 끌어와서 그럴싸하게 포장했는데, 과연 사실일까요? 팩트와이, 강정규 기자입니다. [기자] 코로나19 백신 부작용]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사실은] '보험금 살인극' 청소년이라 신상 공개 안 된다?]]></title>
-        <id>https://v.daum.net/v/20211016095400177</id>
-        <link href="https://v.daum.net/v/20211016095400177"/>
-        <updated>2021-10-16T05:31:21.145Z</updated>
-        <content type="html"><![CDATA[보험금을 노리고 여성을 살해하려 한 10대 3명이 경찰에 붙잡혔다는 소식이 전해졌습니다. 이들은 여성을 살해한 뒤 보험금을 타내기로 짜고 전남 화순의 한 펜션에서 흉기를 휘둘렀지만, 다행히 여성이 몸을 숨기면서 화를 면했습니다. 경찰 조사 결과, 3명 가운데 한 남성은 범행 전 여성 명의로 수억 원의 사망 보험금을 들어 놓고, 수령인을 본인으로 지정해 뒀던]]></content>
     </entry>
 </feed>
