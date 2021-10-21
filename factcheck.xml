@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://focus.daum.net/ch/news/factcheck</id>
     <title>다음 뉴스 ─ 팩트체크</title>
-    <updated>2021-10-21T05:32:00.096Z</updated>
+    <updated>2021-10-21T17:40:50.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://t1.daumcdn.net/top/kakao/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팩트맨]BTS 뮤비 창작비, 영수증 처리 안된다?]]></title>
+        <id>https://v.daum.net/v/20211021202757672</id>
+        <link href="https://v.daum.net/v/20211021202757672"/>
+        <updated>2021-10-21T17:40:49.824Z</updated>
+        <content type="html"><![CDATA[지난달 대통령 특사로 UN 총회에서 공연한, BTS 모습이 담긴 뮤직비디오입니다. 그런데 최근 국정감사에서, 이 뮤직비디오 제작에 든 창작 비용이 제대로 인정받지 못했다는 주장이 나왔죠. 사실 관계를 따져봅니다. 당시 BTS 측과 정부가 맺은 7억 원짜리 용역 계약서입니다. 별첨된 세부항목에 항공비, 숙박비, 차량, 식비, 방역준비비는 보이는]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사실은] 재산 상속하면, 절반을 세금으로 떼 간다?]]></title>
         <id>https://v.daum.net/v/20211021113306845</id>
@@ -67,12 +74,5 @@
         <link href="https://v.daum.net/v/20211018201047917"/>
         <updated>2021-10-18T17:39:53.570Z</updated>
         <content type="html"><![CDATA[나흘 전 MRI, 즉 자기공명 영상을 찍으려던 60대 환자가 갑자기 날아온 산소통에 몸이 끼어 숨을 거두는 안타까운 사고가 발생했습니다. MRI 기계가 작동할 때 발생하는 자성이 철제 산소통을 자석처럼 끌어당겨서 일어난 사고였는데, MRI의 자성, 얼마나 강한지 확인해 봅니다. MRI 기계의 작동 원리를 볼까요. 환자가 누운 채 들어가는 원통]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 우리나라 상속세 부담이 OECD 국가 중 두 번째로 크다고?]]></title>
-        <id>https://v.daum.net/v/20211018121330642</id>
-        <link href="https://v.daum.net/v/20211018121330642"/>
-        <updated>2021-10-18T05:32:23.047Z</updated>
-        <content type="html"><![CDATA[(서울=연합뉴스) 장하나 기자 = 삼성 오너 일가가 고(故) 이건희 회장에게 받은 유산에 대한 상속세를 내기 위해 삼성전자를 포함한 계열사 주식 2조원어치를 처분한다는 소식에 한때 주식시장이 출렁였다. 금융감독원 전자공시시스템에 따르면 홍라희 전 리움미술관장은 지난 5일 삼성전자 주식 1천994만1천860주(0.33%, 8일 종가 기준 1조4천258억원)에]]></content>
     </entry>
 </feed>
