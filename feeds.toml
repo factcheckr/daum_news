@@ -7,6 +7,15 @@ linkSelector = "a"
 contentSelector = "div.desc_thumb"
 waitUntil = "networkidle"
 
+[breakingnews]
+title = "다음 뉴스 ─ 전체기사 ─ 최신"
+url = "https://news.daum.net/breakingnews/"
+entrySelector = "ul.list_news2.list_allnews li"
+titleSelector = "strong.tit_thumb a.link_txt"
+linkSelector = "a.link_thumb"
+contentSelector = "span.info_news"
+waitUntil = "networkidle"
+
 [society]
 title = "다음 뉴스 ─ 전체기사 ─ 사회"
 url = "https://news.daum.net/breakingnews/society"
@@ -14,5 +23,95 @@ entrySelector = "ul.list_news2.list_allnews li"
 titleSelector = "strong.tit_thumb a.link_txt"
 linkSelector = "a.link_thumb"
 contentSelector = "span.info_news"
-imageSelector = "img.thumb_g"
+waitUntil = "networkidle"
+
+[politics]
+title = "다음 뉴스 ─ 전체기사 ─ 정치"
+url = "https://news.daum.net/breakingnews/politics"
+entrySelector = "ul.list_news2.list_allnews li"
+titleSelector = "strong.tit_thumb a.link_txt"
+linkSelector = "a.link_thumb"
+contentSelector = "span.info_news"
+waitUntil = "networkidle"
+
+[economic]
+title = "다음 뉴스 ─ 전체기사 ─ 경제"
+url = "https://news.daum.net/breakingnews/economic"
+entrySelector = "ul.list_news2.list_allnews li"
+titleSelector = "strong.tit_thumb a.link_txt"
+linkSelector = "a.link_thumb"
+contentSelector = "span.info_news"
+waitUntil = "networkidle"
+
+[foreign]
+title = "다음 뉴스 ─ 전체기사 ─ 국제"
+url = "https://news.daum.net/breakingnews/foreign"
+entrySelector = "ul.list_news2.list_allnews li"
+titleSelector = "strong.tit_thumb a.link_txt"
+linkSelector = "a.link_thumb"
+contentSelector = "span.info_news"
+waitUntil = "networkidle"
+
+[culture]
+title = "다음 뉴스 ─ 전체기사 ─ 문화"
+url = "https://news.daum.net/breakingnews/culture"
+entrySelector = "ul.list_news2.list_allnews li"
+titleSelector = "strong.tit_thumb a.link_txt"
+linkSelector = "a.link_thumb"
+contentSelector = "span.info_news"
+waitUntil = "networkidle"
+
+[entertain]
+title = "다음 뉴스 ─ 전체기사 ─ 연예"
+url = "https://news.daum.net/breakingnews/entertain"
+entrySelector = "ul.list_news2.list_allnews li"
+titleSelector = "strong.tit_thumb a.link_txt"
+linkSelector = "a.link_thumb"
+contentSelector = "span.info_news"
+waitUntil = "networkidle"
+
+[sports]
+title = "다음 뉴스 ─ 전체기사 ─ 스포츠"
+url = "https://news.daum.net/breakingnews/sports"
+entrySelector = "ul.list_news2.list_allnews li"
+titleSelector = "strong.tit_thumb a.link_txt"
+linkSelector = "a.link_thumb"
+contentSelector = "span.info_news"
+waitUntil = "networkidle"
+
+
+[digital]
+title = "다음 뉴스 ─ 전체기사 ─ IT"
+url = "https://news.daum.net/breakingnews/digital"
+entrySelector = "ul.list_news2.list_allnews li"
+titleSelector = "strong.tit_thumb a.link_txt"
+linkSelector = "a.link_thumb"
+contentSelector = "span.info_news"
+waitUntil = "networkidle"
+
+[editorial]
+title = "다음 뉴스 ─ 전체기사 ─ 칼럼"
+url = "https://news.daum.net/breakingnews/editorial"
+entrySelector = "ul.list_news2.list_allnews li"
+titleSelector = "strong.tit_thumb a.link_txt"
+linkSelector = "a.link_thumb"
+contentSelector = "span.info_news"
+waitUntil = "networkidle"
+
+[press]
+title = "다음 뉴스 ─ 전체기사 ─ 보도자료"
+url = "https://news.daum.net/breakingnews/press"
+entrySelector = "ul.list_news2.list_allnews li"
+titleSelector = "strong.tit_thumb a.link_txt"
+linkSelector = "a.link_thumb"
+contentSelector = "span.info_news"
+waitUntil = "networkidle"
+
+[bot]
+title = "다음 뉴스 ─ 전체기사 ─ 자동생성기사"
+url = "https://news.daum.net/breakingnews/botnews"
+entrySelector = "ul.list_news2.list_allnews li"
+titleSelector = "strong.tit_thumb a.link_txt"
+linkSelector = "a.link_thumb"
+contentSelector = "span.info_news"
 waitUntil = "networkidle"
