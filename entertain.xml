@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2022-01-01T11:54:48.912Z</updated>
+    <updated>2022-01-01T11:56:28.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유재석, 2022년도 대박!!..'귀인이 돕고, 능력 발휘하며 사업 번창'('놀면 뭐하니')]]></title>
+        <id>https://v.daum.net/v/20220101205402075</id>
+        <link href="https://v.daum.net/v/20220101205402075"/>
+        <updated>2022-01-01T11:55:28.143Z</updated>
+        <content type="html"><![CDATA[텐아시아<span class="txt_bar"> · </span><span class="info_time">20:54</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이수근 아내' 박지연, 남편 절친이 강호동이라 좋겠어요]]></title>
         <id>https://v.daum.net/v/20220101205228072</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220101204021017"/>
         <updated>2022-01-01T11:48:16.092Z</updated>
         <content type="html"><![CDATA[스포츠경향<span class="txt_bar"> · </span><span class="info_time">20:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그랜파'박근형X남진, 1:1 끝장 승부 대결.. PGA급 실력 발휘]]></title>
-        <id>https://v.daum.net/v/20220101203901008</id>
-        <link href="https://v.daum.net/v/20220101203901008"/>
-        <updated>2022-01-01T11:48:16.093Z</updated>
-        <content type="html"><![CDATA[MK스포츠<span class="txt_bar"> · </span><span class="info_time">20:39</span>]]></content>
     </entry>
 </feed>
