@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-01-01T11:49:13.639Z</updated>
+    <updated>2022-01-01T11:54:48.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["무슨 색이 가장 예뻐요?" 삼성 야심작 '4색 유혹' 무더기 등장!]]></title>
+        <id>https://v.daum.net/v/20220101205340074</id>
+        <link href="https://v.daum.net/v/20220101205340074"/>
+        <updated>2022-01-01T11:54:15.205Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">20:53</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[펄어비스 검은사막, 김재희 총괄 PD 통해 '끝없는 겨울의 산' 코멘터리 공개]]></title>
         <id>https://v.daum.net/v/20220101202810924</id>
@@ -72,7 +79,7 @@
         <title type="html"><![CDATA[[부음]  박미경 포시에스 대표 모친상]]></title>
         <id>https://news.daum.net/breakingnews/digital</id>
         <link href="https://news.daum.net/breakingnews/digital"/>
-        <updated>2022-01-01T11:48:38.889Z</updated>
+        <updated>2022-01-01T11:54:15.165Z</updated>
         <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">17:05</span>]]></content>
     </entry>
     <entry>
@@ -93,7 +100,7 @@
         <title type="html"><![CDATA[[부음]박미경 포시에스 대표이사 모친상]]></title>
         <id>https://news.daum.net/breakingnews/digital</id>
         <link href="https://news.daum.net/breakingnews/digital"/>
-        <updated>2022-01-01T11:48:38.893Z</updated>
+        <updated>2022-01-01T11:54:15.170Z</updated>
         <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">16:50</span>]]></content>
     </entry>
     <entry>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220101165002299"/>
         <updated>2022-01-01T11:48:38.939Z</updated>
         <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">16:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 과학자들 "오미크론, 이르면 이달 중순 정점 지날듯"]]></title>
-        <id>https://v.daum.net/v/20220101164304256</id>
-        <link href="https://v.daum.net/v/20220101164304256"/>
-        <updated>2022-01-01T11:48:38.941Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">16:43</span>]]></content>
     </entry>
 </feed>
