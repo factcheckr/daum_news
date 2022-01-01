@@ -6,3 +6,13 @@ titleSelector = "strong.tit_txt"
 linkSelector = "a"
 contentSelector = "div.desc_thumb"
 waitUntil = "networkidle"
+
+[society]
+title = "다음 뉴스 ─ 전체기사 ─ 사회"
+url = "https://news.daum.net/breakingnews/society"
+entrySelector = "ul.list_news2.list_allnews li"
+titleSelector = "strong.tit_thumb a.link_txt"
+linkSelector = "a.link_thumb"
+contentSelector = "span.info_news"
+imageSelector = "img.thumb_g"
+waitUntil = "networkidle"
