@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/foreign</id>
     <title>다음 뉴스 ─ 전체기사 ─ 국제</title>
-    <updated>2022-01-02T15:30:09.157Z</updated>
+    <updated>2022-01-02T15:35:35.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Britain Soccer Premier League]]></title>
+        <id>https://v.daum.net/v/20220103003157297</id>
+        <link href="https://v.daum.net/v/20220103003157297"/>
+        <updated>2022-01-02T15:34:12.733Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">00:31</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중국 윈난서 규모 5.5 지진..22명 부상]]></title>
+        <id>https://v.daum.net/v/20220103003000281</id>
+        <link href="https://v.daum.net/v/20220103003000281"/>
+        <updated>2022-01-02T15:34:12.735Z</updated>
+        <content type="html"><![CDATA[SBS<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[리오넬 메시 코로나19 확진..3일 프랑스컵 결장]]></title>
         <id>https://v.daum.net/v/20220103002700280</id>
@@ -37,7 +51,7 @@
         <title type="html"><![CDATA[남아공 국회 건물 화재로 지붕 무너져.."관련자 체포"]]></title>
         <id>https://news.daum.net/breakingnews/foreign</id>
         <link href="https://news.daum.net/breakingnews/foreign"/>
-        <updated>2022-01-02T15:28:39.561Z</updated>
+        <updated>2022-01-02T15:34:12.700Z</updated>
         <content type="html"><![CDATA[SBS<span class="txt_bar"> · </span><span class="info_time">00:18</span>]]></content>
     </entry>
     <entry>
@@ -93,21 +107,7 @@
         <title type="html"><![CDATA[中 전기차 보조금 올해까지만 준다]]></title>
         <id>https://news.daum.net/breakingnews/foreign</id>
         <link href="https://news.daum.net/breakingnews/foreign"/>
-        <updated>2022-01-02T15:28:39.594Z</updated>
+        <updated>2022-01-02T15:34:12.709Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Virus Outbreak Netherlands Protest]]></title>
-        <id>https://v.daum.net/v/20220103000432171</id>
-        <link href="https://v.daum.net/v/20220103000432171"/>
-        <updated>2022-01-02T15:18:11.761Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[epaselect POLAND WEATHER]]></title>
-        <id>https://v.daum.net/v/20220103000428170</id>
-        <link href="https://v.daum.net/v/20220103000428170"/>
-        <updated>2022-01-02T15:18:11.761Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
     </entry>
 </feed>
