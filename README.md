@@ -15,6 +15,8 @@ https://factcheckr.github.io/daum_news/all.xml
 - 보도자료: https://factcheckr.github.io/daum_news/press.xml
 - 자동생성기사: https://factcheckr.github.io/daum_news/bot.xml
 
+## [인기기사](https://github.com/FactCheckr/daumnews)
+
 ## 팩트체크
 - [언론사별 팩트체크](https://focus.daum.net/ch/news/factcheck): https://factcheckr.github.io/daum_news/factcheck.xml
 
