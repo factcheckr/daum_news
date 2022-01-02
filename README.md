@@ -17,3 +17,7 @@ https://factcheckr.github.io/daum_news/all.xml
 
 ## 팩트체크
 - [언론사별 팩트체크](https://focus.daum.net/ch/news/factcheck): https://factcheckr.github.io/daum_news/factcheck.xml
+
+---
+
+[▶️ 네이버 뉴스 이동하기](https://github.com/FactCheckr/naver_news)
