@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2022-01-02T15:51:13.300Z</updated>
+    <updated>2022-01-02T16:28:02.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[문체부, 5일 '신년음악회' 온라인 개최.. 임선혜·손열음 등 출연]]></title>
+        <id>https://news.daum.net/breakingnews/culture</id>
+        <link href="https://news.daum.net/breakingnews/culture"/>
+        <updated>2022-01-02T16:26:48.279Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[문화재청, 세계유산 관리 강화 위한 영향평가 도입 추진]]></title>
+        <id>https://news.daum.net/breakingnews/culture</id>
+        <link href="https://news.daum.net/breakingnews/culture"/>
+        <updated>2022-01-02T16:26:48.281Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:04</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[언제까지 소년으로 남을 수 있을까요 #더보이즈 #현재]]></title>
         <id>https://v.daum.net/v/20220103003213299</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220103000824217"/>
         <updated>2022-01-02T15:18:24.183Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[날씨] 새해 첫 줄근길 영하권 강추위..서울 -8도]]></title>
-        <id>https://news.daum.net/breakingnews/culture</id>
-        <link href="https://news.daum.net/breakingnews/culture"/>
-        <updated>2022-01-02T15:49:56.551Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민주화 운동 해외에 알린 지명관 前교수 별세]]></title>
-        <id>https://v.daum.net/v/20220103000524190</id>
-        <link href="https://v.daum.net/v/20220103000524190"/>
-        <updated>2022-01-02T15:18:24.185Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
     </entry>
 </feed>
