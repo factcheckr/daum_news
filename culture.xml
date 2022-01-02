@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2022-01-02T16:52:24.151Z</updated>
+    <updated>2022-01-02T17:25:29.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 기후변화가 만든 겨울 '신조어'..어떤 의미가?]]></title>
+        <id>https://v.daum.net/v/20220103022206520</id>
+        <link href="https://v.daum.net/v/20220103022206520"/>
+        <updated>2022-01-02T17:24:13.783Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">02:22</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문체부, 5일 '신년음악회' 온라인 개최.. 임선혜·손열음 등 출연]]></title>
         <id>https://v.daum.net/v/20220103010522418</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220103001746256"/>
         <updated>2022-01-02T15:18:24.182Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 운세] 1월 3일]]></title>
-        <id>https://v.daum.net/v/20220103000824217</id>
-        <link href="https://v.daum.net/v/20220103000824217"/>
-        <updated>2022-01-02T15:18:24.183Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:08</span>]]></content>
     </entry>
 </feed>

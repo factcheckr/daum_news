@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2022-01-02T16:52:24.156Z</updated>
+    <updated>2022-01-02T17:25:29.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[韓조선, 작년 수주량 세계 1위 中에 내줘..고부가가치 선박 집중]]></title>
+        <id>https://v.daum.net/v/20220103022016517</id>
+        <link href="https://v.daum.net/v/20220103022016517"/>
+        <updated>2022-01-02T17:23:49.265Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">02:20</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이코노 브리핑] 한화생명, 채용연계 인턴 공개채용 외]]></title>
         <id>https://v.daum.net/v/20220103010523419</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220103000354159</id>
         <link href="https://v.daum.net/v/20220103000354159"/>
         <updated>2022-01-02T15:17:59.151Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[커피 빼고 다 올랐네..심상찮은 새해 물가]]></title>
-        <id>https://v.daum.net/v/20220103000350157</id>
-        <link href="https://v.daum.net/v/20220103000350157"/>
-        <updated>2022-01-02T15:17:59.152Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
     </entry>
 </feed>
