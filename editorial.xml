@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-01-02T21:16:44.056Z</updated>
+    <updated>2022-01-02T22:21:05.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정치 유튜버, 과연 선거에 얼마나 도움될까 [정도원의 정치공학]]]></title>
+        <id>https://v.daum.net/v/20220103070000229</id>
+        <link href="https://v.daum.net/v/20220103070000229"/>
+        <updated>2022-01-02T22:20:44.377Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[목멱칼럼]"대한민국은 과학입니다"]]></title>
         <id>https://v.daum.net/v/20220103061504880</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220103050820277</id>
         <link href="https://v.daum.net/v/20220103050820277"/>
         <updated>2022-01-02T20:19:46.588Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세종로의 아침] 상처 입은 긴팔원숭이를 보며/손원천 문화부 선임기자]]></title>
-        <id>https://v.daum.net/v/20220103050818276</id>
-        <link href="https://v.daum.net/v/20220103050818276"/>
-        <updated>2022-01-02T20:19:46.590Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
     </entry>
 </feed>
