@@ -30,7 +30,7 @@ https://factcheckr.github.io/daumnews/all.xml
   - 50대 이상 여성: https://factcheckr.github.io/daumnews/ranking_age_50s_female.xml
   - 50대 이상 남성: https://factcheckr.github.io/daumnews/ranking_age_50s_male.xml
 
-## 팩트체크
+## [팩트체크](https://github.com/FactCheckr/daum_factcheck)
 - [언론사별 팩트체크](https://focus.daum.net/ch/news/factcheck): https://factcheckr.github.io/daum_news/factcheck.xml
 
 ---
