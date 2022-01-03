@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-01-03T12:31:23.208Z</updated>
+    <updated>2022-01-03T13:28:28.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[라오스, 새해부터 한국인 단체 관광 허용]]></title>
+        <id>https://v.daum.net/v/20220103220407087</id>
+        <link href="https://v.daum.net/v/20220103220407087"/>
+        <updated>2022-01-03T13:27:53.385Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">22:04</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[테슬라, 차량 판매 신기록 질주..주가도 7% 폭등]]></title>
+        <id>https://v.daum.net/v/20220103213941831</id>
+        <link href="https://v.daum.net/v/20220103213941831"/>
+        <updated>2022-01-03T13:27:53.386Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">21:39</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(영상)'반도체의 해' 되나..새해 삼성전자·SK하이닉스로 쏠린 눈]]></title>
         <id>https://v.daum.net/v/20220103211547530</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220103195613418"/>
         <updated>2022-01-03T11:15:55.996Z</updated>
         <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">19:56</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["북미·유럽시장 잡자" 콘솔에 눈돌린 게임사]]></title>
-        <id>https://v.daum.net/v/20220103195217358</id>
-        <link href="https://v.daum.net/v/20220103195217358"/>
-        <updated>2022-01-03T11:15:55.996Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">19:52</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연말 집콕족, OTT와 보냈다]]></title>
-        <id>https://v.daum.net/v/20220103195214356</id>
-        <link href="https://v.daum.net/v/20220103195214356"/>
-        <updated>2022-01-03T11:15:55.996Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">19:52</span>]]></content>
     </entry>
 </feed>
