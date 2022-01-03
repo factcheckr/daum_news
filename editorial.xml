@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-01-03T16:29:58.665Z</updated>
+    <updated>2022-01-03T17:28:11.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]기업분할제도 손볼 때 됐다]]></title>
+        <id>https://v.daum.net/v/20220104020502194</id>
+        <link href="https://v.daum.net/v/20220104020502194"/>
+        <updated>2022-01-03T17:27:44.344Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]사적 영역 간병, 공적 영역 편입 서둘러야]]></title>
+        <id>https://v.daum.net/v/20220104020402193</id>
+        <link href="https://v.daum.net/v/20220104020402193"/>
+        <updated>2022-01-03T17:27:44.348Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:04</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[고현곤 칼럼] 우리는 이재명·윤석열을 너무 모른다]]></title>
         <id>https://v.daum.net/v/20220104003931965</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220104001427884"/>
         <updated>2022-01-03T15:20:45.966Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이건호 칼럼] 美 델라웨어州가 부러운 이유]]></title>
-        <id>https://v.daum.net/v/20220104001401883</id>
-        <link href="https://v.daum.net/v/20220104001401883"/>
-        <updated>2022-01-03T15:20:45.967Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[천자 칼럼] '미래 전시장' 라스베이거스]]></title>
-        <id>https://v.daum.net/v/20220104001304881</id>
-        <link href="https://v.daum.net/v/20220104001304881"/>
-        <updated>2022-01-03T15:20:45.968Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:13</span>]]></content>
     </entry>
 </feed>
