@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-01-04T08:23:23.644Z</updated>
+    <updated>2022-01-04T09:19:44.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2022년 01월 04일)]]></title>
+        <id>https://v.daum.net/v/20220104173049653</id>
+        <link href="https://v.daum.net/v/20220104173049653"/>
+        <updated>2022-01-04T09:19:43.959Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[fnRASSI]장마감, 코스닥 하락 종목(에디슨EV -18.6% ↓)]]></title>
         <id>https://v.daum.net/v/20220104154604304</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220104125052734"/>
         <updated>2022-01-04T04:25:18.517Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용인 상하동 수원동마을쌍용아파트 84㎡ 4억3600만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220104124549638</id>
-        <link href="https://v.daum.net/v/20220104124549638"/>
-        <updated>2022-01-04T04:25:18.521Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:45</span>]]></content>
     </entry>
 </feed>
