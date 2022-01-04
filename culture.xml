@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2022-01-04T16:28:32.864Z</updated>
+    <updated>2022-01-04T17:27:42.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한림대동탄성심병원, ㈜파트론에서 의료비 5000만원 기부받아]]></title>
+        <id>https://v.daum.net/v/20220105020115992</id>
+        <link href="https://v.daum.net/v/20220105020115992"/>
+        <updated>2022-01-04T17:26:29.511Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">02:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中과 中道.. 실천불교와 교합불교의 치열한 논쟁]]></title>
         <id>https://v.daum.net/v/20220105012131894</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220105000455405"/>
         <updated>2022-01-04T15:18:54.635Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[집안일에 지쳐 떠난 엄마, 남은 가족은 돼지가 되고..]]></title>
-        <id>https://v.daum.net/v/20220105000409393</id>
-        <link href="https://v.daum.net/v/20220105000409393"/>
-        <updated>2022-01-04T15:18:54.637Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
     </entry>
 </feed>
