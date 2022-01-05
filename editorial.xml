@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-01-05T22:19:00.957Z</updated>
+    <updated>2022-01-05T23:19:36.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](6일 조간)]]></title>
+        <id>https://v.daum.net/v/20220106080003309</id>
+        <link href="https://v.daum.net/v/20220106080003309"/>
+        <updated>2022-01-05T23:19:12.459Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[현정택의 세상보기]새해 경제 코로나를 딛고 설까]]></title>
         <id>https://v.daum.net/v/20220106070802633</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220106050831261</id>
         <link href="https://v.daum.net/v/20220106050831261"/>
         <updated>2022-01-05T21:17:02.868Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 다시 뛰겠다는 尹, 초심 말고는 출구가 없다]]></title>
-        <id>https://v.daum.net/v/20220106050829260</id>
-        <link href="https://v.daum.net/v/20220106050829260"/>
-        <updated>2022-01-05T21:17:02.870Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
     </entry>
 </feed>
