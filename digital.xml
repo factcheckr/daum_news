@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-01-05T11:16:37.229Z</updated>
+    <updated>2022-01-05T12:30:19.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(영상)삼성전자 야심작..포터블 스크린 '더 프리스타일' 살펴보니[말랑리뷰]]]></title>
+        <id>https://v.daum.net/v/20220105211437306</id>
+        <link href="https://v.daum.net/v/20220105211437306"/>
+        <updated>2022-01-05T12:29:40.752Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">21:14</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["세바스찬, 배고파" "피자 어때?" AI 아바타 비서, 우리집 어디서나 뜬다]]></title>
+        <id>https://v.daum.net/v/20220105204026885</id>
+        <link href="https://v.daum.net/v/20220105204026885"/>
+        <updated>2022-01-05T12:29:40.753Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">20:40</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(이우상의 바이오 돋보기) 첫 투약환자 완전관해로 상한가간 유틸렉스..체크해야할 4가지]]></title>
+        <id>https://v.daum.net/v/20220105202901713</id>
+        <link href="https://v.daum.net/v/20220105202901713"/>
+        <updated>2022-01-05T12:29:40.756Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">20:29</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["우리는 주름 없다"..애플 첫 폴더블폰 예상 이미지 보니]]></title>
         <id>https://v.daum.net/v/20220105200537403</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220105193725000"/>
         <updated>2022-01-05T11:16:02.299Z</updated>
         <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">19:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['겜프야' 업데이트.. 영입확률 UP]]></title>
-        <id>https://v.daum.net/v/20220105193724999</id>
-        <link href="https://v.daum.net/v/20220105193724999"/>
-        <updated>2022-01-05T11:16:02.300Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">19:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[THE GAME- 임인년 새해맞이 업데이트] 복주머니 품은 '검은 호랑이' 내려온다.. 신규 아이템 와르르]]></title>
-        <id>https://v.daum.net/v/20220105193713996</id>
-        <link href="https://v.daum.net/v/20220105193713996"/>
-        <updated>2022-01-05T11:16:02.302Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">19:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기획] 악재 뚫은 K-조선.. 8년만에 최대수주]]></title>
-        <id>https://v.daum.net/v/20220105193646979</id>
-        <link href="https://v.daum.net/v/20220105193646979"/>
-        <updated>2022-01-05T11:16:02.303Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">19:36</span>]]></content>
     </entry>
 </feed>
