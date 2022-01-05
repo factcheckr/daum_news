@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-01-05T08:22:51.881Z</updated>
+    <updated>2022-01-05T09:19:34.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2022년 01월 05일)]]></title>
+        <id>https://v.daum.net/v/20220105173048327</id>
+        <link href="https://v.daum.net/v/20220105173048327"/>
+        <updated>2022-01-05T09:19:33.689Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[fnRASSI]장마감, 코스닥 하락 종목(휴센텍 -16.6% ↓)]]></title>
         <id>https://v.daum.net/v/20220105153732395</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220105133057074"/>
         <updated>2022-01-05T05:19:17.730Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 천천동 천천푸르지오 113㎡ 9억2000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220105132557946</id>
-        <link href="https://v.daum.net/v/20220105132557946"/>
-        <updated>2022-01-05T05:19:17.733Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:25</span>]]></content>
     </entry>
 </feed>
