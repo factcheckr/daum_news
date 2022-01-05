@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-01-05T10:20:47.158Z</updated>
+    <updated>2022-01-05T11:16:37.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] CHTF 2021 폐막 - 고품질 개발 발전 및 신규 개발 패턴 구축]]></title>
+        <id>https://v.daum.net/v/20220105200608411</id>
+        <link href="https://v.daum.net/v/20220105200608411"/>
+        <updated>2022-01-05T11:16:25.216Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:06</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[참고]  국토부, KTX 열차 탈선 관련 긴급대책회의 개최]]></title>
+        <id>https://v.daum.net/v/20220105200525400</id>
+        <link href="https://v.daum.net/v/20220105200525400"/>
+        <updated>2022-01-05T11:16:25.216Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">20:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] Atlas Renewable Energy, 환경보호 활동으로 SEAL Awards 수상]]></title>
         <id>https://v.daum.net/v/20220105181752666</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220105173527485"/>
         <updated>2022-01-05T09:19:23.446Z</updated>
         <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">17:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지난해 농수산식품 수출 100억 달러 돌파..역대 최대 기록]]></title>
-        <id>https://v.daum.net/v/20220105173509479</id>
-        <link href="https://v.daum.net/v/20220105173509479"/>
-        <updated>2022-01-05T09:19:23.447Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">17:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대교눈높이 부산 중앙교육국, 부산 중구청에 어린이 도서 기부]]></title>
-        <id>https://v.daum.net/v/20220105172802232</id>
-        <link href="https://v.daum.net/v/20220105172802232"/>
-        <updated>2022-01-05T09:19:23.448Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:28</span>]]></content>
     </entry>
 </feed>
