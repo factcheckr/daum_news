@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-01-05T04:24:53.188Z</updated>
+    <updated>2022-01-05T05:19:18.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[경제정상화와 제2의 도약]]></title>
+        <id>https://v.daum.net/v/20220105133711141</id>
+        <link href="https://v.daum.net/v/20220105133711141"/>
+        <updated>2022-01-05T05:18:56.115Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">13:37</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[기자수첩]본업 않는 공무원 급여도 세금으로 주나]]></title>
         <id>https://v.daum.net/v/20220105120031679</id>
@@ -48,7 +55,7 @@
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:50</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['박근혜 메시지' 집착한 MBN, 팩트 틀린 앵커 바로잡는 진행자]]></title>
+        <title type="html"><![CDATA['박근혜 메시지' 집착한 MBN, 팩트 틀린 앵커 바로잡는 출연자]]></title>
         <id>https://v.daum.net/v/20220105114007847</id>
         <link href="https://v.daum.net/v/20220105114007847"/>
         <updated>2022-01-05T03:19:48.752Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220105110814957"/>
         <updated>2022-01-05T02:14:10.371Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시시비비] 검찰·공수처 수사와 대선]]></title>
-        <id>https://v.daum.net/v/20220105110110590</id>
-        <link href="https://v.daum.net/v/20220105110110590"/>
-        <updated>2022-01-05T02:14:10.372Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:01</span>]]></content>
     </entry>
 </feed>
