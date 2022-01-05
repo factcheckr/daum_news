@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-01-05T05:19:18.290Z</updated>
+    <updated>2022-01-05T06:24:49.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투자의 창] 대전환기 맞은 퇴직연금]]></title>
+        <id>https://v.daum.net/v/20220105142942395</id>
+        <link href="https://v.daum.net/v/20220105142942395"/>
+        <updated>2022-01-05T06:24:26.762Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">14:29</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[명의칼럼]건강에 나쁜 습관과 휜 다리]]></title>
+        <id>https://v.daum.net/v/20220105142310069</id>
+        <link href="https://v.daum.net/v/20220105142310069"/>
+        <updated>2022-01-05T06:24:26.763Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">14:23</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경제정상화와 제2의 도약]]></title>
         <id>https://v.daum.net/v/20220105133711141</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220105111415307"/>
         <updated>2022-01-05T03:19:48.757Z</updated>
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 코로나 추경 편성하려면 소상공인 손실보전 용도라야]]></title>
-        <id>https://v.daum.net/v/20220105110817961</id>
-        <link href="https://v.daum.net/v/20220105110817961"/>
-        <updated>2022-01-05T02:14:10.370Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 인니 석탄수출 금지, 연초부터 불거지는 원자재 리스크]]></title>
-        <id>https://v.daum.net/v/20220105110814957</id>
-        <link href="https://v.daum.net/v/20220105110814957"/>
-        <updated>2022-01-05T02:14:10.371Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:08</span>]]></content>
     </entry>
 </feed>
