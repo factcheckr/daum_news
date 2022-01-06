@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2022-01-06T16:29:10.479Z</updated>
+    <updated>2022-01-06T17:27:58.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤석열·이준석 극적 화해 "같이 뼈를 묻기로..선거 승리"]]></title>
+        <id>https://v.daum.net/v/20220107015810485</id>
+        <link href="https://v.daum.net/v/20220107015810485"/>
+        <updated>2022-01-06T17:26:35.630Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">01:58</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['경계 실패' 합참, 작전 지휘관 회의..소리·레이더 연동 AI로 보완]]></title>
         <id>https://v.daum.net/v/20220107012510395</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220107002102022</id>
         <link href="https://v.daum.net/v/20220107002102022"/>
         <updated>2022-01-06T16:27:28.031Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尹, 수도권 광역교통망 공약 발표..대장동 주민 만나]]></title>
-        <id>https://v.daum.net/v/20220107002102021</id>
-        <link href="https://v.daum.net/v/20220107002102021"/>
-        <updated>2022-01-06T16:27:28.032Z</updated>
         <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:21</span>]]></content>
     </entry>
 </feed>
