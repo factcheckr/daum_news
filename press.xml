@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-01-06T10:21:08.040Z</updated>
+    <updated>2022-01-06T11:16:57.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대교어린이TV '10기 전속성우' 공개 모집]]></title>
+        <id>https://v.daum.net/v/20220106192414067</id>
+        <link href="https://v.daum.net/v/20220106192414067"/>
+        <updated>2022-01-06T11:16:45.158Z</updated>
+        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">19:24</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[보건복지부-시민사회단체, 의료분쟁조정 자동 개시 대상 의료사고 확대 등 논의]]></title>
         <id>https://v.daum.net/v/20220106183529333</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220106173527875</id>
         <link href="https://v.daum.net/v/20220106173527875"/>
         <updated>2022-01-06T09:19:40.669Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">17:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국민 모두가 공평하게 누리는 우리 바다를 향해]]></title>
-        <id>https://v.daum.net/v/20220106173526874</id>
-        <link href="https://v.daum.net/v/20220106173526874"/>
-        <updated>2022-01-06T09:19:40.670Z</updated>
         <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">17:35</span>]]></content>
     </entry>
 </feed>
