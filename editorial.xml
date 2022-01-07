@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-01-07T09:19:27.408Z</updated>
+    <updated>2022-01-07T10:21:45.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사설] 선거 분위기 틈탄 '비리 의혹' 정치인 복귀, 국민이 용납 않는다]]></title>
+        <id>https://v.daum.net/v/20220107191608325</id>
+        <link href="https://v.daum.net/v/20220107191608325"/>
+        <updated>2022-01-07T10:21:20.356Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:16</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사설] '0.00002% 꼼수'로 일감몰아주기 규제 또 피한 현대차 대주주]]></title>
+        <id>https://v.daum.net/v/20220107183604830</id>
+        <link href="https://v.daum.net/v/20220107183604830"/>
+        <updated>2022-01-07T10:21:20.358Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">18:36</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신도시 지반침하, 재난은 예고 없이 발생하지 않는다]]></title>
         <id>https://v.daum.net/v/20220107180506392</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220107162406065"/>
         <updated>2022-01-07T08:22:37.147Z</updated>
         <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">16:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새해엔 생각만 하지말고 일단 저지르자]]></title>
-        <id>https://v.daum.net/v/20220107160606671</id>
-        <link href="https://v.daum.net/v/20220107160606671"/>
-        <updated>2022-01-07T07:18:47.200Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">16:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스파이더맨과 소니의 부활이 의미하는 것들]]></title>
-        <id>https://v.daum.net/v/20220107160116555</id>
-        <link href="https://v.daum.net/v/20220107160116555"/>
-        <updated>2022-01-07T07:18:47.201Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">16:01</span>]]></content>
     </entry>
 </feed>
