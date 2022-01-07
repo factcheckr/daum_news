@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-01-07T13:27:02.781Z</updated>
+    <updated>2022-01-07T14:17:57.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사막 달리는 자율주행 카레이싱 대회..아시아 유일 KAIST팀 출전]]></title>
+        <id>https://v.daum.net/v/20220107224800803</id>
+        <link href="https://v.daum.net/v/20220107224800803"/>
+        <updated>2022-01-07T14:17:27.771Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">22:48</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['에너지 하베스팅 기술'로 감전사고 막는다]]></title>
         <id>https://v.daum.net/v/20220107222035680</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220107195019798"/>
         <updated>2022-01-07T11:15:48.701Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">19:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["삼성, 골치 아프겠네 " 중국 우르르 베끼더니, 가격 공세]]></title>
-        <id>https://v.daum.net/v/20220107194707726</id>
-        <link href="https://v.daum.net/v/20220107194707726"/>
-        <updated>2022-01-07T11:15:48.703Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">19:47</span>]]></content>
     </entry>
 </feed>
