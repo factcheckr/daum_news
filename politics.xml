@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2022-01-08T16:28:01.621Z</updated>
+    <updated>2022-01-08T17:26:03.433Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이재명 "환경공무관 명칭 확대..골프장 운영 건전화"]]></title>
+        <id>https://v.daum.net/v/20220109022356766</id>
+        <link href="https://v.daum.net/v/20220109022356766"/>
+        <updated>2022-01-08T17:24:37.623Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV<span class="txt_bar"> · </span><span class="info_time">02:23</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연초부터 미사일 시험 나선 북한..무력시위 계속할 듯]]></title>
         <id>https://v.daum.net/v/20220109012212675</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220109000005391"/>
         <updated>2022-01-08T15:17:34.721Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[野 "'이재명 임명장' 받은 인물이 댓글조작"]]></title>
-        <id>https://v.daum.net/v/20220109000002387</id>
-        <link href="https://v.daum.net/v/20220109000002387"/>
-        <updated>2022-01-08T15:17:34.723Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>

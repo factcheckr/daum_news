@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2022-01-08T16:28:01.623Z</updated>
+    <updated>2022-01-08T17:26:03.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엔하이픈, 리패키지 앨범 선주문량 63만장]]></title>
+        <id>https://v.daum.net/v/20220109020007757</id>
+        <link href="https://v.daum.net/v/20220109020007757"/>
+        <updated>2022-01-08T17:25:16.580Z</updated>
+        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">02:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['지헤중' 송혜교, "네 우산 덕분에 할 수 있던 게 많아, 고마워" 최희서에 진심 전해]]></title>
+        <id>https://v.daum.net/v/20220109015400743</id>
+        <link href="https://v.daum.net/v/20220109015400743"/>
+        <updated>2022-01-08T17:25:16.581Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스<span class="txt_bar"> · </span><span class="info_time">01:54</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박하선, 손목에 '560만원' 시계 두르고..올 블랙 룩 "어디 거?"]]></title>
+        <id>https://v.daum.net/v/20220109015202728</id>
+        <link href="https://v.daum.net/v/20220109015202728"/>
+        <updated>2022-01-08T17:25:16.590Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">01:52</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[권율, 조진웅과 티격태격 친형제 '케미' (전참시) [종합]]]></title>
         <id>https://v.daum.net/v/20220109011002669</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220109003702579"/>
         <updated>2022-01-08T16:26:59.964Z</updated>
         <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">00:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['트레이서' 임시완, 고아성과 공조→썩어 빠진 윗선에 반기 "이의 있습니다" [종합]]]></title>
-        <id>https://v.daum.net/v/20220109003700578</id>
-        <link href="https://v.daum.net/v/20220109003700578"/>
-        <updated>2022-01-08T16:26:59.965Z</updated>
-        <content type="html"><![CDATA[TV리포트<span class="txt_bar"> · </span><span class="info_time">00:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['세븐♥' 이다해, 중국 SNS 스타 활약 "조회수 8000만" 감탄(전참시)[종합]]]></title>
-        <id>https://v.daum.net/v/20220109003652577</id>
-        <link href="https://v.daum.net/v/20220109003652577"/>
-        <updated>2022-01-08T16:26:59.966Z</updated>
-        <content type="html"><![CDATA[OSEN<span class="txt_bar"> · </span><span class="info_time">00:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['전지적 참견 시점' 권율, 10년 지기 절친 소개 "조진웅과는 '톰과 제리'"]]></title>
-        <id>https://v.daum.net/v/20220109003151575</id>
-        <link href="https://v.daum.net/v/20220109003151575"/>
-        <updated>2022-01-08T16:26:59.967Z</updated>
-        <content type="html"><![CDATA[MBC연예<span class="txt_bar"> · </span><span class="info_time">00:31</span>]]></content>
     </entry>
 </feed>
