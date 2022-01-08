@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-01-07T23:19:44.611Z</updated>
+    <updated>2022-01-08T00:59:16.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정치 권력으로 막대한 경제적 부를 일구는 마술]]></title>
+        <id>https://v.daum.net/v/20220108090017756</id>
+        <link href="https://v.daum.net/v/20220108090017756"/>
+        <updated>2022-01-08T00:58:53.328Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">09:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이재명의 모든 것]]></title>
+        <id>https://v.daum.net/v/20220108083005540</id>
+        <link href="https://v.daum.net/v/20220108083005540"/>
+        <updated>2022-01-08T00:58:53.329Z</updated>
+        <content type="html"><![CDATA[우먼센스<span class="txt_bar"> · </span><span class="info_time">08:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[의심받던 팀쿡의 애플이 승승장구하는 비결[113]]]></title>
         <id>https://v.daum.net/v/20220108080344383</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220108040303919"/>
         <updated>2022-01-07T21:16:14.859Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 대장동 수사, 이대로 끝내서는 안 된다]]></title>
-        <id>https://v.daum.net/v/20220108040159912</id>
-        <link href="https://v.daum.net/v/20220108040159912"/>
-        <updated>2022-01-07T21:16:14.860Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] '권순일 재판 거래' 의혹 뭉개려 폭탄 돌리기 하는 검경]]></title>
-        <id>https://v.daum.net/v/20220108032721887</id>
-        <link href="https://v.daum.net/v/20220108032721887"/>
-        <updated>2022-01-07T21:16:14.862Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:27</span>]]></content>
     </entry>
 </feed>
