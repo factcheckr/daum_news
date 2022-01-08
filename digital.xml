@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-01-08T13:25:43.252Z</updated>
+    <updated>2022-01-08T14:17:16.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[청각 장애인도 국악 즐긴다.."촉각으로 음정 감지"]]></title>
+        <id>https://v.daum.net/v/20220108225215142</id>
+        <link href="https://v.daum.net/v/20220108225215142"/>
+        <updated>2022-01-08T14:16:40.445Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">22:52</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사람 없이도 시속 270km..자율주행 레이싱 대회 열려]]></title>
+        <id>https://v.daum.net/v/20220108224912108</id>
+        <link href="https://v.daum.net/v/20220108224912108"/>
+        <updated>2022-01-08T14:16:40.446Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">22:49</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[CES 2022]<결산좌담회>메타버스·탄소중립 화두 제시..기술지형 변화 대응 서둘러야]]></title>
+        <id>https://v.daum.net/v/20220108223604046</id>
+        <link href="https://v.daum.net/v/20220108223604046"/>
+        <updated>2022-01-08T14:16:40.447Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">22:36</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1억도 플라스마 300초 목표..핵융합 실험 장치 보강]]></title>
         <id>https://v.daum.net/v/20220108214243633</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220108183224969"/>
         <updated>2022-01-08T10:19:49.680Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">18:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카카오에 설 자리 잃은 티맵..돌파구로 미들마일 물류 1,000억 '베팅']]></title>
-        <id>https://v.daum.net/v/20220108182020863</id>
-        <link href="https://v.daum.net/v/20220108182020863"/>
-        <updated>2022-01-08T10:19:49.681Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">18:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연예인도 아닌데, 자꾸만 보게 된다..게임사들이 요새 미는 '이것' [더 테크웨이브]]]></title>
-        <id>https://v.daum.net/v/20220108175400557</id>
-        <link href="https://v.daum.net/v/20220108175400557"/>
-        <updated>2022-01-08T09:18:24.192Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:54</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제페토는 시작일뿐?..새로운 K-메타버스 속속 몰려온다]]></title>
-        <id>https://v.daum.net/v/20220108175101530</id>
-        <link href="https://v.daum.net/v/20220108175101530"/>
-        <updated>2022-01-08T09:18:24.193Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">17:51</span>]]></content>
     </entry>
 </feed>
