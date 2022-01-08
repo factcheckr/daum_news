@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-01-08T10:20:15.436Z</updated>
+    <updated>2022-01-08T11:16:16.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美 캘리포니아, 고립된 고령층 위해 나선 동포사회]]></title>
+        <id>https://v.daum.net/v/20220108195234804</id>
+        <link href="https://v.daum.net/v/20220108195234804"/>
+        <updated>2022-01-08T11:15:53.440Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">19:52</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이탈리아 확진자 폭증에도 일상회복에 무게?]]></title>
+        <id>https://v.daum.net/v/20220108195222800</id>
+        <link href="https://v.daum.net/v/20220108195222800"/>
+        <updated>2022-01-08T11:15:53.442Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">19:52</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이명호의 미래당겨보기]한국의 미래를 위한 과제]]></title>
         <id>https://v.daum.net/v/20220108165821655</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220108073102130"/>
         <updated>2022-01-07T23:19:22.227Z</updated>
         <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">07:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[심석희 법적 대응과 올림픽, 그리고 케미 [김윤일의 역주행]]]></title>
-        <id>https://v.daum.net/v/20220108070034917</id>
-        <link href="https://v.daum.net/v/20220108070034917"/>
-        <updated>2022-01-07T23:19:22.229Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[생존을 위한 한 걸음 [쿠키청년기자단]]]></title>
-        <id>https://v.daum.net/v/20220108061901674</id>
-        <link href="https://v.daum.net/v/20220108061901674"/>
-        <updated>2022-01-07T23:19:22.231Z</updated>
-        <content type="html"><![CDATA[쿠키뉴스<span class="txt_bar"> · </span><span class="info_time">06:19</span>]]></content>
     </entry>
 </feed>
