@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-01-09T06:22:51.639Z</updated>
+    <updated>2022-01-09T07:17:44.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주간 주요 방역지표 동향 분석(1.2.~1.8.)]]></title>
+        <id>https://v.daum.net/v/20220109153528423</id>
+        <link href="https://v.daum.net/v/20220109153528423"/>
+        <updated>2022-01-09T07:17:36.351Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">15:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국전력, 안전사고 근절 위한 특별대책 발표]]></title>
         <id>https://v.daum.net/v/20220109151702061</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220109120519220"/>
         <updated>2022-01-09T03:20:56.754Z</updated>
         <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">12:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설 택배 특별관리기간 한달간 운영 .. 인력 1만명 투입]]></title>
-        <id>https://v.daum.net/v/20220109113526678</id>
-        <link href="https://v.daum.net/v/20220109113526678"/>
-        <updated>2022-01-09T03:20:56.757Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">11:35</span>]]></content>
     </entry>
 </feed>
