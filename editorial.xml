@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-01-09T16:27:48.255Z</updated>
+    <updated>2022-01-09T17:26:23.502Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박종면칼럼]2022, 당신은 보석입니다]]></title>
+        <id>https://v.daum.net/v/20220110020502450</id>
+        <link href="https://v.daum.net/v/20220110020502450"/>
+        <updated>2022-01-09T17:25:59.968Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이하경 칼럼] 국민을 능멸한 3류 정치의 종착역]]></title>
         <id>https://v.daum.net/v/20220110004234247</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220110001621114"/>
         <updated>2022-01-09T15:18:55.915Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 고용시장 개입 커질수록 부작용도 커진다]]></title>
-        <id>https://v.daum.net/v/20220110001604113</id>
-        <link href="https://v.daum.net/v/20220110001604113"/>
-        <updated>2022-01-09T15:18:55.915Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:16</span>]]></content>
     </entry>
 </feed>
