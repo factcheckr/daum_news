@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-01-10T12:30:31.841Z</updated>
+    <updated>2022-01-10T13:28:05.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022년 1월 11일 [김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20220110220122602</id>
+        <link href="https://v.daum.net/v/20220110220122602"/>
+        <updated>2022-01-10T13:27:46.453Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세계 195개국을 모두 다녀온 첫 흑인 여성 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20220110220050597</id>
+        <link href="https://v.daum.net/v/20220110220050597"/>
+        <updated>2022-01-10T13:27:46.453Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오병상의 코멘터리] 정용진의 멸공, 위험한 정치였다]]></title>
         <id>https://v.daum.net/v/20220110212139169</id>
@@ -13,7 +27,7 @@
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">21:21</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[사설]한국 콘텐츠의 또 다른 개가, 오영수의 골든글로브 수상]]></title>
+        <title type="html"><![CDATA[[사설]K콘텐츠의 또 다른 개가, '오겜' 오영수의 골든글로브 수상]]></title>
         <id>https://v.daum.net/v/20220110205505846</id>
         <link href="https://v.daum.net/v/20220110205505846"/>
         <updated>2022-01-10T12:30:07.150Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220110194602013"/>
         <updated>2022-01-10T11:16:35.769Z</updated>
         <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:46</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 1월 11일 [오늘의 운세 나침반]]]></title>
-        <id>https://v.daum.net/v/20220110190108432</id>
-        <link href="https://v.daum.net/v/20220110190108432"/>
-        <updated>2022-01-10T10:21:07.736Z</updated>
-        <content type="html"><![CDATA[스포츠경향<span class="txt_bar"> · </span><span class="info_time">19:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안재승 칼럼] 판사는 전지전능한가]]></title>
-        <id>https://v.daum.net/v/20220110185617354</id>
-        <link href="https://v.daum.net/v/20220110185617354"/>
-        <updated>2022-01-10T10:21:07.737Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">18:56</span>]]></content>
     </entry>
 </feed>
