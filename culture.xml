@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2022-01-10T16:29:14.699Z</updated>
+    <updated>2022-01-10T17:28:30.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[HAPPY NEW YEAR]]></title>
+        <id>https://v.daum.net/v/20220111014501860</id>
+        <link href="https://v.daum.net/v/20220111014501860"/>
+        <updated>2022-01-10T17:27:31.672Z</updated>
+        <content type="html"><![CDATA[럭셔리<span class="txt_bar"> · </span><span class="info_time">01:45</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['하데스타운' 대상 "봄이 오는 그날까지 노래하겠다"[제6회 한국뮤지컬어워즈]]]></title>
+        <id>https://v.daum.net/v/20220111013304836</id>
+        <link href="https://v.daum.net/v/20220111013304836"/>
+        <updated>2022-01-10T17:27:31.672Z</updated>
+        <content type="html"><![CDATA[MBN<span class="txt_bar"> · </span><span class="info_time">01:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[눈 걷어내고 만드는 길]]></title>
         <id>https://v.daum.net/v/20220111011504789</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220111000825503"/>
         <updated>2022-01-10T15:19:22.916Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[골든글로브 쥔 오영수 "내게 괜찮은 놈이라 말하고 싶다"]]></title>
-        <id>https://v.daum.net/v/20220111000746495</id>
-        <link href="https://v.daum.net/v/20220111000746495"/>
-        <updated>2022-01-10T15:19:22.917Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["5차 유행, 소아·청소년 노린다".. 위험도는 7주 만에 하향]]></title>
-        <id>https://v.daum.net/v/20220111000604487</id>
-        <link href="https://v.daum.net/v/20220111000604487"/>
-        <updated>2022-01-10T15:19:22.918Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
     </entry>
 </feed>

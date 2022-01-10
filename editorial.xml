@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-01-10T16:29:14.715Z</updated>
+    <updated>2022-01-10T17:28:30.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]산업 성장기 인수합병을 생각하며]]></title>
+        <id>https://v.daum.net/v/20220111020801905</id>
+        <link href="https://v.daum.net/v/20220111020801905"/>
+        <updated>2022-01-10T17:28:10.139Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:08</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]능력주의 함정을 어떻게 극복할 것인가]]></title>
+        <id>https://v.daum.net/v/20220111020402894</id>
+        <link href="https://v.daum.net/v/20220111020402894"/>
+        <updated>2022-01-10T17:28:10.142Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:04</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중앙시평] 올해 가장 중요한 트렌드는 '퀀텀 리더십']]></title>
         <id>https://v.daum.net/v/20220111011124770</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220111003028607"/>
         <updated>2022-01-10T16:28:51.921Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한 컷] 꽃으로 사랑을 전해요]]></title>
-        <id>https://v.daum.net/v/20220111002818602</id>
-        <link href="https://v.daum.net/v/20220111002818602"/>
-        <updated>2022-01-10T16:28:51.921Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:28</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[천자 칼럼] '바다 위 테슬라' 경쟁]]></title>
-        <id>https://v.daum.net/v/20220111001902566</id>
-        <link href="https://v.daum.net/v/20220111001902566"/>
-        <updated>2022-01-10T15:20:08.704Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:19</span>]]></content>
     </entry>
 </feed>
