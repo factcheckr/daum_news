@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-01-11T16:28:56.803Z</updated>
+    <updated>2022-01-11T17:28:55.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나19 재확산에도 '위드 코로나' 계속 가는 두바이]]></title>
+        <id>https://v.daum.net/v/20220112021347519</id>
+        <link href="https://v.daum.net/v/20220112021347519"/>
+        <updated>2022-01-11T17:28:32.444Z</updated>
+        <content type="html"><![CDATA[기자협회보<span class="txt_bar"> · </span><span class="info_time">02:13</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]국가 필수전략기술, 기술패권으로 가는 길]]></title>
+        <id>https://v.daum.net/v/20220112020501489</id>
+        <link href="https://v.daum.net/v/20220112020501489"/>
+        <updated>2022-01-11T17:28:32.446Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정유신의 China Story]공동부유 핵심, 도농·지역간 소득격차 해소 '암초']]></title>
+        <id>https://v.daum.net/v/20220112020301481</id>
+        <link href="https://v.daum.net/v/20220112020301481"/>
+        <updated>2022-01-11T17:28:32.453Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중앙시평] 사라진 민주공화국 : 시위공화국 대한민국]]></title>
         <id>https://v.daum.net/v/20220112005139113</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220112002356955"/>
         <updated>2022-01-11T16:28:33.302Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:23</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한 컷] 철모르는 홍매화]]></title>
-        <id>https://v.daum.net/v/20220112002226946</id>
-        <link href="https://v.daum.net/v/20220112002226946"/>
-        <updated>2022-01-11T16:28:33.303Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 북한 마하 10 극초음속 미사일 발사에도 안이한 정부]]></title>
-        <id>https://v.daum.net/v/20220112001022857</id>
-        <link href="https://v.daum.net/v/20220112001022857"/>
-        <updated>2022-01-11T15:20:33.961Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[윤성민의 논점과 관점] 한국 없이는 못 사는 세상]]></title>
-        <id>https://v.daum.net/v/20220112001002854</id>
-        <link href="https://v.daum.net/v/20220112001002854"/>
-        <updated>2022-01-11T15:20:33.963Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
     </entry>
 </feed>
