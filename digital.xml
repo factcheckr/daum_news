@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-01-12T13:27:50.378Z</updated>
+    <updated>2022-01-12T14:18:07.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["KT IPTV, 58분만에 복구돼 보상 어렵다"..소비자 분통, 약관 개정 탄력]]></title>
+        <id>https://v.daum.net/v/20220112225515835</id>
+        <link href="https://v.daum.net/v/20220112225515835"/>
+        <updated>2022-01-12T14:17:30.276Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">22:55</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부음] 박진용 뉴시스 전무 모친상]]></title>
+        <id>https://v.daum.net/v/20220112224818780</id>
+        <link href="https://v.daum.net/v/20220112224818780"/>
+        <updated>2022-01-12T14:17:30.277Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">22:48</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장현국 위메이드 대표 "황금알 낳는 거위 배 가를 이유 없다"]]></title>
         <id>https://v.daum.net/v/20220112222608602</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220112205150178"/>
         <updated>2022-01-12T12:30:01.620Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">20:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["코로나19, 65세 이상 진짜 치명적" 실험으로 입증 됐다]]></title>
-        <id>https://v.daum.net/v/20220112204651076</id>
-        <link href="https://v.daum.net/v/20220112204651076"/>
-        <updated>2022-01-12T12:30:01.620Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">20:46</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(영상)K배터리, 2025년까지 미국내 설비 비중 10→70%로 확대]]></title>
-        <id>https://v.daum.net/v/20220112200106249</id>
-        <link href="https://v.daum.net/v/20220112200106249"/>
-        <updated>2022-01-12T11:16:09.861Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">20:01</span>]]></content>
     </entry>
 </feed>
