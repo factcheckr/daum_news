@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-01-13T07:19:20.154Z</updated>
+    <updated>2022-01-13T08:23:37.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가상화폐 메디블록 74.8원(+23.23%) 거래중]]></title>
+        <id>https://v.daum.net/v/20220113163117821</id>
+        <link href="https://v.daum.net/v/20220113163117821"/>
+        <updated>2022-01-13T08:23:37.362Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">16:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[fnRASSI]장마감, 코스닥 하락 종목(메드팩토 -27.5% ↓)]]></title>
         <id>https://v.daum.net/v/20220113154233618</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220113132053864"/>
         <updated>2022-01-13T04:24:35.448Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 하동 광교호수마을참누리LAKE 84㎡ 11억8000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220113131558767</id>
-        <link href="https://v.daum.net/v/20220113131558767"/>
-        <updated>2022-01-13T04:24:35.449Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:15</span>]]></content>
     </entry>
 </feed>
