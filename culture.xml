@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2022-01-13T16:29:37.233Z</updated>
+    <updated>2022-01-13T17:29:23.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ESPRESSO, PLEASE]]></title>
+        <id>https://v.daum.net/v/20220114014500811</id>
+        <link href="https://v.daum.net/v/20220114014500811"/>
+        <updated>2022-01-13T17:28:07.626Z</updated>
+        <content type="html"><![CDATA[럭셔리<span class="txt_bar"> · </span><span class="info_time">01:45</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대관령겨울음악제 개최.. 18일부터 20일까지 사흘간]]></title>
         <id>https://v.daum.net/v/20220114010940682</id>
@@ -90,7 +97,7 @@
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[백종현의 여기 어디?] 송혜교 열차신, 정해인 추격신..부산은 1년내내 촬영 중]]></title>
+        <title type="html"><![CDATA[송혜교 열차신, 정해인 추격신..부산은 1년내내 촬영 중]]></title>
         <id>https://v.daum.net/v/20220114000344312</id>
         <link href="https://v.daum.net/v/20220114000344312"/>
         <updated>2022-01-13T15:19:14.265Z</updated>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220114000330305</id>
         <link href="https://v.daum.net/v/20220114000330305"/>
         <updated>2022-01-13T15:19:14.266Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 날씨] 1월 14일]]></title>
-        <id>https://v.daum.net/v/20220114000323302</id>
-        <link href="https://v.daum.net/v/20220114000323302"/>
-        <updated>2022-01-13T15:19:14.267Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
     </entry>
 </feed>
