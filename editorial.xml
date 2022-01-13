@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-01-13T22:19:12.168Z</updated>
+    <updated>2022-01-13T23:20:12.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[우보세]어떻게 혁신인재를 얻을 것인가]]></title>
+        <id>https://v.daum.net/v/20220114074302507</id>
+        <link href="https://v.daum.net/v/20220114074302507"/>
+        <updated>2022-01-13T23:19:46.443Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">07:43</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['코로나에도 호실적' 은행권, 올해 과제는 [MT시평]]]></title>
         <id>https://v.daum.net/v/20220114071001164</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220114053110001"/>
         <updated>2022-01-13T21:16:54.090Z</updated>
         <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Editorial] Surveillance in its DNA]]></title>
-        <id>https://v.daum.net/v/20220114053045991</id>
-        <link href="https://v.daum.net/v/20220114053045991"/>
-        <updated>2022-01-13T21:16:54.091Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
     </entry>
 </feed>
