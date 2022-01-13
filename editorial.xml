@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-01-13T03:21:57.656Z</updated>
+    <updated>2022-01-13T04:24:36.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[최지혜의 트렌드 와치] 워케이션, 당신은 어디에서 일하고 계십니까]]></title>
+        <id>https://v.daum.net/v/20220113125010284</id>
+        <link href="https://v.daum.net/v/20220113125010284"/>
+        <updated>2022-01-13T04:24:12.133Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">12:50</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[현장연결] 이재명 "필요한 추가 주택 공급..일부 공공주택 활용"]]></title>
         <id>https://v.daum.net/v/20220113122105771</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220113111810242"/>
         <updated>2022-01-13T03:21:34.198Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데스크칼럼] 주주홀대..자본시장의 불길한 조짐들]]></title>
-        <id>https://v.daum.net/v/20220113111603145</id>
-        <link href="https://v.daum.net/v/20220113111603145"/>
-        <updated>2022-01-13T02:16:15.475Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:16</span>]]></content>
     </entry>
 </feed>
