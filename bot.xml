@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-01-13T06:22:43.909Z</updated>
+    <updated>2022-01-13T07:19:20.154Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[fnRASSI]장마감, 코스닥 하락 종목(메드팩토 -27.5% ↓)]]></title>
+        <id>https://v.daum.net/v/20220113154233618</id>
+        <link href="https://v.daum.net/v/20220113154233618"/>
+        <updated>2022-01-13T07:19:19.495Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:42</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[fnRASSI]장마감, 코스닥 상승 종목(캐스텍코리아 30.0% ↑)]]></title>
+        <id>https://v.daum.net/v/20220113154229615</id>
+        <link href="https://v.daum.net/v/20220113154229615"/>
+        <updated>2022-01-13T07:19:19.497Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:42</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[fnRASSI]장마감, 거래소 하락 종목(덕성우 -7.4% ↓)]]></title>
+        <id>https://v.daum.net/v/20220113154225614</id>
+        <link href="https://v.daum.net/v/20220113154225614"/>
+        <updated>2022-01-13T07:19:19.497Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:42</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[fnRASSI]장마감, 거래소 상승 종목(퍼스텍 29.9% ↑)]]></title>
+        <id>https://v.daum.net/v/20220113154220609</id>
+        <link href="https://v.daum.net/v/20220113154220609"/>
+        <updated>2022-01-13T07:19:19.498Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:42</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[fnRASSI]퍼스텍, 대보마그네틱 등 26종목 52주 신고가 경신]]></title>
+        <id>https://v.daum.net/v/20220113154216607</id>
+        <link href="https://v.daum.net/v/20220113154216607"/>
+        <updated>2022-01-13T07:19:19.499Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:42</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[fnRASSI]오늘의 상한가, 캐스텍코리아 30.0% ↑]]></title>
+        <id>https://v.daum.net/v/20220113154210604</id>
+        <link href="https://v.daum.net/v/20220113154210604"/>
+        <updated>2022-01-13T07:19:19.502Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:42</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부산 개금동 개금현대I아파트 74㎡ 3억2300만원.. 역대 최고가]]></title>
         <id>https://v.daum.net/v/20220113135550907</id>
@@ -67,47 +109,5 @@
         <link href="https://v.daum.net/v/20220113131558767"/>
         <updated>2022-01-13T04:24:35.449Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성남 정자동 정자한솔마을주공5차 51㎡ 9억1000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220113131052649</id>
-        <link href="https://v.daum.net/v/20220113131052649"/>
-        <updated>2022-01-13T04:24:35.455Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 조원동 조원주공뉴타운2단지 59㎡ 4억5250만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220113130554585</id>
-        <link href="https://v.daum.net/v/20220113130554585"/>
-        <updated>2022-01-13T04:24:35.457Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고양 마두동 마두백마마을5단지쌍용한성 70㎡ 5억9000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220113130052498</id>
-        <link href="https://v.daum.net/v/20220113130052498"/>
-        <updated>2022-01-13T04:24:35.458Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 영통동 영통벽적골두산한신 59㎡ 5억6500만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220113125550389</id>
-        <link href="https://v.daum.net/v/20220113125550389"/>
-        <updated>2022-01-13T04:24:35.459Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:55</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 송도동 송도 SK VIEW 아파트 84㎡ 9억6500만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220113125053300</id>
-        <link href="https://v.daum.net/v/20220113125053300"/>
-        <updated>2022-01-13T04:24:35.461Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 송도동 송도글로벌캠퍼스푸르지오 94㎡ 11억2000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220113124550206</id>
-        <link href="https://v.daum.net/v/20220113124550206"/>
-        <updated>2022-01-13T04:24:35.461Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:45</span>]]></content>
     </entry>
 </feed>
