@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-01-14T08:24:01.032Z</updated>
+    <updated>2022-01-14T09:20:11.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2022년 01월 14일)]]></title>
+        <id>https://v.daum.net/v/20220114173047660</id>
+        <link href="https://v.daum.net/v/20220114173047660"/>
+        <updated>2022-01-14T09:20:10.827Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[fnRASSI]장마감, 코스닥 하락 종목(아진엑스텍 -14.1% ↓)]]></title>
         <id>https://v.daum.net/v/20220114155619725</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220114131058833"/>
         <updated>2022-01-14T04:24:43.684Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용인 상현동 광교상록자이 59㎡ 10억4800만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220114130551736</id>
-        <link href="https://v.daum.net/v/20220114130551736"/>
-        <updated>2022-01-14T04:24:43.685Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:05</span>]]></content>
     </entry>
 </feed>
