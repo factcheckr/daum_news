@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2022-01-14T16:26:05.978Z</updated>
+    <updated>2022-01-14T17:26:56.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[핌코도 가세..가수 음악판권 인수 경쟁 가열]]></title>
+        <id>https://v.daum.net/v/20220115020004935</id>
+        <link href="https://v.daum.net/v/20220115020004935"/>
+        <updated>2022-01-14T17:25:20.726Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">02:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[농협사료, 2022년 사업추진 결의대회 개최]]></title>
         <id>https://v.daum.net/v/20220115011518898</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220115010135850"/>
         <updated>2022-01-14T16:24:25.863Z</updated>
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[머스크가 도지코인 '800층 사람들' 구조하는 날 올까 [임현우의 비트코인 나우]]]></title>
-        <id>https://v.daum.net/v/20220115010102846</id>
-        <link href="https://v.daum.net/v/20220115010102846"/>
-        <updated>2022-01-14T16:24:25.864Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">01:01</span>]]></content>
     </entry>
 </feed>
