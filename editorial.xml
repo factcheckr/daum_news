@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-01-14T10:21:17.901Z</updated>
+    <updated>2022-01-14T11:17:12.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[fn사설] 또 오른 금리, 이자 부담에 서민 허리 휠라]]></title>
+        <id>https://v.daum.net/v/20220114194600993</id>
+        <link href="https://v.daum.net/v/20220114194600993"/>
+        <updated>2022-01-14T11:16:47.083Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">19:46</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 거리두기 3주 연장, '오미크론 태풍'에 철저히 대비해야]]></title>
         <id>https://v.daum.net/v/20220114184604208</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220114135449815"/>
         <updated>2022-01-14T05:19:39.300Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">13:54</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[빵 굽는 타자기] '그냥 해'는 이젠 안 통해.. 모든 과정의 혁신이 필요]]></title>
-        <id>https://v.daum.net/v/20220114135036734</id>
-        <link href="https://v.daum.net/v/20220114135036734"/>
-        <updated>2022-01-14T05:19:39.301Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">13:50</span>]]></content>
     </entry>
 </feed>
