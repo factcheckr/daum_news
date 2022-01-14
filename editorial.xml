@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-01-14T12:29:20.407Z</updated>
+    <updated>2022-01-14T13:27:30.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[위문편지 유감 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20220114220048610</id>
+        <link href="https://v.daum.net/v/20220114220048610"/>
+        <updated>2022-01-14T13:27:07.380Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 방역패스 일부 정지, 기본권·방역 균형 맞춘 대책 강구돼야]]></title>
         <id>https://v.daum.net/v/20220114203232579</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220114165243463"/>
         <updated>2022-01-14T08:23:35.352Z</updated>
         <content type="html"><![CDATA[연합뉴스TV<span class="txt_bar"> · </span><span class="info_time">16:52</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나라 곳간이 대통령 쌈짓돈인가 [쓴소리 곧은 소리]]]></title>
-        <id>https://v.daum.net/v/20220114150205009</id>
-        <link href="https://v.daum.net/v/20220114150205009"/>
-        <updated>2022-01-14T06:22:47.824Z</updated>
-        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">15:02</span>]]></content>
     </entry>
 </feed>
