@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-01-15T06:23:03.092Z</updated>
+    <updated>2022-01-15T07:18:20.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["카카오택시 공짜로 타는 법?" 무임승차 '얌체족' 그게 가능해?]]></title>
+        <id>https://v.daum.net/v/20220115155750720</id>
+        <link href="https://v.daum.net/v/20220115155750720"/>
+        <updated>2022-01-15T07:17:45.267Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">15:57</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이도경의 플레e] 글로벌 e스포츠 거물들 이야기]]></title>
         <id>https://v.daum.net/v/20220115150907255</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220115112104241"/>
         <updated>2022-01-15T03:21:24.929Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">11:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['뇌섹 갤S22' 칼 갈았다는데..돌연 공개 미룬 삼성전자 왜 [MK위클리반도체]]]></title>
-        <id>https://v.daum.net/v/20220115110300017</id>
-        <link href="https://v.daum.net/v/20220115110300017"/>
-        <updated>2022-01-15T02:12:15.066Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">11:03</span>]]></content>
     </entry>
 </feed>
