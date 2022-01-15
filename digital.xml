@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-01-15T11:16:06.019Z</updated>
+    <updated>2022-01-15T12:29:30.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국 이어 두번째..애플, 네덜란드 데이팅앱에 외부결제 허용]]></title>
+        <id>https://v.daum.net/v/20220115203000092</id>
+        <link href="https://v.daum.net/v/20220115203000092"/>
+        <updated>2022-01-15T12:28:52.705Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">20:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日 신규 확진자 폭증세..시민 불안감도 커져]]></title>
         <id>https://v.daum.net/v/20220115195220849</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220115172638670"/>
         <updated>2022-01-15T09:18:48.737Z</updated>
         <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">17:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올해도 '네-카' 기술 챌린지는 계속됩니다[비사이드IT]]]></title>
-        <id>https://v.daum.net/v/20220115172400642</id>
-        <link href="https://v.daum.net/v/20220115172400642"/>
-        <updated>2022-01-15T09:18:48.738Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">17:24</span>]]></content>
     </entry>
 </feed>
