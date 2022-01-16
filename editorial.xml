@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-01-16T22:18:58.233Z</updated>
+    <updated>2022-01-16T23:19:20.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[한강로에서] 질문하라, 그리고 들어라]]></title>
+        <id>https://v.daum.net/v/20220117080203297</id>
+        <link href="https://v.daum.net/v/20220117080203297"/>
+        <updated>2022-01-16T23:18:57.607Z</updated>
+        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">08:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](17일 조간)]]></title>
+        <id>https://v.daum.net/v/20220117080003244</id>
+        <link href="https://v.daum.net/v/20220117080003244"/>
+        <updated>2022-01-16T23:18:57.611Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코스맥스 장남 이병만, 개인회사 부친에게 잃고 또 차린 노림수]]></title>
         <id>https://v.daum.net/v/20220117071007674</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20220117050840568</id>
         <link href="https://v.daum.net/v/20220117050840568"/>
         <updated>2022-01-16T20:20:00.545Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임기 말까지 낙하산 인사를 봐야 하나]]></title>
-        <id>https://v.daum.net/v/20220117050839567</id>
-        <link href="https://v.daum.net/v/20220117050839567"/>
-        <updated>2022-01-16T20:20:00.546Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빈 수레처럼 요란만 했던 '김건희 녹취록' 보도]]></title>
-        <id>https://v.daum.net/v/20220117050838566</id>
-        <link href="https://v.daum.net/v/20220117050838566"/>
-        <updated>2022-01-16T20:20:00.547Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
     </entry>
 </feed>
