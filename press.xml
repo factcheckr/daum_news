@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-01-16T11:16:05.859Z</updated>
+    <updated>2022-01-16T12:29:07.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["3천여 명, 182억 원 임금 체불".. 설 앞두고 집중 단속]]></title>
+        <id>https://v.daum.net/v/20220116205325403</id>
+        <link href="https://v.daum.net/v/20220116205325403"/>
+        <updated>2022-01-16T12:28:55.947Z</updated>
+        <content type="html"><![CDATA[전주MBC<span class="txt_bar"> · </span><span class="info_time">20:53</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['22년 소재·부품·장비 전략협력 기술개발사업 참여 중소기업 모집]]></title>
         <id>https://v.daum.net/v/20220116193530852</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220116115731982"/>
         <updated>2022-01-16T03:21:43.848Z</updated>
         <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">11:57</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화물차 무시동 히터·에어컨 설치하고 지원받으세요]]></title>
-        <id>https://v.daum.net/v/20220116113527749</id>
-        <link href="https://v.daum.net/v/20220116113527749"/>
-        <updated>2022-01-16T03:21:43.849Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">11:35</span>]]></content>
     </entry>
 </feed>
