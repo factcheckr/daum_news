@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-01-17T13:28:54.514Z</updated>
+    <updated>2022-01-17T14:17:59.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[LG전자, '쿼드 인버터' 인덕션..조리 속도 2배 향상 [포토뉴스]]]></title>
+        <id>https://v.daum.net/v/20220117230420354</id>
+        <link href="https://v.daum.net/v/20220117230420354"/>
+        <updated>2022-01-17T14:17:32.246Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">23:04</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[IT신상공개] 12세대 인텔 P 시리즈 출시된다, 델 XPS 13 플러스]]></title>
         <id>https://v.daum.net/v/20220117222101116</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220117201002671"/>
         <updated>2022-01-17T11:16:09.521Z</updated>
         <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">20:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우주산업 소·부·장 육성.. 선순환 생태계 만든다]]></title>
-        <id>https://v.daum.net/v/20220117200335584</id>
-        <link href="https://v.daum.net/v/20220117200335584"/>
-        <updated>2022-01-17T11:16:09.521Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">20:03</span>]]></content>
     </entry>
 </feed>
