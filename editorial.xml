@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-01-19T22:18:06.951Z</updated>
+    <updated>2022-01-19T23:17:55.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](20일 조간)]]></title>
+        <id>https://v.daum.net/v/20220120080006807</id>
+        <link href="https://v.daum.net/v/20220120080006807"/>
+        <updated>2022-01-19T23:17:35.834Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[시사컬처] 2021년 최고의 OO는!]]></title>
+        <id>https://v.daum.net/v/20220120071906018</id>
+        <link href="https://v.daum.net/v/20220120071906018"/>
+        <updated>2022-01-19T23:17:35.837Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">07:19</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[안현실 칼럼] 앞으로 5년도 각자도생이다]]></title>
         <id>https://v.daum.net/v/20220120071201927</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220120060006587"/>
         <updated>2022-01-19T21:16:46.126Z</updated>
         <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Lee Kyong-hee] Gender war? No, it's a deeper conundrum]]></title>
-        <id>https://v.daum.net/v/20220120053127246</id>
-        <link href="https://v.daum.net/v/20220120053127246"/>
-        <updated>2022-01-19T21:16:46.128Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Elizabeth Shackelford] To fight global corruption, US must address its role in it too]]></title>
-        <id>https://v.daum.net/v/20220120053125245</id>
-        <link href="https://v.daum.net/v/20220120053125245"/>
-        <updated>2022-01-19T21:16:46.129Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:31</span>]]></content>
     </entry>
 </feed>
