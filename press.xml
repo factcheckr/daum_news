@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-01-19T21:17:12.806Z</updated>
+    <updated>2022-01-19T22:18:06.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국방일보 1월 병영차트 장병 설문조사 결과]]></title>
+        <id>https://v.daum.net/v/20220120070522799</id>
+        <link href="https://v.daum.net/v/20220120070522799"/>
+        <updated>2022-01-19T22:17:58.267Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">07:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[녹색기업 지원사업.. 총 4,176억 원 지원]]></title>
+        <id>https://v.daum.net/v/20220120063521299</id>
+        <link href="https://v.daum.net/v/20220120063521299"/>
+        <updated>2022-01-19T22:17:58.277Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">06:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["전국을 한눈에" 충남연구원, '정책이슈리뷰' 첫 발간]]></title>
         <id>https://v.daum.net/v/20220120060703957</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20220120000554511</id>
         <link href="https://v.daum.net/v/20220120000554511"/>
         <updated>2022-01-19T15:18:25.307Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2022 고객이 가장 추천하는 브랜드 대상] PC·모바일에서 계약서 서명·관리 한 번에 OK]]></title>
-        <id>https://v.daum.net/v/20220120000552509</id>
-        <link href="https://v.daum.net/v/20220120000552509"/>
-        <updated>2022-01-19T15:18:25.308Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2022 고객이 가장 추천하는 브랜드 대상] 국내 첫 구독형 전기차 충전 요금 상품으로 인기]]></title>
-        <id>https://v.daum.net/v/20220120000550508</id>
-        <link href="https://v.daum.net/v/20220120000550508"/>
-        <updated>2022-01-19T15:18:25.309Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
     </entry>
 </feed>
