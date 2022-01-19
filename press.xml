@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-01-19T20:19:05.214Z</updated>
+    <updated>2022-01-19T21:17:12.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["전국을 한눈에" 충남연구원, '정책이슈리뷰' 첫 발간]]></title>
+        <id>https://v.daum.net/v/20220120060703957</id>
+        <link href="https://v.daum.net/v/20220120060703957"/>
+        <updated>2022-01-19T21:16:59.490Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">06:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[2022 고객이 가장 추천하는 브랜드 대상] 브랜드 인지도와 마케팅·경영활동 등 3단계 심사 거쳐 선정]]></title>
         <id>https://v.daum.net/v/20220120000627531</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220120000550508</id>
         <link href="https://v.daum.net/v/20220120000550508"/>
         <updated>2022-01-19T15:18:25.309Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2022 고객이 가장 추천하는 브랜드 대상] 임플란트·잇몸질환 등 9개의 전문 클리닉 운영]]></title>
-        <id>https://v.daum.net/v/20220120000548507</id>
-        <link href="https://v.daum.net/v/20220120000548507"/>
-        <updated>2022-01-19T15:18:25.310Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
     </entry>
 </feed>
