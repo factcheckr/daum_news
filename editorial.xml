@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-01-20T03:17:30.524Z</updated>
+    <updated>2022-01-20T04:22:27.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[데스크라인]중고차 대란]]></title>
+        <id>https://v.daum.net/v/20220120131202846</id>
+        <link href="https://v.daum.net/v/20220120131202846"/>
+        <updated>2022-01-20T04:22:03.103Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">13:12</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<사설>北 핵실험 재개 협박..文 '굴종적 평화 쇼' 완전 파탄났다]]></title>
         <id>https://v.daum.net/v/20220120115038166</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220120112529870"/>
         <updated>2022-01-20T02:38:52.282Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[헤럴드비즈] 이촌향도 세대의 향수, 1가구1주택 정책의 함정]]></title>
-        <id>https://v.daum.net/v/20220120112249723</id>
-        <link href="https://v.daum.net/v/20220120112249723"/>
-        <updated>2022-01-20T02:38:52.283Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:22</span>]]></content>
     </entry>
 </feed>
