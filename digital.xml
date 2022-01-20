@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-01-20T13:21:02.954Z</updated>
+    <updated>2022-01-20T14:16:53.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA["누워서 넷플릭스 본다" LG·삼성 난리난 이것 우수수]]></title>
+        <title type="html"><![CDATA[[인사] 환경부]]></title>
+        <id>https://v.daum.net/v/20220120224628610</id>
+        <link href="https://v.daum.net/v/20220120224628610"/>
+        <updated>2022-01-20T14:16:19.647Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">22:46</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["100만원에 이걸 누가 사?" 삼성·LG도 '깜짝' 놀랐다]]></title>
         <id>https://v.daum.net/v/20220120222007377</id>
         <link href="https://v.daum.net/v/20220120222007377"/>
         <updated>2022-01-20T13:20:34.741Z</updated>
@@ -97,17 +104,10 @@
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:41</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["이것도 돈 내고 보세요" TV는 안보고, 넷플릭스만 보나]]></title>
+        <title type="html"><![CDATA["이 커플도 돈 내고 봐?" TV는 안보고, 넷플릭스만 인기]]></title>
         <id>https://v.daum.net/v/20220120204143160</id>
         <link href="https://v.daum.net/v/20220120204143160"/>
         <updated>2022-01-20T12:27:17.811Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">20:41</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나 주사 치료제 '렘데시비르' 12세 이상 경증·중등증 환자도 투약 가능]]></title>
-        <id>https://v.daum.net/v/20220120202904944</id>
-        <link href="https://v.daum.net/v/20220120202904944"/>
-        <updated>2022-01-20T12:27:17.813Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">20:29</span>]]></content>
     </entry>
 </feed>
