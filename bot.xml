@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-01-20T11:16:27.390Z</updated>
+    <updated>2022-01-20T12:27:49.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가상화폐 코스모스 2,810원 상승한 47,520원에 거래]]></title>
+        <id>https://v.daum.net/v/20220120203117986</id>
+        <link href="https://v.daum.net/v/20220120203117986"/>
+        <updated>2022-01-20T12:27:49.116Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">20:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 날씨 - 오후 (2022년 01월 20일)]]></title>
         <id>https://v.daum.net/v/20220120173047094</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220120125553422"/>
         <updated>2022-01-20T04:22:26.737Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:55</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 당하동 당하 탑스빌 아파트 84㎡ 4억3700만원.. 역대 최고가]]></title>
-        <id>https://v.daum.net/v/20220120125130332</id>
-        <link href="https://v.daum.net/v/20220120125130332"/>
-        <updated>2022-01-20T04:22:26.738Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:51</span>]]></content>
     </entry>
 </feed>
