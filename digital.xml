@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-01-21T12:27:32.915Z</updated>
+    <updated>2022-01-21T13:22:47.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[EBS 사장 후보자 4인, 24일부터 홈페이지서 공개]]></title>
+        <id>https://v.daum.net/v/20220121220336157</id>
+        <link href="https://v.daum.net/v/20220121220336157"/>
+        <updated>2022-01-21T13:22:18.576Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">22:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[만든 취지는 좋았는데.."애플 제품으로 스토킹이라니" 발칵]]></title>
+        <id>https://v.daum.net/v/20220121220101129</id>
+        <link href="https://v.daum.net/v/20220121220101129"/>
+        <updated>2022-01-21T13:22:18.576Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노트 기능 품은 갤럭시S22 "시리즈 중 가장 주목받을 것"]]></title>
         <id>https://v.daum.net/v/20220121210329480</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220121190531732"/>
         <updated>2022-01-21T10:20:04.461Z</updated>
         <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">19:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위기에 빠진 삼성 '갤럭시'..S펜 담은 '갤S22'가 구할까]]></title>
-        <id>https://v.daum.net/v/20220121190003635</id>
-        <link href="https://v.daum.net/v/20220121190003635"/>
-        <updated>2022-01-21T10:20:04.464Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">19:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라인게임즈 '언디셈버', 초반 흥행은 좋은데..서비스 안정화는 '언제']]></title>
-        <id>https://v.daum.net/v/20220121190000630</id>
-        <link href="https://v.daum.net/v/20220121190000630"/>
-        <updated>2022-01-21T10:20:04.465Z</updated>
-        <content type="html"><![CDATA[매경게임진<span class="txt_bar"> · </span><span class="info_time">19:00</span>]]></content>
     </entry>
 </feed>
