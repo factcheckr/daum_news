@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-01-21T10:20:42.874Z</updated>
+    <updated>2022-01-21T11:15:21.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["시꺼먼 비석인 줄 알았다" 삼성 공개 '미스테리' 영상 정체가?]]></title>
+        <id>https://v.daum.net/v/20220121194202205</id>
+        <link href="https://v.daum.net/v/20220121194202205"/>
+        <updated>2022-01-21T11:14:52.231Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">19:42</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방송통신인 신년인사회.."통합적인 규제 체계 마련"]]></title>
+        <id>https://v.daum.net/v/20220121193935172</id>
+        <link href="https://v.daum.net/v/20220121193935172"/>
+        <updated>2022-01-21T11:14:52.232Z</updated>
+        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">19:39</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전국 4천552명 신규확진..어제보다 53명 많아]]></title>
         <id>https://v.daum.net/v/20220121191009780</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220121182919098"/>
         <updated>2022-01-21T10:20:04.472Z</updated>
         <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">18:29</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베스핀글로벌, 남미 클라우드 기업에 운영 플랫폼 공급]]></title>
-        <id>https://v.daum.net/v/20220121181512821</id>
-        <link href="https://v.daum.net/v/20220121181512821"/>
-        <updated>2022-01-21T09:18:16.451Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">18:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라인게임즈, '가디언 크로니클' 리뉴얼 업데이트 진행]]></title>
-        <id>https://v.daum.net/v/20220121181202725</id>
-        <link href="https://v.daum.net/v/20220121181202725"/>
-        <updated>2022-01-21T09:18:16.451Z</updated>
-        <content type="html"><![CDATA[게임동아<span class="txt_bar"> · </span><span class="info_time">18:12</span>]]></content>
     </entry>
 </feed>
