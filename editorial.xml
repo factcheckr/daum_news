@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-01-22T11:15:26.592Z</updated>
+    <updated>2022-01-22T12:26:02.280Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중대재해처벌법 집행은 '유기적 연대' 정신이 필요]]></title>
+        <id>https://v.daum.net/v/20220122211131445</id>
+        <link href="https://v.daum.net/v/20220122211131445"/>
+        <updated>2022-01-22T12:25:40.990Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">21:11</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부고] 김지형(삼성 준법위원장·지평 대표변호사)씨 부친상]]></title>
         <id>https://v.daum.net/v/20220122170553289</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220122043029219</id>
         <link href="https://v.daum.net/v/20220122043029219"/>
         <updated>2022-01-21T20:17:16.798Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 포스코 하청직원 또 사망.. 안전에 2조 투자한다더니]]></title>
-        <id>https://v.daum.net/v/20220122043024217</id>
-        <link href="https://v.daum.net/v/20220122043024217"/>
-        <updated>2022-01-21T20:17:16.799Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
     </entry>
 </feed>
