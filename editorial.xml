@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-01-22T07:16:46.392Z</updated>
+    <updated>2022-01-22T08:20:04.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[부고] 김지형(삼성 준법위원장·지평 대표변호사)씨 부친상]]></title>
+        <id>https://v.daum.net/v/20220122170553289</id>
+        <link href="https://v.daum.net/v/20220122170553289"/>
+        <updated>2022-01-22T08:19:44.426Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">17:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[충무로에 바람이 분다, 돈바람이 분다 [라제기의 슛 & 숏]]]></title>
         <id>https://v.daum.net/v/20220122120019291</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220122043024217</id>
         <link href="https://v.daum.net/v/20220122043024217"/>
         <updated>2022-01-21T20:17:16.799Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[독상과 '혼밥' [우리말 톺아보기]]]></title>
-        <id>https://v.daum.net/v/20220122043012214</id>
-        <link href="https://v.daum.net/v/20220122043012214"/>
-        <updated>2022-01-21T20:17:16.805Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
     </entry>
 </feed>
