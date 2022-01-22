@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-01-22T12:26:02.280Z</updated>
+    <updated>2022-01-22T13:18:33.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[安風이 분다..돌풍인가 미풍인가]]></title>
+        <id>https://v.daum.net/v/20220122214803750</id>
+        <link href="https://v.daum.net/v/20220122214803750"/>
+        <updated>2022-01-22T13:18:16.220Z</updated>
+        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">21:48</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지능화된 '웹3.0 시대' 무엇을 준비해야 할까]]></title>
+        <id>https://v.daum.net/v/20220122214800749</id>
+        <link href="https://v.daum.net/v/20220122214800749"/>
+        <updated>2022-01-22T13:18:16.221Z</updated>
+        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">21:48</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중대재해처벌법 집행은 '유기적 연대' 정신이 필요]]></title>
         <id>https://v.daum.net/v/20220122211131445</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220122070000266"/>
         <updated>2022-01-21T22:17:17.452Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[굽시니스트의 본격 시사만화] 1.4 후폭]]></title>
-        <id>https://v.daum.net/v/20220122064208127</id>
-        <link href="https://v.daum.net/v/20220122064208127"/>
-        <updated>2022-01-21T22:17:17.458Z</updated>
-        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">06:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 증액 예고된 추경, 여야 세출 조정 협상하길]]></title>
-        <id>https://v.daum.net/v/20220122043029219</id>
-        <link href="https://v.daum.net/v/20220122043029219"/>
-        <updated>2022-01-21T20:17:16.798Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
     </entry>
 </feed>
