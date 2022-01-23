@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-01-23T17:19:35.143Z</updated>
+    <updated>2022-01-23T18:19:52.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[프리미엄뷰] 삼성 비스포크 정수기라면 가족 모두 안심]]></title>
+        <id>https://v.daum.net/v/20220124030419083</id>
+        <link href="https://v.daum.net/v/20220124030419083"/>
+        <updated>2022-01-23T18:19:40.390Z</updated>
+        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">03:04</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[시선집중] "예수 그리스도의 피가 우리를 영원히 의롭게 해"]]></title>
         <id>https://v.daum.net/v/20220124000505447</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220124000434426</id>
         <link href="https://v.daum.net/v/20220124000434426"/>
         <updated>2022-01-23T15:18:46.823Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시선집중] 업사이클링 섬유패널 활용, 도심 숲 조성..ESG 경영 가속]]></title>
-        <id>https://v.daum.net/v/20220124000423423</id>
-        <link href="https://v.daum.net/v/20220124000423423"/>
-        <updated>2022-01-23T15:18:46.826Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
     </entry>
 </feed>
