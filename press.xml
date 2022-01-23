@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-01-23T08:19:49.765Z</updated>
+    <updated>2022-01-23T09:16:49.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(공동-참고) 경기 화성 산란계 2개 농장 고병원성 조류인플루엔자 확진]]></title>
+        <id>https://v.daum.net/v/20220123173523948</id>
+        <link href="https://v.daum.net/v/20220123173523948"/>
+        <updated>2022-01-23T09:16:40.499Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">17:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정권말 부처갈등 심화..봉합할 컨트롤타워가 없다]]></title>
         <id>https://v.daum.net/v/20220123160619487</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220123123524987</id>
         <link href="https://v.daum.net/v/20220123123524987"/>
         <updated>2022-01-23T04:21:26.472Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">12:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방통위, 「크리에이터 디지털윤리 역량 가이드북」 발간]]></title>
-        <id>https://v.daum.net/v/20220123123524986</id>
-        <link href="https://v.daum.net/v/20220123123524986"/>
-        <updated>2022-01-23T04:21:26.475Z</updated>
         <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">12:35</span>]]></content>
     </entry>
 </feed>
