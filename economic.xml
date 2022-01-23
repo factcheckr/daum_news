@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2022-01-23T16:24:58.313Z</updated>
+    <updated>2022-01-23T17:19:35.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA['LG엔솔이 안부럽네'..조단위 공모주 '빅3' 온다]]></title>
+        <title type="html"><![CDATA[은행권, 디지털 혁신·ESG 경영 박차]]></title>
+        <id>https://v.daum.net/v/20220124020137824</id>
+        <link href="https://v.daum.net/v/20220124020137824"/>
+        <updated>2022-01-23T17:18:00.723Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">02:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["명절 선물세트 장만하세요"]]></title>
+        <id>https://v.daum.net/v/20220124020133822</id>
+        <link href="https://v.daum.net/v/20220124020133822"/>
+        <updated>2022-01-23T17:18:00.723Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">02:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비대면 명절에.. 간편식 수요 '껑충']]></title>
+        <id>https://v.daum.net/v/20220124020122821</id>
+        <link href="https://v.daum.net/v/20220124020122821"/>
+        <updated>2022-01-23T17:18:00.724Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">02:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['LG엔솔이 안부럽네'..대어급 공모주 '빅3' 온다]]></title>
         <id>https://v.daum.net/v/20220124011206751</id>
         <link href="https://v.daum.net/v/20220124011206751"/>
         <updated>2022-01-23T16:23:21.648Z</updated>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220124010246713"/>
         <updated>2022-01-23T16:23:21.671Z</updated>
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LG전자, 남아공 '앰버서더' 선정.. 6개국 취약층 자립 지원]]></title>
-        <id>https://v.daum.net/v/20220124010209702</id>
-        <link href="https://v.daum.net/v/20220124010209702"/>
-        <updated>2022-01-23T16:23:21.673Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SKT, 설 맞아 파트너사에 850억 조기 지급]]></title>
-        <id>https://v.daum.net/v/20220124010128698</id>
-        <link href="https://v.daum.net/v/20220124010128698"/>
-        <updated>2022-01-23T16:23:21.674Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["수분섭취로 건강 관리"..건강성분 함유 음료 인기]]></title>
-        <id>https://v.daum.net/v/20220124010021691</id>
-        <link href="https://v.daum.net/v/20220124010021691"/>
-        <updated>2022-01-23T16:23:21.675Z</updated>
-        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">01:00</span>]]></content>
     </entry>
 </feed>
