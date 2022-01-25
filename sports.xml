@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/sports</id>
     <title>다음 뉴스 ─ 전체기사 ─ 스포츠</title>
-    <updated>2022-01-25T16:26:45.132Z</updated>
+    <updated>2022-01-25T17:21:18.751Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[앱코, 하이엔드 블루투스 이어폰 'ATF1000' 네이버 쇼핑 라이브 진행]]></title>
+        <id>https://v.daum.net/v/20220126015821680</id>
+        <link href="https://v.daum.net/v/20220126015821680"/>
+        <updated>2022-01-25T17:20:35.743Z</updated>
+        <content type="html"><![CDATA[데일리e스포츠<span class="txt_bar"> · </span><span class="info_time">01:58</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['클리드' 김태민, LPL 복귀전..LNG 전서 선발]]></title>
+        <id>https://v.daum.net/v/20220126015113671</id>
+        <link href="https://v.daum.net/v/20220126015113671"/>
+        <updated>2022-01-25T17:20:35.743Z</updated>
+        <content type="html"><![CDATA[데일리e스포츠<span class="txt_bar"> · </span><span class="info_time">01:51</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['레전드'의 일갈 "맨유가 라이스 영입으로 문제를 해결할 수 있을까"]]></title>
+        <id>https://v.daum.net/v/20220126014900669</id>
+        <link href="https://v.daum.net/v/20220126014900669"/>
+        <updated>2022-01-25T17:20:35.746Z</updated>
+        <content type="html"><![CDATA[스포츠조선<span class="txt_bar"> · </span><span class="info_time">01:49</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[맨유의 527억 후보 MF 드디어 탈출한다.. 팰리스-발렌시아 임대 제안]]></title>
         <id>https://v.daum.net/v/20220126012323606</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220126002643353"/>
         <updated>2022-01-25T16:25:54.677Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[호날두, 메시에 2012 발롱도르상 '강탈당했다"?]]></title>
-        <id>https://v.daum.net/v/20220126002145342</id>
-        <link href="https://v.daum.net/v/20220126002145342"/>
-        <updated>2022-01-25T16:25:54.677Z</updated>
-        <content type="html"><![CDATA[마니아타임즈<span class="txt_bar"> · </span><span class="info_time">00:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정상빈→울버햄프턴, 김민우→청두..차포 빠진 수원 삼성 어떡해?]]></title>
-        <id>https://v.daum.net/v/20220126002123340</id>
-        <link href="https://v.daum.net/v/20220126002123340"/>
-        <updated>2022-01-25T16:25:54.677Z</updated>
-        <content type="html"><![CDATA[MHN스포츠<span class="txt_bar"> · </span><span class="info_time">00:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["선수도 아닌데 대표팀 선발"..이탈리아 레전드 화났다]]></title>
-        <id>https://v.daum.net/v/20220126002039336</id>
-        <link href="https://v.daum.net/v/20220126002039336"/>
-        <updated>2022-01-25T16:25:54.677Z</updated>
-        <content type="html"><![CDATA[스포탈코리아<span class="txt_bar"> · </span><span class="info_time">00:20</span>]]></content>
     </entry>
 </feed>
