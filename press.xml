@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-01-25T13:21:10.420Z</updated>
+    <updated>2022-01-25T14:16:17.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국제통화기금(IMF) 22년 1월 세계경제전망(WEO) 업데이트]]></title>
+        <id>https://v.daum.net/v/20220125230525810</id>
+        <link href="https://v.daum.net/v/20220125230525810"/>
+        <updated>2022-01-25T14:16:07.274Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">23:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[익산시 어린이집 등에 코로나19 자가검사키트 배부]]></title>
         <id>https://v.daum.net/v/20220125220254321</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220125183449822"/>
         <updated>2022-01-25T10:19:42.173Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">18:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저소득층 겨울철 에너지바우처 9천원 더 지원]]></title>
-        <id>https://v.daum.net/v/20220125183302801</id>
-        <link href="https://v.daum.net/v/20220125183302801"/>
-        <updated>2022-01-25T10:19:42.173Z</updated>
-        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">18:33</span>]]></content>
     </entry>
 </feed>
