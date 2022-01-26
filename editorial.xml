@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-01-26T22:17:27.801Z</updated>
+    <updated>2022-01-26T23:18:11.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[헤럴드포럼]병원비걱정 없는 사회 '적정 보험료' 외 대안 있을까]]></title>
+        <id>https://v.daum.net/v/20220127081647262</id>
+        <link href="https://v.daum.net/v/20220127081647262"/>
+        <updated>2022-01-26T23:17:47.479Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">08:16</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](27일 조간)]]></title>
+        <id>https://v.daum.net/v/20220127080003930</id>
+        <link href="https://v.daum.net/v/20220127080003930"/>
+        <updated>2022-01-26T23:17:47.482Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[종교칼럼]  사랑에 대한 단상]]></title>
         <id>https://v.daum.net/v/20220127070904281</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220127053111234"/>
         <updated>2022-01-26T21:16:24.284Z</updated>
         <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Kim Myong-sik] Outlook for March election is getting clearer]]></title>
-        <id>https://v.daum.net/v/20220127053109233</id>
-        <link href="https://v.daum.net/v/20220127053109233"/>
-        <updated>2022-01-26T21:16:24.288Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Editorial] Too busy to talk]]></title>
-        <id>https://v.daum.net/v/20220127053049230</id>
-        <link href="https://v.daum.net/v/20220127053049230"/>
-        <updated>2022-01-26T21:16:24.289Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
     </entry>
 </feed>
