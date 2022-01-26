@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-01-26T12:26:23.204Z</updated>
+    <updated>2022-01-26T13:21:17.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[익산시, 노점상 등에 코로나19 지원금 60만 원]]></title>
+        <id>https://v.daum.net/v/20220126215025210</id>
+        <link href="https://v.daum.net/v/20220126215025210"/>
+        <updated>2022-01-26T13:21:04.136Z</updated>
+        <content type="html"><![CDATA[전주MBC<span class="txt_bar"> · </span><span class="info_time">21:50</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] HotForex Granted License by the Capital Markets Authority (CMA)]]></title>
         <id>https://v.daum.net/v/20220126205421642</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220126203658393</id>
         <link href="https://v.daum.net/v/20220126203658393"/>
         <updated>2022-01-26T12:26:11.895Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[롯데, 브랜드·디자인·IT에 집중 투자..신성장 동력 발굴 매진]]></title>
-        <id>https://v.daum.net/v/20220126203652390</id>
-        <link href="https://v.daum.net/v/20220126203652390"/>
-        <updated>2022-01-26T12:26:11.897Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:36</span>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-01-26T12:26:23.208Z</updated>
+    <updated>2022-01-26T13:21:17.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['에프'의 활약으로 버텨야 할 시간이 왔다 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20220126220012341</id>
+        <link href="https://v.daum.net/v/20220126220012341"/>
+        <updated>2022-01-26T13:20:52.005Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김용민의 그림마당 쉽니다.]]></title>
+        <id>https://v.daum.net/v/20220126215958329</id>
+        <link href="https://v.daum.net/v/20220126215958329"/>
+        <updated>2022-01-26T13:20:52.010Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">21:59</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[권태호의 저널리즘책무실] 김건희 녹취록 보도, 누가 판단해야 하나?]]></title>
+        <id>https://v.daum.net/v/20220126214603184</id>
+        <link href="https://v.daum.net/v/20220126214603184"/>
+        <updated>2022-01-26T13:20:52.013Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">21:46</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[바로잡습니다]]></title>
         <id>https://v.daum.net/v/20220126211602887</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220126194718668"/>
         <updated>2022-01-26T11:15:56.934Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why did he return to the North?]]></title>
-        <id>https://v.daum.net/v/20220126194358612</id>
-        <link href="https://v.daum.net/v/20220126194358612"/>
-        <updated>2022-01-26T11:15:56.935Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022.01.27 Cartoon]]></title>
-        <id>https://v.daum.net/v/20220126193959556</id>
-        <link href="https://v.daum.net/v/20220126193959556"/>
-        <updated>2022-01-26T11:15:56.937Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 중대재해법 내일부터 시행, '일터의 죽음' 막는 출발점 돼야]]></title>
-        <id>https://v.daum.net/v/20220126193606488</id>
-        <link href="https://v.daum.net/v/20220126193606488"/>
-        <updated>2022-01-26T11:15:56.938Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:36</span>]]></content>
     </entry>
 </feed>
