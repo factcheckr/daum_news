@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-01-27T16:26:18.921Z</updated>
+    <updated>2022-01-27T17:20:28.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 'CULTURE GATE to JAPAN']]></title>
+        <id>https://v.daum.net/v/20220128020242083</id>
+        <link href="https://v.daum.net/v/20220128020242083"/>
+        <updated>2022-01-27T17:20:15.203Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">02:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] OPEC 기금, 2021년 미화 15억 달러 규모의 신규 개발 자금 지원]]></title>
+        <id>https://v.daum.net/v/20220128014011018</id>
+        <link href="https://v.daum.net/v/20220128014011018"/>
+        <updated>2022-01-27T17:20:15.204Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">01:40</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] DEAC와 Neste, 지속가능한 데이터 스토리지 솔루션 위해 협업]]></title>
         <id>https://v.daum.net/v/20220128004605691</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20220128000546313</id>
         <link href="https://v.daum.net/v/20220128000546313"/>
         <updated>2022-01-27T15:18:12.523Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[자동차] 신형 아테온, 파사트 GT 출시..베스트셀링 세단 모델로 국내 시장 공략]]></title>
-        <id>https://v.daum.net/v/20220128000543312</id>
-        <link href="https://v.daum.net/v/20220128000543312"/>
-        <updated>2022-01-27T15:18:12.524Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[자동차] "신차와 고객 중심의 서비스로 성장 모멘텀 이어갈 것"]]></title>
-        <id>https://v.daum.net/v/20220128000541311</id>
-        <link href="https://v.daum.net/v/20220128000541311"/>
-        <updated>2022-01-27T15:18:12.525Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
     </entry>
 </feed>
