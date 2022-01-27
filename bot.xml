@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-01-27T11:15:41.574Z</updated>
+    <updated>2022-01-27T12:27:27.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가상화폐 샌드박스 345원 상승한 4,110원에 거래]]></title>
+        <id>https://v.daum.net/v/20220127203127285</id>
+        <link href="https://v.daum.net/v/20220127203127285"/>
+        <updated>2022-01-27T12:27:26.767Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">20:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 날씨 - 오후 (2022년 01월 27일)]]></title>
         <id>https://v.daum.net/v/20220127173148728</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220127140052563"/>
         <updated>2022-01-27T05:16:48.485Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용인 보라동 민속마을현대모닝사이드 116㎡ 4억8000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220127135600334</id>
-        <link href="https://v.daum.net/v/20220127135600334"/>
-        <updated>2022-01-27T05:16:48.486Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:56</span>]]></content>
     </entry>
 </feed>

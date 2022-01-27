@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-01-27T11:15:41.561Z</updated>
+    <updated>2022-01-27T12:27:27.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[만평] 조기영 세상터치 2022년 1월 28일]]></title>
+        <id>https://v.daum.net/v/20220127210102857</id>
+        <link href="https://v.daum.net/v/20220127210102857"/>
+        <updated>2022-01-27T12:27:04.808Z</updated>
+        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">21:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[국민만평-서민호 화백] 2022년 1월 28일]]></title>
+        <id>https://v.daum.net/v/20220127205857811</id>
+        <link href="https://v.daum.net/v/20220127205857811"/>
+        <updated>2022-01-27T12:27:04.813Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">20:58</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[여적] 설 선물의 변천]]></title>
         <id>https://v.daum.net/v/20220127200925936</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220127190104430"/>
         <updated>2022-01-27T10:19:07.095Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">19:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[레이저무기, 극초음속미사일 요격할 수 있을까 [이석수의 군사탐구]]]></title>
-        <id>https://v.daum.net/v/20220127190059425</id>
-        <link href="https://v.daum.net/v/20220127190059425"/>
-        <updated>2022-01-27T10:19:07.095Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">19:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인사] 국립공원공단]]></title>
-        <id>https://v.daum.net/v/20220127185531305</id>
-        <link href="https://v.daum.net/v/20220127185531305"/>
-        <updated>2022-01-27T10:19:07.095Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">18:55</span>]]></content>
     </entry>
 </feed>
