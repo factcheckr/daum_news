@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-01-27T22:17:31.548Z</updated>
+    <updated>2022-01-27T23:18:12.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박영사, 새 시대를 구현한 인물들 통해 보는 조선 후기 개혁의 문화사 '하늘의 신발' 출간]]></title>
+        <id>https://v.daum.net/v/20220128080706448</id>
+        <link href="https://v.daum.net/v/20220128080706448"/>
+        <updated>2022-01-27T23:18:01.632Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">08:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엠도씨, 매끈한 피부를 위한 "시카 클리어 패드" 출시]]></title>
+        <id>https://v.daum.net/v/20220128080008265</id>
+        <link href="https://v.daum.net/v/20220128080008265"/>
+        <updated>2022-01-27T23:18:01.633Z</updated>
+        <content type="html"><![CDATA[월간 아웃도어<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[출퇴근길 광역버스 이용이 대폭 개선됩니다]]></title>
         <id>https://v.daum.net/v/20220128063534150</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220128001026394"/>
         <updated>2022-01-27T15:18:12.522Z</updated>
         <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[함께하는 금융] 에너지 절약 실천하면 현금과 최대 연 4.1% 금리우대 혜택을 드립니다]]></title>
-        <id>https://v.daum.net/v/20220128000551315</id>
-        <link href="https://v.daum.net/v/20220128000551315"/>
-        <updated>2022-01-27T15:18:12.522Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[함께하는 금융] 일상이 된 배달 문화..'배민현대카드'도 씽씽 달린다]]></title>
-        <id>https://v.daum.net/v/20220128000548314</id>
-        <link href="https://v.daum.net/v/20220128000548314"/>
-        <updated>2022-01-27T15:18:12.523Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
     </entry>
 </feed>
