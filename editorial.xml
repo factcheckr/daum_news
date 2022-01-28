@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-01-28T06:21:10.415Z</updated>
+    <updated>2022-01-28T07:17:18.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[fn스트리트] GTX의 명암]]></title>
+        <id>https://v.daum.net/v/20220128160656243</id>
+        <link href="https://v.daum.net/v/20220128160656243"/>
+        <updated>2022-01-28T07:16:55.792Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">16:06</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[fn사설] 초중고 교육예산 배분 룰, 손 볼 때 됐다]]></title>
+        <id>https://v.daum.net/v/20220128155857004</id>
+        <link href="https://v.daum.net/v/20220128155857004"/>
+        <updated>2022-01-28T07:16:55.792Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:58</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[알림]전자신문-삼프로TV '게임체인저 방송' 29일 '온 에어']]></title>
+        <id>https://v.daum.net/v/20220128152605081</id>
+        <link href="https://v.daum.net/v/20220128152605081"/>
+        <updated>2022-01-28T07:16:55.793Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">15:26</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[기자수첩] 명분도 실익도 위기감도 없는 택배노조의 파업]]></title>
         <id>https://v.daum.net/v/20220128151302791</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220128120017089"/>
         <updated>2022-01-28T03:17:36.697Z</updated>
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">12:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정규영의 대선과 대입⑥] 인성 교육을 대학 입시에 반영하자]]></title>
-        <id>https://v.daum.net/v/20220128115904034</id>
-        <link href="https://v.daum.net/v/20220128115904034"/>
-        <updated>2022-01-28T03:17:36.699Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:59</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<사설>광주선 "전라도 소외" 안동선 "영남 역차별" 망국적 선동]]></title>
-        <id>https://v.daum.net/v/20220128114034488</id>
-        <link href="https://v.daum.net/v/20220128114034488"/>
-        <updated>2022-01-28T03:17:36.700Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<사설>성남FC 후원금 유출과 '李 연루' 의혹도 심상찮다]]></title>
-        <id>https://v.daum.net/v/20220128114034487</id>
-        <link href="https://v.daum.net/v/20220128114034487"/>
-        <updated>2022-01-28T03:17:36.702Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:40</span>]]></content>
     </entry>
 </feed>
