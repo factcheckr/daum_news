@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-01-28T08:20:55.017Z</updated>
+    <updated>2022-01-28T09:18:57.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2022년 01월 28일)]]></title>
+        <id>https://v.daum.net/v/20220128173050563</id>
+        <link href="https://v.daum.net/v/20220128173050563"/>
+        <updated>2022-01-28T09:18:57.192Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[fnRASSI]장마감, 코스닥 하락 종목(오토앤 -16.6% ↓)]]></title>
         <id>https://v.daum.net/v/20220128155321838</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220128121557465"/>
         <updated>2022-01-28T03:18:01.806Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성남 이매동 이매촌삼성 127㎡ 15억3400만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220128121054382</id>
-        <link href="https://v.daum.net/v/20220128121054382"/>
-        <updated>2022-01-28T03:18:01.808Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:10</span>]]></content>
     </entry>
 </feed>
