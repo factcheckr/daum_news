@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-01-28T10:20:05.314Z</updated>
+    <updated>2022-01-28T11:16:09.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사랑과 연민으로 함께 살게 하셨으니 [이주화의 앗쌀라무 알라이쿰]]]></title>
+        <id>https://v.daum.net/v/20220128200032881</id>
+        <link href="https://v.daum.net/v/20220128200032881"/>
+        <updated>2022-01-28T11:15:49.128Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">20:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[누가 대통령이 될 관상인가 [전형일의 사주이야기]]]></title>
         <id>https://v.daum.net/v/20220128190009021</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220128155857004"/>
         <updated>2022-01-28T07:16:55.792Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:58</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알림]전자신문-삼프로TV '게임체인저 방송' 29일 '온 에어']]></title>
-        <id>https://v.daum.net/v/20220128152605081</id>
-        <link href="https://v.daum.net/v/20220128152605081"/>
-        <updated>2022-01-28T07:16:55.793Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">15:26</span>]]></content>
     </entry>
 </feed>
