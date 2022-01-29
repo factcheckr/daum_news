@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-01-29T00:53:03.577Z</updated>
+    <updated>2022-01-29T01:55:15.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이재명 "중고차 허위매물 뿌리뽑는다..상시 단속체계 구축"]]></title>
+        <id>https://v.daum.net/v/20220129101719317</id>
+        <link href="https://v.daum.net/v/20220129101719317"/>
+        <updated>2022-01-29T01:54:54.340Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">10:17</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[데스크 칼럼] 공약이 비슷할 때 보아야 할 것]]></title>
         <id>https://v.daum.net/v/20220129090031272</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220129041200088"/>
         <updated>2022-01-28T19:14:16.300Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토 카페] 상상으로 떠나는 여행]]></title>
-        <id>https://v.daum.net/v/20220129040606067</id>
-        <link href="https://v.daum.net/v/20220129040606067"/>
-        <updated>2022-01-28T19:14:16.300Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:06</span>]]></content>
     </entry>
 </feed>
