@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2022-01-29T18:23:29.079Z</updated>
+    <updated>2022-01-29T19:16:28.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주간 돌발영상] 1월 마지막 주]]></title>
+        <id>https://v.daum.net/v/20220130040711304</id>
+        <link href="https://v.daum.net/v/20220130040711304"/>
+        <updated>2022-01-29T19:15:01.415Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">04:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에르도안의 인플레 해법은 터키 통계청장 모가지(?)]]></title>
+        <id>https://v.daum.net/v/20220130034840274</id>
+        <link href="https://v.daum.net/v/20220130034840274"/>
+        <updated>2022-01-29T19:15:01.416Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">03:48</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["기다려도 기다려도..언제 오려나"]]></title>
         <id>https://v.daum.net/v/20220130030227201</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220130000027872"/>
         <updated>2022-01-29T15:15:48.134Z</updated>
         <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시승기] 신형 니로 탄생! 더 크게! 더 오래! 더 깨끗하게! 더 비싸..응?]]></title>
-        <id>https://v.daum.net/v/20220130000018869</id>
-        <link href="https://v.daum.net/v/20220130000018869"/>
-        <updated>2022-01-29T15:15:48.135Z</updated>
-        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빠숑 "설 이후 집값 오른다..하락은 '착시'"]]></title>
-        <id>https://v.daum.net/v/20220130000008864</id>
-        <link href="https://v.daum.net/v/20220130000008864"/>
-        <updated>2022-01-29T15:15:48.136Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>

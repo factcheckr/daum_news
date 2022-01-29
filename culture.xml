@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2022-01-29T18:23:29.088Z</updated>
+    <updated>2022-01-29T19:16:28.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[명절 과식 피하려면 '이것' 먼저 먹어야]]></title>
+        <id>https://v.daum.net/v/20220130035741289</id>
+        <link href="https://v.daum.net/v/20220130035741289"/>
+        <updated>2022-01-29T19:15:21.724Z</updated>
+        <content type="html"><![CDATA[코메디닷컴<span class="txt_bar"> · </span><span class="info_time">03:57</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[가정예배 365-1월 30일] 하·나·세 - 바벨탑이 무너져야 하나님이 보인다]]></title>
         <id>https://v.daum.net/v/20220130030157199</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220130000116888"/>
         <updated>2022-01-29T15:16:10.072Z</updated>
         <content type="html"><![CDATA[엘르<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인플루언서 프리즘] 유튜브 생태계 휘젓는 '골프광' 연예인들]]></title>
-        <id>https://v.daum.net/v/20220130000046878</id>
-        <link href="https://v.daum.net/v/20220130000046878"/>
-        <updated>2022-01-29T15:16:10.073Z</updated>
-        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
