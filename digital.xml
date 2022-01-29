@@ -2,11 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-01-29T09:16:51.932Z</updated>
+    <updated>2022-01-29T10:18:47.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[MS의 블리자드 84조원 파격인수..아마존·구글에 모이는 시장의 시선 [더테크웨이브]]]></title>
+        <title type="html"><![CDATA["중국, 이건 죽어도 못 베껴?" 2번 접는 삼성폰 임박, S펜까지 장착]]></title>
+        <id>https://v.daum.net/v/20220129190731260</id>
+        <link href="https://v.daum.net/v/20220129190731260"/>
+        <updated>2022-01-29T10:18:13.290Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">19:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오후 6시까지 1만665명 확진..또 동시간대 '최다']]></title>
+        <id>https://v.daum.net/v/20220129190519250</id>
+        <link href="https://v.daum.net/v/20220129190519250"/>
+        <updated>2022-01-29T10:18:13.290Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">19:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네이버웹툰, 2022년 상반기 경력 개발자 공개 채용]]></title>
+        <id>https://v.daum.net/v/20220129190143225</id>
+        <link href="https://v.daum.net/v/20220129190143225"/>
+        <updated>2022-01-29T10:18:13.291Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">19:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[워킹맘 내돈내앱] 런드리고로 패딩, 겨울이불 세탁 한번에]]></title>
+        <id>https://v.daum.net/v/20220129184045071</id>
+        <link href="https://v.daum.net/v/20220129184045071"/>
+        <updated>2022-01-29T10:18:13.292Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">18:40</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삼표산업 대표 "사고자와 가족에 깊이 사죄..매몰자 구조 만전"]]></title>
+        <id>https://v.daum.net/v/20220129183011991</id>
+        <link href="https://v.daum.net/v/20220129183011991"/>
+        <updated>2022-01-29T10:18:13.293Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">18:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[당신이 원하든 말든..누구나 '게임'을 해야 하는 시대가 온다 [황순민 기자의 더테크웨이브]]]></title>
         <id>https://v.daum.net/v/20220129180300782</id>
         <link href="https://v.daum.net/v/20220129180300782"/>
         <updated>2022-01-29T09:16:27.855Z</updated>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20220129160705742"/>
         <updated>2022-01-29T07:17:12.942Z</updated>
         <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">16:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스페이스X 발사 "올해 52차례 목표"]]></title>
-        <id>https://v.daum.net/v/20220129160104692</id>
-        <link href="https://v.daum.net/v/20220129160104692"/>
-        <updated>2022-01-29T07:17:12.943Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">16:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연휴에 급증하는 스미싱·보이스피싱 피해..대응 방법은]]></title>
-        <id>https://v.daum.net/v/20220129155402643</id>
-        <link href="https://v.daum.net/v/20220129155402643"/>
-        <updated>2022-01-29T07:17:12.944Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">15:54</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국머크, 평택 아동센터 4곳에 2000만원 상당 상품권 기부]]></title>
-        <id>https://v.daum.net/v/20220129155203634</id>
-        <link href="https://v.daum.net/v/20220129155203634"/>
-        <updated>2022-01-29T07:17:12.947Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">15:52</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아미 보이콧 사라질까..친환경 'BTS NFT' 출시 추진]]></title>
-        <id>https://v.daum.net/v/20220129154507570</id>
-        <link href="https://v.daum.net/v/20220129154507570"/>
-        <updated>2022-01-29T07:17:12.948Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">15:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["세배는 영상통화로"..통신3사, 설 연휴 기간 영상통화 무료 제공]]></title>
-        <id>https://v.daum.net/v/20220129153257449</id>
-        <link href="https://v.daum.net/v/20220129153257449"/>
-        <updated>2022-01-29T07:17:12.950Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">15:32</span>]]></content>
     </entry>
 </feed>
