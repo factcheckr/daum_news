@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-01-29T11:16:31.936Z</updated>
+    <updated>2022-01-29T12:26:03.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전기차 충전시설 의무설치 대상·비율 확대]]></title>
+        <id>https://v.daum.net/v/20220129210738003</id>
+        <link href="https://v.daum.net/v/20220129210738003"/>
+        <updated>2022-01-29T12:25:52.304Z</updated>
+        <content type="html"><![CDATA[대구MBC<span class="txt_bar"> · </span><span class="info_time">21:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] Yili, 연례 온라인 회의 개최 - 작년 직원 인센티브로 12억 위안 지급]]></title>
         <id>https://v.daum.net/v/20220129175437671</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220129110525909"/>
         <updated>2022-01-29T02:29:06.187Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] Iyuno-SDI, 신규 자금 조달 라운드 마무리]]></title>
-        <id>https://v.daum.net/v/20220129105915814</id>
-        <link href="https://v.daum.net/v/20220129105915814"/>
-        <updated>2022-01-29T02:29:06.192Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">10:59</span>]]></content>
     </entry>
 </feed>
