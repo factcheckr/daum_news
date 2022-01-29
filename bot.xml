@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-01-29T08:20:15.925Z</updated>
+    <updated>2022-01-29T09:16:51.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2022년 01월 29일)]]></title>
+        <id>https://v.daum.net/v/20220129173045450</id>
+        <link href="https://v.daum.net/v/20220129173045450"/>
+        <updated>2022-01-29T09:16:51.283Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가상화폐 비트코인 46,716,000원(+0.27%) 거래중]]></title>
         <id>https://v.daum.net/v/20220129153131440</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220129124050790"/>
         <updated>2022-01-29T04:22:35.611Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 영통동 영통황골주공1차 49㎡ 4억4500만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220129123552764</id>
-        <link href="https://v.daum.net/v/20220129123552764"/>
-        <updated>2022-01-29T04:22:35.612Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:35</span>]]></content>
     </entry>
 </feed>
