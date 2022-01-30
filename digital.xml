@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-01-30T12:25:49.945Z</updated>
+    <updated>2022-01-30T13:18:11.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["네이버 지도에서 설 명절 무료개방 주차장 확인"]]></title>
+        <id>https://v.daum.net/v/20220130220914062</id>
+        <link href="https://v.daum.net/v/20220130220914062"/>
+        <updated>2022-01-30T13:17:47.108Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">22:09</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["이번 설은 메타버스서 놀아볼까"..명절맞이 콘텐츠 선보이는 IT업계]]></title>
         <id>https://v.daum.net/v/20220130205903669</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220130173549129"/>
         <updated>2022-01-30T09:16:37.739Z</updated>
         <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">17:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어깨 무거워진 갤Z플립, 올해 과제는?[임인년 삼성폰 전략, 下]]]></title>
-        <id>https://v.daum.net/v/20220130172504052</id>
-        <link href="https://v.daum.net/v/20220130172504052"/>
-        <updated>2022-01-30T09:16:37.739Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">17:25</span>]]></content>
     </entry>
 </feed>
