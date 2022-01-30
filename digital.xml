@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-01-30T07:17:15.772Z</updated>
+    <updated>2022-01-30T08:19:57.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에너지공단-기상산업기술원, 기상-신재생E 협력체계 구축]]></title>
+        <id>https://v.daum.net/v/20220130170016780</id>
+        <link href="https://v.daum.net/v/20220130170016780"/>
+        <updated>2022-01-30T08:19:21.754Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">17:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["넷플릭스, 고딩이 살렸네?" 한국 좀비 그렇게 대단해?]]></title>
+        <id>https://v.daum.net/v/20220130165118630</id>
+        <link href="https://v.daum.net/v/20220130165118630"/>
+        <updated>2022-01-30T08:19:21.755Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">16:51</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[폭락장 직전 AI가 경고했다..'매수' 신호 줘]]></title>
         <id>https://v.daum.net/v/20220130160904125</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220130141302906"/>
         <updated>2022-01-30T05:15:14.182Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">14:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성전자, 베이징 올림픽 '디지털 퍼스트' 지원.. 제페토 갤럭시 하우스 등 운영]]></title>
-        <id>https://v.daum.net/v/20220130132405381</id>
-        <link href="https://v.daum.net/v/20220130132405381"/>
-        <updated>2022-01-30T05:15:14.183Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">13:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["결제 안돼 분통"..'오세훈 서울페이+' 갈등 점입가경]]></title>
-        <id>https://v.daum.net/v/20220130132019355</id>
-        <link href="https://v.daum.net/v/20220130132019355"/>
-        <updated>2022-01-30T04:21:18.044Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">13:20</span>]]></content>
     </entry>
 </feed>
