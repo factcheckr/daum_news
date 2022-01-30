@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-01-30T10:18:04.253Z</updated>
+    <updated>2022-01-30T11:14:08.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["게임으로 ADHD 치료"..아킬리 인터랙티브, 나스닥 상장 나선다[이우상의 글로벌워치]]]></title>
+        <id>https://v.daum.net/v/20220130201302403</id>
+        <link href="https://v.daum.net/v/20220130201302403"/>
+        <updated>2022-01-30T11:13:39.048Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">20:13</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["중국 절대 못 베낀다"..삼성, 두 번 접고 S펜까지 장착]]></title>
         <id>https://v.daum.net/v/20220130190751943</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220130155304932"/>
         <updated>2022-01-30T07:16:43.968Z</updated>
         <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">15:53</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[작년 스마트폰 시장 5년만에 성장.. 삼성 1위 수성]]></title>
-        <id>https://v.daum.net/v/20220130155304931</id>
-        <link href="https://v.daum.net/v/20220130155304931"/>
-        <updated>2022-01-30T07:16:43.973Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">15:53</span>]]></content>
     </entry>
 </feed>
