@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2022-01-30T18:19:23.610Z</updated>
+    <updated>2022-01-30T19:14:15.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안산국제거리극축제 '국내 참가작' 추가공모]]></title>
+        <id>https://v.daum.net/v/20220131033917855</id>
+        <link href="https://v.daum.net/v/20220131033917855"/>
+        <updated>2022-01-30T19:13:11.481Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">03:39</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[가정예배 365-1월 31일] 하·나·세 - 3가지 받은 약속으로 하나님의 나라를 세워가라]]></title>
         <id>https://v.daum.net/v/20220131030302835</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220131000120539"/>
         <updated>2022-01-30T15:16:05.140Z</updated>
         <content type="html"><![CDATA[엘르<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[녹유 오늘의 운세] 90년생 위험하다 핀잔 빠르게 돌아서요]]></title>
-        <id>https://v.daum.net/v/20220131000017517</id>
-        <link href="https://v.daum.net/v/20220131000017517"/>
-        <updated>2022-01-30T15:16:05.141Z</updated>
-        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
