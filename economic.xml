@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2022-01-31T16:24:41.932Z</updated>
+    <updated>2022-01-31T17:17:57.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[머스크, 비행궤적 추적에 곤혹..5000달러 제안도 거절당해]]></title>
+        <id>https://v.daum.net/v/20220201015550238</id>
+        <link href="https://v.daum.net/v/20220201015550238"/>
+        <updated>2022-01-31T17:16:28.545Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">01:55</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[테슬라 8% 급등..1월 마무리하는 뉴욕증시, 오전장 상승세]]></title>
         <id>https://v.daum.net/v/20220201011633122</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220201000004807"/>
         <updated>2022-01-31T15:17:06.485Z</updated>
         <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["칼바람, 강추위에도 줄선다"..롤렉스 '오픈런 알바' 직접 해보니]]></title>
-        <id>https://v.daum.net/v/20220201000003806</id>
-        <link href="https://v.daum.net/v/20220201000003806"/>
-        <updated>2022-01-31T15:17:06.486Z</updated>
-        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
