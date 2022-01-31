@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2022-01-31T18:20:30.818Z</updated>
+    <updated>2022-01-31T19:14:39.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['잘 찍고 잘 뽑자' 대선 투표 캠페인 - 배우 이정재]]></title>
+        <id>https://v.daum.net/v/20220201040413423</id>
+        <link href="https://v.daum.net/v/20220201040413423"/>
+        <updated>2022-01-31T19:13:31.592Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">04:04</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[가정예배 365-2월 1일] 예수 그리스도의 이름의 능력]]></title>
         <id>https://v.daum.net/v/20220201030157372</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220201000109835"/>
         <updated>2022-01-31T15:17:28.902Z</updated>
         <content type="html"><![CDATA[코스모폴리탄<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기억을 수선하는 사람, 재영 #책수선가]]></title>
-        <id>https://v.daum.net/v/20220201000052831</id>
-        <link href="https://v.daum.net/v/20220201000052831"/>
-        <updated>2022-01-31T15:17:28.904Z</updated>
-        <content type="html"><![CDATA[엘르<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
