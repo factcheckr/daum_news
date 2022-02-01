@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-02-01T08:20:56.704Z</updated>
+    <updated>2022-02-01T09:18:15.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[작년 반도체 시장 25% 증가..10년 내 두배 성장]]></title>
+        <id>https://v.daum.net/v/20220201175403445</id>
+        <link href="https://v.daum.net/v/20220201175403445"/>
+        <updated>2022-02-01T09:17:40.458Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">17:54</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세계 1위 배터리 中CATL, 영업익 3.1조원 최대실적 전망]]></title>
+        <id>https://v.daum.net/v/20220201174404336</id>
+        <link href="https://v.daum.net/v/20220201174404336"/>
+        <updated>2022-02-01T09:17:40.458Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">17:44</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["욕하면서도 무섭게 산다" 삼성전자도 제친 8만원 카카오 진짜 기회일까]]></title>
+        <id>https://v.daum.net/v/20220201174329333</id>
+        <link href="https://v.daum.net/v/20220201174329333"/>
+        <updated>2022-02-01T09:17:40.463Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">17:43</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KT 클라우드원팀 "'오픈 IaaS 정책 등 상생체계 선도"]]></title>
+        <id>https://v.daum.net/v/20220201173702283</id>
+        <link href="https://v.daum.net/v/20220201173702283"/>
+        <updated>2022-02-01T09:17:40.464Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">17:37</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화속 손예진까지.. 온 가족이 고통 받는 슬픈 '병' 치료 가능해질까?]]></title>
         <id>https://v.daum.net/v/20220201163551499</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20220201145708381"/>
         <updated>2022-02-01T06:20:30.921Z</updated>
         <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">14:57</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴욕타임스, 인기 급상승 단어게임 '워들' 인수]]></title>
-        <id>https://v.daum.net/v/20220201145144317</id>
-        <link href="https://v.daum.net/v/20220201145144317"/>
-        <updated>2022-02-01T06:20:30.922Z</updated>
-        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">14:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한 번쯤 들어봤지만 여전히 어려운 '메타버스·NFT'..어디에 쓰일까]]></title>
-        <id>https://v.daum.net/v/20220201143841212</id>
-        <link href="https://v.daum.net/v/20220201143841212"/>
-        <updated>2022-02-01T06:20:30.923Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">14:38</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소니, 4.3조에 '번지' 인수..블리자드 인수한 MS에 반격]]></title>
-        <id>https://v.daum.net/v/20220201143702203</id>
-        <link href="https://v.daum.net/v/20220201143702203"/>
-        <updated>2022-02-01T06:20:30.924Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">14:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6G 시대 사람·사물·공간 초연결 전망..기술·인재 선점 박차]]></title>
-        <id>https://v.daum.net/v/20220201142511102</id>
-        <link href="https://v.daum.net/v/20220201142511102"/>
-        <updated>2022-02-01T06:20:30.926Z</updated>
-        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">14:25</span>]]></content>
     </entry>
 </feed>
