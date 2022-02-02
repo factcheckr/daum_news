@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2022-02-02T15:19:19.502Z</updated>
+    <updated>2022-02-02T16:26:02.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[문화재청, 문화유산 분야 청년인턴 200명 선발]]></title>
+        <id>https://v.daum.net/v/20220203010352946</id>
+        <link href="https://v.daum.net/v/20220203010352946"/>
+        <updated>2022-02-02T16:24:54.113Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[셀리버리 리빙앤헬스, 바이오 브리드 코스메틱 브랜드 '더 라퓨즈' 론칭]]></title>
+        <id>https://v.daum.net/v/20220203010003903</id>
+        <link href="https://v.daum.net/v/20220203010003903"/>
+        <updated>2022-02-02T16:24:54.113Z</updated>
+        <content type="html"><![CDATA[웨딩21뉴스<span class="txt_bar"> · </span><span class="info_time">01:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘부터 오미크론 맞춤형 대응, 고위험군만 PCR 검사받는다]]></title>
         <id>https://v.daum.net/v/20220203001100690</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220203000300563"/>
         <updated>2022-02-02T15:18:13.036Z</updated>
         <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이번엔 K좀비, 한국드라마 세 번째 넷플릭스 세계 1위]]></title>
-        <id>https://v.daum.net/v/20220203000242552</id>
-        <link href="https://v.daum.net/v/20220203000242552"/>
-        <updated>2022-02-02T15:18:13.038Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세기말 감성을 더해 Eyes on PRINTS!]]></title>
-        <id>https://v.daum.net/v/20220203000158548</id>
-        <link href="https://v.daum.net/v/20220203000158548"/>
-        <updated>2022-02-02T15:18:13.039Z</updated>
-        <content type="html"><![CDATA[엘르<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
     </entry>
 </feed>
