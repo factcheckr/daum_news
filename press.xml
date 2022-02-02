@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-02-02T12:27:47.924Z</updated>
+    <updated>2022-02-02T13:20:49.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[산업부, 중소·중견기업 대상 RCEP 활용 설명회 연다]]></title>
+        <id>https://v.daum.net/v/20220202221202011</id>
+        <link href="https://v.daum.net/v/20220202221202011"/>
+        <updated>2022-02-02T13:20:38.869Z</updated>
+        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">22:12</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022년 대한민국 일자리 으뜸기업 신청·접수]]></title>
         <id>https://v.daum.net/v/20220202210520519</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220202155702362"/>
         <updated>2022-02-02T07:16:13.798Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">15:57</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라이트스미스 그룹, 1억8600만달러 모집하며 첫 기후 복원·적응 사모펀드 마감]]></title>
-        <id>https://v.daum.net/v/20220202154703197</id>
-        <link href="https://v.daum.net/v/20220202154703197"/>
-        <updated>2022-02-02T07:16:13.798Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">15:47</span>]]></content>
     </entry>
 </feed>

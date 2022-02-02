@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-02-02T12:27:47.921Z</updated>
+    <updated>2022-02-02T13:20:49.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[선거를 건축 현상설계처럼 치를 수 있다면 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20220202220008910</id>
+        <link href="https://v.daum.net/v/20220202220008910"/>
+        <updated>2022-02-02T13:20:28.146Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 2월 3일 [김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20220202220001903</id>
+        <link href="https://v.daum.net/v/20220202220001903"/>
+        <updated>2022-02-02T13:20:28.147Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 신규 확진 2만명대, 재택치료자 관리 역량 강화 시급하다]]></title>
         <id>https://v.daum.net/v/20220202202522185</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220202193435780"/>
         <updated>2022-02-02T11:15:37.056Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022.02.03 Cartoon]]></title>
-        <id>https://v.daum.net/v/20220202193115750</id>
-        <link href="https://v.daum.net/v/20220202193115750"/>
-        <updated>2022-02-02T11:15:37.057Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2월 3일 한겨레 그림판]]></title>
-        <id>https://v.daum.net/v/20220202191606608</id>
-        <link href="https://v.daum.net/v/20220202191606608"/>
-        <updated>2022-02-02T10:18:53.049Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:16</span>]]></content>
     </entry>
 </feed>
