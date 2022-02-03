@@ -2,11 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-02-03T07:17:42.346Z</updated>
+    <updated>2022-02-03T08:21:06.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[아침햇발] 김만배의 '윤석열 카드' 발언, 왜 이제야 나왔나 / 박용현]]></title>
+        <title type="html"><![CDATA[[기자수첩] 무역수지 적자, 방치해도 되는 것인가]]></title>
+        <id>https://v.daum.net/v/20220203171053090</id>
+        <link href="https://v.daum.net/v/20220203171053090"/>
+        <updated>2022-02-03T08:20:43.914Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[나는 고발한다]중앙일보가 '저격'에 이어 '고발'에 나섭니다]]></title>
+        <id>https://v.daum.net/v/20220203170029645</id>
+        <link href="https://v.daum.net/v/20220203170029645"/>
+        <updated>2022-02-03T08:20:43.915Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">17:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[개의 세력]]></title>
+        <id>https://v.daum.net/v/20220203164610189</id>
+        <link href="https://v.daum.net/v/20220203164610189"/>
+        <updated>2022-02-03T08:20:43.916Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">16:46</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[슬기로운 기자생활] 빙산의 일각]]></title>
+        <id>https://v.daum.net/v/20220203164602182</id>
+        <link href="https://v.daum.net/v/20220203164602182"/>
+        <updated>2022-02-03T08:20:43.917Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">16:46</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김만배의 '윤석열 카드' 발언, 왜 이제야 나왔나]]></title>
         <id>https://v.daum.net/v/20220203160607708</id>
         <link href="https://v.daum.net/v/20220203160607708"/>
         <updated>2022-02-03T07:17:18.718Z</updated>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20220203142657947"/>
         <updated>2022-02-03T06:21:07.591Z</updated>
         <content type="html"><![CDATA[미디어오늘<span class="txt_bar"> · </span><span class="info_time">14:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데스크라인]금연 작심삼일]]></title>
-        <id>https://v.daum.net/v/20220203141203444</id>
-        <link href="https://v.daum.net/v/20220203141203444"/>
-        <updated>2022-02-03T05:16:31.182Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">14:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[양경미의 영화로 보는 세상] 술의 주는 기쁨과 파멸]]></title>
-        <id>https://v.daum.net/v/20220203140105047</id>
-        <link href="https://v.daum.net/v/20220203140105047"/>
-        <updated>2022-02-03T05:16:31.184Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">14:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오미크론 '대유행'..유럽의 선택은 '공존']]></title>
-        <id>https://v.daum.net/v/20220203135859944</id>
-        <link href="https://v.daum.net/v/20220203135859944"/>
-        <updated>2022-02-03T05:16:31.184Z</updated>
-        <content type="html"><![CDATA[EBS<span class="txt_bar"> · </span><span class="info_time">13:58</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19 대유행 시대, 골프 산업 호황과 그 지속가능성에 대하여]]></title>
-        <id>https://v.daum.net/v/20220203133512135</id>
-        <link href="https://v.daum.net/v/20220203133512135"/>
-        <updated>2022-02-03T05:16:31.187Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">13:35</span>]]></content>
     </entry>
 </feed>
