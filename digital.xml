@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-02-04T13:16:14.529Z</updated>
+    <updated>2022-02-04T14:15:33.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사우디 국부펀드, 넥슨 지분 1조 규모 매입]]></title>
+        <id>https://v.daum.net/v/20220204221931509</id>
+        <link href="https://v.daum.net/v/20220204221931509"/>
+        <updated>2022-02-04T14:15:02.123Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">22:19</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["TV 사려면 올해가 적기" 공급 호재 속 가격 하락 기대감 '쑥']]></title>
         <id>https://v.daum.net/v/20220204215700218</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220204193722190"/>
         <updated>2022-02-04T11:12:39.633Z</updated>
         <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">19:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나 신규확진 역대 최다..네이버 "대면활동 전면금지"]]></title>
-        <id>https://v.daum.net/v/20220204192315047</id>
-        <link href="https://v.daum.net/v/20220204192315047"/>
-        <updated>2022-02-04T11:12:39.633Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">19:23</span>]]></content>
     </entry>
 </feed>
