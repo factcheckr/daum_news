@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-02-04T01:55:07.133Z</updated>
+    <updated>2022-02-04T02:19:21.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인사] KR투자증권]]></title>
+        <id>https://v.daum.net/v/20220204105658473</id>
+        <link href="https://v.daum.net/v/20220204105658473"/>
+        <updated>2022-02-04T02:18:57.883Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">10:56</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[데스크칼럼]금리인상, 회색 코뿔소의 습격]]></title>
         <id>https://v.daum.net/v/20220204105248307</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220204084922900"/>
         <updated>2022-02-04T00:56:12.775Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">08:49</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Failing the testing test (KOR)]]></title>
-        <id>https://v.daum.net/v/20220204084422782</id>
-        <link href="https://v.daum.net/v/20220204084422782"/>
-        <updated>2022-02-04T00:56:12.775Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">08:44</span>]]></content>
     </entry>
 </feed>
