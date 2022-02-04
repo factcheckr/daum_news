@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2022-02-04T16:22:01.976Z</updated>
+    <updated>2022-02-04T17:14:33.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["사우디 아람코, 60조원 추가상장 추진..런던 증시도 고려"]]></title>
+        <id>https://v.daum.net/v/20220205013301208</id>
+        <link href="https://v.daum.net/v/20220205013301208"/>
+        <updated>2022-02-04T17:13:20.792Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">01:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[바디프랜드, 설 명절 안마의자·직접 만든 음식 전달로 이웃사랑 실천]]></title>
         <id>https://v.daum.net/v/20220205010505160</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220205003159046"/>
         <updated>2022-02-04T16:20:37.566Z</updated>
         <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">00:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장덕현 삼성전기 사장, 자사주 2000주 매입 '주주가치 제고']]></title>
-        <id>https://v.daum.net/v/20220205002736020</id>
-        <link href="https://v.daum.net/v/20220205002736020"/>
-        <updated>2022-02-04T16:20:37.567Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">00:27</span>]]></content>
     </entry>
 </feed>
