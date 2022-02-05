@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2022-02-05T18:17:13.974Z</updated>
+    <updated>2022-02-05T19:14:11.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박노해 카메라가 잡은 '단 한 사람 위한 최고의 찬사']]></title>
+        <id>https://v.daum.net/v/20220206033128073</id>
+        <link href="https://v.daum.net/v/20220206033128073"/>
+        <updated>2022-02-05T19:13:24.164Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">03:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[가정예배 365-2월 6일] 우리는 모두 바나바 사역자]]></title>
         <id>https://v.daum.net/v/20220206030057040</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220206000022437"/>
         <updated>2022-02-05T15:14:24.990Z</updated>
         <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[녹유 오늘의 운세] 96년생 야박하다 원망 칭찬으로 들어요]]></title>
-        <id>https://v.daum.net/v/20220206000017432</id>
-        <link href="https://v.daum.net/v/20220206000017432"/>
-        <updated>2022-02-05T15:14:24.991Z</updated>
-        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
