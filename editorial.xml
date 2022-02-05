@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-02-05T04:19:19.753Z</updated>
+    <updated>2022-02-05T05:14:49.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[명절 이후 '어질어질'..중장년 여성 위협하는 '어지럼증' 원인은?]]></title>
+        <id>https://v.daum.net/v/20220205132707165</id>
+        <link href="https://v.daum.net/v/20220205132707165"/>
+        <updated>2022-02-05T05:14:32.627Z</updated>
+        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">13:27</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박수현 오션월드<30> 공격에 최적화된 상어 이빨]]></title>
         <id>https://v.daum.net/v/20220205120619520</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220205044006641"/>
         <updated>2022-02-04T20:15:16.319Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1948년, 1962년 순천의 두 비극, 그리고 박정희 [김시덕의 이 길을 따라가면]]]></title>
-        <id>https://v.daum.net/v/20220205043120624</id>
-        <link href="https://v.daum.net/v/20220205043120624"/>
-        <updated>2022-02-04T20:15:16.319Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:31</span>]]></content>
     </entry>
 </feed>

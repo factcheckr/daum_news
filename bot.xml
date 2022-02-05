@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-02-05T04:19:19.750Z</updated>
+    <updated>2022-02-05T05:14:49.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인천 연수동 연수2차우성아파트 40㎡ 3억4000만원.. 역대 최고가]]></title>
+        <id>https://v.daum.net/v/20220205133555235</id>
+        <link href="https://v.daum.net/v/20220205133555235"/>
+        <updated>2022-02-05T05:14:49.214Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:35</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천 삼산동 삼산타운1단지아파트 51㎡ 4억9990만원.. 역대 최고가]]></title>
+        <id>https://v.daum.net/v/20220205133121199</id>
+        <link href="https://v.daum.net/v/20220205133121199"/>
+        <updated>2022-02-05T05:14:49.217Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:31</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부산 용호동 오륙도SK VIEW 174㎡ 9억9000만원.. 역대 최고가]]></title>
+        <id>https://v.daum.net/v/20220205132553149</id>
+        <link href="https://v.daum.net/v/20220205132553149"/>
+        <updated>2022-02-05T05:14:49.218Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:25</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[광주 월곡동 하남금호타운 84㎡ 2억4400만원.. 역대 최고가]]></title>
+        <id>https://v.daum.net/v/20220205132050105</id>
+        <link href="https://v.daum.net/v/20220205132050105"/>
+        <updated>2022-02-05T05:14:49.219Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:20</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하남 선동 미사강변센트리버 74㎡ 9억3000만원에 거래]]></title>
         <id>https://v.daum.net/v/20220205131555050</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20220205123053703"/>
         <updated>2022-02-05T04:19:19.106Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고양 중산동 하늘마을2단지 84㎡ 5억1000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220205122553679</id>
-        <link href="https://v.daum.net/v/20220205122553679"/>
-        <updated>2022-02-05T04:19:19.107Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고양 식사동 위시티일산자이4단지 162㎡ 11억7000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220205122049627</id>
-        <link href="https://v.daum.net/v/20220205122049627"/>
-        <updated>2022-02-05T04:19:19.108Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울 현석동 래미안 웰스트림 84㎡ 16억5000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220205121551594</id>
-        <link href="https://v.daum.net/v/20220205121551594"/>
-        <updated>2022-02-05T03:16:33.487Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울 장지동 송파파인타운6단지 84㎡ 15억원에 거래]]></title>
-        <id>https://v.daum.net/v/20220205121052560</id>
-        <link href="https://v.daum.net/v/20220205121052560"/>
-        <updated>2022-02-05T03:16:33.488Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:10</span>]]></content>
     </entry>
 </feed>
