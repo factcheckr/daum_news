@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-02-05T01:41:10.780Z</updated>
+    <updated>2022-02-05T02:18:31.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삼성전자 100조 쥐고도 속타겠네..반도체 M&A 독일도 불허 [MK위클리반도체]]]></title>
+        <id>https://v.daum.net/v/20220205110300891</id>
+        <link href="https://v.daum.net/v/20220205110300891"/>
+        <updated>2022-02-05T02:18:01.539Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">11:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6월 지방선거 선거방송심의위원회 출범..위원장은 권혁남 명예교수]]></title>
+        <id>https://v.daum.net/v/20220205105538805</id>
+        <link href="https://v.daum.net/v/20220205105538805"/>
+        <updated>2022-02-05T02:18:01.539Z</updated>
+        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">10:55</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[블록버스터 톺아보기] 최초로 승인된 PD-1계열 면역항암제, '옵디보' 개발사]]></title>
         <id>https://v.daum.net/v/20220205103706629</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220205093642812"/>
         <updated>2022-02-05T00:48:53.819Z</updated>
         <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">09:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 CDC 자문기구 "모더나 코로나19 백신, 정식승인해야"]]></title>
-        <id>https://v.daum.net/v/20220205092645700</id>
-        <link href="https://v.daum.net/v/20220205092645700"/>
-        <updated>2022-02-05T00:48:53.819Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">09:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국제우주정거장의 최후가 정해졌다..9년 뒤 '니모의 바다'로]]></title>
-        <id>https://v.daum.net/v/20220205090605507</id>
-        <link href="https://v.daum.net/v/20220205090605507"/>
-        <updated>2022-02-05T00:48:53.819Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">09:06</span>]]></content>
     </entry>
 </feed>
