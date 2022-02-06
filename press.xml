@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-02-06T20:18:02.648Z</updated>
+    <updated>2022-02-06T21:15:57.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공공기관 알리오(Alio) 통합공시 기준 개정]]></title>
+        <id>https://v.daum.net/v/20220207060519319</id>
+        <link href="https://v.daum.net/v/20220207060519319"/>
+        <updated>2022-02-06T21:15:46.514Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">06:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정선 북평면 행정복지센터 'Switch-On 직원봉사단' 활동 전개]]></title>
         <id>https://v.daum.net/v/20220207001113698</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220207000447584</id>
         <link href="https://v.daum.net/v/20220207000447584"/>
         <updated>2022-02-06T15:16:56.490Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[건강한 가족] 관절에 좋은 MSM에 젖산칼슘 추가]]></title>
-        <id>https://v.daum.net/v/20220207000444582</id>
-        <link href="https://v.daum.net/v/20220207000444582"/>
-        <updated>2022-02-06T15:16:56.491Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
     </entry>
 </feed>
