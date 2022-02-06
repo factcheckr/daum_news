@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-02-06T07:16:46.456Z</updated>
+    <updated>2022-02-06T08:19:08.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박용석 만평] 2월 7일]]></title>
+        <id>https://v.daum.net/v/20220206171615331</id>
+        <link href="https://v.daum.net/v/20220206171615331"/>
+        <updated>2022-02-06T08:18:51.791Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">17:16</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[현장연결] 윤석열 "단일화는 저와 선대본부가 다룰 문제"]]></title>
+        <id>https://v.daum.net/v/20220206164751698</id>
+        <link href="https://v.daum.net/v/20220206164751698"/>
+        <updated>2022-02-06T08:18:51.794Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV<span class="txt_bar"> · </span><span class="info_time">16:47</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[기고] 스타트업의 새해 소망 '동업자 구하기']]></title>
         <id>https://v.daum.net/v/20220206160114953</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220206110109989"/>
         <updated>2022-02-06T02:38:32.063Z</updated>
         <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">11:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9부 능선 도달한 이란 비핵화 협상 [김강석의 중동 오디세이]]]></title>
-        <id>https://v.daum.net/v/20220206100008924</id>
-        <link href="https://v.daum.net/v/20220206100008924"/>
-        <updated>2022-02-06T02:38:32.064Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">10:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[ET톡]정치판, 사라진 '신뢰']]></title>
-        <id>https://v.daum.net/v/20220206094302665</id>
-        <link href="https://v.daum.net/v/20220206094302665"/>
-        <updated>2022-02-06T02:38:32.065Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">09:43</span>]]></content>
     </entry>
 </feed>
