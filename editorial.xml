@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-02-06T22:17:25.308Z</updated>
+    <updated>2022-02-06T23:18:12.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[한강로에서] 더하기, 빼기 말고 곱하기]]></title>
+        <id>https://v.daum.net/v/20220207080204642</id>
+        <link href="https://v.daum.net/v/20220207080204642"/>
+        <updated>2022-02-06T23:17:54.367Z</updated>
+        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">08:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](7일 조간)]]></title>
+        <id>https://v.daum.net/v/20220207080006589</id>
+        <link href="https://v.daum.net/v/20220207080006589"/>
+        <updated>2022-02-06T23:17:54.368Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대일논단]  약팽소선과 공직 후보자 선택의 기준]]></title>
         <id>https://v.daum.net/v/20220207070842939</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220207053123929"/>
         <updated>2022-02-06T21:15:35.591Z</updated>
         <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Editorial] Swift probe needed]]></title>
-        <id>https://v.daum.net/v/20220207053105928</id>
-        <link href="https://v.daum.net/v/20220207053105928"/>
-        <updated>2022-02-06T21:15:35.593Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정재정의 독사만평]  중국에 지레 겁먹고 기죽지 말자/광주과학기술원 초빙석학교수]]></title>
-        <id>https://v.daum.net/v/20220207050843805</id>
-        <link href="https://v.daum.net/v/20220207050843805"/>
-        <updated>2022-02-06T20:17:39.886Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
     </entry>
 </feed>
