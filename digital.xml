@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-02-06T11:14:37.420Z</updated>
+    <updated>2022-02-06T12:25:22.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['최소 2691km' 혹고니 이동 경로 찾았다]]></title>
+        <id>https://v.daum.net/v/20220206211733138</id>
+        <link href="https://v.daum.net/v/20220206211733138"/>
+        <updated>2022-02-06T12:24:57.235Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">21:17</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인사] 중기부]]></title>
         <id>https://v.daum.net/v/20220206200816609</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220206194221340</id>
         <link href="https://v.daum.net/v/20220206194221340"/>
         <updated>2022-02-06T11:14:01.489Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">19:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제약사 신약개발 자회사 투자유치로 임상 가속도]]></title>
-        <id>https://v.daum.net/v/20220206194218339</id>
-        <link href="https://v.daum.net/v/20220206194218339"/>
-        <updated>2022-02-06T11:14:01.491Z</updated>
         <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">19:42</span>]]></content>
     </entry>
 </feed>
