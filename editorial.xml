@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-02-06T13:18:56.740Z</updated>
+    <updated>2022-02-06T14:16:27.769Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[김정기의호모커뮤니쿠스] 인간은 소통하는 존재]]></title>
+        <id>https://v.daum.net/v/20220206231223299</id>
+        <link href="https://v.daum.net/v/20220206231223299"/>
+        <updated>2022-02-06T14:16:06.713Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">23:12</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[WT논평] The Lancet has had a breakup with Peter Daszak (1)]]></title>
+        <id>https://v.daum.net/v/20220206231051296</id>
+        <link href="https://v.daum.net/v/20220206231051296"/>
+        <updated>2022-02-06T14:16:06.714Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">23:10</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 대선 D-30, 정책 선거 가능성 보인 TV토론 확대를]]></title>
         <id>https://v.daum.net/v/20220206221535865</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220206195600472"/>
         <updated>2022-02-06T11:14:13.732Z</updated>
         <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:56</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Who's afraid of a TV debate?]]></title>
-        <id>https://v.daum.net/v/20220206195131433</id>
-        <link href="https://v.daum.net/v/20220206195131433"/>
-        <updated>2022-02-06T11:14:13.733Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Investigate errand-gate to settle the matter]]></title>
-        <id>https://v.daum.net/v/20220206194942418</id>
-        <link href="https://v.daum.net/v/20220206194942418"/>
-        <updated>2022-02-06T11:14:13.733Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:49</span>]]></content>
     </entry>
 </feed>
