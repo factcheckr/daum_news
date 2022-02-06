@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-02-06T03:17:25.753Z</updated>
+    <updated>2022-02-06T04:22:01.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방사선 색전술, 크기 큰 간암에서는 수술만큼 효과적]]></title>
+        <id>https://v.daum.net/v/20220206131808091</id>
+        <link href="https://v.daum.net/v/20220206131808091"/>
+        <updated>2022-02-06T04:21:38.907Z</updated>
+        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">13:18</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[文대통령 압박나선 與..노웅래 "35조 추경, 대통령이 나서라"]]></title>
+        <id>https://v.daum.net/v/20220206122454315</id>
+        <link href="https://v.daum.net/v/20220206122454315"/>
+        <updated>2022-02-06T04:21:38.909Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">12:24</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[김순덕의 도발]북핵을 머리 위에 두고 '3不' 유지한다고?]]></title>
         <id>https://v.daum.net/v/20220206113452525</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220206070408212"/>
         <updated>2022-02-05T22:20:54.047Z</updated>
         <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">07:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이렇게 힘들어도 볼래?"..험난했던 동계올림픽 관람기]]></title>
-        <id>https://v.daum.net/v/20220206063022886</id>
-        <link href="https://v.daum.net/v/20220206063022886"/>
-        <updated>2022-02-05T22:20:54.048Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">06:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[목멱칼럼]4자 대선후보 토론회 관전평]]></title>
-        <id>https://v.daum.net/v/20220206061506762</id>
-        <link href="https://v.daum.net/v/20220206061506762"/>
-        <updated>2022-02-05T22:20:54.050Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">06:15</span>]]></content>
     </entry>
 </feed>
