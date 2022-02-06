@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2022-02-06T16:23:37.284Z</updated>
+    <updated>2022-02-06T17:17:27.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[황희 "개회식에 한복 등장할까 한복 착용..'무언의 항의'였다"]]></title>
+        <id>https://v.daum.net/v/20220207013853990</id>
+        <link href="https://v.daum.net/v/20220207013853990"/>
+        <updated>2022-02-06T17:16:10.384Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">01:38</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김의겸 충격 폭로 "김건희, 윤석열과 결혼한 이유? 사업상 '병풍' 필요해서"]]></title>
+        <id>https://v.daum.net/v/20220207013727984</id>
+        <link href="https://v.daum.net/v/20220207013727984"/>
+        <updated>2022-02-06T17:16:10.384Z</updated>
+        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">01:37</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[與 "김혜경 논란, 국민은 그리 심각하게 안 보는 듯"]]></title>
         <id>https://v.daum.net/v/20220207012209952</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220207002047745"/>
         <updated>2022-02-06T16:22:22.962Z</updated>
         <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">00:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봉하마을 찾은 이재명 "노무현의 꿈이 이재명의 꿈"[르포]]]></title>
-        <id>https://v.daum.net/v/20220207001924738</id>
-        <link href="https://v.daum.net/v/20220207001924738"/>
-        <updated>2022-02-06T16:22:22.965Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">00:19</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[현장] "盧 꿈 내가 완성" 봉하마을서 흐느낀 이재명, '계승자' 자임]]></title>
-        <id>https://v.daum.net/v/20220207001534727</id>
-        <link href="https://v.daum.net/v/20220207001534727"/>
-        <updated>2022-02-06T16:22:22.967Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">00:15</span>]]></content>
     </entry>
 </feed>
