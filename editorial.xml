@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-02-07T03:18:37.005Z</updated>
+    <updated>2022-02-07T04:22:25.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[여명] 내게 공약집을 달라]]></title>
+        <id>https://v.daum.net/v/20220207122445427</id>
+        <link href="https://v.daum.net/v/20220207122445427"/>
+        <updated>2022-02-07T04:22:04.024Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">12:24</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[기자수첩] 또 터진 후진국형 인재(人災), 언제까지 지켜봐야하나]]></title>
         <id>https://v.daum.net/v/20220207120015703</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220207111322600"/>
         <updated>2022-02-07T02:37:01.242Z</updated>
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 월급보다 더 오른 물가와 세금, 서민은 마이너스의 삶]]></title>
-        <id>https://v.daum.net/v/20220207111242559</id>
-        <link href="https://v.daum.net/v/20220207111242559"/>
-        <updated>2022-02-07T02:37:01.243Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:12</span>]]></content>
     </entry>
 </feed>
