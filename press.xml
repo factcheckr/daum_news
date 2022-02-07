@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-02-07T12:27:05.674Z</updated>
+    <updated>2022-02-07T13:20:53.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[해양수산 신기술 보유기업, 국가사업 신청 때 가점]]></title>
+        <id>https://v.daum.net/v/20220207221022945</id>
+        <link href="https://v.daum.net/v/20220207221022945"/>
+        <updated>2022-02-07T13:20:42.325Z</updated>
+        <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">22:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후보별 균형발전 전략 <상> 李 "국세·지방세 비율 6 대 4" 尹 "세수 불균형 발생해 반대"]]></title>
+        <id>https://v.daum.net/v/20220207220952926</id>
+        <link href="https://v.daum.net/v/20220207220952926"/>
+        <updated>2022-02-07T13:20:42.326Z</updated>
+        <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">22:09</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[외교부 인사]]></title>
         <id>https://v.daum.net/v/20220207193521004</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220207173704499"/>
         <updated>2022-02-07T09:18:09.167Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bentley Systems Completes Acquisition of Power Line Systems, Global Leader in Software for Power Transmission Engineering]]></title>
-        <id>https://v.daum.net/v/20220207173702498</id>
-        <link href="https://v.daum.net/v/20220207173702498"/>
-        <updated>2022-02-07T09:18:09.168Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[70여년간 방치된 대전차 장애물은 무엇을 말하고 있는가]]></title>
-        <id>https://v.daum.net/v/20220207173626483</id>
-        <link href="https://v.daum.net/v/20220207173626483"/>
-        <updated>2022-02-07T09:18:09.169Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">17:36</span>]]></content>
     </entry>
 </feed>
