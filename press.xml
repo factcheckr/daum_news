@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-02-08T21:15:28.617Z</updated>
+    <updated>2022-02-08T22:17:19.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[더 한장] 지금 서울 선별진료소는]]></title>
+        <id>https://v.daum.net/v/20220209070038516</id>
+        <link href="https://v.daum.net/v/20220209070038516"/>
+        <updated>2022-02-08T22:17:08.302Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비대면으로 배우는 다양한 생물다양성교육 신청하세요]]></title>
+        <id>https://v.daum.net/v/20220209063529233</id>
+        <link href="https://v.daum.net/v/20220209063529233"/>
+        <updated>2022-02-08T22:17:08.302Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">06:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울시-서울문화재단, 기초생활수급자·차상위계층 45만 명에 10만원 '문화누리카드' 발급]]></title>
         <id>https://v.daum.net/v/20220209060705975</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220209001021400"/>
         <updated>2022-02-08T15:18:22.783Z</updated>
         <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[속초시 현안 조기해결 내년도 국·도비 확보 총력]]></title>
-        <id>https://v.daum.net/v/20220209001011391</id>
-        <link href="https://v.daum.net/v/20220209001011391"/>
-        <updated>2022-02-08T15:18:22.785Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토클립] 업그레이드 되는 가전 처음이지?..LG 맞춤형 'UP가전']]></title>
-        <id>https://v.daum.net/v/20220209000359314</id>
-        <link href="https://v.daum.net/v/20220209000359314"/>
-        <updated>2022-02-08T15:18:22.787Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
     </entry>
 </feed>
