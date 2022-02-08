@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-02-08T13:21:19.646Z</updated>
+    <updated>2022-02-08T14:17:14.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KT 5G 초이스 신규 가입자 '밀리의 서재' 무료 구독[포토뉴스]]]></title>
+        <id>https://v.daum.net/v/20220208224730510</id>
+        <link href="https://v.daum.net/v/20220208224730510"/>
+        <updated>2022-02-08T14:16:49.388Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:47</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['손바닥' 인증으로 국내선 탑승권 대신하세요]]></title>
         <id>https://v.daum.net/v/20220208220712887</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220208195820724</id>
         <link href="https://v.daum.net/v/20220208195820724"/>
         <updated>2022-02-08T11:15:38.892Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">19:58</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[택배파업 한 달째, 소비자 불만 폭주]]></title>
-        <id>https://v.daum.net/v/20220208195816721</id>
-        <link href="https://v.daum.net/v/20220208195816721"/>
-        <updated>2022-02-08T11:15:38.894Z</updated>
         <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">19:58</span>]]></content>
     </entry>
 </feed>
