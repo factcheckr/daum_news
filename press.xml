@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-02-08T11:16:04.039Z</updated>
+    <updated>2022-02-08T12:26:50.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[충북 진천 종오리 농장 및 충남 예산 메추리 농장에서 고병원성 조류인플루엔자 의심축 발생]]></title>
+        <id>https://v.daum.net/v/20220208210525331</id>
+        <link href="https://v.daum.net/v/20220208210525331"/>
+        <updated>2022-02-08T12:26:37.552Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">21:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경기 평택 산란계 농장 및 전북 정읍 육계 농장에서 고병원성 조류인플루엔자 확진]]></title>
+        <id>https://v.daum.net/v/20220208210525330</id>
+        <link href="https://v.daum.net/v/20220208210525330"/>
+        <updated>2022-02-08T12:26:37.552Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">21:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] Infosys Digital Radar 2022 Finds Technology Adoption Alone No]]></title>
         <id>https://v.daum.net/v/20220208194910510</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220208174812932"/>
         <updated>2022-02-08T09:18:26.097Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신안군, 파리 패션위크 패션쇼 촬영지로 떠올라]]></title>
-        <id>https://v.daum.net/v/20220208174749905</id>
-        <link href="https://v.daum.net/v/20220208174749905"/>
-        <updated>2022-02-08T09:18:26.097Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양주시, 올해도 소상공인 공유재산 임대료 감면]]></title>
-        <id>https://v.daum.net/v/20220208174736899</id>
-        <link href="https://v.daum.net/v/20220208174736899"/>
-        <updated>2022-02-08T09:18:26.098Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:47</span>]]></content>
     </entry>
 </feed>
