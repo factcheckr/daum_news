@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-02-09T07:17:41.633Z</updated>
+    <updated>2022-02-09T08:21:30.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[29명 중 28등, 그래도 웃었다.. 코로나도 못 막은 올림픽 도전기]]></title>
+        <id>https://v.daum.net/v/20220209171629824</id>
+        <link href="https://v.daum.net/v/20220209171629824"/>
+        <updated>2022-02-09T08:21:06.595Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">17:16</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[기고] 탈진실의 시대 우상의 몰락]]></title>
+        <id>https://v.daum.net/v/20220209165842121</id>
+        <link href="https://v.daum.net/v/20220209165842121"/>
+        <updated>2022-02-09T08:21:06.599Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">16:58</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[기고]스마트 병원이 가져다 줄 임상현장의 변화]]></title>
         <id>https://v.daum.net/v/20220209160126825</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220209131302840"/>
         <updated>2022-02-09T04:21:45.607Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">13:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['60+기후행동' 시니어들이 환경운동가로 나섰다]]></title>
-        <id>https://v.daum.net/v/20220209130012566</id>
-        <link href="https://v.daum.net/v/20220209130012566"/>
-        <updated>2022-02-09T04:21:45.607Z</updated>
-        <content type="html"><![CDATA[KTV<span class="txt_bar"> · </span><span class="info_time">13:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[톺아보기]대한민국의 항공산업, 원팀만이 살길이다]]></title>
-        <id>https://v.daum.net/v/20220209115606884</id>
-        <link href="https://v.daum.net/v/20220209115606884"/>
-        <updated>2022-02-09T03:17:50.079Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:56</span>]]></content>
     </entry>
 </feed>
