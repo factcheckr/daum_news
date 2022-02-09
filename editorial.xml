@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-02-09T03:18:10.816Z</updated>
+    <updated>2022-02-09T04:22:06.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[추모사] '한국 PR의 대모' 김한경 회장을 기리며..]]></title>
+        <id>https://v.daum.net/v/20220209131302840</id>
+        <link href="https://v.daum.net/v/20220209131302840"/>
+        <updated>2022-02-09T04:21:45.607Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">13:13</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['60+기후행동' 시니어들이 환경운동가로 나섰다]]></title>
+        <id>https://v.daum.net/v/20220209130012566</id>
+        <link href="https://v.daum.net/v/20220209130012566"/>
+        <updated>2022-02-09T04:21:45.607Z</updated>
+        <content type="html"><![CDATA[KTV<span class="txt_bar"> · </span><span class="info_time">13:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[톺아보기]대한민국의 항공산업, 원팀만이 살길이다]]></title>
         <id>https://v.daum.net/v/20220209115606884</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220209111705857"/>
         <updated>2022-02-09T03:17:50.089Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설]저출산대책처럼 헛돈 우려되는 지방소멸대응기금]]></title>
-        <id>https://v.daum.net/v/20220209111703854</id>
-        <link href="https://v.daum.net/v/20220209111703854"/>
-        <updated>2022-02-09T03:17:50.091Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[칼럼]중국이 글로벌 리더가 될 수 없는 이유]]></title>
-        <id>https://v.daum.net/v/20220209110306078</id>
-        <link href="https://v.daum.net/v/20220209110306078"/>
-        <updated>2022-02-09T02:11:57.184Z</updated>
-        <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">11:03</span>]]></content>
     </entry>
 </feed>
