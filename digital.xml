@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-02-09T18:20:26.511Z</updated>
+    <updated>2022-02-09T19:14:51.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[갤럭시 언팩] 여왕도 반한 갤럭시 S22..BTS도 완전체 출동]]></title>
+        <id>https://v.daum.net/v/20220210032630443</id>
+        <link href="https://v.daum.net/v/20220210032630443"/>
+        <updated>2022-02-09T19:14:18.445Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">03:26</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['피트니스계의 넷플릭스' 호시절 끝났다]]></title>
         <id>https://v.daum.net/v/20220210030221221</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220210012843929"/>
         <updated>2022-02-09T17:20:11.068Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">01:28</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[갤럭시S22 전작과 달라진 점..똑똑한 S펜·밝아진 카메라·튼튼한 몸통]]></title>
-        <id>https://v.daum.net/v/20220210012737921</id>
-        <link href="https://v.daum.net/v/20220210012737921"/>
-        <updated>2022-02-09T17:20:11.072Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">01:27</span>]]></content>
     </entry>
 </feed>
