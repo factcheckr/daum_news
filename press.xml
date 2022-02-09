@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-02-09T10:19:52.182Z</updated>
+    <updated>2022-02-09T11:15:18.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[외교부 장관, 경제협력개발기구 동남아프로그램(OECD SEARP) 공동의장국으로서 신남방정책을 통한 아세안과의 협력 강화 의지 표명]]></title>
+        <id>https://v.daum.net/v/20220209193529334</id>
+        <link href="https://v.daum.net/v/20220209193529334"/>
+        <updated>2022-02-09T11:15:10.136Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">19:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(차관 동정) 법무부차관, 연일 서울동부구치소에서 오미크론 확산세 대응방안 논의]]></title>
         <id>https://v.daum.net/v/20220209190526946</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220209171603806"/>
         <updated>2022-02-09T08:21:18.220Z</updated>
         <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">17:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[광명24시] K-콘텐츠 품은 글로벌 문화수도 '광명·시흥 신도시' 조성]]></title>
-        <id>https://v.daum.net/v/20220209171503756</id>
-        <link href="https://v.daum.net/v/20220209171503756"/>
-        <updated>2022-02-09T08:21:18.221Z</updated>
-        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">17:15</span>]]></content>
     </entry>
 </feed>
