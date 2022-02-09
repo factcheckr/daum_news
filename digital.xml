@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-02-09T13:21:31.757Z</updated>
+    <updated>2022-02-09T14:16:30.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[5G 힘입어 '4조 영업익' 달성한통신3사..정작 5G 소비자들은 뿔난 이유는]]></title>
+        <title type="html"><![CDATA[[리뷰] 어디서나 원격 관리, 넷기어 WAX620 와이파이6 무선 AP]]></title>
+        <id>https://v.daum.net/v/20220209231200510</id>
+        <link href="https://v.daum.net/v/20220209231200510"/>
+        <updated>2022-02-09T14:15:56.940Z</updated>
+        <content type="html"><![CDATA[IT동아<span class="txt_bar"> · </span><span class="info_time">23:12</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[통신3사, 5G 힘입어 '4조 영업익' 돌파..정작 5G 소비자들은 불만]]></title>
         <id>https://v.daum.net/v/20220209221601441</id>
         <link href="https://v.daum.net/v/20220209221601441"/>
         <updated>2022-02-09T13:20:56.111Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220209211602229"/>
         <updated>2022-02-09T12:26:49.639Z</updated>
         <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">21:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라인게임즈, '바람의나라:연' 개발사 슈퍼캣 지분 넥슨에 처분]]></title>
-        <id>https://v.daum.net/v/20220209211256192</id>
-        <link href="https://v.daum.net/v/20220209211256192"/>
-        <updated>2022-02-09T12:26:49.639Z</updated>
-        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">21:12</span>]]></content>
     </entry>
 </feed>
