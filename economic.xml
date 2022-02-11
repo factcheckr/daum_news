@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2022-02-11T16:22:49.862Z</updated>
+    <updated>2022-02-11T17:17:39.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[해외입국자 격리 7일로 단축]]></title>
+        <id>https://v.daum.net/v/20220212020410562</id>
+        <link href="https://v.daum.net/v/20220212020410562"/>
+        <updated>2022-02-11T17:16:09.513Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">02:04</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[aT 김춘진 사장, 한국산 딸기 수출 활성화 방안 논의]]></title>
         <id>https://v.daum.net/v/20220212010642357</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220212004204223"/>
         <updated>2022-02-11T16:21:41.549Z</updated>
         <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">00:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴욕증시, 금리 인상·물가 상승 우려에 '혼조세']]></title>
-        <id>https://v.daum.net/v/20220212002427112</id>
-        <link href="https://v.daum.net/v/20220212002427112"/>
-        <updated>2022-02-11T16:21:41.550Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">00:24</span>]]></content>
     </entry>
 </feed>
