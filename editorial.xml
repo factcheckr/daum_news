@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-02-12T10:17:58.499Z</updated>
+    <updated>2022-02-12T11:15:04.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이스라엘, '백신 패스' 내려놓고 자가검사 독려]]></title>
+        <id>https://v.daum.net/v/20220212195221258</id>
+        <link href="https://v.daum.net/v/20220212195221258"/>
+        <updated>2022-02-12T11:14:47.364Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">19:52</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["도와 주세요".. 물바다 된 中 선수촌 영상 공개하자 '순삭']]></title>
         <id>https://v.daum.net/v/20220212170821048</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220212075446400"/>
         <updated>2022-02-11T23:17:28.398Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">07:54</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부동산가격 하락시대 진입에 대한 논란 [서진형의 부동산포커스]]]></title>
-        <id>https://v.daum.net/v/20220212073004271</id>
-        <link href="https://v.daum.net/v/20220212073004271"/>
-        <updated>2022-02-11T23:17:28.404Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:30</span>]]></content>
     </entry>
 </feed>
