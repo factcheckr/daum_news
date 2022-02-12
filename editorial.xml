@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-02-12T12:25:35.954Z</updated>
+    <updated>2022-02-12T13:17:56.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오상준 편집국장 신문은 지식의 숲<17> 대선 후보와 펭귄]]></title>
+        <id>https://v.daum.net/v/20220212213346473</id>
+        <link href="https://v.daum.net/v/20220212213346473"/>
+        <updated>2022-02-12T13:17:39.679Z</updated>
+        <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">21:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이스라엘, '백신 패스' 내려놓고 자가검사 독려]]></title>
         <id>https://v.daum.net/v/20220212195221258</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220212085041908"/>
         <updated>2022-02-12T01:01:41.496Z</updated>
         <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">08:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새차 샀는데 몇개월째 기다리는 이유가 말레이시아 반도체 때문?[고영경의 아세안 비즈니스]]]></title>
-        <id>https://v.daum.net/v/20220212075446400</id>
-        <link href="https://v.daum.net/v/20220212075446400"/>
-        <updated>2022-02-11T23:17:28.398Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">07:54</span>]]></content>
     </entry>
 </feed>
