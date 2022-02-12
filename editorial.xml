@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-02-12T06:20:21.065Z</updated>
+    <updated>2022-02-12T07:16:01.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박수현의 오션월드<31> 황제펭귄의 육아법]]></title>
+        <id>https://v.daum.net/v/20220212154708144</id>
+        <link href="https://v.daum.net/v/20220212154708144"/>
+        <updated>2022-02-12T07:15:44.429Z</updated>
+        <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">15:47</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부고] 양태훈(디일렉 기자)씨 빙부상]]></title>
         <id>https://v.daum.net/v/20220212143525344</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220212070300118"/>
         <updated>2022-02-11T22:15:47.710Z</updated>
         <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">07:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[K-트레이딩업] 한국의 소프트 파워와 미국 시장]]></title>
-        <id>https://v.daum.net/v/20220212070032078</id>
-        <link href="https://v.daum.net/v/20220212070032078"/>
-        <updated>2022-02-11T22:15:47.711Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
     </entry>
 </feed>
