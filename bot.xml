@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-02-12T08:20:24.542Z</updated>
+    <updated>2022-02-12T09:17:55.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2022년 02월 12일)]]></title>
+        <id>https://v.daum.net/v/20220212173048305</id>
+        <link href="https://v.daum.net/v/20220212173048305"/>
+        <updated>2022-02-12T09:17:54.640Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가상화폐 캐리프로토콜 9.8원(+9.62%) 거래중]]></title>
         <id>https://v.daum.net/v/20220212143120304</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220212125049801"/>
         <updated>2022-02-12T04:22:28.663Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 원천동 광교호반베르디움 84㎡ 12억3000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220212124551760</id>
-        <link href="https://v.daum.net/v/20220212124551760"/>
-        <updated>2022-02-12T04:22:28.664Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:45</span>]]></content>
     </entry>
 </feed>
