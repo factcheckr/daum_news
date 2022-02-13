@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-02-13T13:18:03.660Z</updated>
+    <updated>2022-02-13T14:16:30.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국남부발전, 초록우산 어린이재단에 코로나 자가진단키트 지원 外]]></title>
+        <id>https://v.daum.net/v/20220213223801938</id>
+        <link href="https://v.daum.net/v/20220213223801938"/>
+        <updated>2022-02-13T14:16:19.323Z</updated>
+        <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">22:38</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[충북 괴산 종오리 및 충남 당진 산란계 농장에서 고병원성 조류인플루엔자 확진]]></title>
         <id>https://v.daum.net/v/20220213213521895</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220213130703232"/>
         <updated>2022-02-13T04:21:49.465Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">13:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19 격리해제 후, 이제는 재활! 건강한 일상 되찾아요.]]></title>
-        <id>https://v.daum.net/v/20220213123538844</id>
-        <link href="https://v.daum.net/v/20220213123538844"/>
-        <updated>2022-02-13T04:21:49.465Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">12:35</span>]]></content>
     </entry>
 </feed>
