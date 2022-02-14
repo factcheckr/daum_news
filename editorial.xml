@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-02-14T22:16:41.757Z</updated>
+    <updated>2022-02-14T23:17:30.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](15일 조간)]]></title>
+        <id>https://v.daum.net/v/20220215080003996</id>
+        <link href="https://v.daum.net/v/20220215080003996"/>
+        <updated>2022-02-14T23:17:14.793Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[조간브리핑] '전세의 월세화' 현실로..지난해 '서울 아파트' 월세 거래량 7만여건]]></title>
+        <id>https://v.daum.net/v/20220215073908722</id>
+        <link href="https://v.daum.net/v/20220215073908722"/>
+        <updated>2022-02-14T23:17:14.794Z</updated>
+        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">07:39</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[여론광장]  대선과 대통령의 정치적 중립포기]]></title>
         <id>https://v.daum.net/v/20220215070826357</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220215052626297"/>
         <updated>2022-02-14T21:14:43.860Z</updated>
         <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">05:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서울광장] 미래세대 부담 줄이기/이동구 논설위원]]></title>
-        <id>https://v.daum.net/v/20220215050835165</id>
-        <link href="https://v.daum.net/v/20220215050835165"/>
-        <updated>2022-02-14T20:17:54.364Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[씨줄날줄] SK하이닉스와 세수/안미현 수석논설위원]]></title>
-        <id>https://v.daum.net/v/20220215050833164</id>
-        <link href="https://v.daum.net/v/20220215050833164"/>
-        <updated>2022-02-14T20:17:54.365Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
     </entry>
 </feed>
