@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-02-14T16:24:08.879Z</updated>
+    <updated>2022-02-14T17:17:03.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[동상이목(同想異目)] '조상제한서'를 아시나요]]></title>
+        <id>https://v.daum.net/v/20220215020501160</id>
+        <link href="https://v.daum.net/v/20220215020501160"/>
+        <updated>2022-02-14T17:16:47.250Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]K바이오, 겨울의 추억과 설레는 봄]]></title>
+        <id>https://v.daum.net/v/20220215020201153</id>
+        <link href="https://v.daum.net/v/20220215020201153"/>
+        <updated>2022-02-14T17:16:47.257Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[최훈 칼럼] 강을 건너면 뗏목을 불사르라]]></title>
         <id>https://v.daum.net/v/20220215004234724</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220215002022587"/>
         <updated>2022-02-14T16:23:52.702Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[분수대] 자기 몸 긍정주의]]></title>
-        <id>https://v.daum.net/v/20220215001823577</id>
-        <link href="https://v.daum.net/v/20220215001823577"/>
-        <updated>2022-02-14T16:23:52.703Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[디지털 세상 읽기] 스트리밍과 작품상]]></title>
-        <id>https://v.daum.net/v/20220215001621560</id>
-        <link href="https://v.daum.net/v/20220215001621560"/>
-        <updated>2022-02-14T15:17:44.888Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:16</span>]]></content>
     </entry>
 </feed>
