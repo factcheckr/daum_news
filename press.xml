@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-02-14T10:19:04.573Z</updated>
+    <updated>2022-02-14T11:15:58.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대구시, '노란우산공제' 가입 장려금 확대 지원]]></title>
+        <id>https://v.daum.net/v/20220214193132219</id>
+        <link href="https://v.daum.net/v/20220214193132219"/>
+        <updated>2022-02-14T11:15:47.107Z</updated>
+        <content type="html"><![CDATA[대구MBC<span class="txt_bar"> · </span><span class="info_time">19:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] BRANCH RAISES $300 MILLION AT $4 BILLION VALUATION TO OPEN MOBILE]]></title>
         <id>https://v.daum.net/v/20220214184309453</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220214173525593"/>
         <updated>2022-02-14T09:17:26.583Z</updated>
         <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">17:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부천24시] 경기도일자리재단, '신중년일자리센터' 신설..'4060' 맞춤 설계]]></title>
-        <id>https://v.daum.net/v/20220214172205104</id>
-        <link href="https://v.daum.net/v/20220214172205104"/>
-        <updated>2022-02-14T09:17:26.584Z</updated>
-        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">17:22</span>]]></content>
     </entry>
 </feed>
