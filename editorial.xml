@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-02-14T03:18:30.611Z</updated>
+    <updated>2022-02-14T04:22:13.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미국의 '내 맘대로' 한반도 정책을 합창하는 윤석열]]></title>
+        <id>https://v.daum.net/v/20220214131236825</id>
+        <link href="https://v.daum.net/v/20220214131236825"/>
+        <updated>2022-02-14T04:21:50.973Z</updated>
+        <content type="html"><![CDATA[미디어오늘<span class="txt_bar"> · </span><span class="info_time">13:12</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[惡手 된 택배노조의 CJ대한통운 점거]]></title>
+        <id>https://v.daum.net/v/20220214125323292</id>
+        <link href="https://v.daum.net/v/20220214125323292"/>
+        <updated>2022-02-14T04:21:50.974Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">12:53</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[W포럼]가상 세계 광풍, 세컨드라이프 교훈]]></title>
         <id>https://v.daum.net/v/20220214121342249</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220214111029308"/>
         <updated>2022-02-14T02:29:21.433Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오미크론 변이 대응, 달라진 코로나19 방역체계]]></title>
-        <id>https://v.daum.net/v/20220214110510086</id>
-        <link href="https://v.daum.net/v/20220214110510086"/>
-        <updated>2022-02-14T02:29:21.435Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">11:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인사] 산업통상자원부]]></title>
-        <id>https://v.daum.net/v/20220214105840768</id>
-        <link href="https://v.daum.net/v/20220214105840768"/>
-        <updated>2022-02-14T02:29:21.437Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">10:58</span>]]></content>
     </entry>
 </feed>
