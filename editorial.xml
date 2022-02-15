@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-02-15T16:21:52.433Z</updated>
+    <updated>2022-02-15T17:16:47.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]새 정부 과학기술행정체계에 거는 기대]]></title>
+        <id>https://v.daum.net/v/20220216020501661</id>
+        <link href="https://v.daum.net/v/20220216020501661"/>
+        <updated>2022-02-15T17:16:28.362Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정유신의 China Story]인구구조 변화가 바꾸는 부동산산업의 구조적 변화]]></title>
+        <id>https://v.daum.net/v/20220216020301654</id>
+        <link href="https://v.daum.net/v/20220216020301654"/>
+        <updated>2022-02-15T17:16:28.363Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이철호 칼럼] 레임덕 없는 최초 대통령의 분노인가?]]></title>
         <id>https://v.daum.net/v/20220216003630057</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220216002601928"/>
         <updated>2022-02-15T16:21:30.715Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노트북을 열며] '눈 뜨고 코 베이징' 한국판]]></title>
-        <id>https://v.daum.net/v/20220216002428913</id>
-        <link href="https://v.daum.net/v/20220216002428913"/>
-        <updated>2022-02-15T16:21:30.716Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[최선희의 문화예술톡] 파리를 접수한 스위스 아트 바젤]]></title>
-        <id>https://v.daum.net/v/20220216002218884</id>
-        <link href="https://v.daum.net/v/20220216002218884"/>
-        <updated>2022-02-15T16:21:30.717Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:22</span>]]></content>
     </entry>
 </feed>
