@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-02-16T12:26:42.429Z</updated>
+    <updated>2022-02-16T13:21:03.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022년 2월 17일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20220216220108546</id>
+        <link href="https://v.daum.net/v/20220216220108546"/>
+        <updated>2022-02-16T13:20:39.545Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고기 먹는 일에 진심인 세상 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20220216220042537</id>
+        <link href="https://v.daum.net/v/20220216220042537"/>
+        <updated>2022-02-16T13:20:39.546Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[기고] 메타버스 활성화와 NFT 법제 개선]]></title>
+        <id>https://v.daum.net/v/20220216214000115</id>
+        <link href="https://v.daum.net/v/20220216214000115"/>
+        <updated>2022-02-16T13:20:39.546Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">21:40</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2월 17일 한겨레 그림판]]></title>
         <id>https://v.daum.net/v/20220216212608846</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220216194352921"/>
         <updated>2022-02-16T11:16:27.531Z</updated>
         <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">19:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설]  하루 확진자 30만 전망, 거리두기 완화 성급]]></title>
-        <id>https://v.daum.net/v/20220216194351920</id>
-        <link href="https://v.daum.net/v/20220216194351920"/>
-        <updated>2022-02-16T11:16:27.532Z</updated>
-        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">19:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 오미크론 대유행 속 정상 등교, 혼란 막을 대책 있나]]></title>
-        <id>https://v.daum.net/v/20220216193608768</id>
-        <link href="https://v.daum.net/v/20220216193608768"/>
-        <updated>2022-02-16T11:16:27.532Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 2월 17일[오늘의 운세 나침반]]]></title>
-        <id>https://v.daum.net/v/20220216190930285</id>
-        <link href="https://v.daum.net/v/20220216190930285"/>
-        <updated>2022-02-16T10:20:09.387Z</updated>
-        <content type="html"><![CDATA[스포츠경향<span class="txt_bar"> · </span><span class="info_time">19:09</span>]]></content>
     </entry>
 </feed>
