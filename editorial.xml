@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-02-16T04:23:08.813Z</updated>
+    <updated>2022-02-16T05:16:06.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['In today's society, being poor can be deadly']]></title>
+        <id>https://v.daum.net/v/20220216141004843</id>
+        <link href="https://v.daum.net/v/20220216141004843"/>
+        <updated>2022-02-16T05:15:49.682Z</updated>
+        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">14:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Stop blaming individuals for social problems']]></title>
+        <id>https://v.daum.net/v/20220216140844770</id>
+        <link href="https://v.daum.net/v/20220216140844770"/>
+        <updated>2022-02-16T05:15:49.690Z</updated>
+        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">14:08</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['I'm worried we'll have to line up to buy kits like we did masks']]></title>
+        <id>https://v.daum.net/v/20220216140734723</id>
+        <link href="https://v.daum.net/v/20220216140734723"/>
+        <updated>2022-02-16T05:15:49.690Z</updated>
+        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">14:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[톺아보기]공익소송 위축시키는 소송비용]]></title>
+        <id>https://v.daum.net/v/20220216140231488</id>
+        <link href="https://v.daum.net/v/20220216140231488"/>
+        <updated>2022-02-16T05:15:49.690Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">14:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인사] 과학기술정보통신부]]></title>
         <id>https://v.daum.net/v/20220216130700435</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20220216113018260"/>
         <updated>2022-02-16T03:19:02.720Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기자수첩] 실손보험 개편 논의 시작부터 삐끗]]></title>
-        <id>https://v.daum.net/v/20220216111809632</id>
-        <link href="https://v.daum.net/v/20220216111809632"/>
-        <updated>2022-02-16T03:19:02.721Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데스크칼럼] 새 임대차법 2년..집값은 오를 수 있을까]]></title>
-        <id>https://v.daum.net/v/20220216111411399</id>
-        <link href="https://v.daum.net/v/20220216111411399"/>
-        <updated>2022-02-16T03:19:02.721Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 기저효과·관제 일자리 빼면 빈껍질인 호조세 고용지표]]></title>
-        <id>https://v.daum.net/v/20220216111126268</id>
-        <link href="https://v.daum.net/v/20220216111126268"/>
-        <updated>2022-02-16T02:12:20.997Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 작심하고 네거티브로 나가겠다는 최악의 막장선거판]]></title>
-        <id>https://v.daum.net/v/20220216111126266</id>
-        <link href="https://v.daum.net/v/20220216111126266"/>
-        <updated>2022-02-16T02:12:20.997Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:11</span>]]></content>
     </entry>
 </feed>
