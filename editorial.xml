@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-02-16T16:23:36.274Z</updated>
+    <updated>2022-02-16T17:18:25.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]상장 기술평가를 생각해보며]]></title>
+        <id>https://v.daum.net/v/20220217021701230</id>
+        <link href="https://v.daum.net/v/20220217021701230"/>
+        <updated>2022-02-16T17:18:01.891Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:17</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]코로나19와의 작별]]></title>
+        <id>https://v.daum.net/v/20220217020501174</id>
+        <link href="https://v.daum.net/v/20220217020501174"/>
+        <updated>2022-02-16T17:18:01.893Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[심은경의 미국에서 본 한국] 기다릴 만한 가치가 충분한 선택]]></title>
         <id>https://v.daum.net/v/20220217004224613</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220217001901285"/>
         <updated>2022-02-16T16:23:14.500Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:19</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노트북을 열며] 평창 여름올림픽을 상상한다]]></title>
-        <id>https://v.daum.net/v/20220217001842279</id>
-        <link href="https://v.daum.net/v/20220217001842279"/>
-        <updated>2022-02-16T15:18:57.422Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[천자 칼럼] 우크라이나의 두 장면]]></title>
-        <id>https://v.daum.net/v/20220217001702246</id>
-        <link href="https://v.daum.net/v/20220217001702246"/>
-        <updated>2022-02-16T15:18:57.437Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:17</span>]]></content>
     </entry>
 </feed>

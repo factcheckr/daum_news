@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2022-02-16T16:23:36.279Z</updated>
+    <updated>2022-02-16T17:18:25.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1월 미국 수입물가지수 2% 상승..에너지 제외 1.4% 상승]]></title>
+        <id>https://v.daum.net/v/20220217012451984</id>
+        <link href="https://v.daum.net/v/20220217012451984"/>
+        <updated>2022-02-16T17:16:50.250Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">01:24</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한은, 인도네시아 중앙은행과 교류 협력 MOU 체결]]></title>
         <id>https://v.daum.net/v/20220217011206950</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220217010719882"/>
         <updated>2022-02-16T16:22:09.099Z</updated>
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GS칼텍스, 국내 첫 친환경 엔진오일 출시]]></title>
-        <id>https://v.daum.net/v/20220217010615873</id>
-        <link href="https://v.daum.net/v/20220217010615873"/>
-        <updated>2022-02-16T16:22:09.100Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:06</span>]]></content>
     </entry>
 </feed>
