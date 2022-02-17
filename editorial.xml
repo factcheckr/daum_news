@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-02-17T13:20:37.230Z</updated>
+    <updated>2022-02-17T14:17:07.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박영서의 글로벌 아이]우크라이나 해법은 '핀란드화'? 가능할까]]></title>
+        <id>https://v.daum.net/v/20220217224808707</id>
+        <link href="https://v.daum.net/v/20220217224808707"/>
+        <updated>2022-02-17T14:16:50.662Z</updated>
+        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">22:48</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[오병상의 코멘터리] 여론조사 홍수 속에 주목되는 두 조사]]></title>
+        <id>https://v.daum.net/v/20220217222940298</id>
+        <link href="https://v.daum.net/v/20220217222940298"/>
+        <updated>2022-02-17T14:16:50.662Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">22:29</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[시사난장] '우리편 편향'과 중용의 정치 /박재욱]]></title>
         <id>https://v.daum.net/v/20220217221824079</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220217200004490"/>
         <updated>2022-02-17T11:15:30.497Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">20:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The chaos continues]]></title>
-        <id>https://v.daum.net/v/20220217194659274</id>
-        <link href="https://v.daum.net/v/20220217194659274"/>
-        <updated>2022-02-17T11:15:30.498Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:46</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Investigations overdue]]></title>
-        <id>https://v.daum.net/v/20220217194450218</id>
-        <link href="https://v.daum.net/v/20220217194450218"/>
-        <updated>2022-02-17T11:15:30.499Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:44</span>]]></content>
     </entry>
 </feed>
