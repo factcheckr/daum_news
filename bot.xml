@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-02-17T08:20:32.744Z</updated>
+    <updated>2022-02-17T09:19:06.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2022년 02월 17일)]]></title>
+        <id>https://v.daum.net/v/20220217173157714</id>
+        <link href="https://v.daum.net/v/20220217173157714"/>
+        <updated>2022-02-17T09:19:05.869Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:31</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가상화폐 비트코인 53,028,000원(-0.51%) 거래중]]></title>
+        <id>https://v.daum.net/v/20220217173122706</id>
+        <link href="https://v.daum.net/v/20220217173122706"/>
+        <updated>2022-02-17T09:19:05.869Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">17:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[fnRASSI]장마감, 코스닥 하락 종목(지스마트글로벌 -30.5% ↓)]]></title>
         <id>https://v.daum.net/v/20220217153725794</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220217131556506"/>
         <updated>2022-02-17T04:22:59.136Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 망포동 힐스테이트 영통아파트 62㎡ 7억7000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220217131047351</id>
-        <link href="https://v.daum.net/v/20220217131047351"/>
-        <updated>2022-02-17T04:22:59.137Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 만수동 만수 뉴서울 아파트 34㎡ 1억5000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220217130546229</id>
-        <link href="https://v.daum.net/v/20220217130546229"/>
-        <updated>2022-02-17T04:22:59.139Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:05</span>]]></content>
     </entry>
 </feed>
