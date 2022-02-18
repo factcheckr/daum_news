@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-02-18T12:27:57.843Z</updated>
+    <updated>2022-02-18T13:21:14.323Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아끼던 직원에게 '배신'당하지 않으려면..어정쩡한 믿음 대신 계약서로 명확하게]]></title>
+        <id>https://v.daum.net/v/20220218220301129</id>
+        <link href="https://v.daum.net/v/20220218220301129"/>
+        <updated>2022-02-18T13:20:51.820Z</updated>
+        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">22:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[버린다는 건 참 어려운 일이지만 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20220218220103086</id>
+        <link href="https://v.daum.net/v/20220218220103086"/>
+        <updated>2022-02-18T13:20:51.821Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[시청자브리핑 시시콜콜] 홍길동씨? 홍길동 씨!..붙여쓸까요? 띄어쓸까요?]]></title>
         <id>https://v.daum.net/v/20220218210408733</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220218174741795"/>
         <updated>2022-02-18T09:18:06.564Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">17:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인사] 산업통상자원부]]></title>
-        <id>https://v.daum.net/v/20220218171742918</id>
-        <link href="https://v.daum.net/v/20220218171742918"/>
-        <updated>2022-02-18T08:20:42.282Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">17:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스썰기] 윤석열 "루스벨트 존경? 미국인들 웃는다"]]></title>
-        <id>https://v.daum.net/v/20220218165807402</id>
-        <link href="https://v.daum.net/v/20220218165807402"/>
-        <updated>2022-02-18T08:20:42.283Z</updated>
-        <content type="html"><![CDATA[JTBC<span class="txt_bar"> · </span><span class="info_time">16:58</span>]]></content>
     </entry>
 </feed>
