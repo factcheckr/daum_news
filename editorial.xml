@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-02-18T09:18:29.943Z</updated>
+    <updated>2022-02-18T10:20:19.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사설] 한시가 급한 방역·자영업자 지원 추경, 더는 미뤄선 안 된다]]></title>
+        <id>https://v.daum.net/v/20220218190620532</id>
+        <link href="https://v.daum.net/v/20220218190620532"/>
+        <updated>2022-02-18T10:19:58.808Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:06</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대선이라는 이름의 거대한 '아재 개그' [2030 세상보기]]]></title>
+        <id>https://v.daum.net/v/20220218190003419</id>
+        <link href="https://v.daum.net/v/20220218190003419"/>
+        <updated>2022-02-18T10:19:58.821Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">19:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[시시비비]중국 '공동부유' 정책 전환의 배경]]></title>
         <id>https://v.daum.net/v/20220218180919407</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220218145606258"/>
         <updated>2022-02-18T06:22:12.145Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">14:56</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유권자의 마음은 고민 한가득]]></title>
-        <id>https://v.daum.net/v/20220218145312142</id>
-        <link href="https://v.daum.net/v/20220218145312142"/>
-        <updated>2022-02-18T06:22:12.146Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">14:53</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["근무일 삭감에 근속 수당까지"..美 '고용 전쟁' 치열]]></title>
-        <id>https://v.daum.net/v/20220218145241116</id>
-        <link href="https://v.daum.net/v/20220218145241116"/>
-        <updated>2022-02-18T06:22:12.147Z</updated>
-        <content type="html"><![CDATA[EBS<span class="txt_bar"> · </span><span class="info_time">14:52</span>]]></content>
     </entry>
 </feed>
