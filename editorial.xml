@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-02-18T06:22:32.571Z</updated>
+    <updated>2022-02-18T07:17:43.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[깨달음이란 이기적 가치관이 이타적으로 바뀌는 것]]></title>
+        <id>https://v.daum.net/v/20220218160606837</id>
+        <link href="https://v.daum.net/v/20220218160606837"/>
+        <updated>2022-02-18T07:17:25.568Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">16:06</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[북리뷰] 내 데이터의 주인은 나, '마이데이터' 제대로 알자]]></title>
+        <id>https://v.daum.net/v/20220218152907487</id>
+        <link href="https://v.daum.net/v/20220218152907487"/>
+        <updated>2022-02-18T07:17:25.569Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">15:29</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[칼럼]신규 확진 10만 명 돌파 방역완화 괜찮을까?]]></title>
         <id>https://v.daum.net/v/20220218151204864</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220218120036609"/>
         <updated>2022-02-18T03:18:50.993Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">12:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<사설>유엔도 의문 제기한 靑 '공무원 北 피살 정보 공개' 거부]]></title>
-        <id>https://v.daum.net/v/20220218115041293</id>
-        <link href="https://v.daum.net/v/20220218115041293"/>
-        <updated>2022-02-18T03:18:50.994Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<포럼>절실한 건 추경 아닌 '영업의 자유'다]]></title>
-        <id>https://v.daum.net/v/20220218115039291</id>
-        <link href="https://v.daum.net/v/20220218115039291"/>
-        <updated>2022-02-18T03:18:50.994Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:50</span>]]></content>
     </entry>
 </feed>
