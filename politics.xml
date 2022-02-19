@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2022-02-19T18:20:22.360Z</updated>
+    <updated>2022-02-19T19:14:47.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안철수, 홍대거리 방문..심상정, 서울 집중 유세]]></title>
+        <id>https://v.daum.net/v/20220220041153331</id>
+        <link href="https://v.daum.net/v/20220220041153331"/>
+        <updated>2022-02-19T19:13:02.519Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV<span class="txt_bar"> · </span><span class="info_time">04:11</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[현장] "尹, 바보탱이" "국힘, 사람죽길 기다려"..李, 지지층 결집 총력]]></title>
+        <id>https://v.daum.net/v/20220220033849288</id>
+        <link href="https://v.daum.net/v/20220220033849288"/>
+        <updated>2022-02-19T19:13:02.519Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">03:38</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이재명은 '인물' 윤석열은 '메시지'..포스터 전략]]></title>
         <id>https://v.daum.net/v/20220220031804260</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220220001259987"/>
         <updated>2022-02-19T15:17:08.049Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['음성' 나와도 불안한 자가검사키트..깊게 찔러야 정확할까?]]></title>
-        <id>https://v.daum.net/v/20220220000944970</id>
-        <link href="https://v.daum.net/v/20220220000944970"/>
-        <updated>2022-02-19T15:17:08.051Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명, 경기 집중 유세..윤석열, TV 토론 준비]]></title>
-        <id>https://v.daum.net/v/20220220000159922</id>
-        <link href="https://v.daum.net/v/20220220000159922"/>
-        <updated>2022-02-19T15:17:08.053Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
     </entry>
 </feed>
