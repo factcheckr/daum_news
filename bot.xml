@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-02-19T04:22:40.671Z</updated>
+    <updated>2022-02-19T05:16:22.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서울 삼성동 삼성힐스테이트1단지 26㎡ 10억5000만원.. 역대 최고가]]></title>
+        <id>https://v.daum.net/v/20220219134052064</id>
+        <link href="https://v.daum.net/v/20220219134052064"/>
+        <updated>2022-02-19T05:16:22.241Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:40</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수원 원천동 광교호반베르디움 84㎡ 10억9000만원에 거래]]></title>
+        <id>https://v.daum.net/v/20220219133559004</id>
+        <link href="https://v.daum.net/v/20220219133559004"/>
+        <updated>2022-02-19T05:16:22.241Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:35</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수원 천천동 천천비단마을베스트타운 85㎡ 7억9000만원에 거래]]></title>
+        <id>https://v.daum.net/v/20220219133052944</id>
+        <link href="https://v.daum.net/v/20220219133052944"/>
+        <updated>2022-02-19T05:16:22.242Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천 만수동 향촌휴먼시아1단지 46㎡ 3억800만원에 거래]]></title>
+        <id>https://v.daum.net/v/20220219132557878</id>
+        <link href="https://v.daum.net/v/20220219132557878"/>
+        <updated>2022-02-19T05:16:22.244Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:25</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[용인 상하동 수원동마을쌍용아파트 115㎡ 4억8000만원에 거래]]></title>
         <id>https://v.daum.net/v/20220219132057813</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20220219123052379"/>
         <updated>2022-02-19T04:22:39.953Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울 옥수동 한남하이츠 177㎡ 37억원에 거래]]></title>
-        <id>https://v.daum.net/v/20220219122559334</id>
-        <link href="https://v.daum.net/v/20220219122559334"/>
-        <updated>2022-02-19T04:22:39.955Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울 도곡동 도곡개포한신아파트 83㎡ 28억1000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220219122056277</id>
-        <link href="https://v.daum.net/v/20220219122056277"/>
-        <updated>2022-02-19T04:22:39.958Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울 목동 목동한신청구 84㎡ 16억4000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220219121557229</id>
-        <link href="https://v.daum.net/v/20220219121557229"/>
-        <updated>2022-02-19T03:18:37.570Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울 삼성동 삼성힐스테이트1단지 26㎡ 10억5000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220219121057180</id>
-        <link href="https://v.daum.net/v/20220219121057180"/>
-        <updated>2022-02-19T03:18:37.571Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:10</span>]]></content>
     </entry>
 </feed>

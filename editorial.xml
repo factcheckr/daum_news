@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-02-19T04:22:40.682Z</updated>
+    <updated>2022-02-19T05:16:22.887Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이재명 "국힘, 실현불가능 조건 내세워..결국 추경안 강행 처리"]]></title>
+        <id>https://v.daum.net/v/20220219141500491</id>
+        <link href="https://v.daum.net/v/20220219141500491"/>
+        <updated>2022-02-19T05:15:59.469Z</updated>
+        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">14:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤석열 "민주당, 끼리끼리 뭉치는 '비즈니스 공동체'"]]></title>
+        <id>https://v.daum.net/v/20220219133006932</id>
+        <link href="https://v.daum.net/v/20220219133006932"/>
+        <updated>2022-02-19T05:15:59.470Z</updated>
+        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">13:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엽서 보낼 자유를 달라?]]></title>
         <id>https://v.daum.net/v/20220219113801808</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220219071207002"/>
         <updated>2022-02-18T22:18:51.442Z</updated>
         <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">07:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[배충식의 모빌토피아]  전기차 전환의 허풍과 진실]]></title>
-        <id>https://v.daum.net/v/20220219070041852</id>
-        <link href="https://v.daum.net/v/20220219070041852"/>
-        <updated>2022-02-18T22:18:51.446Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[약물과 반칙이 난무..올림픽 정신 어디로? [김윤일의 역주행]]]></title>
-        <id>https://v.daum.net/v/20220219070023831</id>
-        <link href="https://v.daum.net/v/20220219070023831"/>
-        <updated>2022-02-18T22:18:51.446Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
     </entry>
 </feed>
