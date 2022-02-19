@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-02-19T01:02:17.223Z</updated>
+    <updated>2022-02-19T02:06:48.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[李·尹, 초고령사회 진입에 답하라 [쓴소리 곧은 소리]]]></title>
+        <id>https://v.daum.net/v/20220219100203548</id>
+        <link href="https://v.daum.net/v/20220219100203548"/>
+        <updated>2022-02-19T02:06:23.983Z</updated>
+        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">10:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주요 신문 사설](19일 조간)]]></title>
         <id>https://v.daum.net/v/20220219100007491</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220219064511719"/>
         <updated>2022-02-18T22:18:51.446Z</updated>
         <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">06:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[변연배의 이야기와 함께하는 와인] 엘리자베스 2세 여왕은 어떤 와인을 마실까]]></title>
-        <id>https://v.daum.net/v/20220219060037229</id>
-        <link href="https://v.daum.net/v/20220219060037229"/>
-        <updated>2022-02-18T21:16:29.660Z</updated>
-        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
     </entry>
 </feed>
