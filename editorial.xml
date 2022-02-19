@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-02-19T12:26:37.576Z</updated>
+    <updated>2022-02-19T13:19:30.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[자연의 관대함이 빚은 '보르도의 新星']]></title>
+        <id>https://v.daum.net/v/20220219214503217</id>
+        <link href="https://v.daum.net/v/20220219214503217"/>
+        <updated>2022-02-19T13:19:06.623Z</updated>
+        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">21:45</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코로나도 막지 못한 한류..브라질 한인타운 '떠들썩']]></title>
         <id>https://v.daum.net/v/20220219195108250</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220219090021873"/>
         <updated>2022-02-19T01:01:55.091Z</updated>
         <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">09:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데스크칼럼] ICT 조율자가 필요하다]]></title>
-        <id>https://v.daum.net/v/20220219082340571</id>
-        <link href="https://v.daum.net/v/20220219082340571"/>
-        <updated>2022-02-19T01:01:55.091Z</updated>
-        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">08:23</span>]]></content>
     </entry>
 </feed>
