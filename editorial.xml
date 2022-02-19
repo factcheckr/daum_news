@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-02-19T02:06:48.664Z</updated>
+    <updated>2022-02-19T03:18:38.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엽서 보낼 자유를 달라?]]></title>
+        <id>https://v.daum.net/v/20220219113801808</id>
+        <link href="https://v.daum.net/v/20220219113801808"/>
+        <updated>2022-02-19T03:18:22.225Z</updated>
+        <content type="html"><![CDATA[한겨레21<span class="txt_bar"> · </span><span class="info_time">11:38</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[李·尹, 초고령사회 진입에 답하라 [쓴소리 곧은 소리]]]></title>
         <id>https://v.daum.net/v/20220219100203548</id>
@@ -41,7 +48,7 @@
         <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">09:25</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["정권 교체는 사상 혁명으로 완성"..마오 '문혁' 깨뜨린 덩샤오핑 '실사구시']]></title>
+        <title type="html"><![CDATA[구폐일소 외치다 구폐가 된 권력자들, 中 문화혁명 10년의 교훈]]></title>
         <id>https://v.daum.net/v/20220219090028884</id>
         <link href="https://v.daum.net/v/20220219090028884"/>
         <updated>2022-02-19T01:01:55.090Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220219070023831"/>
         <updated>2022-02-18T22:18:51.446Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30일 전으로 돌아가 누군가의 목숨을 살릴 수 있다면?]]></title>
-        <id>https://v.daum.net/v/20220219064511719</id>
-        <link href="https://v.daum.net/v/20220219064511719"/>
-        <updated>2022-02-18T22:18:51.446Z</updated>
-        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">06:45</span>]]></content>
     </entry>
 </feed>
