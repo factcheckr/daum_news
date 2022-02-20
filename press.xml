@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-02-20T04:22:38.645Z</updated>
+    <updated>2022-02-20T05:16:21.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[4월30일까지 영농폐비닐과 폐농약용기류 집중수거]]></title>
+        <id>https://v.daum.net/v/20220220132602168</id>
+        <link href="https://v.daum.net/v/20220220132602168"/>
+        <updated>2022-02-20T05:16:09.892Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">13:26</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국가평생교육진흥원·멀티캠퍼스 업무협약 체결]]></title>
         <id>https://v.daum.net/v/20220220130004801</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220220111937319"/>
         <updated>2022-02-20T02:32:20.819Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:19</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LG화학-한국남동발전, 'RE100 달성 공동 대응' 위해 MOU 체결]]></title>
-        <id>https://v.daum.net/v/20220220110705113</id>
-        <link href="https://v.daum.net/v/20220220110705113"/>
-        <updated>2022-02-20T02:32:20.821Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">11:07</span>]]></content>
     </entry>
 </feed>

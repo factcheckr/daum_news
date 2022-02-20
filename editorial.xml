@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-02-20T04:22:38.640Z</updated>
+    <updated>2022-02-20T05:16:21.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[올림픽] 봅슬레이 남자 4인승 원윤종 팀 18위..독일 프리드리히 두 대회 연속 2관왕]]></title>
+        <id>https://v.daum.net/v/20220220135509675</id>
+        <link href="https://v.daum.net/v/20220220135509675"/>
+        <updated>2022-02-20T05:15:59.085Z</updated>
+        <content type="html"><![CDATA[MBC<span class="txt_bar"> · </span><span class="info_time">13:55</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[현장연결] 심상정 "양당 후보 비리·부패 혐의 눈덩이처럼 커져"]]></title>
         <id>https://v.daum.net/v/20220220131143994</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220220070504397"/>
         <updated>2022-02-19T22:17:32.636Z</updated>
         <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">07:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전화성의 기술창업 Targeting]204. KDB넥스트원 4기, 헬스케어·인공지능 혁신]]></title>
-        <id>https://v.daum.net/v/20220220000109918</id>
-        <link href="https://v.daum.net/v/20220220000109918"/>
-        <updated>2022-02-19T15:18:27.958Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
     </entry>
 </feed>
