@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2022-02-20T16:24:05.838Z</updated>
+    <updated>2022-02-20T17:16:39.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이정재, 2022년 '서울패션위크' 홍보 나선다]]></title>
+        <id>https://v.daum.net/v/20220221020757468</id>
+        <link href="https://v.daum.net/v/20220221020757468"/>
+        <updated>2022-02-20T17:15:41.117Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">02:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이동국 설수대, 슈퍼DNA 검사..의외의 금메달감은? ('피는 못 속여')]]></title>
+        <id>https://v.daum.net/v/20220221020007453</id>
+        <link href="https://v.daum.net/v/20220221020007453"/>
+        <updated>2022-02-20T17:15:41.117Z</updated>
+        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">02:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미우새' 이상민, 서남용 집의 '아몬드 정체'에 경악.."왜 빨아먹고 놔둔 걸 모아두냐" 버럭]]></title>
         <id>https://v.daum.net/v/20220221011800350</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220221004359184"/>
         <updated>2022-02-20T16:23:08.856Z</updated>
         <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">00:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['방과후 설렘' 미나미·홍혜주·명형서, 도전조의 大반란 '깜짝'[★밤TView]]]></title>
-        <id>https://v.daum.net/v/20220221003919158</id>
-        <link href="https://v.daum.net/v/20220221003919158"/>
-        <updated>2022-02-20T16:23:08.859Z</updated>
-        <content type="html"><![CDATA[스타뉴스<span class="txt_bar"> · </span><span class="info_time">00:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['방과후 설렘' 홍혜주, 김윤서 꺾고 데뷔조 등극..전소연 "포텐 터진 무대"]]></title>
-        <id>https://v.daum.net/v/20220221003900156</id>
-        <link href="https://v.daum.net/v/20220221003900156"/>
-        <updated>2022-02-20T16:23:08.860Z</updated>
-        <content type="html"><![CDATA[TV리포트<span class="txt_bar"> · </span><span class="info_time">00:39</span>]]></content>
     </entry>
 </feed>
