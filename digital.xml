@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-02-20T13:19:21.456Z</updated>
+    <updated>2022-02-20T14:16:24.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[실물 처음 공개한 달 궤도선.."8월 1일 달로 간다"]]></title>
+        <id>https://v.daum.net/v/20220220225812295</id>
+        <link href="https://v.daum.net/v/20220220225812295"/>
+        <updated>2022-02-20T14:15:59.660Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">22:58</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코로나 확진자, 보름만에 누적 100만→200만명 급증]]></title>
         <id>https://v.daum.net/v/20220220214403391</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220220194234195</id>
         <link href="https://v.daum.net/v/20220220194234195"/>
         <updated>2022-02-20T11:16:41.292Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">19:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美FDA, 화이자·모더나 4차접종 검토.. 시기는 올 가을쯤]]></title>
-        <id>https://v.daum.net/v/20220220194233194</id>
-        <link href="https://v.daum.net/v/20220220194233194"/>
-        <updated>2022-02-20T11:16:41.293Z</updated>
         <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">19:42</span>]]></content>
     </entry>
 </feed>
