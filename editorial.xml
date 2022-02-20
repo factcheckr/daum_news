@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-02-20T06:21:35.975Z</updated>
+    <updated>2022-02-20T07:16:59.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사설]디지털 대전환, 속도 내자]]></title>
+        <id>https://v.daum.net/v/20220220160132248</id>
+        <link href="https://v.daum.net/v/20220220160132248"/>
+        <updated>2022-02-20T07:16:37.851Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">16:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[기고]프롭테크와 부동산 거래 '본질']]></title>
+        <id>https://v.daum.net/v/20220220160110233</id>
+        <link href="https://v.daum.net/v/20220220160110233"/>
+        <updated>2022-02-20T07:16:37.851Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">16:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[유레카] 대선 TV 토론과 봉준호의 '지리멸렬' / 정혁준]]></title>
+        <id>https://v.daum.net/v/20220220155602177</id>
+        <link href="https://v.daum.net/v/20220220155602177"/>
+        <updated>2022-02-20T07:16:37.852Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">15:56</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국일보 2월 21일 만평]]></title>
+        <id>https://v.daum.net/v/20220220153753777</id>
+        <link href="https://v.daum.net/v/20220220153753777"/>
+        <updated>2022-02-20T07:16:37.852Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">15:37</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부부 건축가의 공공탐색] 점 선 면이 만나는 다차원의 세계]]></title>
         <id>https://v.daum.net/v/20220220142608273</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20220220104841735"/>
         <updated>2022-02-20T02:32:10.168Z</updated>
         <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">10:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["코로나19 사태 이후 나라 살림 적자 폭 100조 원 넘어섰다"]]></title>
-        <id>https://v.daum.net/v/20220220100307079</id>
-        <link href="https://v.daum.net/v/20220220100307079"/>
-        <updated>2022-02-20T01:05:52.161Z</updated>
-        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">10:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우크라이나 위기를 외교로 풀어내려면 [강윤희의 러시아 프리즘]]]></title>
-        <id>https://v.daum.net/v/20220220100006979</id>
-        <link href="https://v.daum.net/v/20220220100006979"/>
-        <updated>2022-02-20T01:05:52.162Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">10:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알맹이 없이 흉내·조롱만..대중문화의 빗나간 풍자 [장수정의 장담]]]></title>
-        <id>https://v.daum.net/v/20220220080432767</id>
-        <link href="https://v.daum.net/v/20220220080432767"/>
-        <updated>2022-02-19T23:17:23.632Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">08:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국민연금, 소득대체율보다 보험료율에 주목하자]]></title>
-        <id>https://v.daum.net/v/20220220070507400</id>
-        <link href="https://v.daum.net/v/20220220070507400"/>
-        <updated>2022-02-19T22:17:32.635Z</updated>
-        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">07:05</span>]]></content>
     </entry>
 </feed>
