@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-02-20T05:16:21.125Z</updated>
+    <updated>2022-02-20T06:21:35.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[부부 건축가의 공공탐색] 점 선 면이 만나는 다차원의 세계]]></title>
+        <id>https://v.daum.net/v/20220220142608273</id>
+        <link href="https://v.daum.net/v/20220220142608273"/>
+        <updated>2022-02-20T06:21:11.695Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">14:26</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[올림픽] 봅슬레이 남자 4인승 원윤종 팀 18위..독일 프리드리히 두 대회 연속 2관왕]]></title>
         <id>https://v.daum.net/v/20220220135509675</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220220070507400</id>
         <link href="https://v.daum.net/v/20220220070507400"/>
         <updated>2022-02-19T22:17:32.635Z</updated>
-        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">07:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[취재 뒷담화] 두 번의 붕괴 사고 광주를 다녀오다]]></title>
-        <id>https://v.daum.net/v/20220220070504397</id>
-        <link href="https://v.daum.net/v/20220220070504397"/>
-        <updated>2022-02-19T22:17:32.636Z</updated>
         <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">07:05</span>]]></content>
     </entry>
 </feed>
