@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-02-21T11:16:34.729Z</updated>
+    <updated>2022-02-21T12:29:08.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022년도 제1회 추가경정예산 국회 확정]]></title>
+        <id>https://v.daum.net/v/20220221210517828</id>
+        <link href="https://v.daum.net/v/20220221210517828"/>
+        <updated>2022-02-21T12:28:57.713Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">21:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[로펌 인사이드] 국제중재를 더 신속하게 진행하는 방법]]></title>
         <id>https://v.daum.net/v/20220221191531435</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220221170532345</id>
         <link href="https://v.daum.net/v/20220221170532345"/>
         <updated>2022-02-21T08:21:41.685Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">17:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[119특수구조대 청사 준공!]]></title>
-        <id>https://v.daum.net/v/20220221170532344</id>
-        <link href="https://v.daum.net/v/20220221170532344"/>
-        <updated>2022-02-21T08:21:41.689Z</updated>
         <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">17:05</span>]]></content>
     </entry>
 </feed>
