@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-02-21T13:22:08.641Z</updated>
+    <updated>2022-02-21T14:18:04.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오병상의 코멘터리] 아직 정치인이 못된 안철수]]></title>
+        <id>https://v.daum.net/v/20220221231502508</id>
+        <link href="https://v.daum.net/v/20220221231502508"/>
+        <updated>2022-02-21T14:17:46.119Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">23:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사설]의혹 공방은 치열했으나 정책 구체성 떨어진 첫 법정 토론]]></title>
+        <id>https://v.daum.net/v/20220221225812298</id>
+        <link href="https://v.daum.net/v/20220221225812298"/>
+        <updated>2022-02-21T14:17:46.121Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:58</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022년 2월 22일[김용민의 그림마당]]]></title>
         <id>https://v.daum.net/v/20220221220145683</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220221194348724"/>
         <updated>2022-02-21T11:16:12.403Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mending ties in hard times]]></title>
-        <id>https://v.daum.net/v/20220221194208710</id>
-        <link href="https://v.daum.net/v/20220221194208710"/>
-        <updated>2022-02-21T11:16:12.404Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Real leadership lessons]]></title>
-        <id>https://v.daum.net/v/20220221194037691</id>
-        <link href="https://v.daum.net/v/20220221194037691"/>
-        <updated>2022-02-21T11:16:12.404Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:40</span>]]></content>
     </entry>
 </feed>
