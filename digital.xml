@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-02-21T12:29:08.936Z</updated>
+    <updated>2022-02-21T13:22:08.642Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[리뷰]OTT부터 게임·노래방까지 다 모아놨다..'근데 넷플이 없네']]></title>
+        <id>https://v.daum.net/v/20220221220101669</id>
+        <link href="https://v.daum.net/v/20220221220101669"/>
+        <updated>2022-02-21T13:21:34.001Z</updated>
+        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[16.9조 추경 국회 통과..소상공인 332만명에 방역지원금 300만원]]></title>
+        <id>https://v.daum.net/v/20220221212920234</id>
+        <link href="https://v.daum.net/v/20220221212920234"/>
+        <updated>2022-02-21T13:21:34.009Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">21:29</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부음] 형태근 전 방송통신위원회 상임위원 별세]]></title>
         <id>https://v.daum.net/v/20220221210819878</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220221195828859"/>
         <updated>2022-02-21T11:16:01.017Z</updated>
         <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">19:58</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['삼성 천하' 폴더블폰 고속성장.. 글로벌경쟁 불붙었다]]></title>
-        <id>https://v.daum.net/v/20220221195429821</id>
-        <link href="https://v.daum.net/v/20220221195429821"/>
-        <updated>2022-02-21T11:16:01.019Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">19:54</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기획] 최태원의 또 다른 승부수 '글로벌AI']]></title>
-        <id>https://v.daum.net/v/20220221195425817</id>
-        <link href="https://v.daum.net/v/20220221195425817"/>
-        <updated>2022-02-21T11:16:01.020Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">19:54</span>]]></content>
     </entry>
 </feed>
