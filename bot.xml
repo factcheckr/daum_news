@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-02-22T09:18:22.367Z</updated>
+    <updated>2022-02-22T10:20:28.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가상화폐 스트라이크 54,990원(+5.65%) 거래중]]></title>
+        <id>https://v.daum.net/v/20220222183118540</id>
+        <link href="https://v.daum.net/v/20220222183118540"/>
+        <updated>2022-02-22T10:20:27.498Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">18:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 날씨 - 오후 (2022년 02월 22일)]]></title>
         <id>https://v.daum.net/v/20220222173049620</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220222133055242"/>
         <updated>2022-02-22T05:16:49.357Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용인 구갈동 기흥역센트럴푸르지오 84㎡ 8억5000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220222132556090</id>
-        <link href="https://v.daum.net/v/20220222132556090"/>
-        <updated>2022-02-22T05:16:49.357Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:25</span>]]></content>
     </entry>
 </feed>
