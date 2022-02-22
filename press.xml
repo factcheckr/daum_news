@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-02-22T12:31:00.225Z</updated>
+    <updated>2022-02-22T13:22:44.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[담양 '죽향' 딸기 미국에 첫 수출]]></title>
+        <id>https://v.daum.net/v/20220222215614153</id>
+        <link href="https://v.daum.net/v/20220222215614153"/>
+        <updated>2022-02-22T13:22:31.662Z</updated>
+        <content type="html"><![CDATA[kbc광주방송<span class="txt_bar"> · </span><span class="info_time">21:56</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제24차 한-중 환경협력 공동위원회 개최 결과]]></title>
+        <id>https://v.daum.net/v/20220222213523872</id>
+        <link href="https://v.daum.net/v/20220222213523872"/>
+        <updated>2022-02-22T13:22:31.665Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">21:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[보도설명자료] 중앙일보, 여주시 현장 유전자 증폭(PCR) 검사 관련]]></title>
         <id>https://v.daum.net/v/20220222210529453</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220222182515343"/>
         <updated>2022-02-22T10:20:16.780Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">18:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문화·관광 코로나 피해 극복 1차 추경예산 1,300억원 확정]]></title>
-        <id>https://v.daum.net/v/20220222182305299</id>
-        <link href="https://v.daum.net/v/20220222182305299"/>
-        <updated>2022-02-22T10:20:16.781Z</updated>
-        <content type="html"><![CDATA[투어코리아<span class="txt_bar"> · </span><span class="info_time">18:23</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(설명자료) 새만금에 연구용으로 설치된 수상태양광 패널에 소금이 달라붙어 있고, 부식 흔적이 나타났다는 내용은 사실과 다름(조선 2.22)]]></title>
-        <id>https://v.daum.net/v/20220222182135277</id>
-        <link href="https://v.daum.net/v/20220222182135277"/>
-        <updated>2022-02-22T10:20:16.782Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">18:21</span>]]></content>
     </entry>
 </feed>
