@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-02-23T12:29:41.218Z</updated>
+    <updated>2022-02-23T13:22:32.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MFA Releases Uni5G Technology Blueprints to Guide Enterprises Deploying Private 5G Networks]]></title>
+        <id>https://v.daum.net/v/20220223220703804</id>
+        <link href="https://v.daum.net/v/20220223220703804"/>
+        <updated>2022-02-23T13:22:23.565Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">22:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MFA, 엔터프라이즈 5G 사설 네트워크 배치 안내서 'Uni5G 테크놀로지 블루프린트' 발간]]></title>
+        <id>https://v.daum.net/v/20220223220702803</id>
+        <link href="https://v.daum.net/v/20220223220702803"/>
+        <updated>2022-02-23T13:22:23.566Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">22:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국방과학연구소, 잠수함 연료전지용 수소 생산기술 독자개발]]></title>
         <id>https://v.daum.net/v/20220223210533882</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220223195401857"/>
         <updated>2022-02-23T11:15:15.568Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">19:54</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아모레퍼시픽, 피부 감각 측정 '지능형 촉각 센서' 세계 최초 개발]]></title>
-        <id>https://v.daum.net/v/20220223195349854</id>
-        <link href="https://v.daum.net/v/20220223195349854"/>
-        <updated>2022-02-23T11:15:15.569Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">19:53</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[효성, 친환경 섬유·수소까지 '프리미엄 브랜드'로 가치 확장]]></title>
-        <id>https://v.daum.net/v/20220223194857769</id>
-        <link href="https://v.daum.net/v/20220223194857769"/>
-        <updated>2022-02-23T11:15:15.570Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">19:48</span>]]></content>
     </entry>
 </feed>
