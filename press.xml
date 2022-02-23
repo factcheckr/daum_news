@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-02-23T20:18:52.555Z</updated>
+    <updated>2022-02-23T21:17:10.761Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[클라우드 시장 실태조사 실시]]></title>
+        <id>https://v.daum.net/v/20220224060531937</id>
+        <link href="https://v.daum.net/v/20220224060531937"/>
+        <updated>2022-02-23T21:17:01.686Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">06:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국내 첫 수소모빌리티조합 '드론쇼 코리아'서 출범]]></title>
         <id>https://v.daum.net/v/20220224001406112</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220224000456940</id>
         <link href="https://v.daum.net/v/20220224000456940"/>
         <updated>2022-02-23T15:19:49.176Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[맛있는 도전] 430여 가지 안전성 검사 거친 스틱형 홍삼정으로 간편하게 건강 관리!]]></title>
-        <id>https://v.daum.net/v/20220224000455939</id>
-        <link href="https://v.daum.net/v/20220224000455939"/>
-        <updated>2022-02-23T15:19:49.180Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
     </entry>
 </feed>
