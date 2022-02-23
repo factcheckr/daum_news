@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-02-23T21:17:10.761Z</updated>
+    <updated>2022-02-23T22:31:00.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[농식품부, 교육청과 손잡고 농촌유학 활성화한다]]></title>
+        <id>https://v.daum.net/v/20220224063535223</id>
+        <link href="https://v.daum.net/v/20220224063535223"/>
+        <updated>2022-02-23T22:30:50.455Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">06:35</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중소기업 혁신기술, 스마트시티 국가시범도시에 담는다]]></title>
+        <id>https://v.daum.net/v/20220224063534222</id>
+        <link href="https://v.daum.net/v/20220224063534222"/>
+        <updated>2022-02-23T22:30:50.455Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">06:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[클라우드 시장 실태조사 실시]]></title>
         <id>https://v.daum.net/v/20220224060531937</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220224000529946"/>
         <updated>2022-02-23T15:19:49.175Z</updated>
         <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[비즈스토리] 예술 작품 중심의 '아트 비즈니스'로 고객 발길 사로잡는다]]></title>
-        <id>https://v.daum.net/v/20220224000500941</id>
-        <link href="https://v.daum.net/v/20220224000500941"/>
-        <updated>2022-02-23T15:19:49.175Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[비즈스토리] 체계적 자산관리로 '퇴직연금사업자 성과·역량평가'서 우수사로 선정]]></title>
-        <id>https://v.daum.net/v/20220224000456940</id>
-        <link href="https://v.daum.net/v/20220224000456940"/>
-        <updated>2022-02-23T15:19:49.176Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
     </entry>
 </feed>

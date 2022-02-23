@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-02-23T21:17:10.767Z</updated>
+    <updated>2022-02-23T22:31:00.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[여백]  수서양단(首鼠兩端)]]></title>
+        <id>https://v.daum.net/v/20220224070833666</id>
+        <link href="https://v.daum.net/v/20220224070833666"/>
+        <updated>2022-02-23T22:30:39.919Z</updated>
+        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">07:08</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대일논단] 관점의 차이, 신념의 깊이]]></title>
+        <id>https://v.daum.net/v/20220224070830664</id>
+        <link href="https://v.daum.net/v/20220224070830664"/>
+        <updated>2022-02-23T22:30:39.921Z</updated>
+        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">07:08</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[김지현의 IT세상]우리 삶에 들어온 로봇들]]></title>
         <id>https://v.daum.net/v/20220224061505036</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20220224050821906</id>
         <link href="https://v.daum.net/v/20220224050821906"/>
         <updated>2022-02-23T20:18:36.143Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 확진 17만명, '풍토병'이라며 방심 유도해선 안 돼]]></title>
-        <id>https://v.daum.net/v/20220224050819904</id>
-        <link href="https://v.daum.net/v/20220224050819904"/>
-        <updated>2022-02-23T20:18:36.144Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데스크 시각] 무책임하지도, 비겁하지도 마라/최여경 사회정책부장]]></title>
-        <id>https://v.daum.net/v/20220224050818903</id>
-        <link href="https://v.daum.net/v/20220224050818903"/>
-        <updated>2022-02-23T20:18:36.145Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
     </entry>
 </feed>
