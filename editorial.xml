@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-02-23T04:22:32.524Z</updated>
+    <updated>2022-02-23T05:17:00.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[ET시론]성공적인 '변화 관리' 7가지 핵심요소]]></title>
+        <id>https://v.daum.net/v/20220223141405572</id>
+        <link href="https://v.daum.net/v/20220223141405572"/>
+        <updated>2022-02-23T05:16:42.503Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">14:14</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japan's Sado mine heritage bid spawns conflicts]]></title>
+        <id>https://v.daum.net/v/20220223141303524</id>
+        <link href="https://v.daum.net/v/20220223141303524"/>
+        <updated>2022-02-23T05:16:42.504Z</updated>
+        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">14:13</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신문보도 정책검증 10%대 제자리, 조선일보 가장 소홀]]></title>
         <id>https://v.daum.net/v/20220223131132098</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220223113027510"/>
         <updated>2022-02-23T02:34:55.575Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공무원의 정치적 중립과 선거관여 행위 제한은?]]></title>
-        <id>https://v.daum.net/v/20220223110534191</id>
-        <link href="https://v.daum.net/v/20220223110534191"/>
-        <updated>2022-02-23T02:34:55.577Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">11:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[의학칼럼] 꾸준한 관리 필요한 당뇨, 일상생활서 예방 가능]]></title>
-        <id>https://v.daum.net/v/20220223101056707</id>
-        <link href="https://v.daum.net/v/20220223101056707"/>
-        <updated>2022-02-23T02:34:55.578Z</updated>
-        <content type="html"><![CDATA[헬스조선<span class="txt_bar"> · </span><span class="info_time">10:10</span>]]></content>
     </entry>
 </feed>
