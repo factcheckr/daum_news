@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-02-24T07:17:34.598Z</updated>
+    <updated>2022-02-24T08:22:12.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[각 대선 후보들의 제주 공약, 제주 민심은 누구에게?]]></title>
+        <id>https://v.daum.net/v/20220224171900968</id>
+        <link href="https://v.daum.net/v/20220224171900968"/>
+        <updated>2022-02-24T08:21:48.945Z</updated>
+        <content type="html"><![CDATA[베이비뉴스<span class="txt_bar"> · </span><span class="info_time">17:19</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[양경미의 영화로 보는 세상] 70년대를 배경으로 시대를 통찰하다]]></title>
+        <id>https://v.daum.net/v/20220224171112687</id>
+        <link href="https://v.daum.net/v/20220224171112687"/>
+        <updated>2022-02-24T08:21:48.959Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">17:11</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[여명] 가짜 희망에 농락당하지 않으려면]]></title>
         <id>https://v.daum.net/v/20220224161638599</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220224150609084"/>
         <updated>2022-02-24T06:22:06.842Z</updated>
         <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">15:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전치형의 과학 언저리] 이동의 명령, 이동의 권리]]></title>
-        <id>https://v.daum.net/v/20220224150601065</id>
-        <link href="https://v.daum.net/v/20220224150601065"/>
-        <updated>2022-02-24T06:22:06.842Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">15:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금융문맹은 남의 집 일이 아니에요]]></title>
-        <id>https://v.daum.net/v/20220224150403985</id>
-        <link href="https://v.daum.net/v/20220224150403985"/>
-        <updated>2022-02-24T06:22:06.842Z</updated>
-        <content type="html"><![CDATA[키즈맘<span class="txt_bar"> · </span><span class="info_time">15:04</span>]]></content>
     </entry>
 </feed>
