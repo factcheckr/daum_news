@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-02-24T22:19:09.303Z</updated>
+    <updated>2022-02-24T23:19:28.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](25일 조간)]]></title>
+        <id>https://v.daum.net/v/20220225080006954</id>
+        <link href="https://v.daum.net/v/20220225080006954"/>
+        <updated>2022-02-24T23:19:07.192Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대선후보 재산 평균 11억 2500만원..대선 공보물 이모저모]]></title>
+        <id>https://v.daum.net/v/20220225074205695</id>
+        <link href="https://v.daum.net/v/20220225074205695"/>
+        <updated>2022-02-24T23:19:07.193Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">07:42</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[여백] 백야 김좌진]]></title>
         <id>https://v.daum.net/v/20220225070812221</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220225053016859"/>
         <updated>2022-02-24T21:17:05.447Z</updated>
         <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기자수첩]5년마다 반복되는 철도통합, 이제 결론내자]]></title>
-        <id>https://v.daum.net/v/20220225053007856</id>
-        <link href="https://v.daum.net/v/20220225053007856"/>
-        <updated>2022-02-24T21:17:05.448Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[확진자 1도 없는 '만원 지하철 미스터리'[우보세]]]></title>
-        <id>https://v.daum.net/v/20220225053002851</id>
-        <link href="https://v.daum.net/v/20220225053002851"/>
-        <updated>2022-02-24T21:17:05.449Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
     </entry>
 </feed>
