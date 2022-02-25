@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-02-25T08:22:26.684Z</updated>
+    <updated>2022-02-25T09:18:28.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2022년 02월 25일)]]></title>
+        <id>https://v.daum.net/v/20220225173155790</id>
+        <link href="https://v.daum.net/v/20220225173155790"/>
+        <updated>2022-02-25T09:18:28.146Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:31</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가상화폐 골렘 65원 상승한 445원에 거래]]></title>
+        <id>https://v.daum.net/v/20220225173120778</id>
+        <link href="https://v.daum.net/v/20220225173120778"/>
+        <updated>2022-02-25T09:18:28.149Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">17:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[fnRASSI]장마감, 코스닥 하락 종목(지에스이 -21.9% ↓)]]></title>
         <id>https://v.daum.net/v/20220225153856509</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220225125551239"/>
         <updated>2022-02-25T04:22:55.666Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:55</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 정자동 정자동신2차 59㎡ 3억4800만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220225125055159</id>
-        <link href="https://v.daum.net/v/20220225125055159"/>
-        <updated>2022-02-25T04:22:55.668Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성남 야탑동 야탑장미마을현대 74㎡ 10억5000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220225124554078</id>
-        <link href="https://v.daum.net/v/20220225124554078"/>
-        <updated>2022-02-25T04:22:55.669Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:45</span>]]></content>
     </entry>
 </feed>
