@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-02-26T11:15:49.579Z</updated>
+    <updated>2022-02-26T12:27:24.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최현택 대신정보 대표, 8대 IT서비스산업협회장 취임]]></title>
+        <id>https://v.daum.net/v/20220226210830530</id>
+        <link href="https://v.daum.net/v/20220226210830530"/>
+        <updated>2022-02-26T12:26:50.225Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">21:08</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["회사 출근 생각만해도 짜증?" 재택 중독, 출근이 싫은 직장인들]]></title>
+        <id>https://v.daum.net/v/20220226205046390</id>
+        <link href="https://v.daum.net/v/20220226205046390"/>
+        <updated>2022-02-26T12:26:50.226Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">20:50</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[포스트 코로나 시대, 이동통신의 모습은]]></title>
         <id>https://v.daum.net/v/20220226193509719</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220226165052873"/>
         <updated>2022-02-26T08:20:08.096Z</updated>
         <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">16:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MWC 3년 만에 정상개최..모바일업계 메타버스·AI 기술 경연]]></title>
-        <id>https://v.daum.net/v/20220226163001650</id>
-        <link href="https://v.daum.net/v/20220226163001650"/>
-        <updated>2022-02-26T08:20:08.099Z</updated>
-        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">16:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이걸로 삼성 잡겠다고?" 베끼던 중국, 삼성 허 찌른다]]></title>
-        <id>https://v.daum.net/v/20220226155616143</id>
-        <link href="https://v.daum.net/v/20220226155616143"/>
-        <updated>2022-02-26T07:16:29.488Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">15:56</span>]]></content>
     </entry>
 </feed>
