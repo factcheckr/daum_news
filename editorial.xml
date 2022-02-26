@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-02-26T04:22:48.641Z</updated>
+    <updated>2022-02-26T05:16:54.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[선거 때마다 벌어지는 '추경 축제' [쓴소리 곧은 소리]]]></title>
+        <id>https://v.daum.net/v/20220226140203760</id>
+        <link href="https://v.daum.net/v/20220226140203760"/>
+        <updated>2022-02-26T05:16:32.421Z</updated>
+        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">14:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배민 작사, 쿠팡이츠 작곡 '독과점 행진곡']]></title>
         <id>https://v.daum.net/v/20220226131808229</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220226074117778"/>
         <updated>2022-02-25T23:18:26.818Z</updated>
         <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">07:41</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박수현의 오션월드 <33>전 지구적 재앙 미세 플라스틱]]></title>
-        <id>https://v.daum.net/v/20220226073752766</id>
-        <link href="https://v.daum.net/v/20220226073752766"/>
-        <updated>2022-02-25T23:18:26.818Z</updated>
-        <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">07:37</span>]]></content>
     </entry>
 </feed>
