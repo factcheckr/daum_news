@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2022-02-26T16:24:06.115Z</updated>
+    <updated>2022-02-26T17:17:01.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이재명, 장문의 글 통해 '우크라 폄하' 해명.."표현력 부족했다"]]></title>
+        <id>https://v.daum.net/v/20220227020019440</id>
+        <link href="https://v.daum.net/v/20220227020019440"/>
+        <updated>2022-02-26T17:15:29.376Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">02:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안철수, 尹 보란 듯 상반된 동선..윤석열은 구애 계속]]></title>
         <id>https://v.daum.net/v/20220227012206314</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220227004509131"/>
         <updated>2022-02-26T16:22:32.536Z</updated>
         <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">00:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우크라이나 내 우리 국민 7명 추가 출국 완료..16명 국경 이동 중]]></title>
-        <id>https://v.daum.net/v/20220227003414104</id>
-        <link href="https://v.daum.net/v/20220227003414104"/>
-        <updated>2022-02-26T16:22:32.537Z</updated>
-        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">00:34</span>]]></content>
     </entry>
 </feed>

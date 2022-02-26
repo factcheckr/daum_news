@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/society</id>
     <title>다음 뉴스 ─ 전체기사 ─ 사회</title>
-    <updated>2022-02-26T16:24:06.088Z</updated>
+    <updated>2022-02-26T17:17:01.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[울산시 고령운전자 운전면허 자진반납 시행]]></title>
+        <id>https://v.daum.net/v/20220227020122445</id>
+        <link href="https://v.daum.net/v/20220227020122445"/>
+        <updated>2022-02-26T17:15:19.208Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">02:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경기도 광주시 주택가 전봇대 불..1,300여 가구 정전]]></title>
+        <id>https://v.daum.net/v/20220227015700421</id>
+        <link href="https://v.daum.net/v/20220227015700421"/>
+        <updated>2022-02-26T17:15:19.208Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">01:57</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경북 문경 산불 7시간여 만에 꺼져]]></title>
+        <id>https://v.daum.net/v/20220227012806325</id>
+        <link href="https://v.daum.net/v/20220227012806325"/>
+        <updated>2022-02-26T17:15:19.208Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">01:28</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오미크론 기승에 나흘째 17만 명 안팎..사망자 '역대 최다']]></title>
+        <id>https://v.daum.net/v/20220227012506320</id>
+        <link href="https://v.daum.net/v/20220227012506320"/>
+        <updated>2022-02-26T17:15:19.208Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">01:25</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강원도 횡성에서 차량 화재..승용차 1대 전소]]></title>
         <id>https://v.daum.net/v/20220227011306288</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20220227002506060"/>
         <updated>2022-02-26T16:22:22.228Z</updated>
         <content type="html"><![CDATA[MBC<span class="txt_bar"> · </span><span class="info_time">00:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강원 인제 산불 5시간 40여 분만에 진화..산림 10ha 소실]]></title>
-        <id>https://v.daum.net/v/20220227001906045</id>
-        <link href="https://v.daum.net/v/20220227001906045"/>
-        <updated>2022-02-26T16:22:22.230Z</updated>
-        <content type="html"><![CDATA[MBC<span class="txt_bar"> · </span><span class="info_time">00:19</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대구 달성군 주암산에서 불..산불 1단계 발령]]></title>
-        <id>https://v.daum.net/v/20220227001606033</id>
-        <link href="https://v.daum.net/v/20220227001606033"/>
-        <updated>2022-02-26T15:16:51.872Z</updated>
-        <content type="html"><![CDATA[MBC<span class="txt_bar"> · </span><span class="info_time">00:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[날씨] 휴일 전국 맑음..서해·동해에는 오전까지 강풍]]></title>
-        <id>https://v.daum.net/v/20220227001504021</id>
-        <link href="https://v.daum.net/v/20220227001504021"/>
-        <updated>2022-02-26T15:16:51.872Z</updated>
-        <content type="html"><![CDATA[MBC<span class="txt_bar"> · </span><span class="info_time">00:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경북 문경 야산 산불 7시간여 만에 진화..피해면적 24㏊ 추정(종합2보)]]></title>
-        <id>https://v.daum.net/v/20220227000601960</id>
-        <link href="https://v.daum.net/v/20220227000601960"/>
-        <updated>2022-02-26T15:16:51.873Z</updated>
-        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
     </entry>
 </feed>
