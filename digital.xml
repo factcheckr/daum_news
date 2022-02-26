@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-02-26T05:16:54.309Z</updated>
+    <updated>2022-02-26T06:22:13.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[넥슨, '카트라이더 리그' 올해도 계속]]></title>
+        <id>https://v.daum.net/v/20220226151456604</id>
+        <link href="https://v.daum.net/v/20220226151456604"/>
+        <updated>2022-02-26T06:21:40.739Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">15:14</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해커집단 어나니머스 "러시아 국방부 사이트 해킹"]]></title>
+        <id>https://v.daum.net/v/20220226151243583</id>
+        <link href="https://v.daum.net/v/20220226151243583"/>
+        <updated>2022-02-26T06:21:40.739Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">15:12</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美 연방대법원, 233년만에 첫 흑인 여성 대법관]]></title>
+        <id>https://v.daum.net/v/20220226150932544</id>
+        <link href="https://v.daum.net/v/20220226150932544"/>
+        <updated>2022-02-26T06:21:40.740Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">15:09</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["이게 실화야?" 썩은 김치, 모르고 먹었다간 무서운 일이]]></title>
+        <id>https://v.daum.net/v/20220226144149209</id>
+        <link href="https://v.daum.net/v/20220226144149209"/>
+        <updated>2022-02-26T06:21:40.741Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">14:41</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[위클리마켓뷰] 러시아에 침공당한 가상자산 시장]]></title>
         <id>https://v.daum.net/v/20220226140930836</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20220226113955399"/>
         <updated>2022-02-26T03:18:47.524Z</updated>
         <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">11:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[물이 만든 19금의 세계, 술 [물에 관한 알쓸신잡]]]></title>
-        <id>https://v.daum.net/v/20220226113037335</id>
-        <link href="https://v.daum.net/v/20220226113037335"/>
-        <updated>2022-02-26T02:39:58.070Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">11:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[고든 정의 TECH+] 슈퍼 컴퓨터 시장을 향한 인텔의 복안..CPU와 GPU를 하나로!]]></title>
-        <id>https://v.daum.net/v/20220226112601281</id>
-        <link href="https://v.daum.net/v/20220226112601281"/>
-        <updated>2022-02-26T02:39:58.071Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">11:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3년 만에 오프라인 개최 MWC..메타버스·AI·로봇 기술 한눈에]]></title>
-        <id>https://v.daum.net/v/20220226111411206</id>
-        <link href="https://v.daum.net/v/20220226111411206"/>
-        <updated>2022-02-26T02:39:58.072Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">11:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성 SK 반도체 수출통제..우크라이나 평화 되찾게 할 '히든 카드' [MK위클리반도체]]]></title>
-        <id>https://v.daum.net/v/20220226110300090</id>
-        <link href="https://v.daum.net/v/20220226110300090"/>
-        <updated>2022-02-26T02:39:58.073Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">11:03</span>]]></content>
     </entry>
 </feed>
