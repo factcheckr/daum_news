@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-02-26T10:19:22.995Z</updated>
+    <updated>2022-02-26T11:15:49.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[포스트 코로나 시대, 이동통신의 모습은]]></title>
+        <id>https://v.daum.net/v/20220226193509719</id>
+        <link href="https://v.daum.net/v/20220226193509719"/>
+        <updated>2022-02-26T11:15:14.322Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">19:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[과기정통부, 우크라이나 사태에 사이버 위협 비상 대응체계 강화]]></title>
         <id>https://v.daum.net/v/20220226190412430</id>
@@ -97,17 +104,10 @@
         <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">16:30</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["이걸로 삼성 이기겠다고?" 베끼던 중국 '접는폰' 파격 시도]]></title>
+        <title type="html"><![CDATA["이걸로 삼성 잡겠다고?" 베끼던 중국, 삼성 허 찌른다]]></title>
         <id>https://v.daum.net/v/20220226155616143</id>
         <link href="https://v.daum.net/v/20220226155616143"/>
         <updated>2022-02-26T07:16:29.488Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">15:56</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[26일 오후 3시 기준 강원 2895명 확진.. 누적확진자  6만명 임박]]></title>
-        <id>https://v.daum.net/v/20220226154946067</id>
-        <link href="https://v.daum.net/v/20220226154946067"/>
-        <updated>2022-02-26T07:16:29.494Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">15:49</span>]]></content>
     </entry>
 </feed>
