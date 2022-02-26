@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-02-26T06:22:13.832Z</updated>
+    <updated>2022-02-26T07:17:00.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정익진의 무비 셰프 <30> 장만옥(張曼玉), '화양연화'와 '첨밀밀'의 주인공]]></title>
+        <id>https://v.daum.net/v/20220226160606307</id>
+        <link href="https://v.daum.net/v/20220226160606307"/>
+        <updated>2022-02-26T07:16:39.994Z</updated>
+        <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">16:06</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[선거 때마다 벌어지는 '추경 축제' [쓴소리 곧은 소리]]]></title>
         <id>https://v.daum.net/v/20220226140203760</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220226080030941"/>
         <updated>2022-02-25T23:18:26.817Z</updated>
         <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이 한편의 시조]목련 /정현숙]]></title>
-        <id>https://v.daum.net/v/20220226074117778</id>
-        <link href="https://v.daum.net/v/20220226074117778"/>
-        <updated>2022-02-25T23:18:26.818Z</updated>
-        <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">07:41</span>]]></content>
     </entry>
 </feed>
