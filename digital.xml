@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-02-28T19:15:23.905Z</updated>
+    <updated>2022-02-28T20:19:56.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[5G 진화의 경연장.. 삼성, 보안 끝판왕 '갤럭시 북2 프로' 펼쳤다]]></title>
+        <id>https://v.daum.net/v/20220301050653240</id>
+        <link href="https://v.daum.net/v/20220301050653240"/>
+        <updated>2022-02-28T20:19:25.521Z</updated>
+        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:06</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MWC22]임혜숙 장관, 국내외 기업 전시부스 참관]]></title>
+        <id>https://v.daum.net/v/20220301045250013</id>
+        <link href="https://v.daum.net/v/20220301045250013"/>
+        <updated>2022-02-28T20:19:25.526Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">04:52</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[epaselect SPAIN MOBILE WORLD CONGRESS]]></title>
+        <id>https://v.daum.net/v/20220301043754736</id>
+        <link href="https://v.daum.net/v/20220301043754736"/>
+        <updated>2022-02-28T20:19:25.528Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">04:37</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삼성, 노트북에도 '갤럭시 DNA']]></title>
         <id>https://v.daum.net/v/20220301030240418</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220301023823252"/>
         <updated>2022-02-28T18:21:24.442Z</updated>
         <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">02:38</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SPAIN TECHNOLOGY MOBILE WORLD CONGRESS]]></title>
-        <id>https://v.daum.net/v/20220301023803246</id>
-        <link href="https://v.daum.net/v/20220301023803246"/>
-        <updated>2022-02-28T18:21:24.444Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">02:38</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MWC 개막 첫날.."초연결사회, 더 빠른 '5G 고주파' 필요"]]></title>
-        <id>https://v.daum.net/v/20220301015353127</id>
-        <link href="https://v.daum.net/v/20220301015353127"/>
-        <updated>2022-02-28T17:19:59.105Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">01:53</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SPAIN MOBILE WORLD CONGRESS]]></title>
-        <id>https://v.daum.net/v/20220301014828105</id>
-        <link href="https://v.daum.net/v/20220301014828105"/>
-        <updated>2022-02-28T17:19:59.106Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">01:48</span>]]></content>
     </entry>
 </feed>
