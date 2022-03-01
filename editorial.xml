@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-03-01T04:23:34.867Z</updated>
+    <updated>2022-03-01T05:17:27.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[WORD_ON_THE_WEB] 'Don't suspend it temporarily, just put an end to it']]></title>
+        <id>https://v.daum.net/v/20220301134340273</id>
+        <link href="https://v.daum.net/v/20220301134340273"/>
+        <updated>2022-03-01T05:17:05.443Z</updated>
+        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">13:43</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尹 "비싼 평화 말한 이재명, 이완용과 다를바 없어"]]></title>
+        <id>https://v.daum.net/v/20220301134226240</id>
+        <link href="https://v.daum.net/v/20220301134226240"/>
+        <updated>2022-03-01T05:17:05.444Z</updated>
+        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">13:42</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설]'소부장 독립' 축포 이르다]]></title>
         <id>https://v.daum.net/v/20220301130117460</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220301070022341"/>
         <updated>2022-02-28T22:18:12.996Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[최광숙 칼럼] 대통령 당선인이 가장 신경써야 할 것은/대기자]]></title>
-        <id>https://v.daum.net/v/20220301050759295</id>
-        <link href="https://v.daum.net/v/20220301050759295"/>
-        <updated>2022-02-28T20:19:35.597Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[씨줄날줄] 국제은행간통신협회/전경하 논설위원]]></title>
-        <id>https://v.daum.net/v/20220301050758293</id>
-        <link href="https://v.daum.net/v/20220301050758293"/>
-        <updated>2022-02-28T20:19:35.598Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:07</span>]]></content>
     </entry>
 </feed>
