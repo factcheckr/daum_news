@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-03-01T13:23:28.305Z</updated>
+    <updated>2022-03-01T14:18:01.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가상화폐 폴리매쓰 상승세.. 전일대비 +21.72%]]></title>
+        <id>https://v.daum.net/v/20220301223119730</id>
+        <link href="https://v.daum.net/v/20220301223119730"/>
+        <updated>2022-03-01T14:18:00.702Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">22:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 날씨 - 오후 (2022년 03월 01일)]]></title>
         <id>https://v.daum.net/v/20220301173149621</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220301124049120"/>
         <updated>2022-03-01T04:23:34.223Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 동춘동 연수1차 현대 아파트 84㎡ 5억9990만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220301123554037</id>
-        <link href="https://v.daum.net/v/20220301123554037"/>
-        <updated>2022-03-01T04:23:34.225Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:35</span>]]></content>
     </entry>
 </feed>
