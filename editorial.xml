@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-03-02T12:29:54.783Z</updated>
+    <updated>2022-03-02T13:23:07.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[육아하는 아빠의 세 가지 작은 실천 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20220302220055048</id>
+        <link href="https://v.daum.net/v/20220302220055048"/>
+        <updated>2022-03-02T13:22:45.699Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 3월 3일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20220302215834996</id>
+        <link href="https://v.daum.net/v/20220302215834996"/>
+        <updated>2022-03-02T13:22:45.700Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">21:58</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우크라 침공, 역실적 장세의 신호탄 될까]]></title>
+        <id>https://v.daum.net/v/20220302215710984</id>
+        <link href="https://v.daum.net/v/20220302215710984"/>
+        <updated>2022-03-02T13:22:45.702Z</updated>
+        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">21:57</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 하루 확진자 22만 급증, 병상 및 치료제 차질 없이 확보해야]]></title>
         <id>https://v.daum.net/v/20220302204125640</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220302194732436"/>
         <updated>2022-03-02T11:16:35.370Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3월 3일 한겨레 그림판]]></title>
-        <id>https://v.daum.net/v/20220302194603412</id>
-        <link href="https://v.daum.net/v/20220302194603412"/>
-        <updated>2022-03-02T11:16:35.371Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:46</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to keep dividing the nation]]></title>
-        <id>https://v.daum.net/v/20220302194551408</id>
-        <link href="https://v.daum.net/v/20220302194551408"/>
-        <updated>2022-03-02T11:16:35.371Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 당진 현대제철 또 사망사고, 뭐가 달라졌나]]></title>
-        <id>https://v.daum.net/v/20220302191837840</id>
-        <link href="https://v.daum.net/v/20220302191837840"/>
-        <updated>2022-03-02T10:20:14.803Z</updated>
-        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">19:18</span>]]></content>
     </entry>
 </feed>
