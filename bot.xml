@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-03-03T05:17:33.268Z</updated>
+    <updated>2022-03-03T06:22:49.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가상화폐 비트코인(-0.91%), 스트라이크(+7.81%)]]></title>
+        <id>https://v.daum.net/v/20220303143132375</id>
+        <link href="https://v.daum.net/v/20220303143132375"/>
+        <updated>2022-03-03T06:22:49.142Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">14:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부산 만덕동 벽산라인타운 아파트 59㎡ 2억900만원.. 역대 최고가]]></title>
         <id>https://v.daum.net/v/20220303141055547</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220303130549399"/>
         <updated>2022-03-03T04:23:32.444Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 심곡동 연희 대동주택 아파트 75㎡ 3억5000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220303130050330</id>
-        <link href="https://v.daum.net/v/20220303130050330"/>
-        <updated>2022-03-03T04:23:32.446Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:00</span>]]></content>
     </entry>
 </feed>
