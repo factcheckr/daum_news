@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-03-03T06:22:49.880Z</updated>
+    <updated>2022-03-03T07:17:55.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[fnRASSI]장마감, 코스닥 하락 종목(비디아이 -29.7% ↓)]]></title>
+        <id>https://v.daum.net/v/20220303153854672</id>
+        <link href="https://v.daum.net/v/20220303153854672"/>
+        <updated>2022-03-03T07:17:54.396Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:38</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[fnRASSI]장마감, 코스닥 상승 종목(판타지오 29.9% ↑)]]></title>
+        <id>https://v.daum.net/v/20220303153849669</id>
+        <link href="https://v.daum.net/v/20220303153849669"/>
+        <updated>2022-03-03T07:17:54.397Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:38</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[fnRASSI]장마감, 거래소 하락 종목(한국ANKOR유전 -10.9% ↓)]]></title>
+        <id>https://v.daum.net/v/20220303153845664</id>
+        <link href="https://v.daum.net/v/20220303153845664"/>
+        <updated>2022-03-03T07:17:54.398Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:38</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[fnRASSI]장마감, 거래소 상승 종목(제일연마 21.3% ↑)]]></title>
+        <id>https://v.daum.net/v/20220303153840663</id>
+        <link href="https://v.daum.net/v/20220303153840663"/>
+        <updated>2022-03-03T07:17:54.399Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:38</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[fnRASSI]제일연마, 삼목에스폼 등 19종목 52주 신고가 경신]]></title>
+        <id>https://v.daum.net/v/20220303153807641</id>
+        <link href="https://v.daum.net/v/20220303153807641"/>
+        <updated>2022-03-03T07:17:54.402Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:38</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[fnRASSI]오늘의 상한가, 판타지오 29.9% ↑]]></title>
+        <id>https://v.daum.net/v/20220303153804637</id>
+        <link href="https://v.daum.net/v/20220303153804637"/>
+        <updated>2022-03-03T07:17:54.403Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:38</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가상화폐 비트코인(-0.91%), 스트라이크(+7.81%)]]></title>
         <id>https://v.daum.net/v/20220303143132375</id>
@@ -67,47 +109,5 @@
         <link href="https://v.daum.net/v/20220303133549171"/>
         <updated>2022-03-03T05:17:32.623Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 하동 광교마을40단지 74㎡ 8억4000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220303133053037</id>
-        <link href="https://v.daum.net/v/20220303133053037"/>
-        <updated>2022-03-03T05:17:32.624Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 간석동 간석 래미안자이아파트 119㎡ 7억4500만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220303132550883</id>
-        <link href="https://v.daum.net/v/20220303132550883"/>
-        <updated>2022-03-03T05:17:32.625Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 영통동 영통신나무실주공5단지 59㎡ 5억700만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220303132048749</id>
-        <link href="https://v.daum.net/v/20220303132048749"/>
-        <updated>2022-03-03T04:23:32.441Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고양 중산동 일산센트럴아이파크 84㎡ 8억3000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220303131553608</id>
-        <link href="https://v.daum.net/v/20220303131553608"/>
-        <updated>2022-03-03T04:23:32.443Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용인 상갈동 금화마을주공3단지 59㎡ 5억2000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220303131051478</id>
-        <link href="https://v.daum.net/v/20220303131051478"/>
-        <updated>2022-03-03T04:23:32.444Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고양 장항동 장항호수마을2단지현대 70㎡ 6억500만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220303130549399</id>
-        <link href="https://v.daum.net/v/20220303130549399"/>
-        <updated>2022-03-03T04:23:32.444Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:05</span>]]></content>
     </entry>
 </feed>
