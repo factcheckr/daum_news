@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-03-04T22:15:40.207Z</updated>
+    <updated>2022-03-04T23:18:27.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오징어게임 정호연 댕기 이슈가 말해주는 것 [하재근의 이슈분석]]]></title>
+        <id>https://v.daum.net/v/20220305080808619</id>
+        <link href="https://v.daum.net/v/20220305080808619"/>
+        <updated>2022-03-04T23:18:07.017Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">08:08</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[허접한 성공을 계속하는 것이 가장 큰 문제 [줄리아 투자노트]]]></title>
+        <id>https://v.daum.net/v/20220305073100284</id>
+        <link href="https://v.daum.net/v/20220305073100284"/>
+        <updated>2022-03-04T23:18:07.019Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">07:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이 한편의 시조] 빗소리 듣는 저녁 / 김석이]]></title>
         <id>https://v.daum.net/v/20220305070912095</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220305040903333"/>
         <updated>2022-03-04T19:15:08.848Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[빛과 소금] 크리스천의 예언자적 사명]]></title>
-        <id>https://v.daum.net/v/20220305040901332</id>
-        <link href="https://v.daum.net/v/20220305040901332"/>
-        <updated>2022-03-04T19:15:08.848Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오후 3시의 헌책방] 집 나간 개그 코드를 찾습니다!]]></title>
-        <id>https://v.daum.net/v/20220305040609329</id>
-        <link href="https://v.daum.net/v/20220305040609329"/>
-        <updated>2022-03-04T19:15:08.848Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:06</span>]]></content>
     </entry>
 </feed>
