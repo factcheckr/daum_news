@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-03-04T09:18:15.079Z</updated>
+    <updated>2022-03-04T10:20:24.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사설] 오미크론 대유행 속 거리두기 완화, 피해 최소화에 만전 기해야]]></title>
+        <id>https://v.daum.net/v/20220304190613932</id>
+        <link href="https://v.daum.net/v/20220304190613932"/>
+        <updated>2022-03-04T10:20:03.294Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:06</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원희룡 전 제주지사, 이준석 대표와 제주에서 '尹 지지' 호소]]></title>
+        <id>https://v.daum.net/v/20220304183003112</id>
+        <link href="https://v.daum.net/v/20220304183003112"/>
+        <updated>2022-03-04T10:20:03.296Z</updated>
+        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">18:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한류 확산 부처간 협업 강화..'문화강국' 속도낸다]]></title>
         <id>https://v.daum.net/v/20220304180512617</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220304145655410"/>
         <updated>2022-03-04T06:22:15.757Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">14:56</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[산업부, '우려거래자' 목록에 러시아 국방부 등 추가]]></title>
-        <id>https://v.daum.net/v/20220304145615386</id>
-        <link href="https://v.daum.net/v/20220304145615386"/>
-        <updated>2022-03-04T06:22:15.762Z</updated>
-        <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">14:56</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기자수첩] 포스트 코로나 시대 취약계층·불평등 문제 해결해야]]></title>
-        <id>https://v.daum.net/v/20220304144806129</id>
-        <link href="https://v.daum.net/v/20220304144806129"/>
-        <updated>2022-03-04T06:22:15.762Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:48</span>]]></content>
     </entry>
 </feed>
