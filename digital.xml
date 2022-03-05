@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-03-05T12:27:25.544Z</updated>
+    <updated>2022-03-05T13:20:45.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[울진·삼척 산불 현장 곳곳 통신장애.."긴급 복구 중"]]></title>
+        <id>https://v.daum.net/v/20220305220322840</id>
+        <link href="https://v.daum.net/v/20220305220322840"/>
+        <updated>2022-03-05T13:20:12.506Z</updated>
+        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">22:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엔비디아 털어간 해커, 이번엔 "삼성 기밀 소스코드 190GB 유출"]]></title>
         <id>https://v.daum.net/v/20220305210444118</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220305180103766"/>
         <updated>2022-03-05T09:16:41.484Z</updated>
         <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">18:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["카카오만큼 잘 나간다고?" BJ로 욕먹던 '이 회사' 놀라운 일이]]></title>
-        <id>https://v.daum.net/v/20220305175054608</id>
-        <link href="https://v.daum.net/v/20220305175054608"/>
-        <updated>2022-03-05T09:16:41.493Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">17:50</span>]]></content>
     </entry>
 </feed>
