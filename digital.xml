@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-03-05T11:17:33.366Z</updated>
+    <updated>2022-03-05T12:27:25.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엔비디아 털어간 해커, 이번엔 "삼성 기밀 소스코드 190GB 유출"]]></title>
+        <id>https://v.daum.net/v/20220305210444118</id>
+        <link href="https://v.daum.net/v/20220305210444118"/>
+        <updated>2022-03-05T12:26:54.607Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">21:04</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네이버제트의 메타버스 플랫폼 제페토, 글로벌 가입자 3억명 돌파]]></title>
+        <id>https://v.daum.net/v/20220305210117076</id>
+        <link href="https://v.daum.net/v/20220305210117076"/>
+        <updated>2022-03-05T12:26:54.608Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">21:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[홍남기 부총리, 더존비즈온 방문]]></title>
+        <id>https://v.daum.net/v/20220305203503722</id>
+        <link href="https://v.daum.net/v/20220305203503722"/>
+        <updated>2022-03-05T12:26:54.609Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">20:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[폭락한 비트코인, 3만9천달러 겨우 유지]]></title>
         <id>https://v.daum.net/v/20220305201131429</id>
@@ -20,7 +41,7 @@
         <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">20:06</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["기름값 빼면 1만원도 못벌어요" 쏠쏠하던 자동차 배달 퇴출 위기]]></title>
+        <title type="html"><![CDATA["기름값 빼면 하루 1만원도 못벌어요" 자동차 음식 배달 사라진다?]]></title>
         <id>https://v.daum.net/v/20220305195923222</id>
         <link href="https://v.daum.net/v/20220305195923222"/>
         <updated>2022-03-05T11:17:00.971Z</updated>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220305175054608"/>
         <updated>2022-03-05T09:16:41.493Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">17:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YTN 유튜브 채널 구독자 300만 돌파 비결은?]]></title>
-        <id>https://v.daum.net/v/20220305174601569</id>
-        <link href="https://v.daum.net/v/20220305174601569"/>
-        <updated>2022-03-05T09:16:41.494Z</updated>
-        <content type="html"><![CDATA[미디어오늘<span class="txt_bar"> · </span><span class="info_time">17:46</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['엔비디아' 공격 외국 해커그룹, 삼성전자 공격 정황]]></title>
-        <id>https://v.daum.net/v/20220305171155097</id>
-        <link href="https://v.daum.net/v/20220305171155097"/>
-        <updated>2022-03-05T08:20:36.446Z</updated>
-        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">17:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔비디아 공격한 해커그룹 "삼성전자 서버 공격" 주장]]></title>
-        <id>https://v.daum.net/v/20220305170600987</id>
-        <link href="https://v.daum.net/v/20220305170600987"/>
-        <updated>2022-03-05T08:20:36.447Z</updated>
-        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">17:06</span>]]></content>
     </entry>
 </feed>
