@@ -2,11 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-03-05T08:21:09.826Z</updated>
+    <updated>2022-03-05T09:17:13.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA['엔비디아' 공격 외국 해커그룹, 삼성전가 공격 정황]]></title>
+        <title type="html"><![CDATA[[부고]김지희 서울경제신문 기자 외조모상]]></title>
+        <id>https://v.daum.net/v/20220305181248883</id>
+        <link href="https://v.daum.net/v/20220305181248883"/>
+        <updated>2022-03-05T09:16:41.482Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">18:12</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[IT핫테크]팔 관절 자유자재로 움직이는 로봇 등장]]></title>
+        <id>https://v.daum.net/v/20220305180109768</id>
+        <link href="https://v.daum.net/v/20220305180109768"/>
+        <updated>2022-03-05T09:16:41.482Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">18:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[퓨런티어, 전장용 센싱카메라 공정장비 국산화 '앞장']]></title>
+        <id>https://v.daum.net/v/20220305180107767</id>
+        <link href="https://v.daum.net/v/20220305180107767"/>
+        <updated>2022-03-05T09:16:41.483Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">18:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그래프코어, 초당 35경 연산하는 반도체 출시]]></title>
+        <id>https://v.daum.net/v/20220305180103766</id>
+        <link href="https://v.daum.net/v/20220305180103766"/>
+        <updated>2022-03-05T09:16:41.484Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">18:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["카카오만큼 잘 나간다고?" BJ로 욕먹던 '이 회사' 놀라운 일이]]></title>
+        <id>https://v.daum.net/v/20220305175054608</id>
+        <link href="https://v.daum.net/v/20220305175054608"/>
+        <updated>2022-03-05T09:16:41.493Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">17:50</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YTN 유튜브 채널 구독자 300만 돌파 비결은?]]></title>
+        <id>https://v.daum.net/v/20220305174601569</id>
+        <link href="https://v.daum.net/v/20220305174601569"/>
+        <updated>2022-03-05T09:16:41.494Z</updated>
+        <content type="html"><![CDATA[미디어오늘<span class="txt_bar"> · </span><span class="info_time">17:46</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['엔비디아' 공격 외국 해커그룹, 삼성전자 공격 정황]]></title>
         <id>https://v.daum.net/v/20220305171155097</id>
         <link href="https://v.daum.net/v/20220305171155097"/>
         <updated>2022-03-05T08:20:36.446Z</updated>
@@ -48,13 +90,6 @@
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">16:24</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코넌코리아, 싸이월드용 스토리지 시스템 구축]]></title>
-        <id>https://v.daum.net/v/20220305161803190</id>
-        <link href="https://v.daum.net/v/20220305161803190"/>
-        <updated>2022-03-05T08:20:36.456Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">16:18</span>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA['엔비디아 공격' 해커그룹, 삼성도 공격 정황.."상황 파악 중"]]></title>
         <id>https://v.daum.net/v/20220305161140084</id>
         <link href="https://v.daum.net/v/20220305161140084"/>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20220305160004827"/>
         <updated>2022-03-05T07:17:54.988Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">16:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["그 돈 언제 다 써요?" 못해도 100억원 '연봉' 주인공 알고 보니..]]></title>
-        <id>https://v.daum.net/v/20220305155445747</id>
-        <link href="https://v.daum.net/v/20220305155445747"/>
-        <updated>2022-03-05T07:17:54.989Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">15:54</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[갤럭시S22, 중국폰과 같은 평가?..긱벤치 "글로벌 평가목록 제외"]]></title>
-        <id>https://v.daum.net/v/20220305152234119</id>
-        <link href="https://v.daum.net/v/20220305152234119"/>
-        <updated>2022-03-05T07:17:54.992Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">15:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[형만한 아우 있다..기계동물 활보하는 '호라이즌 오픈월드'의 정립[보편적겜뷰]]]></title>
-        <id>https://v.daum.net/v/20220305145612681</id>
-        <link href="https://v.daum.net/v/20220305145612681"/>
-        <updated>2022-03-05T06:21:24.313Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">14:56</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[러 우크라 침공] 페도로프 장관 "삼성, 러시아 사업 멈춰달라"]]></title>
-        <id>https://v.daum.net/v/20220305144538549</id>
-        <link href="https://v.daum.net/v/20220305144538549"/>
-        <updated>2022-03-05T06:21:24.317Z</updated>
-        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">14:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명 "아마추어에 국정 연습 맡기겠습니까"]]></title>
-        <id>https://v.daum.net/v/20220305142035081</id>
-        <link href="https://v.daum.net/v/20220305142035081"/>
-        <updated>2022-03-05T06:21:24.318Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">14:20</span>]]></content>
     </entry>
 </feed>
