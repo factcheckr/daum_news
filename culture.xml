@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2022-03-05T17:17:10.999Z</updated>
+    <updated>2022-03-05T18:20:58.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[가정예배 365-3월 6일] 최고의 선택]]></title>
+        <id>https://v.daum.net/v/20220306030204566</id>
+        <link href="https://v.daum.net/v/20220306030204566"/>
+        <updated>2022-03-05T18:19:57.187Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">03:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[특보 날씨] 건조·강풍에 산불 등 화재 주의]]></title>
         <id>https://v.daum.net/v/20220306012856307</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220306000013757"/>
         <updated>2022-03-05T15:17:20.071Z</updated>
         <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인플루언서 프리즘] "인생 맛집 알려드려요"..맛 리뷰 유튜버 인기]]></title>
-        <id>https://v.daum.net/v/20220306000008756</id>
-        <link href="https://v.daum.net/v/20220306000008756"/>
-        <updated>2022-03-05T15:17:20.074Z</updated>
-        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
