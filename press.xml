@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-03-05T04:22:57.497Z</updated>
+    <updated>2022-03-05T05:16:31.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한미 북핵 수석대표 유선 협의(3.5) 결과]]></title>
+        <id>https://v.daum.net/v/20220305133540225</id>
+        <link href="https://v.daum.net/v/20220305133540225"/>
+        <updated>2022-03-05T05:16:20.834Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">13:35</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Pondy Oxides & Chemicals Ltd, ACE Green Recycling와 파트너십 체결]]></title>
+        <id>https://v.daum.net/v/20220305132527051</id>
+        <link href="https://v.daum.net/v/20220305132527051"/>
+        <updated>2022-03-05T05:16:20.835Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">13:25</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[진도 대파 활용 간편식, 전국 편의점 출시]]></title>
         <id>https://v.daum.net/v/20220305131745924</id>
@@ -95,12 +109,5 @@
         <link href="https://v.daum.net/v/20220305090703255"/>
         <updated>2022-03-05T01:07:10.990Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">09:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부울경 대체로 맑음..황사로 미세먼지 '나쁨']]></title>
-        <id>https://v.daum.net/v/20220305081836705</id>
-        <link href="https://v.daum.net/v/20220305081836705"/>
-        <updated>2022-03-05T01:07:10.991Z</updated>
-        <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">08:18</span>]]></content>
     </entry>
 </feed>
