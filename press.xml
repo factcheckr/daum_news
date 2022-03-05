@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-03-05T05:16:31.459Z</updated>
+    <updated>2022-03-05T06:21:56.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나19 국내 발생 및 예방접종 현황(3.5.)]]></title>
+        <id>https://v.daum.net/v/20220305143542352</id>
+        <link href="https://v.daum.net/v/20220305143542352"/>
+        <updated>2022-03-05T06:21:45.850Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">14:35</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] BRI, 연례 주주총회에서 배당금 26.4조 루피아 승인]]></title>
+        <id>https://v.daum.net/v/20220305142330143</id>
+        <link href="https://v.daum.net/v/20220305142330143"/>
+        <updated>2022-03-05T06:21:45.852Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">14:23</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한미 북핵 수석대표 유선 협의(3.5) 결과]]></title>
         <id>https://v.daum.net/v/20220305133540225</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220305091524393"/>
         <updated>2022-03-05T01:07:10.988Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">09:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] TECH4ALL DigiTruck Project Wins GSMA GLOMO Award for Outstanding]]></title>
-        <id>https://v.daum.net/v/20220305091113325</id>
-        <link href="https://v.daum.net/v/20220305091113325"/>
-        <updated>2022-03-05T01:07:10.989Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">09:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현대자동차그룹, 홈페이지 통합 오픈]]></title>
-        <id>https://v.daum.net/v/20220305090703255</id>
-        <link href="https://v.daum.net/v/20220305090703255"/>
-        <updated>2022-03-05T01:07:10.990Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">09:07</span>]]></content>
     </entry>
 </feed>
