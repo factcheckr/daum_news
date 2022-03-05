@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-03-05T07:18:30.636Z</updated>
+    <updated>2022-03-05T08:21:09.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 장인정신의 예술 | GAC MOTOR, 중국-파나마 예술가 전시회 개최]]></title>
+        <id>https://v.daum.net/v/20220305163650632</id>
+        <link href="https://v.daum.net/v/20220305163650632"/>
+        <updated>2022-03-05T08:20:58.297Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:36</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 샤먼, 높은 수준의 개방으로 혜택 누려]]></title>
+        <id>https://v.daum.net/v/20220305162718399</id>
+        <link href="https://v.daum.net/v/20220305162718399"/>
+        <updated>2022-03-05T08:20:58.298Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:27</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20대 대선, 투표 인증샷 촬영 시 주의사항은?]]></title>
         <id>https://v.daum.net/v/20220305155002659</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20220305100544336</id>
         <link href="https://v.daum.net/v/20220305100544336"/>
         <updated>2022-03-05T01:07:10.983Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">10:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경북 울진 산불 대응, 재난사태 선포]]></title>
-        <id>https://v.daum.net/v/20220305100542335</id>
-        <link href="https://v.daum.net/v/20220305100542335"/>
-        <updated>2022-03-05T01:07:10.984Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">10:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경북 울진 산불 대응, 중앙재난안전대책본부 가동]]></title>
-        <id>https://v.daum.net/v/20220305100542334</id>
-        <link href="https://v.daum.net/v/20220305100542334"/>
-        <updated>2022-03-05T01:07:10.985Z</updated>
         <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">10:05</span>]]></content>
     </entry>
 </feed>

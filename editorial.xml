@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-03-05T07:18:30.633Z</updated>
+    <updated>2022-03-05T08:21:09.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[종편4사 '김혜경 의혹'이 김건희 의혹보다 2배 많아]]></title>
+        <id>https://v.daum.net/v/20220305165851877</id>
+        <link href="https://v.daum.net/v/20220305165851877"/>
+        <updated>2022-03-05T08:20:47.543Z</updated>
+        <content type="html"><![CDATA[미디어오늘<span class="txt_bar"> · </span><span class="info_time">16:58</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박수현의 오션월드<34> 해류의 발견]]></title>
+        <id>https://v.daum.net/v/20220305162821422</id>
+        <link href="https://v.daum.net/v/20220305162821422"/>
+        <updated>2022-03-05T08:20:47.543Z</updated>
+        <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">16:28</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이번 대선, 답답하십니까]]></title>
         <id>https://v.daum.net/v/20220305160802005</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220305070912095"/>
         <updated>2022-03-04T22:15:19.625Z</updated>
         <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">07:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정여울의 언어정담]  국경을 뛰어넘는 편지의 마력]]></title>
-        <id>https://v.daum.net/v/20220305070032963</id>
-        <link href="https://v.daum.net/v/20220305070032963"/>
-        <updated>2022-03-04T22:15:19.626Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[존리의 머니웍스] 우리 아이 자본가로 키워라]]></title>
-        <id>https://v.daum.net/v/20220305070027955</id>
-        <link href="https://v.daum.net/v/20220305070027955"/>
-        <updated>2022-03-04T22:15:19.627Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
     </entry>
 </feed>
