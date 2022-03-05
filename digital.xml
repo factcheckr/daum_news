@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-03-05T13:20:45.933Z</updated>
+    <updated>2022-03-05T14:17:29.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오후 9시까지 신규 확진 전국 23만2306명..어제보다 1만5486명 적어]]></title>
+        <id>https://v.daum.net/v/20220305230400401</id>
+        <link href="https://v.daum.net/v/20220305230400401"/>
+        <updated>2022-03-05T14:16:55.707Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">23:04</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[충남 공주시 남쪽서 규모 2.4 지진]]></title>
+        <id>https://v.daum.net/v/20220305223446162</id>
+        <link href="https://v.daum.net/v/20220305223446162"/>
+        <updated>2022-03-05T14:16:55.718Z</updated>
+        <content type="html"><![CDATA[동아사이언스<span class="txt_bar"> · </span><span class="info_time">22:34</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[울진·삼척 산불 현장 곳곳 통신장애.."긴급 복구 중"]]></title>
         <id>https://v.daum.net/v/20220305220322840</id>
@@ -69,7 +83,7 @@
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">19:01</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["가격 확 낮췄더니, 놀라운 일이" 삼성 최고된 '이것' 나온다]]></title>
+        <title type="html"><![CDATA["얼마나 급하면" 삼성, 작정하고 가격 낯춘 '이것' 내놓는다]]></title>
         <id>https://v.daum.net/v/20220305185347448</id>
         <link href="https://v.daum.net/v/20220305185347448"/>
         <updated>2022-03-05T10:19:13.067Z</updated>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20220305180109768</id>
         <link href="https://v.daum.net/v/20220305180109768"/>
         <updated>2022-03-05T09:16:41.482Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">18:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퓨런티어, 전장용 센싱카메라 공정장비 국산화 '앞장']]></title>
-        <id>https://v.daum.net/v/20220305180107767</id>
-        <link href="https://v.daum.net/v/20220305180107767"/>
-        <updated>2022-03-05T09:16:41.483Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">18:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그래프코어, 초당 35경 연산하는 반도체 출시]]></title>
-        <id>https://v.daum.net/v/20220305180103766</id>
-        <link href="https://v.daum.net/v/20220305180103766"/>
-        <updated>2022-03-05T09:16:41.484Z</updated>
         <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">18:01</span>]]></content>
     </entry>
 </feed>
