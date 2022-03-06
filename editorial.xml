@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-03-06T16:24:20.943Z</updated>
+    <updated>2022-03-06T17:17:31.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]원격의료, 전면 도입하라]]></title>
+        <id>https://v.daum.net/v/20220307020301450</id>
+        <link href="https://v.daum.net/v/20220307020301450"/>
+        <updated>2022-03-06T17:17:10.238Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[박종면칼럼]무유호이(無有乎爾)]]></title>
+        <id>https://v.daum.net/v/20220307020101441</id>
+        <link href="https://v.daum.net/v/20220307020101441"/>
+        <updated>2022-03-06T17:17:10.238Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 위중증 환자도 급증..거리두기 완화 서두를 필요 있었나]]></title>
         <id>https://v.daum.net/v/20220307004141166</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220307002027043"/>
         <updated>2022-03-06T16:23:58.874Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시선2035] 샤이 보터]]></title>
-        <id>https://v.daum.net/v/20220307001825035</id>
-        <link href="https://v.daum.net/v/20220307001825035"/>
-        <updated>2022-03-06T16:23:58.874Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[문장으로 읽는 책] 곽승훈 외 『페미니스트가 된 남자들』]]></title>
-        <id>https://v.daum.net/v/20220307001625032</id>
-        <link href="https://v.daum.net/v/20220307001625032"/>
-        <updated>2022-03-06T15:18:23.500Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:16</span>]]></content>
     </entry>
 </feed>
