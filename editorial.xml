@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-03-06T06:22:03.561Z</updated>
+    <updated>2022-03-06T07:17:35.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국일보 3월 7일 만평]]></title>
+        <id>https://v.daum.net/v/20220306153234634</id>
+        <link href="https://v.daum.net/v/20220306153234634"/>
+        <updated>2022-03-06T07:17:12.274Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">15:32</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설]'기술'은 칼보다 강하다]]></title>
         <id>https://v.daum.net/v/20220306151603258</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220306081907465"/>
         <updated>2022-03-06T01:05:24.181Z</updated>
         <content type="html"><![CDATA[스포츠조선<span class="txt_bar"> · </span><span class="info_time">08:19</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['실력파 작곡돌' 이라던 전소연, 창작자 자격은 미달 [류지윤의 배드토크]]]></title>
-        <id>https://v.daum.net/v/20220306080702355</id>
-        <link href="https://v.daum.net/v/20220306080702355"/>
-        <updated>2022-03-05T23:17:32.324Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">08:07</span>]]></content>
     </entry>
 </feed>
