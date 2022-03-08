@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-03-08T12:30:13.434Z</updated>
+    <updated>2022-03-08T13:24:05.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022년 3월 9일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20220308220234895</id>
+        <link href="https://v.daum.net/v/20220308220234895"/>
+        <updated>2022-03-08T13:23:43.547Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[노회찬의 장미 한 송이 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20220308220051865</id>
+        <link href="https://v.daum.net/v/20220308220051865"/>
+        <updated>2022-03-08T13:23:43.547Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[불안한 기술주와 금융 시장 서브프라임 악몽 재현되나]]></title>
+        <id>https://v.daum.net/v/20220308213000294</id>
+        <link href="https://v.daum.net/v/20220308213000294"/>
+        <updated>2022-03-08T13:23:43.547Z</updated>
+        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">21:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[네이버 20대 대선 특집페이지, 19대와 비교하니]]></title>
         <id>https://v.daum.net/v/20220308211503951</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220308200056752"/>
         <updated>2022-03-08T11:16:13.657Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">20:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An era of change]]></title>
-        <id>https://v.daum.net/v/20220308195823720</id>
-        <link href="https://v.daum.net/v/20220308195823720"/>
-        <updated>2022-03-08T11:16:13.657Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:58</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[War and the power of stories]]></title>
-        <id>https://v.daum.net/v/20220308195515666</id>
-        <link href="https://v.daum.net/v/20220308195515666"/>
-        <updated>2022-03-08T11:16:13.658Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:55</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3월 9일 한겨레 그림판]]></title>
-        <id>https://v.daum.net/v/20220308194604561</id>
-        <link href="https://v.daum.net/v/20220308194604561"/>
-        <updated>2022-03-08T11:16:13.660Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:46</span>]]></content>
     </entry>
 </feed>
