@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-03-08T22:19:10.765Z</updated>
+    <updated>2022-03-08T23:18:56.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[시로 여는 수요일]]]></title>
+        <id>https://v.daum.net/v/20220309081105639</id>
+        <link href="https://v.daum.net/v/20220309081105639"/>
+        <updated>2022-03-08T23:18:35.923Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">08:11</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뒤끝작렬]중증장애 딸과 둘이 산다는 것]]></title>
+        <id>https://v.daum.net/v/20220309080327506</id>
+        <link href="https://v.daum.net/v/20220309080327506"/>
+        <updated>2022-03-08T23:18:35.924Z</updated>
+        <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">08:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[기고]'사찰에 종부세라니'..문화재 보존 위해 중첩규제 없애야]]></title>
         <id>https://v.daum.net/v/20220309063005074</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20220309050919959</id>
         <link href="https://v.daum.net/v/20220309050919959"/>
         <updated>2022-03-08T20:24:01.402Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특파원 칼럼] 북중러 연대의 딜레마/류지영 베이징 특파원]]></title>
-        <id>https://v.daum.net/v/20220309050917957</id>
-        <link href="https://v.daum.net/v/20220309050917957"/>
-        <updated>2022-03-08T20:24:01.404Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이미혜의 발길따라 그림따라] 내일을 향해 쏴라/미술평론가]]></title>
-        <id>https://v.daum.net/v/20220309050915956</id>
-        <link href="https://v.daum.net/v/20220309050915956"/>
-        <updated>2022-03-08T20:24:01.406Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:09</span>]]></content>
     </entry>
 </feed>
