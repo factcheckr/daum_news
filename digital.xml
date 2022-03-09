@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-03-09T17:20:13.423Z</updated>
+    <updated>2022-03-09T18:22:08.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[두뇌는 최신, 가격은 59만원.. 애플 중저가폰 전쟁 뛰어들었다]]></title>
+        <id>https://v.daum.net/v/20220310030338689</id>
+        <link href="https://v.daum.net/v/20220310030338689"/>
+        <updated>2022-03-09T18:21:38.068Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[애플, 2년 만에 '아이폰SE' 신제품 출시]]></title>
         <id>https://v.daum.net/v/20220310011110559</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220310004326127</id>
         <link href="https://v.daum.net/v/20220310004326127"/>
         <updated>2022-03-09T16:26:13.934Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">00:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베스핀글로벌-와이즈넛 클라우드 서비스 MOU]]></title>
-        <id>https://v.daum.net/v/20220310004324126</id>
-        <link href="https://v.daum.net/v/20220310004324126"/>
-        <updated>2022-03-09T16:26:13.936Z</updated>
         <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">00:43</span>]]></content>
     </entry>
 </feed>
