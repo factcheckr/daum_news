@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-03-09T18:22:08.634Z</updated>
+    <updated>2022-03-09T19:16:12.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여자아이가 남자아이보다 실패에 대한 불안감 더 크다]]></title>
+        <id>https://v.daum.net/v/20220310040104465</id>
+        <link href="https://v.daum.net/v/20220310040104465"/>
+        <updated>2022-03-09T19:15:34.573Z</updated>
+        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">04:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제20대 대통령 윤석열 당선]]></title>
+        <id>https://v.daum.net/v/20220310040033451</id>
+        <link href="https://v.daum.net/v/20220310040033451"/>
+        <updated>2022-03-09T19:15:34.574Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[속보] 20대 대통령 윤석열 48.6% 당선 확실]]></title>
+        <id>https://v.daum.net/v/20220310032941064</id>
+        <link href="https://v.daum.net/v/20220310032941064"/>
+        <updated>2022-03-09T19:15:34.576Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">03:29</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[두뇌는 최신, 가격은 59만원.. 애플 중저가폰 전쟁 뛰어들었다]]></title>
         <id>https://v.daum.net/v/20220310030338689</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220310004724177"/>
         <updated>2022-03-09T16:26:13.931Z</updated>
         <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">00:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["세계에서 가장 뛰어나".. PC용칩 'M1 울트라'도 공개]]></title>
-        <id>https://v.daum.net/v/20220310004721174</id>
-        <link href="https://v.daum.net/v/20220310004721174"/>
-        <updated>2022-03-09T16:26:13.932Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">00:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이폰13 성능·홈버튼·50만원대, 애플 신제품 'SE3' 베일 벗었다]]></title>
-        <id>https://v.daum.net/v/20220310004719171</id>
-        <link href="https://v.daum.net/v/20220310004719171"/>
-        <updated>2022-03-09T16:26:13.933Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">00:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코난테크놀로지, 상반기 신입·경력 공채]]></title>
-        <id>https://v.daum.net/v/20220310004326127</id>
-        <link href="https://v.daum.net/v/20220310004326127"/>
-        <updated>2022-03-09T16:26:13.934Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">00:43</span>]]></content>
     </entry>
 </feed>
