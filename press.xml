@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-03-09T13:23:25.700Z</updated>
+    <updated>2022-03-09T14:18:07.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] GEP, 조달 인텔 및 데이터 사이언스 기업 데이터마크(R) 구매로 주요]]></title>
+        <id>https://v.daum.net/v/20220309224221921</id>
+        <link href="https://v.daum.net/v/20220309224221921"/>
+        <updated>2022-03-09T14:17:56.172Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">22:42</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] Antengene Announces XPOVIO(R) Approved by the TGA in Australia]]></title>
         <id>https://v.daum.net/v/20220309210619971</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220309143523942"/>
         <updated>2022-03-09T06:22:22.627Z</updated>
         <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">14:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[옥천군, 감염 취약계층에 코로나 신속항원검사 키트 무상 지원]]></title>
-        <id>https://v.daum.net/v/20220309140243207</id>
-        <link href="https://v.daum.net/v/20220309140243207"/>
-        <updated>2022-03-09T05:18:07.643Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">14:02</span>]]></content>
     </entry>
 </feed>

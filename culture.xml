@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2022-03-09T13:23:25.692Z</updated>
+    <updated>2022-03-09T14:18:07.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[호주 홈퍼니처 기업 코알라, 건강한 수면을 향한 '노잠 투 굿잠' 캠페인 진행]]></title>
+        <id>https://v.daum.net/v/20220309230003117</id>
+        <link href="https://v.daum.net/v/20220309230003117"/>
+        <updated>2022-03-09T14:17:00.764Z</updated>
+        <content type="html"><![CDATA[웨딩21뉴스<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공감] 해맑은 무례를 겪은 날에 우리는]]></title>
         <id>https://v.daum.net/v/20220309221335605</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220309211525231"/>
         <updated>2022-03-09T12:28:56.403Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">21:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[패럴림픽] 선방쇼 펼친 최혁준 골리]]></title>
-        <id>https://v.daum.net/v/20220309211505221</id>
-        <link href="https://v.daum.net/v/20220309211505221"/>
-        <updated>2022-03-09T12:28:56.404Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">21:15</span>]]></content>
     </entry>
 </feed>
