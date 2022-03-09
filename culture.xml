@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2022-03-09T16:26:46.013Z</updated>
+    <updated>2022-03-09T17:20:13.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[백제 금귀걸이 CT 찍었더니.. 제작 비밀 풀렸다]]></title>
+        <id>https://v.daum.net/v/20220310015332952</id>
+        <link href="https://v.daum.net/v/20220310015332952"/>
+        <updated>2022-03-09T17:19:09.695Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:53</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[오늘의 날씨] 3월 10일]]></title>
+        <id>https://v.daum.net/v/20220310013215791</id>
+        <link href="https://v.daum.net/v/20220310013215791"/>
+        <updated>2022-03-09T17:19:09.696Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">01:32</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 득표율 역전에 민주당 상황실 '침묵']]></title>
         <id>https://v.daum.net/v/20220310010519440</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220310001104820"/>
         <updated>2022-03-09T15:18:38.549Z</updated>
         <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[명경대] 미스터 존스의 후계자들]]></title>
-        <id>https://v.daum.net/v/20220310001052809</id>
-        <link href="https://v.daum.net/v/20220310001052809"/>
-        <updated>2022-03-09T15:18:38.549Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마음의 꽃 피우는 전시회]]></title>
-        <id>https://v.daum.net/v/20220310001036800</id>
-        <link href="https://v.daum.net/v/20220310001036800"/>
-        <updated>2022-03-09T15:18:38.551Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
     </entry>
 </feed>
