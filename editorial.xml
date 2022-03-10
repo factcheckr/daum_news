@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-03-10T04:23:47.723Z</updated>
+    <updated>2022-03-10T05:17:36.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[존 미어샤이머를 위한 변명]]></title>
+        <id>https://v.daum.net/v/20220310135609068</id>
+        <link href="https://v.daum.net/v/20220310135609068"/>
+        <updated>2022-03-10T05:17:13.414Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">13:56</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["저쪽이 더 나쁜놈" 손쉬운 정치..둘다 싫다면서 왜 열성 투표했나?]]></title>
+        <id>https://v.daum.net/v/20220310132604254</id>
+        <link href="https://v.daum.net/v/20220310132604254"/>
+        <updated>2022-03-10T05:17:13.415Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">13:26</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[데일리안 시사만평] 윤석열 시대, 갈등 해소하는 통합과 미래로]]></title>
         <id>https://v.daum.net/v/20220310123455217</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20220310112032303</id>
         <link href="https://v.daum.net/v/20220310112032303"/>
         <updated>2022-03-10T02:47:46.008Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<뉴스와 시각>새 정부 재정 낭비 근절부터]]></title>
-        <id>https://v.daum.net/v/20220310112030302</id>
-        <link href="https://v.daum.net/v/20220310112030302"/>
-        <updated>2022-03-10T02:47:46.008Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<오후여담>푸틴의 '선군정치']]></title>
-        <id>https://v.daum.net/v/20220310112029298</id>
-        <link href="https://v.daum.net/v/20220310112029298"/>
-        <updated>2022-03-10T02:47:46.010Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:20</span>]]></content>
     </entry>
 </feed>
