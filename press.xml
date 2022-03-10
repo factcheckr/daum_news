@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-03-10T21:17:39.504Z</updated>
+    <updated>2022-03-10T22:19:20.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인천, 김천전에서 홈구장 10주년 기념 '레트로 콘셉트' 이벤트 준비]]></title>
+        <id>https://v.daum.net/v/20220311071238558</id>
+        <link href="https://v.daum.net/v/20220311071238558"/>
+        <updated>2022-03-10T22:19:08.675Z</updated>
+        <content type="html"><![CDATA[스포탈코리아<span class="txt_bar"> · </span><span class="info_time">07:12</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신고정보 불명확 이륜차 일제 조사.. 16만건 현행화]]></title>
+        <id>https://v.daum.net/v/20220311063523998</id>
+        <link href="https://v.daum.net/v/20220311063523998"/>
+        <updated>2022-03-10T22:19:08.676Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">06:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울시립청소년미디어센터, '2021 청소년 미디어수요조사' 결과 보고서 공개]]></title>
         <id>https://v.daum.net/v/20220311060703622</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20220311000457911</id>
         <link href="https://v.daum.net/v/20220311000457911"/>
         <updated>2022-03-10T15:22:26.907Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[분양 FOCUS] 평택 고품격 테라스하우스, 모든 가구 4베이]]></title>
-        <id>https://v.daum.net/v/20220311000455910</id>
-        <link href="https://v.daum.net/v/20220311000455910"/>
-        <updated>2022-03-10T15:22:26.910Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[분양 FOCUS] 그린뷰 대단지..청약통장 불필요, 가격 합리적]]></title>
-        <id>https://v.daum.net/v/20220311000454908</id>
-        <link href="https://v.daum.net/v/20220311000454908"/>
-        <updated>2022-03-10T15:22:26.911Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
     </entry>
 </feed>
