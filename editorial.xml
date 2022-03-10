@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-03-10T02:48:07.836Z</updated>
+    <updated>2022-03-10T03:23:21.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[기고]푸틴은 왜 우크라이나 침공을 결정했을까]]></title>
+        <id>https://v.daum.net/v/20220310121501690</id>
+        <link href="https://v.daum.net/v/20220310121501690"/>
+        <updated>2022-03-10T03:22:56.805Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">12:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인사] 한국산업기술시험원(KTL)]]></title>
+        <id>https://v.daum.net/v/20220310121319638</id>
+        <link href="https://v.daum.net/v/20220310121319638"/>
+        <updated>2022-03-10T03:22:56.805Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">12:13</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<사설>尹당선인, 무너진 헌법 가치 바로 세우는 게 제1 책무다]]></title>
         <id>https://v.daum.net/v/20220310114111324</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220310111614103"/>
         <updated>2022-03-10T02:47:46.012Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데스크칼럼] 부동산이 가른 대선..'시장과 싸우지 말라']]></title>
-        <id>https://v.daum.net/v/20220310111533055</id>
-        <link href="https://v.daum.net/v/20220310111533055"/>
-        <updated>2022-03-10T02:47:46.013Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[칼럼]윤 당선인은 '서초동'이 아닌 '광화문·여의도'에 정착해야 한다]]></title>
-        <id>https://v.daum.net/v/20220310111221888</id>
-        <link href="https://v.daum.net/v/20220310111221888"/>
-        <updated>2022-03-10T02:47:46.015Z</updated>
-        <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">11:12</span>]]></content>
     </entry>
 </feed>
