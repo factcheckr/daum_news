@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-03-10T22:19:20.516Z</updated>
+    <updated>2022-03-10T23:19:31.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](11일 조간)]]></title>
+        <id>https://v.daum.net/v/20220311080010182</id>
+        <link href="https://v.daum.net/v/20220311080010182"/>
+        <updated>2022-03-10T23:19:10.694Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[기자수첩]  로또의 도시]]></title>
+        <id>https://v.daum.net/v/20220311075231087</id>
+        <link href="https://v.daum.net/v/20220311075231087"/>
+        <updated>2022-03-10T23:19:10.695Z</updated>
+        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">07:52</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[김대호 박사의 오늘의 키워드] CPI 물가지수·오락가락 UAE·Y 노믹스·저승사자 대통령·윤석열 사람들]]></title>
+        <id>https://v.daum.net/v/20220311073006749</id>
+        <link href="https://v.daum.net/v/20220311073006749"/>
+        <updated>2022-03-10T23:19:10.695Z</updated>
+        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">07:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[춘추칼럼] 선택에 관하여]]></title>
         <id>https://v.daum.net/v/20220311071628604</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220311055215215"/>
         <updated>2022-03-10T21:17:17.669Z</updated>
         <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">05:52</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서울광장] 이제 잊을 건 모두 잊자/서동철 논설위원]]></title>
-        <id>https://v.daum.net/v/20220311050821721</id>
-        <link href="https://v.daum.net/v/20220311050821721"/>
-        <updated>2022-03-10T20:19:51.178Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[씨줄날줄] 광화문 대통령/임창용 논설위원]]></title>
-        <id>https://v.daum.net/v/20220311050819720</id>
-        <link href="https://v.daum.net/v/20220311050819720"/>
-        <updated>2022-03-10T20:19:51.179Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[길섶에서] 거울 속 나, 사진 속 나/진경호 수석논설위원]]></title>
-        <id>https://v.daum.net/v/20220311050819719</id>
-        <link href="https://v.daum.net/v/20220311050819719"/>
-        <updated>2022-03-10T20:19:51.179Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
     </entry>
 </feed>
