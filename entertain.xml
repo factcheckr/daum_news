@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2022-03-11T16:27:09.725Z</updated>
+    <updated>2022-03-11T17:20:20.946Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[외향형 vs 내향형 한판 전쟁..'놀면 뭐하니?' MBTI 특집]]></title>
+        <id>https://v.daum.net/v/20220312020107857</id>
+        <link href="https://v.daum.net/v/20220312020107857"/>
+        <updated>2022-03-11T17:19:25.307Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">02:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시크릿넘버 디타·수담·주, 안효섭♥김세정 '사내맞선' OST 참여]]></title>
+        <id>https://v.daum.net/v/20220312020006854</id>
+        <link href="https://v.daum.net/v/20220312020006854"/>
+        <updated>2022-03-11T17:19:25.307Z</updated>
+        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">02:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[bnt포토] 레드벨벳 웬디 '심쿵, 깐승와니']]></title>
         <id>https://v.daum.net/v/20220312012435786</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220312010135682"/>
         <updated>2022-03-11T16:26:14.290Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스<span class="txt_bar"> · </span><span class="info_time">01:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[bnt포토] 레드벨벳 웬디 '하뚜하뚜']]></title>
-        <id>https://v.daum.net/v/20220312010049672</id>
-        <link href="https://v.daum.net/v/20220312010049672"/>
-        <updated>2022-03-11T16:26:14.290Z</updated>
-        <content type="html"><![CDATA[bnt뉴스<span class="txt_bar"> · </span><span class="info_time">01:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로시, 12일 '기상청 사람들' OST 발표]]></title>
-        <id>https://v.daum.net/v/20220312010006670</id>
-        <link href="https://v.daum.net/v/20220312010006670"/>
-        <updated>2022-03-11T16:26:14.291Z</updated>
-        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">01:00</span>]]></content>
     </entry>
 </feed>
