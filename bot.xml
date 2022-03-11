@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-03-11T08:22:23.938Z</updated>
+    <updated>2022-03-11T09:19:08.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2022년 03월 11일)]]></title>
+        <id>https://v.daum.net/v/20220311173152758</id>
+        <link href="https://v.daum.net/v/20220311173152758"/>
+        <updated>2022-03-11T09:19:08.115Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[fnRASSI]장마감, 코스닥 하락 종목(NE능률 -8.2% ↓)]]></title>
         <id>https://v.daum.net/v/20220311154007675</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220311135554206"/>
         <updated>2022-03-11T05:17:29.397Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:55</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 조원동 수원한일타운아파트 59㎡ 5억6900만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220311135048057</id>
-        <link href="https://v.daum.net/v/20220311135048057"/>
-        <updated>2022-03-11T05:17:29.398Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:50</span>]]></content>
     </entry>
 </feed>
