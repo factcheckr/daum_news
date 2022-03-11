@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-03-11T12:29:52.888Z</updated>
+    <updated>2022-03-11T13:23:31.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[꽃보다 아름답고 소중한 말씀 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20220311220039583</id>
+        <link href="https://v.daum.net/v/20220311220039583"/>
+        <updated>2022-03-11T13:23:10.257Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 윤석열 인수위, 통합·전문가형 인사 첫걸음 되길]]></title>
         <id>https://v.daum.net/v/20220311212201163</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220311154229778"/>
         <updated>2022-03-11T07:17:40.416Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">15:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[광장] 러시아發 수출입 리스크에 대비해야]]></title>
-        <id>https://v.daum.net/v/20220311151120718</id>
-        <link href="https://v.daum.net/v/20220311151120718"/>
-        <updated>2022-03-11T06:23:04.759Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">15:11</span>]]></content>
     </entry>
 </feed>
