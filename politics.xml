@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2022-03-12T17:17:44.808Z</updated>
+    <updated>2022-03-12T18:21:12.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일하는 첫 퍼스트레이디 김건희, 토리·나비..윤석열의 가족들]]></title>
+        <id>https://v.daum.net/v/20220313030033538</id>
+        <link href="https://v.daum.net/v/20220313030033538"/>
+        <updated>2022-03-12T18:19:40.039Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">03:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[北 매체 "국민의힘 반북 대결 망동..결과는 전쟁 뿐"]]></title>
         <id>https://v.daum.net/v/20220313020412492</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220313005812335"/>
         <updated>2022-03-12T16:22:52.217Z</updated>
         <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:58</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제7회 육군 창업 경진대회 내달 15일 마감]]></title>
-        <id>https://v.daum.net/v/20220313004802308</id>
-        <link href="https://v.daum.net/v/20220313004802308"/>
-        <updated>2022-03-12T16:22:52.218Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:48</span>]]></content>
     </entry>
 </feed>
