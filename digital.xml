@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-03-12T08:21:38.615Z</updated>
+    <updated>2022-03-12T09:18:04.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['따따따상' 갈까..컴투스가 만든 가상화폐 18일 상장 [더테크웨이브]]]></title>
+        <id>https://v.daum.net/v/20220312180300826</id>
+        <link href="https://v.daum.net/v/20220312180300826"/>
+        <updated>2022-03-12T09:17:33.035Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">18:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["삼성 말고 이건 어때요?" 95만원→31만원 아이폰12 헐값 '유혹']]></title>
+        <id>https://v.daum.net/v/20220312175533774</id>
+        <link href="https://v.daum.net/v/20220312175533774"/>
+        <updated>2022-03-12T09:17:33.036Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">17:55</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[강민구의 星별우주] '달 가상탑승권' 발급해보니]]></title>
         <id>https://v.daum.net/v/20220312163005169</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220312130007697"/>
         <updated>2022-03-12T04:23:20.602Z</updated>
         <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">13:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엑스플리트, NX프로덕션 분야 인재채용 실시]]></title>
-        <id>https://v.daum.net/v/20220312124537550</id>
-        <link href="https://v.daum.net/v/20220312124537550"/>
-        <updated>2022-03-12T04:23:20.607Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">12:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강원 12일 오전에만 8000명 육박..11시 기준 7974명 확진]]></title>
-        <id>https://v.daum.net/v/20220312123546483</id>
-        <link href="https://v.daum.net/v/20220312123546483"/>
-        <updated>2022-03-12T04:23:20.607Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">12:35</span>]]></content>
     </entry>
 </feed>
