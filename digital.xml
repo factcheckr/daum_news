@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-03-12T09:18:04.344Z</updated>
+    <updated>2022-03-12T10:20:10.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["10만원 지금이라도 사라?" 이수만에 꽂힌 카카오, 진짜 15만원 갈까?]]></title>
+        <id>https://v.daum.net/v/20220312185622262</id>
+        <link href="https://v.daum.net/v/20220312185622262"/>
+        <updated>2022-03-12T10:19:36.220Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">18:56</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하루종일 쏟아지는 확진자..강원 오후6시 기준 8832명 확진]]></title>
+        <id>https://v.daum.net/v/20220312182116920</id>
+        <link href="https://v.daum.net/v/20220312182116920"/>
+        <updated>2022-03-12T10:19:36.220Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">18:21</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['따따따상' 갈까..컴투스가 만든 가상화폐 18일 상장 [더테크웨이브]]]></title>
         <id>https://v.daum.net/v/20220312180300826</id>
@@ -13,7 +27,7 @@
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">18:03</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["삼성 말고 이건 어때요?" 95만원→31만원 아이폰12 헐값 '유혹']]></title>
+        <title type="html"><![CDATA["너무 예쁘지 않나요?" 95만원→31만원 아이폰12 헐값 '유혹']]></title>
         <id>https://v.daum.net/v/20220312175533774</id>
         <link href="https://v.daum.net/v/20220312175533774"/>
         <updated>2022-03-12T09:17:33.036Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220312134910195"/>
         <updated>2022-03-12T05:16:14.875Z</updated>
         <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">13:49</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[와우! 과학] 선사시대 괴물 상어 메갈로돈, 추울수록 커졌다?]]></title>
-        <id>https://v.daum.net/v/20220312134602166</id>
-        <link href="https://v.daum.net/v/20220312134602166"/>
-        <updated>2022-03-12T05:16:14.879Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">13:46</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스도 '이곳'에선 구독료를 내렸다[김성모 기자의 신비월드]]]></title>
-        <id>https://v.daum.net/v/20220312130007697</id>
-        <link href="https://v.daum.net/v/20220312130007697"/>
-        <updated>2022-03-12T04:23:20.602Z</updated>
-        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">13:00</span>]]></content>
     </entry>
 </feed>
