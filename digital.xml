@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-03-12T07:17:30.295Z</updated>
+    <updated>2022-03-12T08:21:38.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[비싼 넷플릭스 요금 또 인상 초읽기?.."해도 너무 하네"]]></title>
+        <title type="html"><![CDATA[[강민구의 星별우주] '달 가상탑승권' 발급해보니]]></title>
+        <id>https://v.daum.net/v/20220312163005169</id>
+        <link href="https://v.daum.net/v/20220312163005169"/>
+        <updated>2022-03-12T08:21:06.890Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">16:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12일 오후 3시 현재 강원지역 8351명 코로나 확진]]></title>
+        <id>https://v.daum.net/v/20220312161807047</id>
+        <link href="https://v.daum.net/v/20220312161807047"/>
+        <updated>2022-03-12T08:21:06.892Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">16:18</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[월 2만원? 넷플릭스 요금 또 인상 초읽기?.."해도 너무 하네"]]></title>
         <id>https://v.daum.net/v/20220312155639713</id>
         <link href="https://v.daum.net/v/20220312155639713"/>
         <updated>2022-03-12T07:16:58.789Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220312123546483"/>
         <updated>2022-03-12T04:23:20.607Z</updated>
         <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">12:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["산불 피해 돕자"..십시일반 힘 모으는 플랫폼들]]></title>
-        <id>https://v.daum.net/v/20220312120031191</id>
-        <link href="https://v.daum.net/v/20220312120031191"/>
-        <updated>2022-03-12T03:19:00.014Z</updated>
-        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">12:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기자의눈] 공항에서 본 IT 강국 대한민국의 민낯]]></title>
-        <id>https://v.daum.net/v/20220312114957059</id>
-        <link href="https://v.daum.net/v/20220312114957059"/>
-        <updated>2022-03-12T03:19:00.016Z</updated>
-        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">11:49</span>]]></content>
     </entry>
 </feed>
