@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-03-13T07:17:58.888Z</updated>
+    <updated>2022-03-13T08:21:39.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[봄기운 저하..구례 화엄사 홍매화 사진전 연장]]></title>
+        <id>https://v.daum.net/v/20220313164845547</id>
+        <link href="https://v.daum.net/v/20220313164845547"/>
+        <updated>2022-03-13T08:21:29.016Z</updated>
+        <content type="html"><![CDATA[kbc광주방송<span class="txt_bar"> · </span><span class="info_time">16:48</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천시,'의료관광 클러스터' 공모사업 평가 전국 1위]]></title>
+        <id>https://v.daum.net/v/20220313161939173</id>
+        <link href="https://v.daum.net/v/20220313161939173"/>
+        <updated>2022-03-13T08:21:29.016Z</updated>
+        <content type="html"><![CDATA[투어코리아<span class="txt_bar"> · </span><span class="info_time">16:19</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[내일부터 신속항원검사로도 확진 판정.. 가족은 PCR 권고]]></title>
         <id>https://v.daum.net/v/20220313161722146</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220313120703904"/>
         <updated>2022-03-13T03:20:05.511Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">12:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공공기관 보급물품 구매 입찰 관련 부당한 공동행위]]></title>
-        <id>https://v.daum.net/v/20220313120525874</id>
-        <link href="https://v.daum.net/v/20220313120525874"/>
-        <updated>2022-03-13T03:20:05.518Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">12:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국립어린이과학관, 2022년 고품질 어린이 과학 콘텐츠 정기구독 서비스 추진]]></title>
-        <id>https://v.daum.net/v/20220313120525873</id>
-        <link href="https://v.daum.net/v/20220313120525873"/>
-        <updated>2022-03-13T03:20:05.519Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">12:05</span>]]></content>
     </entry>
 </feed>
