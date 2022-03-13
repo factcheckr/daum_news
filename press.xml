@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-03-13T06:25:10.745Z</updated>
+    <updated>2022-03-13T07:17:58.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[내일부터 신속항원검사로도 확진 판정.. 가족은 PCR 권고]]></title>
+        <id>https://v.daum.net/v/20220313161722146</id>
+        <link href="https://v.daum.net/v/20220313161722146"/>
+        <updated>2022-03-13T07:17:48.366Z</updated>
+        <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">16:17</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[울산 동구청, 무단방치 이륜차 전수조사 실시]]></title>
         <id>https://v.daum.net/v/20220313150008680</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220313120525873"/>
         <updated>2022-03-13T03:20:05.519Z</updated>
         <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">12:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전국 양봉농가 월동 꿀벌 피해 민관 합동 조사 결과]]></title>
-        <id>https://v.daum.net/v/20220313113528262</id>
-        <link href="https://v.daum.net/v/20220313113528262"/>
-        <updated>2022-03-13T03:20:05.519Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">11:35</span>]]></content>
     </entry>
 </feed>
