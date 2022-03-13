@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-03-13T05:22:43.800Z</updated>
+    <updated>2022-03-13T06:25:10.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사설]인수위 '통합·번영'에 방점 찍자]]></title>
+        <id>https://v.daum.net/v/20220313150802849</id>
+        <link href="https://v.daum.net/v/20220313150802849"/>
+        <updated>2022-03-13T06:24:50.180Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">15:08</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[기고]미래 먹거리 농업기술을 짓다]]></title>
         <id>https://v.daum.net/v/20220313140526541</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220313000125120"/>
         <updated>2022-03-12T15:18:40.460Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전화성의 기술창업 Targeting]207. IBK창공, 2022년 헬스케어를 주도하는 스타트업들]]></title>
-        <id>https://v.daum.net/v/20220313000102110</id>
-        <link href="https://v.daum.net/v/20220313000102110"/>
-        <updated>2022-03-12T15:18:40.460Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
     </entry>
 </feed>
