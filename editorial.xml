@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-03-13T12:28:39.754Z</updated>
+    <updated>2022-03-13T13:21:50.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022년 3월 14일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20220313220250971</id>
+        <link href="https://v.daum.net/v/20220313220250971"/>
+        <updated>2022-03-13T13:21:26.974Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[남자들의 장 담그기 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20220313220003935</id>
+        <link href="https://v.daum.net/v/20220313220003935"/>
+        <updated>2022-03-13T13:21:26.975Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 누적 사망 1만, 의료체계 전환은 희생 최소화에 초점을]]></title>
         <id>https://v.daum.net/v/20220313205134195</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220313192102317"/>
         <updated>2022-03-13T11:16:12.858Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">19:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[간호사칼럼] 슬기로운 코로나 생활을 위한 작지만 강력한 힘]]></title>
-        <id>https://v.daum.net/v/20220313191656288</id>
-        <link href="https://v.daum.net/v/20220313191656288"/>
-        <updated>2022-03-13T10:20:03.560Z</updated>
-        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">19:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 대전시, 정책제안 교통 분야 많은 이유 살피길]]></title>
-        <id>https://v.daum.net/v/20220313191644278</id>
-        <link href="https://v.daum.net/v/20220313191644278"/>
-        <updated>2022-03-13T10:20:03.561Z</updated>
-        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">19:16</span>]]></content>
     </entry>
 </feed>

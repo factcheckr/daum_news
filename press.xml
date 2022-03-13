@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-03-13T12:28:39.757Z</updated>
+    <updated>2022-03-13T13:21:50.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(참고자료) 러 정부, 수출 금지(제한) 품목 500개 발표]]></title>
+        <id>https://v.daum.net/v/20220313215104829</id>
+        <link href="https://v.daum.net/v/20220313215104829"/>
+        <updated>2022-03-13T13:21:38.255Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">21:51</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경북문화관광공사-포스코엠텍, 환경보호 자원재활용 MOU 체결]]></title>
         <id>https://v.daum.net/v/20220313192638350</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220313125301338"/>
         <updated>2022-03-13T04:23:50.817Z</updated>
         <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">12:53</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[폐현수막 재활용사업을 통한 탄소중립 실현에 22곳 지자체 앞장]]></title>
-        <id>https://v.daum.net/v/20220313123531178</id>
-        <link href="https://v.daum.net/v/20220313123531178"/>
-        <updated>2022-03-13T04:23:50.818Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">12:35</span>]]></content>
     </entry>
 </feed>
