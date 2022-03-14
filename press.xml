@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-03-14T11:16:55.742Z</updated>
+    <updated>2022-03-14T12:30:11.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장관-북대서양조약기구(NATO) 사무총장 통화 결과]]></title>
+        <id>https://v.daum.net/v/20220314203522994</id>
+        <link href="https://v.daum.net/v/20220314203522994"/>
+        <updated>2022-03-14T12:30:00.720Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">20:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경제안보외교 자문위원회 위촉식 및 제1차 자문위원회 개최]]></title>
         <id>https://v.daum.net/v/20220314183521511</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220314173008819"/>
         <updated>2022-03-14T09:19:02.008Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국해비타트-CU, '다시 읽고 쓰는 독립선언서' 챌린지 성료.. 기부금 1천만 원 조성]]></title>
-        <id>https://v.daum.net/v/20220314172958804</id>
-        <link href="https://v.daum.net/v/20220314172958804"/>
-        <updated>2022-03-14T09:19:02.012Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">17:29</span>]]></content>
     </entry>
 </feed>
