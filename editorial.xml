@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-03-14T07:18:44.253Z</updated>
+    <updated>2022-03-14T08:22:37.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[사설]네이버 이젠 '국내용' 꼬리표 떼자]]></title>
+        <title type="html"><![CDATA["尹정부, 북핵 전략 '대응 수단 강구'로 전환하고 가치동맹 복원해야" [청론직설]]]></title>
+        <id>https://v.daum.net/v/20220314170031924</id>
+        <link href="https://v.daum.net/v/20220314170031924"/>
+        <updated>2022-03-14T08:22:16.122Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">17:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세계 최고 국가 기반은 디지털에 있다]]></title>
+        <id>https://v.daum.net/v/20220314165544758</id>
+        <link href="https://v.daum.net/v/20220314165544758"/>
+        <updated>2022-03-14T08:22:16.126Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">16:55</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사설]네이버 이젠 '세계로' 가자]]></title>
         <id>https://v.daum.net/v/20220314160138863</id>
         <link href="https://v.daum.net/v/20220314160138863"/>
         <updated>2022-03-14T07:18:22.478Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220314125903489"/>
         <updated>2022-03-14T04:29:44.173Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">12:59</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그 아빠도 아픔이 있고, 사랑이 있었다네]]></title>
-        <id>https://v.daum.net/v/20220314122605937</id>
-        <link href="https://v.daum.net/v/20220314122605937"/>
-        <updated>2022-03-14T04:29:44.174Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">12:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[W포럼]메타버스 시대의 정치]]></title>
-        <id>https://v.daum.net/v/20220314120039310</id>
-        <link href="https://v.daum.net/v/20220314120039310"/>
-        <updated>2022-03-14T03:21:21.284Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">12:00</span>]]></content>
     </entry>
 </feed>
