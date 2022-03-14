@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-03-14T13:24:23.783Z</updated>
+    <updated>2022-03-14T14:18:44.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[부산 동래구 '동래제일 다함께돌봄센터 개소식' 外]]></title>
+        <id>https://v.daum.net/v/20220314223458346</id>
+        <link href="https://v.daum.net/v/20220314223458346"/>
+        <updated>2022-03-14T14:18:33.231Z</updated>
+        <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">22:34</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장관-북대서양조약기구(NATO) 사무총장 통화 결과]]></title>
         <id>https://v.daum.net/v/20220314203522994</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220314173018828</id>
         <link href="https://v.daum.net/v/20220314173018828"/>
         <updated>2022-03-14T09:19:02.006Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동작구 자원봉사센터, 자원봉사자 전문교육 운영]]></title>
-        <id>https://v.daum.net/v/20220314173008819</id>
-        <link href="https://v.daum.net/v/20220314173008819"/>
-        <updated>2022-03-14T09:19:02.008Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
     </entry>
 </feed>
