@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-03-15T15:20:18.953Z</updated>
+    <updated>2022-03-15T16:26:32.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 클라랑델, 은막의 달링]]></title>
+        <id>https://v.daum.net/v/20220316002542427</id>
+        <link href="https://v.daum.net/v/20220316002542427"/>
+        <updated>2022-03-15T16:26:21.510Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">00:25</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] Quectel awarded global certificates for LTE-A automotive module]]></title>
         <id>https://v.daum.net/v/20220316001803381</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220316000553183</id>
         <link href="https://v.daum.net/v/20220316000553183"/>
         <updated>2022-03-15T15:20:07.320Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[힘내라! 대한민국] 'Next Big-tech' 글로벌 진출 계획]]></title>
-        <id>https://v.daum.net/v/20220316000551182</id>
-        <link href="https://v.daum.net/v/20220316000551182"/>
-        <updated>2022-03-15T15:20:07.321Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
     </entry>
 </feed>
