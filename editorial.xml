@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-03-15T22:20:10.598Z</updated>
+    <updated>2022-03-15T23:19:28.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](16일 조간)]]></title>
+        <id>https://v.daum.net/v/20220316080014489</id>
+        <link href="https://v.daum.net/v/20220316080014489"/>
+        <updated>2022-03-15T23:19:07.573Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[여백] '승패' 없는 지방선거]]></title>
         <id>https://v.daum.net/v/20220316071240809</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220316050844156</id>
         <link href="https://v.daum.net/v/20220316050844156"/>
         <updated>2022-03-15T21:14:55.064Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] MB 사면, 대승적 차원서 현 정부 결론 내려야]]></title>
-        <id>https://v.daum.net/v/20220316050842155</id>
-        <link href="https://v.daum.net/v/20220316050842155"/>
-        <updated>2022-03-15T21:14:55.067Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
     </entry>
 </feed>
