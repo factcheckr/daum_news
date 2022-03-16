@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-03-16T03:22:34.265Z</updated>
+    <updated>2022-03-16T04:22:49.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[이덕환의 과학세상] 합리적인 에너지 전환이 필요하다]]></title>
+        <id>https://v.daum.net/v/20220316130232428</id>
+        <link href="https://v.daum.net/v/20220316130232428"/>
+        <updated>2022-03-16T04:22:28.158Z</updated>
+        <content type="html"><![CDATA[동아사이언스<span class="txt_bar"> · </span><span class="info_time">13:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[열정도에서 만난 청년 사업가의 조언 "창업하기 전 경험과 공부 중요해"]]></title>
         <id>https://v.daum.net/v/20220316115742185</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220316111214140"/>
         <updated>2022-03-16T02:46:13.055Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 김오수 총장 임기는 보장하되 거취 판단은 본인 스스로]]></title>
-        <id>https://v.daum.net/v/20220316110647854</id>
-        <link href="https://v.daum.net/v/20220316110647854"/>
-        <updated>2022-03-16T02:46:13.062Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:06</span>]]></content>
     </entry>
 </feed>
