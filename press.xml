@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-03-16T20:20:11.189Z</updated>
+    <updated>2022-03-16T21:18:08.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스페이스리버, 이커머스 특화 클라우드 WMS '노스노스' 연결성 강화 위해 새로운 서비스 론칭]]></title>
+        <id>https://v.daum.net/v/20220317060703813</id>
+        <link href="https://v.daum.net/v/20220317060703813"/>
+        <updated>2022-03-16T21:17:56.539Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">06:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자생의료재단, 사회적 가치 확산 앞장선다]]></title>
+        <id>https://v.daum.net/v/20220317054521441</id>
+        <link href="https://v.daum.net/v/20220317054521441"/>
+        <updated>2022-03-16T21:17:56.540Z</updated>
+        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">05:45</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삼성 비스포크 '인피니트'로 진화..더 풍요로운 요리의 시간]]></title>
         <id>https://v.daum.net/v/20220317040624577</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220317040301513"/>
         <updated>2022-03-16T19:15:47.032Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">04:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구리산화의 원리를 원자 수준에서 세계 최초 규명]]></title>
-        <id>https://v.daum.net/v/20220317020526952</id>
-        <link href="https://v.daum.net/v/20220317020526952"/>
-        <updated>2022-03-16T17:19:55.814Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["청소년도서관 인근 시유지, 삼천동 학교부지로 적합"]]></title>
-        <id>https://v.daum.net/v/20220317001028276</id>
-        <link href="https://v.daum.net/v/20220317001028276"/>
-        <updated>2022-03-16T15:19:52.628Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
     </entry>
 </feed>
