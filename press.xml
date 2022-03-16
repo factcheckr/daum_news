@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-03-16T10:20:10.775Z</updated>
+    <updated>2022-03-16T11:16:31.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오마이뉴스의 진보당 울산시당 "돌봄 조례 외면하는 시의회 규탄" 관련 기사(3.16.)에 대해 설명드립니다.]]></title>
+        <id>https://v.daum.net/v/20220316193523914</id>
+        <link href="https://v.daum.net/v/20220316193523914"/>
+        <updated>2022-03-16T11:16:19.305Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">19:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] Nexteer Automotive Launches eDrive Product Line]]></title>
         <id>https://v.daum.net/v/20220316185714357</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220316172316100"/>
         <updated>2022-03-16T09:18:39.756Z</updated>
         <content type="html"><![CDATA[kbc광주방송<span class="txt_bar"> · </span><span class="info_time">17:23</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[북그루, 백희영 작가 '미추학 개론, 미술의 이론과 실제' 출간]]></title>
-        <id>https://v.daum.net/v/20220316171704889</id>
-        <link href="https://v.daum.net/v/20220316171704889"/>
-        <updated>2022-03-16T08:22:00.133Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:17</span>]]></content>
     </entry>
 </feed>
