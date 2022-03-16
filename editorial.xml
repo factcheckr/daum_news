@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-03-16T21:18:08.287Z</updated>
+    <updated>2022-03-16T22:17:59.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[새 대통령에 바란다]  시장경제 민간 역할 훼손 말아야]]></title>
+        <id>https://v.daum.net/v/20220317070036451</id>
+        <link href="https://v.daum.net/v/20220317070036451"/>
+        <updated>2022-03-16T22:17:36.171Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정덕현의 끄덕끄덕]대면의 추억]]></title>
+        <id>https://v.daum.net/v/20220317063444093</id>
+        <link href="https://v.daum.net/v/20220317063444093"/>
+        <updated>2022-03-16T22:17:36.179Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">06:34</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[디지털프리즘] GOS 사태가 일깨운 갤럭시의 위기]]></title>
         <id>https://v.daum.net/v/20220317054702451</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220317050030836"/>
         <updated>2022-03-16T20:19:51.280Z</updated>
         <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">05:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설]돈 풀기 공약, 실천도 좋지만 나라 곳간 걱정 먼저 해야]]></title>
-        <id>https://v.daum.net/v/20220317050023827</id>
-        <link href="https://v.daum.net/v/20220317050023827"/>
-        <updated>2022-03-16T20:19:51.281Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">05:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 사퇴 선 그은 김오수, 검찰총장 임기 보장돼야]]></title>
-        <id>https://v.daum.net/v/20220317043056691</id>
-        <link href="https://v.daum.net/v/20220317043056691"/>
-        <updated>2022-03-16T20:19:51.283Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
     </entry>
 </feed>
