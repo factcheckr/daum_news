@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-03-17T03:20:23.345Z</updated>
+    <updated>2022-03-17T04:23:33.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[데일리안 시사만평] 김오수 검찰총장 방석은 '푹신?'..이재명 깔아 뭉개기 계속?]]></title>
+        <id>https://v.daum.net/v/20220317125222372</id>
+        <link href="https://v.daum.net/v/20220317125222372"/>
+        <updated>2022-03-17T04:23:10.954Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">12:52</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우크라이나·러시아 군사적 충돌發 에너지공급 위기 대책은]]></title>
+        <id>https://v.daum.net/v/20220317123506080</id>
+        <link href="https://v.daum.net/v/20220317123506080"/>
+        <updated>2022-03-17T04:23:10.955Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">12:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['여가부 폐지' 논란 정치공방 보도, 받아쓰거나 외면하거나]]></title>
         <id>https://v.daum.net/v/20220317120054329</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220317112255699"/>
         <updated>2022-03-17T02:42:00.128Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 윤 당선인 인수위, '의욕과다' 따른 혼선과 졸속 경계해야]]></title>
-        <id>https://v.daum.net/v/20220317112134637</id>
-        <link href="https://v.daum.net/v/20220317112134637"/>
-        <updated>2022-03-17T02:42:00.129Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[필요할 때 꺼내 쓰는 나만의 통계 창고]]></title>
-        <id>https://v.daum.net/v/20220317110507657</id>
-        <link href="https://v.daum.net/v/20220317110507657"/>
-        <updated>2022-03-17T02:42:00.129Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">11:05</span>]]></content>
     </entry>
 </feed>
