@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-03-17T21:17:00.710Z</updated>
+    <updated>2022-03-17T22:19:24.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[바이비트, 베리파이베스프(VerifyVASP) 얼라이언스 멤버십 획득]]></title>
+        <id>https://v.daum.net/v/20220318070059731</id>
+        <link href="https://v.daum.net/v/20220318070059731"/>
+        <updated>2022-03-17T22:19:13.812Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스타벅스 경단녀 재취업 170명 돌파..장애인 채용도 적극]]></title>
         <id>https://v.daum.net/v/20220318054538788</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220318000609847</id>
         <link href="https://v.daum.net/v/20220318000609847"/>
         <updated>2022-03-17T16:26:03.792Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[자주국방, 우리가 이끈다] 2023년까지 성능 개량한 천궁-II MFR 양산·공급]]></title>
-        <id>https://v.daum.net/v/20220318000606845</id>
-        <link href="https://v.daum.net/v/20220318000606845"/>
-        <updated>2022-03-17T16:26:03.793Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
     </entry>
 </feed>
