@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-03-17T16:26:14.043Z</updated>
+    <updated>2022-03-17T17:20:19.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]21세기 청년의 시대정신]]></title>
+        <id>https://v.daum.net/v/20220318020500494</id>
+        <link href="https://v.daum.net/v/20220318020500494"/>
+        <updated>2022-03-17T17:19:58.219Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정유신의 China Story]전쟁 후폭풍 '순망치한 중·러 협력 강화']]></title>
+        <id>https://v.daum.net/v/20220318020101467</id>
+        <link href="https://v.daum.net/v/20220318020101467"/>
+        <updated>2022-03-17T17:19:58.221Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중앙시평] 유럽연합도 반도체산업 육성에 나섰다]]></title>
         <id>https://v.daum.net/v/20220318003734064</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220318001504974"/>
         <updated>2022-03-17T16:25:53.916Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데스크 칼럼] 민주당, 반성 대신 '졌잘싸'?]]></title>
-        <id>https://v.daum.net/v/20220318001503973</id>
-        <link href="https://v.daum.net/v/20220318001503973"/>
-        <updated>2022-03-17T16:25:53.917Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[분수대] 대통령 집무실]]></title>
-        <id>https://v.daum.net/v/20220318001423970</id>
-        <link href="https://v.daum.net/v/20220318001423970"/>
-        <updated>2022-03-17T16:25:53.918Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:14</span>]]></content>
     </entry>
 </feed>
