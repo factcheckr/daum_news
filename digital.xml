@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-03-17T19:16:59.219Z</updated>
+    <updated>2022-03-17T20:20:08.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국이 세번째로 많이 샀다..반도체 대란에 1년새 16% 성장한 시장]]></title>
+        <id>https://v.daum.net/v/20220318051103428</id>
+        <link href="https://v.daum.net/v/20220318051103428"/>
+        <updated>2022-03-17T20:19:34.289Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">05:11</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[실리콘밸리 순두부집 사장, 로봇으로 차기 유니콘 1순위]]></title>
         <id>https://v.daum.net/v/20220318030140621</id>
@@ -46,6 +53,13 @@
         <link href="https://v.daum.net/v/20220318030035591"/>
         <updated>2022-03-17T18:21:58.501Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KBO NFT 디지털 사업 우선협상 대상자에 '두나무, 네이버, 라운드원스튜디오 컨소시엄' 선정]]></title>
+        <id>https://v.daum.net/v/20220318025003576</id>
+        <link href="https://v.daum.net/v/20220318025003576"/>
+        <updated>2022-03-17T20:19:34.301Z</updated>
+        <content type="html"><![CDATA[스포츠춘추<span class="txt_bar"> · </span><span class="info_time">02:50</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[갤럭시A VS 아이폰SE, 국내 시장서 전면전..결과는]]></title>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220318010102143"/>
         <updated>2022-03-17T16:25:43.506Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">01:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[와이파이6 지원 넷기어 무선 AP 3종(WAX214, WAX218, WAX620) 이모저모]]></title>
-        <id>https://v.daum.net/v/20220318001500971</id>
-        <link href="https://v.daum.net/v/20220318001500971"/>
-        <updated>2022-03-17T16:25:43.507Z</updated>
-        <content type="html"><![CDATA[IT동아<span class="txt_bar"> · </span><span class="info_time">00:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홈쇼핑, 해외여행 상품 본격 재개.."격리면제로 되살아나는 수요 선점"]]></title>
-        <id>https://v.daum.net/v/20220318001307964</id>
-        <link href="https://v.daum.net/v/20220318001307964"/>
-        <updated>2022-03-17T16:25:43.508Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">00:13</span>]]></content>
     </entry>
 </feed>
