@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-03-18T12:29:52.822Z</updated>
+    <updated>2022-03-18T13:24:32.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[김택근의 묵언] 완패했다, 0.73% 차이로]]></title>
+        <id>https://v.daum.net/v/20220318220225531</id>
+        <link href="https://v.daum.net/v/20220318220225531"/>
+        <updated>2022-03-18T13:24:10.003Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[황혼에 딴짓 좀 하면 안되나요 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20220318220011499</id>
+        <link href="https://v.daum.net/v/20220318220011499"/>
+        <updated>2022-03-18T13:24:10.005Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["인수위 최우선 과제는 국민 통합" 41.4%]]></title>
         <id>https://v.daum.net/v/20220318210031830</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220318153524697"/>
         <updated>2022-03-18T07:17:59.599Z</updated>
         <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">15:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신혼집 알아보고 있습니다~]]></title>
-        <id>https://v.daum.net/v/20220318153507686</id>
-        <link href="https://v.daum.net/v/20220318153507686"/>
-        <updated>2022-03-18T07:17:59.599Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">15:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[fn사설] 중고차 진입장벽 제거, 소비자 편에 선 올바른 결정]]></title>
-        <id>https://v.daum.net/v/20220318153406641</id>
-        <link href="https://v.daum.net/v/20220318153406641"/>
-        <updated>2022-03-18T07:17:59.602Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:34</span>]]></content>
     </entry>
 </feed>
