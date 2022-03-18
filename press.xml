@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-03-18T11:16:35.044Z</updated>
+    <updated>2022-03-18T12:29:52.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[AsiaNet] Welcome to Changjiang: the Attraction of China's Kapok Town Extends]]></title>
+        <id>https://v.daum.net/v/20220318211256003</id>
+        <link href="https://v.daum.net/v/20220318211256003"/>
+        <updated>2022-03-18T12:29:42.252Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">21:12</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[AsiaNet] 2021 청두 FISU World University Games, 100일 카운트다운 개시]]></title>
+        <id>https://v.daum.net/v/20220318210507896</id>
+        <link href="https://v.daum.net/v/20220318210507896"/>
+        <updated>2022-03-18T12:29:42.253Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">21:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[보도참고] 비위생적 취급 고구마 생산.판매 업체 조사 결과 발표]]></title>
         <id>https://v.daum.net/v/20220318190530595</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220318172858884"/>
         <updated>2022-03-18T09:19:01.660Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:28</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유메이, 지방 선거 후보자 위한 선거 행정·법 컨설팅 상용 서비스 '당선' 개발]]></title>
-        <id>https://v.daum.net/v/20220318172707845</id>
-        <link href="https://v.daum.net/v/20220318172707845"/>
-        <updated>2022-03-18T09:19:01.664Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밀양아리랑우주천문대,  '나도 천체사진작가'특별 야간프로그램 개설]]></title>
-        <id>https://v.daum.net/v/20220318171611576</id>
-        <link href="https://v.daum.net/v/20220318171611576"/>
-        <updated>2022-03-18T08:22:19.821Z</updated>
-        <content type="html"><![CDATA[투어코리아<span class="txt_bar"> · </span><span class="info_time">17:16</span>]]></content>
     </entry>
 </feed>
