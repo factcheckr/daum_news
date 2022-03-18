@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2022-03-18T18:22:27.540Z</updated>
+    <updated>2022-03-18T19:15:56.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[온라인 '아트테크' 열풍.. 미술시장 '빅뱅' 시작됐다]]></title>
+        <id>https://v.daum.net/v/20220319040559460</id>
+        <link href="https://v.daum.net/v/20220319040559460"/>
+        <updated>2022-03-18T19:14:27.395Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내수회복 제약·우크라 사태..  내우외환에 직면한 한국 경제]]></title>
+        <id>https://v.daum.net/v/20220319040400452</id>
+        <link href="https://v.daum.net/v/20220319040400452"/>
+        <updated>2022-03-18T19:14:27.400Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:04</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10명 중 9명 전기차 구매 의향..3년 내 구입 59%]]></title>
         <id>https://v.daum.net/v/20220319031345393</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220319030029222"/>
         <updated>2022-03-18T18:20:58.628Z</updated>
         <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">03:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외식업계, '프레시 메뉴'로 봄 시즌 공략]]></title>
-        <id>https://v.daum.net/v/20220319030017216</id>
-        <link href="https://v.daum.net/v/20220319030017216"/>
-        <updated>2022-03-18T18:20:58.629Z</updated>
-        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">03:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새학기 증후군 덜어줄 영양 간식 눈길]]></title>
-        <id>https://v.daum.net/v/20220319030013213</id>
-        <link href="https://v.daum.net/v/20220319030013213"/>
-        <updated>2022-03-18T18:20:58.630Z</updated>
-        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">03:00</span>]]></content>
     </entry>
 </feed>
