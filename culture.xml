@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2022-03-18T16:26:17.663Z</updated>
+    <updated>2022-03-18T17:20:52.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이슈픽 쌤과 함께' 선진국 탈락 경고, 일본은 위기인가?]]></title>
+        <id>https://v.daum.net/v/20220319014747092</id>
+        <link href="https://v.daum.net/v/20220319014747092"/>
+        <updated>2022-03-18T17:19:46.963Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">01:47</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한글박물관, 인천공항서 '한글디자인 특별전' 열어]]></title>
         <id>https://v.daum.net/v/20220319010425940</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220319010221889"/>
         <updated>2022-03-18T16:25:11.776Z</updated>
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뒤척이다 [詩의 뜨락]]]></title>
-        <id>https://v.daum.net/v/20220319010121872</id>
-        <link href="https://v.daum.net/v/20220319010121872"/>
-        <updated>2022-03-18T16:25:11.777Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:01</span>]]></content>
     </entry>
 </feed>
