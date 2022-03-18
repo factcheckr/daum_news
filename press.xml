@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-03-18T03:22:06.319Z</updated>
+    <updated>2022-03-18T04:23:29.153Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강진군, 2022 1박2일 푸소체험 시티투어 시작]]></title>
+        <id>https://v.daum.net/v/20220318130012279</id>
+        <link href="https://v.daum.net/v/20220318130012279"/>
+        <updated>2022-03-18T04:23:17.232Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">13:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[㈜하림 대구지점, 굽네 ROAD FC 060 대구 대회 흥행 위해 지원]]></title>
         <id>https://v.daum.net/v/20220318120816510</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220318114703945</id>
         <link href="https://v.daum.net/v/20220318114703945"/>
         <updated>2022-03-18T03:21:55.291Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">11:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Andersen Global Expands into the Central African Republic]]></title>
-        <id>https://v.daum.net/v/20220318114702944</id>
-        <link href="https://v.daum.net/v/20220318114702944"/>
-        <updated>2022-03-18T03:21:55.292Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">11:47</span>]]></content>
     </entry>
 </feed>
