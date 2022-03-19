@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-03-19T02:39:09.872Z</updated>
+    <updated>2022-03-19T03:19:01.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["봄비다.기분 좋다!" 그래도 지금 비 맞으면 큰일난다]]></title>
+        <id>https://v.daum.net/v/20220319114137837</id>
+        <link href="https://v.daum.net/v/20220319114137837"/>
+        <updated>2022-03-19T03:18:31.330Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:41</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[당근마켓 번개장터 중고나라 사기 피해 막는다]]></title>
         <id>https://v.daum.net/v/20220319113625813</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220319095103637"/>
         <updated>2022-03-19T01:03:41.533Z</updated>
         <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">09:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뜨거워진 게임업계 블록체인 경쟁..산적한 문제도 수두룩]]></title>
-        <id>https://v.daum.net/v/20220319094944622</id>
-        <link href="https://v.daum.net/v/20220319094944622"/>
-        <updated>2022-03-19T01:03:41.537Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">09:49</span>]]></content>
     </entry>
 </feed>
