@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-03-19T10:20:12.645Z</updated>
+    <updated>2022-03-19T11:16:30.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["차 안에서 수영을?" 세계에서 제일 긴 자동차 이렇게 생겼다]]></title>
+        <id>https://v.daum.net/v/20220319194524917</id>
+        <link href="https://v.daum.net/v/20220319194524917"/>
+        <updated>2022-03-19T11:15:57.542Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">19:45</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["'한국 약발' 떨어지니 난리났네" 넷플릭스 '돈독' 알고보니]]></title>
         <id>https://v.daum.net/v/20220319175726025</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220319144203308"/>
         <updated>2022-03-19T06:21:27.607Z</updated>
         <content type="html"><![CDATA[미디어오늘<span class="txt_bar"> · </span><span class="info_time">14:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[우주를 보다] 먼 우주서 만나다..ESA 위성이 포착한 제임스웹 우주망원경]]></title>
-        <id>https://v.daum.net/v/20220319142603114</id>
-        <link href="https://v.daum.net/v/20220319142603114"/>
-        <updated>2022-03-19T06:21:27.608Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">14:26</span>]]></content>
     </entry>
 </feed>
