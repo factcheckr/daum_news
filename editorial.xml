@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-03-19T07:17:27.739Z</updated>
+    <updated>2022-03-19T08:21:42.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사설]윤 당선인, 민생이 우선]]></title>
+        <id>https://v.daum.net/v/20220319164503416</id>
+        <link href="https://v.daum.net/v/20220319164503416"/>
+        <updated>2022-03-19T08:21:19.865Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">16:45</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[특파원 칼럼] 베이징 식당의 '문재인 대통령 세트'와 외교 혼밥]]></title>
         <id>https://v.daum.net/v/20220319160030010</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220319073101325"/>
         <updated>2022-03-18T23:19:04.257Z</updated>
         <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">07:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박수현의 오션월드<36>고래 이름의 유래]]></title>
-        <id>https://v.daum.net/v/20220319072331278</id>
-        <link href="https://v.daum.net/v/20220319072331278"/>
-        <updated>2022-03-18T23:19:04.260Z</updated>
-        <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">07:23</span>]]></content>
     </entry>
 </feed>
