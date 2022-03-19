@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-03-19T04:22:51.933Z</updated>
+    <updated>2022-03-19T05:17:10.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[청와대와 경희궁]]></title>
+        <id>https://v.daum.net/v/20220319135913866</id>
+        <link href="https://v.daum.net/v/20220319135913866"/>
+        <updated>2022-03-19T05:16:47.379Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">13:59</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오십견, 한쪽 어깨 주사 치료했더니 반대편도 좋아졌다]]></title>
         <id>https://v.daum.net/v/20220319131500546</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220319070116089</id>
         <link href="https://v.daum.net/v/20220319070116089"/>
         <updated>2022-03-18T22:19:23.535Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강철부대2, 군대예능 전성시대는 언제까지 갈까 [하재근의 이슈분석]]]></title>
-        <id>https://v.daum.net/v/20220319070101078</id>
-        <link href="https://v.daum.net/v/20220319070101078"/>
-        <updated>2022-03-18T22:19:23.552Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:01</span>]]></content>
     </entry>
 </feed>
