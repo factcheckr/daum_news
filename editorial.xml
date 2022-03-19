@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-03-19T03:19:01.727Z</updated>
+    <updated>2022-03-19T04:22:51.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오십견, 한쪽 어깨 주사 치료했더니 반대편도 좋아졌다]]></title>
+        <id>https://v.daum.net/v/20220319131500546</id>
+        <link href="https://v.daum.net/v/20220319131500546"/>
+        <updated>2022-03-19T04:22:31.170Z</updated>
+        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">13:15</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[취재 플러스] 배민, 알고리즘에 묻혀버린 '불공정' 1]]></title>
         <id>https://v.daum.net/v/20220319120110990</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220319070101078"/>
         <updated>2022-03-18T22:19:23.552Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김구태의 뇌과학] 쾌와 불쾌, 그 숨겨진 비밀]]></title>
-        <id>https://v.daum.net/v/20220319070034056</id>
-        <link href="https://v.daum.net/v/20220319070034056"/>
-        <updated>2022-03-18T22:19:23.554Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
     </entry>
 </feed>
