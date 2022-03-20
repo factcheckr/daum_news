@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2022-03-20T16:24:26.941Z</updated>
+    <updated>2022-03-20T17:17:46.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코어운용 사모펀드 만기연장 논란.."불합리한 운용 투성"]]></title>
+        <id>https://v.daum.net/v/20220321013010760</id>
+        <link href="https://v.daum.net/v/20220321013010760"/>
+        <updated>2022-03-20T17:16:27.946Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">01:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한수원, 체코 신규원전사업 수주 총력..한·미·프 경합]]></title>
         <id>https://v.daum.net/v/20220321011448737</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220321010147656</id>
         <link href="https://v.daum.net/v/20220321010147656"/>
         <updated>2022-03-20T16:22:58.989Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2월 카드론 금리 상단·하단 모두 상승 [마이머니]]]></title>
-        <id>https://v.daum.net/v/20220321010132654</id>
-        <link href="https://v.daum.net/v/20220321010132654"/>
-        <updated>2022-03-20T16:22:58.990Z</updated>
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:01</span>]]></content>
     </entry>
 </feed>
