@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-03-21T12:30:03.102Z</updated>
+    <updated>2022-03-21T13:25:38.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김용민의 그림마당 쉽니다.]]></title>
+        <id>https://v.daum.net/v/20220321220329355</id>
+        <link href="https://v.daum.net/v/20220321220329355"/>
+        <updated>2022-03-21T13:25:22.717Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[오병상의 코멘터리] 0.73% 대선불복의 징후들]]></title>
+        <id>https://v.daum.net/v/20220321220152324</id>
+        <link href="https://v.daum.net/v/20220321220152324"/>
+        <updated>2022-03-21T13:25:22.719Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기능적 법치를 넘어  [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20220321220053307</id>
+        <link href="https://v.daum.net/v/20220321220053307"/>
+        <updated>2022-03-21T13:25:22.720Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[fn사설] 靑 이전 충돌, 문재인·윤석열 만나서 풀어야]]></title>
         <id>https://v.daum.net/v/20220321211742778</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220321200201606"/>
         <updated>2022-03-21T11:16:13.370Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022.03.22 Cartoon]]></title>
-        <id>https://v.daum.net/v/20220321195809552</id>
-        <link href="https://v.daum.net/v/20220321195809552"/>
-        <updated>2022-03-21T11:16:13.371Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:58</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Yongsan controversy]]></title>
-        <id>https://v.daum.net/v/20220321195648538</id>
-        <link href="https://v.daum.net/v/20220321195648538"/>
-        <updated>2022-03-21T11:16:13.372Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:56</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3월 22일 한겨레 그림판]]></title>
-        <id>https://v.daum.net/v/20220321194608410</id>
-        <link href="https://v.daum.net/v/20220321194608410"/>
-        <updated>2022-03-21T11:16:13.372Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:46</span>]]></content>
     </entry>
 </feed>
