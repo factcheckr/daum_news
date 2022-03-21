@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-03-21T22:18:48.541Z</updated>
+    <updated>2022-03-21T23:18:59.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](22일 조간)]]></title>
+        <id>https://v.daum.net/v/20220322080004752</id>
+        <link href="https://v.daum.net/v/20220322080004752"/>
+        <updated>2022-03-21T23:18:42.557Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[여백] 不罪歲 (부죄세)는 책임 방치다]]></title>
+        <id>https://v.daum.net/v/20220322075634710</id>
+        <link href="https://v.daum.net/v/20220322075634710"/>
+        <updated>2022-03-21T23:18:42.558Z</updated>
+        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">07:56</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[문화가산책]  아메리카노가 '나오시지' 않도록]]></title>
+        <id>https://v.daum.net/v/20220322075633708</id>
+        <link href="https://v.daum.net/v/20220322075633708"/>
+        <updated>2022-03-21T23:18:42.560Z</updated>
+        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">07:56</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대덕포럼] 메타의 전성시대]]></title>
+        <id>https://v.daum.net/v/20220322072025226</id>
+        <link href="https://v.daum.net/v/20220322072025226"/>
+        <updated>2022-03-21T23:18:42.561Z</updated>
+        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">07:20</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[목멱칼럼]복지·증세·일자리의 3차 방정식]]></title>
         <id>https://v.daum.net/v/20220322061506591</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20220322050805567"/>
         <updated>2022-03-21T20:19:33.236Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 한은 총재 공백 없도록 文·尹 회동서 후임 지명하라]]></title>
-        <id>https://v.daum.net/v/20220322050804566</id>
-        <link href="https://v.daum.net/v/20220322050804566"/>
-        <updated>2022-03-21T20:19:33.237Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시론] 인플레이션과의 소리 없는 전쟁/조상현 한국무역협회 국제무역통상연구원장]]></title>
-        <id>https://v.daum.net/v/20220322050802564</id>
-        <link href="https://v.daum.net/v/20220322050802564"/>
-        <updated>2022-03-21T20:19:33.238Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[마감 후] '검찰총장 대통령'은 또 나와선 안 된다/한재희 사회부 기자]]></title>
-        <id>https://v.daum.net/v/20220322050801563</id>
-        <link href="https://v.daum.net/v/20220322050801563"/>
-        <updated>2022-03-21T20:19:33.239Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박철현의 이방사회] 靑 이전 계획, 잘 따져봐야/일본 테츠야공무점 대표]]></title>
-        <id>https://v.daum.net/v/20220322050759561</id>
-        <link href="https://v.daum.net/v/20220322050759561"/>
-        <updated>2022-03-21T20:19:33.240Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:07</span>]]></content>
     </entry>
 </feed>

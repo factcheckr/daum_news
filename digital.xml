@@ -2,9 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-03-21T22:18:48.573Z</updated>
+    <updated>2022-03-21T23:18:59.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지하철 부산대역·장전역 일대서 공유형 모빌리티 시범사업]]></title>
+        <id>https://v.daum.net/v/20220322081005964</id>
+        <link href="https://v.daum.net/v/20220322081005964"/>
+        <updated>2022-03-21T23:18:33.424Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[핵심 제조기술 OLED, 새 정부의 강력한 지원책 필요]]></title>
+        <id>https://v.daum.net/v/20220322080505890</id>
+        <link href="https://v.daum.net/v/20220322080505890"/>
+        <updated>2022-03-21T23:18:33.426Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">08:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CD프로젝트레드, '위쳐' 시리즈 최신작 언리얼5로 개발]]></title>
+        <id>https://v.daum.net/v/20220322080201815</id>
+        <link href="https://v.daum.net/v/20220322080201815"/>
+        <updated>2022-03-21T23:18:33.430Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">08:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네이버 커머스 생태계, 스타트업들과 기술 연합 가속화]]></title>
+        <id>https://v.daum.net/v/20220322080121800</id>
+        <link href="https://v.daum.net/v/20220322080121800"/>
+        <updated>2022-03-21T23:18:33.431Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">08:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["마스크 쓰고 잠금해제는 되는데.." 아이폰 배터리 수명 반토막?]]></title>
+        <id>https://v.daum.net/v/20220322075814735</id>
+        <link href="https://v.daum.net/v/20220322075814735"/>
+        <updated>2022-03-21T23:18:33.432Z</updated>
+        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">07:58</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美 애플 20개 서비스 4시간 '먹통'.."원격근무도 마비"]]></title>
+        <id>https://v.daum.net/v/20220322075339666</id>
+        <link href="https://v.daum.net/v/20220322075339666"/>
+        <updated>2022-03-21T23:18:33.433Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">07:53</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[포티넷코리아, 다음달 6일 OT보안 온라인 세미나 개최]]></title>
+        <id>https://v.daum.net/v/20220322073711427</id>
+        <link href="https://v.daum.net/v/20220322073711427"/>
+        <updated>2022-03-21T23:18:33.434Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">07:37</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["지난해 전 세계 76% 기업이 랜섬웨어 공격받았다"]]></title>
+        <id>https://v.daum.net/v/20220322072308248</id>
+        <link href="https://v.daum.net/v/20220322072308248"/>
+        <updated>2022-03-21T23:18:33.436Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">07:23</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새 정부는 '과기부+교육부' 수순?..입시에 휘둘리던 '교과부의 악몽']]></title>
+        <id>https://v.daum.net/v/20220322071947209</id>
+        <link href="https://v.daum.net/v/20220322071947209"/>
+        <updated>2022-03-21T23:18:33.438Z</updated>
+        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">07:19</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['K-배터리' 3사, 전고체 배터리 2026년 양산 공언]]></title>
         <id>https://v.daum.net/v/20220322071607177</id>
@@ -46,68 +109,5 @@
         <link href="https://v.daum.net/v/20220322071002091"/>
         <updated>2022-03-21T22:18:26.758Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">07:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8.5억명 홀린 '던파', 모바일로 '두번째 신화' 도전]]></title>
-        <id>https://v.daum.net/v/20220322070928075</id>
-        <link href="https://v.daum.net/v/20220322070928075"/>
-        <updated>2022-03-21T22:18:26.760Z</updated>
-        <content type="html"><![CDATA[스포츠경향<span class="txt_bar"> · </span><span class="info_time">07:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['야구 게임 명가' 넷마블·컴투스, 올해는 리얼 경쟁]]></title>
-        <id>https://v.daum.net/v/20220322070121965</id>
-        <link href="https://v.daum.net/v/20220322070121965"/>
-        <updated>2022-03-21T22:18:26.761Z</updated>
-        <content type="html"><![CDATA[일간스포츠<span class="txt_bar"> · </span><span class="info_time">07:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[권오용의 G플레이] 김정주 '신의 한수' 던파, 성공신화 이젠 모바일서]]></title>
-        <id>https://v.daum.net/v/20220322070113960</id>
-        <link href="https://v.daum.net/v/20220322070113960"/>
-        <updated>2022-03-21T22:18:26.762Z</updated>
-        <content type="html"><![CDATA[일간스포츠<span class="txt_bar"> · </span><span class="info_time">07:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쌓고 이어붙이고..미래 반도체 경쟁력 '포장'에 달렸다 [임주형의 테크토크]]]></title>
-        <id>https://v.daum.net/v/20220322070021933</id>
-        <link href="https://v.daum.net/v/20220322070021933"/>
-        <updated>2022-03-21T22:18:26.763Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[CEO포커스] 세대교체 이룬 네이버 환골탈태 '예고']]></title>
-        <id>https://v.daum.net/v/20220322070018930</id>
-        <link href="https://v.daum.net/v/20220322070018930"/>
-        <updated>2022-03-21T22:18:26.764Z</updated>
-        <content type="html"><![CDATA[머니S<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['ICBM 실패' 北, 다량 정찰위성 발사의지 다져.."당중앙 결심"]]></title>
-        <id>https://v.daum.net/v/20220322064748810</id>
-        <link href="https://v.daum.net/v/20220322064748810"/>
-        <updated>2022-03-21T22:18:26.765Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">06:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플, 美서 한때 기능장애..3시간 만에 복구 완료]]></title>
-        <id>https://v.daum.net/v/20220322064502796</id>
-        <link href="https://v.daum.net/v/20220322064502796"/>
-        <updated>2022-03-21T22:18:26.766Z</updated>
-        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">06:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성 또 일내나..다 실패한 '앞뒤옆 3면 스크린폰' 예고]]></title>
-        <id>https://v.daum.net/v/20220322063403741</id>
-        <link href="https://v.daum.net/v/20220322063403741"/>
-        <updated>2022-03-21T22:18:26.767Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">06:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플 vs 퀄컴·삼성.. 격차 벌어지는 '스마트폰 두뇌전쟁']]></title>
-        <id>https://v.daum.net/v/20220322063358736</id>
-        <link href="https://v.daum.net/v/20220322063358736"/>
-        <updated>2022-03-21T22:18:26.768Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">06:33</span>]]></content>
     </entry>
 </feed>
