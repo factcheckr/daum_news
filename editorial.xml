@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-03-21T16:31:23.881Z</updated>
+    <updated>2022-03-21T17:20:52.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]바이오산업 과실, 멀리 봐야 '제맛' 본다]]></title>
+        <id>https://v.daum.net/v/20220322020100369</id>
+        <link href="https://v.daum.net/v/20220322020100369"/>
+        <updated>2022-03-21T17:20:35.876Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[송호근의 세사필담] 성난 얼굴로 돌아보지 마라]]></title>
         <id>https://v.daum.net/v/20220322004726859</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220322002201681"/>
         <updated>2022-03-21T16:31:08.669Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[취재수첩] 가격 통제에 병들어가는 전력시장]]></title>
-        <id>https://v.daum.net/v/20220322002103676</id>
-        <link href="https://v.daum.net/v/20220322002103676"/>
-        <updated>2022-03-21T16:31:08.670Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:21</span>]]></content>
     </entry>
 </feed>
