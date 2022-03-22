@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2022-03-22T16:34:44.045Z</updated>
+    <updated>2022-03-22T17:24:01.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["투자자 49.7%, 올해 재테크 걸림돌은 물가상승"]]></title>
+        <id>https://v.daum.net/v/20220323022205498</id>
+        <link href="https://v.daum.net/v/20220323022205498"/>
+        <updated>2022-03-22T17:22:55.205Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">02:22</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[이코노 브리핑] 신한은행, 미성년 통장 간편발급 지원 외]]></title>
+        <id>https://v.daum.net/v/20220323020121434</id>
+        <link href="https://v.daum.net/v/20220323020121434"/>
+        <updated>2022-03-22T17:22:55.207Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">02:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화이자, 유니세프 통해 저소득국에 팍스로비드 400만명분 공급]]></title>
         <id>https://v.daum.net/v/20220323012625332</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220323010802257"/>
         <updated>2022-03-22T16:33:45.833Z</updated>
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U+스마트홈 '구글패키지' 가입자 10만명 달성 임박]]></title>
-        <id>https://v.daum.net/v/20220323010716238</id>
-        <link href="https://v.daum.net/v/20220323010716238"/>
-        <updated>2022-03-22T16:33:45.833Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케이그라운드벤처스, 산소기술기업 ㈜엔에프에 특허기반 투자]]></title>
-        <id>https://v.daum.net/v/20220323010705234</id>
-        <link href="https://v.daum.net/v/20220323010705234"/>
-        <updated>2022-03-22T16:33:45.835Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:07</span>]]></content>
     </entry>
 </feed>
