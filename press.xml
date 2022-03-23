@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-03-23T10:20:29.730Z</updated>
+    <updated>2022-03-23T11:15:03.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire]  유네스코 MGIEP 보고서, 모든 사람이 개인화된 교육 받을 권리 선언]]></title>
+        <id>https://v.daum.net/v/20220323200225968</id>
+        <link href="https://v.daum.net/v/20220323200225968"/>
+        <updated>2022-03-23T11:14:54.403Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[탄소중립, 청소년 숲 교육에서부터 시작]]></title>
+        <id>https://v.daum.net/v/20220323193529358</id>
+        <link href="https://v.daum.net/v/20220323193529358"/>
+        <updated>2022-03-23T11:14:54.404Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">19:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022년 산림토목사업 본격 추진]]></title>
         <id>https://v.daum.net/v/20220323190529940</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220323175704547"/>
         <updated>2022-03-23T09:17:46.573Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:57</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연제구, 연제오방상권 마스코트 '온나꼼' 인기]]></title>
-        <id>https://v.daum.net/v/20220323175555512</id>
-        <link href="https://v.daum.net/v/20220323175555512"/>
-        <updated>2022-03-23T09:17:46.573Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:55</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] XCMG, 세계 최대의 후륜구동 리지드 마이닝 트럭 XDE440 생산]]></title>
-        <id>https://v.daum.net/v/20220323175328462</id>
-        <link href="https://v.daum.net/v/20220323175328462"/>
-        <updated>2022-03-23T09:17:46.573Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:53</span>]]></content>
     </entry>
 </feed>
