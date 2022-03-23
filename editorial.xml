@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-03-23T12:31:10.990Z</updated>
+    <updated>2022-03-23T13:26:58.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['유튜브'를 '너튜브'라 돌려 말하는 세상 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20220323220033838</id>
+        <link href="https://v.daum.net/v/20220323220033838"/>
+        <updated>2022-03-23T13:26:42.189Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 3월 24일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20220323215744789</id>
+        <link href="https://v.daum.net/v/20220323215744789"/>
+        <updated>2022-03-23T13:26:42.195Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">21:57</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경북 지자체, 봄 축제 여나 마나?]]></title>
+        <id>https://v.daum.net/v/20220323213319508</id>
+        <link href="https://v.daum.net/v/20220323213319508"/>
+        <updated>2022-03-23T13:26:42.197Z</updated>
+        <content type="html"><![CDATA[대구MBC<span class="txt_bar"> · </span><span class="info_time">21:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 한은 총재 인선까지 갈등, 문-윤 조속히 만나서 풀어야]]></title>
         <id>https://v.daum.net/v/20220323205601903</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220323195306744"/>
         <updated>2022-03-23T11:14:46.745Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:53</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The evolution of man-made islands]]></title>
-        <id>https://v.daum.net/v/20220323195106705</id>
-        <link href="https://v.daum.net/v/20220323195106705"/>
-        <updated>2022-03-23T11:14:46.746Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내셔널리즘을 넘어서는 상상력]]></title>
-        <id>https://v.daum.net/v/20220323194609567</id>
-        <link href="https://v.daum.net/v/20220323194609567"/>
-        <updated>2022-03-23T11:14:46.746Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:46</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박근혜 노동개혁의 추억]]></title>
-        <id>https://v.daum.net/v/20220323194606565</id>
-        <link href="https://v.daum.net/v/20220323194606565"/>
-        <updated>2022-03-23T11:14:46.747Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:46</span>]]></content>
     </entry>
 </feed>
