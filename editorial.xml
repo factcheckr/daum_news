@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-03-23T20:19:19.563Z</updated>
+    <updated>2022-03-23T21:14:24.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뒤끝작렬]2월 검토로 말맞춘 용산..'광화문'은 블러핑이었나]]></title>
+        <id>https://v.daum.net/v/20220324061200347</id>
+        <link href="https://v.daum.net/v/20220324061200347"/>
+        <updated>2022-03-23T21:14:08.269Z</updated>
+        <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">06:12</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[프리스타일] 좌석 한 칸, 누군가는 발을 올리고 누군가는 앉지 못한다]]></title>
+        <id>https://v.daum.net/v/20220324052702319</id>
+        <link href="https://v.daum.net/v/20220324052702319"/>
+        <updated>2022-03-23T21:14:08.269Z</updated>
+        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">05:27</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이필상의 경제정론] 시장경제를 바로 세우는 길/전 고려대 총장]]></title>
         <id>https://v.daum.net/v/20220324050825046</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220324050007745"/>
         <updated>2022-03-23T20:19:02.743Z</updated>
         <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">05:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기고] 통상과 외교안보의 긴밀한 연계가 시급하다]]></title>
-        <id>https://v.daum.net/v/20220324044401609</id>
-        <link href="https://v.daum.net/v/20220324044401609"/>
-        <updated>2022-03-23T20:19:02.744Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">04:44</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 보유세 동결·대출 완화.. 집값 안정 흔들어선 안 돼]]></title>
-        <id>https://v.daum.net/v/20220324043158585</id>
-        <link href="https://v.daum.net/v/20220324043158585"/>
-        <updated>2022-03-23T20:19:02.745Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:31</span>]]></content>
     </entry>
 </feed>
