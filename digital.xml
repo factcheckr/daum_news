@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-03-23T13:26:58.133Z</updated>
+    <updated>2022-03-23T14:17:18.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[LG유플 본사직원 80억 횡령후 잠적]]></title>
+        <id>https://v.daum.net/v/20220323223900307</id>
+        <link href="https://v.daum.net/v/20220323223900307"/>
+        <updated>2022-03-23T14:16:55.535Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">22:39</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LG유플러스 팀장급 직원 수십억원 횡령 뒤 잠적]]></title>
+        <id>https://v.daum.net/v/20220323223716288</id>
+        <link href="https://v.daum.net/v/20220323223716288"/>
+        <updated>2022-03-23T14:16:55.538Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV<span class="txt_bar"> · </span><span class="info_time">22:37</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[면역력 증진 인삼, 코로나19 감염 억제에도 효과]]></title>
         <id>https://v.daum.net/v/20220323221647071</id>
@@ -27,7 +41,7 @@
         <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["앞은 멀쩡하네?" 2미터 위에서 떨어진 아이폰, 놀라운 반전?]]></title>
+        <title type="html"><![CDATA["삼성 보고 있나?" 무시하던 50만원 아이폰, 놀라운 반전?]]></title>
         <id>https://v.daum.net/v/20220323215128693</id>
         <link href="https://v.daum.net/v/20220323215128693"/>
         <updated>2022-03-23T13:26:34.932Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220323204257681"/>
         <updated>2022-03-23T12:30:47.867Z</updated>
         <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">20:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[e스포츠 팀 감독이 되자! '리그 매니저 2022' 스팀 서비스]]></title>
-        <id>https://v.daum.net/v/20220323204200673</id>
-        <link href="https://v.daum.net/v/20220323204200673"/>
-        <updated>2022-03-23T12:30:47.867Z</updated>
-        <content type="html"><![CDATA[게임동아<span class="txt_bar"> · </span><span class="info_time">20:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아트토큰, 전통 한국화 주목 류재춘 작가 NFT 24일 판매]]></title>
-        <id>https://v.daum.net/v/20220323204032645</id>
-        <link href="https://v.daum.net/v/20220323204032645"/>
-        <updated>2022-03-23T12:30:47.868Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">20:40</span>]]></content>
     </entry>
 </feed>
