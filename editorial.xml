@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-03-24T16:25:05.613Z</updated>
+    <updated>2022-03-24T17:31:01.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[김남국의 아포리아]정의로운 전쟁은 가능한가?]]></title>
+        <id>https://v.daum.net/v/20220325020300150</id>
+        <link href="https://v.daum.net/v/20220325020300150"/>
+        <updated>2022-03-24T17:30:45.641Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]'올 세계 이동통신 전시회'가 우리에게 주는 진정한 의미]]></title>
+        <id>https://v.daum.net/v/20220325020101142</id>
+        <link href="https://v.daum.net/v/20220325020101142"/>
+        <updated>2022-03-24T17:30:45.641Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[장훈 칼럼] 무한교착의 정치와 당선인의 상시 캠페인 통치]]></title>
         <id>https://v.daum.net/v/20220325003944526</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220325002233318"/>
         <updated>2022-03-24T16:24:50.946Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[글로벌 아이] 하루키가 전쟁에 반대하는 법]]></title>
-        <id>https://v.daum.net/v/20220325002032307</id>
-        <link href="https://v.daum.net/v/20220325002032307"/>
-        <updated>2022-03-24T16:24:50.946Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[천자 칼럼] 경유값 쇼크]]></title>
-        <id>https://v.daum.net/v/20220325002001303</id>
-        <link href="https://v.daum.net/v/20220325002001303"/>
-        <updated>2022-03-24T15:20:18.696Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:20</span>]]></content>
     </entry>
 </feed>
