@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-03-25T06:22:52.349Z</updated>
+    <updated>2022-03-25T07:18:10.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[규제샌드박스 덕에 쉽게 이사했다]]></title>
+        <id>https://v.daum.net/v/20220325160507135</id>
+        <link href="https://v.daum.net/v/20220325160507135"/>
+        <updated>2022-03-25T07:17:54.986Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">16:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[북한, 신형 ICBM '화성-17' 발사 영상 공개]]></title>
+        <id>https://v.daum.net/v/20220325153756788</id>
+        <link href="https://v.daum.net/v/20220325153756788"/>
+        <updated>2022-03-25T07:17:54.988Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV<span class="txt_bar"> · </span><span class="info_time">15:37</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[fn사설] 한은 총재직을 놓고 정치 공방은 곤란]]></title>
+        <id>https://v.daum.net/v/20220325152711352</id>
+        <link href="https://v.daum.net/v/20220325152711352"/>
+        <updated>2022-03-25T07:17:54.989Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:27</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지구의 온도를 낮추는 찐환경챌런지, 기후행동 1.5도]]></title>
         <id>https://v.daum.net/v/20220325143506933</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220325114348871"/>
         <updated>2022-03-25T02:46:09.897Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<살며 생각하며>운명의 진정한 주인은 우연]]></title>
-        <id>https://v.daum.net/v/20220325114032779</id>
-        <link href="https://v.daum.net/v/20220325114032779"/>
-        <updated>2022-03-25T02:46:09.898Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<문화논단>원전 일류國 복귀와 '연구기금' 창설]]></title>
-        <id>https://v.daum.net/v/20220325114030777</id>
-        <link href="https://v.daum.net/v/20220325114030777"/>
-        <updated>2022-03-25T02:46:09.899Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<문화논단>임대주택 '주거기준' 개정할 때 됐다]]></title>
-        <id>https://v.daum.net/v/20220325114026776</id>
-        <link href="https://v.daum.net/v/20220325114026776"/>
-        <updated>2022-03-25T02:46:09.900Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:40</span>]]></content>
     </entry>
 </feed>
