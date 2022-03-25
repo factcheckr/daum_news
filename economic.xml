@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2022-03-25T13:51:31.255Z</updated>
+    <updated>2022-03-25T14:17:36.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴욕증시, 지정학적 위기·긴축 우려 속 혼조세로 출발]]></title>
+        <id>https://v.daum.net/v/20220325230221636</id>
+        <link href="https://v.daum.net/v/20220325230221636"/>
+        <updated>2022-03-25T14:16:27.283Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">23:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연방 차원 대마 합법화 이슈에 관련주 일제 상승..두자릿수 대 껑충 [뉴욕증시 나우]]]></title>
         <id>https://v.daum.net/v/20220325224642528</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220325221143339</id>
         <link href="https://v.daum.net/v/20220325221143339"/>
         <updated>2022-03-25T13:50:26.828Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">22:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[벼농사도 판로 걱정없는 '계약재배' 인기]]></title>
-        <id>https://v.daum.net/v/20220325221134335</id>
-        <link href="https://v.daum.net/v/20220325221134335"/>
-        <updated>2022-03-25T13:50:26.829Z</updated>
         <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">22:11</span>]]></content>
     </entry>
 </feed>
