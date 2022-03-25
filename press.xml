@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-03-25T11:16:52.334Z</updated>
+    <updated>2022-03-25T12:59:30.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[건설직 근로자 248명 임금체불 후 도주한 사업주 구속]]></title>
+        <id>https://v.daum.net/v/20220325210521433</id>
+        <link href="https://v.daum.net/v/20220325210521433"/>
+        <updated>2022-03-25T12:59:22.473Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">21:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한-태국 사이버안보대화 출범]]></title>
         <id>https://v.daum.net/v/20220325193522197</id>
@@ -62,7 +69,7 @@
         <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">18:35</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[오피셜] '아이언 터틀' 박준용 UFC 4승 도전.. 미들급 에릭 앤더스와 격돌]]></title>
+        <title type="html"><![CDATA[[오피셜] '아이언 터틀' 박준용, UFC 4승 도전.. 미들급 에릭 앤더스와 격돌]]></title>
         <id>https://v.daum.net/v/20220325181143989</id>
         <link href="https://v.daum.net/v/20220325181143989"/>
         <updated>2022-03-25T09:18:37.419Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220325173703293"/>
         <updated>2022-03-25T09:18:37.421Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[식약처, 자가검사키트 유통개선조치 일부 완화해 4월까지 연장]]></title>
-        <id>https://v.daum.net/v/20220325173529240</id>
-        <link href="https://v.daum.net/v/20220325173529240"/>
-        <updated>2022-03-25T09:18:37.421Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">17:35</span>]]></content>
     </entry>
 </feed>
