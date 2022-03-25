@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-03-25T07:18:10.099Z</updated>
+    <updated>2022-03-25T08:22:01.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[최영미 시론] 이 놀라운 사람들]]></title>
+        <id>https://v.daum.net/v/20220325170203295</id>
+        <link href="https://v.daum.net/v/20220325170203295"/>
+        <updated>2022-03-25T08:21:46.007Z</updated>
+        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">17:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하루종일 용서하려고 하는데도 안되는 이유]]></title>
+        <id>https://v.daum.net/v/20220325164601638</id>
+        <link href="https://v.daum.net/v/20220325164601638"/>
+        <updated>2022-03-25T08:21:46.007Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">16:46</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[규제샌드박스 덕에 쉽게 이사했다]]></title>
         <id>https://v.daum.net/v/20220325160507135</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220325114530924"/>
         <updated>2022-03-25T02:46:09.896Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[칼럼]ICBM 날고, 신권력은 구권력을 적대적으로 바라보고..]]></title>
-        <id>https://v.daum.net/v/20220325114502905</id>
-        <link href="https://v.daum.net/v/20220325114502905"/>
-        <updated>2022-03-25T02:46:09.897Z</updated>
-        <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">11:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<오후여담>감사원 더 망칠 '알 박기']]></title>
-        <id>https://v.daum.net/v/20220325114348871</id>
-        <link href="https://v.daum.net/v/20220325114348871"/>
-        <updated>2022-03-25T02:46:09.897Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:43</span>]]></content>
     </entry>
 </feed>
