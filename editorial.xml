@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-03-25T03:22:49.438Z</updated>
+    <updated>2022-03-25T04:23:49.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[데일리안 시사만평] 문재인 평화 프로세스 '자뻑'..알고보니 '쇼']]></title>
+        <id>https://v.daum.net/v/20220325131806818</id>
+        <link href="https://v.daum.net/v/20220325131806818"/>
+        <updated>2022-03-25T04:23:33.562Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">13:18</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[김태민의 식의약이야기] 안전 평가 업무도 견제와 균형이 필요]]></title>
+        <id>https://v.daum.net/v/20220325130025515</id>
+        <link href="https://v.daum.net/v/20220325130025515"/>
+        <updated>2022-03-25T04:23:33.563Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">13:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[현장에서] 경남 고성군 1회 추경안 불발, 이런 풍토서 민생 어쩌나]]></title>
         <id>https://v.daum.net/v/20220325115203122</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220325114019769"/>
         <updated>2022-03-25T02:46:09.902Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[논단]새로운 전기가 기대되는 가상화폐]]></title>
-        <id>https://v.daum.net/v/20220325113631639</id>
-        <link href="https://v.daum.net/v/20220325113631639"/>
-        <updated>2022-03-25T02:46:09.903Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<여론마당>건설현장 등 안전사고 급증 관리 감독·사전 교육 강화를]]></title>
-        <id>https://v.daum.net/v/20220325113521589</id>
-        <link href="https://v.daum.net/v/20220325113521589"/>
-        <updated>2022-03-25T02:46:09.904Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:35</span>]]></content>
     </entry>
 </feed>
