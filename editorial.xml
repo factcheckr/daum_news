@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-03-25T09:18:45.279Z</updated>
+    <updated>2022-03-25T10:21:51.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사설] 김정은 "용감히 쏘라", 문-윤 빨리 만나 '안보 위기' 공동 대응을]]></title>
+        <id>https://v.daum.net/v/20220325185605652</id>
+        <link href="https://v.daum.net/v/20220325185605652"/>
+        <updated>2022-03-25T10:21:36.087Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">18:56</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사설] 노동부에 '재계 우려' 전달한 인수위, 중대재해법 후퇴 없어야]]></title>
+        <id>https://v.daum.net/v/20220325182605220</id>
+        <link href="https://v.daum.net/v/20220325182605220"/>
+        <updated>2022-03-25T10:21:36.093Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">18:26</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[기고]尹정부는 中企과제 풀어낼 수 있을까]]></title>
         <id>https://v.daum.net/v/20220325180602881</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220325130025515"/>
         <updated>2022-03-25T04:23:33.563Z</updated>
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">13:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[현장에서] 경남 고성군 1회 추경안 불발, 이런 풍토서 민생 어쩌나]]></title>
-        <id>https://v.daum.net/v/20220325115203122</id>
-        <link href="https://v.daum.net/v/20220325115203122"/>
-        <updated>2022-03-25T03:22:30.907Z</updated>
-        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">11:52</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<사설>文 5년 평화 妄想이 김정은 '괴물 ICBM' 길 닦아줬다]]></title>
-        <id>https://v.daum.net/v/20220325114534929</id>
-        <link href="https://v.daum.net/v/20220325114534929"/>
-        <updated>2022-03-25T02:46:09.892Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:45</span>]]></content>
     </entry>
 </feed>
