@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-03-25T21:17:13.880Z</updated>
+    <updated>2022-03-25T22:19:16.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서태지, 왜 문화대통령인가 [하재근의 이슈분석]]]></title>
+        <id>https://v.daum.net/v/20220326070708428</id>
+        <link href="https://v.daum.net/v/20220326070708428"/>
+        <updated>2022-03-25T22:19:00.590Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[이혁재의 칩 비하인드]반도체 인력 양성, 골든 타임이 지나간다.]]></title>
+        <id>https://v.daum.net/v/20220326070044269</id>
+        <link href="https://v.daum.net/v/20220326070044269"/>
+        <updated>2022-03-25T22:19:00.592Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['허무한 결말' 여자배구, 제멋대로 규정이 빚은 촌극 [김평호의 인상팍!]]]></title>
+        <id>https://v.daum.net/v/20220326070000214</id>
+        <link href="https://v.daum.net/v/20220326070000214"/>
+        <updated>2022-03-25T22:19:00.594Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 시진핑 통화서 "ICBM 긴밀 협의" 강조한 尹 당선인]]></title>
         <id>https://v.daum.net/v/20220326043112294</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220326040220150"/>
         <updated>2022-03-25T19:15:49.246Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">04:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 김정은 ICBM 도발은 자해행위다]]></title>
-        <id>https://v.daum.net/v/20220326040158147</id>
-        <link href="https://v.daum.net/v/20220326040158147"/>
-        <updated>2022-03-25T19:15:49.247Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 떠나는 대통령이 감사원 장악을 시도한다니]]></title>
-        <id>https://v.daum.net/v/20220326032611992</id>
-        <link href="https://v.daum.net/v/20220326032611992"/>
-        <updated>2022-03-25T19:15:49.248Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 코로나 사망·확진 세계 최악인데 "방역 성공 마무리" 말이 나오나]]></title>
-        <id>https://v.daum.net/v/20220326032413989</id>
-        <link href="https://v.daum.net/v/20220326032413989"/>
-        <updated>2022-03-25T19:15:49.252Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:24</span>]]></content>
     </entry>
 </feed>
