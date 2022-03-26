@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-03-26T02:48:19.340Z</updated>
+    <updated>2022-03-26T03:23:41.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA['자신감 충전' 안산, 티아고 앞세워 전남 3연승 막는다]]></title>
+        <title type="html"><![CDATA[[PRNewswire] CATL 쓰촨 공장, 신에너지 산업 최초의 탄소 제로 공장으로 인증받아]]></title>
+        <id>https://v.daum.net/v/20220326115135290</id>
+        <link href="https://v.daum.net/v/20220326115135290"/>
+        <updated>2022-03-26T03:23:31.898Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:51</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['자신감 충전' 안산, 티아고 앞세워 전남 4연승 막는다]]></title>
         <id>https://v.daum.net/v/20220326113511173</id>
         <link href="https://v.daum.net/v/20220326113511173"/>
         <updated>2022-03-26T02:48:10.436Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220326060036643"/>
         <updated>2022-03-25T21:17:05.703Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['여고생 파이터' 로드FC 신유진, "더 좋은 경기 보여드릴게요"]]></title>
-        <id>https://v.daum.net/v/20220326002135124</id>
-        <link href="https://v.daum.net/v/20220326002135124"/>
-        <updated>2022-03-25T16:27:27.663Z</updated>
-        <content type="html"><![CDATA[스포탈코리아<span class="txt_bar"> · </span><span class="info_time">00:21</span>]]></content>
     </entry>
 </feed>
