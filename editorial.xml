@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-03-26T04:22:43.473Z</updated>
+    <updated>2022-03-26T05:16:48.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[메타버스..회의론에도 진지하게 걸어가야]]></title>
+        <id>https://v.daum.net/v/20220326132405997</id>
+        <link href="https://v.daum.net/v/20220326132405997"/>
+        <updated>2022-03-26T05:16:32.868Z</updated>
+        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">13:24</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[떼돈 버는 넷플릭스, 고갈된  영화발전기금 [라제기의 슛 & 숏]]]></title>
         <id>https://v.daum.net/v/20220326120103414</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220326043112294</id>
         <link href="https://v.daum.net/v/20220326043112294"/>
         <updated>2022-03-25T20:19:16.250Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[댁내 두루 평안을 [우리말 톺아보기]]]></title>
-        <id>https://v.daum.net/v/20220326043109293</id>
-        <link href="https://v.daum.net/v/20220326043109293"/>
-        <updated>2022-03-25T20:19:16.252Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:31</span>]]></content>
     </entry>
 </feed>
