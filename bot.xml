@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-03-26T08:21:07.032Z</updated>
+    <updated>2022-03-26T09:17:47.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가상화폐 질리카 9.8원 상승한 68.1원에 거래]]></title>
+        <id>https://v.daum.net/v/20220326173116494</id>
+        <link href="https://v.daum.net/v/20220326173116494"/>
+        <updated>2022-03-26T09:17:46.460Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">17:31</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2022년 03월 26일)]]></title>
+        <id>https://v.daum.net/v/20220326173048490</id>
+        <link href="https://v.daum.net/v/20220326173048490"/>
+        <updated>2022-03-26T09:17:46.462Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울 하계동 하계극동건영벽산 45㎡ 5억9300만원.. 역대 최고가]]></title>
         <id>https://v.daum.net/v/20220326142059549</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220326132054972"/>
         <updated>2022-03-26T04:22:42.800Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 영통동 영통황골주공1차 59㎡ 4억5000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220326131555941</id>
-        <link href="https://v.daum.net/v/20220326131555941"/>
-        <updated>2022-03-26T04:22:42.800Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 가정동 LH웨스턴블루힐아파트 74㎡ 5억800만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220326131049922</id>
-        <link href="https://v.daum.net/v/20220326131049922"/>
-        <updated>2022-03-26T04:22:42.803Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:10</span>]]></content>
     </entry>
 </feed>
