@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-03-26T10:19:52.824Z</updated>
+    <updated>2022-03-26T11:16:13.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴질랜드, 코로나 이후 첫 국경 전면 개방 예고]]></title>
+        <id>https://v.daum.net/v/20220326195235475</id>
+        <link href="https://v.daum.net/v/20220326195235475"/>
+        <updated>2022-03-26T11:15:58.445Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">19:52</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[덴마크, 학교 수업 정상화.."교실에서 마스크 안 써요"]]></title>
+        <id>https://v.daum.net/v/20220326195228474</id>
+        <link href="https://v.daum.net/v/20220326195228474"/>
+        <updated>2022-03-26T11:15:58.446Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">19:52</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["우크라이나 인구 1/4 피란길"..크로아티아도 난민 돕기 동참]]></title>
+        <id>https://v.daum.net/v/20220326195225472</id>
+        <link href="https://v.daum.net/v/20220326195225472"/>
+        <updated>2022-03-26T11:15:58.454Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">19:52</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[축제가 취소돼도 봄꽃 즐긴다]]></title>
         <id>https://v.daum.net/v/20220326154200393</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220326085148239"/>
         <updated>2022-03-26T01:07:53.924Z</updated>
         <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">08:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이 한편의 시조] 어떤 설법 / 신진경]]></title>
-        <id>https://v.daum.net/v/20220326085145237</id>
-        <link href="https://v.daum.net/v/20220326085145237"/>
-        <updated>2022-03-26T01:07:53.925Z</updated>
-        <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">08:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서태지, 왜 문화대통령인가 [하재근의 이슈분석]]]></title>
-        <id>https://v.daum.net/v/20220326070708428</id>
-        <link href="https://v.daum.net/v/20220326070708428"/>
-        <updated>2022-03-25T22:19:00.590Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이혁재의 칩 비하인드]반도체 인력 양성, 골든 타임이 지나간다.]]></title>
-        <id>https://v.daum.net/v/20220326070044269</id>
-        <link href="https://v.daum.net/v/20220326070044269"/>
-        <updated>2022-03-25T22:19:00.592Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
     </entry>
 </feed>
