@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-03-26T03:23:41.462Z</updated>
+    <updated>2022-03-26T04:22:43.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[온라인은 이미 '3차대전' 중..러시아vs우크라·연합군, 한국까지 확전]]></title>
+        <id>https://v.daum.net/v/20220326130008839</id>
+        <link href="https://v.daum.net/v/20220326130008839"/>
+        <updated>2022-03-26T04:22:19.798Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">13:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새로워진 리버스 아일랜드..'콜 오브 듀티: 워존 및 뱅가드', 시즌2 대규모 업데이트]]></title>
+        <id>https://v.daum.net/v/20220326125615818</id>
+        <link href="https://v.daum.net/v/20220326125615818"/>
+        <updated>2022-03-26T04:22:19.799Z</updated>
+        <content type="html"><![CDATA[OSEN<span class="txt_bar"> · </span><span class="info_time">12:56</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[슈퍼플래닛, 웹툰 IP 기반 '마법스크롤 상인 지오' 사전 예약 실시]]></title>
         <id>https://v.daum.net/v/20220326120020394</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220326102413450"/>
         <updated>2022-03-26T02:47:54.325Z</updated>
         <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">10:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넥슨 카트라이더, 다오·배찌와 소닉 만난다]]></title>
-        <id>https://v.daum.net/v/20220326100939243</id>
-        <link href="https://v.daum.net/v/20220326100939243"/>
-        <updated>2022-03-26T02:47:54.326Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">10:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[ET시론]디지털 통상시대, 현장 목소리 담아내야]]></title>
-        <id>https://v.daum.net/v/20220326100104128</id>
-        <link href="https://v.daum.net/v/20220326100104128"/>
-        <updated>2022-03-26T01:07:45.467Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">10:01</span>]]></content>
     </entry>
 </feed>
