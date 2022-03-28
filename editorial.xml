@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-03-28T03:36:03.978Z</updated>
+    <updated>2022-03-28T04:23:31.070Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["유치원 다닐 아이 매년 10만명씩 줄어.. 내년 100만명 안 될 듯"]]></title>
+        <id>https://v.daum.net/v/20220328122337731</id>
+        <link href="https://v.daum.net/v/20220328122337731"/>
+        <updated>2022-03-28T04:23:14.998Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">12:23</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[논단] 대통령 선거에 대한 솔직한 소회]]></title>
         <id>https://v.daum.net/v/20220328114937482</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220328111657857"/>
         <updated>2022-03-28T02:59:14.487Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시론] 근자열원자래]]></title>
-        <id>https://v.daum.net/v/20220328110035803</id>
-        <link href="https://v.daum.net/v/20220328110035803"/>
-        <updated>2022-03-28T02:59:14.488Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:00</span>]]></content>
     </entry>
 </feed>
