@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-03-28T13:27:16.692Z</updated>
+    <updated>2022-03-28T14:18:25.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오병상의 코멘터리] '우크라이나 전쟁 미국 탓'이란 석학]]></title>
+        <id>https://v.daum.net/v/20220328231617066</id>
+        <link href="https://v.daum.net/v/20220328231617066"/>
+        <updated>2022-03-28T14:18:08.596Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">23:16</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사설] 흉금 터놓고 대화한 문·윤 '국민 통합' 위한 노력 다하길]]></title>
+        <id>https://v.daum.net/v/20220328223604668</id>
+        <link href="https://v.daum.net/v/20220328223604668"/>
+        <updated>2022-03-28T14:18:08.597Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">22:36</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정상도 칼럼] 부산시장 선거의 품격]]></title>
         <id>https://v.daum.net/v/20220328222219486</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220328205616268"/>
         <updated>2022-03-28T12:31:56.104Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:56</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 자영업자 2차 추경, 여야는 규모 열어놓고 신속히 논의하라]]></title>
-        <id>https://v.daum.net/v/20220328205608264</id>
-        <link href="https://v.daum.net/v/20220328205608264"/>
-        <updated>2022-03-28T12:31:56.108Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:56</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[여적] 파란만장 쌍용차]]></title>
-        <id>https://v.daum.net/v/20220328205528252</id>
-        <link href="https://v.daum.net/v/20220328205528252"/>
-        <updated>2022-03-28T12:31:56.109Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:55</span>]]></content>
     </entry>
 </feed>

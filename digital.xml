@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-03-28T13:27:16.670Z</updated>
+    <updated>2022-03-28T14:18:25.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일론 머스크, 또 다시 코로나 확진..증상은 없어]]></title>
+        <id>https://v.daum.net/v/20220328224314745</id>
+        <link href="https://v.daum.net/v/20220328224314745"/>
+        <updated>2022-03-28T14:18:00.697Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">22:43</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KT 'AI 서비스 로봇', 음식 주문도 직접 받는다[포토뉴스]]]></title>
+        <id>https://v.daum.net/v/20220328223901699</id>
+        <link href="https://v.daum.net/v/20220328223901699"/>
+        <updated>2022-03-28T14:18:00.698Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:39</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[결핵환자 10년간 절반 뚝..65세 이상은 20% 이상 ↑]]></title>
         <id>https://v.daum.net/v/20220328222104441</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220328195429562"/>
         <updated>2022-03-28T11:16:44.315Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:54</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[치솟는 유가에.. 정유 웃고 석화 울었다]]></title>
-        <id>https://v.daum.net/v/20220328195220543</id>
-        <link href="https://v.daum.net/v/20220328195220543"/>
-        <updated>2022-03-28T11:16:44.316Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">19:52</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["15초 나오는데 3천만원" 욕 먹는 '광고 지옥' 포기 못한 이유 있었네]]></title>
-        <id>https://v.daum.net/v/20220328195131534</id>
-        <link href="https://v.daum.net/v/20220328195131534"/>
-        <updated>2022-03-28T11:16:44.316Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">19:51</span>]]></content>
     </entry>
 </feed>
