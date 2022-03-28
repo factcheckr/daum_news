@@ -2,112 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-03-28T14:18:25.310Z</updated>
+    <updated>2022-03-28T15:19:43.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[일론 머스크, 또 다시 코로나 확진..증상은 없어]]></title>
-        <id>https://v.daum.net/v/20220328224314745</id>
-        <link href="https://v.daum.net/v/20220328224314745"/>
-        <updated>2022-03-28T14:18:00.697Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">22:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KT 'AI 서비스 로봇', 음식 주문도 직접 받는다[포토뉴스]]]></title>
-        <id>https://v.daum.net/v/20220328223901699</id>
-        <link href="https://v.daum.net/v/20220328223901699"/>
-        <updated>2022-03-28T14:18:00.698Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[결핵환자 10년간 절반 뚝..65세 이상은 20% 이상 ↑]]></title>
-        <id>https://v.daum.net/v/20220328222104441</id>
-        <link href="https://v.daum.net/v/20220328222104441"/>
-        <updated>2022-03-28T13:26:54.640Z</updated>
-        <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">22:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이번 모델은 돌돌 접힐까?"..삼성, 하반기 '새 폴더블' N4 출시]]></title>
-        <id>https://v.daum.net/v/20220328222100435</id>
-        <link href="https://v.daum.net/v/20220328222100435"/>
-        <updated>2022-03-28T13:26:54.642Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">22:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4차 산업 '드론' 주목..관련 전문가 육성]]></title>
-        <id>https://v.daum.net/v/20220328220338223</id>
-        <link href="https://v.daum.net/v/20220328220338223"/>
-        <updated>2022-03-28T13:26:54.642Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">22:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[환경단체 "창원시, 소형 모듈원전 철회해야"]]></title>
-        <id>https://v.daum.net/v/20220328215838133</id>
-        <link href="https://v.daum.net/v/20220328215838133"/>
-        <updated>2022-03-28T13:26:54.642Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">21:58</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간투자동향] 원프레딕트, 300억 원 규모의 시리즈C 투자 유치]]></title>
-        <id>https://v.daum.net/v/20220328214204927</id>
-        <link href="https://v.daum.net/v/20220328214204927"/>
-        <updated>2022-03-28T13:26:54.643Z</updated>
-        <content type="html"><![CDATA[IT동아<span class="txt_bar"> · </span><span class="info_time">21:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제증명, QR코드 이용 무인발급기서 쉽게 발급]]></title>
-        <id>https://v.daum.net/v/20220328212047617</id>
-        <link href="https://v.daum.net/v/20220328212047617"/>
-        <updated>2022-03-28T12:31:47.746Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">21:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비대면 진료·처방·약조제, 원스톱으로 척척]]></title>
-        <id>https://v.daum.net/v/20220328211047508</id>
-        <link href="https://v.daum.net/v/20220328211047508"/>
-        <updated>2022-03-28T12:31:47.750Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">21:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성 "상당히 놀랍다" 감탄..중국 '이것' 대체 뭐길래]]></title>
-        <id>https://v.daum.net/v/20220328205055216</id>
-        <link href="https://v.daum.net/v/20220328205055216"/>
-        <updated>2022-03-28T12:31:47.752Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">20:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OTT 파편화, 1인 가구 시대..늘어난 '계정 공유' 안 막나, 못 막나]]></title>
-        <id>https://v.daum.net/v/20220328204801190</id>
-        <link href="https://v.daum.net/v/20220328204801190"/>
-        <updated>2022-03-28T12:31:47.755Z</updated>
-        <content type="html"><![CDATA[IT동아<span class="txt_bar"> · </span><span class="info_time">20:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SW자산관리사 시험 다음달 30일 시행..15일까지 접수]]></title>
-        <id>https://v.daum.net/v/20220328203520046</id>
-        <link href="https://v.daum.net/v/20220328203520046"/>
-        <updated>2022-03-28T12:31:47.756Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">20:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[여기는 강릉] 삼척 원전 재추진하나?..반핵단체 반발]]></title>
-        <id>https://v.daum.net/v/20220328200851766</id>
-        <link href="https://v.daum.net/v/20220328200851766"/>
-        <updated>2022-03-28T11:16:44.312Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">20:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버 뉴스 제목 '????' 뜨는 오류 발생]]></title>
-        <id>https://v.daum.net/v/20220328195751616</id>
-        <link href="https://v.daum.net/v/20220328195751616"/>
-        <updated>2022-03-28T11:16:44.312Z</updated>
-        <content type="html"><![CDATA[스포츠경향<span class="txt_bar"> · </span><span class="info_time">19:57</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SK Square to invest big in semiconductors and blockchain]]></title>
-        <id>https://v.daum.net/v/20220328195429562</id>
-        <link href="https://v.daum.net/v/20220328195429562"/>
-        <updated>2022-03-28T11:16:44.315Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:54</span>]]></content>
+        <title type="html"><![CDATA[쏘카, '스트리밍 모빌리티' 전환 속도..IPO는?]]></title>
+        <id>https://v.daum.net/v/20220329000013335</id>
+        <link href="https://v.daum.net/v/20220329000013335"/>
+        <updated>2022-03-28T15:19:20.782Z</updated>
+        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
