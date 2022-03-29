@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-03-29T08:22:33.703Z</updated>
+    <updated>2022-03-29T09:18:33.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가상화폐 비트코인 0.35% 상승, 아하토큰 19.44% 상승]]></title>
+        <id>https://v.daum.net/v/20220329173115842</id>
+        <link href="https://v.daum.net/v/20220329173115842"/>
+        <updated>2022-03-29T09:18:32.694Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">17:31</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2022년 03월 29일)]]></title>
+        <id>https://v.daum.net/v/20220329173051821</id>
+        <link href="https://v.daum.net/v/20220329173051821"/>
+        <updated>2022-03-29T09:18:32.695Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[fnRASSI]장마감, 코스닥 하락 종목(애드바이오텍 -17.9% ↓)]]></title>
         <id>https://v.daum.net/v/20220329154246521</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220329143047176"/>
         <updated>2022-03-29T06:23:39.161Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성남 야탑동 야탑장미마을현대 75㎡ 10억9900만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220329142548939</id>
-        <link href="https://v.daum.net/v/20220329142548939"/>
-        <updated>2022-03-29T06:23:39.162Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용인 보라동 민속마을현대모닝사이드 140㎡ 5억9000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220329142057716</id>
-        <link href="https://v.daum.net/v/20220329142057716"/>
-        <updated>2022-03-29T06:23:39.163Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:20</span>]]></content>
     </entry>
 </feed>
