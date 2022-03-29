@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-03-29T04:23:05.538Z</updated>
+    <updated>2022-03-29T05:18:28.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴웨이브] 안전지대 없는 사이버 전쟁, 어떻게 대비할 것인가]]></title>
+        <id>https://v.daum.net/v/20220329141243374</id>
+        <link href="https://v.daum.net/v/20220329141243374"/>
+        <updated>2022-03-29T05:18:12.401Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">14:12</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[말하기는 쉬워도 하기는 어렵다]]></title>
+        <id>https://v.daum.net/v/20220329134606261</id>
+        <link href="https://v.daum.net/v/20220329134606261"/>
+        <updated>2022-03-29T05:18:12.401Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">13:46</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[시시비비]교육이 없는 교육감선거]]></title>
         <id>https://v.daum.net/v/20220329120057608</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220329111504406"/>
         <updated>2022-03-29T02:59:00.259Z</updated>
         <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">11:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시론] 인수위 활동이 중요한 이유]]></title>
-        <id>https://v.daum.net/v/20220329110829025</id>
-        <link href="https://v.daum.net/v/20220329110829025"/>
-        <updated>2022-03-29T02:59:00.260Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전쟁과 경영] 푸틴과 노보로시야]]></title>
-        <id>https://v.daum.net/v/20220329110618928</id>
-        <link href="https://v.daum.net/v/20220329110618928"/>
-        <updated>2022-03-29T02:59:00.262Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:06</span>]]></content>
     </entry>
 </feed>
