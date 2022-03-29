@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-03-29T13:28:51.259Z</updated>
+    <updated>2022-03-29T14:17:34.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우버, BP와 배송 파트너십 확대]]></title>
+        <id>https://v.daum.net/v/20220329230908440</id>
+        <link href="https://v.daum.net/v/20220329230908440"/>
+        <updated>2022-03-29T14:17:11.105Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">23:09</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안랩 '비대면 서비스 바우처 지원사업' 선정.."철통 보안 돕는다"]]></title>
+        <id>https://v.daum.net/v/20220329223640250</id>
+        <link href="https://v.daum.net/v/20220329223640250"/>
+        <updated>2022-03-29T14:17:11.105Z</updated>
+        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">22:36</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에어컨 더 똑똑하고 날씬해진다]]></title>
         <id>https://v.daum.net/v/20220329221611040</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220329203138524"/>
         <updated>2022-03-29T12:32:51.579Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">20:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우크라이나 경제 10년새 '친서방' 가속화..한국·일본도 투자 손실 불가피]]></title>
-        <id>https://v.daum.net/v/20220329203014497</id>
-        <link href="https://v.daum.net/v/20220329203014497"/>
-        <updated>2022-03-29T11:31:27.364Z</updated>
-        <content type="html"><![CDATA[동아사이언스<span class="txt_bar"> · </span><span class="info_time">20:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앤앤에스피, 두바이서 열린 'GISEC 글로벌 2022'에 참가]]></title>
-        <id>https://v.daum.net/v/20220329201635298</id>
-        <link href="https://v.daum.net/v/20220329201635298"/>
-        <updated>2022-03-29T11:31:27.364Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">20:16</span>]]></content>
     </entry>
 </feed>
