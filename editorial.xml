@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-03-30T16:25:12.666Z</updated>
+    <updated>2022-03-30T17:18:46.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]벤처캐피탈의 후견적 역할에 대하여]]></title>
+        <id>https://v.daum.net/v/20220331020309358</id>
+        <link href="https://v.daum.net/v/20220331020309358"/>
+        <updated>2022-03-30T17:18:31.929Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]미세먼지 중국탓, 더 치밀하게..]]></title>
+        <id>https://v.daum.net/v/20220331020302356</id>
+        <link href="https://v.daum.net/v/20220331020302356"/>
+        <updated>2022-03-30T17:18:31.930Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중앙시평] 국민을 행복하게 하려면]]></title>
         <id>https://v.daum.net/v/20220331004226968</id>
@@ -27,7 +41,7 @@
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:37</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[양성희의 퍼스펙티브] 남들이 없는 것 갖기, 사치의 대중화인가]]></title>
+        <title type="html"><![CDATA[남이 없는 것 '득템'했다, 고로 나는 존재한다..MZ세대의 오픈런 [양성희의 퍼스펙티브]]]></title>
         <id>https://v.daum.net/v/20220331003525931</id>
         <link href="https://v.daum.net/v/20220331003525931"/>
         <updated>2022-03-30T16:24:56.892Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220331002024826"/>
         <updated>2022-03-30T16:24:56.901Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데스크 칼럼] 캘리포니아 유가 더 높은 이유]]></title>
-        <id>https://v.daum.net/v/20220331002002821</id>
-        <link href="https://v.daum.net/v/20220331002002821"/>
-        <updated>2022-03-30T16:24:56.902Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[분수대] 언더도그마]]></title>
-        <id>https://v.daum.net/v/20220331001824817</id>
-        <link href="https://v.daum.net/v/20220331001824817"/>
-        <updated>2022-03-30T15:19:44.938Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:18</span>]]></content>
     </entry>
 </feed>
