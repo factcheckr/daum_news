@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-03-31T16:25:34.756Z</updated>
+    <updated>2022-03-31T17:21:23.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]'○○사범'척결의 문제점]]></title>
+        <id>https://v.daum.net/v/20220401020501748</id>
+        <link href="https://v.daum.net/v/20220401020501748"/>
+        <updated>2022-03-31T17:21:07.409Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뜨거운 피 | 밑바닥 조폭들의 '비릿'한 생존 투쟁]]></title>
         <id>https://v.daum.net/v/20220401004214462</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220401003526408"/>
         <updated>2022-03-31T16:25:19.505Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[강남규의 직격인터뷰] "우크라 전쟁 오래 안 갈듯..푸틴 치명타 입을 수도"]]></title>
-        <id>https://v.daum.net/v/20220401003326403</id>
-        <link href="https://v.daum.net/v/20220401003326403"/>
-        <updated>2022-03-31T16:25:19.506Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:33</span>]]></content>
     </entry>
 </feed>
