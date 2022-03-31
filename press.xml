@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-03-31T11:16:39.874Z</updated>
+    <updated>2022-03-31T12:33:07.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022년 제7차 건강보험정책심의위원회 개최 (3.31)]]></title>
+        <id>https://v.daum.net/v/20220331203535059</id>
+        <link href="https://v.daum.net/v/20220331203535059"/>
+        <updated>2022-03-31T12:32:59.187Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">20:35</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제3차 한-인도 군축비확산협의회 개최]]></title>
+        <id>https://v.daum.net/v/20220331203535058</id>
+        <link href="https://v.daum.net/v/20220331203535058"/>
+        <updated>2022-03-31T12:32:59.192Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">20:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정읍의 다섯 가지 향기 알리는 홍보 UCC 공모전 열려]]></title>
         <id>https://v.daum.net/v/20220331192104792</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220331175914569"/>
         <updated>2022-03-31T09:19:44.563Z</updated>
         <content type="html"><![CDATA[kbc광주방송<span class="txt_bar"> · </span><span class="info_time">17:59</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자인 사우스 수단, 디지털 BBS 혁신 지원할 전략적 파트너로 테크노트리 선택]]></title>
-        <id>https://v.daum.net/v/20220331174703138</id>
-        <link href="https://v.daum.net/v/20220331174703138"/>
-        <updated>2022-03-31T09:19:44.564Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zain South Sudan Selects Tecnotree as a Strategic Partner for its Digital BSS Transformation]]></title>
-        <id>https://v.daum.net/v/20220331174702136</id>
-        <link href="https://v.daum.net/v/20220331174702136"/>
-        <updated>2022-03-31T09:19:44.565Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:47</span>]]></content>
     </entry>
 </feed>
