@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-03-31T02:56:02.361Z</updated>
+    <updated>2022-03-31T03:30:38.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<사설>4兆 공자금 투입 대우조선 사장에 '文 동생 동기' 알박기]]></title>
+        <id>https://v.daum.net/v/20220331115549395</id>
+        <link href="https://v.daum.net/v/20220331115549395"/>
+        <updated>2022-03-31T03:30:22.652Z</updated>
+        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:55</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<사설>이번엔 '윤석열 특검' 발동 검토..박범계의 끝없는 행패]]></title>
+        <id>https://v.daum.net/v/20220331115548393</id>
+        <link href="https://v.daum.net/v/20220331115548393"/>
+        <updated>2022-03-31T03:30:22.653Z</updated>
+        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:55</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2008년 외교전문, 미국은 우크라이나 사태를 예견하고 있었다]]></title>
         <id>https://v.daum.net/v/20220331115527382</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220331111602742"/>
         <updated>2022-03-31T02:55:44.360Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">11:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[헤럴드광장] 에너지 슈퍼스테이션, 과감한 규제개선이 필요]]></title>
-        <id>https://v.daum.net/v/20220331111333617</id>
-        <link href="https://v.daum.net/v/20220331111333617"/>
-        <updated>2022-03-31T02:55:44.362Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[헤럴드시사] 우크라이나 전쟁과 공군 미사일방어사령부에 거는 기대]]></title>
-        <id>https://v.daum.net/v/20220331111212553</id>
-        <link href="https://v.daum.net/v/20220331111212553"/>
-        <updated>2022-03-31T02:55:44.363Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:12</span>]]></content>
     </entry>
 </feed>
