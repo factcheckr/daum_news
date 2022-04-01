@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2022-04-01T16:27:54.389Z</updated>
+    <updated>2022-04-01T17:23:08.918Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[카타르 GO릴라] 마테우스가 '독일' 뽑았다, 환호성도 터졌다]]></title>
+        <id>https://v.daum.net/v/20220402021228526</id>
+        <link href="https://v.daum.net/v/20220402021228526"/>
+        <updated>2022-04-01T17:22:16.654Z</updated>
+        <content type="html"><![CDATA[베스트일레븐<span class="txt_bar"> · </span><span class="info_time">02:12</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[카타르 GO릴라] '레전드여, 영원하라!' 추모 영상에 터져 나온 박수갈채]]></title>
+        <id>https://v.daum.net/v/20220402014210378</id>
+        <link href="https://v.daum.net/v/20220402014210378"/>
+        <updated>2022-04-01T17:22:16.656Z</updated>
+        <content type="html"><![CDATA[베스트일레븐<span class="txt_bar"> · </span><span class="info_time">01:42</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[카타르 GO릴라] 별이 쏟아진다.. 추첨식 열기, '레드카펫'에서 한껏 예열]]></title>
         <id>https://v.daum.net/v/20220402011102172</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220402010002058"/>
         <updated>2022-04-01T16:27:04.967Z</updated>
         <content type="html"><![CDATA[웨딩21뉴스<span class="txt_bar"> · </span><span class="info_time">01:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빛의 벙커' 이어 '빛의 시어터' 5월 개관..첫 전시는 클림트]]></title>
-        <id>https://v.daum.net/v/20220402005853053</id>
-        <link href="https://v.daum.net/v/20220402005853053"/>
-        <updated>2022-04-01T16:27:04.967Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">00:58</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[채서영의 별별영어] 헝가리 공주]]></title>
-        <id>https://v.daum.net/v/20220402002437798</id>
-        <link href="https://v.daum.net/v/20220402002437798"/>
-        <updated>2022-04-01T16:27:04.968Z</updated>
-        <content type="html"><![CDATA[중앙SUNDAY<span class="txt_bar"> · </span><span class="info_time">00:24</span>]]></content>
     </entry>
 </feed>
