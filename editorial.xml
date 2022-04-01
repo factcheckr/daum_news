@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-04-01T04:26:29.384Z</updated>
+    <updated>2022-04-01T05:17:21.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나19 확진자와 동거인의 자가격리 생활]]></title>
+        <id>https://v.daum.net/v/20220401133510514</id>
+        <link href="https://v.daum.net/v/20220401133510514"/>
+        <updated>2022-04-01T05:17:05.760Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">13:35</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[카타르 GO릴라] 4월 2일 라마단 시작, 이틀 전 전통 시장은 북새통]]></title>
+        <id>https://v.daum.net/v/20220401133004405</id>
+        <link href="https://v.daum.net/v/20220401133004405"/>
+        <updated>2022-04-01T05:17:05.761Z</updated>
+        <content type="html"><![CDATA[베스트일레븐<span class="txt_bar"> · </span><span class="info_time">13:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Tech & Law] 인앱결제 강제 방지법 논란과 시사점]]></title>
         <id>https://v.daum.net/v/20220401131938162</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220401113032706"/>
         <updated>2022-04-01T03:17:16.689Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<오후여담>최욱과 '사유의 방']]></title>
-        <id>https://v.daum.net/v/20220401113028699</id>
-        <link href="https://v.daum.net/v/20220401113028699"/>
-        <updated>2022-04-01T03:17:16.692Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인사] 셀트리온 등]]></title>
-        <id>https://v.daum.net/v/20220401113001658</id>
-        <link href="https://v.daum.net/v/20220401113001658"/>
-        <updated>2022-04-01T03:17:16.693Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">11:30</span>]]></content>
     </entry>
 </feed>
