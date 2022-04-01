@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-04-01T22:18:50.639Z</updated>
+    <updated>2022-04-01T23:19:11.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[홍진영 자숙해도 여론 안 좋은 이유 [하재근의 이슈분석]]]></title>
+        <id>https://v.daum.net/v/20220402080809716</id>
+        <link href="https://v.daum.net/v/20220402080809716"/>
+        <updated>2022-04-01T23:18:56.085Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">08:08</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정여울의 언어정담]  좋은 의사, 나쁜 의사, 그리고 위대한 의사]]></title>
         <id>https://v.daum.net/v/20220402070042211</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220402040508992"/>
         <updated>2022-04-01T19:15:43.944Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토 카페] 안전운전]]></title>
-        <id>https://v.daum.net/v/20220402040359983</id>
-        <link href="https://v.daum.net/v/20220402040359983"/>
-        <updated>2022-04-01T19:15:43.945Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:03</span>]]></content>
     </entry>
 </feed>
