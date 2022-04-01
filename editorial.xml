@@ -2,11 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-04-01T11:17:35.471Z</updated>
+    <updated>2022-04-01T12:35:12.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[남의 인정에 매달리면 주체적 삶을 살 수 없다]]></title>
+        <title type="html"><![CDATA[[여적] 젠더 X]]></title>
+        <id>https://v.daum.net/v/20220401211148123</id>
+        <link href="https://v.daum.net/v/20220401211148123"/>
+        <updated>2022-04-01T12:34:55.319Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">21:11</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사설] '실내 마스크' 외 모두 풀겠다는 정부, 대비는 돼 있는 건가]]></title>
+        <id>https://v.daum.net/v/20220401211146121</id>
+        <link href="https://v.daum.net/v/20220401211146121"/>
+        <updated>2022-04-01T12:34:55.319Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">21:11</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사설] 지방자치 근본 취지 무색하게 하는 송영길·유영하의 출마]]></title>
+        <id>https://v.daum.net/v/20220401211143120</id>
+        <link href="https://v.daum.net/v/20220401211143120"/>
+        <updated>2022-04-01T12:34:55.324Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">21:11</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사설] 인수위, 대우조선해양 '알박기' 운운하다 꼬리 내리나]]></title>
+        <id>https://v.daum.net/v/20220401211136118</id>
+        <link href="https://v.daum.net/v/20220401211136118"/>
+        <updated>2022-04-01T12:34:55.326Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">21:11</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[남의 인정 받는데 매달리면 주체적 삶을 살 수 없다]]></title>
         <id>https://v.daum.net/v/20220401201601344</id>
         <link href="https://v.daum.net/v/20220401201601344"/>
         <updated>2022-04-01T11:17:19.433Z</updated>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20220401153133712"/>
         <updated>2022-04-01T07:18:31.601Z</updated>
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">15:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기자수첩]시행 반 년도 안된 중대재해법, 안착이 우선]]></title>
-        <id>https://v.daum.net/v/20220401150034624</id>
-        <link href="https://v.daum.net/v/20220401150034624"/>
-        <updated>2022-04-01T06:23:30.307Z</updated>
-        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">15:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[의학칼럼] 뚜둑! 전방십자인대 파열, 치료 미루다 관절염까지?]]></title>
-        <id>https://v.daum.net/v/20220401145812536</id>
-        <link href="https://v.daum.net/v/20220401145812536"/>
-        <updated>2022-04-01T06:23:30.309Z</updated>
-        <content type="html"><![CDATA[헬스조선<span class="txt_bar"> · </span><span class="info_time">14:58</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19 확진자와 동거인의 자가격리 생활]]></title>
-        <id>https://v.daum.net/v/20220401133510514</id>
-        <link href="https://v.daum.net/v/20220401133510514"/>
-        <updated>2022-04-01T05:17:05.760Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">13:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[카타르 GO릴라] 4월 2일 라마단 시작, 이틀 전 전통 시장은 북새통]]></title>
-        <id>https://v.daum.net/v/20220401133004405</id>
-        <link href="https://v.daum.net/v/20220401133004405"/>
-        <updated>2022-04-01T05:17:05.761Z</updated>
-        <content type="html"><![CDATA[베스트일레븐<span class="txt_bar"> · </span><span class="info_time">13:30</span>]]></content>
     </entry>
 </feed>
