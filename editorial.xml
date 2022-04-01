@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-04-01T07:18:47.681Z</updated>
+    <updated>2022-04-01T08:23:49.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[이한우 시론] '지·못·미'라는 허구]]></title>
+        <id>https://v.daum.net/v/20220401170203098</id>
+        <link href="https://v.daum.net/v/20220401170203098"/>
+        <updated>2022-04-01T08:23:33.352Z</updated>
+        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">17:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부고] 성경제(공정위 기업집단정책과장)씨 부친상]]></title>
         <id>https://v.daum.net/v/20220401154857300</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220401115029545</id>
         <link href="https://v.daum.net/v/20220401115029545"/>
         <updated>2022-04-01T03:17:16.686Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<사설>살수차·가스차 전면 폐기한 경찰, 폭력 시위 부추기나]]></title>
-        <id>https://v.daum.net/v/20220401115029543</id>
-        <link href="https://v.daum.net/v/20220401115029543"/>
-        <updated>2022-04-01T03:17:16.687Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:50</span>]]></content>
     </entry>
 </feed>
