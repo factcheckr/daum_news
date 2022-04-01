@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-04-01T09:18:08.954Z</updated>
+    <updated>2022-04-01T10:21:25.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전라남도, 민선 7기 공약이행 평가 최우수 등급]]></title>
+        <id>https://v.daum.net/v/20220401183940054</id>
+        <link href="https://v.daum.net/v/20220401183940054"/>
+        <updated>2022-04-01T10:21:17.449Z</updated>
+        <content type="html"><![CDATA[kbc광주방송<span class="txt_bar"> · </span><span class="info_time">18:39</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[옥천군, 35회 지용제 하반기로 연기]]></title>
         <id>https://v.daum.net/v/20220401174904209</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220401165032861"/>
         <updated>2022-04-01T08:23:40.775Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">16:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한신대 석좌교수로 박용수 박사 임용]]></title>
-        <id>https://v.daum.net/v/20220401164922835</id>
-        <link href="https://v.daum.net/v/20220401164922835"/>
-        <updated>2022-04-01T08:23:40.776Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">16:49</span>]]></content>
     </entry>
 </feed>
