@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-04-02T01:15:37.329Z</updated>
+    <updated>2022-04-02T02:55:53.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우크라이나-러시아 상반된 전쟁범죄 주장에 대한 언론의 고민]]></title>
+        <id>https://v.daum.net/v/20220402105836548</id>
+        <link href="https://v.daum.net/v/20220402105836548"/>
+        <updated>2022-04-02T02:55:36.939Z</updated>
+        <content type="html"><![CDATA[미디어오늘<span class="txt_bar"> · </span><span class="info_time">10:58</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오만한 패자' 민주당이 나아갈 길 [쓴소리 곧은 소리]]]></title>
         <id>https://v.daum.net/v/20220402100202840</id>
@@ -20,7 +27,7 @@
         <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">10:00</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Market Watch] 장단기 금리 역전, 침체의 '신호탄'일까]]></title>
+        <title type="html"><![CDATA[지난 29일 경기 침체 신호탄이 올랐다 [Market Watch]]]></title>
         <id>https://v.daum.net/v/20220402100014780</id>
         <link href="https://v.daum.net/v/20220402100014780"/>
         <updated>2022-04-02T01:15:21.449Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220402070032202"/>
         <updated>2022-04-01T22:18:35.294Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기고]스트리밍 생태계에서 영화의 미래]]></title>
-        <id>https://v.daum.net/v/20220402063006015</id>
-        <link href="https://v.daum.net/v/20220402063006015"/>
-        <updated>2022-04-01T22:18:35.297Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">06:30</span>]]></content>
     </entry>
 </feed>
