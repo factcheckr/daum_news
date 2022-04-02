@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-04-02T13:23:08.300Z</updated>
+    <updated>2022-04-02T14:17:24.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["이거 버그인가요?" 갑자기 번개가 하늘로 친다  [영상]]]></title>
+        <id>https://v.daum.net/v/20220402224322225</id>
+        <link href="https://v.daum.net/v/20220402224322225"/>
+        <updated>2022-04-02T14:17:00.417Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">22:43</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['던파 모바일' 양대 마켓 인기 및 매출 1위 등극]]></title>
+        <id>https://v.daum.net/v/20220402222932140</id>
+        <link href="https://v.daum.net/v/20220402222932140"/>
+        <updated>2022-04-02T14:17:00.417Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">22:29</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넥슨, 'DNF 듀얼' 2차 OBT 나선다]]></title>
         <id>https://v.daum.net/v/20220402221001994</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220402192955919"/>
         <updated>2022-04-02T11:15:17.146Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">19:29</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버, 연봉 예산 10% 늘린다.. 최저 300만원 인상 합의]]></title>
-        <id>https://v.daum.net/v/20220402185504721</id>
-        <link href="https://v.daum.net/v/20220402185504721"/>
-        <updated>2022-04-02T10:21:17.613Z</updated>
-        <content type="html"><![CDATA[머니S<span class="txt_bar"> · </span><span class="info_time">18:55</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["다시 만나서 반가워" 싸이월드, 2년 반만에 서비스 재개]]></title>
-        <id>https://v.daum.net/v/20220402185114701</id>
-        <link href="https://v.daum.net/v/20220402185114701"/>
-        <updated>2022-04-02T10:21:17.613Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">18:51</span>]]></content>
     </entry>
 </feed>
