@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-04-02T03:30:11.854Z</updated>
+    <updated>2022-04-02T04:23:14.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[부고] 홍석영(한국예탁결제원 증권정보부 팀장)씨 부친상]]></title>
+        <id>https://v.daum.net/v/20220402124921557</id>
+        <link href="https://v.daum.net/v/20220402124921557"/>
+        <updated>2022-04-02T04:22:57.435Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">12:49</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우크라이나-러시아 상반된 전쟁범죄 주장에 대한 언론의 고민]]></title>
         <id>https://v.daum.net/v/20220402105836548</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220402070042211"/>
         <updated>2022-04-01T22:18:35.293Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팬 서비스 해야 하는 걸 그때도 알았더라면 [김윤일의 역주행]]]></title>
-        <id>https://v.daum.net/v/20220402070032202</id>
-        <link href="https://v.daum.net/v/20220402070032202"/>
-        <updated>2022-04-01T22:18:35.294Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
     </entry>
 </feed>
