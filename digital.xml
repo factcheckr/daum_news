@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-04-02T02:55:53.730Z</updated>
+    <updated>2022-04-02T03:30:11.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['던파 모바일', 출시 초반 흥행 질주.. 양대 마켓 인기-매출 1위]]></title>
+        <id>https://v.daum.net/v/20220402122305369</id>
+        <link href="https://v.daum.net/v/20220402122305369"/>
+        <updated>2022-04-02T03:29:46.689Z</updated>
+        <content type="html"><![CDATA[OSEN<span class="txt_bar"> · </span><span class="info_time">12:23</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['최악 경제난·13시간 단전'..스리랑카 민심 폭발]]></title>
         <id>https://v.daum.net/v/20220402113611955</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220402100139836"/>
         <updated>2022-04-02T01:15:12.436Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">10:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 부사령관 "北, 외국서 생화학무기용 물자 조달"]]></title>
-        <id>https://v.daum.net/v/20220402100032801</id>
-        <link href="https://v.daum.net/v/20220402100032801"/>
-        <updated>2022-04-02T01:15:12.439Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">10:00</span>]]></content>
     </entry>
 </feed>
