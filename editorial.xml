@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-04-03T21:16:47.675Z</updated>
+    <updated>2022-04-03T22:18:29.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘부터 '10명-밤12시'..11일부터 보건소 신속검사 중단]]></title>
+        <id>https://v.daum.net/v/20220404071035370</id>
+        <link href="https://v.daum.net/v/20220404071035370"/>
+        <updated>2022-04-03T22:18:11.964Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">07:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[한반도24시]신정부의 대중 통상과제]]></title>
+        <id>https://v.daum.net/v/20220404070032193</id>
+        <link href="https://v.daum.net/v/20220404070032193"/>
+        <updated>2022-04-03T22:18:11.965Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[신조어 사전] 자이낸스 ?]]></title>
+        <id>https://v.daum.net/v/20220404070030191</id>
+        <link href="https://v.daum.net/v/20220404070030191"/>
+        <updated>2022-04-03T22:18:11.968Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[시론] 금융감독 개혁 시급하다]]></title>
+        <id>https://v.daum.net/v/20220404070027190</id>
+        <link href="https://v.daum.net/v/20220404070027190"/>
+        <updated>2022-04-03T22:18:11.970Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[목멱칼럼]정부 조직개편, 정책 실행력 높이는데 집중해야]]></title>
         <id>https://v.daum.net/v/20220404061507776</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20220404050812919"/>
         <updated>2022-04-03T20:19:34.287Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세종로의 아침] 노동자의 봄/박찬구 사회정책부 선임기자]]></title>
-        <id>https://v.daum.net/v/20220404050810918</id>
-        <link href="https://v.daum.net/v/20220404050810918"/>
-        <updated>2022-04-03T20:19:34.287Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이용한의 절묘(猫)한 순간들] 캣타워가 된 장독대/고양이 작가]]></title>
-        <id>https://v.daum.net/v/20220404050808917</id>
-        <link href="https://v.daum.net/v/20220404050808917"/>
-        <updated>2022-04-03T20:19:34.287Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[자치광장] 지역 간 계층 간 차별 없는 도시 만든다/이정훈 서울 강동구청장]]></title>
-        <id>https://v.daum.net/v/20220404050806916</id>
-        <link href="https://v.daum.net/v/20220404050806916"/>
-        <updated>2022-04-03T20:19:34.287Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[출퇴근 지하철에서 소외된 사람들]]></title>
-        <id>https://v.daum.net/v/20220404050629855</id>
-        <link href="https://v.daum.net/v/20220404050629855"/>
-        <updated>2022-04-03T20:19:34.287Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">05:06</span>]]></content>
     </entry>
 </feed>
