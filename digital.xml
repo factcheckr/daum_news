@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-04-03T11:16:30.402Z</updated>
+    <updated>2022-04-03T12:29:18.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["삼성폰, 집에서 혼자 고칠 수 있어요?" 몇 푼 아끼려다 '낭패']]></title>
+        <id>https://v.daum.net/v/20220403205142100</id>
+        <link href="https://v.daum.net/v/20220403205142100"/>
+        <updated>2022-04-03T12:28:52.319Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">20:51</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["갤S22·S22+ 공시지원금 3배로 인상"..얼마나 싸지나]]></title>
+        <id>https://v.daum.net/v/20220403202138875</id>
+        <link href="https://v.daum.net/v/20220403202138875"/>
+        <updated>2022-04-03T12:28:52.333Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">20:21</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[갤럭시 S22·S22+ 공시지원금 3배로 인상..SK텔레콤 미정]]></title>
         <id>https://v.daum.net/v/20220403200746785</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220403194036507"/>
         <updated>2022-04-03T11:16:07.066Z</updated>
         <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">19:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[댕댕이들의 신세계 '스타필드 펫 페스티벌']]></title>
-        <id>https://v.daum.net/v/20220403193634484</id>
-        <link href="https://v.daum.net/v/20220403193634484"/>
-        <updated>2022-04-03T11:16:07.067Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">19:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쇼핑객 웰컴百.. 유통 빅3 리뉴얼 불꽃 경쟁]]></title>
-        <id>https://v.daum.net/v/20220403193632483</id>
-        <link href="https://v.daum.net/v/20220403193632483"/>
-        <updated>2022-04-03T11:16:07.068Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">19:36</span>]]></content>
     </entry>
 </feed>
