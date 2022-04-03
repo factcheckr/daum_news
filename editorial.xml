@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-04-03T16:24:28.686Z</updated>
+    <updated>2022-04-03T17:20:50.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]전쟁과 주식]]></title>
+        <id>https://v.daum.net/v/20220404020502971</id>
+        <link href="https://v.daum.net/v/20220404020502971"/>
+        <updated>2022-04-03T17:20:33.076Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이하경 칼럼] 윤석열을 위한 '승자의 시간'을 주자]]></title>
         <id>https://v.daum.net/v/20220404004219762</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220404001247645"/>
         <updated>2022-04-03T15:19:15.933Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김의도칼럼] 코로나 단상(斷想) - 춘래사춘 기다리며]]></title>
-        <id>https://v.daum.net/v/20220404001122620</id>
-        <link href="https://v.daum.net/v/20220404001122620"/>
-        <updated>2022-04-03T15:19:15.934Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:11</span>]]></content>
     </entry>
 </feed>
