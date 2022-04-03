@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-04-03T20:19:51.637Z</updated>
+    <updated>2022-04-03T21:16:47.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[목멱칼럼]정부 조직개편, 정책 실행력 높이는데 집중해야]]></title>
+        <id>https://v.daum.net/v/20220404061507776</id>
+        <link href="https://v.daum.net/v/20220404061507776"/>
+        <updated>2022-04-03T21:16:30.004Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">06:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[프리스타일] 대선 개표의 밤, 대구의 장례식장에서]]></title>
+        <id>https://v.daum.net/v/20220404055317424</id>
+        <link href="https://v.daum.net/v/20220404055317424"/>
+        <updated>2022-04-03T21:16:30.004Z</updated>
+        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">05:53</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[김동률의 아포리즘] 언론인끼리 싸움은 이제 그만/서강대 교수(매체경영)]]></title>
         <id>https://v.daum.net/v/20220404050823928</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220404050629855"/>
         <updated>2022-04-03T20:19:34.287Z</updated>
         <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">05:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아름다운 것의 이면]]></title>
-        <id>https://v.daum.net/v/20220404050618844</id>
-        <link href="https://v.daum.net/v/20220404050618844"/>
-        <updated>2022-04-03T20:19:34.287Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">05:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설]종료 수순 들어간 거리두기, 의료대응에 빈틈 없어야]]></title>
-        <id>https://v.daum.net/v/20220404050033732</id>
-        <link href="https://v.daum.net/v/20220404050033732"/>
-        <updated>2022-04-03T20:19:34.289Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">05:00</span>]]></content>
     </entry>
 </feed>
