@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-04-03T12:29:18.934Z</updated>
+    <updated>2022-04-03T13:23:36.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공정위, 불공정 굴착기 단체에 시정명령·과징금]]></title>
+        <id>https://v.daum.net/v/20220403222152857</id>
+        <link href="https://v.daum.net/v/20220403222152857"/>
+        <updated>2022-04-03T13:23:27.723Z</updated>
+        <content type="html"><![CDATA[kbc광주방송<span class="txt_bar"> · </span><span class="info_time">22:21</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[해운대구, 저소득 주민 대상 주거안정·개선 추진]]></title>
         <id>https://v.daum.net/v/20220403191932352</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220403114918445"/>
         <updated>2022-04-03T02:54:21.891Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">11:49</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경북, 본격 영농기 앞두고 인력지원 종합계획 세워]]></title>
-        <id>https://v.daum.net/v/20220403113109046</id>
-        <link href="https://v.daum.net/v/20220403113109046"/>
-        <updated>2022-04-03T02:54:21.896Z</updated>
-        <content type="html"><![CDATA[대구MBC<span class="txt_bar"> · </span><span class="info_time">11:31</span>]]></content>
     </entry>
 </feed>
