@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-04-04T10:21:30.916Z</updated>
+    <updated>2022-04-04T11:17:20.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Geberit(게베릿), 공간 절약 혁신으로 친환경적 건설에 기여]]></title>
+        <id>https://v.daum.net/v/20220404201223809</id>
+        <link href="https://v.daum.net/v/20220404201223809"/>
+        <updated>2022-04-04T11:17:12.669Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:12</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[地選 특집 - 제천] 전·현직 시장만 3명 도전 눈길]]></title>
+        <id>https://v.daum.net/v/20220404193542363</id>
+        <link href="https://v.daum.net/v/20220404193542363"/>
+        <updated>2022-04-04T11:17:12.669Z</updated>
+        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">19:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[천안시 도시재생지원센터, 어린이날 100주년 기념 '천안 어린이 도시재생 그림 공모전' 개최]]></title>
         <id>https://v.daum.net/v/20220404191703099</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220404171644230"/>
         <updated>2022-04-04T08:22:42.198Z</updated>
         <content type="html"><![CDATA[스포탈코리아<span class="txt_bar"> · </span><span class="info_time">17:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[광복회 연제구지회, 사무실 개소식 개최]]></title>
-        <id>https://v.daum.net/v/20220404171433171</id>
-        <link href="https://v.daum.net/v/20220404171433171"/>
-        <updated>2022-04-04T08:22:42.199Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부산 서구 서대신3동 사랑의 이웃사촌후원회, 도서구입비 지원]]></title>
-        <id>https://v.daum.net/v/20220404171420163</id>
-        <link href="https://v.daum.net/v/20220404171420163"/>
-        <updated>2022-04-04T08:22:42.200Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:14</span>]]></content>
     </entry>
 </feed>
