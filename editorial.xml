@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-04-04T12:31:42.912Z</updated>
+    <updated>2022-04-04T13:29:22.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김용민의 그림마당 쉽니다.]]></title>
+        <id>https://v.daum.net/v/20220404220242056</id>
+        <link href="https://v.daum.net/v/20220404220242056"/>
+        <updated>2022-04-04T13:29:06.135Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장애인과 싸워 가슴이 웅장해졌는가 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20220404220047031</id>
+        <link href="https://v.daum.net/v/20220404220047031"/>
+        <updated>2022-04-04T13:29:06.140Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 러군의 우크라 민간인 집단학살, 용납 안 될 전쟁범죄다]]></title>
         <id>https://v.daum.net/v/20220404210154355</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220404195053553"/>
         <updated>2022-04-04T11:17:05.206Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 세종집무실법안, 4월 국회서 반드시 처리를]]></title>
-        <id>https://v.daum.net/v/20220404193511339</id>
-        <link href="https://v.daum.net/v/20220404193511339"/>
-        <updated>2022-04-04T11:17:05.208Z</updated>
-        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">19:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 없었던 일 된 계룡 이케아 누군가 책임져야]]></title>
-        <id>https://v.daum.net/v/20220404193509337</id>
-        <link href="https://v.daum.net/v/20220404193509337"/>
-        <updated>2022-04-04T11:17:05.209Z</updated>
-        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">19:35</span>]]></content>
     </entry>
 </feed>

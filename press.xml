@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-04-04T12:31:42.916Z</updated>
+    <updated>2022-04-04T13:29:22.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[싱가포르, 무격리 입국 전면 허용]]></title>
+        <id>https://v.daum.net/v/20220404220301058</id>
+        <link href="https://v.daum.net/v/20220404220301058"/>
+        <updated>2022-04-04T13:29:14.162Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">22:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] Geberit(게베릿), 공간 절약 혁신으로 친환경적 건설에 기여]]></title>
         <id>https://v.daum.net/v/20220404201223809</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220404171704240"/>
         <updated>2022-04-04T08:22:42.198Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이강인·정우영 배출' 인천, 인천 축구의 미래 U-8/U-10 공개 테스트 진행]]></title>
-        <id>https://v.daum.net/v/20220404171644230</id>
-        <link href="https://v.daum.net/v/20220404171644230"/>
-        <updated>2022-04-04T08:22:42.198Z</updated>
-        <content type="html"><![CDATA[스포탈코리아<span class="txt_bar"> · </span><span class="info_time">17:16</span>]]></content>
     </entry>
 </feed>
