@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-04-05T05:17:46.454Z</updated>
+    <updated>2022-04-05T06:23:38.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[광주 경실련, "민주당 음주운전 기준 불신 키워"]]></title>
+        <id>https://v.daum.net/v/20220405145727285</id>
+        <link href="https://v.daum.net/v/20220405145727285"/>
+        <updated>2022-04-05T06:23:18.120Z</updated>
+        <content type="html"><![CDATA[kbc광주방송<span class="txt_bar"> · </span><span class="info_time">14:57</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[리더의 영원한 덕목 노블레스 오블리주]]></title>
+        <id>https://v.daum.net/v/20220405145137052</id>
+        <link href="https://v.daum.net/v/20220405145137052"/>
+        <updated>2022-04-05T06:23:18.122Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">14:51</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주요 신문 사설](5일 석간)]]></title>
         <id>https://v.daum.net/v/20220405140041803</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220405112126027"/>
         <updated>2022-04-05T02:55:32.206Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 4%대 고물가, 새 정부 후폭풍 막을 종합대책 세워야]]></title>
-        <id>https://v.daum.net/v/20220405111918898</id>
-        <link href="https://v.daum.net/v/20220405111918898"/>
-        <updated>2022-04-05T02:55:32.207Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:19</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 새 정부 내각 인재 풀 더 넓혀 참신성 강화 필요하다]]></title>
-        <id>https://v.daum.net/v/20220405111918897</id>
-        <link href="https://v.daum.net/v/20220405111918897"/>
-        <updated>2022-04-05T02:55:32.208Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:19</span>]]></content>
     </entry>
 </feed>
