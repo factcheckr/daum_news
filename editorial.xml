@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-04-05T16:26:26.857Z</updated>
+    <updated>2022-04-05T17:21:40.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]푸드테크(food-tech)의 고민]]></title>
+        <id>https://v.daum.net/v/20220406020502838</id>
+        <link href="https://v.daum.net/v/20220406020502838"/>
+        <updated>2022-04-05T17:21:24.692Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]그래미는 과연 권위 있는 '상'일까]]></title>
+        <id>https://v.daum.net/v/20220406020301836</id>
+        <link href="https://v.daum.net/v/20220406020301836"/>
+        <updated>2022-04-05T17:21:24.694Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박명림 칼럼] 한국 민주주의의 결정적 변곡점]]></title>
         <id>https://v.daum.net/v/20220406003829491</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220406001505348"/>
         <updated>2022-04-05T15:20:14.204Z</updated>
         <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">00:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[아침숲길] 봄날 절정에 몸져눕다 /김문홍]]></title>
-        <id>https://v.daum.net/v/20220406001502347</id>
-        <link href="https://v.daum.net/v/20220406001502347"/>
-        <updated>2022-04-05T15:20:14.206Z</updated>
-        <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">00:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[도청도설] 고향사랑 나무심기]]></title>
-        <id>https://v.daum.net/v/20220406001456345</id>
-        <link href="https://v.daum.net/v/20220406001456345"/>
-        <updated>2022-04-05T15:20:14.207Z</updated>
-        <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">00:14</span>]]></content>
     </entry>
 </feed>
