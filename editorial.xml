@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-04-05T12:29:37.406Z</updated>
+    <updated>2022-04-05T13:28:24.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022년 4월 6일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20220405220207877</id>
+        <link href="https://v.daum.net/v/20220405220207877"/>
+        <updated>2022-04-05T13:28:07.199Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해바라기의 비명 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20220405220005816</id>
+        <link href="https://v.daum.net/v/20220405220005816"/>
+        <updated>2022-04-05T13:28:07.200Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[아침햇발] 현 정부 '부동산 실정'에서 배워야 할 세가지 교훈 / 박현]]></title>
+        <id>https://v.daum.net/v/20220405215603749</id>
+        <link href="https://v.daum.net/v/20220405215603749"/>
+        <updated>2022-04-05T13:28:07.201Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">21:56</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[여적] 김앤장 관료]]></title>
         <id>https://v.daum.net/v/20220405203302679</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220405184102155"/>
         <updated>2022-04-05T10:18:58.113Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">18:41</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 친서민 내세우다가 소득양극화 더 키운 文정부 경제 실패]]></title>
-        <id>https://v.daum.net/v/20220405184030141</id>
-        <link href="https://v.daum.net/v/20220405184030141"/>
-        <updated>2022-04-05T10:18:58.114Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">18:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[논설실의 서가] 목숨이 걸린 리더십은 어때야 하는가]]></title>
-        <id>https://v.daum.net/v/20220405184028139</id>
-        <link href="https://v.daum.net/v/20220405184028139"/>
-        <updated>2022-04-05T10:18:58.114Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">18:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기고] 탄소중립 기술혁신, 정부가 앞장서야]]></title>
-        <id>https://v.daum.net/v/20220405184027138</id>
-        <link href="https://v.daum.net/v/20220405184027138"/>
-        <updated>2022-04-05T10:18:58.115Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">18:40</span>]]></content>
     </entry>
 </feed>
