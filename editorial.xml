@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-04-06T03:31:49.501Z</updated>
+    <updated>2022-04-06T04:23:11.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[시시비비]'무신사' 여럿 나오려면]]></title>
+        <id>https://v.daum.net/v/20220406130517099</id>
+        <link href="https://v.daum.net/v/20220406130517099"/>
+        <updated>2022-04-06T04:22:52.976Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">13:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[칼럼]일본의 역사왜곡과 윤석열의 '그랜드 바겐']]></title>
+        <id>https://v.daum.net/v/20220406124503766</id>
+        <link href="https://v.daum.net/v/20220406124503766"/>
+        <updated>2022-04-06T04:22:52.981Z</updated>
+        <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">12:45</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["어린 아이들이 지내는 기관은 안전하고 따뜻한 공간이어야 한다"]]></title>
         <id>https://v.daum.net/v/20220406115858725</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220406111949993"/>
         <updated>2022-04-06T02:56:39.315Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:19</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 경찰 존재이유 다시 묻는 층간소음 난동사건 영상 공개]]></title>
-        <id>https://v.daum.net/v/20220406111948991</id>
-        <link href="https://v.daum.net/v/20220406111948991"/>
-        <updated>2022-04-06T02:56:39.316Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:19</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어차피 듣지 않는다면]]></title>
-        <id>https://v.daum.net/v/20220406111802908</id>
-        <link href="https://v.daum.net/v/20220406111802908"/>
-        <updated>2022-04-06T02:56:39.318Z</updated>
-        <content type="html"><![CDATA[한겨레21<span class="txt_bar"> · </span><span class="info_time">11:18</span>]]></content>
     </entry>
 </feed>
