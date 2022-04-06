@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-04-06T07:18:50.402Z</updated>
+    <updated>2022-04-06T08:22:33.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[백래시에 대한 두 가지 오해]]></title>
+        <id>https://v.daum.net/v/20220406170603669</id>
+        <link href="https://v.daum.net/v/20220406170603669"/>
+        <updated>2022-04-06T08:22:17.601Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">17:06</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[기자수첩] 김현수 농식품부 장관, '세계에서 가장 비싼 우유' 그대로 두고 떠날텐가]]></title>
+        <id>https://v.daum.net/v/20220406170007437</id>
+        <link href="https://v.daum.net/v/20220406170007437"/>
+        <updated>2022-04-06T08:22:17.601Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[극장 내 휠체어석은 왜 맨 뒤에 있나요]]></title>
+        <id>https://v.daum.net/v/20220406165606299</id>
+        <link href="https://v.daum.net/v/20220406165606299"/>
+        <updated>2022-04-06T08:22:17.602Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">16:56</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[ET단상]과학기술과 대통령의 역할]]></title>
         <id>https://v.daum.net/v/20220406160124925</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220406142710771"/>
         <updated>2022-04-06T06:21:49.696Z</updated>
         <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">14:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기자의 일상]택배기사의 진심]]></title>
-        <id>https://v.daum.net/v/20220406140509739</id>
-        <link href="https://v.daum.net/v/20220406140509739"/>
-        <updated>2022-04-06T05:17:29.684Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">14:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전문가기고]서비스형 DB, DX 성공의 열쇠]]></title>
-        <id>https://v.daum.net/v/20220406135905496</id>
-        <link href="https://v.daum.net/v/20220406135905496"/>
-        <updated>2022-04-06T05:17:29.685Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">13:59</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이슈& 직설] 文, '최저임금 1만 원' 실패.."소득격차 완화" 수술대 오르는 최저임금]]></title>
-        <id>https://v.daum.net/v/20220406135514382</id>
-        <link href="https://v.daum.net/v/20220406135514382"/>
-        <updated>2022-04-06T05:17:29.686Z</updated>
-        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">13:55</span>]]></content>
     </entry>
 </feed>
