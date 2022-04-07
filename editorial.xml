@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-04-07T22:18:46.433Z</updated>
+    <updated>2022-04-07T23:19:09.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](8일 조간)]]></title>
+        <id>https://v.daum.net/v/20220408080015145</id>
+        <link href="https://v.daum.net/v/20220408080015145"/>
+        <updated>2022-04-07T23:18:52.357Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[여백] 인사]]></title>
+        <id>https://v.daum.net/v/20220408074850923</id>
+        <link href="https://v.daum.net/v/20220408074850923"/>
+        <updated>2022-04-07T23:18:52.358Z</updated>
+        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">07:48</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[춘추칼럼] 나는 어떤 빗방울이 될까]]></title>
+        <id>https://v.daum.net/v/20220408073643733</id>
+        <link href="https://v.daum.net/v/20220408073643733"/>
+        <updated>2022-04-07T23:18:52.361Z</updated>
+        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">07:36</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[한밭춘추]  잔인한 달 사월의 홈런(Home run)]]></title>
+        <id>https://v.daum.net/v/20220408072433580</id>
+        <link href="https://v.daum.net/v/20220408072433580"/>
+        <updated>2022-04-07T23:18:52.363Z</updated>
+        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">07:24</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴스룸의 공간이 바뀐다면]]></title>
         <id>https://v.daum.net/v/20220408070602323</id>
@@ -80,34 +108,6 @@
         <id>https://v.daum.net/v/20220408050830439</id>
         <link href="https://v.daum.net/v/20220408050830439"/>
         <updated>2022-04-07T20:20:20.582Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[길섶에서] 집단지성/문소영 논설위원]]></title>
-        <id>https://v.daum.net/v/20220408050830437</id>
-        <link href="https://v.daum.net/v/20220408050830437"/>
-        <updated>2022-04-07T20:20:20.583Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 尹 정부 초대 장관 인선에 여성·청년 안 보인다]]></title>
-        <id>https://v.daum.net/v/20220408050828436</id>
-        <link href="https://v.daum.net/v/20220408050828436"/>
-        <updated>2022-04-07T20:20:20.586Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 정부조직 개편, 속도조절 좋으나 윤곽은 제시해야]]></title>
-        <id>https://v.daum.net/v/20220408050827435</id>
-        <link href="https://v.daum.net/v/20220408050827435"/>
-        <updated>2022-04-07T20:20:20.586Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 北 핵실험에 '신뢰할 억지력' 엄중 경고한 미국]]></title>
-        <id>https://v.daum.net/v/20220408050825433</id>
-        <link href="https://v.daum.net/v/20220408050825433"/>
-        <updated>2022-04-07T20:20:20.588Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
     </entry>
 </feed>
