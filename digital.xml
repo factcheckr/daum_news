@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-04-07T13:29:50.683Z</updated>
+    <updated>2022-04-07T14:18:11.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["명동에 사과밭 심자 외국인 줄섰다"..애플 스토어에 무슨일? [르포]]]></title>
+        <id>https://v.daum.net/v/20220407230300691</id>
+        <link href="https://v.daum.net/v/20220407230300691"/>
+        <updated>2022-04-07T14:17:47.589Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">23:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KT '미디어 왕좌' 넘본다]]></title>
         <id>https://v.daum.net/v/20220407220913008</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220407202423643"/>
         <updated>2022-04-07T12:31:57.131Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노년기 남성들의 복병 전립선암, 예방하려면 PSA 수치 주목해야]]></title>
-        <id>https://v.daum.net/v/20220407201001302</id>
-        <link href="https://v.daum.net/v/20220407201001302"/>
-        <updated>2022-04-07T11:16:29.846Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">20:10</span>]]></content>
     </entry>
 </feed>
