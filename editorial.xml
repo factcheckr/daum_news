@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-04-08T21:17:12.061Z</updated>
+    <updated>2022-04-08T22:19:19.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[신세돈의 경제통감]부가세 인하로 인플레 잡아야?]]></title>
+        <id>https://v.daum.net/v/20220409070122698</id>
+        <link href="https://v.daum.net/v/20220409070122698"/>
+        <updated>2022-04-08T22:19:02.758Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">07:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["좋다 이거야, 그런데 일관성!!" 명료한 S존 정착 해법[김태훈의 챕터투]]]></title>
+        <id>https://v.daum.net/v/20220409070122697</id>
+        <link href="https://v.daum.net/v/20220409070122697"/>
+        <updated>2022-04-08T22:19:02.762Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[데스크 칼럼] 부동산 정책, 과거와만 싸우고 있을 것인가]]></title>
         <id>https://v.daum.net/v/20220409050019412</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220409032413248"/>
         <updated>2022-04-08T19:15:53.078Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] '러 학살' 감싼 北中, 그들과 한편 섰던 韓 외교 방향 틀어야]]></title>
-        <id>https://v.daum.net/v/20220409032214244</id>
-        <link href="https://v.daum.net/v/20220409032214244"/>
-        <updated>2022-04-08T18:22:51.588Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[강천석 칼럼] 無能해서 균형 내각 꾸린 게 아니다]]></title>
-        <id>https://v.daum.net/v/20220409032013242</id>
-        <link href="https://v.daum.net/v/20220409032013242"/>
-        <updated>2022-04-08T18:22:51.595Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:20</span>]]></content>
     </entry>
 </feed>
