@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-04-08T03:02:55.282Z</updated>
+    <updated>2022-04-08T04:22:53.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[당객열전] 두 번의 포기 후 다시 일어선 '승부사' 오성욱]]></title>
+        <id>https://v.daum.net/v/20220408125123582</id>
+        <link href="https://v.daum.net/v/20220408125123582"/>
+        <updated>2022-04-08T04:22:38.539Z</updated>
+        <content type="html"><![CDATA[스포츠한국<span class="txt_bar"> · </span><span class="info_time">12:51</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<사설>러·북·중 戰犯 연대..尹 '한미동맹 심장' 방문 의미 크다]]></title>
         <id>https://v.daum.net/v/20220408115535592</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220408112908640"/>
         <updated>2022-04-08T03:02:37.076Z</updated>
         <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">11:29</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[일본 바로 보기] 일본의 또 다른 새해 新年度]]></title>
-        <id>https://v.daum.net/v/20220408112855626</id>
-        <link href="https://v.daum.net/v/20220408112855626"/>
-        <updated>2022-04-08T03:02:37.077Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:28</span>]]></content>
     </entry>
 </feed>
