@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-04-08T12:33:34.567Z</updated>
+    <updated>2022-04-08T13:32:21.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사람도, 바이러스도 생존은 치열한 것 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20220408220059527</id>
+        <link href="https://v.daum.net/v/20220408220059527"/>
+        <updated>2022-04-08T13:32:05.666Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 유영하 출마 지지로 정치 재개한 박근혜, 성찰이 먼저다]]></title>
         <id>https://v.daum.net/v/20220408203021153</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220408170202616"/>
         <updated>2022-04-08T08:22:17.930Z</updated>
         <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">17:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[fn사설] 여야 원내사령탑 선출 완료, 시험대 오른 협치]]></title>
-        <id>https://v.daum.net/v/20220408161633313</id>
-        <link href="https://v.daum.net/v/20220408161633313"/>
-        <updated>2022-04-08T07:18:51.416Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">16:16</span>]]></content>
     </entry>
 </feed>
