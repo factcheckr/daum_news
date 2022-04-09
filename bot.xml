@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-04-09T08:21:31.475Z</updated>
+    <updated>2022-04-09T09:18:11.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2022년 04월 09일)]]></title>
+        <id>https://v.daum.net/v/20220409173147799</id>
+        <link href="https://v.daum.net/v/20220409173147799"/>
+        <updated>2022-04-09T09:18:10.356Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:31</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가상화폐 비트코인(+0.16%), 카바(+8.87%)]]></title>
+        <id>https://v.daum.net/v/20220409173122794</id>
+        <link href="https://v.daum.net/v/20220409173122794"/>
+        <updated>2022-04-09T09:18:10.358Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">17:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울 자곡동 LH강남힐스테이트 59㎡ 7억1220만원.. 역대 최고가]]></title>
         <id>https://v.daum.net/v/20220409144054456</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220409134053683"/>
         <updated>2022-04-09T05:16:43.887Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 조원동 수원한일타운아파트 84㎡ 7억원에 거래]]></title>
-        <id>https://v.daum.net/v/20220409133553623</id>
-        <link href="https://v.daum.net/v/20220409133553623"/>
-        <updated>2022-04-09T05:16:43.888Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 만수동 햇빛마을벽산아파트 84㎡ 3억9000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220409133050572</id>
-        <link href="https://v.daum.net/v/20220409133050572"/>
-        <updated>2022-04-09T05:16:43.893Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:30</span>]]></content>
     </entry>
 </feed>
