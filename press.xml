@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-04-10T12:29:16.406Z</updated>
+    <updated>2022-04-10T13:24:21.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사하구, 공약이행·정보공개 평가 부산지역 유일 4년연속 최고등급]]></title>
+        <id>https://v.daum.net/v/20220410220628465</id>
+        <link href="https://v.daum.net/v/20220410220628465"/>
+        <updated>2022-04-10T13:24:13.872Z</updated>
+        <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">22:06</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[조해훈의 고전 속 이 문장] <161> 사마천이 배신의 아이콘 '경포'의 전기를 쓴 이유]]></title>
+        <id>https://v.daum.net/v/20220410220611458</id>
+        <link href="https://v.daum.net/v/20220410220611458"/>
+        <updated>2022-04-10T13:24:13.873Z</updated>
+        <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">22:06</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화학물질 화재·폭발 위험 반드시 확인하세요!]]></title>
         <id>https://v.daum.net/v/20220410180522639</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220410113539017"/>
         <updated>2022-04-10T02:56:49.385Z</updated>
         <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">11:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성전자, 차세대 N-ERP 시스템 전 세계 법인 도입 완료]]></title>
-        <id>https://v.daum.net/v/20220410110703453</id>
-        <link href="https://v.daum.net/v/20220410110703453"/>
-        <updated>2022-04-10T02:56:49.387Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">11:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남해청 항공단 헬기(S-92) 추락사고 순직 경찰관 영결식, 12일 해양경찰장(葬)으로 엄수]]></title>
-        <id>https://v.daum.net/v/20220410103526871</id>
-        <link href="https://v.daum.net/v/20220410103526871"/>
-        <updated>2022-04-10T02:56:49.388Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">10:35</span>]]></content>
     </entry>
 </feed>
