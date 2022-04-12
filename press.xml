@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-04-12T12:31:23.778Z</updated>
+    <updated>2022-04-12T13:30:28.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[민주당 전남도당, 현역 군수 2명 등 16명 공천 배제]]></title>
+        <id>https://v.daum.net/v/20220412214235585</id>
+        <link href="https://v.daum.net/v/20220412214235585"/>
+        <updated>2022-04-12T13:30:19.532Z</updated>
+        <content type="html"><![CDATA[kbc광주방송<span class="txt_bar"> · </span><span class="info_time">21:42</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[올해 첫 중증열성혈소판감소증후군(SFTS) 환자 발생, 야외활동 시 진드기에 물리지 않도록 주의하세요!]]></title>
+        <id>https://v.daum.net/v/20220412213544480</id>
+        <link href="https://v.daum.net/v/20220412213544480"/>
+        <updated>2022-04-12T13:30:19.533Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">21:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021년 ODA 지원실적은 28.6억불로 대폭(26.9%) 증가 OECD 개발원조위원회 회원국 중 15위]]></title>
         <id>https://v.daum.net/v/20220412203540271</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220412180620840"/>
         <updated>2022-04-12T09:18:36.416Z</updated>
         <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">18:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[K-디지털 트레이닝, 314개 훈련과정(연간 훈련인원 2.7만명) 확대 운영]]></title>
-        <id>https://v.daum.net/v/20220412180619838</id>
-        <link href="https://v.daum.net/v/20220412180619838"/>
-        <updated>2022-04-12T09:18:36.417Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">18:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부산 서구 부민동, 새봄맞이 도시환경정비 실시]]></title>
-        <id>https://v.daum.net/v/20220412175708602</id>
-        <link href="https://v.daum.net/v/20220412175708602"/>
-        <updated>2022-04-12T09:18:36.417Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:57</span>]]></content>
     </entry>
 </feed>

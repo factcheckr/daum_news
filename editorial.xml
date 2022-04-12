@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-04-12T12:31:23.761Z</updated>
+    <updated>2022-04-12T13:30:28.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배우의 모공과 주름을 보고 싶다 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20220412220003935</id>
+        <link href="https://v.daum.net/v/20220412220003935"/>
+        <updated>2022-04-12T13:30:11.932Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 4월 13일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20220412215917922</id>
+        <link href="https://v.daum.net/v/20220412215917922"/>
+        <updated>2022-04-12T13:30:11.933Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">21:59</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[다시 듣고싶은 설교] 땅을 기업으로  받게 될 사람들]]></title>
+        <id>https://v.daum.net/v/20220412214600683</id>
+        <link href="https://v.daum.net/v/20220412214600683"/>
+        <updated>2022-04-12T13:30:11.934Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">21:46</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 대안 없이 검수완박 밀어붙이는 민주당, 시민 우려 경청하라]]></title>
         <id>https://v.daum.net/v/20220412212545315</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220412195843551"/>
         <updated>2022-04-12T11:16:19.185Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:58</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022.04.13 Cartoon]]></title>
-        <id>https://v.daum.net/v/20220412195636501</id>
-        <link href="https://v.daum.net/v/20220412195636501"/>
-        <updated>2022-04-12T11:16:19.187Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:56</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RDP MOU, the FTA in defense?]]></title>
-        <id>https://v.daum.net/v/20220412195025357</id>
-        <link href="https://v.daum.net/v/20220412195025357"/>
-        <updated>2022-04-12T11:16:19.188Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4월 13일 한겨레 그림판]]></title>
-        <id>https://v.daum.net/v/20220412194605270</id>
-        <link href="https://v.daum.net/v/20220412194605270"/>
-        <updated>2022-04-12T11:16:19.190Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:46</span>]]></content>
     </entry>
 </feed>
