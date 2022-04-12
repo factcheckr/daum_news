@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-04-12T03:40:08.243Z</updated>
+    <updated>2022-04-12T04:22:53.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[초동시각]성급한 쌍용차 인수의향..시장혼란 부추겼다]]></title>
+        <id>https://v.daum.net/v/20220412130021152</id>
+        <link href="https://v.daum.net/v/20220412130021152"/>
+        <updated>2022-04-12T04:22:38.079Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">13:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<사설>"훈련 않는 軍 존재 이유 없다" 5년 만의 안보 상식 복원]]></title>
         <id>https://v.daum.net/v/20220412114024070</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220412111109761"/>
         <updated>2022-04-12T03:01:19.592Z</updated>
         <content type="html"><![CDATA[코스모폴리탄<span class="txt_bar"> · </span><span class="info_time">11:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[WORD_ON_THE_WEB] 'The public education system is broken']]></title>
-        <id>https://v.daum.net/v/20220412105407835</id>
-        <link href="https://v.daum.net/v/20220412105407835"/>
-        <updated>2022-04-12T03:01:19.593Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">10:54</span>]]></content>
     </entry>
 </feed>
