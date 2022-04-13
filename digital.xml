@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-04-13T16:26:33.353Z</updated>
+    <updated>2022-04-13T17:22:11.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["기후변화가 고대 인류 대이동 일으켜" 확인]]></title>
+        <id>https://v.daum.net/v/20220414021500314</id>
+        <link href="https://v.daum.net/v/20220414021500314"/>
+        <updated>2022-04-13T17:21:47.879Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">02:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인간 진화의 수수께끼..인류의 조상은  하이델베르크인]]></title>
+        <id>https://v.daum.net/v/20220414013014224</id>
+        <link href="https://v.daum.net/v/20220414013014224"/>
+        <updated>2022-04-13T17:21:47.879Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">01:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["기후·식량 변화가 인류진화 이끌어냈다"]]></title>
         <id>https://v.daum.net/v/20220414010140055</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220414010015007"/>
         <updated>2022-04-13T16:26:08.092Z</updated>
         <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">01:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韓 슈퍼컴퓨터 '알레프', 인류 진화의 기후·시공간 지도 완성]]></title>
-        <id>https://v.daum.net/v/20220414010012005</id>
-        <link href="https://v.daum.net/v/20220414010012005"/>
-        <updated>2022-04-13T16:26:08.093Z</updated>
-        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">01:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[200만년전 기후 분석해 인간 진화 수수께끼 풀었다]]></title>
-        <id>https://v.daum.net/v/20220414010012004</id>
-        <link href="https://v.daum.net/v/20220414010012004"/>
-        <updated>2022-04-13T16:26:08.094Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">01:00</span>]]></content>
     </entry>
 </feed>
