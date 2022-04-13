@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-04-13T13:29:36.013Z</updated>
+    <updated>2022-04-13T14:29:03.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오병상의 코멘터리] 한동훈 법무장관과 윤석열 스타일]]></title>
+        <id>https://v.daum.net/v/20220413225036080</id>
+        <link href="https://v.daum.net/v/20220413225036080"/>
+        <updated>2022-04-13T14:28:46.785Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">22:50</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인문학 칼럼] 여치(呂雉)와 우미인(虞美人) /권상인]]></title>
         <id>https://v.daum.net/v/20220413221321643</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220413200922521"/>
         <updated>2022-04-13T11:16:16.664Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Korea, cultural powerhouse]]></title>
-        <id>https://v.daum.net/v/20220413200750495</id>
-        <link href="https://v.daum.net/v/20220413200750495"/>
-        <updated>2022-04-13T11:16:16.664Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:07</span>]]></content>
     </entry>
 </feed>
