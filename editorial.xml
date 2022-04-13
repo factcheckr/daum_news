@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-04-13T05:17:40.518Z</updated>
+    <updated>2022-04-13T06:23:53.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[데일리안 시사만평] 민주당 '검수완박' 초강수 출발..앞뒤가 찝찝하네]]></title>
+        <id>https://v.daum.net/v/20220413145213083</id>
+        <link href="https://v.daum.net/v/20220413145213083"/>
+        <updated>2022-04-13T06:23:36.253Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">14:52</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[언론은 무엇을 보고 들었는가]]></title>
         <id>https://v.daum.net/v/20220413121129986</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220413111857987</id>
         <link href="https://v.daum.net/v/20220413111857987"/>
         <updated>2022-04-13T03:05:07.143Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] BTS 병역특례 정치권이 더 부추기는 것은 아닌가]]></title>
-        <id>https://v.daum.net/v/20220413111856986</id>
-        <link href="https://v.daum.net/v/20220413111856986"/>
-        <updated>2022-04-13T03:05:07.144Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:18</span>]]></content>
     </entry>
 </feed>
