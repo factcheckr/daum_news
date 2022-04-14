@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-04-14T10:21:15.243Z</updated>
+    <updated>2022-04-14T11:16:29.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[여적] 왕(王)장관]]></title>
+        <id>https://v.daum.net/v/20220414201038892</id>
+        <link href="https://v.daum.net/v/20220414201038892"/>
+        <updated>2022-04-14T11:16:14.197Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[죽이는 이야기 [백승주의 언어의 서식지]]]></title>
+        <id>https://v.daum.net/v/20220414200018650</id>
+        <link href="https://v.daum.net/v/20220414200018650"/>
+        <updated>2022-04-14T11:16:14.197Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">20:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지구와 함께 아파하는 예술 [조은아의 낮은음자리표]]]></title>
+        <id>https://v.daum.net/v/20220414200013642</id>
+        <link href="https://v.daum.net/v/20220414200013642"/>
+        <updated>2022-04-14T11:16:14.209Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">20:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4월 15일 한겨레 그림판]]></title>
         <id>https://v.daum.net/v/20220414190606065</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220414184000437"/>
         <updated>2022-04-14T10:20:57.496Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">18:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[강남시선] '내각인사·정부조직' 관전법]]></title>
-        <id>https://v.daum.net/v/20220414183954434</id>
-        <link href="https://v.daum.net/v/20220414183954434"/>
-        <updated>2022-04-14T10:20:57.497Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">18:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[fn사설] 기업인 빠진 윤석열 1기 내각, 아쉽다]]></title>
-        <id>https://v.daum.net/v/20220414183946432</id>
-        <link href="https://v.daum.net/v/20220414183946432"/>
-        <updated>2022-04-14T10:20:57.498Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">18:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서초포럼] 사월이 가장 잔인하다고?]]></title>
-        <id>https://v.daum.net/v/20220414183943431</id>
-        <link href="https://v.daum.net/v/20220414183943431"/>
-        <updated>2022-04-14T10:20:57.500Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">18:39</span>]]></content>
     </entry>
 </feed>
