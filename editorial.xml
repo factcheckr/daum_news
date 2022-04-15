@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-04-15T06:23:18.889Z</updated>
+    <updated>2022-04-15T07:18:45.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사설] 반가운 신구 권력 인사협치, 더 이상 잡음 없어야]]></title>
+        <id>https://v.daum.net/v/20220415154608851</id>
+        <link href="https://v.daum.net/v/20220415154608851"/>
+        <updated>2022-04-15T07:18:29.262Z</updated>
+        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">15:46</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[fn사설] 757일만의 거리두기 해제, 재시행도 각오해야]]></title>
+        <id>https://v.daum.net/v/20220415154500819</id>
+        <link href="https://v.daum.net/v/20220415154500819"/>
+        <updated>2022-04-15T07:18:29.263Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:44</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[데스크칼럼]5G, 밖에서는 최고라는데..]]></title>
         <id>https://v.daum.net/v/20220415145700192</id>
@@ -34,7 +48,7 @@
         <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">14:18</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[장애인의 한 걸음에 '이기적이고 시끄럽다'고 할 수 있나]]></title>
+        <title type="html"><![CDATA[이준석에 대한 장애인권리예산 설명회 <썰전 라이브>를 보고..]]></title>
         <id>https://v.daum.net/v/20220415140854534</id>
         <link href="https://v.daum.net/v/20220415140854534"/>
         <updated>2022-04-15T05:23:01.989Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220415114517337"/>
         <updated>2022-04-15T03:36:18.727Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<시론>'양날의 칼' 한동훈]]></title>
-        <id>https://v.daum.net/v/20220415114034173</id>
-        <link href="https://v.daum.net/v/20220415114034173"/>
-        <updated>2022-04-15T03:36:18.731Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<뉴스와 시각>'통계데이터처' 신설 급하다]]></title>
-        <id>https://v.daum.net/v/20220415114032171</id>
-        <link href="https://v.daum.net/v/20220415114032171"/>
-        <updated>2022-04-15T03:36:18.731Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:40</span>]]></content>
     </entry>
 </feed>
