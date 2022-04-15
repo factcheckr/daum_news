@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-04-15T04:38:50.400Z</updated>
+    <updated>2022-04-15T05:23:18.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[기자수첩]구글 인앱결제 '꼼수'에 뒤통수 맞은 韓기업들]]></title>
+        <id>https://v.daum.net/v/20220415141852831</id>
+        <link href="https://v.daum.net/v/20220415141852831"/>
+        <updated>2022-04-15T05:23:01.988Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">14:18</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장애인의 한 걸음에 '이기적이고 시끄럽다'고 할 수 있나]]></title>
+        <id>https://v.daum.net/v/20220415140854534</id>
+        <link href="https://v.daum.net/v/20220415140854534"/>
+        <updated>2022-04-15T05:23:01.989Z</updated>
+        <content type="html"><![CDATA[프레시안<span class="txt_bar"> · </span><span class="info_time">14:08</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[시시비비] 콘텐츠 업계의 이중잣대]]></title>
         <id>https://v.daum.net/v/20220415130852015</id>
@@ -25,13 +39,6 @@
         <link href="https://v.daum.net/v/20220415122450253"/>
         <updated>2022-04-15T03:36:18.722Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">12:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신한銀, 예·적금 금리 최고 0.4%P 인상]]></title>
-        <id>https://v.daum.net/v/20220415120522870</id>
-        <link href="https://v.daum.net/v/20220415120522870"/>
-        <updated>2022-04-15T03:36:18.723Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">12:05</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<사설>檢 "검수완박 땐 대장동 수사 중단"..민주당 끝내 法 발의]]></title>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220415113023838</id>
         <link href="https://v.daum.net/v/20220415113023838"/>
         <updated>2022-04-15T03:36:18.736Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<문화논단>스타트업 정책 업그레이드의 바른길]]></title>
-        <id>https://v.daum.net/v/20220415113018828</id>
-        <link href="https://v.daum.net/v/20220415113018828"/>
-        <updated>2022-04-15T03:36:18.737Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:30</span>]]></content>
     </entry>
 </feed>
