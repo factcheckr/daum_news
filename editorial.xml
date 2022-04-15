@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-04-15T11:16:15.276Z</updated>
+    <updated>2022-04-15T12:30:35.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[시청자브리핑 시시콜콜] 최대 두 살 어려지는 '만 나이' 통일]]></title>
+        <id>https://v.daum.net/v/20220415210409377</id>
+        <link href="https://v.daum.net/v/20220415210409377"/>
+        <updated>2022-04-15T12:30:19.378Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">21:04</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] '상식·공정' 반하는 정호영 사태, 윤 당선인 결자해지해야]]></title>
         <id>https://v.daum.net/v/20220415200925543</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220415162242000"/>
         <updated>2022-04-15T08:22:58.735Z</updated>
         <content type="html"><![CDATA[대구MBC<span class="txt_bar"> · </span><span class="info_time">16:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 반가운 신구 권력 인사협치, 더 이상 잡음 없어야]]></title>
-        <id>https://v.daum.net/v/20220415154608851</id>
-        <link href="https://v.daum.net/v/20220415154608851"/>
-        <updated>2022-04-15T07:18:29.262Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">15:46</span>]]></content>
     </entry>
 </feed>
