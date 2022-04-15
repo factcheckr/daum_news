@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-04-15T22:18:45.764Z</updated>
+    <updated>2022-04-15T23:19:25.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일론 머스크가 장수에 별 관심 없는 이유[줄리아 투자노트]]]></title>
+        <id>https://v.daum.net/v/20220416073101259</id>
+        <link href="https://v.daum.net/v/20220416073101259"/>
+        <updated>2022-04-15T23:19:09.229Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">07:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이한주의 테크 오디세이] 디지털플랫폼 정부, 보안에 성패 달렸다]]></title>
         <id>https://v.daum.net/v/20220416070048039</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220416040300860"/>
         <updated>2022-04-15T19:17:02.986Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 검찰총장 면담 피하며 침묵 文, '비리 덮기 法' 찬성하는 건가]]></title>
-        <id>https://v.daum.net/v/20220416032614823</id>
-        <link href="https://v.daum.net/v/20220416032614823"/>
-        <updated>2022-04-15T19:17:02.994Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:26</span>]]></content>
     </entry>
 </feed>
