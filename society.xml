@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/society</id>
     <title>다음 뉴스 ─ 전체기사 ─ 사회</title>
-    <updated>2022-04-16T17:19:31.346Z</updated>
+    <updated>2022-04-16T18:21:52.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['항공우주청' 어디로 갈까..경남·대전 유치 열전]]></title>
+        <id>https://v.daum.net/v/20220417022810311</id>
+        <link href="https://v.daum.net/v/20220417022810311"/>
+        <updated>2022-04-16T18:20:37.544Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">02:28</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장절공 신숭겸 장군단 성역화 기념비 제막]]></title>
         <id>https://v.daum.net/v/20220417012302258</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220417000650881"/>
         <updated>2022-04-16T15:17:55.310Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["정부는 대체 뭘 했나, 숟가락만 올려.." 세월호 생존자의 호소]]></title>
-        <id>https://v.daum.net/v/20220417000440862</id>
-        <link href="https://v.daum.net/v/20220417000440862"/>
-        <updated>2022-04-16T15:17:55.311Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
     </entry>
 </feed>
