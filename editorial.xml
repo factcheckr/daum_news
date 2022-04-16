@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-04-16T05:16:56.826Z</updated>
+    <updated>2022-04-16T06:22:13.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[기고] AI에 절대적인 데이터..거래 활성화 플랫폼 필요]]></title>
+        <id>https://v.daum.net/v/20220416144518451</id>
+        <link href="https://v.daum.net/v/20220416144518451"/>
+        <updated>2022-04-16T06:21:58.388Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">14:45</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이 한편의 시조] 바람개비/최옥자]]></title>
         <id>https://v.daum.net/v/20220416132539583</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220416070042032"/>
         <updated>2022-04-15T22:18:30.945Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['김광현이 또?'..AG 와일드카드 둘러싼 불편한 시선 [김평호의 인상팍!]]]></title>
-        <id>https://v.daum.net/v/20220416070000978</id>
-        <link href="https://v.daum.net/v/20220416070000978"/>
-        <updated>2022-04-15T22:18:30.946Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
     </entry>
 </feed>
