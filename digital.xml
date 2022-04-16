@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-04-16T13:25:14.082Z</updated>
+    <updated>2022-04-16T14:17:28.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['그것이 알고 싶다' 꿀벌실종사건, 군집붕괴현상이란]]></title>
+        <id>https://v.daum.net/v/20220416231007460</id>
+        <link href="https://v.daum.net/v/20220416231007460"/>
+        <updated>2022-04-16T14:17:04.195Z</updated>
+        <content type="html"><![CDATA[스포츠한국<span class="txt_bar"> · </span><span class="info_time">23:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지난해 거래규모 15조 NFT 용어 파헤치기]]></title>
+        <id>https://v.daum.net/v/20220416225755350</id>
+        <link href="https://v.daum.net/v/20220416225755350"/>
+        <updated>2022-04-16T14:17:04.195Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">22:57</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["넷플릭스 쫓다 손실만 수백억원인데" 밥그릇 싸움 '이것']]></title>
         <id>https://v.daum.net/v/20220416205135354</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220416170008925"/>
         <updated>2022-04-16T08:22:34.871Z</updated>
         <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">17:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주홍수의 삼라만상 62] 산동네의 풍악, 별표전축 그리고 딥 퍼플]]></title>
-        <id>https://v.daum.net/v/20220416165602887</id>
-        <link href="https://v.daum.net/v/20220416165602887"/>
-        <updated>2022-04-16T08:22:34.879Z</updated>
-        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">16:56</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['중국판 우주정거장' 만들던 中 우주비행사 6개월 만에 무사 귀환]]></title>
-        <id>https://v.daum.net/v/20220416165602886</id>
-        <link href="https://v.daum.net/v/20220416165602886"/>
-        <updated>2022-04-16T08:22:34.880Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">16:56</span>]]></content>
     </entry>
 </feed>
