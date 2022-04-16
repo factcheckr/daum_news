@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-04-16T03:31:20.326Z</updated>
+    <updated>2022-04-16T04:23:56.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[경남 하동 술상항·중평항 어촌뉴딜사업 완료]]></title>
+        <id>https://v.daum.net/v/20220416131837540</id>
+        <link href="https://v.daum.net/v/20220416131837540"/>
+        <updated>2022-04-16T04:23:47.134Z</updated>
+        <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">13:18</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] SonoScape, HD-550 내시경 시스템에 대한 FDA 510(k) 승인 획득]]></title>
         <id>https://v.daum.net/v/20220416122808173</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220416085330829"/>
         <updated>2022-04-16T01:16:08.331Z</updated>
         <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">08:53</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동해안 작은 어촌마을, 도깨비·커피로 '금싸라기 땅' 됐다]]></title>
-        <id>https://v.daum.net/v/20220416084910792</id>
-        <link href="https://v.daum.net/v/20220416084910792"/>
-        <updated>2022-04-16T01:16:08.333Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">08:49</span>]]></content>
     </entry>
 </feed>
