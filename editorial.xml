@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-04-17T22:20:52.861Z</updated>
+    <updated>2022-04-17T23:19:46.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[한강로에서] "큰일 났다 봄이 왔다"]]></title>
+        <id>https://v.daum.net/v/20220418080202916</id>
+        <link href="https://v.daum.net/v/20220418080202916"/>
+        <updated>2022-04-17T23:19:27.600Z</updated>
+        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">08:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](18일 조간)]]></title>
+        <id>https://v.daum.net/v/20220418080016841</id>
+        <link href="https://v.daum.net/v/20220418080016841"/>
+        <updated>2022-04-17T23:19:27.609Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대일논단] 건강검진을 대하는 자세]]></title>
         <id>https://v.daum.net/v/20220418071220109</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220418055526112"/>
         <updated>2022-04-17T21:16:40.918Z</updated>
         <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">05:55</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["권력은 총구에서 나오는 게 아니다" [특파원 칼럼]]]></title>
-        <id>https://v.daum.net/v/20220418051501736</id>
-        <link href="https://v.daum.net/v/20220418051501736"/>
-        <updated>2022-04-17T20:18:52.704Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">05:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김종대의 한반도 시계] 우크라이나 지원, 가장 무서운 시나리오/ 전 국회의원·군사전문가]]></title>
-        <id>https://v.daum.net/v/20220418050825674</id>
-        <link href="https://v.daum.net/v/20220418050825674"/>
-        <updated>2022-04-17T20:18:52.706Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
     </entry>
 </feed>
