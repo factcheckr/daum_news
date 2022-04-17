@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-04-17T16:25:14.427Z</updated>
+    <updated>2022-04-17T17:19:59.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]'자유민주주의'라는 정치언어의 생명력]]></title>
+        <id>https://v.daum.net/v/20220418020201716</id>
+        <link href="https://v.daum.net/v/20220418020201716"/>
+        <updated>2022-04-17T17:19:38.678Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이하경 칼럼] '바보 윤석열'을 보고 싶다]]></title>
         <id>https://v.daum.net/v/20220418004225455</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220418001951353</id>
         <link href="https://v.daum.net/v/20220418001951353"/>
         <updated>2022-04-17T16:24:53.509Z</updated>
-        <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">00:19</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이동순의 부산 가요 이야기] <47> 가수 남백송을 키워준 부산]]></title>
-        <id>https://v.daum.net/v/20220418001933345</id>
-        <link href="https://v.daum.net/v/20220418001933345"/>
-        <updated>2022-04-17T16:24:53.511Z</updated>
         <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">00:19</span>]]></content>
     </entry>
 </feed>
