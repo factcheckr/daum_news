@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-04-18T16:27:57.533Z</updated>
+    <updated>2022-04-18T17:24:22.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]규제 전담기구 설치보다 역할을 고민하라]]></title>
+        <id>https://v.daum.net/v/20220419020502121</id>
+        <link href="https://v.daum.net/v/20220419020502121"/>
+        <updated>2022-04-18T17:24:07.629Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정유신의 China Story]미중 금리차 더 확대되면..]]></title>
+        <id>https://v.daum.net/v/20220419020300115</id>
+        <link href="https://v.daum.net/v/20220419020300115"/>
+        <updated>2022-04-18T17:24:07.629Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[송호근의 세사필담] 유배형에서 살아온 사람은 겁이 없다]]></title>
         <id>https://v.daum.net/v/20220419004728698</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220419002226568"/>
         <updated>2022-04-18T16:27:41.251Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김기찬의 인프라] 농·어업·식당, 최저임금 각각 다르게 적용 가능할까]]></title>
-        <id>https://v.daum.net/v/20220419002037565</id>
-        <link href="https://v.daum.net/v/20220419002037565"/>
-        <updated>2022-04-18T16:27:41.251Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[살해 위협에도 금리 20%로 인상.. 3년 만에 인플레 잡았다]]></title>
-        <id>https://v.daum.net/v/20220419002011562</id>
-        <link href="https://v.daum.net/v/20220419002011562"/>
-        <updated>2022-04-18T16:27:41.252Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:20</span>]]></content>
     </entry>
 </feed>
