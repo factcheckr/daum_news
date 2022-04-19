@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-04-19T22:21:24.961Z</updated>
+    <updated>2022-04-19T23:17:22.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](20일 조간)]]></title>
+        <id>https://v.daum.net/v/20220420080007612</id>
+        <link href="https://v.daum.net/v/20220420080007612"/>
+        <updated>2022-04-19T23:17:03.237Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에어버스의 수소로 날기, 성공할까]]></title>
+        <id>https://v.daum.net/v/20220420080003607</id>
+        <link href="https://v.daum.net/v/20220420080003607"/>
+        <updated>2022-04-19T23:17:03.240Z</updated>
+        <content type="html"><![CDATA[오토타임즈<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[상식에서 벗어나면 국민은 등을 돌린다[광화문]]]></title>
+        <id>https://v.daum.net/v/20220420073444233</id>
+        <link href="https://v.daum.net/v/20220420073444233"/>
+        <updated>2022-04-19T23:17:03.241Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">07:34</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다시 핫플레이스 된 '가짜사나이'의 인스타그램]]></title>
         <id>https://v.daum.net/v/20220420071817008</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220420060017671"/>
         <updated>2022-04-19T21:17:18.836Z</updated>
         <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기고]분열에서 협치의 길로 가는 첫 걸음]]></title>
-        <id>https://v.daum.net/v/20220420055001547</id>
-        <link href="https://v.daum.net/v/20220420055001547"/>
-        <updated>2022-04-19T21:17:18.837Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">05:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안미현 칼럼] 어퍼컷과 계란말이는 이제 잊어라/수석논설위원]]></title>
-        <id>https://v.daum.net/v/20220420050821115</id>
-        <link href="https://v.daum.net/v/20220420050821115"/>
-        <updated>2022-04-19T20:21:14.540Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[씨줄날줄] BTS시티/서동철 논설위원]]></title>
-        <id>https://v.daum.net/v/20220420050820114</id>
-        <link href="https://v.daum.net/v/20220420050820114"/>
-        <updated>2022-04-19T20:21:14.540Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
     </entry>
 </feed>
