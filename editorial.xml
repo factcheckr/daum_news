@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-04-19T12:36:57.152Z</updated>
+    <updated>2022-04-19T13:38:01.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[생존율 10% 암에서 살아남은 비결 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20220419220041765</id>
+        <link href="https://v.daum.net/v/20220419220041765"/>
+        <updated>2022-04-19T13:37:40.614Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김용민의 그림마당 쉽니다.]]></title>
+        <id>https://v.daum.net/v/20220419215814692</id>
+        <link href="https://v.daum.net/v/20220419215814692"/>
+        <updated>2022-04-19T13:37:40.614Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">21:58</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[데스크의눈]인수위 한달..부동산정책 실종 사태]]></title>
         <id>https://v.daum.net/v/20220419210003718</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220419194713322"/>
         <updated>2022-04-19T11:17:03.435Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don't bury heads in the sand]]></title>
-        <id>https://v.daum.net/v/20220419194413251</id>
-        <link href="https://v.daum.net/v/20220419194413251"/>
-        <updated>2022-04-19T11:17:03.437Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:44</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lack of vision for tomorrow]]></title>
-        <id>https://v.daum.net/v/20220419194213229</id>
-        <link href="https://v.daum.net/v/20220419194213229"/>
-        <updated>2022-04-19T11:17:03.438Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:42</span>]]></content>
     </entry>
 </feed>
