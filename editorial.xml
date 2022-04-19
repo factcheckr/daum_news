@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-04-19T05:25:53.630Z</updated>
+    <updated>2022-04-19T06:24:32.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안전한 온라인 세상을 위한 장치, 알아두니 안심!]]></title>
+        <id>https://v.daum.net/v/20220419143509676</id>
+        <link href="https://v.daum.net/v/20220419143509676"/>
+        <updated>2022-04-19T06:24:15.633Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">14:35</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['이 또한 지나가리라'의 숨은 뜻은?]]></title>
+        <id>https://v.daum.net/v/20220419142603330</id>
+        <link href="https://v.daum.net/v/20220419142603330"/>
+        <updated>2022-04-19T06:24:15.634Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">14:26</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[현대엔지니어링, 봄맞이 물품기증 캠페인]]></title>
         <id>https://v.daum.net/v/20220419141303817</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220419113901454"/>
         <updated>2022-04-19T03:25:47.466Z</updated>
         <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">11:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<시평>민주당 입법 횡포, 대선 민의 왜곡한다]]></title>
-        <id>https://v.daum.net/v/20220419113524247</id>
-        <link href="https://v.daum.net/v/20220419113524247"/>
-        <updated>2022-04-19T03:25:47.467Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<뉴스와 시각>부커賞과 새로운 문화문법]]></title>
-        <id>https://v.daum.net/v/20220419113523246</id>
-        <link href="https://v.daum.net/v/20220419113523246"/>
-        <updated>2022-04-19T03:25:47.468Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:35</span>]]></content>
     </entry>
 </feed>
