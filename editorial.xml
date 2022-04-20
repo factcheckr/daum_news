@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-04-20T04:49:09.028Z</updated>
+    <updated>2022-04-20T05:36:07.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국 정치가 경계해야 할 적, 자연스러움]]></title>
+        <id>https://v.daum.net/v/20220420135611614</id>
+        <link href="https://v.daum.net/v/20220420135611614"/>
+        <updated>2022-04-20T05:35:52.411Z</updated>
+        <content type="html"><![CDATA[미디어오늘<span class="txt_bar"> · </span><span class="info_time">13:56</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[데일리안 시사만평] 노정희 선관위원장 증거인멸 기간 벌기?..소쿠리 어디다 팔지?]]></title>
+        <id>https://v.daum.net/v/20220420135207486</id>
+        <link href="https://v.daum.net/v/20220420135207486"/>
+        <updated>2022-04-20T05:35:52.412Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">13:52</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[시론]실효성 있는 원자재 공급망 절실하다]]></title>
         <id>https://v.daum.net/v/20220420134508239</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220420113018494"/>
         <updated>2022-04-20T03:42:26.344Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<오후여담>재즈보컬리스트 웅산]]></title>
-        <id>https://v.daum.net/v/20220420112518230</id>
-        <link href="https://v.daum.net/v/20220420112518230"/>
-        <updated>2022-04-20T03:42:26.345Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[남산사색] 오심이 경기의 일부?]]></title>
-        <id>https://v.daum.net/v/20220420111805855</id>
-        <link href="https://v.daum.net/v/20220420111805855"/>
-        <updated>2022-04-20T03:42:26.346Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:18</span>]]></content>
     </entry>
 </feed>
