@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-04-20T20:21:42.142Z</updated>
+    <updated>2022-04-20T21:17:14.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[과학게시판]하나로·양성자가속기 국내 최초로 반도체 검사 표준에 등재 外]]></title>
+        <id>https://v.daum.net/v/20220421060025660</id>
+        <link href="https://v.daum.net/v/20220421060025660"/>
+        <updated>2022-04-20T21:17:05.851Z</updated>
+        <content type="html"><![CDATA[동아사이언스<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[목요단상] 이장과 면장과 군수..장애인고용 지역사회 함께 노력해야]]></title>
         <id>https://v.daum.net/v/20220421001035637</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220421000459523</id>
         <link href="https://v.daum.net/v/20220421000459523"/>
         <updated>2022-04-20T15:21:59.977Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[국민의 기업] 자동차검사 제도 개선 통해 안전한 운행환경 조성 앞장]]></title>
-        <id>https://v.daum.net/v/20220421000456522</id>
-        <link href="https://v.daum.net/v/20220421000456522"/>
-        <updated>2022-04-20T15:21:59.978Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
     </entry>
 </feed>
