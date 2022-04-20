@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-04-20T12:35:37.311Z</updated>
+    <updated>2022-04-20T13:36:44.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[순한 사람들이 '독하다 토요일'에 모인다 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20220420220013508</id>
+        <link href="https://v.daum.net/v/20220420220013508"/>
+        <updated>2022-04-20T13:36:29.074Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DP's reckless moves continue]]></title>
         <id>https://v.daum.net/v/20220420203804936</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220420200241231"/>
         <updated>2022-04-20T11:16:44.086Z</updated>
         <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">20:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[권태호의 저널리즘책무실] <한겨레>는 왜 '당선자'라고 쓰나?]]></title>
-        <id>https://v.daum.net/v/20220420195605063</id>
-        <link href="https://v.daum.net/v/20220420195605063"/>
-        <updated>2022-04-20T11:16:44.087Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:56</span>]]></content>
     </entry>
 </feed>
