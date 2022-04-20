@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-04-20T22:19:21.368Z</updated>
+    <updated>2022-04-20T23:20:57.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사랑의바이올린 채러티콘서트 '희망' 개최]]></title>
+        <id>https://v.daum.net/v/20220421080703555</id>
+        <link href="https://v.daum.net/v/20220421080703555"/>
+        <updated>2022-04-20T23:20:48.936Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">08:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우리나라-개도국, 항공전문교육 협력의 장을 다시 연다!]]></title>
         <id>https://v.daum.net/v/20220421063527170</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220421000527537</id>
         <link href="https://v.daum.net/v/20220421000527537"/>
         <updated>2022-04-20T15:21:59.970Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[국민의 기업] [기고] 산업정책과 중소기업 정책의 패러다임 전환이 필요하다]]></title>
-        <id>https://v.daum.net/v/20220421000505527</id>
-        <link href="https://v.daum.net/v/20220421000505527"/>
-        <updated>2022-04-20T15:21:59.971Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
     </entry>
 </feed>
