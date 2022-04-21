@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-04-21T20:22:43.567Z</updated>
+    <updated>2022-04-21T21:17:22.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[센서타워, 포켓 게이머 모바일 게임즈 어워즈 2022 '최고의 데이터/분석 툴' 수상]]></title>
+        <id>https://v.daum.net/v/20220422060703444</id>
+        <link href="https://v.daum.net/v/20220422060703444"/>
+        <updated>2022-04-21T21:17:15.272Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">06:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대한민국농구협회, 아이쿱생협과 No플라스틱 캠페인 업무 협약 체결]]></title>
         <id>https://v.daum.net/v/20220422022414036</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220422000532386</id>
         <link href="https://v.daum.net/v/20220422000532386"/>
         <updated>2022-04-21T15:21:40.200Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[비즈스토리] 5년간 3000억 상생기금 활용..'사회와 함께하는 성장' 꿈꾼다]]></title>
-        <id>https://v.daum.net/v/20220422000527385</id>
-        <link href="https://v.daum.net/v/20220422000527385"/>
-        <updated>2022-04-21T15:21:40.202Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
     </entry>
 </feed>
