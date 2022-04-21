@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-04-21T19:14:57.553Z</updated>
+    <updated>2022-04-21T20:22:43.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AI·메타버스 기술 한자리에.. '월드 IT쇼' 성황]]></title>
+        <id>https://v.daum.net/v/20220422050743319</id>
+        <link href="https://v.daum.net/v/20220422050743319"/>
+        <updated>2022-04-21T20:22:20.559Z</updated>
+        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[건조특보 속 강풍..아침부터 수도권·강원 영서에 비 조금]]></title>
+        <id>https://v.daum.net/v/20220422050010983</id>
+        <link href="https://v.daum.net/v/20220422050010983"/>
+        <updated>2022-04-21T20:22:20.560Z</updated>
+        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">05:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[도로 위 '교통사고 사망자 수' 전광판, 오히려 운전자의 안전운전 방해한다]]></title>
         <id>https://v.daum.net/v/20220422040012390</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220422001115529"/>
         <updated>2022-04-21T15:21:23.384Z</updated>
         <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원주 한국관 재개장 상권회복 '신호탄']]></title>
-        <id>https://v.daum.net/v/20220422001038492</id>
-        <link href="https://v.daum.net/v/20220422001038492"/>
-        <updated>2022-04-21T15:21:23.385Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김아름의BUY&EAT]진짜 육식파 모여라..기름 안 튀는 삼겹살 '안주야 육즙팡팡 삼겹살']]></title>
-        <id>https://v.daum.net/v/20220422001022483</id>
-        <link href="https://v.daum.net/v/20220422001022483"/>
-        <updated>2022-04-21T15:21:23.386Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
     </entry>
 </feed>
