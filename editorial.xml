@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-04-22T16:28:43.560Z</updated>
+    <updated>2022-04-22T17:26:21.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박수홍 괴롭힌 소문들 허위사실이었나 [하재근의 이슈분석]]]></title>
+        <id>https://v.daum.net/v/20220423020202722</id>
+        <link href="https://v.daum.net/v/20220423020202722"/>
+        <updated>2022-04-22T17:26:07.570Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">02:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[에디터 프리즘] 인수위, 민생현안은 어디 있나]]></title>
         <id>https://v.daum.net/v/20220423002827348</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220423000027115</id>
         <link href="https://v.daum.net/v/20220423000027115"/>
         <updated>2022-04-22T15:21:01.899Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] '3중 경고등' 켜진 韓 경제..해법은 구조 개혁이다]]></title>
-        <id>https://v.daum.net/v/20220423000025114</id>
-        <link href="https://v.daum.net/v/20220423000025114"/>
-        <updated>2022-04-22T15:21:01.900Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>

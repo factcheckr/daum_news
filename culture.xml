@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2022-04-22T16:28:43.578Z</updated>
+    <updated>2022-04-22T17:26:21.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한인 선교사들이 바라본 유럽 선교의 과제와 전망]]></title>
+        <id>https://v.daum.net/v/20220423020600727</id>
+        <link href="https://v.daum.net/v/20220423020600727"/>
+        <updated>2022-04-22T17:25:40.257Z</updated>
+        <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">02:06</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[초보농부들을 위한  '귀농 귀촌인을 위한 실전 텃밭 가꾸기' 출간]]></title>
         <id>https://v.daum.net/v/20220423010413557</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220423002308317"/>
         <updated>2022-04-22T16:27:59.248Z</updated>
         <content type="html"><![CDATA[중앙SUNDAY<span class="txt_bar"> · </span><span class="info_time">00:23</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카사노바, 권태 달래려 와인 즐기며 하루 13시간 글 써]]></title>
-        <id>https://v.daum.net/v/20220423002258316</id>
-        <link href="https://v.daum.net/v/20220423002258316"/>
-        <updated>2022-04-22T16:27:59.248Z</updated>
-        <content type="html"><![CDATA[중앙SUNDAY<span class="txt_bar"> · </span><span class="info_time">00:22</span>]]></content>
     </entry>
 </feed>
