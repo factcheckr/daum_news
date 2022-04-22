@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-04-22T10:22:26.939Z</updated>
+    <updated>2022-04-22T11:17:07.368Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[여적] 2030 부산 엑스포]]></title>
+        <id>https://v.daum.net/v/20220422200720882</id>
+        <link href="https://v.daum.net/v/20220422200720882"/>
+        <updated>2022-04-22T11:16:50.475Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 여야 '수사-기소권 분리 중재안' 극적 합의, 차질 없이 이행해야]]></title>
         <id>https://v.daum.net/v/20220422190608767</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220422142048879"/>
         <updated>2022-04-22T05:36:52.398Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">14:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이슈& 이슈 따라잡기] 與 민형배 '위장 탈당' 꼼수까지 동원해 법사위 '알박기'..민주당내도 거센 역풍]]></title>
-        <id>https://v.daum.net/v/20220422140312202</id>
-        <link href="https://v.daum.net/v/20220422140312202"/>
-        <updated>2022-04-22T05:36:52.399Z</updated>
-        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">14:03</span>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-04-22T10:22:26.931Z</updated>
+    <updated>2022-04-22T11:17:07.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국민의힘 속초시장 경선 분위기 가열]]></title>
+        <id>https://v.daum.net/v/20220422201501031</id>
+        <link href="https://v.daum.net/v/20220422201501031"/>
+        <updated>2022-04-22T11:16:58.280Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">20:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[설명] "정부가 표준건축비를 6년만에 인상하기로 결정하고 인상폭을 조율하고 있다"는 보도는 사실과 다릅니다.]]></title>
+        <id>https://v.daum.net/v/20220422200527851</id>
+        <link href="https://v.daum.net/v/20220422200527851"/>
+        <updated>2022-04-22T11:16:58.281Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">20:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[산림청, 라오스 온실가스감축사업 준 국가 규모로 확대키로]]></title>
         <id>https://v.daum.net/v/20220422190535752</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220422180600602"/>
         <updated>2022-04-22T09:20:02.086Z</updated>
         <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">18:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창원24시] 창원시, 동읍·북면에 어르신 쉼터 마련]]></title>
-        <id>https://v.daum.net/v/20220422180403560</id>
-        <link href="https://v.daum.net/v/20220422180403560"/>
-        <updated>2022-04-22T09:20:02.088Z</updated>
-        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">18:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] BRI Group Moves Towards Financial Inclusion by Supporting Women]]></title>
-        <id>https://v.daum.net/v/20220422175846407</id>
-        <link href="https://v.daum.net/v/20220422175846407"/>
-        <updated>2022-04-22T09:20:02.088Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:58</span>]]></content>
     </entry>
 </feed>
