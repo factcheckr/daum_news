@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-04-23T06:22:20.932Z</updated>
+    <updated>2022-04-23T07:19:05.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 딥브레인AI, AI휴먼(가상 인간) 솔루션으로 일본 진출]]></title>
+        <id>https://v.daum.net/v/20220423161836849</id>
+        <link href="https://v.daum.net/v/20220423161836849"/>
+        <updated>2022-04-23T07:18:57.062Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:18</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] 카롤 G, 2022년 첫 번째 공식 싱글 "PROVENZA" 발매로 새로운]]></title>
         <id>https://v.daum.net/v/20220423135456113</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220423093303092"/>
         <updated>2022-04-23T01:20:53.898Z</updated>
         <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">09:33</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] KAROL G EXPLORES A FUSION OF NEW SOUNDS IN THE RELEASE OF HER]]></title>
-        <id>https://v.daum.net/v/20220423092146956</id>
-        <link href="https://v.daum.net/v/20220423092146956"/>
-        <updated>2022-04-23T01:20:53.898Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">09:21</span>]]></content>
     </entry>
 </feed>
