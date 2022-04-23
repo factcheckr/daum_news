@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-04-23T13:26:48.578Z</updated>
+    <updated>2022-04-23T14:17:35.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[명의를 찾아서] H+양지병원 이상환 과장 "X선으로 혈관 찾아 염증 없애는 '타미', 한번 시술로 3~4년 통증 없애"]]></title>
+        <id>https://v.daum.net/v/20220423231352529</id>
+        <link href="https://v.daum.net/v/20220423231352529"/>
+        <updated>2022-04-23T14:17:11.224Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">23:13</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['세계 언론 팩트체크와 언론자율규제 현황 논의'..WJC]]></title>
+        <id>https://v.daum.net/v/20220423224654389</id>
+        <link href="https://v.daum.net/v/20220423224654389"/>
+        <updated>2022-04-23T14:17:11.224Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">22:46</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부음]최승락(케이사인 대표이사)씨 부친상]]></title>
         <id>https://v.daum.net/v/20220423210311577</id>
@@ -27,7 +41,7 @@
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">19:51</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["이제 이분들 못 보나?" 넷플릭스 '돈줄' 마른다]]></title>
+        <title type="html"><![CDATA["주가 폭락하고 난리 나더니.." 넷플릭스, 한국 드라마 '돈줄' 조인다?]]></title>
         <id>https://v.daum.net/v/20220423194551793</id>
         <link href="https://v.daum.net/v/20220423194551793"/>
         <updated>2022-04-23T11:15:54.393Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220423172844479"/>
         <updated>2022-04-23T09:17:38.878Z</updated>
         <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">17:28</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["걷기만 해도 하루 60만원" 쏠쏠한 용돈벌이 돌연 퇴출?]]></title>
-        <id>https://v.daum.net/v/20220423164527058</id>
-        <link href="https://v.daum.net/v/20220423164527058"/>
-        <updated>2022-04-23T08:21:58.383Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">16:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부고]장경민(한국배구연맹 홍보팀장)씨 장인상]]></title>
-        <id>https://v.daum.net/v/20220423163543982</id>
-        <link href="https://v.daum.net/v/20220423163543982"/>
-        <updated>2022-04-23T08:21:58.392Z</updated>
-        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">16:35</span>]]></content>
     </entry>
 </feed>
