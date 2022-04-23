@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-04-23T11:16:17.321Z</updated>
+    <updated>2022-04-23T12:30:02.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[벽안에 비친 한국]한국외교 혁신은 유치원 교육부터]]></title>
+        <id>https://v.daum.net/v/20220423203659377</id>
+        <link href="https://v.daum.net/v/20220423203659377"/>
+        <updated>2022-04-23T12:29:46.565Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">20:36</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부고] 장경민(한국배구연맹 홍보팀장)씨 장인상]]></title>
         <id>https://v.daum.net/v/20220423175636770</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220423080605245"/>
         <updated>2022-04-22T23:18:50.202Z</updated>
         <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">08:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[영상] 승강장 틈에 낀 휠체어 바퀴..지하철도 위험했다]]></title>
-        <id>https://v.daum.net/v/20220423074735050</id>
-        <link href="https://v.daum.net/v/20220423074735050"/>
-        <updated>2022-04-22T23:18:50.203Z</updated>
-        <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">07:47</span>]]></content>
     </entry>
 </feed>
