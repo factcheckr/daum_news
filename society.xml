@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/society</id>
     <title>다음 뉴스 ─ 전체기사 ─ 사회</title>
-    <updated>2022-04-23T18:21:38.273Z</updated>
+    <updated>2022-04-23T19:16:06.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인천 아침 짙은 안개로 이슬비..한낮 초여름 날씨]]></title>
+        <id>https://v.daum.net/v/20220424040019137</id>
+        <link href="https://v.daum.net/v/20220424040019137"/>
+        <updated>2022-04-23T19:14:45.413Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한낮 '20도 이상' 초여름 더위..수도권 미세먼지 '나쁨']]></title>
+        <id>https://v.daum.net/v/20220424040018136</id>
+        <link href="https://v.daum.net/v/20220424040018136"/>
+        <updated>2022-04-23T19:14:45.413Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["계곡 동행인 '이은해, 보험사기 언급..남편 죽였다'더라"]]></title>
         <id>https://v.daum.net/v/20220424031801062</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220424012100981"/>
         <updated>2022-04-23T16:24:30.319Z</updated>
         <content type="html"><![CDATA[SBS<span class="txt_bar"> · </span><span class="info_time">01:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이은해, 도망자 보다는 여행자처럼 지내..최측근에 도주생활 도움받아"]]></title>
-        <id>https://v.daum.net/v/20220424011426976</id>
-        <link href="https://v.daum.net/v/20220424011426976"/>
-        <updated>2022-04-23T16:24:30.319Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">01:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울 강서구 아파트에서 60대 여성 묶인 상태로 숨진 채 발견..타살 추정]]></title>
-        <id>https://v.daum.net/v/20220424010412944</id>
-        <link href="https://v.daum.net/v/20220424010412944"/>
-        <updated>2022-04-23T16:24:30.319Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">01:04</span>]]></content>
     </entry>
 </feed>
