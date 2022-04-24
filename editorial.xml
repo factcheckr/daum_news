@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-04-24T07:19:08.235Z</updated>
+    <updated>2022-04-24T08:22:56.997Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[한상춘의 국제경제 읽기] 1240원마저 넘어선 환율..그 끝은 어딜까?]]></title>
+        <id>https://v.daum.net/v/20220424165900146</id>
+        <link href="https://v.daum.net/v/20220424165900146"/>
+        <updated>2022-04-24T08:22:42.646Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">16:59</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[유레카] 박용만, 윤석열과 정치 /곽정수]]></title>
+        <id>https://v.daum.net/v/20220424163604736</id>
+        <link href="https://v.daum.net/v/20220424163604736"/>
+        <updated>2022-04-24T08:22:42.646Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">16:36</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[모두를 위한 차별금지법]]></title>
         <id>https://v.daum.net/v/20220424160610143</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220424081346773"/>
         <updated>2022-04-23T23:19:56.574Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">08:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[투데이 窓] 스타트업 유인으로 지역균형발전 도모해야]]></title>
-        <id>https://v.daum.net/v/20220424080003607</id>
-        <link href="https://v.daum.net/v/20220424080003607"/>
-        <updated>2022-04-23T23:19:56.575Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현재는 아름다워' 윤시윤-오민석-서범준, 결혼 프로젝트 '급물살']]></title>
-        <id>https://v.daum.net/v/20220424074854552</id>
-        <link href="https://v.daum.net/v/20220424074854552"/>
-        <updated>2022-04-23T23:19:56.576Z</updated>
-        <content type="html"><![CDATA[스포츠한국<span class="txt_bar"> · </span><span class="info_time">07:48</span>]]></content>
     </entry>
 </feed>
