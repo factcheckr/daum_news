@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-04-24T21:16:32.251Z</updated>
+    <updated>2022-04-24T22:19:01.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국립생태원, 한반도의 범과 생태계 기획전 개최]]></title>
+        <id>https://v.daum.net/v/20220425063529618</id>
+        <link href="https://v.daum.net/v/20220425063529618"/>
+        <updated>2022-04-24T22:18:52.590Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">06:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[테라투어, 베트남 푸꾸옥 하롱베이 골프 여행 상품 출시]]></title>
         <id>https://v.daum.net/v/20220425060703362</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220425000506945"/>
         <updated>2022-04-24T15:19:15.269Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[건강한 가족] 노화 빠른 눈 '아이클리어'로 집중 케어]]></title>
-        <id>https://v.daum.net/v/20220425000457938</id>
-        <link href="https://v.daum.net/v/20220425000457938"/>
-        <updated>2022-04-24T15:19:15.270Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
     </entry>
 </feed>
