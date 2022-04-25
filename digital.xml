@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-04-25T13:33:35.490Z</updated>
+    <updated>2022-04-25T14:19:03.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[11번가 라방 물량도 완판..포켓몬 Z플립3 에디션 모두 팔렸다(종합3보)]]></title>
+        <id>https://v.daum.net/v/20220425231333515</id>
+        <link href="https://v.daum.net/v/20220425231333515"/>
+        <updated>2022-04-25T14:18:32.291Z</updated>
+        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">23:13</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["머스크·트위터, 인수협상 진전..곧 공식 발표"]]></title>
+        <id>https://v.daum.net/v/20220425224620317</id>
+        <link href="https://v.daum.net/v/20220425224620317"/>
+        <updated>2022-04-25T14:18:32.292Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">22:46</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부산대 조영래 교수 과학기술포장]]></title>
         <id>https://v.daum.net/v/20220425222230083</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220425202140339"/>
         <updated>2022-04-25T13:33:12.988Z</updated>
         <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">20:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카카오모빌리티, 공정위 제재 의견에 "유감..적극 소명하겠다"]]></title>
-        <id>https://v.daum.net/v/20220425202055321</id>
-        <link href="https://v.daum.net/v/20220425202055321"/>
-        <updated>2022-04-25T13:33:12.989Z</updated>
-        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">20:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연구용 원자로 '하나로' 또 고장]]></title>
-        <id>https://v.daum.net/v/20220425202013316</id>
-        <link href="https://v.daum.net/v/20220425202013316"/>
-        <updated>2022-04-25T13:33:12.990Z</updated>
-        <content type="html"><![CDATA[동아사이언스<span class="txt_bar"> · </span><span class="info_time">20:20</span>]]></content>
     </entry>
 </feed>
