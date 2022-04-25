@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-04-25T03:15:24.494Z</updated>
+    <updated>2022-04-25T04:27:30.633Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[의학칼럼] 봄철 척추 건강 예방법은?]]></title>
+        <id>https://v.daum.net/v/20220425132513961</id>
+        <link href="https://v.daum.net/v/20220425132513961"/>
+        <updated>2022-04-25T04:27:13.574Z</updated>
+        <content type="html"><![CDATA[헬스조선<span class="txt_bar"> · </span><span class="info_time">13:25</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[의학칼럼] 역대급 더위라는 올 여름, Y존 관리·몸매 관리로 여름 준비]]></title>
+        <id>https://v.daum.net/v/20220425131349711</id>
+        <link href="https://v.daum.net/v/20220425131349711"/>
+        <updated>2022-04-25T04:27:13.576Z</updated>
+        <content type="html"><![CDATA[헬스조선<span class="txt_bar"> · </span><span class="info_time">13:13</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[시시비비]메가시티, 밥그릇싸움부터 막아야]]></title>
         <id>https://v.daum.net/v/20220425120218270</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220425113600237"/>
         <updated>2022-04-25T03:15:08.059Z</updated>
         <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">11:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설]신여권 검수완박 합의 번복 기류, 우려되는 정국 재경색]]></title>
-        <id>https://v.daum.net/v/20220425111904336</id>
-        <link href="https://v.daum.net/v/20220425111904336"/>
-        <updated>2022-04-25T03:15:08.060Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:19</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데스크 칼럼] 집값 안정의 트릴레마]]></title>
-        <id>https://v.daum.net/v/20220425111844320</id>
-        <link href="https://v.daum.net/v/20220425111844320"/>
-        <updated>2022-04-25T03:15:08.061Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:18</span>]]></content>
     </entry>
 </feed>
