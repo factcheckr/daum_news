@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-04-26T22:19:17.839Z</updated>
+    <updated>2022-04-26T23:20:01.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[한밭춘추] 가지치기]]></title>
+        <id>https://v.daum.net/v/20220427080041337</id>
+        <link href="https://v.daum.net/v/20220427080041337"/>
+        <updated>2022-04-26T23:19:45.156Z</updated>
+        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](27일 조간)]]></title>
+        <id>https://v.daum.net/v/20220427080007297</id>
+        <link href="https://v.daum.net/v/20220427080007297"/>
+        <updated>2022-04-26T23:19:45.157Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[여백] 엔데믹]]></title>
+        <id>https://v.daum.net/v/20220427072858794</id>
+        <link href="https://v.daum.net/v/20220427072858794"/>
+        <updated>2022-04-26T23:19:45.158Z</updated>
+        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">07:28</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[기자수첩] 미완의 자립]]></title>
         <id>https://v.daum.net/v/20220427071237601</id>
@@ -87,27 +108,6 @@
         <id>https://v.daum.net/v/20220427050833718</id>
         <link href="https://v.daum.net/v/20220427050833718"/>
         <updated>2022-04-26T20:20:57.685Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 다시 열리는 총리 청문회, 인준 결정하는 검증 돼야]]></title>
-        <id>https://v.daum.net/v/20220427050831717</id>
-        <link href="https://v.daum.net/v/20220427050831717"/>
-        <updated>2022-04-26T20:20:57.686Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 투자 부진이 낳을 성장 정체, 규제 개혁으로 돌파를]]></title>
-        <id>https://v.daum.net/v/20220427050830715</id>
-        <link href="https://v.daum.net/v/20220427050830715"/>
-        <updated>2022-04-26T20:20:57.686Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[열린세상] 소멸돼 가는 국가의 학문, 국제해양법/양희철 한국해양과학기술원 해양법·정책연구소장]]></title>
-        <id>https://v.daum.net/v/20220427050828714</id>
-        <link href="https://v.daum.net/v/20220427050828714"/>
-        <updated>2022-04-26T20:20:57.687Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
     </entry>
 </feed>
