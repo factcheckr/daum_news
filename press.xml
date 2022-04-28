@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-04-28T22:19:19.614Z</updated>
+    <updated>2022-04-28T23:19:53.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["면접부터 합격 안내까지 하루 만에" 에스티씨랩, 대규모 공개 채용 실시]]></title>
+        <id>https://v.daum.net/v/20220429080705062</id>
+        <link href="https://v.daum.net/v/20220429080705062"/>
+        <updated>2022-04-28T23:19:45.072Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">08:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["경력 단절 타파" 대교 솔루니, 일-육아 병행 가능한 '솔루니 선생님' 모집]]></title>
+        <id>https://v.daum.net/v/20220429080703060</id>
+        <link href="https://v.daum.net/v/20220429080703060"/>
+        <updated>2022-04-28T23:19:45.076Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">08:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시흥오이도박물관, 초등생 학예사 체험 프로그램 운영]]></title>
+        <id>https://v.daum.net/v/20220429074603707</id>
+        <link href="https://v.daum.net/v/20220429074603707"/>
+        <updated>2022-04-28T23:19:45.077Z</updated>
+        <content type="html"><![CDATA[투어코리아<span class="txt_bar"> · </span><span class="info_time">07:46</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['상주곶감공원 꽃단장, 추억 만들어봐요']]></title>
+        <id>https://v.daum.net/v/20220429073514578</id>
+        <link href="https://v.daum.net/v/20220429073514578"/>
+        <updated>2022-04-28T23:19:45.079Z</updated>
+        <content type="html"><![CDATA[투어코리아<span class="txt_bar"> · </span><span class="info_time">07:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[싸이버원, AWS 스타트업 기업 대상 웨비나 개최]]></title>
         <id>https://v.daum.net/v/20220429070704245</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20220429000704159"/>
         <updated>2022-04-28T15:21:44.302Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[issue&] 불면증 방치하면 치매 위험 높아져락티움·테아닌으로 '수면의 질' 개선]]></title>
-        <id>https://v.daum.net/v/20220429000702158</id>
-        <link href="https://v.daum.net/v/20220429000702158"/>
-        <updated>2022-04-28T15:21:44.302Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[issue&] "여기 없으면 어디에도 없다" .. 메가 와인숍 '보틀벙커' 호남 상륙]]></title>
-        <id>https://v.daum.net/v/20220429000659156</id>
-        <link href="https://v.daum.net/v/20220429000659156"/>
-        <updated>2022-04-28T15:21:44.303Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[issue&] 전시·공연 지원에 VR 직업훈련까지 .. 장애인의 자립과 사회참여 응원]]></title>
-        <id>https://v.daum.net/v/20220429000656155</id>
-        <link href="https://v.daum.net/v/20220429000656155"/>
-        <updated>2022-04-28T15:21:44.304Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[issue&] 교육 특화 '삼성 iD EDU 카드' 출시학원·학습지·인강 10% 할인 제공]]></title>
-        <id>https://v.daum.net/v/20220429000654154</id>
-        <link href="https://v.daum.net/v/20220429000654154"/>
-        <updated>2022-04-28T15:21:44.305Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
     </entry>
 </feed>

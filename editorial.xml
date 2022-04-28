@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-04-28T22:19:19.625Z</updated>
+    <updated>2022-04-28T23:19:53.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[춘추칼럼] 검수완박, 그들만의 잔치]]></title>
+        <id>https://v.daum.net/v/20220429080114946</id>
+        <link href="https://v.daum.net/v/20220429080114946"/>
+        <updated>2022-04-28T23:19:37.354Z</updated>
+        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">08:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](29일 조간)]]></title>
+        <id>https://v.daum.net/v/20220429080004889</id>
+        <link href="https://v.daum.net/v/20220429080004889"/>
+        <updated>2022-04-28T23:19:37.356Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뒤끝작렬]귀를 기울이면]]></title>
         <id>https://v.daum.net/v/20220429071500327</id>
@@ -27,7 +41,7 @@
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[이슈 리포트] '엔저 도박' 고집하는 BOJ..잃어버린 40년 도화선되나]]></title>
+        <title type="html"><![CDATA[BOJ '엔저 도박' 고집..잃어버린 40년 도화선되나 [이슈 리포트]]]></title>
         <id>https://v.daum.net/v/20220429070032124</id>
         <link href="https://v.daum.net/v/20220429070032124"/>
         <updated>2022-04-28T22:19:04.678Z</updated>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20220429050840696</id>
         <link href="https://v.daum.net/v/20220429050840696"/>
         <updated>2022-04-28T20:20:01.096Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] '검수완박' 효력정지 가처분신청 조속히 결론 내야]]></title>
-        <id>https://v.daum.net/v/20220429050839695</id>
-        <link href="https://v.daum.net/v/20220429050839695"/>
-        <updated>2022-04-28T20:20:01.097Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[열린세상] 근로시간 활용, 노사 선택권 넓혀야/조재정 법무법인 민 상임고문]]></title>
-        <id>https://v.daum.net/v/20220429050837693</id>
-        <link href="https://v.daum.net/v/20220429050837693"/>
-        <updated>2022-04-28T20:20:01.099Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
     </entry>
 </feed>
