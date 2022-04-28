@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-04-28T07:17:26.422Z</updated>
+    <updated>2022-04-28T08:28:27.713Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[강재훈의 살핌] 매화에게 배우다]]></title>
+        <id>https://v.daum.net/v/20220428172605718</id>
+        <link href="https://v.daum.net/v/20220428172605718"/>
+        <updated>2022-04-28T08:28:12.432Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">17:26</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사설]역대급 실적, 안주하지 말자]]></title>
+        <id>https://v.daum.net/v/20220428163107643</id>
+        <link href="https://v.daum.net/v/20220428163107643"/>
+        <updated>2022-04-28T08:28:12.434Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">16:31</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대통령직인수위 "민주당은 취임식 만찬 둘러싼 선동정치 중단하라"]]></title>
+        <id>https://v.daum.net/v/20220428161708065</id>
+        <link href="https://v.daum.net/v/20220428161708065"/>
+        <updated>2022-04-28T08:28:12.434Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">16:17</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[김명인 칼럼] 지식의 범람, 지식인의 고갈]]></title>
         <id>https://v.daum.net/v/20220428160635638</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220428143013911"/>
         <updated>2022-04-28T05:45:46.564Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">14:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[영상] 인수위에 뒤통수 맞은 분당·일산..1기 신도시 재건축 '오락가락']]></title>
-        <id>https://v.daum.net/v/20220428142106456</id>
-        <link href="https://v.daum.net/v/20220428142106456"/>
-        <updated>2022-04-28T05:45:46.564Z</updated>
-        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">14:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탄소중립 정책 세미나에서 강연하는 최태원 회장]]></title>
-        <id>https://v.daum.net/v/20220428141505159</id>
-        <link href="https://v.daum.net/v/20220428141505159"/>
-        <updated>2022-04-28T05:45:46.566Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">14:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연합뉴스 이 시각 헤드라인] - 14:00]]></title>
-        <id>https://v.daum.net/v/20220428140033477</id>
-        <link href="https://v.daum.net/v/20220428140033477"/>
-        <updated>2022-04-28T05:45:46.566Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
     </entry>
 </feed>
