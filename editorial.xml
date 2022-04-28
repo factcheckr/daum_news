@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-04-28T16:29:17.438Z</updated>
+    <updated>2022-04-28T17:23:20.053Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]언론의 사회적 품위]]></title>
+        <id>https://v.daum.net/v/20220429020504743</id>
+        <link href="https://v.daum.net/v/20220429020504743"/>
+        <updated>2022-04-28T17:23:02.913Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]인플레이션 시대 부동산]]></title>
+        <id>https://v.daum.net/v/20220429020501742</id>
+        <link href="https://v.daum.net/v/20220429020501742"/>
+        <updated>2022-04-28T17:23:02.913Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[최진석 칼럼] 마음의 크기-잔챙이는 가라]]></title>
         <id>https://v.daum.net/v/20220429004130412</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220429001420260"/>
         <updated>2022-04-28T15:21:35.281Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한 컷] 나비 보러 오세요]]></title>
-        <id>https://v.daum.net/v/20220429001229249</id>
-        <link href="https://v.daum.net/v/20220429001229249"/>
-        <updated>2022-04-28T15:21:35.282Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 기업인 사면·복권, 전향적 검토 필요하다]]></title>
-        <id>https://v.daum.net/v/20220429001029189</id>
-        <link href="https://v.daum.net/v/20220429001029189"/>
-        <updated>2022-04-28T15:21:35.283Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
     </entry>
 </feed>
