@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-04-28T10:21:39.278Z</updated>
+    <updated>2022-04-28T11:17:01.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국노총 부산본부 노동절 행사 규모 줄여 취약계층 돕기로]]></title>
+        <id>https://v.daum.net/v/20220428192939511</id>
+        <link href="https://v.daum.net/v/20220428192939511"/>
+        <updated>2022-04-28T11:16:53.833Z</updated>
+        <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">19:29</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홍남기 부총리, 시멘트 생산현장 방문]]></title>
         <id>https://v.daum.net/v/20220428190544920</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220428174702469"/>
         <updated>2022-04-28T09:21:41.549Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[농촌 돌봄 마을 시범단지 조성..성주군 선정]]></title>
-        <id>https://v.daum.net/v/20220428174339334</id>
-        <link href="https://v.daum.net/v/20220428174339334"/>
-        <updated>2022-04-28T09:21:41.550Z</updated>
-        <content type="html"><![CDATA[대구MBC<span class="txt_bar"> · </span><span class="info_time">17:43</span>]]></content>
     </entry>
 </feed>
