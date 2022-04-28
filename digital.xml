@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-04-28T13:38:51.181Z</updated>
+    <updated>2022-04-28T14:16:26.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[해외 '로밍', 데이터·통화 혜택 늘린다]]></title>
+        <id>https://v.daum.net/v/20220428225132351</id>
+        <link href="https://v.daum.net/v/20220428225132351"/>
+        <updated>2022-04-28T14:16:00.178Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:51</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["자율주행 기술, 주차장에 주목하라"]]></title>
+        <id>https://v.daum.net/v/20220428224013202</id>
+        <link href="https://v.daum.net/v/20220428224013202"/>
+        <updated>2022-04-28T14:16:00.181Z</updated>
+        <content type="html"><![CDATA[동아사이언스<span class="txt_bar"> · </span><span class="info_time">22:40</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[슈퍼키즈, 글로벌 가상자산거래소 '엘뱅크' 어린이날 상장]]></title>
+        <id>https://v.daum.net/v/20220428223829166</id>
+        <link href="https://v.daum.net/v/20220428223829166"/>
+        <updated>2022-04-28T14:16:00.182Z</updated>
+        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">22:38</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["퍼시픽리솜 보유 돌고래 3마리, 악명 높은 거제씨월드행 위기"]]></title>
         <id>https://v.daum.net/v/20220428223552143</id>
@@ -62,6 +83,13 @@
         <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[인수위 "공영방송 재허가 제도 폐지.. 수신료 사용 내역도 공개"]]></title>
+        <id>https://v.daum.net/v/20220428211514490</id>
+        <link href="https://v.daum.net/v/20220428211514490"/>
+        <updated>2022-04-28T14:16:00.188Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">21:15</span>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["삼성전자 '세계 최초' 일낸다"..TSMC 넘어설 '비장의 카드']]></title>
         <id>https://v.daum.net/v/20220428210102275</id>
         <link href="https://v.daum.net/v/20220428210102275"/>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20220428202803671"/>
         <updated>2022-04-28T12:36:14.871Z</updated>
         <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">20:28</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["한국인 단일 사망원인 1위 뇌졸중" 부작용없는 치료제 나온다]]></title>
-        <id>https://v.daum.net/v/20220428202017559</id>
-        <link href="https://v.daum.net/v/20220428202017559"/>
-        <updated>2022-04-28T12:36:14.872Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">20:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중장년기 주름 예방과 해결.. 레이저만큼 효과적인 치료법은 무엇?]]></title>
-        <id>https://v.daum.net/v/20220428202001554</id>
-        <link href="https://v.daum.net/v/20220428202001554"/>
-        <updated>2022-04-28T12:36:14.874Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">20:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카카오 택시, 일상회복에 호출 늘었지만 기사는 줄어]]></title>
-        <id>https://v.daum.net/v/20220428201505495</id>
-        <link href="https://v.daum.net/v/20220428201505495"/>
-        <updated>2022-04-28T11:16:39.193Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">20:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[과·기·부] 우주개발 30년 변천사]]></title>
-        <id>https://v.daum.net/v/20220428201237464</id>
-        <link href="https://v.daum.net/v/20220428201237464"/>
-        <updated>2022-04-28T11:16:39.194Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">20:12</span>]]></content>
     </entry>
 </feed>

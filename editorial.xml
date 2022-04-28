@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-04-28T13:38:51.183Z</updated>
+    <updated>2022-04-28T14:16:26.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박영서의 글로벌 아이]푸틴이 5월 9일에 집착하는 이유]]></title>
+        <id>https://v.daum.net/v/20220428225209362</id>
+        <link href="https://v.daum.net/v/20220428225209362"/>
+        <updated>2022-04-28T14:16:07.247Z</updated>
+        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">22:52</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[시사난장] 우린 혼자가 아니야 /신명준]]></title>
         <id>https://v.daum.net/v/20220428222353908</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220428194410878"/>
         <updated>2022-04-28T11:16:46.446Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:44</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왜 손절 못하고 망설이는가_돈쓸신잡 #43]]></title>
-        <id>https://v.daum.net/v/20220428194339866</id>
-        <link href="https://v.daum.net/v/20220428194339866"/>
-        <updated>2022-04-28T11:16:46.450Z</updated>
-        <content type="html"><![CDATA[엘르<span class="txt_bar"> · </span><span class="info_time">19:43</span>]]></content>
     </entry>
 </feed>
