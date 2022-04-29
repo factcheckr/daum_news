@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-04-29T12:38:44.214Z</updated>
+    <updated>2022-04-29T13:40:06.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나는 왜 자꾸 성적 처리를 미루는 걸까 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20220429220050190</id>
+        <link href="https://v.daum.net/v/20220429220050190"/>
+        <updated>2022-04-29T13:39:48.933Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오늘의 운세] 4월 30일(음력 3월 30일, 일진은 계축 癸丑, 손없는 날) 12지지 띠별 운세 & 궁합]]></title>
         <id>https://v.daum.net/v/20220429210007296</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220429163203185"/>
         <updated>2022-04-29T08:25:23.966Z</updated>
         <content type="html"><![CDATA[JTBC<span class="txt_bar"> · </span><span class="info_time">16:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['쥬라기 월드: 도미니언', 6월 1일 전세계 최초 개봉 기념 메인 포스터 공개]]></title>
-        <id>https://v.daum.net/v/20220429162310885</id>
-        <link href="https://v.daum.net/v/20220429162310885"/>
-        <updated>2022-04-29T08:25:23.969Z</updated>
-        <content type="html"><![CDATA[스포츠한국<span class="txt_bar"> · </span><span class="info_time">16:23</span>]]></content>
     </entry>
 </feed>
