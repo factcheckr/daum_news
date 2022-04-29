@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-04-29T09:20:26.160Z</updated>
+    <updated>2022-04-29T10:20:30.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사설] 입시·병역 '아빠 찬스' 정호영, 청문회 전 물러나는 게 순리다]]></title>
+        <id>https://v.daum.net/v/20220429190601141</id>
+        <link href="https://v.daum.net/v/20220429190601141"/>
+        <updated>2022-04-29T10:20:14.038Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:06</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 문 대통령 '마지막 사면' 민의 거스르는 일 없어야]]></title>
         <id>https://v.daum.net/v/20220429180613090</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220429144352106"/>
         <updated>2022-04-29T06:24:10.738Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">14:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[현장에서] 고성군-고성군의회, 협치해야 군민이 산다]]></title>
-        <id>https://v.daum.net/v/20220429144203054</id>
-        <link href="https://v.daum.net/v/20220429144203054"/>
-        <updated>2022-04-29T06:24:10.739Z</updated>
-        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">14:42</span>]]></content>
     </entry>
 </feed>
