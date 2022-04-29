@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2022-04-29T16:28:04.470Z</updated>
+    <updated>2022-04-29T17:23:10.469Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["美 금리 상승에도 외국인 자금 유출 가능성 제한적"]]></title>
+        <id>https://v.daum.net/v/20220430020420033</id>
+        <link href="https://v.daum.net/v/20220430020420033"/>
+        <updated>2022-04-29T17:22:07.723Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">02:04</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[토스뱅크, '지금 이자받기' 서비스 이용고객 100만명 돌파]]></title>
         <id>https://v.daum.net/v/20220430010452860</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220430010349840</id>
         <link href="https://v.daum.net/v/20220430010349840"/>
         <updated>2022-04-29T16:27:00.840Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기업은행, 비대면 소상공인 'i-ONE 가맹점 성공 대출' 출시]]></title>
-        <id>https://v.daum.net/v/20220430010341839</id>
-        <link href="https://v.daum.net/v/20220430010341839"/>
-        <updated>2022-04-29T16:27:00.841Z</updated>
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:03</span>]]></content>
     </entry>
 </feed>

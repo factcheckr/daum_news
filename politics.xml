@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2022-04-29T16:28:04.447Z</updated>
+    <updated>2022-04-29T17:23:10.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["한덕수, 총리로서 부적합 여론 3주 사이 15%p 상승"]]></title>
+        <id>https://v.daum.net/v/20220430020116021</id>
+        <link href="https://v.daum.net/v/20220430020116021"/>
+        <updated>2022-04-29T17:21:59.062Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">02:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['사법개혁특위 구성안' 국회 운영위원회 통과..국힘 불참]]></title>
+        <id>https://v.daum.net/v/20220430020106019</id>
+        <link href="https://v.daum.net/v/20220430020106019"/>
+        <updated>2022-04-29T17:21:59.063Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">02:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘 국회 본회의..'검찰청법 개정안' 처리 전망]]></title>
         <id>https://v.daum.net/v/20220430010112805</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220430000733516"/>
         <updated>2022-04-29T15:19:58.820Z</updated>
         <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">00:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['검수완박' 검찰청법 개정안 오늘 본회의 처리 예정]]></title>
-        <id>https://v.daum.net/v/20220430000305477</id>
-        <link href="https://v.daum.net/v/20220430000305477"/>
-        <updated>2022-04-29T15:19:58.821Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김두겸 "보수 단일화 협상 나서겠다"..박맹우 "환영"]]></title>
-        <id>https://v.daum.net/v/20220430000221456</id>
-        <link href="https://v.daum.net/v/20220430000221456"/>
-        <updated>2022-04-29T15:19:58.821Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
     </entry>
 </feed>
