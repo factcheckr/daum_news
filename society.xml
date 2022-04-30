@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/society</id>
     <title>다음 뉴스 ─ 전체기사 ─ 사회</title>
-    <updated>2022-04-30T18:24:03.676Z</updated>
+    <updated>2022-04-30T19:18:40.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인천, 선선하고 강한 바람..중국발 황사 유입, 미세먼지 나쁨]]></title>
+        <id>https://v.daum.net/v/20220501040015482</id>
+        <link href="https://v.daum.net/v/20220501040015482"/>
+        <updated>2022-04-30T19:17:25.079Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울 낮 최고 18도..강원북부 비소식]]></title>
+        <id>https://v.daum.net/v/20220501040014481</id>
+        <link href="https://v.daum.net/v/20220501040014481"/>
+        <updated>2022-04-30T19:17:25.079Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하남시 캐릭터 '하남이-방울이' 누구나 사용가능]]></title>
         <id>https://v.daum.net/v/20220501032002433</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220501011200165"/>
         <updated>2022-04-30T16:23:57.887Z</updated>
         <content type="html"><![CDATA[SBS<span class="txt_bar"> · </span><span class="info_time">01:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 남동구, 메타버스 기반 디지털 교육 전문 강사 양성]]></title>
-        <id>https://v.daum.net/v/20220501010402142</id>
-        <link href="https://v.daum.net/v/20220501010402142"/>
-        <updated>2022-04-30T16:23:57.888Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">01:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['누나→아가씨' 앱번역 오류.. 정읍 잔혹살해 전말]]></title>
-        <id>https://v.daum.net/v/20220501010113134</id>
-        <link href="https://v.daum.net/v/20220501010113134"/>
-        <updated>2022-04-30T16:23:57.888Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">01:01</span>]]></content>
     </entry>
 </feed>
