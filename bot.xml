@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-04-30T07:20:02.292Z</updated>
+    <updated>2022-04-30T08:22:36.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가상화폐 비트코인 49,698,000원(-0.07%) 거래중]]></title>
+        <id>https://v.daum.net/v/20220430163121042</id>
+        <link href="https://v.daum.net/v/20220430163121042"/>
+        <updated>2022-04-30T08:22:35.623Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">16:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[광주 우산동 리버힐 49㎡ 9950만원.. 역대 최고가]]></title>
         <id>https://v.daum.net/v/20220430151601273</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220430141058731"/>
         <updated>2022-04-30T05:18:16.600Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 당하동 당하 탑스빌 아파트 60㎡ 3억원에 거래]]></title>
-        <id>https://v.daum.net/v/20220430140603683</id>
-        <link href="https://v.daum.net/v/20220430140603683"/>
-        <updated>2022-04-30T05:18:16.602Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:06</span>]]></content>
     </entry>
 </feed>
