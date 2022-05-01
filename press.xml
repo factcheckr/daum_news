@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-05-01T05:24:11.886Z</updated>
+    <updated>2022-05-01T06:24:22.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이마트24 "도시락 먹고 테슬라·애플 등 미국 주식 받자"]]></title>
+        <id>https://v.daum.net/v/20220501142523083</id>
+        <link href="https://v.daum.net/v/20220501142523083"/>
+        <updated>2022-05-01T06:24:14.175Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">14:25</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삼성전자, hy와 '우리집 전자레인지, 큐커로 교체' 캠페인 진행]]></title>
         <id>https://v.daum.net/v/20220501140703618</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220501123544066"/>
         <updated>2022-05-01T03:45:21.738Z</updated>
         <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">12:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 4월 수출입 동향]]></title>
-        <id>https://v.daum.net/v/20220501122117944</id>
-        <link href="https://v.daum.net/v/20220501122117944"/>
-        <updated>2022-05-01T03:45:21.739Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">12:21</span>]]></content>
     </entry>
 </feed>
