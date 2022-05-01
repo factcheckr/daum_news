@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-05-01T04:39:25.830Z</updated>
+    <updated>2022-05-01T05:24:11.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삼성전자, hy와 '우리집 전자레인지, 큐커로 교체' 캠페인 진행]]></title>
+        <id>https://v.daum.net/v/20220501140703618</id>
+        <link href="https://v.daum.net/v/20220501140703618"/>
+        <updated>2022-05-01T05:24:04.005Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">14:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[환경부, 대기오염물질 배출 사업장 특별점검]]></title>
+        <id>https://v.daum.net/v/20220501134648156</id>
+        <link href="https://v.daum.net/v/20220501134648156"/>
+        <updated>2022-05-01T05:24:04.006Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">13:46</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[동남권원자력의학원, 재난의료센터 구축사업 추진]]></title>
         <id>https://v.daum.net/v/20220501124933200</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220501122117944"/>
         <updated>2022-05-01T03:45:21.739Z</updated>
         <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">12:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성전자, '갤럭시 팬파티 522랜드' 성황리에 진행]]></title>
-        <id>https://v.daum.net/v/20220501120703728</id>
-        <link href="https://v.daum.net/v/20220501120703728"/>
-        <updated>2022-05-01T03:45:21.739Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">12:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[28㎓ 대역 등에서 다양한 이음5세대(5G) 기지국 출시 본격화!]]></title>
-        <id>https://v.daum.net/v/20220501120534699</id>
-        <link href="https://v.daum.net/v/20220501120534699"/>
-        <updated>2022-05-01T03:45:21.740Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">12:05</span>]]></content>
     </entry>
 </feed>
