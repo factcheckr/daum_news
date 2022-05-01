@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2022-05-01T16:26:30.807Z</updated>
+    <updated>2022-05-01T17:21:08.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['미니 총선' 6·1 재보선..이재명·안철수 출마할까[지방선거 D-30]]]></title>
+        <id>https://v.daum.net/v/20220502014017034</id>
+        <link href="https://v.daum.net/v/20220502014017034"/>
+        <updated>2022-05-01T17:20:01.636Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">01:40</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김건희, 유기견 입양 행사 참석..전시 관람 이틀만]]></title>
         <id>https://v.daum.net/v/20220502011054998</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220502000305416"/>
         <updated>2022-05-01T15:19:14.212Z</updated>
         <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尹정부 평가·검수완박 민심에 6·1지방선거 승패 달렸다]]></title>
-        <id>https://v.daum.net/v/20220502000258410</id>
-        <link href="https://v.daum.net/v/20220502000258410"/>
-        <updated>2022-05-01T15:19:14.215Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
     </entry>
 </feed>
