@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-05-01T12:31:28.740Z</updated>
+    <updated>2022-05-01T13:28:26.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022년 5월 2일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20220501220104471</id>
+        <link href="https://v.daum.net/v/20220501220104471"/>
+        <updated>2022-05-01T13:28:05.934Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[혼자서 돼지 내장을 삶았다 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20220501220002453</id>
+        <link href="https://v.daum.net/v/20220501220002453"/>
+        <updated>2022-05-01T13:28:05.934Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 수출 증가 속 무역적자, 외생 변수 대응 전략 시급하다]]></title>
         <id>https://v.daum.net/v/20220501204056737</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220501200006319"/>
         <updated>2022-05-01T11:16:11.598Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evolution of special pardons]]></title>
-        <id>https://v.daum.net/v/20220501195835298</id>
-        <link href="https://v.daum.net/v/20220501195835298"/>
-        <updated>2022-05-01T11:16:11.598Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:58</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5월 2일 한겨레 그림판]]></title>
-        <id>https://v.daum.net/v/20220501193602084</id>
-        <link href="https://v.daum.net/v/20220501193602084"/>
-        <updated>2022-05-01T11:16:11.599Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:36</span>]]></content>
     </entry>
 </feed>
