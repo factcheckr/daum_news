@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-05-02T20:19:26.695Z</updated>
+    <updated>2022-05-02T21:15:01.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[프리스타일] 오미크론의 정점, 요양시설에 가보니]]></title>
+        <id>https://v.daum.net/v/20220503053807636</id>
+        <link href="https://v.daum.net/v/20220503053807636"/>
+        <updated>2022-05-02T21:14:46.079Z</updated>
+        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">05:38</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[기자들의 시선] "전장연의 상황이 매우 심각합니다."]]></title>
+        <id>https://v.daum.net/v/20220503053804634</id>
+        <link href="https://v.daum.net/v/20220503053804634"/>
+        <updated>2022-05-02T21:14:46.079Z</updated>
+        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">05:38</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[서울광장] 심기 불편한 지공거사/이동구 편집국 에디터]]></title>
         <id>https://v.daum.net/v/20220503050836333</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220503050625221"/>
         <updated>2022-05-02T20:19:09.605Z</updated>
         <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">05:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설]최악의 신·구정권 갈등, 경제위기엔 아예 눈감은 건가]]></title>
-        <id>https://v.daum.net/v/20220503050046125</id>
-        <link href="https://v.daum.net/v/20220503050046125"/>
-        <updated>2022-05-02T20:19:09.607Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">05:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설]65세 정년 연장, 청년 일자리 등 선결 과제 명심해야]]></title>
-        <id>https://v.daum.net/v/20220503050033113</id>
-        <link href="https://v.daum.net/v/20220503050033113"/>
-        <updated>2022-05-02T20:19:09.608Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">05:00</span>]]></content>
     </entry>
 </feed>
