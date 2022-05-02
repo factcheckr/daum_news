@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-05-02T09:20:05.883Z</updated>
+    <updated>2022-05-02T10:22:44.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[밀워키, 구매 제품 인증하면 100% 경품 받는 '레드파워 시즌' 이벤트 진행]]></title>
+        <id>https://v.daum.net/v/20220502191703335</id>
+        <link href="https://v.daum.net/v/20220502191703335"/>
+        <updated>2022-05-02T10:22:35.746Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">19:17</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부동산 돋보기] 건설사업관리(CM) 도입, 왜 시급한가]]></title>
+        <id>https://v.daum.net/v/20220502184806817</id>
+        <link href="https://v.daum.net/v/20220502184806817"/>
+        <updated>2022-05-02T10:22:35.747Z</updated>
+        <content type="html"><![CDATA[이코노미조선<span class="txt_bar"> · </span><span class="info_time">18:48</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강남구청소년지원센터 꿈드림, 모범청소년 표창 수상]]></title>
         <id>https://v.daum.net/v/20220502180705919</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220502170542859"/>
         <updated>2022-05-02T08:25:00.570Z</updated>
         <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">17:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['팬 퍼스트' KBO, 총재 직속 부서 신설 등 조직 개편]]></title>
-        <id>https://v.daum.net/v/20220502170511843</id>
-        <link href="https://v.daum.net/v/20220502170511843"/>
-        <updated>2022-05-02T08:25:00.570Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">17:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SK텔레콤, '팩토리 가든'서 넷제로 달성 위한 9가지 노력 소개]]></title>
-        <id>https://v.daum.net/v/20220502165703492</id>
-        <link href="https://v.daum.net/v/20220502165703492"/>
-        <updated>2022-05-02T08:25:00.571Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">16:57</span>]]></content>
     </entry>
 </feed>
