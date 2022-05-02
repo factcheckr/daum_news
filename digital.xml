@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-05-02T13:38:36.088Z</updated>
+    <updated>2022-05-02T14:18:50.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[추경호 "가상자산 소득 과세 2년 유예해야"]]></title>
+        <id>https://v.daum.net/v/20220502225657226</id>
+        <link href="https://v.daum.net/v/20220502225657226"/>
+        <updated>2022-05-02T14:18:27.427Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">22:56</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[통신 넘어 경영지원까지..'자영업 서비스'로 가입자 포화 타개]]></title>
         <id>https://v.daum.net/v/20220502222319978</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220502202530424"/>
         <updated>2022-05-02T12:34:43.684Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">20:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[BOOK REVIEW] Samsung's chip master Hwang Chang-gyu describes his journey]]></title>
-        <id>https://v.daum.net/v/20220502201321252</id>
-        <link href="https://v.daum.net/v/20220502201321252"/>
-        <updated>2022-05-02T11:17:14.880Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:13</span>]]></content>
     </entry>
 </feed>
