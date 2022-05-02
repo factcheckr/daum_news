@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2022-05-02T16:29:47.037Z</updated>
+    <updated>2022-05-02T17:25:24.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수지 화보, 피부가 美쳤다..투명+무결점]]></title>
+        <id>https://v.daum.net/v/20220503020326409</id>
+        <link href="https://v.daum.net/v/20220503020326409"/>
+        <updated>2022-05-02T17:24:41.499Z</updated>
+        <content type="html"><![CDATA[MBN<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장동민 군산처가 첫 나들이, 장모 첫 등장..'딸도둑들']]></title>
+        <id>https://v.daum.net/v/20220503020307408</id>
+        <link href="https://v.daum.net/v/20220503020307408"/>
+        <updated>2022-05-02T17:24:41.499Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["이탈리아계 오은영이네" 이용진, 알베르토 눈높이 육아법에 감탄 ('우리사이') [Oh!쎈 종합]]]></title>
         <id>https://v.daum.net/v/20220503011453279</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220503005004134"/>
         <updated>2022-05-02T16:29:07.135Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스<span class="txt_bar"> · </span><span class="info_time">00:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신봉선, 다이어트 4주차 슬림해진 비결! "여름맞이 다이어트 시작"]]></title>
-        <id>https://v.daum.net/v/20220503005001133</id>
-        <link href="https://v.daum.net/v/20220503005001133"/>
-        <updated>2022-05-02T16:29:07.135Z</updated>
-        <content type="html"><![CDATA[텐아시아<span class="txt_bar"> · </span><span class="info_time">00:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['동상이몽2' 이지혜, 이혼위기 순간 고백→이현이, 골때녀 시상식[★밤TView]]]></title>
-        <id>https://v.daum.net/v/20220503004827131</id>
-        <link href="https://v.daum.net/v/20220503004827131"/>
-        <updated>2022-05-02T16:29:07.135Z</updated>
-        <content type="html"><![CDATA[스타뉴스<span class="txt_bar"> · </span><span class="info_time">00:48</span>]]></content>
     </entry>
 </feed>
