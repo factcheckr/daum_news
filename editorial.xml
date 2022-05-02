@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-05-02T03:56:42.573Z</updated>
+    <updated>2022-05-02T04:54:14.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[기고]'언택트 혁신' 간편결제 발목 잡는 카드 규제]]></title>
+        <id>https://v.daum.net/v/20220502133533006</id>
+        <link href="https://v.daum.net/v/20220502133533006"/>
+        <updated>2022-05-02T04:53:59.878Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">13:35</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팀장 칼럼] 검수완박 시대 생존 가이드]]></title>
+        <id>https://v.daum.net/v/20220502131926240</id>
+        <link href="https://v.daum.net/v/20220502131926240"/>
+        <updated>2022-05-02T04:53:59.878Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:19</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[헬기에서 떨어지는 로켓 낚아채 재사용한다]]></title>
+        <id>https://v.daum.net/v/20220502131027959</id>
+        <link href="https://v.daum.net/v/20220502131027959"/>
+        <updated>2022-05-02T04:53:59.880Z</updated>
+        <content type="html"><![CDATA[동아사이언스<span class="txt_bar"> · </span><span class="info_time">13:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이를 성장하게 만드는 부모의 피드백이란?]]></title>
+        <id>https://v.daum.net/v/20220502130701849</id>
+        <link href="https://v.daum.net/v/20220502130701849"/>
+        <updated>2022-05-02T04:53:59.884Z</updated>
+        <content type="html"><![CDATA[베이비뉴스<span class="txt_bar"> · </span><span class="info_time">13:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Evolution of special pardons (KOR)]]></title>
         <id>https://v.daum.net/v/20220502123924156</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20220502113221856"/>
         <updated>2022-05-02T03:56:27.045Z</updated>
         <content type="html"><![CDATA[헬스조선<span class="txt_bar"> · </span><span class="info_time">11:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<오후여담>대통령 비서실장의 영욕]]></title>
-        <id>https://v.daum.net/v/20220502113048787</id>
-        <link href="https://v.daum.net/v/20220502113048787"/>
-        <updated>2022-05-02T03:56:27.045Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[W포럼]광고와 콘텐츠의 결합]]></title>
-        <id>https://v.daum.net/v/20220502113011733</id>
-        <link href="https://v.daum.net/v/20220502113011733"/>
-        <updated>2022-05-02T03:56:27.046Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시론]빚이 넘치는 우리 사회, "소는 누가 키우나?"]]></title>
-        <id>https://v.daum.net/v/20220502111927137</id>
-        <link href="https://v.daum.net/v/20220502111927137"/>
-        <updated>2022-05-02T03:56:27.052Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:19</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팀장시각] 최저임금 차등적용, 현실적인 접점 찾아야]]></title>
-        <id>https://v.daum.net/v/20220502111652065</id>
-        <link href="https://v.daum.net/v/20220502111652065"/>
-        <updated>2022-05-02T03:56:27.053Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:16</span>]]></content>
     </entry>
 </feed>
