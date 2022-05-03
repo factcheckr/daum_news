@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-05-03T03:26:02.996Z</updated>
+    <updated>2022-05-03T04:33:53.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["인민의 길 안내자"..시진핑 개인숭배 호칭, 마오쩌둥 넘어섰다]]></title>
+        <id>https://v.daum.net/v/20220503130125424</id>
+        <link href="https://v.daum.net/v/20220503130125424"/>
+        <updated>2022-05-03T04:33:38.859Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">13:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴웨이브]전통적 기업에 필요한 디지털 전환 전략]]></title>
+        <id>https://v.daum.net/v/20220503123725812</id>
+        <link href="https://v.daum.net/v/20220503123725812"/>
+        <updated>2022-05-03T04:33:38.860Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">12:37</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[초동시각] 우크라이나 전쟁 69일째]]></title>
         <id>https://v.daum.net/v/20220503121608317</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220503112901116"/>
         <updated>2022-05-03T03:25:48.011Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:29</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 김인철 후보자 사퇴는 마땅..검증도 청문회도 달라져야]]></title>
-        <id>https://v.daum.net/v/20220503112816081</id>
-        <link href="https://v.daum.net/v/20220503112816081"/>
-        <updated>2022-05-03T03:25:48.012Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:28</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[라이프칼럼]내 아이가 사는 법]]></title>
-        <id>https://v.daum.net/v/20220503112656995</id>
-        <link href="https://v.daum.net/v/20220503112656995"/>
-        <updated>2022-05-03T03:25:48.013Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:26</span>]]></content>
     </entry>
 </feed>
