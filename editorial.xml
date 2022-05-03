@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-05-02T23:20:20.281Z</updated>
+    <updated>2022-05-03T01:46:21.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인사] KB자산운용]]></title>
+        <id>https://v.daum.net/v/20220503102415168</id>
+        <link href="https://v.daum.net/v/20220503102415168"/>
+        <updated>2022-05-03T01:46:02.871Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">10:24</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[의학칼럼] 인공관절 수술 미루고 싶다면.. '초음파 통증 완화 신경차단술' 고려해야]]></title>
+        <id>https://v.daum.net/v/20220503100302019</id>
+        <link href="https://v.daum.net/v/20220503100302019"/>
+        <updated>2022-05-03T01:46:02.872Z</updated>
+        <content type="html"><![CDATA[헬스조선<span class="txt_bar"> · </span><span class="info_time">10:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[디지털 이코노미] 인건비 뛴 중국서 돌아오고 싶어도 못 오는 이유]]></title>
+        <id>https://v.daum.net/v/20220503100109903</id>
+        <link href="https://v.daum.net/v/20220503100109903"/>
+        <updated>2022-05-03T01:46:02.873Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">10:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사실과 거짓 사이, 이 순간에도 학살]]></title>
+        <id>https://v.daum.net/v/20220503094810168</id>
+        <link href="https://v.daum.net/v/20220503094810168"/>
+        <updated>2022-05-03T01:46:02.874Z</updated>
+        <content type="html"><![CDATA[한겨레21<span class="txt_bar"> · </span><span class="info_time">09:48</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내가 쓴 글이 점점 마음에 들지 않아요]]></title>
+        <id>https://v.daum.net/v/20220503090610142</id>
+        <link href="https://v.daum.net/v/20220503090610142"/>
+        <updated>2022-05-03T01:46:02.874Z</updated>
+        <content type="html"><![CDATA[베이비뉴스<span class="txt_bar"> · </span><span class="info_time">09:06</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주요 신문 사설](3일 조간)]]></title>
         <id>https://v.daum.net/v/20220503080006480</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20220503070044647"/>
         <updated>2022-05-02T22:20:18.404Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[프리스타일] 오미크론의 정점, 요양시설에 가보니]]></title>
-        <id>https://v.daum.net/v/20220503053807636</id>
-        <link href="https://v.daum.net/v/20220503053807636"/>
-        <updated>2022-05-02T21:14:46.079Z</updated>
-        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">05:38</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기자들의 시선] "전장연의 상황이 매우 심각합니다."]]></title>
-        <id>https://v.daum.net/v/20220503053804634</id>
-        <link href="https://v.daum.net/v/20220503053804634"/>
-        <updated>2022-05-02T21:14:46.079Z</updated>
-        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">05:38</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서울광장] 심기 불편한 지공거사/이동구 편집국 에디터]]></title>
-        <id>https://v.daum.net/v/20220503050836333</id>
-        <link href="https://v.daum.net/v/20220503050836333"/>
-        <updated>2022-05-02T20:19:09.594Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[씨줄날줄] 약탈 문화재/박홍환 논설위원]]></title>
-        <id>https://v.daum.net/v/20220503050834331</id>
-        <link href="https://v.daum.net/v/20220503050834331"/>
-        <updated>2022-05-02T20:19:09.594Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[길섶에서] 마스크 해방/오일만 논설위원]]></title>
-        <id>https://v.daum.net/v/20220503050833330</id>
-        <link href="https://v.daum.net/v/20220503050833330"/>
-        <updated>2022-05-02T20:19:09.595Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
     </entry>
 </feed>
