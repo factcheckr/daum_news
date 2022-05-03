@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-05-03T22:19:47.282Z</updated>
+    <updated>2022-05-03T23:19:12.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[웹툰] 아이들이 마스크를 벗었다]]></title>
+        <id>https://v.daum.net/v/20220504081501217</id>
+        <link href="https://v.daum.net/v/20220504081501217"/>
+        <updated>2022-05-03T23:18:54.510Z</updated>
+        <content type="html"><![CDATA[베이비뉴스<span class="txt_bar"> · </span><span class="info_time">08:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](4일 조간)]]></title>
+        <id>https://v.daum.net/v/20220504080003931</id>
+        <link href="https://v.daum.net/v/20220504080003931"/>
+        <updated>2022-05-03T23:18:54.511Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[스포츠영상] 댈러스 클레버의 '위험한 앨리웁 덩크']]></title>
+        <id>https://v.daum.net/v/20220504075017773</id>
+        <link href="https://v.daum.net/v/20220504075017773"/>
+        <updated>2022-05-03T23:18:54.512Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV<span class="txt_bar"> · </span><span class="info_time">07:50</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[세평] 이야기가 선물이 되는 세상]]></title>
         <id>https://v.daum.net/v/20220504070511187</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220504052909776"/>
         <updated>2022-05-03T21:17:58.289Z</updated>
         <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">05:29</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김균미 칼럼] 루스벨트 '첫 100일'의 교훈/편집인]]></title>
-        <id>https://v.daum.net/v/20220504050957539</id>
-        <link href="https://v.daum.net/v/20220504050957539"/>
-        <updated>2022-05-03T20:20:21.267Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[씨줄날줄] '배추 국장'의 소환/안미현 수석논설위원]]></title>
-        <id>https://v.daum.net/v/20220504050955538</id>
-        <link href="https://v.daum.net/v/20220504050955538"/>
-        <updated>2022-05-03T20:20:21.267Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[길섶에서] 작은 친절/김성수 논설위원]]></title>
-        <id>https://v.daum.net/v/20220504050954537</id>
-        <link href="https://v.daum.net/v/20220504050954537"/>
-        <updated>2022-05-03T20:20:21.269Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:09</span>]]></content>
     </entry>
 </feed>
