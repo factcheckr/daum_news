@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-05-03T05:21:45.219Z</updated>
+    <updated>2022-05-03T06:23:45.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영국 'K스트리트'를 글로벌 문화의 중심지로]]></title>
+        <id>https://v.daum.net/v/20220503151716390</id>
+        <link href="https://v.daum.net/v/20220503151716390"/>
+        <updated>2022-05-03T06:23:30.003Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">15:17</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사설]尹정부 국정, 경제 성장이 좌우]]></title>
+        <id>https://v.daum.net/v/20220503150503755</id>
+        <link href="https://v.daum.net/v/20220503150503755"/>
+        <updated>2022-05-03T06:23:30.004Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">15:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10년 전 한국 코스피 대신 미국 S&P500을 사서 묵혔다면..]]></title>
+        <id>https://v.daum.net/v/20220503145655377</id>
+        <link href="https://v.daum.net/v/20220503145655377"/>
+        <updated>2022-05-03T06:23:30.005Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">14:56</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인수위, 새 정부 국정비전·목표 및 110대 국정과제 발표]]></title>
+        <id>https://v.daum.net/v/20220503143511383</id>
+        <link href="https://v.daum.net/v/20220503143511383"/>
+        <updated>2022-05-03T06:23:30.006Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">14:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[의학칼럼] 거리두기 해제로 잦아진 술자리에 고관절 병든다]]></title>
         <id>https://v.daum.net/v/20220503140013127</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20220503115058272"/>
         <updated>2022-05-03T03:25:48.002Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">11:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<포럼>탈원전 폐기 첫걸음은 원자력안전위원회 개혁]]></title>
-        <id>https://v.daum.net/v/20220503115046260</id>
-        <link href="https://v.daum.net/v/20220503115046260"/>
-        <updated>2022-05-03T03:25:48.003Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기자수첩] IPO '몸값' 둘러싼 기업과 금감원의 동상이몽]]></title>
-        <id>https://v.daum.net/v/20220503114405919</id>
-        <link href="https://v.daum.net/v/20220503114405919"/>
-        <updated>2022-05-03T03:25:48.005Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">11:44</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<시평>가상자산 '안보 위협' 대응 급하다]]></title>
-        <id>https://v.daum.net/v/20220503114030724</id>
-        <link href="https://v.daum.net/v/20220503114030724"/>
-        <updated>2022-05-03T03:25:48.007Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<뉴스와 시각>'의소완박' 민주당]]></title>
-        <id>https://v.daum.net/v/20220503114024716</id>
-        <link href="https://v.daum.net/v/20220503114024716"/>
-        <updated>2022-05-03T03:25:48.008Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:40</span>]]></content>
     </entry>
 </feed>
