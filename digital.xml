@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-05-04T12:38:15.532Z</updated>
+    <updated>2022-05-04T13:39:28.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[네이버, 전면재택·주3일 이상 출근 '자율로']]></title>
+        <id>https://v.daum.net/v/20220504223528613</id>
+        <link href="https://v.daum.net/v/20220504223528613"/>
+        <updated>2022-05-04T13:39:06.380Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:35</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['좋은 쓰임' 원하면 '좋은 버림' 실천하세요]]></title>
+        <id>https://v.daum.net/v/20220504215317959</id>
+        <link href="https://v.daum.net/v/20220504215317959"/>
+        <updated>2022-05-04T13:39:06.381Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">21:53</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[기고] "위드 코로나 시대의 협업.. 비동기적 협업이 중요해질 것"]]></title>
         <id>https://v.daum.net/v/20220504212700543</id>
@@ -55,7 +69,7 @@
         <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">19:58</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["200만원→110만원, 이게 웬일이냐" 초고가 삼성 '반값' 유혹]]></title>
+        <title type="html"><![CDATA["200만원→110만원, 이게 웬일이냐" 삼성 '반값' 유혹]]></title>
         <id>https://v.daum.net/v/20220504195059796</id>
         <link href="https://v.daum.net/v/20220504195059796"/>
         <updated>2022-05-04T11:15:43.133Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220504193719489"/>
         <updated>2022-05-04T11:15:43.136Z</updated>
         <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">19:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금융보안원 "데이터 주권 확보의 핵심은 보안..안전한 마이데이터 사업 정착 돕겠다"]]></title>
-        <id>https://v.daum.net/v/20220504192710241</id>
-        <link href="https://v.daum.net/v/20220504192710241"/>
-        <updated>2022-05-04T11:15:43.137Z</updated>
-        <content type="html"><![CDATA[IT동아<span class="txt_bar"> · </span><span class="info_time">19:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기초연·생명연, 바이오의료 공동연구 협력]]></title>
-        <id>https://v.daum.net/v/20220504192256148</id>
-        <link href="https://v.daum.net/v/20220504192256148"/>
-        <updated>2022-05-04T11:15:43.137Z</updated>
-        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">19:22</span>]]></content>
     </entry>
 </feed>
