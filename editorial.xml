@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-05-04T20:21:14.762Z</updated>
+    <updated>2022-05-04T21:18:40.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한반도로 향하는 '에너지 차르' 푸틴의 동진정책[박동휘의 생각 노트]]]></title>
+        <id>https://v.daum.net/v/20220505060102311</id>
+        <link href="https://v.daum.net/v/20220505060102311"/>
+        <updated>2022-05-04T21:18:25.430Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">06:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[허성관의 유구유언] 윤 당선인과 선조 윤증<尹拯>/전 행정자치부 장관]]></title>
         <id>https://v.daum.net/v/20220505050839830</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220505043045622</id>
         <link href="https://v.daum.net/v/20220505043045622"/>
         <updated>2022-05-04T20:20:58.306Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 총리 인준과 문제 후보자 연계 전략, 부적절하다]]></title>
-        <id>https://v.daum.net/v/20220505043024619</id>
-        <link href="https://v.daum.net/v/20220505043024619"/>
-        <updated>2022-05-04T20:20:58.307Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
     </entry>
 </feed>
