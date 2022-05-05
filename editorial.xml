@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-05-05T05:23:51.864Z</updated>
+    <updated>2022-05-05T06:25:03.218Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박종인의 징비] 조선시대 사또보다 못했던 文정권]]></title>
+        <id>https://v.daum.net/v/20220505145747613</id>
+        <link href="https://v.daum.net/v/20220505145747613"/>
+        <updated>2022-05-05T06:24:46.351Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">14:57</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["한국 반도체 재터리 국가전략 무기로 육성, 미중패권 시대 대비해야"]]></title>
         <id>https://v.daum.net/v/20220505140107289</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220505091447490"/>
         <updated>2022-05-05T01:28:55.197Z</updated>
         <content type="html"><![CDATA[미디어오늘<span class="txt_bar"> · </span><span class="info_time">09:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국회의원 하태경'씨'라고 부르면, 무례한 건가요?]]></title>
-        <id>https://v.daum.net/v/20220505083817933</id>
-        <link href="https://v.daum.net/v/20220505083817933"/>
-        <updated>2022-05-05T01:28:55.199Z</updated>
-        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">08:38</span>]]></content>
     </entry>
 </feed>
