@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-05-05T09:20:21.928Z</updated>
+    <updated>2022-05-05T10:21:56.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["매달 40만원 번다" 쏠쏠한 용돈벌이, 알고 보니]]></title>
+        <id>https://v.daum.net/v/20220505190417548</id>
+        <link href="https://v.daum.net/v/20220505190417548"/>
+        <updated>2022-05-05T10:21:30.161Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">19:04</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부음]김영규(전 에스넷주식회사 본부장)씨 모친상]]></title>
+        <id>https://v.daum.net/v/20220505185404416</id>
+        <link href="https://v.daum.net/v/20220505185404416"/>
+        <updated>2022-05-05T10:21:30.162Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">18:54</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이상수 KAIST 교수팀]]></title>
+        <id>https://v.daum.net/v/20220505185210403</id>
+        <link href="https://v.daum.net/v/20220505185210403"/>
+        <updated>2022-05-05T10:21:30.163Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">18:52</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["다음주 신규확진 1만명 밑으로"..새 변이가 변수]]></title>
+        <id>https://v.daum.net/v/20220505182128058</id>
+        <link href="https://v.daum.net/v/20220505182128058"/>
+        <updated>2022-05-05T10:21:30.164Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">18:21</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[프리미엄만 모았더니 통하네..롯데온 '온앤더뷰티' 방문자 40배↑]]></title>
         <id>https://v.daum.net/v/20220505181334956</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20220505175405590"/>
         <updated>2022-05-05T09:19:59.546Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:54</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["尹정부, 한국 AI 근육 크게 키워낼 것"]]></title>
-        <id>https://v.daum.net/v/20220505175402586</id>
-        <link href="https://v.daum.net/v/20220505175402586"/>
-        <updated>2022-05-05T09:19:59.547Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:54</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[통신3사, 유니세프와 기부캠페인]]></title>
-        <id>https://v.daum.net/v/20220505175400584</id>
-        <link href="https://v.daum.net/v/20220505175400584"/>
-        <updated>2022-05-05T09:19:59.548Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:54</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[휴젤 "액상 톡신 'HG102' 임상 1상 성공"]]></title>
-        <id>https://v.daum.net/v/20220505175253563</id>
-        <link href="https://v.daum.net/v/20220505175253563"/>
-        <updated>2022-05-05T09:19:59.549Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">17:52</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] 리디 "콘텐츠 본부 신설..웹툰 자체제작 경쟁력 강화"]]></title>
-        <id>https://v.daum.net/v/20220505175242560</id>
-        <link href="https://v.daum.net/v/20220505175242560"/>
-        <updated>2022-05-05T09:19:59.550Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">17:52</span>]]></content>
     </entry>
 </feed>
