@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-05-05T22:21:13.825Z</updated>
+    <updated>2022-05-05T23:20:12.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](6일 조간)]]></title>
+        <id>https://v.daum.net/v/20220506080003453</id>
+        <link href="https://v.daum.net/v/20220506080003453"/>
+        <updated>2022-05-05T23:19:56.066Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[더 한장] '낙태 합법화' 시위에 왜 옷걸이가?]]></title>
         <id>https://v.daum.net/v/20220506070139696</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220506050829483</id>
         <link href="https://v.daum.net/v/20220506050829483"/>
         <updated>2022-05-05T20:21:15.291Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[열린세상] 이은해와 반사회적 성격 장애/권준수 서울대병원 정신건강의학과 교수]]></title>
-        <id>https://v.daum.net/v/20220506050828481</id>
-        <link href="https://v.daum.net/v/20220506050828481"/>
-        <updated>2022-05-05T20:21:15.292Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
     </entry>
 </feed>
