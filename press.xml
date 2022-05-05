@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-05-05T04:36:21.125Z</updated>
+    <updated>2022-05-05T05:23:51.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[부산시, 지능형 영상자동분석 시스템으로 해양쓰레기 관리]]></title>
+        <id>https://v.daum.net/v/20220505134131941</id>
+        <link href="https://v.daum.net/v/20220505134131941"/>
+        <updated>2022-05-05T05:23:43.982Z</updated>
+        <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">13:41</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LG전자, 車반도체 개발 인증 "세계 최고 역량 확보할 것"]]></title>
         <id>https://v.daum.net/v/20220505133442774</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220505113547970</id>
         <link href="https://v.daum.net/v/20220505113547970"/>
         <updated>2022-05-05T03:24:16.999Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">11:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국민 체감 높은 규제혁신과제를 발굴·개선하겠습니다]]></title>
-        <id>https://v.daum.net/v/20220505113546969</id>
-        <link href="https://v.daum.net/v/20220505113546969"/>
-        <updated>2022-05-05T03:24:17.000Z</updated>
         <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">11:35</span>]]></content>
     </entry>
 </feed>
