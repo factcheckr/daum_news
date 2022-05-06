@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2022-05-06T16:29:18.919Z</updated>
+    <updated>2022-05-06T17:26:00.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국 소주와 일본 소주의 차이는? [명욱의 술 인문학]]]></title>
+        <id>https://v.daum.net/v/20220507014543856</id>
+        <link href="https://v.daum.net/v/20220507014543856"/>
+        <updated>2022-05-06T17:25:11.583Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:45</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['당신의 노후가 안녕하기를 바랍니다']]></title>
         <id>https://v.daum.net/v/20220507010909700</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220507010238638</id>
         <link href="https://v.daum.net/v/20220507010238638"/>
         <updated>2022-05-06T16:28:25.770Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[독소전쟁 등 불리한 형국 뒤집은 네 개의 전쟁사 입체적 분석]]></title>
-        <id>https://v.daum.net/v/20220507010219633</id>
-        <link href="https://v.daum.net/v/20220507010219633"/>
-        <updated>2022-05-06T16:28:25.771Z</updated>
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:02</span>]]></content>
     </entry>
 </feed>
