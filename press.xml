@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-05-06T09:20:00.598Z</updated>
+    <updated>2022-05-06T10:21:31.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제68대 박범계 법무부장관 이임사]]></title>
+        <id>https://v.daum.net/v/20220506183541517</id>
+        <link href="https://v.daum.net/v/20220506183541517"/>
+        <updated>2022-05-06T10:21:23.928Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">18:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미국 프리미엄 텀블러 브랜드 '레보맥스', 케이쇼핑 방영 확정]]></title>
         <id>https://v.daum.net/v/20220506180703022</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220506165010207"/>
         <updated>2022-05-06T08:24:25.280Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">16:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피아니스트 임현정, 국내 최초 '오르간-하프시코드-피아노' 연주회 진행]]></title>
-        <id>https://v.daum.net/v/20220506164704108</id>
-        <link href="https://v.daum.net/v/20220506164704108"/>
-        <updated>2022-05-06T08:24:25.281Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">16:47</span>]]></content>
     </entry>
 </feed>
