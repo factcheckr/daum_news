@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-05-06T07:18:35.082Z</updated>
+    <updated>2022-05-06T08:24:33.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[시론] 나의 해방일지]]></title>
+        <id>https://v.daum.net/v/20220506170202523</id>
+        <link href="https://v.daum.net/v/20220506170202523"/>
+        <updated>2022-05-06T08:24:17.325Z</updated>
+        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">17:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[논단] BCI기술로 진시황 꿈 실현될까]]></title>
         <id>https://v.daum.net/v/20220506160915300</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220506120120579"/>
         <updated>2022-05-06T03:06:52.742Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">12:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기고]지방 로스쿨의 지역인재 선발은 '독이 든 성배']]></title>
-        <id>https://v.daum.net/v/20220506115738480</id>
-        <link href="https://v.daum.net/v/20220506115738480"/>
-        <updated>2022-05-06T03:06:52.743Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">11:57</span>]]></content>
     </entry>
 </feed>
