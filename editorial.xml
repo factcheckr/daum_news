@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-05-06T15:21:18.581Z</updated>
+    <updated>2022-05-06T16:29:18.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선데이 칼럼] 미래는 다양성에서 시작한다]]></title>
+        <id>https://v.daum.net/v/20220507003028431</id>
+        <link href="https://v.daum.net/v/20220507003028431"/>
+        <updated>2022-05-06T16:29:01.708Z</updated>
+        <content type="html"><![CDATA[중앙SUNDAY<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장제스, 아들 장징궈 동거녀 쌍둥이 낳자 "엄마 성 따르라"]]></title>
+        <id>https://v.daum.net/v/20220507002223348</id>
+        <link href="https://v.daum.net/v/20220507002223348"/>
+        <updated>2022-05-06T16:29:01.708Z</updated>
+        <content type="html"><![CDATA[중앙SUNDAY<span class="txt_bar"> · </span><span class="info_time">00:22</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[토요칼럼] 차별금지법, 악마는 디테일에 있다]]></title>
         <id>https://v.daum.net/v/20220507001201237</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220507000027082"/>
         <updated>2022-05-06T15:21:02.434Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 피의자가 보선 출마, '방탄조끼'까지 입겠다는 몰염치]]></title>
-        <id>https://v.daum.net/v/20220507000025080</id>
-        <link href="https://v.daum.net/v/20220507000025080"/>
-        <updated>2022-05-06T15:21:02.436Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설]야당 됐으니 합의고 뭐고 법사위원장 못 내준다는 민주당]]></title>
-        <id>https://v.daum.net/v/20220507000014074</id>
-        <link href="https://v.daum.net/v/20220507000014074"/>
-        <updated>2022-05-06T15:21:02.438Z</updated>
-        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
