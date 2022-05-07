@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-05-07T11:16:51.487Z</updated>
+    <updated>2022-05-07T12:31:13.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[ESC] '쑥' 뻗어간 고드세피아처럼, 밥알 소복 이팝나무 꽃처럼]]></title>
+        <id>https://v.daum.net/v/20220507210602031</id>
+        <link href="https://v.daum.net/v/20220507210602031"/>
+        <updated>2022-05-07T12:30:58.072Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">21:06</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[오늘의 운세] 5월 8일(음력 4월 8일, 일진은 신유 辛酉, 부처님오신날) 12지지 띠별 운세 & 궁합]]></title>
+        <id>https://v.daum.net/v/20220507210024955</id>
+        <link href="https://v.daum.net/v/20220507210024955"/>
+        <updated>2022-05-07T12:30:58.073Z</updated>
+        <content type="html"><![CDATA[웨딩21뉴스<span class="txt_bar"> · </span><span class="info_time">21:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美 한인 사회 큰 상처 남긴 'LA 폭동' 30주년]]></title>
         <id>https://v.daum.net/v/20220507195252229</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220507070027444"/>
         <updated>2022-05-06T22:18:51.605Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[존리의 머니웍스] 주식투자와 사교육]]></title>
-        <id>https://v.daum.net/v/20220507070023440</id>
-        <link href="https://v.daum.net/v/20220507070023440"/>
-        <updated>2022-05-06T22:18:51.618Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['맨날 술이야' KBO리그, 또 그러면 정말 남이야 [김평호의 인상팍!]]]></title>
-        <id>https://v.daum.net/v/20220507070000409</id>
-        <link href="https://v.daum.net/v/20220507070000409"/>
-        <updated>2022-05-06T22:18:51.620Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
     </entry>
 </feed>
