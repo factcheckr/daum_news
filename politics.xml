@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2022-05-07T17:20:56.281Z</updated>
+    <updated>2022-05-07T18:21:47.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[북한, 핵실험 저지르나..지방선거 '외교안보' 쟁점 전면에?]]></title>
+        <id>https://v.daum.net/v/20220508030000107</id>
+        <link href="https://v.daum.net/v/20220508030000107"/>
+        <updated>2022-05-07T18:20:37.133Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">03:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가장 빠른 한미정상회담, 핵심은 결국 '중국'?]]></title>
         <id>https://v.daum.net/v/20220508020000063</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220508000005525"/>
         <updated>2022-05-07T15:19:10.653Z</updated>
         <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[현장] "윤석열, 너무 교만"..'尹 성토장' 된 송영길 캠프 개소식]]></title>
-        <id>https://v.daum.net/v/20220508000000521</id>
-        <link href="https://v.daum.net/v/20220508000000521"/>
-        <updated>2022-05-07T15:19:10.654Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
