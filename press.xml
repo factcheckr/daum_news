@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-05-07T10:21:01.576Z</updated>
+    <updated>2022-05-07T11:16:51.508Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] FII Institute, '신흥 시장을 위한 포용적인 ESG' 지역 정상회의 발표]]></title>
+        <id>https://v.daum.net/v/20220507195533258</id>
+        <link href="https://v.daum.net/v/20220507195533258"/>
+        <updated>2022-05-07T11:16:43.616Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">19:55</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] 2022 Visionox Technology Innovation Launch Event]]></title>
         <id>https://v.daum.net/v/20220507183619210</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220507093231733"/>
         <updated>2022-05-07T01:19:34.223Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">09:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] 영국 ODE, 뷔나에너지의 오너스 엔지니어로 통영 욕지해상풍력 조성]]></title>
-        <id>https://v.daum.net/v/20220507092742681</id>
-        <link href="https://v.daum.net/v/20220507092742681"/>
-        <updated>2022-05-07T01:19:34.224Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">09:27</span>]]></content>
     </entry>
 </feed>
