@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2022-05-07T16:25:27.404Z</updated>
+    <updated>2022-05-07T17:20:56.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[아이해브어드림] ① 이룰 수 있는 꿈, 뮤지컬 배우를 말하다]]></title>
+        <id>https://v.daum.net/v/20220508012503925</id>
+        <link href="https://v.daum.net/v/20220508012503925"/>
+        <updated>2022-05-07T17:20:08.325Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">01:25</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘은 '부처님 오신 날'..전국 사찰서 봉축법요식 봉행]]></title>
         <id>https://v.daum.net/v/20220508010230835</id>
@@ -76,7 +83,7 @@
         <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[카리스마 넘치고 정 많았던  '1세대 월드스타' 고 강수연의 생애]]></title>
+        <title type="html"><![CDATA["돈이 없지 가오가 없냐"..카리스마 넘치고 정 많던 강수연]]></title>
         <id>https://v.daum.net/v/20220508000110539</id>
         <link href="https://v.daum.net/v/20220508000110539"/>
         <updated>2022-05-07T15:19:42.586Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220508000014526"/>
         <updated>2022-05-07T15:19:42.589Z</updated>
         <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 운세] 2022년 5월 8일 띠별 운세]]></title>
-        <id>https://v.daum.net/v/20220508000001523</id>
-        <link href="https://v.daum.net/v/20220508000001523"/>
-        <updated>2022-05-07T15:19:42.590Z</updated>
-        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
