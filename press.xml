@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-05-08T21:17:22.123Z</updated>
+    <updated>2022-05-08T22:18:29.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제1호 스마트 복합쉼터, '경남 하동' 에서 개장]]></title>
+        <id>https://v.daum.net/v/20220509063523146</id>
+        <link href="https://v.daum.net/v/20220509063523146"/>
+        <updated>2022-05-08T22:18:21.785Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">06:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[동래기영회, 저소득층 학생 복지사업비 2000만 원]]></title>
         <id>https://v.daum.net/v/20220509030320239</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220509000459389</id>
         <link href="https://v.daum.net/v/20220509000459389"/>
         <updated>2022-05-08T16:25:45.037Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[건강한 가족] 깐깐한 자체 시스템으로 품질 높인 침향환]]></title>
-        <id>https://v.daum.net/v/20220509000458388</id>
-        <link href="https://v.daum.net/v/20220509000458388"/>
-        <updated>2022-05-08T16:25:45.038Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
     </entry>
 </feed>
