@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-05-08T04:25:41.335Z</updated>
+    <updated>2022-05-08T05:18:02.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['재경선' 民 목포시장 후보 김종식·영암군수 후보 우승희]]></title>
+        <id>https://v.daum.net/v/20220508140529631</id>
+        <link href="https://v.daum.net/v/20220508140529631"/>
+        <updated>2022-05-08T05:17:54.164Z</updated>
+        <content type="html"><![CDATA[kbc광주방송<span class="txt_bar"> · </span><span class="info_time">14:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SK스퀘어·SKT-도이치텔레콤, 한국-유럽 잇는 ICT 동맹 강화 나선다]]></title>
+        <id>https://v.daum.net/v/20220508135704424</id>
+        <link href="https://v.daum.net/v/20220508135704424"/>
+        <updated>2022-05-08T05:17:54.164Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">13:57</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이마트24, 미국 주식 동봉된 도시락 판매]]></title>
         <id>https://v.daum.net/v/20220508130307489</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220508120532725"/>
         <updated>2022-05-08T03:15:36.919Z</updated>
         <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">12:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 인공지능 온라인 경진대회 개최]]></title>
-        <id>https://v.daum.net/v/20220508120532724</id>
-        <link href="https://v.daum.net/v/20220508120532724"/>
-        <updated>2022-05-08T03:15:36.920Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">12:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탄소중립 실현 속도 낸다.. 올해 전환교통 지원사업 공모]]></title>
-        <id>https://v.daum.net/v/20220508113530156</id>
-        <link href="https://v.daum.net/v/20220508113530156"/>
-        <updated>2022-05-08T03:15:36.921Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">11:35</span>]]></content>
     </entry>
 </feed>
