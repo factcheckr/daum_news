@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2022-05-08T16:25:53.658Z</updated>
+    <updated>2022-05-08T17:21:14.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전국 사찰서 '부처님 오신날' 법요식 봉행]]></title>
+        <id>https://v.daum.net/v/20220509012512878</id>
+        <link href="https://v.daum.net/v/20220509012512878"/>
+        <updated>2022-05-08T17:20:23.683Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">01:25</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미술품 조각투자' 3년 만에 1000억 육박]]></title>
         <id>https://v.daum.net/v/20220509010237748</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220509001056486</id>
         <link href="https://v.daum.net/v/20220509001056486"/>
         <updated>2022-05-08T16:25:03.769Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[속초 청년몰 갯배St '가족 놀이터' 로 인기몰이]]></title>
-        <id>https://v.daum.net/v/20220509001053484</id>
-        <link href="https://v.daum.net/v/20220509001053484"/>
-        <updated>2022-05-08T16:25:03.770Z</updated>
         <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
     </entry>
 </feed>
