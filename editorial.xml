@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-05-08T12:30:53.319Z</updated>
+    <updated>2022-05-08T13:27:56.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김용민의 그림마당 쉽니다.]]></title>
+        <id>https://v.daum.net/v/20220508220017459</id>
+        <link href="https://v.daum.net/v/20220508220017459"/>
+        <updated>2022-05-08T13:27:40.897Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[봄나물 예찬 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20220508220003451</id>
+        <link href="https://v.daum.net/v/20220508220003451"/>
+        <updated>2022-05-08T13:27:40.898Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[만파식적] 아이온큐]]></title>
+        <id>https://v.daum.net/v/20220508214949371</id>
+        <link href="https://v.daum.net/v/20220508214949371"/>
+        <updated>2022-05-08T13:27:40.899Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">21:49</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오늘의 운세] 5월 9일(음력 4월 9일, 일진은 신유 辛酉, 손없는 날) 12지지 띠별 운세 & 궁합]]></title>
         <id>https://v.daum.net/v/20220508210015879</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220508195416289"/>
         <updated>2022-05-08T11:16:15.616Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:54</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to make a decent retreat]]></title>
-        <id>https://v.daum.net/v/20220508194916245</id>
-        <link href="https://v.daum.net/v/20220508194916245"/>
-        <updated>2022-05-08T11:16:15.617Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:49</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5월 9일 한겨레 그림판]]></title>
-        <id>https://v.daum.net/v/20220508194605210</id>
-        <link href="https://v.daum.net/v/20220508194605210"/>
-        <updated>2022-05-08T11:16:15.617Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:46</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 국방장관 후보자 육사 이전 돌출 발언, 부적절]]></title>
-        <id>https://v.daum.net/v/20220508192725967</id>
-        <link href="https://v.daum.net/v/20220508192725967"/>
-        <updated>2022-05-08T11:16:15.618Z</updated>
-        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">19:27</span>]]></content>
     </entry>
 </feed>
