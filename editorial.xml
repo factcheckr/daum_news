@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-05-08T22:18:29.203Z</updated>
+    <updated>2022-05-08T23:19:34.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[전영기의 과유불급] 윤석열 대통령 취임과 '문재인 문제']]></title>
+        <id>https://v.daum.net/v/20220509080202238</id>
+        <link href="https://v.daum.net/v/20220509080202238"/>
+        <updated>2022-05-08T23:19:19.015Z</updated>
+        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">08:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](9일 조간)]]></title>
+        <id>https://v.daum.net/v/20220509080002191</id>
+        <link href="https://v.daum.net/v/20220509080002191"/>
+        <updated>2022-05-08T23:19:19.019Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한화 방계 한익스프레스 대물림 뒤엔 70억 증여세]]></title>
+        <id>https://v.daum.net/v/20220509071006574</id>
+        <link href="https://v.daum.net/v/20220509071006574"/>
+        <updated>2022-05-08T23:19:19.020Z</updated>
+        <content type="html"><![CDATA[비즈니스워치<span class="txt_bar"> · </span><span class="info_time">07:10</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[생활속 과학이야기]  찬란한 코발트블루 빛에 숨겨진 비밀]]></title>
         <id>https://v.daum.net/v/20220509070511521</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220509053001153"/>
         <updated>2022-05-08T21:17:05.367Z</updated>
         <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김동률의 아포리즘] 대광초, 보이스카우트는 이제 그만/서강대 교수(매체경영)]]></title>
-        <id>https://v.daum.net/v/20220509050833934</id>
-        <link href="https://v.daum.net/v/20220509050833934"/>
-        <updated>2022-05-08T20:19:59.708Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[씨줄날줄] 굿바이 청와대 게시판/박현갑 논설위원]]></title>
-        <id>https://v.daum.net/v/20220509050831933</id>
-        <link href="https://v.daum.net/v/20220509050831933"/>
-        <updated>2022-05-08T20:19:59.709Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[길섶에서] 야근/이동구 에디터]]></title>
-        <id>https://v.daum.net/v/20220509050831932</id>
-        <link href="https://v.daum.net/v/20220509050831932"/>
-        <updated>2022-05-08T20:19:59.710Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
     </entry>
 </feed>
