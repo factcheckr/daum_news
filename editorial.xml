@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-05-09T12:39:26.971Z</updated>
+    <updated>2022-05-09T13:39:46.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김용민의 그림마당 쉽니다.]]></title>
+        <id>https://v.daum.net/v/20220509220051761</id>
+        <link href="https://v.daum.net/v/20220509220051761"/>
+        <updated>2022-05-09T13:39:29.061Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[난 세금으로 축의금을 받았다 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20220509220027756</id>
+        <link href="https://v.daum.net/v/20220509220027756"/>
+        <updated>2022-05-09T13:39:29.064Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[외교·안보는 함부로 흔들면 안 된다]]></title>
         <id>https://v.daum.net/v/20220509211606153</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220509194431786"/>
         <updated>2022-05-09T11:21:10.864Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:44</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022.05.10 Cartoon]]></title>
-        <id>https://v.daum.net/v/20220509194132716</id>
-        <link href="https://v.daum.net/v/20220509194132716"/>
-        <updated>2022-05-09T11:21:10.865Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:41</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["구조개혁 통한 경제 기저질환 치유가 尹정부 시대적 소명" [청론직설]]]></title>
-        <id>https://v.daum.net/v/20220509194016698</id>
-        <link href="https://v.daum.net/v/20220509194016698"/>
-        <updated>2022-05-09T11:21:10.866Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">19:40</span>]]></content>
     </entry>
 </feed>
