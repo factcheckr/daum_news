@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-05-09T04:33:26.085Z</updated>
+    <updated>2022-05-09T05:22:05.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[브루더호프에 봄봄봄봄 봄이 왔어요]]></title>
+        <id>https://v.daum.net/v/20220509141618651</id>
+        <link href="https://v.daum.net/v/20220509141618651"/>
+        <updated>2022-05-09T05:21:50.061Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">14:16</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[W포럼]스탬프 투어]]></title>
+        <id>https://v.daum.net/v/20220509140911359</id>
+        <link href="https://v.daum.net/v/20220509140911359"/>
+        <updated>2022-05-09T05:21:50.063Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">14:09</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[시론] 미국경제 불균형 심화, 달러가치 하락 초래 전망]]></title>
+        <id>https://v.daum.net/v/20220509140046128</id>
+        <link href="https://v.daum.net/v/20220509140046128"/>
+        <updated>2022-05-09T05:21:50.064Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['일반'과 '개별'을 적절히 배합하라]]></title>
+        <id>https://v.daum.net/v/20220509135732020</id>
+        <link href="https://v.daum.net/v/20220509135732020"/>
+        <updated>2022-05-09T05:21:50.066Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">13:57</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[칼럼]사과할 줄 모르는 '나쁜검사'를 위한 나라는 없다]]></title>
         <id>https://v.daum.net/v/20220509120325628</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20220509114026641"/>
         <updated>2022-05-09T03:22:03.476Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[文 "다음 정부도 성공하는 역사 이어가길 기대한다"]]></title>
-        <id>https://v.daum.net/v/20220509113803567</id>
-        <link href="https://v.daum.net/v/20220509113803567"/>
-        <updated>2022-05-09T03:22:03.477Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">11:38</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시시비비]꼼수앞에서 무용지물된 국회선진화법]]></title>
-        <id>https://v.daum.net/v/20220509113113258</id>
-        <link href="https://v.daum.net/v/20220509113113258"/>
-        <updated>2022-05-09T03:22:03.478Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팀장 칼럼] K스타트업 도약의 마지막 퍼즐]]></title>
-        <id>https://v.daum.net/v/20220509112152790</id>
-        <link href="https://v.daum.net/v/20220509112152790"/>
-        <updated>2022-05-09T03:22:03.482Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">11:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[헤럴드포럼] "코로나 집콕 시대, 슬기로운 실내 라돈 관리방법"]]></title>
-        <id>https://v.daum.net/v/20220509111646507</id>
-        <link href="https://v.daum.net/v/20220509111646507"/>
-        <updated>2022-05-09T03:22:03.482Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:16</span>]]></content>
     </entry>
 </feed>
