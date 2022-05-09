@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-05-09T20:20:42.071Z</updated>
+    <updated>2022-05-09T21:18:26.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[프리스타일] 어느 날, 유우성씨에게 연락이 왔다]]></title>
+        <id>https://v.daum.net/v/20220510055319200</id>
+        <link href="https://v.daum.net/v/20220510055319200"/>
+        <updated>2022-05-09T21:18:08.689Z</updated>
+        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">05:53</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[기자들의 시선] 윤석열 정부 국정과제, 공약서 빠진 내용은?]]></title>
+        <id>https://v.daum.net/v/20220510055314198</id>
+        <link href="https://v.daum.net/v/20220510055314198"/>
+        <updated>2022-05-09T21:18:08.689Z</updated>
+        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">05:53</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[기자수첩] '윤석열정부' 개막..금융산업 미래는?]]></title>
+        <id>https://v.daum.net/v/20220510052201951</id>
+        <link href="https://v.daum.net/v/20220510052201951"/>
+        <updated>2022-05-09T21:18:08.690Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">05:22</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[서울광장] 국민들 행복 측정할 수 있다/임병선 논설위원]]></title>
         <id>https://v.daum.net/v/20220510050831829</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220510050813816"/>
         <updated>2022-05-09T20:20:26.093Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특별기고] 약속을 잘 지키는 대통령이 가장 강하다/나태주 시인]]></title>
-        <id>https://v.daum.net/v/20220510050610707</id>
-        <link href="https://v.daum.net/v/20220510050610707"/>
-        <updated>2022-05-09T20:20:26.094Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[언론 길들이기에 취한 윤석열 인수위]]></title>
-        <id>https://v.daum.net/v/20220510050506683</id>
-        <link href="https://v.daum.net/v/20220510050506683"/>
-        <updated>2022-05-09T20:20:26.095Z</updated>
-        <content type="html"><![CDATA[미디어오늘<span class="txt_bar"> · </span><span class="info_time">05:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설]윤 정부, 포퓰리즘 넘어야 미래 있다]]></title>
-        <id>https://v.daum.net/v/20220510050033610</id>
-        <link href="https://v.daum.net/v/20220510050033610"/>
-        <updated>2022-05-09T20:20:26.096Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">05:00</span>]]></content>
     </entry>
 </feed>
