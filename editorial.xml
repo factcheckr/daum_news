@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-05-09T16:29:52.727Z</updated>
+    <updated>2022-05-09T17:26:45.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]마법의 성을 '국민의 집'으로]]></title>
+        <id>https://v.daum.net/v/20220510020501652</id>
+        <link href="https://v.daum.net/v/20220510020501652"/>
+        <updated>2022-05-09T17:26:28.640Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]'신정부 맞춤형' 국내 헬스케어 투자전략]]></title>
+        <id>https://v.daum.net/v/20220510020301632</id>
+        <link href="https://v.daum.net/v/20220510020301632"/>
+        <updated>2022-05-09T17:26:28.640Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[최훈 칼럼] 국민이 진정한 자유를 만끽하게 하라]]></title>
         <id>https://v.daum.net/v/20220510004122253</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220510001430063"/>
         <updated>2022-05-09T15:21:14.040Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[천자 칼럼] 대통령 취임식]]></title>
-        <id>https://v.daum.net/v/20220510001405059</id>
-        <link href="https://v.daum.net/v/20220510001405059"/>
-        <updated>2022-05-09T15:21:14.041Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[윤성민 칼럼] 삼성 '제2의 후쿠다 보고서' 쓰고 있나]]></title>
-        <id>https://v.daum.net/v/20220510001403058</id>
-        <link href="https://v.daum.net/v/20220510001403058"/>
-        <updated>2022-05-09T15:21:14.041Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:14</span>]]></content>
     </entry>
 </feed>

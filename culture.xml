@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2022-05-09T16:29:52.726Z</updated>
+    <updated>2022-05-09T17:26:45.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 '어 스트레인지 루프', 토니상 11개 부문 후보 지명]]></title>
+        <id>https://v.daum.net/v/20220510013755554</id>
+        <link href="https://v.daum.net/v/20220510013755554"/>
+        <updated>2022-05-09T17:25:56.773Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">01:37</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 오늘 점차 흐려져..낮 동안 따뜻]]></title>
+        <id>https://v.daum.net/v/20220510013113535</id>
+        <link href="https://v.daum.net/v/20220510013113535"/>
+        <updated>2022-05-09T17:25:56.775Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">01:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['천재 첼리스트' 불린 장한나 함부르크심포니 지휘자 변신]]></title>
         <id>https://v.daum.net/v/20220510010237357</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220510003041197"/>
         <updated>2022-05-09T16:29:05.751Z</updated>
         <content type="html"><![CDATA[엘르<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[라인 날씨] 전국 차차 흐려져..오늘 오전까지 남해안·제주 강풍]]></title>
-        <id>https://v.daum.net/v/20220510002111132</id>
-        <link href="https://v.daum.net/v/20220510002111132"/>
-        <updated>2022-05-09T16:29:05.751Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">00:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강릉독립예술극장 신영, 개관 10주년 특별전 개최]]></title>
-        <id>https://v.daum.net/v/20220510001933117</id>
-        <link href="https://v.daum.net/v/20220510001933117"/>
-        <updated>2022-05-09T15:20:40.474Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">00:19</span>]]></content>
     </entry>
 </feed>
