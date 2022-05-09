@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-05-09T18:23:39.044Z</updated>
+    <updated>2022-05-09T19:17:25.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[압도적인 AI 기술, 이 가격에 즐긴다니..최고의 가성비 떴다]]></title>
+        <id>https://v.daum.net/v/20220510040312136</id>
+        <link href="https://v.daum.net/v/20220510040312136"/>
+        <updated>2022-05-09T19:17:17.189Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">04:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[6·1지선 홍천군의원 대진표 완성]기초 최종후보 확정 본선 돌입]]></title>
         <id>https://v.daum.net/v/20220510001023987</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220510000457902</id>
         <link href="https://v.daum.net/v/20220510000457902"/>
         <updated>2022-05-09T15:21:25.314Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[라이프 트렌드&] 디지털 시대 선도할 차세대 보안리더 양성 프로그램 11기 교육생 모집]]></title>
-        <id>https://v.daum.net/v/20220510000455901</id>
-        <link href="https://v.daum.net/v/20220510000455901"/>
-        <updated>2022-05-09T15:21:25.316Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
     </entry>
 </feed>
