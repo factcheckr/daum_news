@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-05-10T09:20:52.352Z</updated>
+    <updated>2022-05-10T10:21:38.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인천 송현동 송현솔빛마을주공1차아파트 37㎡ 1억9400만원.. 역대 최고가]]></title>
+        <id>https://v.daum.net/v/20220510182103159</id>
+        <link href="https://v.daum.net/v/20220510182103159"/>
+        <updated>2022-05-10T10:21:37.892Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:21</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[광주 운남동 운남주공8단지 49㎡ 1억9000만원.. 역대 최고가]]></title>
         <id>https://v.daum.net/v/20220510181559025</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220510171601159"/>
         <updated>2022-05-10T08:24:42.139Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 논현동 논현소래마을풍림 59㎡ 3억3000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220510171106022</id>
-        <link href="https://v.daum.net/v/20220510171106022"/>
-        <updated>2022-05-10T08:24:42.140Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:11</span>]]></content>
     </entry>
 </feed>
