@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-05-10T10:21:38.581Z</updated>
+    <updated>2022-05-10T11:18:18.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[5월 11일 한겨레 그림판]]></title>
+        <id>https://v.daum.net/v/20220510194604382</id>
+        <link href="https://v.daum.net/v/20220510194604382"/>
+        <updated>2022-05-10T11:17:59.436Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:46</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스'까'페] 74년만에 靑 개방 첫 날 '북적북적'..대통령이 일하던 곳 맞죠?]]></title>
         <id>https://v.daum.net/v/20220510191232489</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220510184521652"/>
         <updated>2022-05-10T10:21:22.893Z</updated>
         <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">18:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[무언설태] 文 "저는 해방됐다"..'잊힌 삶' 약속 지킬까요]]></title>
-        <id>https://v.daum.net/v/20220510183232410</id>
-        <link href="https://v.daum.net/v/20220510183232410"/>
-        <updated>2022-05-10T10:21:22.895Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">18:32</span>]]></content>
     </entry>
 </feed>

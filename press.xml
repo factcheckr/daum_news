@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-05-10T10:21:38.587Z</updated>
+    <updated>2022-05-10T11:18:18.341Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] KSTAR, 해외 확장 일환으로 첫 베트남 공장 건설]]></title>
+        <id>https://v.daum.net/v/20220510200019768</id>
+        <link href="https://v.daum.net/v/20220510200019768"/>
+        <updated>2022-05-10T11:18:06.826Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대전 서구, 상반기 온·오프 취업박람회 개최]]></title>
         <id>https://v.daum.net/v/20220510190953409</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220510190816302</id>
         <link href="https://v.daum.net/v/20220510190816302"/>
         <updated>2022-05-10T10:21:30.462Z</updated>
-        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">19:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시내버스에서 와이파이 이용하세요]]></title>
-        <id>https://v.daum.net/v/20220510190809293</id>
-        <link href="https://v.daum.net/v/20220510190809293"/>
-        <updated>2022-05-10T10:21:30.464Z</updated>
         <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">19:08</span>]]></content>
     </entry>
 </feed>
