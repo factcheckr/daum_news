@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-05-10T22:19:45.220Z</updated>
+    <updated>2022-05-10T23:20:47.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](11일 조간)]]></title>
+        <id>https://v.daum.net/v/20220511080018188</id>
+        <link href="https://v.daum.net/v/20220511080018188"/>
+        <updated>2022-05-10T23:20:30.393Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[기자수첩]  '과학·기술·혁신'에 거는 기대]]></title>
         <id>https://v.daum.net/v/20220511070515414</id>
@@ -88,13 +95,6 @@
         <link href="https://v.daum.net/v/20220511054101420"/>
         <updated>2022-05-10T21:17:51.322Z</updated>
         <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">05:41</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤심·오심·문심과 민심[우보세]]]></title>
-        <id>https://v.daum.net/v/20220511054002414</id>
-        <link href="https://v.daum.net/v/20220511054002414"/>
-        <updated>2022-05-10T21:17:51.323Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">05:40</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[뒤끝작렬]한동훈 청문회, 남은 건 '이모 타령'과 '그사세']]></title>
