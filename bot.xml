@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-05-11T08:26:43.563Z</updated>
+    <updated>2022-05-11T09:19:40.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2022년 05월 11일)]]></title>
+        <id>https://v.daum.net/v/20220511173154132</id>
+        <link href="https://v.daum.net/v/20220511173154132"/>
+        <updated>2022-05-11T09:19:39.359Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세종 다정동 가온마을9단지아파트 108㎡ 7억5000만원.. 역대 최고가]]></title>
         <id>https://v.daum.net/v/20220511163109769</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220511153743402</id>
         <link href="https://v.daum.net/v/20220511153743402"/>
         <updated>2022-05-11T07:19:50.223Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[fnRASSI]장마감, 거래소 상승 종목(영풍제지 20.3% ↑)]]></title>
-        <id>https://v.daum.net/v/20220511153738400</id>
-        <link href="https://v.daum.net/v/20220511153738400"/>
-        <updated>2022-05-11T07:19:50.224Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:37</span>]]></content>
     </entry>
 </feed>
