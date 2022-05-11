@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-05-11T13:41:20.880Z</updated>
+    <updated>2022-05-11T14:19:28.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[광주서 블록체인 콘퍼런스 'IBC 2022' 열려]]></title>
+        <id>https://v.daum.net/v/20220511231511925</id>
+        <link href="https://v.daum.net/v/20220511231511925"/>
+        <updated>2022-05-11T14:19:04.915Z</updated>
+        <content type="html"><![CDATA[kbc광주방송<span class="txt_bar"> · </span><span class="info_time">23:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국내 거래소, 시세 폭락한 '루나' 거래 유의 종목 지정]]></title>
+        <id>https://v.daum.net/v/20220511230501855</id>
+        <link href="https://v.daum.net/v/20220511230501855"/>
+        <updated>2022-05-11T14:19:04.920Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">23:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['제로웨이스트 숙소' 모아씨 "좀 불편해도 '사고가 확장되는 숙박' 어때요"[보통의 기후위기⑤]]]></title>
+        <id>https://v.daum.net/v/20220511225613753</id>
+        <link href="https://v.daum.net/v/20220511225613753"/>
+        <updated>2022-05-11T14:19:04.922Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:56</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["'https' 차단 해제돼 이제 성인물 사이트 접속된다" 온라인서 와글와글..방심위 경위 파악 나서]]></title>
+        <id>https://v.daum.net/v/20220511225207710</id>
+        <link href="https://v.daum.net/v/20220511225207710"/>
+        <updated>2022-05-11T14:19:04.926Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">22:52</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["한국 IoT 기술 탁월..IoTSWC에도 초청하고 싶다"]]></title>
         <id>https://v.daum.net/v/20220511222047344</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20220511204205626"/>
         <updated>2022-05-11T12:38:47.841Z</updated>
         <content type="html"><![CDATA[IT동아<span class="txt_bar"> · </span><span class="info_time">20:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민간 유인 우주발사체 개발 스타트업 우나스텔라, 팁스 프로그램 선정]]></title>
-        <id>https://v.daum.net/v/20220511204014590</id>
-        <link href="https://v.daum.net/v/20220511204014590"/>
-        <updated>2022-05-11T12:38:47.842Z</updated>
-        <content type="html"><![CDATA[동아사이언스<span class="txt_bar"> · </span><span class="info_time">20:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[산은, 과학기술원 창업 15개사에 385억원 투자 완료.. 벤처투자 '속도']]></title>
-        <id>https://v.daum.net/v/20220511203018444</id>
-        <link href="https://v.daum.net/v/20220511203018444"/>
-        <updated>2022-05-11T12:38:47.843Z</updated>
-        <content type="html"><![CDATA[동아사이언스<span class="txt_bar"> · </span><span class="info_time">20:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누리호 막바지 점검 작업]]></title>
-        <id>https://v.daum.net/v/20220511202653373</id>
-        <link href="https://v.daum.net/v/20220511202653373"/>
-        <updated>2022-05-11T12:38:47.843Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">20:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누리호 막바지 점검 작업]]></title>
-        <id>https://v.daum.net/v/20220511202650372</id>
-        <link href="https://v.daum.net/v/20220511202650372"/>
-        <updated>2022-05-11T12:38:47.844Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">20:26</span>]]></content>
     </entry>
 </feed>
