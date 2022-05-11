@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-05-11T09:19:40.027Z</updated>
+    <updated>2022-05-11T10:22:32.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] VENTURE GLOBAL AND PETRONAS ANNOUNCE SALES AND PURCHASE AGREEMENT]]></title>
+        <id>https://v.daum.net/v/20220511191902919</id>
+        <link href="https://v.daum.net/v/20220511191902919"/>
+        <updated>2022-05-11T10:22:24.285Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">19:19</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비상경제대응 TF 1차회의 개최]]></title>
+        <id>https://v.daum.net/v/20220511190539607</id>
+        <link href="https://v.daum.net/v/20220511190539607"/>
+        <updated>2022-05-11T10:22:24.287Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">19:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영등포문화재단, 광주비엔날레와 11일 업무제휴협약 체결]]></title>
         <id>https://v.daum.net/v/20220511180704188</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220511171703617"/>
         <updated>2022-05-11T08:26:35.688Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 김포시 사회적경제 창업 공모전 실시]]></title>
-        <id>https://v.daum.net/v/20220511171503541</id>
-        <link href="https://v.daum.net/v/20220511171503541"/>
-        <updated>2022-05-11T08:26:35.689Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시흥시, 정왕역 '젊음의 거리'로 도시 활력 되찾는다]]></title>
-        <id>https://v.daum.net/v/20220511171304474</id>
-        <link href="https://v.daum.net/v/20220511171304474"/>
-        <updated>2022-05-11T08:26:35.690Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:13</span>]]></content>
     </entry>
 </feed>
