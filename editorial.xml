@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-05-11T16:29:11.211Z</updated>
+    <updated>2022-05-11T17:30:15.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓] NFT 게임, 거품인가 혁신인가]]></title>
+        <id>https://v.daum.net/v/20220512020503093</id>
+        <link href="https://v.daum.net/v/20220512020503093"/>
+        <updated>2022-05-11T17:30:00.252Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]연준 빅스텝과 통화정책 도전]]></title>
+        <id>https://v.daum.net/v/20220512020501092</id>
+        <link href="https://v.daum.net/v/20220512020501092"/>
+        <updated>2022-05-11T17:30:00.253Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[유홍준의 문화의 창] 망우리 별곡]]></title>
         <id>https://v.daum.net/v/20220512004216811</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220512002303676"/>
         <updated>2022-05-11T16:28:55.522Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:23</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노트북을 열며] 평균의 종말]]></title>
-        <id>https://v.daum.net/v/20220512002226673</id>
-        <link href="https://v.daum.net/v/20220512002226673"/>
-        <updated>2022-05-11T16:28:55.523Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 나토 가입하는 핀란드, 안보를 강대국 호의에 맡길 수는 없는 법]]></title>
-        <id>https://v.daum.net/v/20220512002203669</id>
-        <link href="https://v.daum.net/v/20220512002203669"/>
-        <updated>2022-05-11T16:28:55.524Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:22</span>]]></content>
     </entry>
 </feed>
