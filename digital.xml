@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-05-12T16:30:02.148Z</updated>
+    <updated>2022-05-12T17:27:51.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[누리호 2차 발사 한 달 전..1차 실패 딛고 성공으로!]]></title>
+        <id>https://v.daum.net/v/20220513022216074</id>
+        <link href="https://v.daum.net/v/20220513022216074"/>
+        <updated>2022-05-12T17:27:27.760Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">02:22</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에이치엘비 간암 치료제, 美 FDA 품목허가 가능성]]></title>
+        <id>https://v.daum.net/v/20220513021702067</id>
+        <link href="https://v.daum.net/v/20220513021702067"/>
+        <updated>2022-05-12T17:27:27.761Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">02:17</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[슈나이더 일렉트릭, SF6 대신 공기 이용하는 친환경 배전반 제품군 선보여]]></title>
         <id>https://v.daum.net/v/20220513012101878</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220513000708368"/>
         <updated>2022-05-12T15:20:57.347Z</updated>
         <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">00:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[워치·버즈·폰..구글 '하드웨어 제국'도 노린다]]></title>
-        <id>https://v.daum.net/v/20220513000424323</id>
-        <link href="https://v.daum.net/v/20220513000424323"/>
-        <updated>2022-05-12T15:20:57.348Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웹 돌아다니며 정보 수집..데이터 '크롤링' 날개 다나]]></title>
-        <id>https://v.daum.net/v/20220513000414317</id>
-        <link href="https://v.daum.net/v/20220513000414317"/>
-        <updated>2022-05-12T15:20:57.350Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
     </entry>
 </feed>
