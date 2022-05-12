@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-05-12T10:24:05.052Z</updated>
+    <updated>2022-05-12T11:18:00.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 산둥성 옌타이시 국제화 기업환경 조성에 만전]]></title>
+        <id>https://v.daum.net/v/20220512200016407</id>
+        <link href="https://v.daum.net/v/20220512200016407"/>
+        <updated>2022-05-12T11:17:52.153Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 파리 장식미술박물관 - 충격! 엘사 스키아파렐리의 비현실적인 세계]]></title>
+        <id>https://v.daum.net/v/20220512195447265</id>
+        <link href="https://v.daum.net/v/20220512195447265"/>
+        <updated>2022-05-12T11:17:52.154Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">19:54</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] Rizhao city becomes magnet for seaside tourism]]></title>
         <id>https://v.daum.net/v/20220512184235619</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220512173707605"/>
         <updated>2022-05-12T09:21:24.483Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더바디샵, 유엔사무총장 청년특사와 청년의 정치적 의사 결정 과정 참여 확대 촉구하기 위해 협력]]></title>
-        <id>https://v.daum.net/v/20220512173705600</id>
-        <link href="https://v.daum.net/v/20220512173705600"/>
-        <updated>2022-05-12T09:21:24.484Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] CATL의 EnerOne 배터리 스토리지 시스템, ees AWARD 2022 수상]]></title>
-        <id>https://v.daum.net/v/20220512173702599</id>
-        <link href="https://v.daum.net/v/20220512173702599"/>
-        <updated>2022-05-12T09:21:24.486Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:37</span>]]></content>
     </entry>
 </feed>
