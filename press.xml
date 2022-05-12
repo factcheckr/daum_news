@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-05-12T20:22:06.717Z</updated>
+    <updated>2022-05-12T21:16:55.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전국 통합 일용직 중개 일가자, 출시 후 1000일 운영 실적 발표]]></title>
+        <id>https://v.daum.net/v/20220513060702455</id>
+        <link href="https://v.daum.net/v/20220513060702455"/>
+        <updated>2022-05-12T21:16:46.580Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">06:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이온빔을 이용한 차세대 반도체 소재의 고성능화 세계 최초 구현]]></title>
         <id>https://v.daum.net/v/20220513030538394</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220513000517346</id>
         <link href="https://v.daum.net/v/20220513000517346"/>
         <updated>2022-05-12T15:21:14.344Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[High Collection] 꽃에서 영감받은루비와 에메랄드컬러 스톤의 매력]]></title>
-        <id>https://v.daum.net/v/20220513000514345</id>
-        <link href="https://v.daum.net/v/20220513000514345"/>
-        <updated>2022-05-12T15:21:14.346Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
     </entry>
 </feed>
