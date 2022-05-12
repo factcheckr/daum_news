@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-05-12T12:37:18.340Z</updated>
+    <updated>2022-05-12T13:45:44.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[5월 13일 한겨레 그림판]]></title>
+        <id>https://v.daum.net/v/20220512222608184</id>
+        <link href="https://v.daum.net/v/20220512222608184"/>
+        <updated>2022-05-12T13:45:25.330Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">22:26</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신뢰를 잃어가는 美 파월 의장]]></title>
+        <id>https://v.daum.net/v/20220512220302809</id>
+        <link href="https://v.daum.net/v/20220512220302809"/>
+        <updated>2022-05-12T13:45:25.331Z</updated>
+        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">22:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[117년 전 5월, 고향을 절규했던 애니깽 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20220512220057759</id>
+        <link href="https://v.daum.net/v/20220512220057759"/>
+        <updated>2022-05-12T13:45:25.331Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뭐라노] "또 더불어만진당"]]></title>
         <id>https://v.daum.net/v/20220512211239889</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220512192808702"/>
         <updated>2022-05-12T11:17:44.892Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">19:28</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 민주당 또 성폭력, 사죄 넘어 근절방안 내놓아야]]></title>
-        <id>https://v.daum.net/v/20220512190605169</id>
-        <link href="https://v.daum.net/v/20220512190605169"/>
-        <updated>2022-05-12T10:23:48.485Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[WORD_ON_THE_WEB] 'I understand the appeal of electric cars']]></title>
-        <id>https://v.daum.net/v/20220512185719976</id>
-        <link href="https://v.daum.net/v/20220512185719976"/>
-        <updated>2022-05-12T10:23:48.486Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">18:57</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[만평] 조기영의 세상터치 2022년 5월 13일]]></title>
-        <id>https://v.daum.net/v/20220512185602946</id>
-        <link href="https://v.daum.net/v/20220512185602946"/>
-        <updated>2022-05-12T10:23:48.487Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">18:56</span>]]></content>
     </entry>
 </feed>
