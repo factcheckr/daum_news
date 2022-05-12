@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-05-12T18:25:01.105Z</updated>
+    <updated>2022-05-12T19:16:18.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[머니투데이 오프라인 헤드라인-13일]]></title>
+        <id>https://v.daum.net/v/20220513040506537</id>
+        <link href="https://v.daum.net/v/20220513040506537"/>
+        <updated>2022-05-12T19:15:54.301Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">04:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[롯데, 바이오 진출..美 BMS 공장 인수]]></title>
+        <id>https://v.daum.net/v/20220513040202513</id>
+        <link href="https://v.daum.net/v/20220513040202513"/>
+        <updated>2022-05-12T19:15:54.302Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">04:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[롯데, 美 바이오 기지 확보..신약개발 속도전]]></title>
+        <id>https://v.daum.net/v/20220513040102509</id>
+        <link href="https://v.daum.net/v/20220513040102509"/>
+        <updated>2022-05-12T19:15:54.303Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">04:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[지금은 과학] 강유전체 메모리 시대 앞당길 '산화하프늄' 최적공정 찾았다]]></title>
         <id>https://v.daum.net/v/20220513030947434</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220513030147167"/>
         <updated>2022-05-12T18:24:36.011Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">03:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['무어 법칙 한계' 넘어설 '초고집적화 반도체 소자' 실용화 근접]]></title>
-        <id>https://v.daum.net/v/20220513030110142</id>
-        <link href="https://v.daum.net/v/20220513030110142"/>
-        <updated>2022-05-12T18:24:36.011Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">03:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이온빔 이용한 차세대 고성능 반도체 소재 세계 첫 개발]]></title>
-        <id>https://v.daum.net/v/20220513030031126</id>
-        <link href="https://v.daum.net/v/20220513030031126"/>
-        <updated>2022-05-12T18:24:36.012Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">03:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이온빔으로 강유전체 기반 고집적 반도체 구현 길 열어]]></title>
-        <id>https://v.daum.net/v/20220513030021124</id>
-        <link href="https://v.daum.net/v/20220513030021124"/>
-        <updated>2022-05-12T18:24:36.013Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">03:00</span>]]></content>
     </entry>
 </feed>
