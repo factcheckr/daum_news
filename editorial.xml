@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-05-24T16:29:51.452Z</updated>
+    <updated>2022-05-24T17:26:56.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]바이오산업으로 넥스트 팬데믹 대비해야]]></title>
+        <id>https://v.daum.net/v/20220525020504410</id>
+        <link href="https://v.daum.net/v/20220525020504410"/>
+        <updated>2022-05-24T17:26:38.323Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[김남국의 아포리아]반(反)정치 시대의 정치]]></title>
+        <id>https://v.daum.net/v/20220525020501409</id>
+        <link href="https://v.daum.net/v/20220525020501409"/>
+        <updated>2022-05-24T17:26:38.324Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중앙시평] 북한 코로나 사태와 핵 개발 손익계산서]]></title>
         <id>https://v.daum.net/v/20220525003428824</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220525001058635"/>
         <updated>2022-05-24T15:24:15.391Z</updated>
         <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 인사 검증까지 맡는 한동훈, '왕 장관' 우려 커진다]]></title>
-        <id>https://v.daum.net/v/20220525001036610</id>
-        <link href="https://v.daum.net/v/20220525001036610"/>
-        <updated>2022-05-24T15:24:15.396Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 인플레 쓰나미 막지 못하면 정권이 흔들린다]]></title>
-        <id>https://v.daum.net/v/20220525001025600</id>
-        <link href="https://v.daum.net/v/20220525001025600"/>
-        <updated>2022-05-24T15:24:15.397Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
     </entry>
 </feed>
