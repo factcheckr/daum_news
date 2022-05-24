@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-05-24T12:37:31.929Z</updated>
+    <updated>2022-05-24T13:40:19.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[바이든이 이재용에 직접 감사 표한 이곳.."정말 광활하다"]]></title>
+        <id>https://v.daum.net/v/20220524220102376</id>
+        <link href="https://v.daum.net/v/20220524220102376"/>
+        <updated>2022-05-24T13:39:55.372Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여당 수도권 기후·환경 공약, 지방선거서도 실종]]></title>
+        <id>https://v.daum.net/v/20220524215119166</id>
+        <link href="https://v.daum.net/v/20220524215119166"/>
+        <updated>2022-05-24T13:39:55.373Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">21:51</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스마트폰·무선이어폰·스마트워치 동시 충전하는 3in1 고속 무선충전기 2종 출시]]></title>
         <id>https://v.daum.net/v/20220524213332809</id>
@@ -69,7 +83,7 @@
         <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">19:55</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["해도 너무한 중국" 삼성 기술로 '세계 최초' 가로채기?]]></title>
+        <title type="html"><![CDATA[삼성 크게 화났다?..중국 '세계 최초' 가로채기]]></title>
         <id>https://v.daum.net/v/20220524195115993</id>
         <link href="https://v.daum.net/v/20220524195115993"/>
         <updated>2022-05-24T11:17:16.522Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220524194630877"/>
         <updated>2022-05-24T11:17:16.525Z</updated>
         <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">19:46</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LG CNS, 52개 메뉴 'AI 한상차림'.. 필요한 것만 골라 쏙]]></title>
-        <id>https://v.daum.net/v/20220524194628876</id>
-        <link href="https://v.daum.net/v/20220524194628876"/>
-        <updated>2022-05-24T11:17:16.526Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">19:46</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전문가답게.. 이종호 과기부장관 첫 행보도 'AI반도체']]></title>
-        <id>https://v.daum.net/v/20220524194229760</id>
-        <link href="https://v.daum.net/v/20220524194229760"/>
-        <updated>2022-05-24T11:17:16.527Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">19:42</span>]]></content>
     </entry>
 </feed>

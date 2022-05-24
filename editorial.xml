@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-05-24T12:37:31.924Z</updated>
+    <updated>2022-05-24T13:40:19.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022년 5월 25일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20220524220114380</id>
+        <link href="https://v.daum.net/v/20220524220114380"/>
+        <updated>2022-05-24T13:40:03.357Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하늘이와 영희가 우리에게 알려준 것 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20220524220040367</id>
+        <link href="https://v.daum.net/v/20220524220040367"/>
+        <updated>2022-05-24T13:40:03.363Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다산 정약용의 지음자 혜장이 남긴 것은]]></title>
+        <id>https://v.daum.net/v/20220524215608271</id>
+        <link href="https://v.daum.net/v/20220524215608271"/>
+        <updated>2022-05-24T13:40:03.363Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">21:56</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뭐라노]2인자의 미래]]></title>
         <id>https://v.daum.net/v/20220524210603375</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220524202846764"/>
         <updated>2022-05-24T12:37:15.269Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:28</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 인사검증까지 장악한 '한동훈 법무부', 우려스럽다]]></title>
-        <id>https://v.daum.net/v/20220524202605703</id>
-        <link href="https://v.daum.net/v/20220524202605703"/>
-        <updated>2022-05-24T12:37:15.271Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">20:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새가 점점 사라지고 있습니다  [김영준의 균형]]]></title>
-        <id>https://v.daum.net/v/20220524200039161</id>
-        <link href="https://v.daum.net/v/20220524200039161"/>
-        <updated>2022-05-24T11:17:25.034Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">20:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5월 25일 한겨레 그림판]]></title>
-        <id>https://v.daum.net/v/20220524195606085</id>
-        <link href="https://v.daum.net/v/20220524195606085"/>
-        <updated>2022-05-24T11:17:25.036Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:56</span>]]></content>
     </entry>
 </feed>
