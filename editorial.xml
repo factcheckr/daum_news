@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-05-25T04:33:34.271Z</updated>
+    <updated>2022-05-25T05:23:55.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[논단] 세계경제의 불확실성과 경제안보시대의 한미동맹]]></title>
+        <id>https://v.daum.net/v/20220525140825992</id>
+        <link href="https://v.daum.net/v/20220525140825992"/>
+        <updated>2022-05-25T05:23:36.743Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">14:08</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[톺아보기] 대한민국의 소멸을 막기 위한 메가시티 전략의 성공열쇠]]></title>
+        <id>https://v.daum.net/v/20220525134713180</id>
+        <link href="https://v.daum.net/v/20220525134713180"/>
+        <updated>2022-05-25T05:23:36.744Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">13:47</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<사설>선거用 '사과 쇼'조차 "개인 입장"..이게 민주당 실상]]></title>
         <id>https://v.daum.net/v/20220525115551497</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220525112239114"/>
         <updated>2022-05-25T03:22:03.574Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 대규모 기업 투자 일회성 안되려면 규제개혁 절실하다]]></title>
-        <id>https://v.daum.net/v/20220525112238113</id>
-        <link href="https://v.daum.net/v/20220525112238113"/>
-        <updated>2022-05-25T03:22:03.575Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[초동시각]윤석열 정부, 아포피스 탐사 결단 내려야]]></title>
-        <id>https://v.daum.net/v/20220525111836939</id>
-        <link href="https://v.daum.net/v/20220525111836939"/>
-        <updated>2022-05-25T03:22:03.576Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:18</span>]]></content>
     </entry>
 </feed>
