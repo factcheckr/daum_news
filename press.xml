@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-05-25T20:22:27.678Z</updated>
+    <updated>2022-05-25T22:22:44.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[자율주행차 안전성 높인다.. 레벨3 안전기준 개정 추진]]></title>
+        <id>https://v.daum.net/v/20220526063527272</id>
+        <link href="https://v.daum.net/v/20220526063527272"/>
+        <updated>2022-05-25T22:22:36.115Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">06:35</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국립공원 산간계곡 돌발홍수, 강우레이더로 감시]]></title>
+        <id>https://v.daum.net/v/20220526063525271</id>
+        <link href="https://v.daum.net/v/20220526063525271"/>
+        <updated>2022-05-25T22:22:36.116Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">06:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[돈되는 분양] 고품격 주거단지 '제주더힐 클래식' 민간임대 184세대 공급]]></title>
         <id>https://v.daum.net/v/20220526040918616</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20220526000559526</id>
         <link href="https://v.daum.net/v/20220526000559526"/>
         <updated>2022-05-25T15:22:35.582Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[분양 포커스] 앞은 중문 바다 뷰, 뒤엔 한라산 우뚝..시설·코스 리노베이션, 2차 한정 분양]]></title>
-        <id>https://v.daum.net/v/20220526000557524</id>
-        <link href="https://v.daum.net/v/20220526000557524"/>
-        <updated>2022-05-25T15:22:35.583Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[분양 포커스] 아파트 장점 결합한 블록형 단독주택..옥정신도시 중심지, 생활 편의성 높아]]></title>
-        <id>https://v.daum.net/v/20220526000556523</id>
-        <link href="https://v.daum.net/v/20220526000556523"/>
-        <updated>2022-05-25T15:22:35.586Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
     </entry>
 </feed>
