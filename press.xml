@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-05-25T11:18:59.149Z</updated>
+    <updated>2022-05-25T12:37:54.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[권덕철 보건복지부 장관 이임사]]></title>
+        <id>https://v.daum.net/v/20220525203526506</id>
+        <link href="https://v.daum.net/v/20220525203526506"/>
+        <updated>2022-05-25T12:37:44.138Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">20:35</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한일 외교장관 통화(5.25.) 결과]]></title>
+        <id>https://v.daum.net/v/20220525203526505</id>
+        <link href="https://v.daum.net/v/20220525203526505"/>
+        <updated>2022-05-25T12:37:44.140Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">20:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남해어업관리단, 제주 남방 해상 응급환자 이송]]></title>
         <id>https://v.daum.net/v/20220525190540163</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220525175201125"/>
         <updated>2022-05-25T09:20:19.501Z</updated>
         <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">17:52</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국청소년재단, 청소년 유권자 대상 '투표한다람쥐' 캠페인 실시]]></title>
-        <id>https://v.daum.net/v/20220525174704892</id>
-        <link href="https://v.daum.net/v/20220525174704892"/>
-        <updated>2022-05-25T09:20:19.502Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부산 중구치매안심센터, 치매 예방프로그램 운영]]></title>
-        <id>https://v.daum.net/v/20220525173952720</id>
-        <link href="https://v.daum.net/v/20220525173952720"/>
-        <updated>2022-05-25T09:20:19.502Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:39</span>]]></content>
     </entry>
 </feed>
