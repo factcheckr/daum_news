@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-05-25T13:42:12.259Z</updated>
+    <updated>2022-05-25T14:19:58.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 기가바이트, AORUS Project Stealth 컴퓨터 조립 키트 출시]]></title>
+        <id>https://v.daum.net/v/20220525231515078</id>
+        <link href="https://v.daum.net/v/20220525231515078"/>
+        <updated>2022-05-25T14:19:49.614Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">23:15</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[권덕철 보건복지부 장관 이임사]]></title>
         <id>https://v.daum.net/v/20220525203526506</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220525175355168"/>
         <updated>2022-05-25T09:20:19.500Z</updated>
         <content type="html"><![CDATA[kbc광주방송<span class="txt_bar"> · </span><span class="info_time">17:53</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청소년, 디지털 시대의 새로운 문을 열다]]></title>
-        <id>https://v.daum.net/v/20220525175201125</id>
-        <link href="https://v.daum.net/v/20220525175201125"/>
-        <updated>2022-05-25T09:20:19.501Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">17:52</span>]]></content>
     </entry>
 </feed>
