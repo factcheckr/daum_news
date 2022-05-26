@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-05-26T22:23:27.326Z</updated>
+    <updated>2022-05-26T23:18:38.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](27일 조간)]]></title>
+        <id>https://v.daum.net/v/20220527080008728</id>
+        <link href="https://v.daum.net/v/20220527080008728"/>
+        <updated>2022-05-26T23:18:20.767Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Health Recipe | 설탕 중독, 단것이 건강을 위협한다]]></title>
         <id>https://v.daum.net/v/20220527070600842</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220527061505193"/>
         <updated>2022-05-26T21:19:06.587Z</updated>
         <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">06:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[더 한장] 다시 돌아온 서울의 밤]]></title>
-        <id>https://v.daum.net/v/20220527060142035</id>
-        <link href="https://v.daum.net/v/20220527060142035"/>
-        <updated>2022-05-26T21:19:06.591Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">06:01</span>]]></content>
     </entry>
 </feed>
