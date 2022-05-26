@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-05-26T12:36:47.409Z</updated>
+    <updated>2022-05-26T13:37:59.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강원 홍천 돼지농장 아프리카돼지열병(ASF) 발생]]></title>
+        <id>https://v.daum.net/v/20220526223541937</id>
+        <link href="https://v.daum.net/v/20220526223541937"/>
+        <updated>2022-05-26T13:37:50.470Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">22:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[AsiaNet] GPDRR: Indonesia offers sustainable resilience to tackle disaster]]></title>
         <id>https://v.daum.net/v/20220526203859886</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220526201040335</id>
         <link href="https://v.daum.net/v/20220526201040335"/>
         <updated>2022-05-26T11:17:29.569Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성증권, 태블릿 전용 앱 '엠팝탭' 출시..화면 키워 고객 편의 확대]]></title>
-        <id>https://v.daum.net/v/20220526201034334</id>
-        <link href="https://v.daum.net/v/20220526201034334"/>
-        <updated>2022-05-26T11:17:29.570Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:10</span>]]></content>
     </entry>
 </feed>
