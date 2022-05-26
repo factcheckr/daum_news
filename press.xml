@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-05-26T17:26:44.428Z</updated>
+    <updated>2022-05-26T18:25:12.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[편안한 침대에서 오롯이 나를 위한 하루를]]></title>
+        <id>https://v.daum.net/v/20220527031131897</id>
+        <link href="https://v.daum.net/v/20220527031131897"/>
+        <updated>2022-05-26T18:25:04.009Z</updated>
+        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">03:11</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2050년 강원도민 중위연령 63세.. 경제인구 급감 적신호]]></title>
         <id>https://v.daum.net/v/20220527001110903</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220527000553807</id>
         <link href="https://v.daum.net/v/20220527000553807"/>
         <updated>2022-05-26T15:23:03.852Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[함께하는 금융] 미국에 투자하는 'TIGER ETF' 순자산 증가..변동성 장세에도 자금 몰려]]></title>
-        <id>https://v.daum.net/v/20220527000551806</id>
-        <link href="https://v.daum.net/v/20220527000551806"/>
-        <updated>2022-05-26T15:23:03.855Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
     </entry>
 </feed>
