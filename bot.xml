@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-05-26T06:24:40.528Z</updated>
+    <updated>2022-05-26T07:19:08.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[fnRASSI]장마감, 코스닥 하락 종목(큐에스아이 -20.1% ↓)]]></title>
+        <id>https://v.daum.net/v/20220526154212345</id>
+        <link href="https://v.daum.net/v/20220526154212345"/>
+        <updated>2022-05-26T07:19:07.426Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:42</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[fnRASSI]장마감, 코스닥 상승 종목(태웅로직스 29.9% ↑)]]></title>
+        <id>https://v.daum.net/v/20220526154013245</id>
+        <link href="https://v.daum.net/v/20220526154013245"/>
+        <updated>2022-05-26T07:19:07.426Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:40</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[fnRASSI]장마감, 거래소 하락 종목(삼성출판사 -12.9% ↓)]]></title>
+        <id>https://v.daum.net/v/20220526154007235</id>
+        <link href="https://v.daum.net/v/20220526154007235"/>
+        <updated>2022-05-26T07:19:07.426Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:40</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[fnRASSI]장마감, 거래소 상승 종목(한화솔루션우 30.0% ↑)]]></title>
+        <id>https://v.daum.net/v/20220526154001226</id>
+        <link href="https://v.daum.net/v/20220526154001226"/>
+        <updated>2022-05-26T07:19:07.433Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:40</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[fnRASSI]티엘아이, 텔레필드 등 9종목 52주 신고가 경신]]></title>
+        <id>https://v.daum.net/v/20220526153935220</id>
+        <link href="https://v.daum.net/v/20220526153935220"/>
+        <updated>2022-05-26T07:19:07.435Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:39</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[fnRASSI]오늘의 상한가, 한화솔루션우 30.0% ↑]]></title>
+        <id>https://v.daum.net/v/20220526153934219</id>
+        <link href="https://v.daum.net/v/20220526153934219"/>
+        <updated>2022-05-26T07:19:07.435Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:39</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[광주 운남동 운남주공4단지 59㎡ 1억8600만원.. 역대 최고가]]></title>
+        <id>https://v.daum.net/v/20220526153105788</id>
+        <link href="https://v.daum.net/v/20220526153105788"/>
+        <updated>2022-05-26T07:19:07.435Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">15:31</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대구 범어동 두산위브더제니스 204㎡ 25억6200만원.. 역대 최고가]]></title>
+        <id>https://v.daum.net/v/20220526152607558</id>
+        <link href="https://v.daum.net/v/20220526152607558"/>
+        <updated>2022-05-26T07:19:07.435Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">15:26</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[광주 내방동 내방마을주공 59㎡ 2억1000만원.. 역대 최고가]]></title>
         <id>https://v.daum.net/v/20220526152105291</id>
@@ -53,61 +109,5 @@
         <link href="https://v.daum.net/v/20220526145058658"/>
         <updated>2022-05-26T06:24:39.827Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 간석동 간석 래미안자이아파트 84㎡ 5억9000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220526144558439</id>
-        <link href="https://v.daum.net/v/20220526144558439"/>
-        <updated>2022-05-26T06:24:39.829Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 매탄동 매탄위브하늘채 103㎡ 6억3000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220526144104249</id>
-        <link href="https://v.daum.net/v/20220526144104249"/>
-        <updated>2022-05-26T06:24:39.830Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:41</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하남 선동 미사강변2차푸르지오 93㎡ 11억5000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220526143601053</id>
-        <link href="https://v.daum.net/v/20220526143601053"/>
-        <updated>2022-05-26T06:24:39.831Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 당하동 당하 탑스빌 아파트 60㎡ 3억5200만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220526143056813</id>
-        <link href="https://v.daum.net/v/20220526143056813"/>
-        <updated>2022-05-26T06:24:39.831Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 정자동 정자동신1차 77㎡ 3억2000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220526142609620</id>
-        <link href="https://v.daum.net/v/20220526142609620"/>
-        <updated>2022-05-26T06:24:39.835Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 송도동 베르디움더퍼스트아파트 84㎡ 8억8000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220526142109410</id>
-        <link href="https://v.daum.net/v/20220526142109410"/>
-        <updated>2022-05-26T05:23:25.880Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용인 상현동 진산마을성원상떼빌아파트 84㎡ 6억3500만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220526141603189</id>
-        <link href="https://v.daum.net/v/20220526141603189"/>
-        <updated>2022-05-26T05:23:25.880Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용인 공세동 공세대주피오레2단지 150㎡ 6억7000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220526141100969</id>
-        <link href="https://v.daum.net/v/20220526141100969"/>
-        <updated>2022-05-26T05:23:25.881Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:11</span>]]></content>
     </entry>
 </feed>

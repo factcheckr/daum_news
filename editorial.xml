@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-05-26T06:24:40.519Z</updated>
+    <updated>2022-05-26T07:19:08.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[기고]다시 5월이다]]></title>
+        <id>https://v.daum.net/v/20220526160121168</id>
+        <link href="https://v.daum.net/v/20220526160121168"/>
+        <updated>2022-05-26T07:18:53.430Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">16:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[북리뷰] 누구나 '약자'일 수 있다.. 정신과 의사가 들려주는 '사람들'의 이야기]]></title>
+        <id>https://v.daum.net/v/20220526155704973</id>
+        <link href="https://v.daum.net/v/20220526155704973"/>
+        <updated>2022-05-26T07:18:53.431Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">15:57</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국일보 5월 27일 만평]]></title>
+        <id>https://v.daum.net/v/20220526153534056</id>
+        <link href="https://v.daum.net/v/20220526153534056"/>
+        <updated>2022-05-26T07:18:53.432Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">15:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원자력  전문 오리온이앤씨, 울산공장 준공..방사능 측정기 등 생산]]></title>
         <id>https://v.daum.net/v/20220526152107296</id>
@@ -32,6 +53,13 @@
         <link href="https://v.daum.net/v/20220526143547044"/>
         <updated>2022-05-26T06:24:24.904Z</updated>
         <content type="html"><![CDATA[엘르<span class="txt_bar"> · </span><span class="info_time">14:35</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["음주운전 반복 가중 처벌은 위헌"..'윤창호법' 효력 상실]]></title>
+        <id>https://v.daum.net/v/20220526142021364</id>
+        <link href="https://v.daum.net/v/20220526142021364"/>
+        <updated>2022-05-26T07:18:53.435Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">14:20</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[WEEKLY BIZ LETTER] '코봇의 아버지'만의 성공 법칙]]></title>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20220526134217043"/>
         <updated>2022-05-26T05:23:07.618Z</updated>
         <content type="html"><![CDATA[미디어오늘<span class="txt_bar"> · </span><span class="info_time">13:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시시비비] '집'이 만든 현대판 신분제, 당신의 계급은]]></title>
-        <id>https://v.daum.net/v/20220526123907374</id>
-        <link href="https://v.daum.net/v/20220526123907374"/>
-        <updated>2022-05-26T04:33:39.753Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">12:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<사설>대북 연락기구 전락한 국정원 바로 세우기 과감해야]]></title>
-        <id>https://v.daum.net/v/20220526121021811</id>
-        <link href="https://v.daum.net/v/20220526121021811"/>
-        <updated>2022-05-26T03:25:55.972Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">12:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<사설>소주성·탈원전 主役 국조실장 강행 땐 尹정권 자기부정]]></title>
-        <id>https://v.daum.net/v/20220526121013806</id>
-        <link href="https://v.daum.net/v/20220526121013806"/>
-        <updated>2022-05-26T03:25:55.973Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">12:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<사설>52시간제 '노사 자율' 노동시장 정상화 이제 시작이다]]></title>
-        <id>https://v.daum.net/v/20220526120542656</id>
-        <link href="https://v.daum.net/v/20220526120542656"/>
-        <updated>2022-05-26T03:25:55.974Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">12:05</span>]]></content>
     </entry>
 </feed>
