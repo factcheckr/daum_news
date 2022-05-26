@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-05-26T08:26:11.092Z</updated>
+    <updated>2022-05-26T09:21:23.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2022년 05월 26일)]]></title>
+        <id>https://v.daum.net/v/20220526173152068</id>
+        <link href="https://v.daum.net/v/20220526173152068"/>
+        <updated>2022-05-26T09:21:22.708Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[fnRASSI]장마감, 코스닥 하락 종목(큐에스아이 -20.1% ↓)]]></title>
         <id>https://v.daum.net/v/20220526154212345</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220526145605913"/>
         <updated>2022-05-26T06:24:39.826Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:56</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 동춘동 동아금호연수타운 134㎡ 5억6500만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220526145058658</id>
-        <link href="https://v.daum.net/v/20220526145058658"/>
-        <updated>2022-05-26T06:24:39.827Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:50</span>]]></content>
     </entry>
 </feed>
