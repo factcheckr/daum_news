@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-05-27T09:27:20.132Z</updated>
+    <updated>2022-05-27T10:32:03.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사설] 28일까지 사전투표, 지방선거 적극 참여를]]></title>
+        <id>https://v.daum.net/v/20220527185604381</id>
+        <link href="https://v.daum.net/v/20220527185604381"/>
+        <updated>2022-05-27T10:31:44.024Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">18:56</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] "임금 삭감 악용은 위법", 대법원이 세운 임금피크제 원칙]]></title>
         <id>https://v.daum.net/v/20220527182605700</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220527155548381"/>
         <updated>2022-05-27T07:19:12.554Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:55</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시사컬처] 손흥민의 시대를 응원하며]]></title>
-        <id>https://v.daum.net/v/20220527145257997</id>
-        <link href="https://v.daum.net/v/20220527145257997"/>
-        <updated>2022-05-27T06:25:36.412Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">14:52</span>]]></content>
     </entry>
 </feed>
