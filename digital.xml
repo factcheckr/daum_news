@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-05-29T11:17:18.067Z</updated>
+    <updated>2022-05-29T12:32:25.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[부고] 김진희 씨 ((주)후니사람들 갈비다움 대표) 시모상]]></title>
+        <id>https://v.daum.net/v/20220529212329344</id>
+        <link href="https://v.daum.net/v/20220529212329344"/>
+        <updated>2022-05-29T12:31:58.176Z</updated>
+        <content type="html"><![CDATA[머니S<span class="txt_bar"> · </span><span class="info_time">21:23</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["삼성에게 이런 날이 오다니" 애플 코 납작해졌네, 무슨 일?]]></title>
         <id>https://v.daum.net/v/20220529195132446</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220529184841768"/>
         <updated>2022-05-29T10:21:01.696Z</updated>
         <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">18:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 성장 꺾인 IT공룡 '채용 다이어트']]></title>
-        <id>https://v.daum.net/v/20220529184504726</id>
-        <link href="https://v.daum.net/v/20220529184504726"/>
-        <updated>2022-05-29T10:21:01.697Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">18:45</span>]]></content>
     </entry>
 </feed>
