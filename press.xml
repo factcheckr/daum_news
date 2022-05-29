@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-05-29T10:21:28.783Z</updated>
+    <updated>2022-05-29T11:17:18.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아프리카돼지열병(ASF) 방역조치 추진상황]]></title>
+        <id>https://v.daum.net/v/20220529200533599</id>
+        <link href="https://v.daum.net/v/20220529200533599"/>
+        <updated>2022-05-29T11:17:09.483Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">20:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국민이 원하는 실행력 있는 주택공급 대책, 민간과 함께 만들겠습니다.]]></title>
         <id>https://v.daum.net/v/20220529170554976</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220529142512647</id>
         <link href="https://v.daum.net/v/20220529142512647"/>
         <updated>2022-05-29T06:26:08.760Z</updated>
-        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">14:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[행복청, 나성동 복합주민시설 올해 말 준공 앞둬]]></title>
-        <id>https://v.daum.net/v/20220529142509643</id>
-        <link href="https://v.daum.net/v/20220529142509643"/>
-        <updated>2022-05-29T06:26:08.761Z</updated>
         <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">14:25</span>]]></content>
     </entry>
 </feed>
