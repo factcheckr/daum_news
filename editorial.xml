@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-05-29T16:26:36.918Z</updated>
+    <updated>2022-05-29T17:22:51.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]'소환술사'의 몰락]]></title>
+        <id>https://v.daum.net/v/20220530020301263</id>
+        <link href="https://v.daum.net/v/20220530020301263"/>
+        <updated>2022-05-29T17:22:29.615Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이하경 칼럼] 여기가 윤석열의 로도스다, 여기서 뛰어라!]]></title>
         <id>https://v.daum.net/v/20220530003831975</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220530001425892"/>
         <updated>2022-05-29T15:20:32.013Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[취재수첩] '이창용식 소통'이 성공하려면]]></title>
-        <id>https://v.daum.net/v/20220530001402888</id>
-        <link href="https://v.daum.net/v/20220530001402888"/>
-        <updated>2022-05-29T15:20:32.014Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:14</span>]]></content>
     </entry>
 </feed>

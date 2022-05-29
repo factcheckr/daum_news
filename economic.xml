@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2022-05-29T16:26:36.916Z</updated>
+    <updated>2022-05-29T17:22:51.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[베트남증시 27일 마감시황] VN지수 16.88p(1.33%) 급등 1,285.45p '4거래일 연속 상승 마감' [KVINA]]]></title>
+        <id>https://v.daum.net/v/20220530014941227</id>
+        <link href="https://v.daum.net/v/20220530014941227"/>
+        <updated>2022-05-29T17:21:32.712Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">01:49</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이코노 브리핑] 우리금융, 공익재단 추가 설립 추진 외]]></title>
         <id>https://v.daum.net/v/20220530010426082</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220530003603962"/>
         <updated>2022-05-29T16:25:15.141Z</updated>
         <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">00:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[칸 트로피 뒤에 그녀가 있었다.. '이미경' 엔딩크레딧 속 그 이름]]></title>
-        <id>https://v.daum.net/v/20220530001944915</id>
-        <link href="https://v.daum.net/v/20220530001944915"/>
-        <updated>2022-05-29T16:25:15.141Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:19</span>]]></content>
     </entry>
 </feed>

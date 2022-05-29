@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-05-29T16:26:36.914Z</updated>
+    <updated>2022-05-29T17:22:51.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['환경정책기본법''하수도법' 등 14개 환경법안 국회 통과]]></title>
+        <id>https://v.daum.net/v/20220530014748222</id>
+        <link href="https://v.daum.net/v/20220530014748222"/>
+        <updated>2022-05-29T17:22:40.101Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">01:47</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영월 도의원 1·2선거구 양자 대결 결과 주목]]></title>
         <id>https://v.daum.net/v/20220530001039823</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220530000441749</id>
         <link href="https://v.daum.net/v/20220530000441749"/>
         <updated>2022-05-29T15:20:43.520Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[자동차] 가격 정찰제, 고객 전용 멤버십 애플리케이션..AS 고객 만족도 6년 1위]]></title>
-        <id>https://v.daum.net/v/20220530000439748</id>
-        <link href="https://v.daum.net/v/20220530000439748"/>
-        <updated>2022-05-29T15:20:43.522Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
     </entry>
 </feed>
