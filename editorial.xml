@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-05-29T22:23:09.052Z</updated>
+    <updated>2022-05-29T23:20:04.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[한강로에서] 교육청 앞이 달라지는 날]]></title>
+        <id>https://v.daum.net/v/20220530080203514</id>
+        <link href="https://v.daum.net/v/20220530080203514"/>
+        <updated>2022-05-29T23:19:46.754Z</updated>
+        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">08:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](30일 조간)]]></title>
+        <id>https://v.daum.net/v/20220530080003466</id>
+        <link href="https://v.daum.net/v/20220530080003466"/>
+        <updated>2022-05-29T23:19:46.754Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[한화 김욱기의 삶이 있는 얘기]]]></title>
+        <id>https://v.daum.net/v/20220530073827162</id>
+        <link href="https://v.daum.net/v/20220530073827162"/>
+        <updated>2022-05-29T23:19:46.755Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">07:38</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[김대호 박사의 오늘의 키워드] 인플레 정점통과·푸틴 즉각철수·매표 추경·구인대란·윤종원 사퇴]]></title>
+        <id>https://v.daum.net/v/20220530072408954</id>
+        <link href="https://v.daum.net/v/20220530072408954"/>
+        <updated>2022-05-29T23:19:46.756Z</updated>
+        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">07:24</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['빌딩 쇼핑' 깨끗한나라 일가, 돈은 문제될 게 없는 재력가]]></title>
         <id>https://v.daum.net/v/20220530071007810</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20220530060015882"/>
         <updated>2022-05-29T21:17:40.933Z</updated>
         <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Jeffrey Frankel] Get ready for reverse currency wars]]></title>
-        <id>https://v.daum.net/v/20220530053116669</id>
-        <link href="https://v.daum.net/v/20220530053116669"/>
-        <updated>2022-05-29T21:17:40.934Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Editorial] Growing security threat]]></title>
-        <id>https://v.daum.net/v/20220530053054664</id>
-        <link href="https://v.daum.net/v/20220530053054664"/>
-        <updated>2022-05-29T21:17:40.935Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[임정욱의 혁신경제]  '스타트업 겨울' 이겨내기/TBT 벤처파트너]]></title>
-        <id>https://v.daum.net/v/20220530050847471</id>
-        <link href="https://v.daum.net/v/20220530050847471"/>
-        <updated>2022-05-29T20:21:32.584Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[씨줄날줄] 동네북 된 김포공항/전경하 논설위원]]></title>
-        <id>https://v.daum.net/v/20220530050846470</id>
-        <link href="https://v.daum.net/v/20220530050846470"/>
-        <updated>2022-05-29T20:21:32.586Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
     </entry>
 </feed>
