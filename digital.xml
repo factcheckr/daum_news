@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-05-29T13:30:31.365Z</updated>
+    <updated>2022-05-29T14:19:20.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[T1, 3번째 우승 실패..RNG에 아쉬운 패배[MSI]]]></title>
+        <id>https://v.daum.net/v/20220529231840426</id>
+        <link href="https://v.daum.net/v/20220529231840426"/>
+        <updated>2022-05-29T14:18:53.730Z</updated>
+        <content type="html"><![CDATA[스포츠경향<span class="txt_bar"> · </span><span class="info_time">23:18</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['밀리의 서재' 상장 도전..거래소에 예비심사 신청]]></title>
         <id>https://v.daum.net/v/20220529222025939</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220529194432382"/>
         <updated>2022-05-29T11:16:50.985Z</updated>
         <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">19:44</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[D파이오니어를 만나다] '알집' 깨고 나온 AI.. "버추얼 휴먼 1등 기업될 것"]]></title>
-        <id>https://v.daum.net/v/20220529192015204</id>
-        <link href="https://v.daum.net/v/20220529192015204"/>
-        <updated>2022-05-29T10:21:01.690Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">19:20</span>]]></content>
     </entry>
 </feed>
