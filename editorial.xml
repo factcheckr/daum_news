@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-05-30T22:21:08.978Z</updated>
+    <updated>2022-05-30T23:20:53.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[달라진 것 없다는 손흥민, 이것이 '찐 프로의식' [김윤일의 역주행]]]></title>
+        <id>https://v.daum.net/v/20220531080544080</id>
+        <link href="https://v.daum.net/v/20220531080544080"/>
+        <updated>2022-05-30T23:20:36.748Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">08:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](31일 조간)]]></title>
+        <id>https://v.daum.net/v/20220531080005951</id>
+        <link href="https://v.daum.net/v/20220531080005951"/>
+        <updated>2022-05-30T23:20:36.749Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[더 한장] 너의 빈 자리]]></title>
         <id>https://v.daum.net/v/20220531070137200</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20220531050816010</id>
         <link href="https://v.daum.net/v/20220531050816010"/>
         <updated>2022-05-30T20:21:16.911Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 후반기 국회 원 구성 서둘러 입법부 공백 줄여야]]></title>
-        <id>https://v.daum.net/v/20220531050814008</id>
-        <link href="https://v.daum.net/v/20220531050814008"/>
-        <updated>2022-05-30T20:21:16.913Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 정말 인재 양성할 거면 반도체학과 정원부터 풀자]]></title>
-        <id>https://v.daum.net/v/20220531050813006</id>
-        <link href="https://v.daum.net/v/20220531050813006"/>
-        <updated>2022-05-30T20:21:16.914Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
     </entry>
 </feed>
