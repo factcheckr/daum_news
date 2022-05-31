@@ -2,22 +2,85 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-05-31T08:30:45.843Z</updated>
+    <updated>2022-05-31T09:20:09.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[김누리 칼럼] 노예가 자유인을 기를 수 없다]]></title>
+        <id>https://v.daum.net/v/20220531181607289</id>
+        <link href="https://v.daum.net/v/20220531181607289"/>
+        <updated>2022-05-31T09:19:50.502Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">18:16</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[오철우의 과학풍경] 성·젠더 편향 넘어서기, 네이처의 발걸음]]></title>
+        <id>https://v.daum.net/v/20220531181604285</id>
+        <link href="https://v.daum.net/v/20220531181604285"/>
+        <updated>2022-05-31T09:19:50.503Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">18:16</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[만파식적] 트리하우스 푸즈]]></title>
+        <id>https://v.daum.net/v/20220531181208147</id>
+        <link href="https://v.daum.net/v/20220531181208147"/>
+        <updated>2022-05-31T09:19:50.503Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">18:12</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리 아이 알레르기·아토피피부염 자주 묻는 질문 9가지]]></title>
+        <id>https://v.daum.net/v/20220531181119122</id>
+        <link href="https://v.daum.net/v/20220531181119122"/>
+        <updated>2022-05-31T09:19:50.504Z</updated>
+        <content type="html"><![CDATA[베이비뉴스<span class="txt_bar"> · </span><span class="info_time">18:11</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사설]'풀뿌리 민주주의' 옥석 가리자]]></title>
+        <id>https://v.daum.net/v/20220531180104765</id>
+        <link href="https://v.daum.net/v/20220531180104765"/>
+        <updated>2022-05-31T09:19:50.505Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">18:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[지평선] 윤 대통령의 훌륭한 변심]]></title>
+        <id>https://v.daum.net/v/20220531180043749</id>
+        <link href="https://v.daum.net/v/20220531180043749"/>
+        <updated>2022-05-31T09:19:50.506Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">18:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[금감원장 "공매도 조사전담반 설치..불법행위 엄정대응"]]></title>
+        <id>https://v.daum.net/v/20220531175401513</id>
+        <link href="https://v.daum.net/v/20220531175401513"/>
+        <updated>2022-05-31T09:19:50.511Z</updated>
+        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">17:54</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['내 투약이력 조회 서비스'로 마약류 오남용 예방하세요!]]></title>
+        <id>https://v.daum.net/v/20220531173518821</id>
+        <link href="https://v.daum.net/v/20220531173518821"/>
+        <updated>2022-05-31T09:19:50.511Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">17:35</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스포츠 예능 전성기, 스포츠 스타의 재발견]]></title>
+        <id>https://v.daum.net/v/20220531173508816</id>
+        <link href="https://v.daum.net/v/20220531173508816"/>
+        <updated>2022-05-31T09:19:50.512Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">17:35</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[김순덕의 도발]'이재명 방탄'이 김포공항보다 중한가]]></title>
+        <id>https://v.daum.net/v/20220531173135675</id>
+        <link href="https://v.daum.net/v/20220531173135675"/>
+        <updated>2022-05-31T09:19:50.513Z</updated>
+        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">17:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박용석 만평] 6월 1일]]></title>
         <id>https://v.daum.net/v/20220531171256810</id>
         <link href="https://v.daum.net/v/20220531171256810"/>
         <updated>2022-05-31T08:30:24.725Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">17:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[더 한장] BTS를 좋아했던 어느 소녀의 죽음]]></title>
-        <id>https://v.daum.net/v/20220531170807591</id>
-        <link href="https://v.daum.net/v/20220531170807591"/>
-        <updated>2022-05-31T08:30:24.732Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">17:08</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[中 확진자 100명 아래로..'제로 코로나'의 성공?]]></title>
@@ -46,68 +109,5 @@
         <link href="https://v.daum.net/v/20220531162608644"/>
         <updated>2022-05-31T08:30:24.738Z</updated>
         <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">16:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[ET톡]노르망디 리쇼어링]]></title>
-        <id>https://v.daum.net/v/20220531161803214</id>
-        <link href="https://v.daum.net/v/20220531161803214"/>
-        <updated>2022-05-31T07:19:53.097Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">16:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조선족이 뭐 어때서[오늘을 생각한다]]]></title>
-        <id>https://v.daum.net/v/20220531161605099</id>
-        <link href="https://v.daum.net/v/20220531161605099"/>
-        <updated>2022-05-31T07:19:53.098Z</updated>
-        <content type="html"><![CDATA[주간경향<span class="txt_bar"> · </span><span class="info_time">16:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[독자의 소리 1479호(창간특집호)를 읽고]]></title>
-        <id>https://v.daum.net/v/20220531161542076</id>
-        <link href="https://v.daum.net/v/20220531161542076"/>
-        <updated>2022-05-31T07:19:53.099Z</updated>
-        <content type="html"><![CDATA[주간경향<span class="txt_bar"> · </span><span class="info_time">16:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보이는 게 다가 아니다[편집실에서]]]></title>
-        <id>https://v.daum.net/v/20220531161527065</id>
-        <link href="https://v.daum.net/v/20220531161527065"/>
-        <updated>2022-05-31T07:19:53.101Z</updated>
-        <content type="html"><![CDATA[주간경향<span class="txt_bar"> · </span><span class="info_time">16:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[투자의 창] 'OCIO 펀드'의 오용]]></title>
-        <id>https://v.daum.net/v/20220531161417012</id>
-        <link href="https://v.daum.net/v/20220531161417012"/>
-        <updated>2022-05-31T07:19:53.103Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">16:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[칼럼]'권한'을 빼앗긴 검찰이 '권력'을 장악하고 있다]]></title>
-        <id>https://v.daum.net/v/20220531160910813</id>
-        <link href="https://v.daum.net/v/20220531160910813"/>
-        <updated>2022-05-31T07:19:53.104Z</updated>
-        <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">16:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박재민 교수의 펀한 기술경영]<316>빅 콜리전(Big Collision)]]></title>
-        <id>https://v.daum.net/v/20220531160117524</id>
-        <link href="https://v.daum.net/v/20220531160117524"/>
-        <updated>2022-05-31T07:19:53.105Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">16:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김경환 변호사의 IT법]<32>헌법재판소는 로톡 서비스를 어디까지 허용했는가]]></title>
-        <id>https://v.daum.net/v/20220531160113518</id>
-        <link href="https://v.daum.net/v/20220531160113518"/>
-        <updated>2022-05-31T07:19:53.107Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">16:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기고]지식재산권 보호, 디지털 전환으로 한 발 더 빠르게 움직여야]]></title>
-        <id>https://v.daum.net/v/20220531160105506</id>
-        <link href="https://v.daum.net/v/20220531160105506"/>
-        <updated>2022-05-31T07:19:53.108Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">16:01</span>]]></content>
     </entry>
 </feed>

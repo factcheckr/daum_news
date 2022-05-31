@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-05-31T08:30:45.845Z</updated>
+    <updated>2022-05-31T09:20:09.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2022년 05월 31일)]]></title>
+        <id>https://v.daum.net/v/20220531173047639</id>
+        <link href="https://v.daum.net/v/20220531173047639"/>
+        <updated>2022-05-31T09:20:08.648Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[fnRASSI]장마감, 코스닥 하락 종목(플레이위드 -9.0% ↓)]]></title>
         <id>https://v.daum.net/v/20220531160434646</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220531150058929"/>
         <updated>2022-05-31T06:30:43.394Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">15:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용인 풍덕천동 현대성우 59㎡ 6억8500만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220531145601675</id>
-        <link href="https://v.daum.net/v/20220531145601675"/>
-        <updated>2022-05-31T06:30:43.395Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:56</span>]]></content>
     </entry>
 </feed>
