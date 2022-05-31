@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-05-31T15:34:40.070Z</updated>
+    <updated>2022-05-31T16:32:04.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장사꾼 수작뿐인 민주당, '나라의 골칫거리'로 몰락 [정기수 칼럼]]]></title>
+        <id>https://v.daum.net/v/20220601010101060</id>
+        <link href="https://v.daum.net/v/20220601010101060"/>
+        <updated>2022-05-31T16:31:49.219Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">01:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[중앙시평] 나라의 비약을 생각한다]]></title>
+        <id>https://v.daum.net/v/20220601003431967</id>
+        <link href="https://v.daum.net/v/20220601003431967"/>
+        <updated>2022-05-31T16:31:49.220Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:34</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[김동호의 시시각각] 기업을 춤추게 하는 나라]]></title>
         <id>https://v.daum.net/v/20220601003232948</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220601001328878"/>
         <updated>2022-05-31T15:34:24.763Z</updated>
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">00:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] '공룡 법무부', 권한남용 없는 인사검증에 정권명운 걸라]]></title>
-        <id>https://v.daum.net/v/20220601001318876</id>
-        <link href="https://v.daum.net/v/20220601001318876"/>
-        <updated>2022-05-31T15:34:24.763Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">00:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한 컷] 올해 여름도 안전하게]]></title>
-        <id>https://v.daum.net/v/20220601001229872</id>
-        <link href="https://v.daum.net/v/20220601001229872"/>
-        <updated>2022-05-31T15:34:24.765Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:12</span>]]></content>
     </entry>
 </feed>
