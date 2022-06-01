@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-06-01T13:50:01.380Z</updated>
+    <updated>2022-06-01T14:26:22.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[LG전자, TV+가구 'LG 올레드 오브제컬렉션' 신제품 실물 공개[포토뉴스]]]></title>
+        <id>https://v.daum.net/v/20220601224926062</id>
+        <link href="https://v.daum.net/v/20220601224926062"/>
+        <updated>2022-06-01T14:25:56.993Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:49</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[블리자드, '디아블로 이모탈' 모바일 버전 1일 사전 출시]]></title>
         <id>https://v.daum.net/v/20220601223044830</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220601204507801"/>
         <updated>2022-06-01T12:40:28.436Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">20:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 카카오 '탁송 콜' 시장 진출]]></title>
-        <id>https://v.daum.net/v/20220601201210476</id>
-        <link href="https://v.daum.net/v/20220601201210476"/>
-        <updated>2022-06-01T11:17:50.153Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">20:12</span>]]></content>
     </entry>
 </feed>

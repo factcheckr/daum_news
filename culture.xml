@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2022-06-01T13:50:01.377Z</updated>
+    <updated>2022-06-01T14:26:22.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원숭이두창, 제2의 코로나 되나.. 2급 감염병 지정]]></title>
+        <id>https://v.daum.net/v/20220601230318249</id>
+        <link href="https://v.daum.net/v/20220601230318249"/>
+        <updated>2022-06-01T14:25:33.051Z</updated>
+        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">23:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['안면마비' 최희, 간절함이 담긴 한마디.."아 웃고싶다"]]></title>
+        <id>https://v.daum.net/v/20220601224939064</id>
+        <link href="https://v.daum.net/v/20220601224939064"/>
+        <updated>2022-06-01T14:25:33.052Z</updated>
+        <content type="html"><![CDATA[스포츠조선<span class="txt_bar"> · </span><span class="info_time">22:49</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[바람에 찰랑~ 황금빛 춤사위에 추억이 영근다]]></title>
         <id>https://v.daum.net/v/20220601224459010</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220601220928544"/>
         <updated>2022-06-01T13:49:09.103Z</updated>
         <content type="html"><![CDATA[MBN<span class="txt_bar"> · </span><span class="info_time">22:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['2022 내나라 여행박람회' 16~19일 DDP에서]]></title>
-        <id>https://v.daum.net/v/20220601220559483</id>
-        <link href="https://v.daum.net/v/20220601220559483"/>
-        <updated>2022-06-01T13:49:09.103Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">22:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화려한 수국 향연.. 청정 자연 속 반딧불이 군무]]></title>
-        <id>https://v.daum.net/v/20220601220509477</id>
-        <link href="https://v.daum.net/v/20220601220509477"/>
-        <updated>2022-06-01T13:49:09.104Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">22:05</span>]]></content>
     </entry>
 </feed>
