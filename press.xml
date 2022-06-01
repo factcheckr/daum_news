@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-06-01T11:18:15.719Z</updated>
+    <updated>2022-06-01T12:40:51.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[출구조사 발표 후 한산해진 김동연 캠프]]></title>
+        <id>https://v.daum.net/v/20220601211924718</id>
+        <link href="https://v.daum.net/v/20220601211924718"/>
+        <updated>2022-06-01T12:40:43.812Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">21:19</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 하이네켄(R), 새 글로벌 캠페인 통해 일과 삶의 불균형 증가에 맞서]]></title>
+        <id>https://v.daum.net/v/20220601201940766</id>
+        <link href="https://v.daum.net/v/20220601201940766"/>
+        <updated>2022-06-01T12:40:43.812Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:19</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[민주당 관계자 상황실 도착..낮은 투표율 놓고 다양한 해석]]></title>
         <id>https://v.daum.net/v/20220601194101119</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20220601164319269</id>
         <link href="https://v.daum.net/v/20220601164319269"/>
         <updated>2022-06-01T08:29:19.007Z</updated>
-        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">16:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[괴산군, 괴산읍 도시재생 뉴딜사업 '바리스타 교육' 개강]]></title>
-        <id>https://v.daum.net/v/20220601164318268</id>
-        <link href="https://v.daum.net/v/20220601164318268"/>
-        <updated>2022-06-01T08:29:19.010Z</updated>
-        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">16:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제천시립도서관 2022년 독서아카데미 6월부터 강좌 운영]]></title>
-        <id>https://v.daum.net/v/20220601164311265</id>
-        <link href="https://v.daum.net/v/20220601164311265"/>
-        <updated>2022-06-01T08:29:19.011Z</updated>
         <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">16:43</span>]]></content>
     </entry>
 </feed>
