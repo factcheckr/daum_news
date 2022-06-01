@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-06-01T12:40:51.825Z</updated>
+    <updated>2022-06-01T13:50:01.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[블리자드, '디아블로 이모탈' 모바일 버전 1일 사전 출시]]></title>
+        <id>https://v.daum.net/v/20220601223044830</id>
+        <link href="https://v.daum.net/v/20220601223044830"/>
+        <updated>2022-06-01T13:49:35.331Z</updated>
+        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">22:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국경영과학회, 1~4일 제주서 춘계학술대회]]></title>
+        <id>https://v.daum.net/v/20220601222902808</id>
+        <link href="https://v.daum.net/v/20220601222902808"/>
+        <updated>2022-06-01T13:49:35.331Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">22:29</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[통신 3사, 정부에 '5G 중간요금제 검토' 의견 제출]]></title>
+        <id>https://v.daum.net/v/20220601222008724</id>
+        <link href="https://v.daum.net/v/20220601222008724"/>
+        <updated>2022-06-01T13:49:35.331Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">22:20</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[과학기술인상에 '기후변화 대응' 박선영 교수]]></title>
+        <id>https://v.daum.net/v/20220601221518653</id>
+        <link href="https://v.daum.net/v/20220601221518653"/>
+        <updated>2022-06-01T13:49:35.331Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">22:15</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[기자의 눈] 국민을 '虎口'로 만든 5G]]></title>
         <id>https://v.daum.net/v/20220601213551059</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20220601201210476"/>
         <updated>2022-06-01T11:17:50.153Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">20:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[통신3사 "5G 중간요금제 검토중" 의견 정부에 제출]]></title>
-        <id>https://v.daum.net/v/20220601195750815</id>
-        <link href="https://v.daum.net/v/20220601195750815"/>
-        <updated>2022-06-01T11:17:50.154Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">19:57</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민주당 '포털뉴스 개혁 당론'에 반발 잇따라]]></title>
-        <id>https://v.daum.net/v/20220601195339639</id>
-        <link href="https://v.daum.net/v/20220601195339639"/>
-        <updated>2022-06-01T11:17:50.155Z</updated>
-        <content type="html"><![CDATA[미디어오늘<span class="txt_bar"> · </span><span class="info_time">19:53</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[방송3사 출구조사 발표] 신경호 강원도교육감 선거 예측 1위]]></title>
-        <id>https://v.daum.net/v/20220601194811423</id>
-        <link href="https://v.daum.net/v/20220601194811423"/>
-        <updated>2022-06-01T11:17:50.157Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">19:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["간섭 지나치다"..카카오, '메타버스 근무제' 일부 수정키로]]></title>
-        <id>https://v.daum.net/v/20220601194716375</id>
-        <link href="https://v.daum.net/v/20220601194716375"/>
-        <updated>2022-06-01T11:17:50.157Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">19:47</span>]]></content>
     </entry>
 </feed>

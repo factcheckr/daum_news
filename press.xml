@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-06-01T12:40:51.829Z</updated>
+    <updated>2022-06-01T13:50:01.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[건설업 산업안전보건관리비 사용범위 확대]]></title>
+        <id>https://v.daum.net/v/20220601220523480</id>
+        <link href="https://v.daum.net/v/20220601220523480"/>
+        <updated>2022-06-01T13:49:52.326Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">22:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[출구조사 발표 후 한산해진 김동연 캠프]]></title>
         <id>https://v.daum.net/v/20220601211924718</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220601164326274</id>
         <link href="https://v.daum.net/v/20220601164326274"/>
         <updated>2022-06-01T08:29:19.005Z</updated>
-        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">16:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청양군 상세주소 부여 사업 추진]]></title>
-        <id>https://v.daum.net/v/20220601164319269</id>
-        <link href="https://v.daum.net/v/20220601164319269"/>
-        <updated>2022-06-01T08:29:19.007Z</updated>
         <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">16:43</span>]]></content>
     </entry>
 </feed>
