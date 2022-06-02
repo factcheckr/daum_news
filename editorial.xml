@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-06-02T04:49:10.435Z</updated>
+    <updated>2022-06-02T05:33:07.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[데스크라인]6·1 지방선거가 남긴 것]]></title>
+        <id>https://v.daum.net/v/20220602142604555</id>
+        <link href="https://v.daum.net/v/20220602142604555"/>
+        <updated>2022-06-02T05:32:48.030Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">14:26</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이해충돌방지법, 국민 감시가 중요하다!]]></title>
+        <id>https://v.daum.net/v/20220602140518798</id>
+        <link href="https://v.daum.net/v/20220602140518798"/>
+        <updated>2022-06-02T05:32:48.033Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">14:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Tech & Law] 인공지능 발명에 대한 권리문제의 대안으로써 사용자주의 도입]]></title>
+        <id>https://v.daum.net/v/20220602140012567</id>
+        <link href="https://v.daum.net/v/20220602140012567"/>
+        <updated>2022-06-02T05:32:48.034Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팀장 칼럼] 강남 한복판 임대주택은 과연 이대로 좋은가]]></title>
         <id>https://v.daum.net/v/20220602120017357</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220602112025484"/>
         <updated>2022-06-02T03:48:54.447Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최고의 후계자를 선택하는 리더, 외면하는 리더 [최원석의 디코드]]]></title>
-        <id>https://v.daum.net/v/20220602111555242</id>
-        <link href="https://v.daum.net/v/20220602111555242"/>
-        <updated>2022-06-02T03:48:54.449Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">11:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<뉴스와 시각>왕수석 대신 왕장관]]></title>
-        <id>https://v.daum.net/v/20220602111547232</id>
-        <link href="https://v.daum.net/v/20220602111547232"/>
-        <updated>2022-06-02T03:48:54.450Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<오후여담>차기 지도자상(像)]]></title>
-        <id>https://v.daum.net/v/20220602111053980</id>
-        <link href="https://v.daum.net/v/20220602111053980"/>
-        <updated>2022-06-02T03:48:54.453Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:10</span>]]></content>
     </entry>
 </feed>
