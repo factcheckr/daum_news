@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-06-02T12:41:02.409Z</updated>
+    <updated>2022-06-02T13:48:02.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA["'이 여성들' 여기서 다 보네?" 놀라운 반전, 이런게 있었어?]]></title>
+        <title type="html"><![CDATA[전주에 '메카노바이오 혁신 의료기기 실증 기반' 구축 추진]]></title>
+        <id>https://v.daum.net/v/20220602220800666</id>
+        <link href="https://v.daum.net/v/20220602220800666"/>
+        <updated>2022-06-02T13:47:38.267Z</updated>
+        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">22:08</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['물로 수소를'..전라북도, 2024년까지 부안에 생산기지 구축]]></title>
+        <id>https://v.daum.net/v/20220602220757665</id>
+        <link href="https://v.daum.net/v/20220602220757665"/>
+        <updated>2022-06-02T13:47:38.268Z</updated>
+        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">22:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["'이 여성들' 여기서 다 보네" 놀라운 반전, 이런게 있었어?]]></title>
         <id>https://v.daum.net/v/20220602213838528</id>
         <link href="https://v.daum.net/v/20220602213838528"/>
         <updated>2022-06-02T12:40:35.363Z</updated>
@@ -27,7 +41,7 @@
         <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">21:04</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[새 아이폰 '굴욕'?..'고급형'만 최신칩, 보급형엔 구형칩 탑재 이유]]></title>
+        <title type="html"><![CDATA[새 아이폰 '굴욕'?..'고급형' 모델만 최신 칩 쓰는 까닭은]]></title>
         <id>https://v.daum.net/v/20220602210102019</id>
         <link href="https://v.daum.net/v/20220602210102019"/>
         <updated>2022-06-02T12:40:35.369Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220602200548870"/>
         <updated>2022-06-02T11:18:27.471Z</updated>
         <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">20:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美제재 피하려 中 반도체 기업들이 눈 돌린 'RISC-V'.. 돌파구 될까]]></title>
-        <id>https://v.daum.net/v/20220602200013737</id>
-        <link href="https://v.daum.net/v/20220602200013737"/>
-        <updated>2022-06-02T11:18:27.472Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">20:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5G 품질평가 전국 85개시로 확대]]></title>
-        <id>https://v.daum.net/v/20220602195620658</id>
-        <link href="https://v.daum.net/v/20220602195620658"/>
-        <updated>2022-06-02T11:18:27.475Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">19:56</span>]]></content>
     </entry>
 </feed>
