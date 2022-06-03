@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-06-03T20:19:45.129Z</updated>
+    <updated>2022-06-03T21:16:34.928Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우크라이나 전쟁으로 주목받는 애그테크들 [최연진의 IT 프리즘]]]></title>
+        <id>https://v.daum.net/v/20220604060003007</id>
+        <link href="https://v.daum.net/v/20220604060003007"/>
+        <updated>2022-06-03T21:16:17.333Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[당신의 취향에 맞는 커피를 찾아드립니다]]></title>
         <id>https://v.daum.net/v/20220604050802758</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220604032611214"/>
         <updated>2022-06-03T19:15:19.336Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 최저임금 과속 인상 뒤 체불 임금 日 14배, '소주성'의 결과]]></title>
-        <id>https://v.daum.net/v/20220604032412212</id>
-        <link href="https://v.daum.net/v/20220604032412212"/>
-        <updated>2022-06-03T19:15:19.337Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:24</span>]]></content>
     </entry>
 </feed>
