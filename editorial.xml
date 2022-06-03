@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-06-03T09:20:07.645Z</updated>
+    <updated>2022-06-03T10:23:02.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사람의 향내를 맡고 싶다]]></title>
+        <id>https://v.daum.net/v/20220603185004227</id>
+        <link href="https://v.daum.net/v/20220603185004227"/>
+        <updated>2022-06-03T10:22:42.900Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">18:50</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사설] 러, 우크라 침공 100일 '주권 존중·평화' 해법 찾아야]]></title>
+        <id>https://v.daum.net/v/20220603182507901</id>
+        <link href="https://v.daum.net/v/20220603182507901"/>
+        <updated>2022-06-03T10:22:42.901Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">18:25</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[동십자각] 이제부턴 진짜 민생의 시간이다]]></title>
         <id>https://v.daum.net/v/20220603181619765</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220603153628252"/>
         <updated>2022-06-03T07:18:40.558Z</updated>
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">15:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기자수첩] 시장 향한 당국자 메시지는 분명하고 명확해야 한다]]></title>
-        <id>https://v.daum.net/v/20220603150312975</id>
-        <link href="https://v.daum.net/v/20220603150312975"/>
-        <updated>2022-06-03T06:23:17.880Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">15:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[fn사설] 대통령·한은총재 물가 회동을 제안한다]]></title>
-        <id>https://v.daum.net/v/20220603143628165</id>
-        <link href="https://v.daum.net/v/20220603143628165"/>
-        <updated>2022-06-03T06:23:17.880Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">14:36</span>]]></content>
     </entry>
 </feed>
