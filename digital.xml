@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-06-03T11:16:13.330Z</updated>
+    <updated>2022-06-03T12:34:46.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA["이게 겨우 10만원, 진짜야?" 삼성 주력폰 '헐값' 유혹]]></title>
+        <title type="html"><![CDATA[네이버 노조, 중노위 조정신청.."5개 계열사 임금협상 결렬"]]></title>
+        <id>https://v.daum.net/v/20220603210353551</id>
+        <link href="https://v.daum.net/v/20220603210353551"/>
+        <updated>2022-06-03T12:34:21.201Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">21:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["이게 겨우 10만원, 진짜야?" 삼성 '헐값' 유혹]]></title>
         <id>https://v.daum.net/v/20220603195150354</id>
         <link href="https://v.daum.net/v/20220603195150354"/>
         <updated>2022-06-03T11:15:46.946Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220603184131084"/>
         <updated>2022-06-03T10:22:33.699Z</updated>
         <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">18:41</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노코드, 전 산업으로 확대]]></title>
-        <id>https://v.daum.net/v/20220603184057079</id>
-        <link href="https://v.daum.net/v/20220603184057079"/>
-        <updated>2022-06-03T10:22:33.700Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">18:40</span>]]></content>
     </entry>
 </feed>
