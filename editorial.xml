@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-06-03T16:27:07.839Z</updated>
+    <updated>2022-06-03T17:20:01.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김은혜 역전패, 윤석열에겐 약이다 [정기수 칼럼]]]></title>
+        <id>https://v.daum.net/v/20220604020202001</id>
+        <link href="https://v.daum.net/v/20220604020202001"/>
+        <updated>2022-06-03T17:19:42.672Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">02:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[에디터 프리즘] 석기시대의 교훈]]></title>
         <id>https://v.daum.net/v/20220604002820643</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220604000032428"/>
         <updated>2022-06-03T15:19:20.367Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[親검찰 '경찰개선자문위'로는 제대로 된 개혁 어렵다]]></title>
-        <id>https://v.daum.net/v/20220604000011416</id>
-        <link href="https://v.daum.net/v/20220604000011416"/>
-        <updated>2022-06-03T15:19:20.367Z</updated>
-        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
