@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-06-04T06:21:11.357Z</updated>
+    <updated>2022-06-04T07:17:49.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["이게 실화냐?" 한국 '이곳'에 세계 최고 물이 있다니]]></title>
+        <id>https://v.daum.net/v/20220604155104980</id>
+        <link href="https://v.daum.net/v/20220604155104980"/>
+        <updated>2022-06-04T07:17:22.310Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">15:51</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스마일게이트, '로스트아크' 팬 위한 '디어 프렌즈' 콘서트 개최]]></title>
+        <id>https://v.daum.net/v/20220604153813842</id>
+        <link href="https://v.daum.net/v/20220604153813842"/>
+        <updated>2022-06-04T07:17:22.311Z</updated>
+        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">15:38</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[블리자드 신작 '디아블로 이모탈', PC방 20위권 진입 목전]]></title>
         <id>https://v.daum.net/v/20220604150523506</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220604130008550"/>
         <updated>2022-06-04T04:21:51.671Z</updated>
         <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">13:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모더나·화이자 백신보다 안전한 '노바백스 백신' 심근염 우려 제기]]></title>
-        <id>https://v.daum.net/v/20220604125409506</id>
-        <link href="https://v.daum.net/v/20220604125409506"/>
-        <updated>2022-06-04T04:21:51.673Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">12:54</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성 태블릿, 1분기 미국 시장서 3위..애플과 2배 격차]]></title>
-        <id>https://v.daum.net/v/20220604120040156</id>
-        <link href="https://v.daum.net/v/20220604120040156"/>
-        <updated>2022-06-04T03:09:51.077Z</updated>
-        <content type="html"><![CDATA[일간스포츠<span class="txt_bar"> · </span><span class="info_time">12:00</span>]]></content>
     </entry>
 </feed>
