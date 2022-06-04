@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-06-04T03:10:16.857Z</updated>
+    <updated>2022-06-04T04:22:18.728Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[자궁경부암 예방 백신 '가다실9', 가격 인상 논란 왜?[블록버스터 톺아보기]]]></title>
+        <id>https://v.daum.net/v/20220604130023558</id>
+        <link href="https://v.daum.net/v/20220604130023558"/>
+        <updated>2022-06-04T04:21:51.668Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">13:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나사(NASA) 본부가 워싱턴에 있는 이유는..[이진구 기자의 대화, 그 후- '못 다한 이야기']]]></title>
+        <id>https://v.daum.net/v/20220604130008550</id>
+        <link href="https://v.daum.net/v/20220604130008550"/>
+        <updated>2022-06-04T04:21:51.671Z</updated>
+        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">13:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모더나·화이자 백신보다 안전한 '노바백스 백신' 심근염 우려 제기]]></title>
+        <id>https://v.daum.net/v/20220604125409506</id>
+        <link href="https://v.daum.net/v/20220604125409506"/>
+        <updated>2022-06-04T04:21:51.673Z</updated>
+        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">12:54</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삼성 태블릿, 1분기 미국 시장서 3위..애플과 2배 격차]]></title>
         <id>https://v.daum.net/v/20220604120040156</id>
@@ -41,7 +62,7 @@
         <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">11:30</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이제 우린 배달의 민족이 아닌가? 배달앱 3사 5월 이용자 수 살펴보니]]></title>
+        <title type="html"><![CDATA[배달음식 왜 줄였나요? 사람들에게 물어봤더니..]]></title>
         <id>https://v.daum.net/v/20220604112711917</id>
         <link href="https://v.daum.net/v/20220604112711917"/>
         <updated>2022-06-04T03:09:51.077Z</updated>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220604105013526"/>
         <updated>2022-06-04T03:09:51.084Z</updated>
         <content type="html"><![CDATA[동아사이언스<span class="txt_bar"> · </span><span class="info_time">10:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한컴 '싸이타운' 구글 앱 승인.."싸이월드 연동만 남아"]]></title>
-        <id>https://v.daum.net/v/20220604104746500</id>
-        <link href="https://v.daum.net/v/20220604104746500"/>
-        <updated>2022-06-04T03:09:51.086Z</updated>
-        <content type="html"><![CDATA[일간스포츠<span class="txt_bar"> · </span><span class="info_time">10:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다가오는 애플 'WWDC 2022'..iOS16, 맥, AR 헤드셋?]]></title>
-        <id>https://v.daum.net/v/20220604103001317</id>
-        <link href="https://v.daum.net/v/20220604103001317"/>
-        <updated>2022-06-04T03:09:51.089Z</updated>
-        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">10:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EU, 아이폰 충전단자 'USB-C'로 강제 통일 결론 낸다]]></title>
-        <id>https://v.daum.net/v/20220604100013995</id>
-        <link href="https://v.daum.net/v/20220604100013995"/>
-        <updated>2022-06-04T01:20:42.251Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">10:00</span>]]></content>
     </entry>
 </feed>
