@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2022-06-05T16:23:55.598Z</updated>
+    <updated>2022-06-05T17:16:36.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이돌 Off day 꾸안꾸 메이크업]]></title>
+        <id>https://v.daum.net/v/20220606020541423</id>
+        <link href="https://v.daum.net/v/20220606020541423"/>
+        <updated>2022-06-05T17:15:48.728Z</updated>
+        <content type="html"><![CDATA[엘르<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[티쏘, 씨스타 컬렉션 1000 새로운 다이얼 사이즈 출시 '36mm사이즈 유니섹스 모델']]></title>
         <id>https://v.daum.net/v/20220606010002259</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220606000202960"/>
         <updated>2022-06-05T15:17:15.558Z</updated>
         <content type="html"><![CDATA[코스모폴리탄<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강원 영동 지역 새벽~아침까지 '호우' 주의]]></title>
-        <id>https://v.daum.net/v/20220606000154959</id>
-        <link href="https://v.daum.net/v/20220606000154959"/>
-        <updated>2022-06-05T15:17:15.560Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
     </entry>
 </feed>
