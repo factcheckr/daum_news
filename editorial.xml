@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-06-05T12:32:53.309Z</updated>
+    <updated>2022-06-05T13:24:46.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022년 6월 6일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20220605220105424</id>
+        <link href="https://v.daum.net/v/20220605220105424"/>
+        <updated>2022-06-05T13:24:25.784Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[번역가 조씨의 유쾌한 은퇴 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20220605220003408</id>
+        <link href="https://v.daum.net/v/20220605220003408"/>
+        <updated>2022-06-05T13:24:25.787Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오늘의 운세] 6월 6일(음력 5월 8일, 일진은 경인 庚寅) 12지지 띠별 운세 & 궁합]]></title>
         <id>https://v.daum.net/v/20220605210002927</id>
@@ -41,7 +55,7 @@
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:51</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Beware the republicof prosecutors]]></title>
+        <title type="html"><![CDATA[Beware the republic of prosecutors]]></title>
         <id>https://v.daum.net/v/20220605200146619</id>
         <link href="https://v.daum.net/v/20220605200146619"/>
         <updated>2022-06-05T11:15:58.988Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220605190601236"/>
         <updated>2022-06-05T10:18:43.856Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">19:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[fn사설] 바닥 드러낸 저수지, 가뭄발 물가자극 우려]]></title>
-        <id>https://v.daum.net/v/20220605185247129</id>
-        <link href="https://v.daum.net/v/20220605185247129"/>
-        <updated>2022-06-05T10:18:43.857Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">18:52</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[차관칼럼] 코로나 고위험군 패스트트랙 마련]]></title>
-        <id>https://v.daum.net/v/20220605185242128</id>
-        <link href="https://v.daum.net/v/20220605185242128"/>
-        <updated>2022-06-05T10:18:43.858Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">18:52</span>]]></content>
     </entry>
 </feed>
