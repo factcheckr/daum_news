@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2022-06-05T15:18:05.056Z</updated>
+    <updated>2022-06-05T16:23:55.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[LH, '도시의 인문학' 온라인 강의..하반기부터 대면 강좌도]]></title>
+        <id>https://v.daum.net/v/20220606010141274</id>
+        <link href="https://v.daum.net/v/20220606010141274"/>
+        <updated>2022-06-05T16:22:48.836Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연이은 해외여행사 대표단 방문.. 활기 도는 면세점 업계]]></title>
+        <id>https://v.daum.net/v/20220606010137273</id>
+        <link href="https://v.daum.net/v/20220606010137273"/>
+        <updated>2022-06-05T16:22:48.836Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전기차는 서울이 2배 많은데, 충전기는 제주가 더 많네]]></title>
         <id>https://v.daum.net/v/20220606000341001</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220606000237965"/>
         <updated>2022-06-05T15:16:58.124Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["한국, 스태그플레이션 가능성 제한적..물가 안정 우선순위 둬야"]]></title>
-        <id>https://v.daum.net/v/20220606000114954</id>
-        <link href="https://v.daum.net/v/20220606000114954"/>
-        <updated>2022-06-05T15:16:58.125Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[맥주 공장 막아선 화물연대..하이트진로 "다른 배송사와 계약 검토"]]></title>
-        <id>https://v.daum.net/v/20220606000046945</id>
-        <link href="https://v.daum.net/v/20220606000046945"/>
-        <updated>2022-06-05T15:16:58.126Z</updated>
-        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
