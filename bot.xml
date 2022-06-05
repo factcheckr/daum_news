@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-06-05T08:22:00.578Z</updated>
+    <updated>2022-06-05T09:17:28.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가상화폐 스팀달러 2,740원 상승한 6,150원에 거래]]></title>
+        <id>https://v.daum.net/v/20220605173120241</id>
+        <link href="https://v.daum.net/v/20220605173120241"/>
+        <updated>2022-06-05T09:17:28.223Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">17:31</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2022년 06월 05일)]]></title>
+        <id>https://v.daum.net/v/20220605173051227</id>
+        <link href="https://v.daum.net/v/20220605173051227"/>
+        <updated>2022-06-05T09:17:28.224Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 날씨 - 오전 (2022년 06월 05일)]]></title>
         <id>https://v.daum.net/v/20220605053152567</id>
