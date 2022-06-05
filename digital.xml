@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-06-05T10:19:05.677Z</updated>
+    <updated>2022-06-05T11:16:17.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KCA, 작년 ESG 100일 캠페인 성과 영상 공개]]></title>
+        <id>https://v.daum.net/v/20220605194449474</id>
+        <link href="https://v.daum.net/v/20220605194449474"/>
+        <updated>2022-06-05T11:15:50.435Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">19:44</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[위메이드 '미르M', 기대감 고조.. 사전테스트 참가자 90% '추천']]></title>
+        <id>https://v.daum.net/v/20220605192229338</id>
+        <link href="https://v.daum.net/v/20220605192229338"/>
+        <updated>2022-06-05T11:15:50.435Z</updated>
+        <content type="html"><![CDATA[OSEN<span class="txt_bar"> · </span><span class="info_time">19:22</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[컴투스, 신작 '크로니클' 알리기 나서.. 전국 투어 전개]]></title>
         <id>https://v.daum.net/v/20220605190953257</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220605174302376"/>
         <updated>2022-06-05T09:17:02.459Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">17:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['메타버스판 싸이월드' 나온다]]></title>
-        <id>https://v.daum.net/v/20220605174201358</id>
-        <link href="https://v.daum.net/v/20220605174201358"/>
-        <updated>2022-06-05T09:17:02.461Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">17:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방역서 서빙까지..'K로봇' 유럽에 포문]]></title>
-        <id>https://v.daum.net/v/20220605173306255</id>
-        <link href="https://v.daum.net/v/20220605173306255"/>
-        <updated>2022-06-05T09:17:02.462Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:33</span>]]></content>
     </entry>
 </feed>
