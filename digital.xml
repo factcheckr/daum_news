@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-06-05T09:17:28.941Z</updated>
+    <updated>2022-06-05T10:19:05.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[컴투스, 신작 '크로니클' 알리기 나서.. 전국 투어 전개]]></title>
+        <id>https://v.daum.net/v/20220605190953257</id>
+        <link href="https://v.daum.net/v/20220605190953257"/>
+        <updated>2022-06-05T10:18:35.753Z</updated>
+        <content type="html"><![CDATA[OSEN<span class="txt_bar"> · </span><span class="info_time">19:09</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["이 색상 예쁜가요?" 삼성 폴더블폰 '하늘빛' 첫 등장]]></title>
+        <id>https://v.daum.net/v/20220605185115119</id>
+        <link href="https://v.daum.net/v/20220605185115119"/>
+        <updated>2022-06-05T10:18:35.758Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">18:51</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네이버·카카오가 '환경의 날'을 기념하는 방법]]></title>
+        <id>https://v.daum.net/v/20220605184708088</id>
+        <link href="https://v.daum.net/v/20220605184708088"/>
+        <updated>2022-06-05T10:18:35.758Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">18:47</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["악성? 양성? 유방암 진단 95.8%" 인공촉각뉴런이 쉽게 한다]]></title>
+        <id>https://v.daum.net/v/20220605182640936</id>
+        <link href="https://v.daum.net/v/20220605182640936"/>
+        <updated>2022-06-05T10:18:35.760Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">18:26</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한컴 메타버스 '싸이타운', 구글 앱마켓 입점]]></title>
         <id>https://v.daum.net/v/20220605181633826</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20220605173306255"/>
         <updated>2022-06-05T09:17:02.462Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:33</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 비영리단체 손잡은 제페토..메타버스 범죄 사전차단 나서]]></title>
-        <id>https://v.daum.net/v/20220605173300250</id>
-        <link href="https://v.daum.net/v/20220605173300250"/>
-        <updated>2022-06-05T09:17:02.463Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:33</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["테크산업 정체·과도 시기 진입..한국이 먼저 행동나설 때"]]></title>
-        <id>https://v.daum.net/v/20220605173002215</id>
-        <link href="https://v.daum.net/v/20220605173002215"/>
-        <updated>2022-06-05T09:17:02.464Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KIST, 인공촉각뉴런소자 개발.."95.8% 정확도로 유방암 진단"]]></title>
-        <id>https://v.daum.net/v/20220605172531168</id>
-        <link href="https://v.daum.net/v/20220605172531168"/>
-        <updated>2022-06-05T09:17:02.465Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 촉각뉴런으로 악성 유방암 판별]]></title>
-        <id>https://v.daum.net/v/20220605170904873</id>
-        <link href="https://v.daum.net/v/20220605170904873"/>
-        <updated>2022-06-05T08:21:35.550Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:09</span>]]></content>
     </entry>
 </feed>
