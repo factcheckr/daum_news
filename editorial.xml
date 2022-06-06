@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-06-06T07:17:42.284Z</updated>
+    <updated>2022-06-06T08:22:03.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[한상춘의 국제경제 읽기] 테슬라와 삼성전자..성장주인가, 가치주인가]]></title>
+        <id>https://v.daum.net/v/20220606170702664</id>
+        <link href="https://v.daum.net/v/20220606170702664"/>
+        <updated>2022-06-06T08:21:46.394Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">17:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[김창동 대표의 메타버스 제대로 타기]<3>도토리와 NFT]]></title>
         <id>https://v.daum.net/v/20220606160136853</id>
@@ -27,7 +34,7 @@
         <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">16:01</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[김영희 칼럼] 김예지, 그가 그 자리에 있는 이유]]></title>
+        <title type="html"><![CDATA[김예지, 그가 그 자리에 있는 이유 [김영희 칼럼]]]></title>
         <id>https://v.daum.net/v/20220606155509727</id>
         <link href="https://v.daum.net/v/20220606155509727"/>
         <updated>2022-06-06T07:17:25.928Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220606100008745"/>
         <updated>2022-06-06T01:30:28.337Z</updated>
         <content type="html"><![CDATA[스포츠한국<span class="txt_bar"> · </span><span class="info_time">10:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주요 신문 사설](6일 조간)]]></title>
-        <id>https://v.daum.net/v/20220606100004738</id>
-        <link href="https://v.daum.net/v/20220606100004738"/>
-        <updated>2022-06-06T01:30:28.338Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">10:00</span>]]></content>
     </entry>
 </feed>
