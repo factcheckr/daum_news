@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-06-06T16:27:11.802Z</updated>
+    <updated>2022-06-06T17:21:21.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]스마트 팜의 수출 촉진]]></title>
+        <id>https://v.daum.net/v/20220607020505529</id>
+        <link href="https://v.daum.net/v/20220607020505529"/>
+        <updated>2022-06-06T17:21:04.713Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]'칸 겹경사'를 넘어선 한국영화의 미래]]></title>
+        <id>https://v.daum.net/v/20220607020501528</id>
+        <link href="https://v.daum.net/v/20220607020501528"/>
+        <updated>2022-06-06T17:21:04.716Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[최훈 칼럼] 너무 변해서, 너무 변하지 않아서 추락한 민주당]]></title>
         <id>https://v.daum.net/v/20220607003831170</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220607001430070"/>
         <updated>2022-06-06T15:21:21.548Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한 컷] 깨 풍년을 바라는 농부의 정성]]></title>
-        <id>https://v.daum.net/v/20220607001229065</id>
-        <link href="https://v.daum.net/v/20220607001229065"/>
-        <updated>2022-06-06T15:21:21.549Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[도민시론] 보수 진보 이전에 여성입니다]]></title>
-        <id>https://v.daum.net/v/20220607001057024</id>
-        <link href="https://v.daum.net/v/20220607001057024"/>
-        <updated>2022-06-06T15:21:21.549Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
     </entry>
 </feed>
