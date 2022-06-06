@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-06-06T05:19:41.617Z</updated>
+    <updated>2022-06-06T06:24:21.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[누구를 만났느냐가 아니라, 어떻게 사느냐다]]></title>
+        <id>https://v.daum.net/v/20220606142006287</id>
+        <link href="https://v.daum.net/v/20220606142006287"/>
+        <updated>2022-06-06T06:24:02.896Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">14:20</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[ET시론]로봇산업 퀀텀점프를 위한 규제혁신]]></title>
         <id>https://v.daum.net/v/20220606133904550</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220606050814097</id>
         <link href="https://v.daum.net/v/20220606050814097"/>
         <updated>2022-06-05T20:18:07.414Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[씨줄날줄] 용산공원 개방의 조건/박록삼 논설위원]]></title>
-        <id>https://v.daum.net/v/20220606050812096</id>
-        <link href="https://v.daum.net/v/20220606050812096"/>
-        <updated>2022-06-05T20:18:07.415Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
     </entry>
 </feed>
