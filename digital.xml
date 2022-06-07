@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-06-07T19:17:02.876Z</updated>
+    <updated>2022-06-07T20:21:23.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[애플 '헬스 앱'에 약 복용 ·수면 측정 기능 추가]]></title>
+        <id>https://v.daum.net/v/20220608051605520</id>
+        <link href="https://v.daum.net/v/20220608051605520"/>
+        <updated>2022-06-07T20:20:58.397Z</updated>
+        <content type="html"><![CDATA[머니S<span class="txt_bar"> · </span><span class="info_time">05:16</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플, iOS 16·'괴물 칩' M2 공개]]></title>
+        <id>https://v.daum.net/v/20220608050729422</id>
+        <link href="https://v.daum.net/v/20220608050729422"/>
+        <updated>2022-06-07T20:20:58.401Z</updated>
+        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] 김범수, 일본 등 아시아 스타트업에 직접 투자 나선다]]></title>
+        <id>https://v.daum.net/v/20220608050126324</id>
+        <link href="https://v.daum.net/v/20220608050126324"/>
+        <updated>2022-06-07T20:20:58.401Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">05:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[스타트업 리포트]"AI로 대출 사기 잡아낸다" 독특한 핀테크 만든 김대윤 피플펀드 대표]]></title>
+        <id>https://v.daum.net/v/20220608043019021</id>
+        <link href="https://v.daum.net/v/20220608043019021"/>
+        <updated>2022-06-07T20:20:58.408Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[악마 퇴치 맡겨다오..더 짜릿하게 돌아온 '디아블로 이모탈']]></title>
         <id>https://v.daum.net/v/20220608040610796</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20220608030341472"/>
         <updated>2022-06-07T18:21:54.409Z</updated>
         <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">03:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플이 직접 만든 괴물칩 'M2' 공개.. 박수 터져나왔다]]></title>
-        <id>https://v.daum.net/v/20220608030254431</id>
-        <link href="https://v.daum.net/v/20220608030254431"/>
-        <updated>2022-06-07T18:21:54.418Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['음원 끼워팔기' 유튜브뮤직, 1위 멜론 턱밑까지 추격]]></title>
-        <id>https://v.daum.net/v/20220608030234410</id>
-        <link href="https://v.daum.net/v/20220608030234410"/>
-        <updated>2022-06-07T18:21:54.419Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우후죽순 플랫폼 업계, 살아남으려 '적과의 동침']]></title>
-        <id>https://v.daum.net/v/20220608030216392</id>
-        <link href="https://v.daum.net/v/20220608030216392"/>
-        <updated>2022-06-07T18:21:54.420Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과학기술상 홍석원 교수 "융합기술연구로 헬스케어 분야 기여하고 싶어"]]></title>
-        <id>https://v.daum.net/v/20220608030211387</id>
-        <link href="https://v.daum.net/v/20220608030211387"/>
-        <updated>2022-06-07T18:21:54.421Z</updated>
-        <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">03:02</span>]]></content>
     </entry>
 </feed>
