@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-06-08T11:16:11.384Z</updated>
+    <updated>2022-06-08T12:38:28.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정부, 우크라이나 원전의 안전한 운영을 위해  국제원자력기구(IAEA)를 통한 120만불 규모 기여]]></title>
+        <id>https://v.daum.net/v/20220608203536967</id>
+        <link href="https://v.daum.net/v/20220608203536967"/>
+        <updated>2022-06-08T12:38:18.577Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">20:35</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장관, 드미트로 세닉 우크라이나 외교차관 접견]]></title>
+        <id>https://v.daum.net/v/20220608203536966</id>
+        <link href="https://v.daum.net/v/20220608203536966"/>
+        <updated>2022-06-08T12:38:18.579Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">20:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정부, 우크라이나 원전의 안전한 운영을 위해 IAEA를 통한 120만불 규모 기여]]></title>
         <id>https://v.daum.net/v/20220608200529446</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220608181010601"/>
         <updated>2022-06-08T09:18:51.222Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">18:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 퍼포먼스 아리 아라리, 2022년 시즌 서울공연 성황리 종료]]></title>
-        <id>https://v.daum.net/v/20220608180703505</id>
-        <link href="https://v.daum.net/v/20220608180703505"/>
-        <updated>2022-06-08T09:18:51.223Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">18:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[보도참고]경제협력개발기구(OECD) 경제전망(Economic Outlook) 발표]]></title>
-        <id>https://v.daum.net/v/20220608180607481</id>
-        <link href="https://v.daum.net/v/20220608180607481"/>
-        <updated>2022-06-08T09:18:51.224Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">18:06</span>]]></content>
     </entry>
 </feed>
