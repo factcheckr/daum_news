@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-06-08T16:25:07.997Z</updated>
+    <updated>2022-06-08T17:27:37.887Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[김화진칼럼]여성의 기업 이사회 진출]]></title>
+        <id>https://v.daum.net/v/20220609020502257</id>
+        <link href="https://v.daum.net/v/20220609020502257"/>
+        <updated>2022-06-08T17:27:21.392Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓] 자율규제의 경제학]]></title>
+        <id>https://v.daum.net/v/20220609020301254</id>
+        <link href="https://v.daum.net/v/20220609020301254"/>
+        <updated>2022-06-08T17:27:21.393Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[심은경의 미국에서 본 한국] 용산 미군기지 이전의 마무리 과제]]></title>
         <id>https://v.daum.net/v/20220609004037799</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220609002202715"/>
         <updated>2022-06-08T16:24:51.988Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[취재수첩] 차주들도 비판하는 화물연대의 '묻지마' 파업]]></title>
-        <id>https://v.daum.net/v/20220609002102705</id>
-        <link href="https://v.daum.net/v/20220609002102705"/>
-        <updated>2022-06-08T16:24:51.989Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[밀레니얼 트렌드 사전] 핑프]]></title>
-        <id>https://v.daum.net/v/20220609002033701</id>
-        <link href="https://v.daum.net/v/20220609002033701"/>
-        <updated>2022-06-08T16:24:51.990Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:20</span>]]></content>
     </entry>
 </feed>
