@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-06-08T04:32:43.914Z</updated>
+    <updated>2022-06-08T05:17:56.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The legacy of a father (KOR)]]></title>
+        <id>https://v.daum.net/v/20220608141046679</id>
+        <link href="https://v.daum.net/v/20220608141046679"/>
+        <updated>2022-06-08T05:17:41.156Z</updated>
+        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">14:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여름에 더욱 당기는 맥주, 그 속에도 표준이?]]></title>
+        <id>https://v.daum.net/v/20220608140538444</id>
+        <link href="https://v.daum.net/v/20220608140538444"/>
+        <updated>2022-06-08T05:17:41.158Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">14:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[백기철 칼럼] 암흑기 맞은 야권, 각자 걸맞은 책임부터 지라]]></title>
+        <id>https://v.daum.net/v/20220608135006824</id>
+        <link href="https://v.daum.net/v/20220608135006824"/>
+        <updated>2022-06-08T05:17:41.160Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">13:50</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사설]기술 보호, 안 지키면 '백약무효']]></title>
+        <id>https://v.daum.net/v/20220608134707771</id>
+        <link href="https://v.daum.net/v/20220608134707771"/>
+        <updated>2022-06-08T05:17:41.161Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">13:47</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[초동시각]IPO, 천수답 시장서 벗어나야]]></title>
+        <id>https://v.daum.net/v/20220608133325401</id>
+        <link href="https://v.daum.net/v/20220608133325401"/>
+        <updated>2022-06-08T05:17:41.162Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">13:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<사설>화물연대 파업, 엄정한 法 집행과 사측 대항권 절실하다]]></title>
         <id>https://v.daum.net/v/20220608120552372</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20220608114025460"/>
         <updated>2022-06-08T03:25:08.424Z</updated>
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<오후여담>'수박' 예찬과 모욕]]></title>
-        <id>https://v.daum.net/v/20220608113034065</id>
-        <link href="https://v.daum.net/v/20220608113034065"/>
-        <updated>2022-06-08T03:25:08.426Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전승민의 과학세계]원숭이두창, 제2의 코로나19 될까]]></title>
-        <id>https://v.daum.net/v/20220608112722937</id>
-        <link href="https://v.daum.net/v/20220608112722937"/>
-        <updated>2022-06-08T03:25:08.427Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[헤럴드시사] 민간 주도 우주산업과 한국형 스페이스엑스]]></title>
-        <id>https://v.daum.net/v/20220608112516623</id>
-        <link href="https://v.daum.net/v/20220608112516623"/>
-        <updated>2022-06-08T03:25:08.428Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 금감원장까지..도 넘은 尹정부 검찰출신 편중 인사]]></title>
-        <id>https://v.daum.net/v/20220608112512593</id>
-        <link href="https://v.daum.net/v/20220608112512593"/>
-        <updated>2022-06-08T03:25:08.429Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] "반도체 인재양성 발상의 전환"은 범부처적 과제]]></title>
-        <id>https://v.daum.net/v/20220608111814515</id>
-        <link href="https://v.daum.net/v/20220608111814515"/>
-        <updated>2022-06-08T03:25:08.430Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:18</span>]]></content>
     </entry>
 </feed>
