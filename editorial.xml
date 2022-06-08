@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-06-08T05:17:56.727Z</updated>
+    <updated>2022-06-08T06:23:14.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[기고]이제는 '민생'이다]]></title>
+        <id>https://v.daum.net/v/20220608143908104</id>
+        <link href="https://v.daum.net/v/20220608143908104"/>
+        <updated>2022-06-08T06:22:51.924Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">14:39</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An incomprehensible strike (KOR)]]></title>
+        <id>https://v.daum.net/v/20220608141807039</id>
+        <link href="https://v.daum.net/v/20220608141807039"/>
+        <updated>2022-06-08T06:22:51.925Z</updated>
+        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">14:18</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The legacy of a father (KOR)]]></title>
         <id>https://v.daum.net/v/20220608141046679</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220608115017816"/>
         <updated>2022-06-08T03:25:08.422Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<뉴스와 시각>'1000만 영화'와 관객의 힘]]></title>
-        <id>https://v.daum.net/v/20220608114036480</id>
-        <link href="https://v.daum.net/v/20220608114036480"/>
-        <updated>2022-06-08T03:25:08.423Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기자수첩] 반도체 '목숨 건' 대통령과 총수]]></title>
-        <id>https://v.daum.net/v/20220608114025460</id>
-        <link href="https://v.daum.net/v/20220608114025460"/>
-        <updated>2022-06-08T03:25:08.424Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:40</span>]]></content>
     </entry>
 </feed>
