@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-06-09T16:25:59.295Z</updated>
+    <updated>2022-06-09T17:24:44.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]변화하는 중앙은행의 역할]]></title>
+        <id>https://v.daum.net/v/20220610020501705</id>
+        <link href="https://v.daum.net/v/20220610020501705"/>
+        <updated>2022-06-09T17:24:26.728Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]'메타버스 허상론'에 대한 반박]]></title>
+        <id>https://v.daum.net/v/20220610020302703</id>
+        <link href="https://v.daum.net/v/20220610020302703"/>
+        <updated>2022-06-09T17:24:26.728Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중앙시평] 제왕적 대통령제?]]></title>
         <id>https://v.daum.net/v/20220610003832372</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220610002403304"/>
         <updated>2022-06-09T16:25:43.165Z</updated>
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">00:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[현장에선] 장애인 문제는 우리 모두의 일]]></title>
-        <id>https://v.daum.net/v/20220610002312300</id>
-        <link href="https://v.daum.net/v/20220610002312300"/>
-        <updated>2022-06-09T16:25:43.166Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">00:23</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세계와우리] 5·21 韓·美 정상회담 성과와 과제]]></title>
-        <id>https://v.daum.net/v/20220610002302298</id>
-        <link href="https://v.daum.net/v/20220610002302298"/>
-        <updated>2022-06-09T16:25:43.168Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">00:23</span>]]></content>
     </entry>
 </feed>
