@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-06-09T13:38:11.928Z</updated>
+    <updated>2022-06-09T14:17:29.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[더 이상 '칠면조國' 아냐..터키의 국명 변경 사연[박영서의 글로벌 아이]]]></title>
+        <id>https://v.daum.net/v/20220609224807352</id>
+        <link href="https://v.daum.net/v/20220609224807352"/>
+        <updated>2022-06-09T14:17:14.371Z</updated>
+        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">22:48</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022년 6월 10일[김용민의 그림마당]]]></title>
         <id>https://v.daum.net/v/20220609220006832</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220609195900868"/>
         <updated>2022-06-09T11:16:13.332Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">19:59</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reversing a brain drain]]></title>
-        <id>https://v.daum.net/v/20220609195436779</id>
-        <link href="https://v.daum.net/v/20220609195436779"/>
-        <updated>2022-06-09T11:16:13.332Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:54</span>]]></content>
     </entry>
 </feed>
