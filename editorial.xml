@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-06-09T22:20:32.077Z</updated>
+    <updated>2022-06-09T23:18:48.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](10일 조간)]]></title>
+        <id>https://v.daum.net/v/20220610080012905</id>
+        <link href="https://v.daum.net/v/20220610080012905"/>
+        <updated>2022-06-09T23:18:32.966Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[진실화해위 "삼청교육대는 위법한 공권력의 인권침해"]]></title>
+        <id>https://v.daum.net/v/20220610074024525</id>
+        <link href="https://v.daum.net/v/20220610074024525"/>
+        <updated>2022-06-09T23:18:32.967Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV<span class="txt_bar"> · </span><span class="info_time">07:40</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[김대호 박사의 오늘의 키워드] ECB 너마저·CPI 쇼크·APEP·스태그플레이션·임대주택 저주]]></title>
+        <id>https://v.daum.net/v/20220610073607417</id>
+        <link href="https://v.daum.net/v/20220610073607417"/>
+        <updated>2022-06-09T23:18:32.967Z</updated>
+        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">07:36</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[기자수첩] 수능 잔혹사]]></title>
         <id>https://v.daum.net/v/20220610071003958</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220610063601275"/>
         <updated>2022-06-09T22:20:15.698Z</updated>
         <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">06:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Find Dining | 조금 특별한 날의 맛집]]></title>
-        <id>https://v.daum.net/v/20220610063300243</id>
-        <link href="https://v.daum.net/v/20220610063300243"/>
-        <updated>2022-06-09T22:20:15.700Z</updated>
-        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">06:33</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[목멱칼럼]고물가 대응, 정규직 고통분담이 먼저다]]></title>
-        <id>https://v.daum.net/v/20220610061512962</id>
-        <link href="https://v.daum.net/v/20220610061512962"/>
-        <updated>2022-06-09T21:15:33.566Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">06:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기자수첩] "왜 밥상이 온통 풀밭이야"]]></title>
-        <id>https://v.daum.net/v/20220610061001836</id>
-        <link href="https://v.daum.net/v/20220610061001836"/>
-        <updated>2022-06-09T21:15:33.567Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">06:10</span>]]></content>
     </entry>
 </feed>
