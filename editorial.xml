@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-06-10T10:20:52.180Z</updated>
+    <updated>2022-06-10T11:17:14.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[시사캐리커쳐] 아트만두의 인간대백과사전 - 딩동댕]]></title>
+        <id>https://v.daum.net/v/20220610193303847</id>
+        <link href="https://v.daum.net/v/20220610193303847"/>
+        <updated>2022-06-10T11:16:58.090Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">19:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이슈체크] 날개 없이 추락하는 엔화..한국 경제에 미칠 영향은?]]></title>
         <id>https://v.daum.net/v/20220610190004315</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220610154346326"/>
         <updated>2022-06-10T07:19:20.588Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[경제 토론] 尹 "반도체 인재 양성" 주문..반도체 등 첨단학과 규제 풀리나]]></title>
-        <id>https://v.daum.net/v/20220610153721147</id>
-        <link href="https://v.daum.net/v/20220610153721147"/>
-        <updated>2022-06-10T07:19:20.589Z</updated>
-        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">15:37</span>]]></content>
     </entry>
 </feed>
