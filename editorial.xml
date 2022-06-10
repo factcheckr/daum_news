@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-06-10T04:28:12.444Z</updated>
+    <updated>2022-06-10T05:17:25.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](10일 석간)]]></title>
+        <id>https://v.daum.net/v/20220610140324074</id>
+        <link href="https://v.daum.net/v/20220610140324074"/>
+        <updated>2022-06-10T05:17:07.357Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">14:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['경제 태풍'에 숨어있는 내 안의 기득권 [쓴소리 곧은 소리]]]></title>
+        <id>https://v.daum.net/v/20220610140208032</id>
+        <link href="https://v.daum.net/v/20220610140208032"/>
+        <updated>2022-06-10T05:17:07.358Z</updated>
+        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">14:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<사설>"확실한 보훈이 강력한 국방" 교과서에도 담아야 한다]]></title>
         <id>https://v.daum.net/v/20220610121119566</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220610113912725"/>
         <updated>2022-06-10T03:23:10.122Z</updated>
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<문화논단>'美 핵우산 제공' 협정 필요하다]]></title>
-        <id>https://v.daum.net/v/20220610113042365</id>
-        <link href="https://v.daum.net/v/20220610113042365"/>
-        <updated>2022-06-10T03:23:10.122Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[논단] 익숙하지만 이상한 선거제도]]></title>
-        <id>https://v.daum.net/v/20220610112956311</id>
-        <link href="https://v.daum.net/v/20220610112956311"/>
-        <updated>2022-06-10T03:23:10.123Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:29</span>]]></content>
     </entry>
 </feed>
