@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2022-06-10T16:31:04.115Z</updated>
+    <updated>2022-06-10T17:22:56.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[유럽증시] 미국 물가 충격에 2∼3%대 하락]]></title>
+        <id>https://v.daum.net/v/20220611020333926</id>
+        <link href="https://v.daum.net/v/20220611020333926"/>
+        <updated>2022-06-10T17:21:40.075Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[美친주] AMD, 중장기 제품 로드맵 '업데이트'.. 증권가 전망은?]]></title>
+        <id>https://v.daum.net/v/20220611020105909</id>
+        <link href="https://v.daum.net/v/20220611020105909"/>
+        <updated>2022-06-10T17:21:40.075Z</updated>
+        <content type="html"><![CDATA[머니S<span class="txt_bar"> · </span><span class="info_time">02:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美 소비자물가 '쇼크'에 뉴욕 증시 하락..채권금리 상승]]></title>
         <id>https://v.daum.net/v/20220611010656755</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220611010329727"/>
         <updated>2022-06-10T16:29:42.263Z</updated>
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현대건설, 원자력硏과 차세대 원전 개발 맞손]]></title>
-        <id>https://v.daum.net/v/20220611010307722</id>
-        <link href="https://v.daum.net/v/20220611010307722"/>
-        <updated>2022-06-10T16:29:42.263Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리금융, 英과 ESG 경영 강화 협력]]></title>
-        <id>https://v.daum.net/v/20220611010212710</id>
-        <link href="https://v.daum.net/v/20220611010212710"/>
-        <updated>2022-06-10T16:29:42.263Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:02</span>]]></content>
     </entry>
 </feed>
