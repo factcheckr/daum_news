@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-06-11T06:21:47.747Z</updated>
+    <updated>2022-06-11T07:17:42.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제19차 아시아안보회의 계기 한-미-일 국방장관회담 개최]]></title>
+        <id>https://v.daum.net/v/20220611160538680</id>
+        <link href="https://v.daum.net/v/20220611160538680"/>
+        <updated>2022-06-11T07:17:31.234Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">16:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[액틴, NIPA 주관 K-스타트업 그랜드 챌린지 스캔덤 후속 지원]]></title>
         <id>https://v.daum.net/v/20220611130702897</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220611093525718"/>
         <updated>2022-06-11T01:26:25.686Z</updated>
         <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">09:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] UFC®와 비체인, 역사적인 글로벌 마케팅 파트너십 발표]]></title>
-        <id>https://v.daum.net/v/20220611091744505</id>
-        <link href="https://v.daum.net/v/20220611091744505"/>
-        <updated>2022-06-11T01:26:25.686Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">09:17</span>]]></content>
     </entry>
 </feed>
