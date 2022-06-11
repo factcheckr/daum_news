@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-06-11T13:25:22.495Z</updated>
+    <updated>2022-06-11T14:16:57.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유니스트·현대차, 차량용 차세대 태양전지 공동연구]]></title>
+        <id>https://v.daum.net/v/20220611230557683</id>
+        <link href="https://v.daum.net/v/20220611230557683"/>
+        <updated>2022-06-11T14:16:31.446Z</updated>
+        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">23:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[누리호 조립 완료..비와 바람이 마지막 변수]]></title>
+        <id>https://v.daum.net/v/20220611224613600</id>
+        <link href="https://v.daum.net/v/20220611224613600"/>
+        <updated>2022-06-11T14:16:31.448Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">22:46</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[디지스트, 차세대 배터리 기술 개발]]></title>
         <id>https://v.daum.net/v/20220611214249243</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220611170024273"/>
         <updated>2022-06-11T08:21:59.818Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">17:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[메이플 쇼케이스] 하이퍼 버닝 "이거 꿈 아니죠?"]]></title>
-        <id>https://v.daum.net/v/20220611165805251</id>
-        <link href="https://v.daum.net/v/20220611165805251"/>
-        <updated>2022-06-11T08:21:59.819Z</updated>
-        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">16:58</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["루나로 수억원 날린 돈 회복하려고" 이번엔 '이 코인' 난리났다]]></title>
-        <id>https://v.daum.net/v/20220611165103196</id>
-        <link href="https://v.daum.net/v/20220611165103196"/>
-        <updated>2022-06-11T08:21:59.821Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">16:51</span>]]></content>
     </entry>
 </feed>
