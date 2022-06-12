@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-06-12T12:30:14.386Z</updated>
+    <updated>2022-06-12T13:25:33.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022년 6월 13일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20220612220138977</id>
+        <link href="https://v.daum.net/v/20220612220138977"/>
+        <updated>2022-06-12T13:25:16.671Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뭐라노]자이언츠 뎁스]]></title>
+        <id>https://v.daum.net/v/20220612220058968</id>
+        <link href="https://v.daum.net/v/20220612220058968"/>
+        <updated>2022-06-12T13:25:16.680Z</updated>
+        <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자전거포 할아버지의 지혜 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20220612220002958</id>
+        <link href="https://v.daum.net/v/20220612220002958"/>
+        <updated>2022-06-12T13:25:16.683Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주류 vs 비주류..분당說 휘말린 민주당]]></title>
         <id>https://v.daum.net/v/20220612212702620</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220612194935562"/>
         <updated>2022-06-12T11:17:00.422Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:49</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Listen to the advice]]></title>
-        <id>https://v.daum.net/v/20220612194823554</id>
-        <link href="https://v.daum.net/v/20220612194823554"/>
-        <updated>2022-06-12T11:17:00.425Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Work at home not working]]></title>
-        <id>https://v.daum.net/v/20220612194723544</id>
-        <link href="https://v.daum.net/v/20220612194723544"/>
-        <updated>2022-06-12T11:17:00.426Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6월 13일 한겨레 그림판]]></title>
-        <id>https://v.daum.net/v/20220612194503528</id>
-        <link href="https://v.daum.net/v/20220612194503528"/>
-        <updated>2022-06-12T11:17:00.427Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:45</span>]]></content>
     </entry>
 </feed>
