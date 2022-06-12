@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2022-06-12T18:20:45.664Z</updated>
+    <updated>2022-06-12T19:14:53.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나 격리 의무 연장될 듯.. 17일 발표]]></title>
+        <id>https://v.daum.net/v/20220613040740659</id>
+        <link href="https://v.daum.net/v/20220613040740659"/>
+        <updated>2022-06-12T19:14:07.160Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오늘의 설교] 평생토록 변하지 않는 믿음의 소유자, 갈렙]]></title>
         <id>https://v.daum.net/v/20220613031004531</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220613030404450</id>
         <link href="https://v.daum.net/v/20220613030404450"/>
         <updated>2022-06-12T18:20:01.449Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">03:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[현장] 은퇴한 원로목사님이 '행복마트' 연 까닭은..]]></title>
-        <id>https://v.daum.net/v/20220613030402446</id>
-        <link href="https://v.daum.net/v/20220613030402446"/>
-        <updated>2022-06-12T18:20:01.450Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">03:04</span>]]></content>
     </entry>
 </feed>
