@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-06-14T10:22:56.405Z</updated>
+    <updated>2022-06-14T11:16:23.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 모에헤네시, 신임 커뮤니케이션 부사장 임명]]></title>
+        <id>https://v.daum.net/v/20220614201058576</id>
+        <link href="https://v.daum.net/v/20220614201058576"/>
+        <updated>2022-06-14T11:16:14.708Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[참고] 화물연대 집단운송거부 : 6월 14일 17시 기준 상황]]></title>
+        <id>https://v.daum.net/v/20220614193525043</id>
+        <link href="https://v.daum.net/v/20220614193525043"/>
+        <updated>2022-06-14T11:16:14.709Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">19:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경남으로 안심여행을!..경남12개 관광지, 대한민국 안심여행 캠페인 참가]]></title>
         <id>https://v.daum.net/v/20220614191344735</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220614174945992"/>
         <updated>2022-06-14T09:21:04.945Z</updated>
         <content type="html"><![CDATA[kbc광주방송<span class="txt_bar"> · </span><span class="info_time">17:49</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울산림항공관리소, 학생들의 꿈을 JOB아라]]></title>
-        <id>https://v.daum.net/v/20220614173542638</id>
-        <link href="https://v.daum.net/v/20220614173542638"/>
-        <updated>2022-06-14T09:21:04.946Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">17:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[법무부,「촉법소년 연령 기준 현실화 TF」구성]]></title>
-        <id>https://v.daum.net/v/20220614173542637</id>
-        <link href="https://v.daum.net/v/20220614173542637"/>
-        <updated>2022-06-14T09:21:04.952Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">17:35</span>]]></content>
     </entry>
 </feed>
