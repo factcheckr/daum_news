@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-06-14T16:29:26.500Z</updated>
+    <updated>2022-06-14T17:21:56.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]한약제제 분업, 이젠 국민의 입장에서 해결해야]]></title>
+        <id>https://v.daum.net/v/20220615020502850</id>
+        <link href="https://v.daum.net/v/20220615020502850"/>
+        <updated>2022-06-14T17:21:38.982Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]ESG의 이면, 그린워싱]]></title>
+        <id>https://v.daum.net/v/20220615020301848</id>
+        <link href="https://v.daum.net/v/20220615020301848"/>
+        <updated>2022-06-14T17:21:38.983Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[fn사설] 화물연대 파업 타결, 만시지탄이다]]></title>
         <id>https://v.daum.net/v/20220615003545482</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220615001618352"/>
         <updated>2022-06-14T15:20:20.533Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[분수대] 과잉경호]]></title>
-        <id>https://v.daum.net/v/20220615001418348</id>
-        <link href="https://v.daum.net/v/20220615001418348"/>
-        <updated>2022-06-14T15:20:20.534Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[천자 칼럼] 독재자의 불안증후군]]></title>
-        <id>https://v.daum.net/v/20220615001301343</id>
-        <link href="https://v.daum.net/v/20220615001301343"/>
-        <updated>2022-06-14T15:20:20.535Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:13</span>]]></content>
     </entry>
 </feed>
