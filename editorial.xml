@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-06-15T05:22:17.973Z</updated>
+    <updated>2022-06-15T06:22:51.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[칼럼]경찰청장은 행안장관의 부하가 아니다]]></title>
+        <id>https://v.daum.net/v/20220615143311018</id>
+        <link href="https://v.daum.net/v/20220615143311018"/>
+        <updated>2022-06-15T06:22:33.796Z</updated>
+        <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">14:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박찬수 칼럼] 경찰이 왜 독립해야 하는지, 정말 모르나]]></title>
         <id>https://v.daum.net/v/20220615142005449</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220615120057690"/>
         <updated>2022-06-15T03:41:35.794Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">12:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<포럼>기초학력 해법 첫걸음은 전면적 평가]]></title>
-        <id>https://v.daum.net/v/20220615115524495</id>
-        <link href="https://v.daum.net/v/20220615115524495"/>
-        <updated>2022-06-15T03:41:35.795Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:55</span>]]></content>
     </entry>
 </feed>
