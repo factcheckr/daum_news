@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-06-15T10:24:52.294Z</updated>
+    <updated>2022-06-15T11:18:01.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이재용 부회장, ASML·imec과 반도체 협력 확대 논의]]></title>
+        <id>https://v.daum.net/v/20220615200703474</id>
+        <link href="https://v.daum.net/v/20220615200703474"/>
+        <updated>2022-06-15T11:17:52.542Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">20:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Texas Cardiac Arrhythmia Institute at St. David's Medical Center]]></title>
+        <id>https://v.daum.net/v/20220615200004286</id>
+        <link href="https://v.daum.net/v/20220615200004286"/>
+        <updated>2022-06-15T11:17:52.544Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] 화웨이 클라우드, 새로운 가치 창출 위한 15가지 혁신 서비스 발표]]></title>
         <id>https://v.daum.net/v/20220615185636014</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220615173638618"/>
         <updated>2022-06-15T09:18:43.340Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">17:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[굿네이버스, 메타버스 '좋은이웃마을, 아프리카' 오픈]]></title>
-        <id>https://v.daum.net/v/20220615173527580</id>
-        <link href="https://v.daum.net/v/20220615173527580"/>
-        <updated>2022-06-15T09:18:43.341Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">17:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태안 모켄풀빌라, 방문 고객에 다섯가지 주중 무료 프로모션 진행]]></title>
-        <id>https://v.daum.net/v/20220615173504564</id>
-        <link href="https://v.daum.net/v/20220615173504564"/>
-        <updated>2022-06-15T09:18:43.342Z</updated>
-        <content type="html"><![CDATA[월간 아웃도어<span class="txt_bar"> · </span><span class="info_time">17:35</span>]]></content>
     </entry>
 </feed>
