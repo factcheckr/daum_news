@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-06-15T08:26:30.877Z</updated>
+    <updated>2022-06-15T09:18:52.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2022년 06월 15일)]]></title>
+        <id>https://v.daum.net/v/20220615173149436</id>
+        <link href="https://v.daum.net/v/20220615173149436"/>
+        <updated>2022-06-15T09:18:52.005Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가상화폐 카이버네트워크 80원 상승한 1,835원에 거래]]></title>
         <id>https://v.daum.net/v/20220615163123168</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220615134559969"/>
         <updated>2022-06-15T05:22:17.242Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성남 이매동 이매촌한신 66㎡ 13억6500만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220615134100723</id>
-        <link href="https://v.daum.net/v/20220615134100723"/>
-        <updated>2022-06-15T05:22:17.243Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:41</span>]]></content>
     </entry>
 </feed>
