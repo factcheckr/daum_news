@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-06-15T22:19:30.193Z</updated>
+    <updated>2022-06-15T23:20:13.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](16일 조간)]]></title>
+        <id>https://v.daum.net/v/20220616080007187</id>
+        <link href="https://v.daum.net/v/20220616080007187"/>
+        <updated>2022-06-15T23:19:55.485Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[김태기의 인사이트] 균형발전과 인재육성은 상충하는 정책인가? ?]]></title>
         <id>https://v.daum.net/v/20220616070110311</id>
@@ -100,13 +107,6 @@
         <title type="html"><![CDATA[[Kim Myong-sik] Uneasy look at Yoon's new office in Yongsan]]></title>
         <id>https://v.daum.net/v/20220616053052248</id>
         <link href="https://v.daum.net/v/20220616053052248"/>
-        <updated>2022-06-15T21:18:06.524Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Editorial] Strong headwinds ahead]]></title>
-        <id>https://v.daum.net/v/20220616053031246</id>
-        <link href="https://v.daum.net/v/20220616053031246"/>
         <updated>2022-06-15T21:18:06.524Z</updated>
         <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
     </entry>
