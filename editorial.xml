@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-06-15T03:41:53.281Z</updated>
+    <updated>2022-06-15T04:36:21.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스포츠 메세나를 통한 회원종목단체 재정건전성 확보 방안]]></title>
+        <id>https://v.daum.net/v/20220615133507520</id>
+        <link href="https://v.daum.net/v/20220615133507520"/>
+        <updated>2022-06-15T04:36:04.432Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">13:35</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사설]국민은 기업 활약 원한다]]></title>
+        <id>https://v.daum.net/v/20220615132504229</id>
+        <link href="https://v.daum.net/v/20220615132504229"/>
+        <updated>2022-06-15T04:36:04.433Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">13:25</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<사설>화물연대 승리로 끝난 물류 파업, 떼法에 尹정부 밀렸다]]></title>
         <id>https://v.daum.net/v/20220615120102701</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220615112054003"/>
         <updated>2022-06-15T03:41:35.804Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시시비비]겨울이 온다]]></title>
-        <id>https://v.daum.net/v/20220615111117550</id>
-        <link href="https://v.daum.net/v/20220615111117550"/>
-        <updated>2022-06-15T03:41:35.804Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뒤끝작렬]모순과 환상에 빠진 북핵 접근법]]></title>
-        <id>https://v.daum.net/v/20220615105705739</id>
-        <link href="https://v.daum.net/v/20220615105705739"/>
-        <updated>2022-06-15T03:41:35.806Z</updated>
-        <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">10:57</span>]]></content>
     </entry>
 </feed>
