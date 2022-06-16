@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-06-16T12:36:46.465Z</updated>
+    <updated>2022-06-16T13:36:54.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022년 6월 17일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20220616220027259</id>
+        <link href="https://v.daum.net/v/20220616220027259"/>
+        <updated>2022-06-16T13:36:37.058Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[테니스 레슨의 또 다른 깨달음[삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20220616220013249</id>
+        <link href="https://v.daum.net/v/20220616220013249"/>
+        <updated>2022-06-16T13:36:37.059Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뭐라노]줄푸세]]></title>
         <id>https://v.daum.net/v/20220616210134419</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220616200018432"/>
         <updated>2022-06-16T11:15:31.776Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">20:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6월 17일 한겨레 그림판]]></title>
-        <id>https://v.daum.net/v/20220616200004418</id>
-        <link href="https://v.daum.net/v/20220616200004418"/>
-        <updated>2022-06-16T11:15:31.777Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">20:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[여명] 교육부는 반도체부가 아니다]]></title>
-        <id>https://v.daum.net/v/20220616194527197</id>
-        <link href="https://v.daum.net/v/20220616194527197"/>
-        <updated>2022-06-16T11:15:31.778Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">19:45</span>]]></content>
     </entry>
 </feed>
