@@ -2,112 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-06-16T14:17:40.704Z</updated>
+    <updated>2022-06-16T15:19:48.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[일론 머스크 母 메이 "SNS로 새삶 찾아..미래세대 위한 창의적 환경 만들자"]]></title>
-        <id>https://v.daum.net/v/20220616224152732</id>
-        <link href="https://v.daum.net/v/20220616224152732"/>
-        <updated>2022-06-16T14:17:16.316Z</updated>
-        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">22:41</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[리뷰] 에코백스 vs 로보락, 최고사양 로봇청소기, 얼마나 좋길래?]]></title>
-        <id>https://v.daum.net/v/20220616223900707</id>
-        <link href="https://v.daum.net/v/20220616223900707"/>
-        <updated>2022-06-16T14:17:16.318Z</updated>
-        <content type="html"><![CDATA[IT동아<span class="txt_bar"> · </span><span class="info_time">22:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오후 9시까지 전국 6811명 확진..17일 7000명대 전망]]></title>
-        <id>https://v.daum.net/v/20220616222750593</id>
-        <link href="https://v.daum.net/v/20220616222750593"/>
-        <updated>2022-06-16T13:36:29.018Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">22:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[점검 또 점검..한국 최초 순수 지역 기술 위성]]></title>
-        <id>https://v.daum.net/v/20220616220746357</id>
-        <link href="https://v.daum.net/v/20220616220746357"/>
-        <updated>2022-06-16T13:36:29.019Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">22:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[리니지W 위클리] 안타라스 06서버, 이뮨 없이 '데스나이트' 처치하다]]></title>
-        <id>https://v.daum.net/v/20220616220539327</id>
-        <link href="https://v.daum.net/v/20220616220539327"/>
-        <updated>2022-06-16T13:36:29.027Z</updated>
-        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">22:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['발사 연기' 누리호 점검 착수.."기체 분리할 수도"]]></title>
-        <id>https://v.daum.net/v/20220616220348304</id>
-        <link href="https://v.daum.net/v/20220616220348304"/>
-        <updated>2022-06-16T13:36:29.031Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">22:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국의 아마존 될까 vs 만년 적자기업 될까..쿠팡, 흥망성쇠의 기로]]></title>
-        <id>https://v.daum.net/v/20220616220121271</id>
-        <link href="https://v.daum.net/v/20220616220121271"/>
-        <updated>2022-06-16T13:36:29.031Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누리호 '이상 부품' 조사 착수.."1·2단 분리가 관건"]]></title>
-        <id>https://v.daum.net/v/20220616214723062</id>
-        <link href="https://v.daum.net/v/20220616214723062"/>
-        <updated>2022-06-16T13:36:29.031Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">21:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["800억원 순식간에 날렸다" 제대로 물린 '이곳', "그래도 비트코인 좀버"]]></title>
-        <id>https://v.daum.net/v/20220616214715059</id>
-        <link href="https://v.daum.net/v/20220616214715059"/>
-        <updated>2022-06-16T13:36:29.032Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">21:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누리호 오류 원인 분석 본격, 1단과 2단 분리할 수도..]]></title>
-        <id>https://v.daum.net/v/20220616211606629</id>
-        <link href="https://v.daum.net/v/20220616211606629"/>
-        <updated>2022-06-16T12:36:19.259Z</updated>
-        <content type="html"><![CDATA[kbc광주방송<span class="txt_bar"> · </span><span class="info_time">21:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["다정함은 사람을 건강하게 한다".. AI챗봇은 코로나 블루를 치유할 수 있을까?]]></title>
-        <id>https://v.daum.net/v/20220616210600466</id>
-        <link href="https://v.daum.net/v/20220616210600466"/>
-        <updated>2022-06-16T12:36:19.260Z</updated>
-        <content type="html"><![CDATA[IT동아<span class="txt_bar"> · </span><span class="info_time">21:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5G 상용화 4년차..어르신·청년 특화 5G 요금제 나올까]]></title>
-        <id>https://v.daum.net/v/20220616210102409</id>
-        <link href="https://v.daum.net/v/20220616210102409"/>
-        <updated>2022-06-16T12:36:19.261Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">21:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라온피플, 운전자모니터링 시스템 '아이킵' 공개]]></title>
-        <id>https://v.daum.net/v/20220616205648333</id>
-        <link href="https://v.daum.net/v/20220616205648333"/>
-        <updated>2022-06-16T12:36:19.262Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">20:56</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[항우연, 누리호 오작동 문제 원인 파악 착수]]></title>
-        <id>https://v.daum.net/v/20220616204445165</id>
-        <link href="https://v.daum.net/v/20220616204445165"/>
-        <updated>2022-06-16T12:36:19.264Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">20:44</span>]]></content>
+        <title type="html"><![CDATA[프레이저 프로퍼티, 호스피탤리티 트러스트 13억5천만 달러 인수 계획]]></title>
+        <id>https://v.daum.net/v/20220617001455493</id>
+        <link href="https://v.daum.net/v/20220617001455493"/>
+        <updated>2022-06-16T15:19:18.675Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">00:14</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[누리호 점검창 열고 원인 조사 착수.."1-2단 분리해야 할 수도"]]></title>
-        <id>https://v.daum.net/v/20220616202211797</id>
-        <link href="https://v.daum.net/v/20220616202211797"/>
-        <updated>2022-06-16T12:36:19.265Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">20:22</span>]]></content>
+        <id>https://v.daum.net/v/20220617001322478</id>
+        <link href="https://v.daum.net/v/20220617001322478"/>
+        <updated>2022-06-16T15:19:18.676Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:13</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원안위, 신고리 5·6호기 공조계통 설계 변경 허가]]></title>
+        <id>https://v.daum.net/v/20220617001206466</id>
+        <link href="https://v.daum.net/v/20220617001206466"/>
+        <updated>2022-06-16T15:19:18.677Z</updated>
+        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">00:12</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["3년만의 해외여행..수영복 사야죠"..젝시믹스도 뛰어든 '스윔웨어']]></title>
+        <id>https://v.daum.net/v/20220617001017382</id>
+        <link href="https://v.daum.net/v/20220617001017382"/>
+        <updated>2022-06-16T15:19:18.678Z</updated>
+        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['돈 벌어도, 모태 사업도 판다'..지금 제조업은 환골탈태 중]]></title>
+        <id>https://v.daum.net/v/20220617000809365</id>
+        <link href="https://v.daum.net/v/20220617000809365"/>
+        <updated>2022-06-16T15:19:18.679Z</updated>
+        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">00:08</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["MS도 버린 자식.." 경주에 등장한 '익스플로러' 묘비]]></title>
+        <id>https://v.daum.net/v/20220617000747362</id>
+        <link href="https://v.daum.net/v/20220617000747362"/>
+        <updated>2022-06-16T15:19:18.680Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:07</span>]]></content>
     </entry>
 </feed>
