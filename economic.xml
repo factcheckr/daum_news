@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2022-06-16T16:29:14.664Z</updated>
+    <updated>2022-06-16T17:24:03.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[경영계 "최저임금, 5년간 물가보다 4배↑..올해는 업종별 적용해야"]]></title>
+        <id>https://v.daum.net/v/20220617021206911</id>
+        <link href="https://v.daum.net/v/20220617021206911"/>
+        <updated>2022-06-16T17:22:39.710Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">02:12</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["1만원에서 20만원으로 올라도 매진"..金티켓 된 제주행 항공권]]></title>
         <id>https://v.daum.net/v/20220617012022822</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220617010601746"/>
         <updated>2022-06-16T16:27:43.302Z</updated>
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뷰웍스, 판교 연구소 개소 글로벌 바이오 진단장비 시장 진출 본격화]]></title>
-        <id>https://v.daum.net/v/20220617010541742</id>
-        <link href="https://v.daum.net/v/20220617010541742"/>
-        <updated>2022-06-16T16:27:43.304Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:05</span>]]></content>
     </entry>
 </feed>
