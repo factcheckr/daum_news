@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-06-17T10:23:53.719Z</updated>
+    <updated>2022-06-17T11:17:04.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[날씨]18일 전국 곳곳 소나기..서울 낮 최고 30도]]></title>
+        <id>https://v.daum.net/v/20220617201352917</id>
+        <link href="https://v.daum.net/v/20220617201352917"/>
+        <updated>2022-06-17T11:16:47.597Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">20:13</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뭐라노] 1인 시위하는 경찰]]></title>
+        <id>https://v.daum.net/v/20220617195720657</id>
+        <link href="https://v.daum.net/v/20220617195720657"/>
+        <updated>2022-06-17T11:16:47.599Z</updated>
+        <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">19:57</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[VIEW 2035] What's so bad about going bald?]]></title>
         <id>https://v.daum.net/v/20220617183538000</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220617144940948"/>
         <updated>2022-06-17T06:23:19.414Z</updated>
         <content type="html"><![CDATA[베이비뉴스<span class="txt_bar"> · </span><span class="info_time">14:49</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[fn사설] 피살 공무원 월북 왜곡, 빠른 후속조치가 필수]]></title>
-        <id>https://v.daum.net/v/20220617143733585</id>
-        <link href="https://v.daum.net/v/20220617143733585"/>
-        <updated>2022-06-17T06:23:19.419Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">14:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세계의 특이한 바다, 그 이면에는?]]></title>
-        <id>https://v.daum.net/v/20220617143549512</id>
-        <link href="https://v.daum.net/v/20220617143549512"/>
-        <updated>2022-06-17T06:23:19.420Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">14:35</span>]]></content>
     </entry>
 </feed>
