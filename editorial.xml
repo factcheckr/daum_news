@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-06-17T04:34:18.100Z</updated>
+    <updated>2022-06-17T05:20:11.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[ESG칼럼]ESG 정보공개, 철저히 대비해야]]></title>
+        <id>https://v.daum.net/v/20220617141504851</id>
+        <link href="https://v.daum.net/v/20220617141504851"/>
+        <updated>2022-06-17T05:19:40.606Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">14:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[홍길용의 화식열전] 차입폭탄 커진 가상자산 시장, 겨울? 빙하기?]]></title>
+        <id>https://v.daum.net/v/20220617135654194</id>
+        <link href="https://v.daum.net/v/20220617135654194"/>
+        <updated>2022-06-17T05:19:40.607Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">13:56</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쓸 어 버 려_요주의여성 #62]]></title>
         <id>https://v.daum.net/v/20220617125641069</id>
@@ -55,13 +69,6 @@
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">11:49</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마지노선 마저 붕괴된 비트·이더..가상자산 빙하기?]]></title>
-        <id>https://v.daum.net/v/20220617113201221</id>
-        <link href="https://v.daum.net/v/20220617113201221"/>
-        <updated>2022-06-17T03:25:51.346Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:32</span>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[논단]美 자이언트 스텝에도 물가잡기 쉽지않다]]></title>
         <id>https://v.daum.net/v/20220617112928130</id>
         <link href="https://v.daum.net/v/20220617112928130"/>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220617111508643"/>
         <updated>2022-06-17T03:25:51.352Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[일본 바로보기] '반일·친일' 넘어 '경일(競日)·협일(協日)'시대로]]></title>
-        <id>https://v.daum.net/v/20220617111456626</id>
-        <link href="https://v.daum.net/v/20220617111456626"/>
-        <updated>2022-06-17T03:25:51.354Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:14</span>]]></content>
     </entry>
 </feed>
