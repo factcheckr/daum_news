@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-06-18T08:22:39.359Z</updated>
+    <updated>2022-06-18T09:17:19.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2022년 06월 18일)]]></title>
+        <id>https://v.daum.net/v/20220618173046304</id>
+        <link href="https://v.daum.net/v/20220618173046304"/>
+        <updated>2022-06-18T09:17:19.195Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가상화폐 쎄타퓨엘 14.5원 상승한 75.8원에 거래]]></title>
         <id>https://v.daum.net/v/20220618133129086</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220618123102713"/>
         <updated>2022-06-18T04:26:28.693Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 우만동 우만주공4단지 41㎡ 3억7000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220618122604667</id>
-        <link href="https://v.daum.net/v/20220618122604667"/>
-        <updated>2022-06-18T04:26:28.694Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:26</span>]]></content>
     </entry>
 </feed>
