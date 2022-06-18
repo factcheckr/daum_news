@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-06-18T11:15:38.187Z</updated>
+    <updated>2022-06-18T12:30:16.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주가 급락에 가상화폐도 폭락..비트코인 2500만원대]]></title>
+        <id>https://v.daum.net/v/20220618203331482</id>
+        <link href="https://v.daum.net/v/20220618203331482"/>
+        <updated>2022-06-18T12:29:49.407Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">20:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[네오플, "던파 밸런스 불균형 전면 개선하겠다"]]></title>
         <id>https://v.daum.net/v/20220618200654143</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220618162202781"/>
         <updated>2022-06-18T08:22:11.161Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">16:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['갤럭시M'에 꽂힌 이통3사.."5G 가입자·색깔 확보 기회"]]></title>
-        <id>https://v.daum.net/v/20220618161247582</id>
-        <link href="https://v.daum.net/v/20220618161247582"/>
-        <updated>2022-06-18T07:16:39.519Z</updated>
-        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">16:12</span>]]></content>
     </entry>
 </feed>

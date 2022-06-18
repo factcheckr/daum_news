@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-06-18T11:15:38.197Z</updated>
+    <updated>2022-06-18T12:30:16.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘의 운세] 6월 19일(음력 5월 21일, 일진은 계묘 癸卯) 12지지 띠별 운세 & 궁합]]></title>
+        <id>https://v.daum.net/v/20220618210002748</id>
+        <link href="https://v.daum.net/v/20220618210002748"/>
+        <updated>2022-06-18T12:29:59.251Z</updated>
+        <content type="html"><![CDATA[웨딩21뉴스<span class="txt_bar"> · </span><span class="info_time">21:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[시선의 확장] 배수찬과 재일동포 학생야구단]]></title>
         <id>https://v.daum.net/v/20220618131814987</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220618083703163"/>
         <updated>2022-06-18T01:40:45.645Z</updated>
         <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">08:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웃을 줄 아는 별을 갖게 될 거야]]></title>
-        <id>https://v.daum.net/v/20220618082501065</id>
-        <link href="https://v.daum.net/v/20220618082501065"/>
-        <updated>2022-06-18T01:40:45.646Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">08:25</span>]]></content>
     </entry>
 </feed>
