@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-06-18T10:19:30.763Z</updated>
+    <updated>2022-06-18T11:15:38.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Huawei OceanProtect Backup Storage, 인터롭 도쿄 2022에서 수상]]></title>
+        <id>https://v.daum.net/v/20220618201343238</id>
+        <link href="https://v.daum.net/v/20220618201343238"/>
+        <updated>2022-06-18T11:15:29.011Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:13</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Unilumin, 인포콤 2022에서 조명 및 디스플레이 제품 첫 공개]]></title>
+        <id>https://v.daum.net/v/20220618195100940</id>
+        <link href="https://v.daum.net/v/20220618195100940"/>
+        <updated>2022-06-18T11:15:29.011Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">19:51</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] 칸 라이언즈에서 터보스퀴드가 지원하는 셔터스톡의 3D 갤러리]]></title>
         <id>https://v.daum.net/v/20220618141323383</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220618084016200"/>
         <updated>2022-06-18T01:41:11.054Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">08:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[AsiaNet] Qianhai's Optimized Business Environment Better Supports Hong Kong]]></title>
-        <id>https://v.daum.net/v/20220618084013198</id>
-        <link href="https://v.daum.net/v/20220618084013198"/>
-        <updated>2022-06-18T01:41:11.055Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">08:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[충남연구원, '지방자치단체 데이터 기반 정책 연구 포럼' 개최]]></title>
-        <id>https://v.daum.net/v/20220618060704138</id>
-        <link href="https://v.daum.net/v/20220618060704138"/>
-        <updated>2022-06-17T21:16:41.176Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">06:07</span>]]></content>
     </entry>
 </feed>
