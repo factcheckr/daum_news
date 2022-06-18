@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-06-18T13:27:24.409Z</updated>
+    <updated>2022-06-18T14:16:45.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[웨이브, 신규 프로그램 성적표 공개..1위는]]></title>
+        <id>https://v.daum.net/v/20220618223326808</id>
+        <link href="https://v.daum.net/v/20220618223326808"/>
+        <updated>2022-06-18T14:16:19.703Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">22:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비트코인, 2만 달러 붕괴..2020년 12월 이후 처음]]></title>
         <id>https://v.daum.net/v/20220618215507430</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220618170102675"/>
         <updated>2022-06-18T08:22:11.153Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">17:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["투명 스마트폰으로 한국 공략"..영국 IT기업 낫싱, '1% 반란' 성공할까]]></title>
-        <id>https://v.daum.net/v/20220618170002655</id>
-        <link href="https://v.daum.net/v/20220618170002655"/>
-        <updated>2022-06-18T08:22:11.154Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">17:00</span>]]></content>
     </entry>
 </feed>
