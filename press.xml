@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-06-19T11:15:22.446Z</updated>
+    <updated>2022-06-19T12:30:43.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['판정 논란' 에멧, 케이터 꺾고 "페더급 타이틀전 줘"]]></title>
+        <id>https://v.daum.net/v/20220619201853576</id>
+        <link href="https://v.daum.net/v/20220619201853576"/>
+        <updated>2022-06-19T12:30:34.624Z</updated>
+        <content type="html"><![CDATA[스포탈코리아<span class="txt_bar"> · </span><span class="info_time">20:18</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[변동장 피난처 '한화K-리츠플러스펀드' 선방]]></title>
         <id>https://v.daum.net/v/20220619180504689</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220619174500184"/>
         <updated>2022-06-19T09:18:18.094Z</updated>
         <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">17:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[익명의 기부천사 전한 '통큰'나눔 이웃에 전달]]></title>
-        <id>https://v.daum.net/v/20220619174450178</id>
-        <link href="https://v.daum.net/v/20220619174450178"/>
-        <updated>2022-06-19T09:18:18.095Z</updated>
-        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">17:44</span>]]></content>
     </entry>
 </feed>
