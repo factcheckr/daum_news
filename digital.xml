@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-06-19T13:25:55.685Z</updated>
+    <updated>2022-06-19T14:16:36.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[누리호 내일 이송·모레 발사 재도전..결함 보완·점검 완료]]></title>
+        <id>https://v.daum.net/v/20220619224936574</id>
+        <link href="https://v.daum.net/v/20220619224936574"/>
+        <updated>2022-06-19T14:16:12.462Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">22:49</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['누리'호 예정대로 20일 오전 발사대로 이송..항우연 "준비에 영향 줄 만한 기상 상황 없다"]]></title>
         <id>https://v.daum.net/v/20220619221642337</id>
@@ -41,7 +48,7 @@
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">21:34</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["가격 30만원이나 낮췄는데" 삼성 최고 '이것' 뜻밖의 퇴장?]]></title>
+        <title type="html"><![CDATA["가격 30만원이나 낮췄는데" 삼성 역대급 가성비폰 사라진다?]]></title>
         <id>https://v.daum.net/v/20220619205114148</id>
         <link href="https://v.daum.net/v/20220619205114148"/>
         <updated>2022-06-19T12:30:19.403Z</updated>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220619194429817</id>
         <link href="https://v.daum.net/v/20220619194429817"/>
         <updated>2022-06-19T11:14:57.111Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">19:44</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국선 취약층에 인터넷 요금 주고.. 핀란드선 앱으로 의료진과 소통]]></title>
-        <id>https://v.daum.net/v/20220619194428815</id>
-        <link href="https://v.daum.net/v/20220619194428815"/>
-        <updated>2022-06-19T11:14:57.112Z</updated>
         <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">19:44</span>]]></content>
     </entry>
 </feed>
