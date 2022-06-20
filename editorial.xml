@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-06-20T16:29:36.225Z</updated>
+    <updated>2022-06-20T17:24:21.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[동상이목(同想異目)] '5년짜리' 투자 보따리]]></title>
+        <id>https://v.daum.net/v/20220621020305989</id>
+        <link href="https://v.daum.net/v/20220621020305989"/>
+        <updated>2022-06-20T17:24:05.129Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]싸이를 위한 변명]]></title>
+        <id>https://v.daum.net/v/20220621020302986</id>
+        <link href="https://v.daum.net/v/20220621020302986"/>
+        <updated>2022-06-20T17:24:05.130Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[고현곤 칼럼] 경제위기 때 필요한 건 자유보다 따뜻함]]></title>
         <id>https://v.daum.net/v/20220621003833658</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220621001422583"/>
         <updated>2022-06-20T15:19:32.796Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[조일훈 칼럼] 동학개미의 진격과 좌절..이제 시즌1 끝났을 뿐]]></title>
-        <id>https://v.daum.net/v/20220621001404581</id>
-        <link href="https://v.daum.net/v/20220621001404581"/>
-        <updated>2022-06-20T15:19:32.798Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[천자 칼럼] 중국 '탈출학(runology)']]></title>
-        <id>https://v.daum.net/v/20220621001401580</id>
-        <link href="https://v.daum.net/v/20220621001401580"/>
-        <updated>2022-06-20T15:19:32.799Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:14</span>]]></content>
     </entry>
 </feed>

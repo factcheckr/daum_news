@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2022-06-20T16:29:36.251Z</updated>
+    <updated>2022-06-20T17:24:21.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유튜브 광고에도 한류 바람..톱 10에 세 편 진입]]></title>
+        <id>https://v.daum.net/v/20220621020816003</id>
+        <link href="https://v.daum.net/v/20220621020816003"/>
+        <updated>2022-06-20T17:23:31.054Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">02:08</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홍웅표 보좌관 "진보주의자야 말로 가장 애국자여야"]]></title>
         <id>https://v.daum.net/v/20220621010632806</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220621001040542"/>
         <updated>2022-06-20T15:18:59.065Z</updated>
         <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 운세] 6월 21일]]></title>
-        <id>https://v.daum.net/v/20220621000452439</id>
-        <link href="https://v.daum.net/v/20220621000452439"/>
-        <updated>2022-06-20T15:18:59.065Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
     </entry>
 </feed>
