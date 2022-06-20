@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-06-20T18:28:04.028Z</updated>
+    <updated>2022-06-20T19:14:44.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[달릴 준비 됐어? 스마트폰만 챙겨]]></title>
+        <id>https://v.daum.net/v/20220621040322552</id>
+        <link href="https://v.daum.net/v/20220621040322552"/>
+        <updated>2022-06-20T19:14:36.484Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">04:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[동해 천곡동 도심 '최대 60m' 고도제한 시행]]></title>
         <id>https://v.daum.net/v/20220621001033537</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220621000608482</id>
         <link href="https://v.daum.net/v/20220621000608482"/>
         <updated>2022-06-20T15:19:40.855Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2022 대한민국 교육브랜드 대상] 교육 시장의 트렌드 변화에 발 빠르게 대응한 대표 브랜드 선정]]></title>
-        <id>https://v.daum.net/v/20220621000603479</id>
-        <link href="https://v.daum.net/v/20220621000603479"/>
-        <updated>2022-06-20T15:19:40.856Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
     </entry>
 </feed>
