@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-06-21T12:40:03.556Z</updated>
+    <updated>2022-06-21T13:43:58.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022년 6월 22일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20220621220152636</id>
+        <link href="https://v.daum.net/v/20220621220152636"/>
+        <updated>2022-06-21T13:43:42.093Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장애를 예방한다고요? [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20220621220044613</id>
+        <link href="https://v.daum.net/v/20220621220044613"/>
+        <updated>2022-06-21T13:43:42.094Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[양권모 칼럼] 지금 '이재명 당대표'가 최선일까]]></title>
+        <id>https://v.daum.net/v/20220621214919342</id>
+        <link href="https://v.daum.net/v/20220621214919342"/>
+        <updated>2022-06-21T13:43:42.095Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">21:49</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[영상 사설] 경제고통지수 최악인데 치킨게임만 하는 국회]]></title>
         <id>https://v.daum.net/v/20220621211610791</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220621200330065"/>
         <updated>2022-06-21T11:27:16.833Z</updated>
         <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">20:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당신은 당신의 개를 얼마나 알고 있는가 [박정윤의 으라차차 동물환자]]]></title>
-        <id>https://v.daum.net/v/20220621200101962</id>
-        <link href="https://v.daum.net/v/20220621200101962"/>
-        <updated>2022-06-21T11:27:16.833Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">20:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Achilles heel on security]]></title>
-        <id>https://v.daum.net/v/20220621200042954</id>
-        <link href="https://v.daum.net/v/20220621200042954"/>
-        <updated>2022-06-21T11:27:16.837Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Today's Cartoon] 2022.06.22]]></title>
-        <id>https://v.daum.net/v/20220621195751867</id>
-        <link href="https://v.daum.net/v/20220621195751867"/>
-        <updated>2022-06-21T11:27:16.838Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:57</span>]]></content>
     </entry>
 </feed>
