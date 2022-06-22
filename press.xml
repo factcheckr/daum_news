@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-06-22T21:17:27.268Z</updated>
+    <updated>2022-06-22T22:18:18.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[도심·관광지·공원 등으로 자율주행 서비스 대폭 확대된다]]></title>
+        <id>https://v.daum.net/v/20220623063524237</id>
+        <link href="https://v.daum.net/v/20220623063524237"/>
+        <updated>2022-06-22T22:18:09.357Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">06:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[충남연구원, 무슬림 외국인 주민 간담회 개최]]></title>
         <id>https://v.daum.net/v/20220623060704956</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220623000454370</id>
         <link href="https://v.daum.net/v/20220623000454370"/>
         <updated>2022-06-22T15:20:22.998Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대한민국 플래티넘 콜센터] '디지털 ARS' 등 최적화된 상담 서비스]]></title>
-        <id>https://v.daum.net/v/20220623000451369</id>
-        <link href="https://v.daum.net/v/20220623000451369"/>
-        <updated>2022-06-22T15:20:22.999Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
     </entry>
 </feed>
