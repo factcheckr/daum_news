@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2022-06-22T16:28:41.992Z</updated>
+    <updated>2022-06-22T17:33:15.194Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[尹 "호화청사 매각" 하루 만에..정부, 공공기관 실태조사]]></title>
+        <id>https://v.daum.net/v/20220623013315946</id>
+        <link href="https://v.daum.net/v/20220623013315946"/>
+        <updated>2022-06-22T17:32:11.961Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">01:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[외인이 집중 매도한 종목은 삼성전자 아닌 이 종목]]></title>
         <id>https://v.daum.net/v/20220623012208925</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220623010502795"/>
         <updated>2022-06-22T16:27:34.902Z</updated>
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[농협, '2022년도 전국 통합RPC협의회 정기총회' 개최]]></title>
-        <id>https://v.daum.net/v/20220623010457794</id>
-        <link href="https://v.daum.net/v/20220623010457794"/>
-        <updated>2022-06-22T16:27:34.903Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:04</span>]]></content>
     </entry>
 </feed>
