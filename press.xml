@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-06-23T09:19:08.812Z</updated>
+    <updated>2022-06-23T10:22:38.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대전시, 저소득층에 한시 긴급생활지원금]]></title>
+        <id>https://v.daum.net/v/20220623185721972</id>
+        <link href="https://v.daum.net/v/20220623185721972"/>
+        <updated>2022-06-23T10:22:29.605Z</updated>
+        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">18:57</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한화그룹, 대전MBC와 '2022 한빛대상' 협약식 진행]]></title>
+        <id>https://v.daum.net/v/20220623185620926</id>
+        <link href="https://v.daum.net/v/20220623185620926"/>
+        <updated>2022-06-23T10:22:29.606Z</updated>
+        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">18:56</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한-사우디 에너지 장관, 에너지 공급망 안정 협력키로]]></title>
+        <id>https://v.daum.net/v/20220623183539567</id>
+        <link href="https://v.daum.net/v/20220623183539567"/>
+        <updated>2022-06-23T10:22:29.607Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">18:35</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이유씨엔씨, 친환경 단차열 코팅제 개발]]></title>
+        <id>https://v.daum.net/v/20220623182702420</id>
+        <link href="https://v.daum.net/v/20220623182702420"/>
+        <updated>2022-06-23T10:22:29.610Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">18:27</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[보라매인터넷중독예방상담센터, LKYCIC 연구원과 청소년 디지털 기기 사용 대책 인터뷰 진행]]></title>
         <id>https://v.daum.net/v/20220623181703201</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20220623171704323"/>
         <updated>2022-06-23T08:27:36.794Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엠앤에스텍, 실시간 필터 오염 감지 기술 적용한 '필터 교체 시기 알람 환기 시스템' 개발]]></title>
-        <id>https://v.daum.net/v/20220623171703321</id>
-        <link href="https://v.daum.net/v/20220623171703321"/>
-        <updated>2022-06-23T08:27:36.796Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안리쓰-텍트로닉스, PCI-SIG® 개발자 컨퍼런스 2022서 'PCI-Express® 6.0' 기본 규격 테스트 시스템 시연]]></title>
-        <id>https://v.daum.net/v/20220623170705989</id>
-        <link href="https://v.daum.net/v/20220623170705989"/>
-        <updated>2022-06-23T08:27:36.798Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[클라우다이크, 'NextRise 2022, Seoul' 전시회 참가]]></title>
-        <id>https://v.daum.net/v/20220623170703987</id>
-        <link href="https://v.daum.net/v/20220623170703987"/>
-        <updated>2022-06-23T08:27:36.800Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 7월 국고채 발행 계획 및 6월 발행 실적]]></title>
-        <id>https://v.daum.net/v/20220623170550928</id>
-        <link href="https://v.daum.net/v/20220623170550928"/>
-        <updated>2022-06-23T08:27:36.802Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">17:05</span>]]></content>
     </entry>
 </feed>
