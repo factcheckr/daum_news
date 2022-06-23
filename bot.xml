@@ -2,77 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-06-23T14:17:40.273Z</updated>
+    <updated>2022-06-23T15:22:17.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[가상화폐 비트코인 2.83% 상승, 스토리지 14.83% 상승]]></title>
-        <id>https://v.daum.net/v/20220623203124734</id>
-        <link href="https://v.daum.net/v/20220623203124734"/>
-        <updated>2022-06-23T12:36:10.736Z</updated>
-        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">20:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2022년 06월 23일)]]></title>
-        <id>https://v.daum.net/v/20220623173149832</id>
-        <link href="https://v.daum.net/v/20220623173149832"/>
-        <updated>2022-06-23T09:19:08.093Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[fnRASSI]장마감, 코스닥 하락 종목(디와이디 -30.0% ↓)]]></title>
-        <id>https://v.daum.net/v/20220623154534397</id>
-        <link href="https://v.daum.net/v/20220623154534397"/>
-        <updated>2022-06-23T07:18:24.411Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[fnRASSI]장마감, 코스닥 상승 종목(오르비텍 15.6% ↑)]]></title>
-        <id>https://v.daum.net/v/20220623154528393</id>
-        <link href="https://v.daum.net/v/20220623154528393"/>
-        <updated>2022-06-23T07:18:24.412Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[fnRASSI]장마감, 거래소 하락 종목(NPC -21.3% ↓)]]></title>
-        <id>https://v.daum.net/v/20220623154523387</id>
-        <link href="https://v.daum.net/v/20220623154523387"/>
-        <updated>2022-06-23T07:18:24.413Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[fnRASSI]장마감, 거래소 상승 종목(삼부토건 30.0% ↑)]]></title>
-        <id>https://v.daum.net/v/20220623154518382</id>
-        <link href="https://v.daum.net/v/20220623154518382"/>
-        <updated>2022-06-23T07:18:24.413Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[fnRASSI]현대사료, 고려신용정보 등 4종목 52주 신고가 경신]]></title>
-        <id>https://v.daum.net/v/20220623154517379</id>
-        <link href="https://v.daum.net/v/20220623154517379"/>
-        <updated>2022-06-23T07:18:24.414Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[fnRASSI]오늘의 상한가, 삼부토건 30.0% ↑]]></title>
-        <id>https://v.daum.net/v/20220623154439339</id>
-        <link href="https://v.daum.net/v/20220623154439339"/>
-        <updated>2022-06-23T07:18:24.414Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:44</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘의 날씨 - 오전 (2022년 06월 23일)]]></title>
-        <id>https://v.daum.net/v/20220623053047377</id>
-        <link href="https://v.daum.net/v/20220623053047377"/>
-        <updated>2022-06-22T21:17:26.720Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가상화폐 비트코인(-2.37%), 펀디엑스(+17.78%)]]></title>
-        <id>https://v.daum.net/v/20220623013115943</id>
-        <link href="https://v.daum.net/v/20220623013115943"/>
-        <updated>2022-06-22T17:33:14.415Z</updated>
-        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">01:31</span>]]></content>
-    </entry>
 </feed>
