@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-06-23T16:27:39.004Z</updated>
+    <updated>2022-06-23T17:23:09.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]바이오 기업의 믿음]]></title>
+        <id>https://v.daum.net/v/20220624020303693</id>
+        <link href="https://v.daum.net/v/20220624020303693"/>
+        <updated>2022-06-23T17:22:53.734Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]'쇼크 독트린'과 부자감세]]></title>
+        <id>https://v.daum.net/v/20220624020301692</id>
+        <link href="https://v.daum.net/v/20220624020301692"/>
+        <updated>2022-06-23T17:22:53.734Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[최진석 칼럼] 야망과 필요와 감동]]></title>
         <id>https://v.daum.net/v/20220624004026215</id>
@@ -20,7 +34,7 @@
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:38</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[김형석의 100년 산책] 남녀간의 사랑, 어떤 것이었을까]]></title>
+        <title type="html"><![CDATA[23년간 뒷바라지, 뇌졸중 아내가 떠났다..내가 울지 못한 이유 [김형석의 100년 산책]]]></title>
         <id>https://v.daum.net/v/20220624003635197</id>
         <link href="https://v.daum.net/v/20220624003635197"/>
         <updated>2022-06-23T16:27:24.381Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220624001624032"/>
         <updated>2022-06-23T15:21:59.353Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[그 영화 이 장면] 디어 헌터]]></title>
-        <id>https://v.daum.net/v/20220624001424010</id>
-        <link href="https://v.daum.net/v/20220624001424010"/>
-        <updated>2022-06-23T15:21:59.354Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한 컷] 제주 하늘에 나타난 거대한 렌즈구름]]></title>
-        <id>https://v.daum.net/v/20220624001226008</id>
-        <link href="https://v.daum.net/v/20220624001226008"/>
-        <updated>2022-06-23T15:21:59.355Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:12</span>]]></content>
     </entry>
 </feed>
