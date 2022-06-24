@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-06-24T21:17:27.655Z</updated>
+    <updated>2022-06-24T22:18:07.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[홍성걸의 정치나침반]염치를 잃어버린 나라]]></title>
+        <id>https://v.daum.net/v/20220625070137960</id>
+        <link href="https://v.daum.net/v/20220625070137960"/>
+        <updated>2022-06-24T22:17:50.651Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">07:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[신임철의 행동경제학]군중심리가 물가상승을 부추긴다]]></title>
+        <id>https://v.daum.net/v/20220625070050931</id>
+        <link href="https://v.daum.net/v/20220625070050931"/>
+        <updated>2022-06-24T22:17:50.656Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[더 한장] 우크라이나를 보며 6. 25를 생각한다]]></title>
         <id>https://v.daum.net/v/20220625061511530</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220625040216496"/>
         <updated>2022-06-24T19:16:02.074Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">04:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 노동개혁 시급하나 사회적 합의 필요]]></title>
-        <id>https://v.daum.net/v/20220625040205493</id>
-        <link href="https://v.daum.net/v/20220625040205493"/>
-        <updated>2022-06-24T19:16:02.075Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] '월북' 단 한 번 나온다는 北 통신, 이게 '증거'라고 국민 버렸나]]></title>
-        <id>https://v.daum.net/v/20220625032730444</id>
-        <link href="https://v.daum.net/v/20220625032730444"/>
-        <updated>2022-06-24T19:16:02.076Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:27</span>]]></content>
     </entry>
 </feed>
