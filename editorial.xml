@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-06-24T07:18:26.664Z</updated>
+    <updated>2022-06-24T08:24:30.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[역병에 걸린 처자를 어부가 〇〇를 먹여서 살렸다]]></title>
+        <id>https://v.daum.net/v/20220624172302564</id>
+        <link href="https://v.daum.net/v/20220624172302564"/>
+        <updated>2022-06-24T08:24:13.962Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">17:23</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[시론] 공자가 진(眞)을 말하지 않은 까닭은?]]></title>
+        <id>https://v.daum.net/v/20220624170203022</id>
+        <link href="https://v.daum.net/v/20220624170203022"/>
+        <updated>2022-06-24T08:24:13.966Z</updated>
+        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">17:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[fn사설]기업들 고환율에 위태위태, 수출까지 발목 잡혀]]></title>
         <id>https://v.daum.net/v/20220624160101204</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220624124142721"/>
         <updated>2022-06-24T03:43:50.467Z</updated>
         <content type="html"><![CDATA[농민신문<span class="txt_bar"> · </span><span class="info_time">12:41</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전문가의 눈] 스마트농업 대중화에 대한 고민]]></title>
-        <id>https://v.daum.net/v/20220624124130718</id>
-        <link href="https://v.daum.net/v/20220624124130718"/>
-        <updated>2022-06-24T03:43:50.467Z</updated>
-        <content type="html"><![CDATA[농민신문<span class="txt_bar"> · </span><span class="info_time">12:41</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[독립문에서] 트바로티 김호중과 협업문화]]></title>
-        <id>https://v.daum.net/v/20220624124001700</id>
-        <link href="https://v.daum.net/v/20220624124001700"/>
-        <updated>2022-06-24T03:43:50.467Z</updated>
-        <content type="html"><![CDATA[농민신문<span class="txt_bar"> · </span><span class="info_time">12:40</span>]]></content>
     </entry>
 </feed>
