@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-06-24T22:18:07.736Z</updated>
+    <updated>2022-06-24T23:18:40.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박호재의 왜들 그러시죠?] 강기정號에 거는 기대]]></title>
+        <id>https://v.daum.net/v/20220625080002345</id>
+        <link href="https://v.daum.net/v/20220625080002345"/>
+        <updated>2022-06-24T23:18:23.163Z</updated>
+        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[금리 인상이 인플레이션을 막을 수 있을까?]]></title>
+        <id>https://v.daum.net/v/20220625072009061</id>
+        <link href="https://v.daum.net/v/20220625072009061"/>
+        <updated>2022-06-24T23:18:23.164Z</updated>
+        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">07:20</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[홍성걸의 정치나침반]염치를 잃어버린 나라]]></title>
         <id>https://v.daum.net/v/20220625070137960</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220625040501504"/>
         <updated>2022-06-24T19:16:02.070Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토 카페] 손수레에 실린 삶의 무게]]></title>
-        <id>https://v.daum.net/v/20220625040459503</id>
-        <link href="https://v.daum.net/v/20220625040459503"/>
-        <updated>2022-06-24T19:16:02.072Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데스크 칼럼] 남의 것을 탐하는 좋은 아빠]]></title>
-        <id>https://v.daum.net/v/20220625040216496</id>
-        <link href="https://v.daum.net/v/20220625040216496"/>
-        <updated>2022-06-24T19:16:02.074Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">04:02</span>]]></content>
     </entry>
 </feed>
