@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/society</id>
     <title>다음 뉴스 ─ 전체기사 ─ 사회</title>
-    <updated>2022-06-25T17:17:57.420Z</updated>
+    <updated>2022-06-25T18:22:35.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안산 월피동 아파트서 화재..1명 사망]]></title>
+        <id>https://v.daum.net/v/20220626031500277</id>
+        <link href="https://v.daum.net/v/20220626031500277"/>
+        <updated>2022-06-25T18:20:58.869Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">03:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대전에서 오토바이·승용차 부딪쳐..1명 다쳐]]></title>
+        <id>https://v.daum.net/v/20220626022512259</id>
+        <link href="https://v.daum.net/v/20220626022512259"/>
+        <updated>2022-06-25T18:20:58.869Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">02:25</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['사후 확인제'로 층간소음 해소?]]></title>
         <id>https://v.daum.net/v/20220626021612248</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220626000548059"/>
         <updated>2022-06-25T15:17:11.709Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[붉거나 갈색·거품 많은 소변 본다면 '사구체신염' 의심해봐야]]></title>
-        <id>https://v.daum.net/v/20220626000451055</id>
-        <link href="https://v.daum.net/v/20220626000451055"/>
-        <updated>2022-06-25T15:17:11.711Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뭐든 과하면 '탈', 발기부전 초래하는 음식이 있다는데?]]></title>
-        <id>https://v.daum.net/v/20220626000356050</id>
-        <link href="https://v.daum.net/v/20220626000356050"/>
-        <updated>2022-06-25T15:17:11.712Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
     </entry>
 </feed>
