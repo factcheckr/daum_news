@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-06-25T03:36:57.708Z</updated>
+    <updated>2022-06-25T04:29:37.729Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마인즈랩, 클라우드 AI 플랫폼 '휴먼AI' 출시]]></title>
+        <id>https://v.daum.net/v/20220625130441957</id>
+        <link href="https://v.daum.net/v/20220625130441957"/>
+        <updated>2022-06-25T04:29:10.602Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">13:04</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이도경의 플레e] 이스포츠 에이전트의 제도화는 필요할까?]]></title>
         <id>https://v.daum.net/v/20220625121506544</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220625103003345"/>
         <updated>2022-06-25T01:45:00.781Z</updated>
         <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">10:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최초 달 탐사선 '다누리호' 다음 달 5일 미국 이송]]></title>
-        <id>https://v.daum.net/v/20220625102708305</id>
-        <link href="https://v.daum.net/v/20220625102708305"/>
-        <updated>2022-06-25T01:45:00.781Z</updated>
-        <content type="html"><![CDATA[kbc광주방송<span class="txt_bar"> · </span><span class="info_time">10:27</span>]]></content>
     </entry>
 </feed>
