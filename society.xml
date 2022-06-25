@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/society</id>
     <title>다음 뉴스 ─ 전체기사 ─ 사회</title>
-    <updated>2022-06-25T18:22:35.647Z</updated>
+    <updated>2022-06-25T19:15:31.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[안산 월피동 아파트서 화재..1명 사망]]></title>
-        <id>https://v.daum.net/v/20220626031500277</id>
-        <link href="https://v.daum.net/v/20220626031500277"/>
-        <updated>2022-06-25T18:20:58.869Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">03:15</span>]]></content>
+        <title type="html"><![CDATA[전국 곳곳 소나기..최고 체감온도 33도]]></title>
+        <id>https://v.daum.net/v/20220626040019361</id>
+        <link href="https://v.daum.net/v/20220626040019361"/>
+        <updated>2022-06-25T19:14:06.621Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천, 흐리고 강한 소나기..강풍 주의]]></title>
+        <id>https://v.daum.net/v/20220626040019360</id>
+        <link href="https://v.daum.net/v/20220626040019360"/>
+        <updated>2022-06-25T19:14:06.632Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안산 월피동 아파트서 화재..1명 중상]]></title>
+        <id>https://v.daum.net/v/20220626033300293</id>
+        <link href="https://v.daum.net/v/20220626033300293"/>
+        <updated>2022-06-25T19:14:06.633Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">03:33</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경기 안산 아파트 화재..주민 1명 중상]]></title>
+        <id>https://v.daum.net/v/20220626033001291</id>
+        <link href="https://v.daum.net/v/20220626033001291"/>
+        <updated>2022-06-25T19:14:06.633Z</updated>
+        <content type="html"><![CDATA[SBS<span class="txt_bar"> · </span><span class="info_time">03:30</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대전에서 오토바이·승용차 부딪쳐..1명 다쳐]]></title>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220626001013073"/>
         <updated>2022-06-25T15:17:11.707Z</updated>
         <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밤 9시까지 코로나19 5천893명 확진..어제보다 507명 줄어]]></title>
-        <id>https://v.daum.net/v/20220626000901068</id>
-        <link href="https://v.daum.net/v/20220626000901068"/>
-        <updated>2022-06-25T15:17:11.707Z</updated>
-        <content type="html"><![CDATA[MBC<span class="txt_bar"> · </span><span class="info_time">00:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[아살세툰] '송해의 집'으로 소문난 이천원 국밥집]]></title>
-        <id>https://v.daum.net/v/20220626000649062</id>
-        <link href="https://v.daum.net/v/20220626000649062"/>
-        <updated>2022-06-25T15:17:11.708Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[역사 속 오늘] 우리는 '훌륭한 기록문화'의 민족]]></title>
-        <id>https://v.daum.net/v/20220626000548059</id>
-        <link href="https://v.daum.net/v/20220626000548059"/>
-        <updated>2022-06-25T15:17:11.709Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
     </entry>
 </feed>
