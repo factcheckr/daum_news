@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-06-24T23:18:40.470Z</updated>
+    <updated>2022-06-25T01:45:26.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[전국 주요 신문 톱뉴스](25일 조간)]]></title>
+        <id>https://v.daum.net/v/20220625100007862</id>
+        <link href="https://v.daum.net/v/20220625100007862"/>
+        <updated>2022-06-25T01:45:09.547Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">10:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](25일 조간)]]></title>
+        <id>https://v.daum.net/v/20220625100006858</id>
+        <link href="https://v.daum.net/v/20220625100006858"/>
+        <updated>2022-06-25T01:45:09.559Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">10:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가트너가 주목한 '하이퍼 오토메이션'[137]]]></title>
+        <id>https://v.daum.net/v/20220625092647421</id>
+        <link href="https://v.daum.net/v/20220625092647421"/>
+        <updated>2022-06-25T01:45:09.560Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">09:26</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세금, 우습게 보면 안되는 이유[김안나 변호사의 시시각각]]]></title>
+        <id>https://v.daum.net/v/20220625092512402</id>
+        <link href="https://v.daum.net/v/20220625092512402"/>
+        <updated>2022-06-25T01:45:09.568Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">09:25</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[칸 영화제에 다녀왔다, 일 말고 휴가로]]></title>
+        <id>https://v.daum.net/v/20220625090109989</id>
+        <link href="https://v.daum.net/v/20220625090109989"/>
+        <updated>2022-06-25T01:45:09.570Z</updated>
+        <content type="html"><![CDATA[아레나<span class="txt_bar"> · </span><span class="info_time">09:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['기초튼튼!' 황선우-우상혁..한국 체육도 든든 [김윤일의 역주행]]]></title>
+        <id>https://v.daum.net/v/20220625090052978</id>
+        <link href="https://v.daum.net/v/20220625090052978"/>
+        <updated>2022-06-25T01:45:09.570Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">09:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전 세계 반중 정서 진원지는 중국공산당]]></title>
+        <id>https://v.daum.net/v/20220625090015954</id>
+        <link href="https://v.daum.net/v/20220625090015954"/>
+        <updated>2022-06-25T01:45:09.571Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">09:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박호재의 왜들 그러시죠?] 강기정號에 거는 기대]]></title>
         <id>https://v.daum.net/v/20220625080002345</id>
@@ -60,54 +109,5 @@
         <link href="https://v.daum.net/v/20220625043101561"/>
         <updated>2022-06-24T20:19:39.997Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 민주 법사위원장 양보, 與 국회정상화 화답을]]></title>
-        <id>https://v.daum.net/v/20220625043059560</id>
-        <link href="https://v.daum.net/v/20220625043059560"/>
-        <updated>2022-06-24T20:19:40.000Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 하루 만에 혼선 부른 주 52시간제 개편]]></title>
-        <id>https://v.daum.net/v/20220625043053558</id>
-        <link href="https://v.daum.net/v/20220625043053558"/>
-        <updated>2022-06-24T20:19:40.001Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한류를 말할 자격 [우리말 톺아보기]]]></title>
-        <id>https://v.daum.net/v/20220625043003543</id>
-        <link href="https://v.daum.net/v/20220625043003543"/>
-        <updated>2022-06-24T20:19:40.002Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한마당] 전술핵]]></title>
-        <id>https://v.daum.net/v/20220625041201519</id>
-        <link href="https://v.daum.net/v/20220625041201519"/>
-        <updated>2022-06-24T19:16:02.064Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창] 개미굴]]></title>
-        <id>https://v.daum.net/v/20220625040911516</id>
-        <link href="https://v.daum.net/v/20220625040911516"/>
-        <updated>2022-06-24T19:16:02.064Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[빛과 소금] 배 위에서]]></title>
-        <id>https://v.daum.net/v/20220625040806513</id>
-        <link href="https://v.daum.net/v/20220625040806513"/>
-        <updated>2022-06-24T19:16:02.069Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[역사로 내리는 커피] 일본보다 식민지 조선에 먼저 생긴 것]]></title>
-        <id>https://v.daum.net/v/20220625040501504</id>
-        <link href="https://v.daum.net/v/20220625040501504"/>
-        <updated>2022-06-24T19:16:02.070Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:05</span>]]></content>
     </entry>
 </feed>
