@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-06-25T12:29:55.019Z</updated>
+    <updated>2022-06-25T13:25:47.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[그림사설] 꽉 막혔던 한·일 관계, 나토 회의서 풀릴까]]></title>
+        <id>https://v.daum.net/v/20220625213023894</id>
+        <link href="https://v.daum.net/v/20220625213023894"/>
+        <updated>2022-06-25T13:25:32.253Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">21:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오늘의 운세] 6월 26일(음력 5월 28일, 일진은 경술 庚戌) 12지지 띠별 운세 & 궁합]]></title>
         <id>https://v.daum.net/v/20220625210003560</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220625061202483"/>
         <updated>2022-06-24T21:17:07.504Z</updated>
         <content type="html"><![CDATA[쿠키뉴스<span class="txt_bar"> · </span><span class="info_time">06:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 미중, 한국 나토 참가 충돌.. 신중한 외교 펴야]]></title>
-        <id>https://v.daum.net/v/20220625043104562</id>
-        <link href="https://v.daum.net/v/20220625043104562"/>
-        <updated>2022-06-24T20:19:39.996Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:31</span>]]></content>
     </entry>
 </feed>
