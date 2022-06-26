@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-06-26T12:32:05.090Z</updated>
+    <updated>2022-06-26T13:26:16.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중앙부처에 '젊은 피' 수혈로 국정운영에 활기 불어넣는다!]]></title>
+        <id>https://v.daum.net/v/20220626213522684</id>
+        <link href="https://v.daum.net/v/20220626213522684"/>
+        <updated>2022-06-26T13:26:07.390Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">21:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국형 실업부조 고도화를 위한 제1차 국민취업지원 기본계획 수립]]></title>
         <id>https://v.daum.net/v/20220626180538006</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220626161139178</id>
         <link href="https://v.daum.net/v/20220626161139178"/>
         <updated>2022-06-26T07:17:11.839Z</updated>
-        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">16:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고은떡집 고황민 사장, 성금 100만 원 기탁]]></title>
-        <id>https://v.daum.net/v/20220626161138176</id>
-        <link href="https://v.daum.net/v/20220626161138176"/>
-        <updated>2022-06-26T07:17:11.845Z</updated>
         <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">16:11</span>]]></content>
     </entry>
 </feed>

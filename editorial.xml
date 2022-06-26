@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-06-26T12:32:05.094Z</updated>
+    <updated>2022-06-26T13:26:16.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우리 아이 긍정적으로 키우고 싶다면 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20220626220003935</id>
+        <link href="https://v.daum.net/v/20220626220003935"/>
+        <updated>2022-06-26T13:25:59.411Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 6월 27일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20220626215957928</id>
+        <link href="https://v.daum.net/v/20220626215957928"/>
+        <updated>2022-06-26T13:25:59.412Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">21:59</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뭐라노] 하느님보다 많이 벌어서야]]></title>
+        <id>https://v.daum.net/v/20220626214931825</id>
+        <link href="https://v.daum.net/v/20220626214931825"/>
+        <updated>2022-06-26T13:25:59.413Z</updated>
+        <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">21:49</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[잠자는 국회..내팽개쳐진 민생은 누구 탓]]></title>
         <id>https://v.daum.net/v/20220626212704594</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220626195135439"/>
         <updated>2022-06-26T11:15:37.221Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Today's Cartoon] 2022.06.27]]></title>
-        <id>https://v.daum.net/v/20220626194925409</id>
-        <link href="https://v.daum.net/v/20220626194925409"/>
-        <updated>2022-06-26T11:15:37.221Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:49</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The climate crisis clock is ticking]]></title>
-        <id>https://v.daum.net/v/20220626194423352</id>
-        <link href="https://v.daum.net/v/20220626194423352"/>
-        <updated>2022-06-26T11:15:37.221Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:44</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[국민만평-서민호 화백] 2022년 6월 27일]]></title>
-        <id>https://v.daum.net/v/20220626193606259</id>
-        <link href="https://v.daum.net/v/20220626193606259"/>
-        <updated>2022-06-26T11:15:37.222Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">19:36</span>]]></content>
     </entry>
 </feed>
