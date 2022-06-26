@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-06-26T20:19:07.230Z</updated>
+    <updated>2022-06-26T21:16:06.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[기자수첩] 그 회사는 알뜰폰을 왜 싫어할까]]></title>
+        <id>https://v.daum.net/v/20220627060031083</id>
+        <link href="https://v.daum.net/v/20220627060031083"/>
+        <updated>2022-06-26T21:15:49.372Z</updated>
+        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Editorial] Imperative reform]]></title>
+        <id>https://v.daum.net/v/20220627053046680</id>
+        <link href="https://v.daum.net/v/20220627053046680"/>
+        <updated>2022-06-26T21:15:49.374Z</updated>
+        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 농업용 면세유값 폭등..농가 어려움 외면 말라]]></title>
         <id>https://v.daum.net/v/20220627051236511</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20220627050851400</id>
         <link href="https://v.daum.net/v/20220627050851400"/>
         <updated>2022-06-26T20:18:52.190Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데스크 시각] 대공황 시대 돈나무 언니의 꿈/주현진 국제부장]]></title>
-        <id>https://v.daum.net/v/20220627050850399</id>
-        <link href="https://v.daum.net/v/20220627050850399"/>
-        <updated>2022-06-26T20:18:52.191Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[강희정의 아시아의 美] 코끼리 머리의 가네샤가 주는 지혜/서강대 동아연구소 교수]]></title>
-        <id>https://v.daum.net/v/20220627050847398</id>
-        <link href="https://v.daum.net/v/20220627050847398"/>
-        <updated>2022-06-26T20:18:52.192Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
     </entry>
 </feed>
