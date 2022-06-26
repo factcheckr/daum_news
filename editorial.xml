@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-06-26T16:23:55.965Z</updated>
+    <updated>2022-06-26T17:18:02.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[김남국의 아포리아]글로벌 비전과 국가 전략]]></title>
+        <id>https://v.daum.net/v/20220627020301560</id>
+        <link href="https://v.daum.net/v/20220627020301560"/>
+        <updated>2022-06-26T17:17:44.805Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이하경 칼럼] 대통령은 왜 억만무려의 모욕을 헤아려야 하는가]]></title>
         <id>https://v.daum.net/v/20220627003836214</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220627001234108"/>
         <updated>2022-06-26T15:18:00.883Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["외면당한 시설 아동 현실 담아.. 판단 말고 응원을"]]></title>
-        <id>https://v.daum.net/v/20220627001134102</id>
-        <link href="https://v.daum.net/v/20220627001134102"/>
-        <updated>2022-06-26T15:18:00.884Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:11</span>]]></content>
     </entry>
 </feed>
