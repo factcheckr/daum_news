@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-06-26T07:17:22.066Z</updated>
+    <updated>2022-06-26T08:23:59.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[한상춘의 국제경제 읽기] 지금 달러 사두면 1년 후에 대박 날까, 쪽박 찰까]]></title>
+        <id>https://v.daum.net/v/20220626171304054</id>
+        <link href="https://v.daum.net/v/20220626171304054"/>
+        <updated>2022-06-26T08:23:42.955Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">17:13</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[출산은 여성의 의무가 아니다]]></title>
+        <id>https://v.daum.net/v/20220626165502795</id>
+        <link href="https://v.daum.net/v/20220626165502795"/>
+        <updated>2022-06-26T08:23:42.955Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">16:55</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설]'디지털 복지' 부가통신사 동참해야]]></title>
         <id>https://v.daum.net/v/20220626160125858</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220626090303189"/>
         <updated>2022-06-26T01:48:59.464Z</updated>
         <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">09:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자극으로 차별화?..후발주자 IHQ의 '아슬아슬한' 행보 [장수정의 장담]]]></title>
-        <id>https://v.daum.net/v/20220626090124168</id>
-        <link href="https://v.daum.net/v/20220626090124168"/>
-        <updated>2022-06-26T01:48:59.465Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">09:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['주 92시간' 될라..근로시간 유연화 정책 혼선]]></title>
-        <id>https://v.daum.net/v/20220626073444489</id>
-        <link href="https://v.daum.net/v/20220626073444489"/>
-        <updated>2022-06-25T23:17:51.039Z</updated>
-        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">07:34</span>]]></content>
     </entry>
 </feed>
