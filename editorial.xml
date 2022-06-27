@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-06-27T13:44:11.793Z</updated>
+    <updated>2022-06-27T14:22:35.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[그림사설] 공무원 죽어가는 6시간 동안 문 전 대통령 뭐했나]]></title>
+        <id>https://v.daum.net/v/20220627230023080</id>
+        <link href="https://v.daum.net/v/20220627230023080"/>
+        <updated>2022-06-27T14:22:17.770Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오병상의 코멘터리] 이재명 발목잡는 '성남FC후원금']]></title>
         <id>https://v.daum.net/v/20220627220648674</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220627200215405"/>
         <updated>2022-06-27T11:19:13.678Z</updated>
         <content type="html"><![CDATA[미디어오늘<span class="txt_bar"> · </span><span class="info_time">20:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leaving no one behind in digitization]]></title>
-        <id>https://v.daum.net/v/20220627200205404</id>
-        <link href="https://v.daum.net/v/20220627200205404"/>
-        <updated>2022-06-27T11:19:13.678Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:02</span>]]></content>
     </entry>
 </feed>
