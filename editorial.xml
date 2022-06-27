@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-06-27T16:28:24.457Z</updated>
+    <updated>2022-06-27T17:25:30.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]선제적 구조개혁이 필요한 이유]]></title>
+        <id>https://v.daum.net/v/20220628020304169</id>
+        <link href="https://v.daum.net/v/20220628020304169"/>
+        <updated>2022-06-27T17:25:15.203Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]대통령님, 교육부 장관 공모는 어떻습니까?]]></title>
+        <id>https://v.daum.net/v/20220628020301167</id>
+        <link href="https://v.daum.net/v/20220628020301167"/>
+        <updated>2022-06-27T17:25:15.207Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중앙시평] 두 야당의 '낀 세대' 당 대표를 꿈꾸며]]></title>
         <id>https://v.daum.net/v/20220628003834879</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220628001431796"/>
         <updated>2022-06-27T15:21:54.172Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한 컷] 농촌 일손돕기에 나선 장병들]]></title>
-        <id>https://v.daum.net/v/20220628001232779</id>
-        <link href="https://v.daum.net/v/20220628001232779"/>
-        <updated>2022-06-27T15:21:54.173Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 전기요금 인상 불가피하지만 원인 짚어 봐야]]></title>
-        <id>https://v.daum.net/v/20220628001041737</id>
-        <link href="https://v.daum.net/v/20220628001041737"/>
-        <updated>2022-06-27T15:21:54.174Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
     </entry>
 </feed>

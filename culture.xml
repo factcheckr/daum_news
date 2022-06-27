@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2022-06-27T16:28:24.467Z</updated>
+    <updated>2022-06-27T17:25:30.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중부 250mm 게릴라 호우..남부 무더위 속 기습 소나기]]></title>
+        <id>https://v.daum.net/v/20220628013114095</id>
+        <link href="https://v.daum.net/v/20220628013114095"/>
+        <updated>2022-06-27T17:24:44.734Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">01:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[손석구가 반한 인생영화 브로크백 마운틴 촬영지는? [최현태 기자의 여행홀릭]]]></title>
         <id>https://v.daum.net/v/20220628012053064</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220628001014710"/>
         <updated>2022-06-27T15:21:20.218Z</updated>
         <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 운세] 6월 28일]]></title>
-        <id>https://v.daum.net/v/20220628000442580</id>
-        <link href="https://v.daum.net/v/20220628000442580"/>
-        <updated>2022-06-27T15:21:20.219Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
     </entry>
 </feed>
