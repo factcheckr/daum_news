@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-06-28T22:21:31.671Z</updated>
+    <updated>2022-06-28T23:19:57.935Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['제21회 한국 소믈리에 대회' 예선 성료, 9월 결선 개최]]></title>
+        <id>https://v.daum.net/v/20220629075707815</id>
+        <link href="https://v.daum.net/v/20220629075707815"/>
+        <updated>2022-06-28T23:19:49.620Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">07:57</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(보도자료) 2023년 달력부터 의용소방대의 날 생긴다]]></title>
         <id>https://v.daum.net/v/20220629063527705</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220629040306852</id>
         <link href="https://v.daum.net/v/20220629040306852"/>
         <updated>2022-06-28T19:16:11.995Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">04:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[돈되는 분양] 리듬시티 우미린, 의정부 장기일반민간임대 아파트]]></title>
-        <id>https://v.daum.net/v/20220629040304851</id>
-        <link href="https://v.daum.net/v/20220629040304851"/>
-        <updated>2022-06-28T19:16:11.997Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">04:03</span>]]></content>
     </entry>
 </feed>
