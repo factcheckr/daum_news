@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2022-06-29T16:48:01.365Z</updated>
+    <updated>2022-06-29T17:44:24.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[유럽증시] 경기침체 공포 커지면서 하락]]></title>
+        <id>https://v.daum.net/v/20220630020842301</id>
+        <link href="https://v.daum.net/v/20220630020842301"/>
+        <updated>2022-06-29T17:43:05.241Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">02:08</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미 1분기 성장률 -1.7% 확정..경기 침체 빠질까]]></title>
         <id>https://v.daum.net/v/20220630014014151</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220630010644024"/>
         <updated>2022-06-29T16:46:47.889Z</updated>
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9월부터 내 보혐료 얼마?..지역가입자 부담 줄고 피부양자 요건 강화]]></title>
-        <id>https://v.daum.net/v/20220630010633016</id>
-        <link href="https://v.daum.net/v/20220630010633016"/>
-        <updated>2022-06-29T16:46:47.890Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">01:06</span>]]></content>
     </entry>
 </feed>

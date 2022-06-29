@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-06-29T16:48:01.352Z</updated>
+    <updated>2022-06-29T17:44:24.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]사기의 원인]]></title>
+        <id>https://v.daum.net/v/20220630020501288</id>
+        <link href="https://v.daum.net/v/20220630020501288"/>
+        <updated>2022-06-29T17:44:05.570Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]테크 전성시대, 테크+X에서 X+테크로]]></title>
+        <id>https://v.daum.net/v/20220630020302271</id>
+        <link href="https://v.daum.net/v/20220630020302271"/>
+        <updated>2022-06-29T17:44:05.572Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중앙시평] 대통령의 도어 스테핑이 계속돼야 하는 이유]]></title>
         <id>https://v.daum.net/v/20220630004035823</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220630001701640"/>
         <updated>2022-06-29T15:50:38.903Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시조가 있는 아침] (130) 돌]]></title>
-        <id>https://v.daum.net/v/20220630001612635</id>
-        <link href="https://v.daum.net/v/20220630001612635"/>
-        <updated>2022-06-29T15:50:38.903Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데스크 칼럼] 그 많던 홍콩영화는 다 어디 갔나]]></title>
-        <id>https://v.daum.net/v/20220630001602634</id>
-        <link href="https://v.daum.net/v/20220630001602634"/>
-        <updated>2022-06-29T15:50:38.905Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:16</span>]]></content>
     </entry>
 </feed>
