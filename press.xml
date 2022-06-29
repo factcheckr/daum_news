@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-06-29T20:21:52.928Z</updated>
+    <updated>2022-06-29T21:17:51.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[충남연구원, 충남 환경시민 참여단 연속워크숍 성료]]></title>
+        <id>https://v.daum.net/v/20220630060703498</id>
+        <link href="https://v.daum.net/v/20220630060703498"/>
+        <updated>2022-06-29T21:17:39.591Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">06:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[과기정통부, 시험성적서 위조 업체에 대한 행정처분 이행 점검 추진]]></title>
+        <id>https://v.daum.net/v/20220630060531485</id>
+        <link href="https://v.daum.net/v/20220630060531485"/>
+        <updated>2022-06-29T21:17:39.598Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">06:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[목요단상] '행복한 섬김'을 다짐한다]]></title>
         <id>https://v.daum.net/v/20220630001113589</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20220630000642506</id>
         <link href="https://v.daum.net/v/20220630000642506"/>
         <updated>2022-06-29T15:50:46.531Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2022 한국서비스품질지수] 소비자 중심 경영으로 고객 1000만 명 돌파..인슈어테크 선도기업 도약]]></title>
-        <id>https://v.daum.net/v/20220630000638504</id>
-        <link href="https://v.daum.net/v/20220630000638504"/>
-        <updated>2022-06-29T15:50:46.532Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2022 한국서비스품질지수] '언택트·개인화' 최신 트렌드부터 주요시설의 보안 솔루션까지 선봬]]></title>
-        <id>https://v.daum.net/v/20220630000633503</id>
-        <link href="https://v.daum.net/v/20220630000633503"/>
-        <updated>2022-06-29T15:50:46.533Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
     </entry>
 </feed>
