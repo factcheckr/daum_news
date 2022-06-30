@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-06-30T22:19:35.087Z</updated>
+    <updated>2022-06-30T23:19:09.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중국 정부의 최대 고민은? [김규환의 핸디 차이나]]]></title>
+        <id>https://v.daum.net/v/20220701080808407</id>
+        <link href="https://v.daum.net/v/20220701080808407"/>
+        <updated>2022-06-30T23:18:53.966Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">08:08</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](1일 조간)]]></title>
+        <id>https://v.daum.net/v/20220701080003169</id>
+        <link href="https://v.daum.net/v/20220701080003169"/>
+        <updated>2022-06-30T23:18:53.966Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[해외 칼럼]골프계의 양심팔이 문화]]></title>
         <id>https://v.daum.net/v/20220701070053368</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20220701051144205</id>
         <link href="https://v.daum.net/v/20220701051144205"/>
         <updated>2022-06-30T20:20:52.496Z</updated>
-        <content type="html"><![CDATA[농민신문<span class="txt_bar"> · </span><span class="info_time">05:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무엇이 김치를 김치답게 하는가]]></title>
-        <id>https://v.daum.net/v/20220701051142204</id>
-        <link href="https://v.daum.net/v/20220701051142204"/>
-        <updated>2022-06-30T20:20:52.497Z</updated>
-        <content type="html"><![CDATA[농민신문<span class="txt_bar"> · </span><span class="info_time">05:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 영농자재센터에서도 못 쓰는 농민기본소득]]></title>
-        <id>https://v.daum.net/v/20220701051142203</id>
-        <link href="https://v.daum.net/v/20220701051142203"/>
-        <updated>2022-06-30T20:20:52.502Z</updated>
         <content type="html"><![CDATA[농민신문<span class="txt_bar"> · </span><span class="info_time">05:11</span>]]></content>
     </entry>
 </feed>
