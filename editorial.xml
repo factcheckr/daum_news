@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-06-30T16:29:09.602Z</updated>
+    <updated>2022-06-30T17:28:57.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]사회적 기업 구조조정의 의미]]></title>
+        <id>https://v.daum.net/v/20220701020103953</id>
+        <link href="https://v.daum.net/v/20220701020103953"/>
+        <updated>2022-06-30T17:28:42.207Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]호환마마와 바나나]]></title>
+        <id>https://v.daum.net/v/20220701020100952</id>
+        <link href="https://v.daum.net/v/20220701020100952"/>
+        <updated>2022-06-30T17:28:42.207Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중앙시평] 고인돌이 즐비한 도시]]></title>
         <id>https://v.daum.net/v/20220701003625639</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220701001433504"/>
         <updated>2022-06-30T15:21:15.761Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[허원순 칼럼] 주중 서울, 주말 지방..지역소멸 막을 '1.5 주민제' 어떤가]]></title>
-        <id>https://v.daum.net/v/20220701001301501</id>
-        <link href="https://v.daum.net/v/20220701001301501"/>
-        <updated>2022-06-30T15:21:15.762Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한 컷] 해수욕장 공식 개장]]></title>
-        <id>https://v.daum.net/v/20220701001248500</id>
-        <link href="https://v.daum.net/v/20220701001248500"/>
-        <updated>2022-06-30T15:21:15.763Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:12</span>]]></content>
     </entry>
 </feed>
