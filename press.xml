@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-07-01T10:21:06.936Z</updated>
+    <updated>2022-07-01T11:17:12.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022년 4월.5월.6월 "이달의 기능한국인" 선정]]></title>
+        <id>https://v.daum.net/v/20220701200537872</id>
+        <link href="https://v.daum.net/v/20220701200537872"/>
+        <updated>2022-07-01T11:17:02.701Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">20:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[손흥민 친필 사인 받을 기회, 키카-아디다스 토트넘전 뷰잉파티 진행]]></title>
         <id>https://v.daum.net/v/20220701185710628</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220701180439489</id>
         <link href="https://v.daum.net/v/20220701180439489"/>
         <updated>2022-07-01T09:18:57.854Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">18:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 동구, 배다리 자율답사 프로그램 실시]]></title>
-        <id>https://v.daum.net/v/20220701180433487</id>
-        <link href="https://v.daum.net/v/20220701180433487"/>
-        <updated>2022-07-01T09:18:57.855Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">18:04</span>]]></content>
     </entry>
 </feed>
