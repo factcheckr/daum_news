@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-07-02T04:38:13.070Z</updated>
+    <updated>2022-07-02T05:20:06.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[누리호 KAIST팀 큐브위성 사출 성공..양방향 통신 시도]]></title>
+        <id>https://v.daum.net/v/20220702140955769</id>
+        <link href="https://v.daum.net/v/20220702140955769"/>
+        <updated>2022-07-02T05:19:39.178Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">14:09</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[39세 한국계 허준이 교수..'수학계의 노벨상' 필즈상 품을까]]></title>
+        <id>https://v.daum.net/v/20220702140918766</id>
+        <link href="https://v.daum.net/v/20220702140918766"/>
+        <updated>2022-07-02T05:19:39.180Z</updated>
+        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">14:09</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[누리호서 분리된 카이스트 큐브위성, 상태정보 10번 이상 받아]]></title>
+        <id>https://v.daum.net/v/20220702140452732</id>
+        <link href="https://v.daum.net/v/20220702140452732"/>
+        <updated>2022-07-02T05:19:39.183Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">14:04</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['3나노' 레이스 먼저 출발한 삼성..TSMC "곧 따라갈게"]]></title>
+        <id>https://v.daum.net/v/20220702140000683</id>
+        <link href="https://v.daum.net/v/20220702140000683"/>
+        <updated>2022-07-02T05:19:39.184Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부음]박동훈(전 닉스테크 사장)씨 모친상]]></title>
+        <id>https://v.daum.net/v/20220702135204631</id>
+        <link href="https://v.daum.net/v/20220702135204631"/>
+        <updated>2022-07-02T05:19:39.188Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">13:52</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[13만원 비싸져도 "무조건 애플"..아이폰14, 가격인상에도 수요 폭발한 중국]]></title>
+        <id>https://v.daum.net/v/20220702134501584</id>
+        <link href="https://v.daum.net/v/20220702134501584"/>
+        <updated>2022-07-02T05:19:39.189Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">13:45</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[행안부, 폭염 위기경보 '주의'→'경계'로 격상]]></title>
         <id>https://v.daum.net/v/20220702132919456</id>
@@ -67,47 +109,5 @@
         <link href="https://v.daum.net/v/20220702120909993"/>
         <updated>2022-07-02T03:47:09.339Z</updated>
         <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">12:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[조달청 입찰정보]주간 물품구매]]></title>
-        <id>https://v.daum.net/v/20220702120510963</id>
-        <link href="https://v.daum.net/v/20220702120510963"/>
-        <updated>2022-07-02T03:47:09.343Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">12:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["수백년 걸려도 못 풀어요"..이통사 '양자암호 기술'에 푹 빠졌다]]></title>
-        <id>https://v.daum.net/v/20220702115802863</id>
-        <link href="https://v.daum.net/v/20220702115802863"/>
-        <updated>2022-07-02T03:47:09.349Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">11:58</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누리호 위성서 두 번째 분리된 'KAIST 큐브위성' 첫 교신 성공]]></title>
-        <id>https://v.daum.net/v/20220702115209824</id>
-        <link href="https://v.daum.net/v/20220702115209824"/>
-        <updated>2022-07-02T03:47:09.351Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">11:52</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누리호 두 번째 큐브위성, 지상국으로 신호 보내 와]]></title>
-        <id>https://v.daum.net/v/20220702115123818</id>
-        <link href="https://v.daum.net/v/20220702115123818"/>
-        <updated>2022-07-02T03:47:09.356Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">11:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5월 세계 스마트폰 판매량 1억대 이하 '뚝'..11개월 연속 감소세]]></title>
-        <id>https://v.daum.net/v/20220702113317686</id>
-        <link href="https://v.daum.net/v/20220702113317686"/>
-        <updated>2022-07-02T03:47:09.361Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">11:33</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위메이드, 위믹스3.0 테스트넷 오픈.."1등 메인넷 도전"]]></title>
-        <id>https://v.daum.net/v/20220702113217679</id>
-        <link href="https://v.daum.net/v/20220702113217679"/>
-        <updated>2022-07-02T03:47:09.363Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">11:32</span>]]></content>
     </entry>
 </feed>
