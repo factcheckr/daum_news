@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-07-02T10:20:33.867Z</updated>
+    <updated>2022-07-02T11:16:05.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["요금 2만원→8만원, 이게 말이 돼?" 카카오 '큰 택시' 탔다간]]></title>
+        <id>https://v.daum.net/v/20220702195143919</id>
+        <link href="https://v.daum.net/v/20220702195143919"/>
+        <updated>2022-07-02T11:15:41.739Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">19:51</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[재즈로 편곡한 '검은사막 모바일' OST..류휘만 감독 직접 연주]]></title>
+        <id>https://v.daum.net/v/20220702193605768</id>
+        <link href="https://v.daum.net/v/20220702193605768"/>
+        <updated>2022-07-02T11:15:41.739Z</updated>
+        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">19:36</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["최악의 경기침체" 저커버그, 엔지니어 채용 30% 감축]]></title>
         <id>https://v.daum.net/v/20220702191809618</id>
@@ -13,7 +27,7 @@
         <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">19:18</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["1시간에 185억원 팔렸다" 중국, 아이폰 싸게 주니 우르르 난리]]></title>
+        <title type="html"><![CDATA["이 사진, 실화냐?" 아이폰 싸게 준다니, 우르르 난리났다]]></title>
         <id>https://v.daum.net/v/20220702185215360</id>
         <link href="https://v.daum.net/v/20220702185215360"/>
         <updated>2022-07-02T10:20:06.306Z</updated>
@@ -48,7 +62,7 @@
         <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">18:01</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["이 여성, 이제 못 보나?" 꼭 지우라던 중국앱 '틱톡' 퇴출 위기?]]></title>
+        <title type="html"><![CDATA["이 여성, 이제 못 보나?" 한국인 지독한 사랑 중국 '틱톡' 퇴출 위기?]]></title>
         <id>https://v.daum.net/v/20220702175208598</id>
         <link href="https://v.daum.net/v/20220702175208598"/>
         <updated>2022-07-02T09:17:08.966Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220702161200716"/>
         <updated>2022-07-02T07:17:01.664Z</updated>
         <content type="html"><![CDATA[매경게임진<span class="txt_bar"> · </span><span class="info_time">16:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버웹툰, 제페토에 '기기괴괴 월드' 오픈.. "IP 생태계 확장"]]></title>
-        <id>https://v.daum.net/v/20220702160117608</id>
-        <link href="https://v.daum.net/v/20220702160117608"/>
-        <updated>2022-07-02T07:17:01.665Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">16:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몸 속 '좀비'가 치매, 노화 부른다]]></title>
-        <id>https://v.daum.net/v/20220702160101604</id>
-        <link href="https://v.daum.net/v/20220702160101604"/>
-        <updated>2022-07-02T07:17:01.665Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">16:01</span>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-07-02T10:20:33.868Z</updated>
+    <updated>2022-07-02T11:16:05.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] CCTV+ "신임 홍콩 행정장관, 취임 선서 진행"]]></title>
+        <id>https://v.daum.net/v/20220702194252813</id>
+        <link href="https://v.daum.net/v/20220702194252813"/>
+        <updated>2022-07-02T11:15:57.197Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">19:42</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] CGTN '홍콩 청년들, 더 밝은 미래 포용']]></title>
+        <id>https://v.daum.net/v/20220702193446753</id>
+        <link href="https://v.daum.net/v/20220702193446753"/>
+        <updated>2022-07-02T11:15:57.198Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">19:34</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] Petal Maps, 내비게이션을 몰입감 있고 사실적인 경험으로 전환]]></title>
         <id>https://v.daum.net/v/20220702190124453</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220702110422463"/>
         <updated>2022-07-02T03:47:24.724Z</updated>
         <content type="html"><![CDATA[대구MBC<span class="txt_bar"> · </span><span class="info_time">11:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19 국내 발생  현황 (7.2.)]]></title>
-        <id>https://v.daum.net/v/20220702100528866</id>
-        <link href="https://v.daum.net/v/20220702100528866"/>
-        <updated>2022-07-02T01:43:48.360Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">10:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] Petal Maps turns navigation into an immersive and realistic]]></title>
-        <id>https://v.daum.net/v/20220702094026524</id>
-        <link href="https://v.daum.net/v/20220702094026524"/>
-        <updated>2022-07-02T01:43:48.361Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">09:40</span>]]></content>
     </entry>
 </feed>
