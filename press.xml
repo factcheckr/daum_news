@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-07-02T03:47:33.052Z</updated>
+    <updated>2022-07-02T04:38:13.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[속보] 전국 폭염 위기경보 '경계' 발령..지난해보다 18일 빨라]]></title>
+        <id>https://v.daum.net/v/20220702133410497</id>
+        <link href="https://v.daum.net/v/20220702133410497"/>
+        <updated>2022-07-02T04:38:01.950Z</updated>
+        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">13:34</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[속보] 전국 폭염 위기경보 '경계'로 상향..지난해보다 18일 빨라]]></title>
+        <id>https://v.daum.net/v/20220702133300486</id>
+        <link href="https://v.daum.net/v/20220702133300486"/>
+        <updated>2022-07-02T04:38:01.951Z</updated>
+        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">13:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] 투미, 토트넘 홋스퍼와 공식 파트너십 체결]]></title>
         <id>https://v.daum.net/v/20220702122449105</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220702083532830"/>
         <updated>2022-07-02T01:43:48.370Z</updated>
         <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">08:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[AsiaNet] GBA Forum on Sci-Tech Innovation and Cooperation Held in Qianhai,]]></title>
-        <id>https://v.daum.net/v/20220702083227802</id>
-        <link href="https://v.daum.net/v/20220702083227802"/>
-        <updated>2022-07-02T01:43:48.371Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">08:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['천적' 안산, 안양 상대로 분위기 반전한다]]></title>
-        <id>https://v.daum.net/v/20220702074248368</id>
-        <link href="https://v.daum.net/v/20220702074248368"/>
-        <updated>2022-07-01T23:18:28.440Z</updated>
-        <content type="html"><![CDATA[스포탈코리아<span class="txt_bar"> · </span><span class="info_time">07:42</span>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-07-02T03:47:33.044Z</updated>
+    <updated>2022-07-02T04:38:13.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[북한, G7 北미사일 규탄 성명에 반발.. "합법적 자위권 행사"]]></title>
+        <id>https://v.daum.net/v/20220702132108399</id>
+        <link href="https://v.daum.net/v/20220702132108399"/>
+        <updated>2022-07-02T04:37:53.384Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">13:21</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["여름 휴가 어디가 좋을까?..경남관광박람회,인파로 북적 "]]></title>
         <id>https://v.daum.net/v/20220702113209678</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220702043120137"/>
         <updated>2022-07-01T20:21:21.669Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 무역적자까지 사상 최대.. 경제위기 끝이 안 보인다]]></title>
-        <id>https://v.daum.net/v/20220702043046130</id>
-        <link href="https://v.daum.net/v/20220702043046130"/>
-        <updated>2022-07-01T20:21:21.670Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
     </entry>
 </feed>
