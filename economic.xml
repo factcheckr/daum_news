@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2022-07-02T13:25:58.868Z</updated>
+    <updated>2022-07-02T14:16:33.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["행복지수 100%"..시골은 '버킷리스트 무대']]></title>
+        <id>https://v.daum.net/v/20220702224609367</id>
+        <link href="https://v.daum.net/v/20220702224609367"/>
+        <updated>2022-07-02T14:15:30.388Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">22:46</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배추·당근값 2배 오른다..가뭄 등에 농산물값 '폭등']]></title>
         <id>https://v.daum.net/v/20220702222219240</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220702214517931"/>
         <updated>2022-07-02T13:24:48.707Z</updated>
         <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">21:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[광주시, '고유가·고물가 민생 100일 대책' 추진]]></title>
-        <id>https://v.daum.net/v/20220702214408921</id>
-        <link href="https://v.daum.net/v/20220702214408921"/>
-        <updated>2022-07-02T13:24:48.708Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">21:44</span>]]></content>
     </entry>
 </feed>
