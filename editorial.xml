@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-07-02T11:16:05.955Z</updated>
+    <updated>2022-07-02T12:30:54.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘의 운세] 7월 3일(음력 6월 5일, 일진은 정사 丁巳) 12지지 띠별 운세 & 궁합]]></title>
+        <id>https://v.daum.net/v/20220702210002529</id>
+        <link href="https://v.daum.net/v/20220702210002529"/>
+        <updated>2022-07-02T12:30:38.279Z</updated>
+        <content type="html"><![CDATA[웨딩21뉴스<span class="txt_bar"> · </span><span class="info_time">21:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간 돌발영상] 7월 첫째 주]]></title>
+        <id>https://v.daum.net/v/20220702204919429</id>
+        <link href="https://v.daum.net/v/20220702204919429"/>
+        <updated>2022-07-02T12:30:38.279Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">20:49</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[권성동 "임기말 알박기 59명 버티기..책임자는 文"]]></title>
         <id>https://v.daum.net/v/20220702190315488</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220702070707152"/>
         <updated>2022-07-01T22:18:35.045Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["장애 아닌 개성" 왼팔 없는 축구선수와의 하이파이브![김태훈의 챕터투]]]></title>
-        <id>https://v.daum.net/v/20220702070137118</id>
-        <link href="https://v.daum.net/v/20220702070137118"/>
-        <updated>2022-07-01T22:18:35.052Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김학주의 투자바이블] 인플레는 두려워만 해야 할 대상일까]]></title>
-        <id>https://v.daum.net/v/20220702070125110</id>
-        <link href="https://v.daum.net/v/20220702070125110"/>
-        <updated>2022-07-01T22:18:35.053Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">07:01</span>]]></content>
     </entry>
 </feed>
