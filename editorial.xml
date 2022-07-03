@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-07-03T13:26:49.232Z</updated>
+    <updated>2022-07-03T14:17:12.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022년 7월 4일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20220703223033472</id>
+        <link href="https://v.daum.net/v/20220703223033472"/>
+        <updated>2022-07-03T14:16:56.717Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뭐라노]"낙태죄 위헌" 3년 지났는데]]></title>
         <id>https://v.daum.net/v/20220703221424276</id>
@@ -69,7 +76,7 @@
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:50</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A rush to raise theminimum wage]]></title>
+        <title type="html"><![CDATA[A rush to raise the minimum wage]]></title>
         <id>https://v.daum.net/v/20220703194944427</id>
         <link href="https://v.daum.net/v/20220703194944427"/>
         <updated>2022-07-03T11:16:04.302Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220703193624276"/>
         <updated>2022-07-03T11:16:04.306Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tax policy for the weakest, please]]></title>
-        <id>https://v.daum.net/v/20220703193424233</id>
-        <link href="https://v.daum.net/v/20220703193424233"/>
-        <updated>2022-07-03T11:16:04.307Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:34</span>]]></content>
     </entry>
 </feed>
