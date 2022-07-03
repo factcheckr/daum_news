@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-07-03T16:24:40.962Z</updated>
+    <updated>2022-07-03T17:18:13.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]메가시티가 뜬 구름 잡는 이야기?]]></title>
+        <id>https://v.daum.net/v/20220704020501585</id>
+        <link href="https://v.daum.net/v/20220704020501585"/>
+        <updated>2022-07-03T17:17:57.045Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중앙시평] 최초로 과학자라 칭해진 것은 여성?]]></title>
         <id>https://v.daum.net/v/20220704004834356</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220704002402264"/>
         <updated>2022-07-03T16:24:23.660Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[명경대] 탄핵의 조건]]></title>
-        <id>https://v.daum.net/v/20220704001151167</id>
-        <link href="https://v.daum.net/v/20220704001151167"/>
-        <updated>2022-07-03T15:18:43.156Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:11</span>]]></content>
     </entry>
 </feed>

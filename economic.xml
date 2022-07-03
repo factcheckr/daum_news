@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2022-07-03T16:24:40.954Z</updated>
+    <updated>2022-07-03T17:18:13.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국경제 어게인 2008년? 덩치 커졌지만 맷집은 약해졌다]]></title>
+        <id>https://v.daum.net/v/20220704020034577</id>
+        <link href="https://v.daum.net/v/20220704020034577"/>
+        <updated>2022-07-03T17:17:09.405Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">02:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美 주요항공사, 항공권 예약시 제3의성 'X젠더' 표기 도입]]></title>
+        <id>https://v.daum.net/v/20220704015822571</id>
+        <link href="https://v.daum.net/v/20220704015822571"/>
+        <updated>2022-07-03T17:17:09.407Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">01:58</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KT CS대구본부, 고객 맞춤형 상담센터 운영 '박차']]></title>
         <id>https://v.daum.net/v/20220704010404457</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220704010220426"/>
         <updated>2022-07-03T16:23:32.620Z</updated>
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SSG닷컴, '명품 전문관' 신설.. 전담 상담센터도 운영]]></title>
-        <id>https://v.daum.net/v/20220704010152419</id>
-        <link href="https://v.daum.net/v/20220704010152419"/>
-        <updated>2022-07-03T16:23:32.620Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[마이머니 단신] 우리금융 '우리WON카' 여름 빅이벤트 실시 외]]></title>
-        <id>https://v.daum.net/v/20220704010142417</id>
-        <link href="https://v.daum.net/v/20220704010142417"/>
-        <updated>2022-07-03T16:23:32.621Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:01</span>]]></content>
     </entry>
 </feed>
