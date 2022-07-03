@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-07-03T10:20:02.769Z</updated>
+    <updated>2022-07-03T11:16:19.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국과학기술원, 서울대 팀 큐브위성 진행상황]]></title>
+        <id>https://v.daum.net/v/20220703200535710</id>
+        <link href="https://v.daum.net/v/20220703200535710"/>
+        <updated>2022-07-03T11:16:11.959Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">20:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오성환 당진시장 키워드는 '경제 활성화와 풍요로운 농어촌 건설']]></title>
         <id>https://v.daum.net/v/20220703185402752</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220703185250698</id>
         <link href="https://v.daum.net/v/20220703185250698"/>
         <updated>2022-07-03T10:19:54.869Z</updated>
-        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">18:52</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보은교육청 통합교육지원단 특수통합학급 담당교원연수]]></title>
-        <id>https://v.daum.net/v/20220703185247696</id>
-        <link href="https://v.daum.net/v/20220703185247696"/>
-        <updated>2022-07-03T10:19:54.871Z</updated>
         <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">18:52</span>]]></content>
     </entry>
 </feed>
