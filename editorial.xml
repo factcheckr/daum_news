@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-07-04T07:18:16.223Z</updated>
+    <updated>2022-07-04T08:24:46.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정의길 칼럼] 종전과 평화만이 장기불황 막는다]]></title>
+        <id>https://v.daum.net/v/20220704170008064</id>
+        <link href="https://v.daum.net/v/20220704170008064"/>
+        <updated>2022-07-04T08:24:28.999Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">17:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정치 바람에 취약한 국민연금 전문성 '흔들' [시그널]]]></title>
+        <id>https://v.daum.net/v/20220704164344465</id>
+        <link href="https://v.daum.net/v/20220704164344465"/>
+        <updated>2022-07-04T08:24:29.001Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">16:43</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[기자수첩] 공짜 점심은 없다]]></title>
         <id>https://v.daum.net/v/20220704161714487</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220704144405434"/>
         <updated>2022-07-04T06:28:34.534Z</updated>
         <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">14:44</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[유레카] 튀르키예는, 본디 튀르키예였다 / 안영춘]]></title>
-        <id>https://v.daum.net/v/20220704142007235</id>
-        <link href="https://v.daum.net/v/20220704142007235"/>
-        <updated>2022-07-04T05:29:40.457Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">14:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['내돈내산'과 권리들의 전쟁터[플랫]]]></title>
-        <id>https://v.daum.net/v/20220704140422683</id>
-        <link href="https://v.daum.net/v/20220704140422683"/>
-        <updated>2022-07-04T05:29:40.459Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">14:04</span>]]></content>
     </entry>
 </feed>
