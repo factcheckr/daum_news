@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-07-04T04:50:44.248Z</updated>
+    <updated>2022-07-04T05:29:56.946Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[유레카] '튀르키예'라 불러다오 / 안영춘]]></title>
+        <id>https://v.daum.net/v/20220704142007235</id>
+        <link href="https://v.daum.net/v/20220704142007235"/>
+        <updated>2022-07-04T05:29:40.457Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">14:20</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['내돈내산'과 권리들의 전쟁터[플랫]]]></title>
+        <id>https://v.daum.net/v/20220704140422683</id>
+        <link href="https://v.daum.net/v/20220704140422683"/>
+        <updated>2022-07-04T05:29:40.459Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">14:04</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[기자수첩]'옥장판 논란'이 드러낸 '스타 의존' 뮤지컬 시장]]></title>
+        <id>https://v.daum.net/v/20220704140151567</id>
+        <link href="https://v.daum.net/v/20220704140151567"/>
+        <updated>2022-07-04T05:29:40.460Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">14:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린아이를 불행하게 만드는 지름길]]></title>
         <id>https://v.daum.net/v/20220704135007170</id>
@@ -18,13 +39,6 @@
         <link href="https://v.daum.net/v/20220704134103879"/>
         <updated>2022-07-04T04:50:25.577Z</updated>
         <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">13:41</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[속보] 윤 대통령, 박순애·김승겸 임명 재가]]></title>
-        <id>https://v.daum.net/v/20220704120720121</id>
-        <link href="https://v.daum.net/v/20220704120720121"/>
-        <updated>2022-07-04T03:52:02.412Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">12:07</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['괜히 찍힐라'..부처도, 금융기관도 앞다퉈 '뉴딜' 지우기]]></title>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220704112047872"/>
         <updated>2022-07-04T03:52:02.426Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<김종호의 시론>'월북몰이 공작' 빙산의 일각 아닌가]]></title>
-        <id>https://v.daum.net/v/20220704111524600</id>
-        <link href="https://v.daum.net/v/20220704111524600"/>
-        <updated>2022-07-04T03:52:02.427Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<뉴스와 시각>'디지털 유산'과 웰다잉]]></title>
-        <id>https://v.daum.net/v/20220704111515588</id>
-        <link href="https://v.daum.net/v/20220704111515588"/>
-        <updated>2022-07-04T03:52:02.428Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:15</span>]]></content>
     </entry>
 </feed>
