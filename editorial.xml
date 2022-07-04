@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-07-04T12:36:23.695Z</updated>
+    <updated>2022-07-04T13:38:59.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022년 7월 5일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20220704220140128</id>
+        <link href="https://v.daum.net/v/20220704220140128"/>
+        <updated>2022-07-04T13:38:37.590Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자산엔 관대하면서 임금엔 왜 가혹한가 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20220704220046113</id>
+        <link href="https://v.daum.net/v/20220704220046113"/>
+        <updated>2022-07-04T13:38:37.593Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뭐라노] 청년 천사들]]></title>
         <id>https://v.daum.net/v/20220704213139828</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220704195713784"/>
         <updated>2022-07-04T11:24:09.571Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:57</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[국민만평-서민호 화백] 2022년 7월 5일]]></title>
-        <id>https://v.daum.net/v/20220704194801680</id>
-        <link href="https://v.daum.net/v/20220704194801680"/>
-        <updated>2022-07-04T11:24:09.571Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">19:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 강제동원 민관협의회 출범, '졸속 화해' 경계해야]]></title>
-        <id>https://v.daum.net/v/20220704194007592</id>
-        <link href="https://v.daum.net/v/20220704194007592"/>
-        <updated>2022-07-04T11:24:09.572Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:40</span>]]></content>
     </entry>
 </feed>
