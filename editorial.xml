@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-07-04T03:52:23.093Z</updated>
+    <updated>2022-07-04T04:50:44.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어린아이를 불행하게 만드는 지름길]]></title>
+        <id>https://v.daum.net/v/20220704135007170</id>
+        <link href="https://v.daum.net/v/20220704135007170"/>
+        <updated>2022-07-04T04:50:25.576Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">13:50</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ET시론]RE100을 넘어 나아가야 할 'CF100']]></title>
+        <id>https://v.daum.net/v/20220704134103879</id>
+        <link href="https://v.daum.net/v/20220704134103879"/>
+        <updated>2022-07-04T04:50:25.577Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">13:41</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[속보] 윤 대통령, 박순애·김승겸 임명 재가]]></title>
         <id>https://v.daum.net/v/20220704120720121</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220704111515588"/>
         <updated>2022-07-04T03:52:02.428Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정지우의 MZ칼럼]불안을 학습한 세대의 생존법]]></title>
-        <id>https://v.daum.net/v/20220704111053316</id>
-        <link href="https://v.daum.net/v/20220704111053316"/>
-        <updated>2022-07-04T03:52:02.429Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<오후여담>신설 '경찰국'의 진실]]></title>
-        <id>https://v.daum.net/v/20220704111052315</id>
-        <link href="https://v.daum.net/v/20220704111052315"/>
-        <updated>2022-07-04T03:52:02.430Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:10</span>]]></content>
     </entry>
 </feed>
