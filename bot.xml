@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-07-06T07:18:13.040Z</updated>
+    <updated>2022-07-06T08:33:57.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2022년 07월 06일)]]></title>
+        <id>https://v.daum.net/v/20220706173046974</id>
+        <link href="https://v.daum.net/v/20220706173046974"/>
+        <updated>2022-07-06T08:33:56.668Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가상화폐 비트코인 68,000원 상승한 26,616,000원에 거래]]></title>
+        <id>https://v.daum.net/v/20220706163126605</id>
+        <link href="https://v.daum.net/v/20220706163126605"/>
+        <updated>2022-07-06T08:33:56.668Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">16:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[fnRASSI]장마감, 코스닥 하락 종목(삼성스팩6호 -29.8% ↓)]]></title>
         <id>https://v.daum.net/v/20220706153719286</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220706124600063"/>
         <updated>2022-07-06T03:51:35.079Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:46</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 원천동 원천레이크파크 59㎡ 5억5500만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220706124057011</id>
-        <link href="https://v.daum.net/v/20220706124057011"/>
-        <updated>2022-07-06T03:51:35.080Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 옥련동 옥련럭키송도 68㎡ 3억3000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220706123601899</id>
-        <link href="https://v.daum.net/v/20220706123601899"/>
-        <updated>2022-07-06T03:51:35.080Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:36</span>]]></content>
     </entry>
 </feed>
