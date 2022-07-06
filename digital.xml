@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-07-06T13:44:11.480Z</updated>
+    <updated>2022-07-06T14:19:39.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KT "한국의 엔비디아 육성".. AI 반도체 300억 투자]]></title>
+        <id>https://v.daum.net/v/20220706231102147</id>
+        <link href="https://v.daum.net/v/20220706231102147"/>
+        <updated>2022-07-06T14:19:15.953Z</updated>
+        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">23:11</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코오롱 4세 이규호 결혼..이재용·최태원 등 총출동]]></title>
+        <id>https://v.daum.net/v/20220706230808132</id>
+        <link href="https://v.daum.net/v/20220706230808132"/>
+        <updated>2022-07-06T14:19:15.961Z</updated>
+        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">23:08</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LG유플, 1만 5000개 무선국 구축.. 호남 등 통신 품질 소외지역부터]]></title>
+        <id>https://v.daum.net/v/20220706230609117</id>
+        <link href="https://v.daum.net/v/20220706230609117"/>
+        <updated>2022-07-06T14:19:15.962Z</updated>
+        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">23:06</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[리뷰] 즐길 거리가 한가득! '몬스터헌터 라이즈: 선브레이크']]></title>
         <id>https://v.daum.net/v/20220706224203938</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220706212715829"/>
         <updated>2022-07-06T12:39:40.597Z</updated>
         <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">21:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웨이브릿지, 케이뱅크 출신 오종운 CTO 영입]]></title>
-        <id>https://v.daum.net/v/20220706211113487</id>
-        <link href="https://v.daum.net/v/20220706211113487"/>
-        <updated>2022-07-06T12:39:40.599Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">21:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그린피스 "원전·가스가 녹색?"..유럽의회에 법적대응 예고]]></title>
-        <id>https://v.daum.net/v/20220706211012446</id>
-        <link href="https://v.daum.net/v/20220706211012446"/>
-        <updated>2022-07-06T12:39:40.600Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">21:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헐코퍼레이션, IOFX와 협업.."메타버스 역량 강화"]]></title>
-        <id>https://v.daum.net/v/20220706210009195</id>
-        <link href="https://v.daum.net/v/20220706210009195"/>
-        <updated>2022-07-06T12:39:40.601Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">21:00</span>]]></content>
     </entry>
 </feed>
