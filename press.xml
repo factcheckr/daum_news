@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-07-07T12:37:45.473Z</updated>
+    <updated>2022-07-07T13:42:19.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[G20 외교장관회의 계기 한-인도네시아 외교장관 회담(7.7) 결과]]></title>
+        <id>https://v.daum.net/v/20220707223548718</id>
+        <link href="https://v.daum.net/v/20220707223548718"/>
+        <updated>2022-07-07T13:42:10.411Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">22:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[G20 외교장관회의 계기 한-호주 외교장관회담(7.7.) 개최 결과]]></title>
         <id>https://v.daum.net/v/20220707213536638</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220707181130141"/>
         <updated>2022-07-07T09:19:04.952Z</updated>
         <content type="html"><![CDATA[스포탈코리아<span class="txt_bar"> · </span><span class="info_time">18:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NMIXX(엔믹스), 7댄스-7보컬-7비주얼에 재미까지 갖췄다]]></title>
-        <id>https://v.daum.net/v/20220707181023115</id>
-        <link href="https://v.daum.net/v/20220707181023115"/>
-        <updated>2022-07-07T09:19:04.953Z</updated>
-        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">18:10</span>]]></content>
     </entry>
 </feed>
