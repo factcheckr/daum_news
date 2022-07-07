@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-07-07T03:51:01.733Z</updated>
+    <updated>2022-07-07T04:49:19.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[기고] 우크라 난민들과 함께하는 '블라드미르'들]]></title>
+        <id>https://v.daum.net/v/20220707133053302</id>
+        <link href="https://v.daum.net/v/20220707133053302"/>
+        <updated>2022-07-07T04:49:02.114Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">13:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[양경미의 영화로 보는 세상] 가족 간의 갈등과 상처 치유법]]></title>
+        <id>https://v.daum.net/v/20220707130823812</id>
+        <link href="https://v.daum.net/v/20220707130823812"/>
+        <updated>2022-07-07T04:49:02.117Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">13:08</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤 대통령 나토 정상회의 참석·한미일 정상회담 개최 의미]]></title>
         <id>https://v.daum.net/v/20220707113511505</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220707111506302"/>
         <updated>2022-07-07T03:50:44.607Z</updated>
         <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">11:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데일리안 시사만평] 입이 보살?..'오동잎 떨어지면~' 박지원 국정원서 고발 당해]]></title>
-        <id>https://v.daum.net/v/20220707111211118</id>
-        <link href="https://v.daum.net/v/20220707111211118"/>
-        <updated>2022-07-07T03:50:44.608Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">11:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<뉴스와 시각>K-컬처, 모두의 예술로]]></title>
-        <id>https://v.daum.net/v/20220707111014016</id>
-        <link href="https://v.daum.net/v/20220707111014016"/>
-        <updated>2022-07-07T03:50:44.608Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:10</span>]]></content>
     </entry>
 </feed>
