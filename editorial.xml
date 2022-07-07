@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-07-07T22:19:33.343Z</updated>
+    <updated>2022-07-07T23:20:06.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](8일 조간)]]></title>
+        <id>https://v.daum.net/v/20220708080004177</id>
+        <link href="https://v.daum.net/v/20220708080004177"/>
+        <updated>2022-07-07T23:19:49.263Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[여백] 하안거]]></title>
         <id>https://v.daum.net/v/20220708070511457</id>
@@ -100,13 +107,6 @@
         <title type="html"><![CDATA[[전문가의 눈] 한우, 12개월령 형질의 중요성]]></title>
         <id>https://v.daum.net/v/20220708051157831</id>
         <link href="https://v.daum.net/v/20220708051157831"/>
-        <updated>2022-07-07T20:24:02.823Z</updated>
-        <content type="html"><![CDATA[농민신문<span class="txt_bar"> · </span><span class="info_time">05:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 농자재값 폭등 '충격'..농가 주름살 펴주길]]></title>
-        <id>https://v.daum.net/v/20220708051157830</id>
-        <link href="https://v.daum.net/v/20220708051157830"/>
         <updated>2022-07-07T20:24:02.823Z</updated>
         <content type="html"><![CDATA[농민신문<span class="txt_bar"> · </span><span class="info_time">05:11</span>]]></content>
     </entry>
