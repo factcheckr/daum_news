@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-07-08T15:20:03.320Z</updated>
+    <updated>2022-07-08T16:29:48.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선데이 칼럼] 공정과 상식이 무너지는 소리]]></title>
+        <id>https://v.daum.net/v/20220709003025455</id>
+        <link href="https://v.daum.net/v/20220709003025455"/>
+        <updated>2022-07-08T16:29:34.023Z</updated>
+        <content type="html"><![CDATA[중앙SUNDAY<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[꼭두각시 찾던 일 관동군, 푸이에게 '만주제국' 타진]]></title>
+        <id>https://v.daum.net/v/20220709002222405</id>
+        <link href="https://v.daum.net/v/20220709002222405"/>
+        <updated>2022-07-08T16:29:34.024Z</updated>
+        <content type="html"><![CDATA[중앙SUNDAY<span class="txt_bar"> · </span><span class="info_time">00:22</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[G7, 그들은 만나서 무엇을 했나]]></title>
         <id>https://v.daum.net/v/20220709001302332</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220709000600294"/>
         <updated>2022-07-08T15:19:47.304Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시론] 자원 재활용 넘어서는 '순환경제']]></title>
-        <id>https://v.daum.net/v/20220709000403267</id>
-        <link href="https://v.daum.net/v/20220709000403267"/>
-        <updated>2022-07-08T15:19:47.306Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이소연의 시적인 순간] 경력증명서에 넣을 수 없는 나의 경력들]]></title>
-        <id>https://v.daum.net/v/20220709000401266</id>
-        <link href="https://v.daum.net/v/20220709000401266"/>
-        <updated>2022-07-08T15:19:47.307Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
     </entry>
 </feed>
