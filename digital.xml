@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-07-08T13:38:15.869Z</updated>
+    <updated>2022-07-08T14:24:58.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한덕수 총리, 코로나19 백신 4차 접종.."곧 접종 확대안 발표"]]></title>
+        <id>https://v.daum.net/v/20220708224802689</id>
+        <link href="https://v.daum.net/v/20220708224802689"/>
+        <updated>2022-07-08T14:24:31.611Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">22:48</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[POLAND AUTOMOTIVE ELECTROMOBILITY]]></title>
         <id>https://v.daum.net/v/20220708222717509</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220708194633995"/>
         <updated>2022-07-08T11:18:08.024Z</updated>
         <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">19:46</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로스트아크 기상술사 "성능은 무난, 외형은 최상"]]></title>
-        <id>https://v.daum.net/v/20220708185751090</id>
-        <link href="https://v.daum.net/v/20220708185751090"/>
-        <updated>2022-07-08T10:22:02.411Z</updated>
-        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">18:57</span>]]></content>
     </entry>
 </feed>
