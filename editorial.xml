@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-07-08T22:18:12.484Z</updated>
+    <updated>2022-07-08T23:19:32.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[천남수의 視線] 이준석·박지현을 토사구팽하는 한국정치]]></title>
+        <id>https://v.daum.net/v/20220709080037811</id>
+        <link href="https://v.daum.net/v/20220709080037811"/>
+        <updated>2022-07-08T23:19:15.404Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[더 한장] 코로나 확산세속 메카를 찾은 100만 순례자]]></title>
+        <id>https://v.daum.net/v/20220709070135395</id>
+        <link href="https://v.daum.net/v/20220709070135395"/>
+        <updated>2022-07-08T23:19:15.408Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">07:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[김구태의 뇌과학]뇌는 독서할수록 똑똑해진다]]></title>
         <id>https://v.daum.net/v/20220709070030359</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220709040259249"/>
         <updated>2022-07-08T19:16:26.648Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데스크 칼럼] 벼락치기 따라하기와 질서있는 금리인상]]></title>
-        <id>https://v.daum.net/v/20220709040217244</id>
-        <link href="https://v.daum.net/v/20220709040217244"/>
-        <updated>2022-07-08T19:16:26.648Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">04:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 선거 연승한 집권 여당의 이해하기 힘든 진흙탕 내분]]></title>
-        <id>https://v.daum.net/v/20220709032610135</id>
-        <link href="https://v.daum.net/v/20220709032610135"/>
-        <updated>2022-07-08T19:16:26.651Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:26</span>]]></content>
     </entry>
 </feed>
