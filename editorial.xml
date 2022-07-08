@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-07-08T09:20:53.578Z</updated>
+    <updated>2022-07-08T10:22:28.368Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['군사독재 헌법' 이번엔 끝낼까]]></title>
+        <id>https://v.daum.net/v/20220708190510240</id>
+        <link href="https://v.daum.net/v/20220708190510240"/>
+        <updated>2022-07-08T10:22:10.495Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[영상사설]"이리 훌륭한 사람 봤나" 민심 이반 부른 대통령 인식]]></title>
+        <id>https://v.daum.net/v/20220708182514462</id>
+        <link href="https://v.daum.net/v/20220708182514462"/>
+        <updated>2022-07-08T10:22:10.499Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">18:25</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[메아리] '비주류 여당 대표'의 예고된 수난]]></title>
         <id>https://v.daum.net/v/20220708180057961</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220708153908720"/>
         <updated>2022-07-08T07:18:10.464Z</updated>
         <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">15:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웹사설=이준석 중징계 후폭풍, 경제에 재 뿌려선 안 돼]]></title>
-        <id>https://v.daum.net/v/20220708145232883</id>
-        <link href="https://v.daum.net/v/20220708145232883"/>
-        <updated>2022-07-08T06:25:26.929Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">14:52</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예수의 십자가 못 박힘은 에고의 죽음 상징]]></title>
-        <id>https://v.daum.net/v/20220708131508211</id>
-        <link href="https://v.daum.net/v/20220708131508211"/>
-        <updated>2022-07-08T06:25:26.930Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">13:15</span>]]></content>
     </entry>
 </feed>
