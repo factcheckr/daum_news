@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-07-08T21:18:40.762Z</updated>
+    <updated>2022-07-08T22:18:12.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[김구태의 뇌과학]뇌는 독서할수록 똑똑해진다]]></title>
+        <id>https://v.daum.net/v/20220709070030359</id>
+        <link href="https://v.daum.net/v/20220709070030359"/>
+        <updated>2022-07-08T22:17:55.575Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['충격 전패' 여자배구, 언제까지 김연경 타령만.. [김평호의 인상팍!]]]></title>
+        <id>https://v.daum.net/v/20220709070000317</id>
+        <link href="https://v.daum.net/v/20220709070000317"/>
+        <updated>2022-07-08T22:17:55.576Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[패스트패션업계 절대강자 中쉬인의 민낯 [김규환의 핸디 차이나]]]></title>
         <id>https://v.daum.net/v/20220709050505444</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220709032610135"/>
         <updated>2022-07-08T19:16:26.651Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 서해 공무원 정보 삭제가 "유통망 정비"라는 野의 궤변]]></title>
-        <id>https://v.daum.net/v/20220709032525134</id>
-        <link href="https://v.daum.net/v/20220709032525134"/>
-        <updated>2022-07-08T19:16:26.651Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 넘쳐나 낭비되는 교부금, 수술커녕 응급처치도 막는다니]]></title>
-        <id>https://v.daum.net/v/20220709032214132</id>
-        <link href="https://v.daum.net/v/20220709032214132"/>
-        <updated>2022-07-08T18:23:36.585Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:22</span>]]></content>
     </entry>
 </feed>
