@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-07-09T06:22:29.650Z</updated>
+    <updated>2022-07-09T07:19:10.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤석열정부 기회발전특구, 이렇게 해야 성공한다]]></title>
+        <id>https://v.daum.net/v/20220709152442844</id>
+        <link href="https://v.daum.net/v/20220709152442844"/>
+        <updated>2022-07-09T07:18:47.568Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">15:24</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대통령의 권력은 설득력에서 나온다 [쓴소리 곧은 소리]]]></title>
         <id>https://v.daum.net/v/20220709140203965</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220709043011289"/>
         <updated>2022-07-08T20:23:04.481Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한마당] 말로만 지방대 시대]]></title>
-        <id>https://v.daum.net/v/20220709041157275</id>
-        <link href="https://v.daum.net/v/20220709041157275"/>
-        <updated>2022-07-08T19:16:26.644Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:11</span>]]></content>
     </entry>
 </feed>
