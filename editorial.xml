@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-07-10T22:19:47.371Z</updated>
+    <updated>2022-07-10T23:19:47.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[한강로에서] '국민을 위하는' 자세]]></title>
+        <id>https://v.daum.net/v/20220711080201946</id>
+        <link href="https://v.daum.net/v/20220711080201946"/>
+        <updated>2022-07-10T23:19:23.388Z</updated>
+        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">08:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 대통령 초심 잃지 말아야 [이진곤의 그건 아니지요]]]></title>
         <id>https://v.daum.net/v/20220711070707256</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220711051146164</id>
         <link href="https://v.daum.net/v/20220711051146164"/>
         <updated>2022-07-10T20:20:00.788Z</updated>
-        <content type="html"><![CDATA[농민신문<span class="txt_bar"> · </span><span class="info_time">05:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[취재수첩] 농민 열받게 하는 네글자 'OOOO']]></title>
-        <id>https://v.daum.net/v/20220711051145163</id>
-        <link href="https://v.daum.net/v/20220711051145163"/>
-        <updated>2022-07-10T20:20:00.792Z</updated>
         <content type="html"><![CDATA[농민신문<span class="txt_bar"> · </span><span class="info_time">05:11</span>]]></content>
     </entry>
 </feed>
