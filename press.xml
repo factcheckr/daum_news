@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-07-10T13:26:53.844Z</updated>
+    <updated>2022-07-10T14:17:50.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사회적경제 박람회 빛낸 소셜벤처 기업]]></title>
+        <id>https://v.daum.net/v/20220710223525116</id>
+        <link href="https://v.daum.net/v/20220710223525116"/>
+        <updated>2022-07-10T14:17:37.268Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">22:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전남교육청, 1조2천억원 규모 추경 예산 편성]]></title>
         <id>https://v.daum.net/v/20220710214201728</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220710150356592</id>
         <link href="https://v.daum.net/v/20220710150356592"/>
         <updated>2022-07-10T06:22:56.036Z</updated>
-        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">15:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금산경찰서 등굣길 청소년 범죄예방 캠페인]]></title>
-        <id>https://v.daum.net/v/20220710150346587</id>
-        <link href="https://v.daum.net/v/20220710150346587"/>
-        <updated>2022-07-10T06:22:56.040Z</updated>
         <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">15:03</span>]]></content>
     </entry>
 </feed>
