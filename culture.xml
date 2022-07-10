@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2022-07-10T18:22:37.303Z</updated>
+    <updated>2022-07-10T19:15:55.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주말 연이틀 2만명대 '코로나 재확산'.. 격리 의무 연장 유력]]></title>
+        <id>https://v.daum.net/v/20220711040723711</id>
+        <link href="https://v.daum.net/v/20220711040723711"/>
+        <updated>2022-07-10T19:14:51.086Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KWMA 위기 선교사 지원금 전달.. 베트남 등 16개국 20명.. 2년간 매달 50만원씩 받아]]></title>
         <id>https://v.daum.net/v/20220711030909508</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220711030346420"/>
         <updated>2022-07-10T18:21:35.773Z</updated>
         <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">03:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["토착 왜구 프레임이 '빨갱이'보다 더 폭력적이다"]]></title>
-        <id>https://v.daum.net/v/20220711030332403</id>
-        <link href="https://v.daum.net/v/20220711030332403"/>
-        <updated>2022-07-10T18:21:35.774Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:03</span>]]></content>
     </entry>
 </feed>
