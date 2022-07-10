@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-07-10T05:18:47.194Z</updated>
+    <updated>2022-07-10T06:23:04.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[보령소방서 비상구 폐쇄 잠금 근절]]></title>
+        <id>https://v.daum.net/v/20220710150438625</id>
+        <link href="https://v.daum.net/v/20220710150438625"/>
+        <updated>2022-07-10T06:22:48.101Z</updated>
+        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">15:04</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[유레카] 90년 만의 총리 암살/박민희]]></title>
+        <id>https://v.daum.net/v/20220710144004144</id>
+        <link href="https://v.daum.net/v/20220710144004144"/>
+        <updated>2022-07-10T06:22:48.102Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">14:40</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아침햇발] '민생'은 말뿐, '수확의 정치'가 시작됐다 / 정남구]]></title>
         <id>https://v.daum.net/v/20220710141507639</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220710070023355"/>
         <updated>2022-07-09T22:18:49.949Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뒤끝작렬]"옆에 사람이 없다"..의회에 발목 잡힌 김동연]]></title>
-        <id>https://v.daum.net/v/20220710060300784</id>
-        <link href="https://v.daum.net/v/20220710060300784"/>
-        <updated>2022-07-09T21:16:51.668Z</updated>
-        <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">06:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[큰 목소리보다 들리지 않던 목소리에 귀를 기울이면]]></title>
-        <id>https://v.daum.net/v/20220710054503536</id>
-        <link href="https://v.daum.net/v/20220710054503536"/>
-        <updated>2022-07-09T21:16:51.670Z</updated>
-        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">05:45</span>]]></content>
     </entry>
 </feed>
