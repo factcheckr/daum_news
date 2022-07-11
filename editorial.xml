@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-07-11T16:30:39.068Z</updated>
+    <updated>2022-07-11T17:29:09.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]민주당이 '시민정당'이 되려면]]></title>
+        <id>https://v.daum.net/v/20220712020501913</id>
+        <link href="https://v.daum.net/v/20220712020501913"/>
+        <updated>2022-07-11T17:28:54.880Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]'흉부외과 진료지원인력' 양성화]]></title>
+        <id>https://v.daum.net/v/20220712020101896</id>
+        <link href="https://v.daum.net/v/20220712020101896"/>
+        <updated>2022-07-11T17:28:54.881Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[송호근의 세사필담] '정권 100일'의 축문]]></title>
         <id>https://v.daum.net/v/20220712004422497</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220712001710361"/>
         <updated>2022-07-11T15:20:32.672Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김기찬의 인프라] 법과 원칙 대응 통했나, 확 줄어든 노동계 불법 행위]]></title>
-        <id>https://v.daum.net/v/20220712001641360</id>
-        <link href="https://v.daum.net/v/20220712001641360"/>
-        <updated>2022-07-11T15:20:32.673Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한 컷] 초복(16일) 앞두고 '삼계탕' 나눔 봉사]]></title>
-        <id>https://v.daum.net/v/20220712001521343</id>
-        <link href="https://v.daum.net/v/20220712001521343"/>
-        <updated>2022-07-11T15:20:32.674Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:15</span>]]></content>
     </entry>
 </feed>
