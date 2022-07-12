@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-07-12T21:19:02.957Z</updated>
+    <updated>2022-07-12T22:19:22.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[시론]엔저의 역습에 대비해야]]></title>
+        <id>https://v.daum.net/v/20220713070101805</id>
+        <link href="https://v.daum.net/v/20220713070101805"/>
+        <updated>2022-07-12T22:19:06.156Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">07:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[시로 여는 수요일]맨발]]></title>
+        <id>https://v.daum.net/v/20220713070056802</id>
+        <link href="https://v.daum.net/v/20220713070056802"/>
+        <updated>2022-07-12T22:19:06.157Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[김대일 칼럼]대기업 노조, 노블리스 오블리제 보여줘야]]></title>
+        <id>https://v.daum.net/v/20220713070052799</id>
+        <link href="https://v.daum.net/v/20220713070052799"/>
+        <updated>2022-07-12T22:19:06.158Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[한밭춘추] 생활 음악]]></title>
+        <id>https://v.daum.net/v/20220713070005729</id>
+        <link href="https://v.daum.net/v/20220713070005729"/>
+        <updated>2022-07-12T22:19:06.159Z</updated>
+        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[기자수첩]어쩔 수 없는 '빅스텝' 금리인상..서민은 어쩌나]]></title>
         <id>https://v.daum.net/v/20220713061501243</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20220713051024280"/>
         <updated>2022-07-12T20:20:45.781Z</updated>
         <content type="html"><![CDATA[농민신문<span class="txt_bar"> · </span><span class="info_time">05:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이동필의 귀거래사] 토종닭사업 구상과 지방소멸 대응]]></title>
-        <id>https://v.daum.net/v/20220713051019278</id>
-        <link href="https://v.daum.net/v/20220713051019278"/>
-        <updated>2022-07-12T20:20:45.781Z</updated>
-        <content type="html"><![CDATA[농민신문<span class="txt_bar"> · </span><span class="info_time">05:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[문화 읽기] 산책하며 상상하는 즐거움]]></title>
-        <id>https://v.daum.net/v/20220713051016276</id>
-        <link href="https://v.daum.net/v/20220713051016276"/>
-        <updated>2022-07-12T20:20:45.781Z</updated>
-        <content type="html"><![CDATA[농민신문<span class="txt_bar"> · </span><span class="info_time">05:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[씨줄날줄] 대통령 존영/오일만 논설위원]]></title>
-        <id>https://v.daum.net/v/20220713050801243</id>
-        <link href="https://v.daum.net/v/20220713050801243"/>
-        <updated>2022-07-12T20:20:45.781Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[길섶에서] 덕유산 귀인/임병선 논설위원]]></title>
-        <id>https://v.daum.net/v/20220713050800242</id>
-        <link href="https://v.daum.net/v/20220713050800242"/>
-        <updated>2022-07-12T20:20:45.781Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
     </entry>
 </feed>
