@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-07-12T13:42:07.253Z</updated>
+    <updated>2022-07-12T14:21:45.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[그림사설] 중산층은 세금 봉? 소득세 개편해 부담 줄여야]]></title>
+        <id>https://v.daum.net/v/20220712230024656</id>
+        <link href="https://v.daum.net/v/20220712230024656"/>
+        <updated>2022-07-12T14:21:28.103Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기협만평 2022.7.13]]></title>
         <id>https://v.daum.net/v/20220712223953488</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220712204005610"/>
         <updated>2022-07-12T12:48:30.004Z</updated>
         <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">20:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['섣부른 추측과 불확실한 정보' 남발된 완도 일가족 사망사건]]></title>
-        <id>https://v.daum.net/v/20220712200504073</id>
-        <link href="https://v.daum.net/v/20220712200504073"/>
-        <updated>2022-07-12T11:17:17.884Z</updated>
-        <content type="html"><![CDATA[미디어오늘<span class="txt_bar"> · </span><span class="info_time">20:05</span>]]></content>
     </entry>
 </feed>
