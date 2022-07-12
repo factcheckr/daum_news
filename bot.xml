@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-07-12T05:08:35.071Z</updated>
+    <updated>2022-07-12T06:24:16.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대구 내당동 삼익뉴타운 46㎡ 2억5600만원.. 역대 최고가]]></title>
+        <id>https://v.daum.net/v/20220712143105231</id>
+        <link href="https://v.daum.net/v/20220712143105231"/>
+        <updated>2022-07-12T06:24:15.786Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:31</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천 불로동 불로월드 117㎡ 4억300만원.. 역대 최고가]]></title>
+        <id>https://v.daum.net/v/20220712142607009</id>
+        <link href="https://v.daum.net/v/20220712142607009"/>
+        <updated>2022-07-12T06:24:15.787Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:26</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울 월계동 월계동현대 59㎡ 8억3500만원.. 역대 최고가]]></title>
+        <id>https://v.daum.net/v/20220712142103854</id>
+        <link href="https://v.daum.net/v/20220712142103854"/>
+        <updated>2022-07-12T06:24:15.791Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:21</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울 대방동 대방대림 134㎡ 18억3000만원.. 역대 최고가]]></title>
+        <id>https://v.daum.net/v/20220712141604666</id>
+        <link href="https://v.daum.net/v/20220712141604666"/>
+        <updated>2022-07-12T06:24:15.791Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:16</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수원 이의동 e편한세상광교 101㎡ 15억9500만원에 거래]]></title>
+        <id>https://v.daum.net/v/20220712141059542</id>
+        <link href="https://v.daum.net/v/20220712141059542"/>
+        <updated>2022-07-12T06:24:15.795Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:10</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인천 마전동 마전동아 84㎡ 3억5000만원에 거래]]></title>
         <id>https://v.daum.net/v/20220712140600401</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20220712132058110"/>
         <updated>2022-07-12T05:08:34.456Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 불로동 불로월드 117㎡ 4억300만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220712131601000</id>
-        <link href="https://v.daum.net/v/20220712131601000"/>
-        <updated>2022-07-12T05:08:34.457Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 송도동 송도 SK VIEW 아파트 84㎡ 8억3500만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220712131105888</id>
-        <link href="https://v.daum.net/v/20220712131105888"/>
-        <updated>2022-07-12T05:08:34.460Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성남 정자동 정자한솔마을주공4차 35㎡ 7억1000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220712130601779</id>
-        <link href="https://v.daum.net/v/20220712130601779"/>
-        <updated>2022-07-12T05:08:34.461Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용인 지곡동 자봉마을써니밸리 84㎡ 3억5000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220712130056587</id>
-        <link href="https://v.daum.net/v/20220712130056587"/>
-        <updated>2022-07-12T04:01:38.311Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 영통동 영통청명마을벽산삼익 84㎡ 7억4000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220712125603482</id>
-        <link href="https://v.daum.net/v/20220712125603482"/>
-        <updated>2022-07-12T04:01:38.312Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:56</span>]]></content>
     </entry>
 </feed>
