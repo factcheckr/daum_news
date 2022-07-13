@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-07-13T04:39:27.396Z</updated>
+    <updated>2022-07-13T05:22:34.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[유레카] 카톡에 올린 자녀 사진의 프라이버시권]]></title>
+        <title type="html"><![CDATA[[기자수첩] 보건복지부 장관 공석에 멈춰선 방역 시계]]></title>
+        <id>https://v.daum.net/v/20220713141651242</id>
+        <link href="https://v.daum.net/v/20220713141651242"/>
+        <updated>2022-07-13T05:22:19.703Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:16</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[김순덕의 도발]대통령비서실장, 직언 못하면 물러나라]]></title>
+        <id>https://v.daum.net/v/20220713140353796</id>
+        <link href="https://v.daum.net/v/20220713140353796"/>
+        <updated>2022-07-13T05:22:19.703Z</updated>
+        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">14:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[유레카] 카톡 자녀 '프로필 사진'과 잊힐 권리]]></title>
         <id>https://v.daum.net/v/20220713125005732</id>
         <link href="https://v.daum.net/v/20220713125005732"/>
         <updated>2022-07-13T04:39:08.239Z</updated>
@@ -32,13 +46,6 @@
         <link href="https://v.daum.net/v/20220713122034224"/>
         <updated>2022-07-13T03:43:07.624Z</updated>
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">12:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당정, 18일 尹정부 첫 세법개정안 논의]]></title>
-        <id>https://v.daum.net/v/20220713120602843</id>
-        <link href="https://v.daum.net/v/20220713120602843"/>
-        <updated>2022-07-13T03:43:07.624Z</updated>
-        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">12:06</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[소비자가 뽑은 농촌진흥청 대표 농업기술 Top5]]></title>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220713112028513"/>
         <updated>2022-07-13T03:43:07.640Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<뉴스와 시각>'3자 협의체(오세훈-김동연-유정복)'의 가동 조건]]></title>
-        <id>https://v.daum.net/v/20220713111520231</id>
-        <link href="https://v.daum.net/v/20220713111520231"/>
-        <updated>2022-07-13T03:43:07.641Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:15</span>]]></content>
     </entry>
 </feed>
