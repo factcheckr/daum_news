@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-07-13T11:17:25.003Z</updated>
+    <updated>2022-07-13T12:35:24.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뭐라노] 2030이 경험 못한 경제위기]]></title>
+        <id>https://v.daum.net/v/20220713210423489</id>
+        <link href="https://v.daum.net/v/20220713210423489"/>
+        <updated>2022-07-13T12:35:08.253Z</updated>
+        <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">21:04</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7월 14일 한겨레 그림판]]></title>
+        <id>https://v.daum.net/v/20220713203503728</id>
+        <link href="https://v.daum.net/v/20220713203503728"/>
+        <updated>2022-07-13T12:35:08.254Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">20:35</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[경향의 눈] 두 달 남은 듯, 두 달 지난 윤 정부]]></title>
+        <id>https://v.daum.net/v/20220713202647572</id>
+        <link href="https://v.daum.net/v/20220713202647572"/>
+        <updated>2022-07-13T12:35:08.255Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:26</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[여적] 환노위와 민주당]]></title>
         <id>https://v.daum.net/v/20220713201508353</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220713193011562"/>
         <updated>2022-07-13T11:17:05.714Z</updated>
         <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[권태호의 저널리즘책무실] 도어스테핑은 애드리브가 아니다]]></title>
-        <id>https://v.daum.net/v/20220713191002149</id>
-        <link href="https://v.daum.net/v/20220713191002149"/>
-        <updated>2022-07-13T10:23:25.892Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['뻔하지만 확실한' 직딩 영어공부 꿀팁 [한승희의 직딩노트]]]></title>
-        <id>https://v.daum.net/v/20220713190041941</id>
-        <link href="https://v.daum.net/v/20220713190041941"/>
-        <updated>2022-07-13T10:23:25.894Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">19:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[산사(山寺)에 새겨진 승려와 호랑이의 투쟁 [자현의 아제아제 바라아제]]]></title>
-        <id>https://v.daum.net/v/20220713190004911</id>
-        <link href="https://v.daum.net/v/20220713190004911"/>
-        <updated>2022-07-13T10:23:25.894Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">19:00</span>]]></content>
     </entry>
 </feed>
