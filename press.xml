@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-07-13T13:43:48.253Z</updated>
+    <updated>2022-07-13T14:29:14.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[환경부, 실장급 인사 단행..기조실장에 이영기 물관리정책실장 등]]></title>
+        <id>https://v.daum.net/v/20220713225943619</id>
+        <link href="https://v.daum.net/v/20220713225943619"/>
+        <updated>2022-07-13T14:29:06.066Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">22:59</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] Trina Solar, 210 PERC 전지 효율성 24.5% 기록]]></title>
         <id>https://v.daum.net/v/20220713215510011</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220713192110405"/>
         <updated>2022-07-13T10:23:34.231Z</updated>
         <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">19:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[보도자료] 코로나19 병상 현장점검(국립중앙의료원)]]></title>
-        <id>https://v.daum.net/v/20220713190527044</id>
-        <link href="https://v.daum.net/v/20220713190527044"/>
-        <updated>2022-07-13T10:23:34.233Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">19:05</span>]]></content>
     </entry>
 </feed>

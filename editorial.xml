@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-07-13T13:43:48.246Z</updated>
+    <updated>2022-07-13T14:29:14.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오병상의 코멘터리] 코로나 재습격..WHO 경고 귀기울여야]]></title>
+        <id>https://v.daum.net/v/20220713225950622</id>
+        <link href="https://v.daum.net/v/20220713225950622"/>
+        <updated>2022-07-13T14:28:59.049Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">22:59</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['~씨'라는 호칭이 그렇게 나쁩니까? [삶과 문화]]]></title>
         <id>https://v.daum.net/v/20220713220054163</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220713200204127"/>
         <updated>2022-07-13T11:17:05.707Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It's the economy..]]></title>
-        <id>https://v.daum.net/v/20220713195951074</id>
-        <link href="https://v.daum.net/v/20220713195951074"/>
-        <updated>2022-07-13T11:17:05.708Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:59</span>]]></content>
     </entry>
 </feed>
