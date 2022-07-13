@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2022-07-13T16:28:52.191Z</updated>
+    <updated>2022-07-13T17:26:12.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이폰 디자인한 아이브, 애플과 결별..컨설팅 계약 끝내기로]]></title>
+        <id>https://v.daum.net/v/20220714014115287</id>
+        <link href="https://v.daum.net/v/20220714014115287"/>
+        <updated>2022-07-13T17:25:23.627Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">01:41</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[월드비전 "강원·경북 산불 피해 지역에 관심 계속"]]></title>
         <id>https://v.daum.net/v/20220714012646194</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220714001014620"/>
         <updated>2022-07-13T15:20:22.940Z</updated>
         <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이제 남은 카드는 백신 접종 확대뿐.. 실효성은 '글쎄']]></title>
-        <id>https://v.daum.net/v/20220714000601517</id>
-        <link href="https://v.daum.net/v/20220714000601517"/>
-        <updated>2022-07-13T15:20:22.952Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
     </entry>
 </feed>
