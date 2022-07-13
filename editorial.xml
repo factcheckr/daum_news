@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-07-13T03:43:25.823Z</updated>
+    <updated>2022-07-13T04:39:27.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[유레카] 카톡에 올린 자녀 사진의 프라이버시권]]></title>
+        <id>https://v.daum.net/v/20220713125005732</id>
+        <link href="https://v.daum.net/v/20220713125005732"/>
+        <updated>2022-07-13T04:39:08.239Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">12:50</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[칼럼]'다시 터널 속으로?', 코로나 재확산 '피로감']]></title>
+        <id>https://v.daum.net/v/20220713124501663</id>
+        <link href="https://v.daum.net/v/20220713124501663"/>
+        <updated>2022-07-13T04:39:08.246Z</updated>
+        <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">12:45</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박찬욱, 황동혁 앞에 김승옥이 있었다 [라제기의 슛 & 숏]]]></title>
         <id>https://v.daum.net/v/20220713123636537</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220713111520231"/>
         <updated>2022-07-13T03:43:07.641Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[헤럴드시사] 드론산업과 물류운송 모빌리티의 미래]]></title>
-        <id>https://v.daum.net/v/20220713111244091</id>
-        <link href="https://v.daum.net/v/20220713111244091"/>
-        <updated>2022-07-13T03:43:07.641Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<오후여담>전기차 전비(電費)]]></title>
-        <id>https://v.daum.net/v/20220713111034992</id>
-        <link href="https://v.daum.net/v/20220713111034992"/>
-        <updated>2022-07-13T03:43:07.642Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:10</span>]]></content>
     </entry>
 </feed>
