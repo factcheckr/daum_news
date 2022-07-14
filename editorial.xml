@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-07-14T16:33:43.676Z</updated>
+    <updated>2022-07-14T17:30:17.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]선도국가를 향한 장점을 강화하는 전략]]></title>
+        <id>https://v.daum.net/v/20220715020502020</id>
+        <link href="https://v.daum.net/v/20220715020502020"/>
+        <updated>2022-07-14T17:30:02.725Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정유신의 China Story]동남아는 '차이나 플러스원']]></title>
+        <id>https://v.daum.net/v/20220715020102013</id>
+        <link href="https://v.daum.net/v/20220715020102013"/>
+        <updated>2022-07-14T17:30:02.725Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[장훈 칼럼] 지지율 하락과 내러티브의 빈곤]]></title>
         <id>https://v.daum.net/v/20220715003828707</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220715001425573"/>
         <updated>2022-07-14T15:26:58.851Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이슈 프리즘] 음의 소득세 실험도 해 보자]]></title>
-        <id>https://v.daum.net/v/20220715001402570</id>
-        <link href="https://v.daum.net/v/20220715001402570"/>
-        <updated>2022-07-14T15:26:58.856Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한 컷] 당신들의 용기와 희생 잊지 않겠습니다]]></title>
-        <id>https://v.daum.net/v/20220715001226566</id>
-        <link href="https://v.daum.net/v/20220715001226566"/>
-        <updated>2022-07-14T15:26:58.858Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:12</span>]]></content>
     </entry>
 </feed>

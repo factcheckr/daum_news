@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2022-07-14T16:33:43.675Z</updated>
+    <updated>2022-07-14T17:30:17.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[권성동 "언론노조 민주당과 유착, 그 중간에 민언련"]]></title>
+        <id>https://v.daum.net/v/20220715020043010</id>
+        <link href="https://v.daum.net/v/20220715020043010"/>
+        <updated>2022-07-14T17:29:08.857Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">02:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['신정아 게이트' 변양균, 尹대통령 경제고문 맡는다]]></title>
+        <id>https://v.daum.net/v/20220715015601998</id>
+        <link href="https://v.daum.net/v/20220715015601998"/>
+        <updated>2022-07-14T17:29:08.858Z</updated>
+        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">01:56</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이재명 '등판 임박'에 커지는 당내 비판·견제..친명계는 李 엄호]]></title>
         <id>https://v.daum.net/v/20220715013024933</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220715005100757"/>
         <updated>2022-07-14T16:32:17.870Z</updated>
         <content type="html"><![CDATA[MBC<span class="txt_bar"> · </span><span class="info_time">00:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["졌잘싸 외치다 참혹 대패" 노웅래 민주연구원장, 혁신플랜 보고]]></title>
-        <id>https://v.daum.net/v/20220715003844708</id>
-        <link href="https://v.daum.net/v/20220715003844708"/>
-        <updated>2022-07-14T16:32:17.871Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">00:38</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국방부 "北선원 호송 요청..민간인이라 거부"]]></title>
-        <id>https://v.daum.net/v/20220715003631703</id>
-        <link href="https://v.daum.net/v/20220715003631703"/>
-        <updated>2022-07-14T16:32:17.872Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">00:36</span>]]></content>
     </entry>
 </feed>
