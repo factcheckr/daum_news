@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-07-15T04:00:48.498Z</updated>
+    <updated>2022-07-15T05:11:08.801Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[바코 인사이드] 정문균의 리컨디셔닝_무릎 바깥쪽 통증! 장경인대 증후군을 들어보셨나요?]]></title>
+        <id>https://v.daum.net/v/20220715130616626</id>
+        <link href="https://v.daum.net/v/20220715130616626"/>
+        <updated>2022-07-15T05:10:52.046Z</updated>
+        <content type="html"><![CDATA[바스켓코리아<span class="txt_bar"> · </span><span class="info_time">13:06</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대법원-헌재 '한정위헌' 갈등.. 국회 해결 나서야 [최석진의 법조스토리]]]></title>
         <id>https://v.daum.net/v/20220715121110653</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220715111514243"/>
         <updated>2022-07-15T04:00:31.310Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["우리도 못 참아" 평산마을 주민들.. 文사저 앞 장기 시위자 텐트 철거]]></title>
-        <id>https://v.daum.net/v/20220715111252128</id>
-        <link href="https://v.daum.net/v/20220715111252128"/>
-        <updated>2022-07-15T04:00:31.312Z</updated>
-        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">11:12</span>]]></content>
     </entry>
 </feed>
