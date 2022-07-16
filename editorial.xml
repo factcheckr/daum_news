@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-07-16T10:20:01.242Z</updated>
+    <updated>2022-07-16T11:16:51.327Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[속보] 박주민"윤석열 대통령은 다시는 공정과 상식을 입에 담지말라"]]></title>
+        <id>https://v.daum.net/v/20220716195334507</id>
+        <link href="https://v.daum.net/v/20220716195334507"/>
+        <updated>2022-07-16T11:16:35.092Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">19:53</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[속보]황교익 "정치인도 비싼 음식 먹을 수 있지만 국민세금이니 숨어서 먹어라"]]></title>
+        <id>https://v.daum.net/v/20220716192444098</id>
+        <link href="https://v.daum.net/v/20220716192444098"/>
+        <updated>2022-07-16T11:16:35.094Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">19:24</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3년 만에 열린 '퀴어축제'..서울광장 수만명 운집]]></title>
         <id>https://v.daum.net/v/20220716152315054</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220716043121069"/>
         <updated>2022-07-15T20:21:33.142Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지워진 길, 토막 난 마을 [김시덕의 이 길을 따라가면]]]></title>
-        <id>https://v.daum.net/v/20220716043052064</id>
-        <link href="https://v.daum.net/v/20220716043052064"/>
-        <updated>2022-07-15T20:21:33.142Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 켄타우로스 유입.. 의료대응 서두르고 경각심 더 높여야]]></title>
-        <id>https://v.daum.net/v/20220716043034060</id>
-        <link href="https://v.daum.net/v/20220716043034060"/>
-        <updated>2022-07-15T20:21:33.143Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
     </entry>
 </feed>
