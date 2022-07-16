@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-07-16T11:16:51.331Z</updated>
+    <updated>2022-07-16T12:30:35.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA["1000만원→20만원, 실화냐" 난리치더니, 완전 헐값된 '이것']]></title>
+        <title type="html"><![CDATA[해외 여행객 증가..로밍의 진실 "요금 폭탄 맞을까"]]></title>
+        <id>https://v.daum.net/v/20220716210306778</id>
+        <link href="https://v.daum.net/v/20220716210306778"/>
+        <updated>2022-07-16T12:30:10.032Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">21:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[영상] "이걸 볼줄이야?" 비운의 'LG롤러블' 깜짝 놀랄 실물 등장]]></title>
+        <id>https://v.daum.net/v/20220716205213581</id>
+        <link href="https://v.daum.net/v/20220716205213581"/>
+        <updated>2022-07-16T12:30:10.037Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">20:52</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["1000만원→20만원, 실화냐" 난리치더니, 완전 헐값됐다]]></title>
         <id>https://v.daum.net/v/20220716195206479</id>
         <link href="https://v.daum.net/v/20220716195206479"/>
         <updated>2022-07-16T11:16:27.514Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220716173205901"/>
         <updated>2022-07-16T09:17:55.686Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">17:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['제2의 허준이'가 자란다..韓,국제수학올림피아드 종합 2위]]></title>
-        <id>https://v.daum.net/v/20220716170016214</id>
-        <link href="https://v.daum.net/v/20220716170016214"/>
-        <updated>2022-07-16T08:22:11.415Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">17:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여야 국회 원구성 합의 여전히 '진통'..결국 제헌절 넘기나]]></title>
-        <id>https://v.daum.net/v/20220716165701156</id>
-        <link href="https://v.daum.net/v/20220716165701156"/>
-        <updated>2022-07-16T08:22:11.427Z</updated>
-        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">16:57</span>]]></content>
     </entry>
 </feed>
