@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2022-07-16T16:24:05.602Z</updated>
+    <updated>2022-07-16T17:18:01.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[행복한 동행 "음악에 장애는 없죠!"]]></title>
+        <id>https://v.daum.net/v/20220717013113061</id>
+        <link href="https://v.daum.net/v/20220717013113061"/>
+        <updated>2022-07-16T17:17:17.499Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">01:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여름 장마철 집에서도 가능한 피부케어, 미세전류로 즉각적인 피부 효과 UP!]]></title>
         <id>https://v.daum.net/v/20220717010002995</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220717000008695"/>
         <updated>2022-07-16T16:23:15.440Z</updated>
         <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파라스파라 서울, 여유로운 여름 휴식을 위한  그릴 코스 미식 패키지 'Happy Familication' 출시]]></title>
-        <id>https://v.daum.net/v/20220717000001687</id>
-        <link href="https://v.daum.net/v/20220717000001687"/>
-        <updated>2022-07-16T16:23:15.441Z</updated>
-        <content type="html"><![CDATA[웨딩21뉴스<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
