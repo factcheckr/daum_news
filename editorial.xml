@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-07-17T12:32:47.816Z</updated>
+    <updated>2022-07-17T13:28:05.070Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[귀여운 아들의 '며딜'을 지켜보는 아량 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20220717220003634</id>
+        <link href="https://v.daum.net/v/20220717220003634"/>
+        <updated>2022-07-17T13:27:47.745Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 7월 18일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20220717215852622</id>
+        <link href="https://v.daum.net/v/20220717215852622"/>
+        <updated>2022-07-17T13:27:47.745Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">21:58</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뭐라노]2030에 대한 넛지(nudge)]]></title>
+        <id>https://v.daum.net/v/20220717214642559</id>
+        <link href="https://v.daum.net/v/20220717214642559"/>
+        <updated>2022-07-17T13:27:47.747Z</updated>
+        <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">21:46</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[與 지지율, 이준석 징계 쇼크 없었다]]></title>
+        <id>https://v.daum.net/v/20220717214202522</id>
+        <link href="https://v.daum.net/v/20220717214202522"/>
+        <updated>2022-07-17T13:27:47.753Z</updated>
+        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">21:42</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 인하대생 사망사건, 망인의 존엄 해치는 이들도 가해자다]]></title>
         <id>https://v.daum.net/v/20220717204807165</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20220717195456775"/>
         <updated>2022-07-17T11:15:38.728Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:54</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7월 18일 한겨레 그림판]]></title>
-        <id>https://v.daum.net/v/20220717193002554</id>
-        <link href="https://v.daum.net/v/20220717193002554"/>
-        <updated>2022-07-17T11:15:38.732Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[국민만평-서민호 화백] 2022년 7월 18일]]></title>
-        <id>https://v.daum.net/v/20220717190004372</id>
-        <link href="https://v.daum.net/v/20220717190004372"/>
-        <updated>2022-07-17T10:19:42.043Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">19:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[만평] 조기영 세상터치 2022년 7월 18일]]></title>
-        <id>https://v.daum.net/v/20220717185601338</id>
-        <link href="https://v.daum.net/v/20220717185601338"/>
-        <updated>2022-07-17T10:19:42.045Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">18:56</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[fn사설] 中 성장 쇼크, 산업구조 개혁 서둘러야]]></title>
-        <id>https://v.daum.net/v/20220717184213225</id>
-        <link href="https://v.daum.net/v/20220717184213225"/>
-        <updated>2022-07-17T10:19:42.047Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">18:42</span>]]></content>
     </entry>
 </feed>
