@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-07-17T15:21:40.621Z</updated>
+    <updated>2022-07-17T16:25:03.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(보도자료) 방화복 속 체감온도 45도 훌쩍 .. 현장대원을 보호하라]]></title>
+        <id>https://v.daum.net/v/20220718003528475</id>
+        <link href="https://v.daum.net/v/20220718003528475"/>
+        <updated>2022-07-17T16:24:54.252Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">00:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["평창 암각문은 강원 기행연구 발판"]]></title>
         <id>https://v.daum.net/v/20220718001100399</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220718000431289</id>
         <link href="https://v.daum.net/v/20220718000431289"/>
         <updated>2022-07-17T15:21:31.600Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[건강한 가족] 관절 통증에 좋은 영양소 액상 형태로 흡수력 높여]]></title>
-        <id>https://v.daum.net/v/20220718000429288</id>
-        <link href="https://v.daum.net/v/20220718000429288"/>
-        <updated>2022-07-17T15:21:31.603Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
     </entry>
 </feed>
