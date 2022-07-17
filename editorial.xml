@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-07-17T05:20:16.421Z</updated>
+    <updated>2022-07-17T06:22:59.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박종인의 징비] 복원한다는 광화문 월대, 있기는 했나?]]></title>
+        <id>https://v.daum.net/v/20220717152103026</id>
+        <link href="https://v.daum.net/v/20220717152103026"/>
+        <updated>2022-07-17T06:22:42.583Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">15:21</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[신산업부터 규제 풀자] (2)AI, 빅데이터 인력 수급 문제]]></title>
+        <id>https://v.daum.net/v/20220717150110499</id>
+        <link href="https://v.daum.net/v/20220717150110499"/>
+        <updated>2022-07-17T06:22:42.583Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">15:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설]복합위기 해법은 과감한 혁신]]></title>
         <id>https://v.daum.net/v/20220717131704607</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220717060123740"/>
         <updated>2022-07-16T21:16:41.783Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">06:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["김건희에 성괴 조롱..여가부 돈 받던 페미니스트 어디갔나요" [오진영의 댓글읽어드립니다]]]></title>
-        <id>https://v.daum.net/v/20220717000206722</id>
-        <link href="https://v.daum.net/v/20220717000206722"/>
-        <updated>2022-07-16T16:23:48.902Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전화성의 기술창업 Targeting]224. 서울관광프라자, 서울을 거점으로 한 글로벌 관광혁신]]></title>
-        <id>https://v.daum.net/v/20220717000103711</id>
-        <link href="https://v.daum.net/v/20220717000103711"/>
-        <updated>2022-07-16T16:23:48.903Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
     </entry>
 </feed>
