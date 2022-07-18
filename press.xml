@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-07-18T20:24:50.435Z</updated>
+    <updated>2022-07-18T21:23:05.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[더 한장] 머드축제가 반가운 외국인들]]></title>
+        <id>https://v.daum.net/v/20220719060126795</id>
+        <link href="https://v.daum.net/v/20220719060126795"/>
+        <updated>2022-07-18T21:22:57.398Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">06:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우리가 사는 도시의 밤..'나이토그래피'로 선명하게 담는다]]></title>
         <id>https://v.daum.net/v/20220719040319695</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220719000424771</id>
         <link href="https://v.daum.net/v/20220719000424771"/>
         <updated>2022-07-18T15:32:43.804Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[건강한 우리집] 눈 노화·피로, 하루 1캡슐로 집중 케어]]></title>
-        <id>https://v.daum.net/v/20220719000419768</id>
-        <link href="https://v.daum.net/v/20220719000419768"/>
-        <updated>2022-07-18T15:32:43.807Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
     </entry>
 </feed>
