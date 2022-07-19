@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-07-19T19:18:54.892Z</updated>
+    <updated>2022-07-19T20:22:45.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[제45기 SG배 한국일보 명인전] 신민준 9단의 묘수]]></title>
+        <id>https://v.daum.net/v/20220720043047250</id>
+        <link href="https://v.daum.net/v/20220720043047250"/>
+        <updated>2022-07-19T20:22:37.388Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원주 70일만에 400명대..코로나 재유행 조짐]]></title>
         <id>https://v.daum.net/v/20220720001043913</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220720000430820</id>
         <link href="https://v.daum.net/v/20220720000430820"/>
         <updated>2022-07-19T15:27:00.365Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[비즈스토리] 운전자 맞춤 혜택에 쇼핑몰·편의점·영화관 할인 더한 '삼성 iD AUTO 카드']]></title>
-        <id>https://v.daum.net/v/20220720000429819</id>
-        <link href="https://v.daum.net/v/20220720000429819"/>
-        <updated>2022-07-19T15:27:00.366Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
     </entry>
 </feed>
