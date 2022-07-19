@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-07-19T10:25:05.017Z</updated>
+    <updated>2022-07-19T11:17:25.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가상화폐 무비블록 8.2원(+38.28%) 거래중]]></title>
+        <id>https://v.daum.net/v/20220719193128937</id>
+        <link href="https://v.daum.net/v/20220719193128937"/>
+        <updated>2022-07-19T11:17:25.102Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">19:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 날씨 - 오후 (2022년 07월 19일)]]></title>
         <id>https://v.daum.net/v/20220719173156959</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220719123106701"/>
         <updated>2022-07-19T04:04:43.953Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울 영등포동7가 아크로타워스퀘어 84㎡ 17억2500만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220719122558564</id>
-        <link href="https://v.daum.net/v/20220719122558564"/>
-        <updated>2022-07-19T04:04:43.954Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:25</span>]]></content>
     </entry>
 </feed>
