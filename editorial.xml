@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-07-20T04:42:59.928Z</updated>
+    <updated>2022-07-20T05:25:22.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[ET톡]에너지 안보]]></title>
+        <id>https://v.daum.net/v/20220720141202538</id>
+        <link href="https://v.daum.net/v/20220720141202538"/>
+        <updated>2022-07-20T05:25:06.321Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">14:12</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대우조선 파업 무관심하더니, 대통령 한마디에 정부·사측 편들기 '우르르']]></title>
+        <id>https://v.daum.net/v/20220720140910442</id>
+        <link href="https://v.daum.net/v/20220720140910442"/>
+        <updated>2022-07-20T05:25:06.321Z</updated>
+        <content type="html"><![CDATA[미디어오늘<span class="txt_bar"> · </span><span class="info_time">14:09</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[용산공원 계획의 30년 여정과 과제]]></title>
+        <id>https://v.daum.net/v/20220720140527285</id>
+        <link href="https://v.daum.net/v/20220720140527285"/>
+        <updated>2022-07-20T05:25:06.322Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">14:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[칼럼]정치투쟁의 불쏘시개로 전락한 통일부]]></title>
         <id>https://v.daum.net/v/20220720133905376</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220720112133140"/>
         <updated>2022-07-20T03:44:44.371Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<오후여담>횡단보도 앞 일시정지]]></title>
-        <id>https://v.daum.net/v/20220720112110096</id>
-        <link href="https://v.daum.net/v/20220720112110096"/>
-        <updated>2022-07-20T03:44:44.372Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 의욕적 금융규제 혁신, 또 용두사미로 끝나선 안 된다]]></title>
-        <id>https://v.daum.net/v/20220720111318557</id>
-        <link href="https://v.daum.net/v/20220720111318557"/>
-        <updated>2022-07-20T03:44:44.374Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[남산사색] 코로나가 만든 괴물뱃사공]]></title>
-        <id>https://v.daum.net/v/20220720111237513</id>
-        <link href="https://v.daum.net/v/20220720111237513"/>
-        <updated>2022-07-20T03:44:44.375Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:12</span>]]></content>
     </entry>
 </feed>
