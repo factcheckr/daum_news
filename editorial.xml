@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-07-20T12:37:10.291Z</updated>
+    <updated>2022-07-20T13:44:40.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우리 아이가 학교 가기 싫은 날 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20220720220057461</id>
+        <link href="https://v.daum.net/v/20220720220057461"/>
+        <updated>2022-07-20T13:44:21.700Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 7월 21일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20220720220037459</id>
+        <link href="https://v.daum.net/v/20220720220037459"/>
+        <updated>2022-07-20T13:44:21.701Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[그림사설] 55개월 만의 한·일 외교회담, 성과로 이어지려면]]></title>
         <id>https://v.daum.net/v/20220720213028085</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220720200016903"/>
         <updated>2022-07-20T11:17:32.119Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수치심의 재발견, 우리 마음의 아름다운 보물[이주화의 앗쌀라무 알라이쿰]]]></title>
-        <id>https://v.daum.net/v/20220720200008897</id>
-        <link href="https://v.daum.net/v/20220720200008897"/>
-        <updated>2022-07-20T11:17:32.121Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">20:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022.07.21 Cartoon]]></title>
-        <id>https://v.daum.net/v/20220720195752859</id>
-        <link href="https://v.daum.net/v/20220720195752859"/>
-        <updated>2022-07-20T11:17:32.122Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:57</span>]]></content>
     </entry>
 </feed>

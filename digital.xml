@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-07-20T12:37:10.304Z</updated>
+    <updated>2022-07-20T13:44:40.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["SK하이닉스 투자 보류 이유 있었네"..낸드 가격 확 떨어진다]]></title>
+        <id>https://v.daum.net/v/20220720220102463</id>
+        <link href="https://v.daum.net/v/20220720220102463"/>
+        <updated>2022-07-20T13:44:12.427Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['1시간 내 코로나19 진단' 바이오센서 개발]]></title>
+        <id>https://v.daum.net/v/20220720215110339</id>
+        <link href="https://v.daum.net/v/20220720215110339"/>
+        <updated>2022-07-20T13:44:12.428Z</updated>
+        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">21:51</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[자율주행차 핵심 4D이미징 레이다 국산화]]></title>
         <id>https://v.daum.net/v/20220720213050093</id>
@@ -83,7 +97,7 @@
         <content type="html"><![CDATA[IT동아<span class="txt_bar"> · </span><span class="info_time">20:33</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[특별기고]R&D 투자는 혁신과 일자리 '마중물'..긴축재정의 희생양되선 안돼]]></title>
+        <title type="html"><![CDATA[[특별기고] 이우일 "R&D 투자는 혁신과 일자리 '마중물'..긴축재정의 희생양되선 안돼"]]></title>
         <id>https://v.daum.net/v/20220720202601318</id>
         <link href="https://v.daum.net/v/20220720202601318"/>
         <updated>2022-07-20T12:36:42.651Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220720202421293"/>
         <updated>2022-07-20T12:36:42.652Z</updated>
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">20:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사진] LGU+ "강남 틈에서 레고 구경하자"]]></title>
-        <id>https://v.daum.net/v/20220720201514203</id>
-        <link href="https://v.daum.net/v/20220720201514203"/>
-        <updated>2022-07-20T11:17:23.268Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">20:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중대재해법 막으려?..사우디 장관 날아온 시점 묘하네]]></title>
-        <id>https://v.daum.net/v/20220720201411186</id>
-        <link href="https://v.daum.net/v/20220720201411186"/>
-        <updated>2022-07-20T11:17:23.269Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">20:14</span>]]></content>
     </entry>
 </feed>
