@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-07-20T16:28:34.616Z</updated>
+    <updated>2022-07-20T17:25:44.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]민간주도 혁신성장을 견인하는 정부의 역할]]></title>
+        <id>https://v.daum.net/v/20220721020505973</id>
+        <link href="https://v.daum.net/v/20220721020505973"/>
+        <updated>2022-07-20T17:25:26.116Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]통화스와프 카드, 미국 받을까]]></title>
+        <id>https://v.daum.net/v/20220721020502972</id>
+        <link href="https://v.daum.net/v/20220721020502972"/>
+        <updated>2022-07-20T17:25:26.116Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중앙시평] 지경학적 분열과 자유무역의 위기]]></title>
         <id>https://v.daum.net/v/20220721004021650</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220721001816541"/>
         <updated>2022-07-20T15:21:37.050Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[조일훈 칼럼] 노동 대이동..제조·자영업 재편이 시작됐다]]></title>
-        <id>https://v.daum.net/v/20220721001802540</id>
-        <link href="https://v.daum.net/v/20220721001802540"/>
-        <updated>2022-07-20T15:21:37.051Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데스크 칼럼] 진짜 공정은 무엇인가]]></title>
-        <id>https://v.daum.net/v/20220721001701538</id>
-        <link href="https://v.daum.net/v/20220721001701538"/>
-        <updated>2022-07-20T15:21:37.052Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:17</span>]]></content>
     </entry>
 </feed>
