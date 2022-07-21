@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-07-21T13:43:09.847Z</updated>
+    <updated>2022-07-21T14:18:21.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[WEEKLY BIZ] 오늘 미국·유로존 제조업 구매관리자지수 발표]]></title>
+        <id>https://v.daum.net/v/20220721230129075</id>
+        <link href="https://v.daum.net/v/20220721230129075"/>
+        <updated>2022-07-21T14:18:13.281Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">23:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[격투기 전문가 5인이 본 로드FC '챔피언전'과 양보 없는 '한일전']]></title>
         <id>https://v.daum.net/v/20220721221645711</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220721220756603"/>
         <updated>2022-07-21T13:43:00.883Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] Al Hamra, Falcon Island 2단계에서 독립적인 오션뷰 빌라 출시]]></title>
-        <id>https://v.daum.net/v/20220721212624130</id>
-        <link href="https://v.daum.net/v/20220721212624130"/>
-        <updated>2022-07-21T12:40:25.829Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">21:26</span>]]></content>
     </entry>
 </feed>
