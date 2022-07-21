@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-07-21T11:17:07.048Z</updated>
+    <updated>2022-07-21T12:40:36.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Al Hamra, Falcon Island 2단계에서 독립적인 오션뷰 빌라 출시]]></title>
+        <id>https://v.daum.net/v/20220721212624130</id>
+        <link href="https://v.daum.net/v/20220721212624130"/>
+        <updated>2022-07-21T12:40:25.829Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">21:26</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Kin + Carta CEO Schwan hands over leadership to Manthey]]></title>
+        <id>https://v.daum.net/v/20220721205523729</id>
+        <link href="https://v.daum.net/v/20220721205523729"/>
+        <updated>2022-07-21T12:40:25.829Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:55</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[닐슨IQ, 2022 베이스 디자인 임팩트 어워드 수상작 발표]]></title>
         <id>https://v.daum.net/v/20220721200703216</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220721184339772"/>
         <updated>2022-07-21T10:24:10.554Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">18:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['행사 섭외 1순위' 코요태, 각종 행사서 섭외 향연]]></title>
-        <id>https://v.daum.net/v/20220721184016708</id>
-        <link href="https://v.daum.net/v/20220721184016708"/>
-        <updated>2022-07-21T10:24:10.555Z</updated>
-        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">18:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] Xinhua Silk Road "중국 북부 다퉁, 윈강 문화 테마 관광 시즌 개시"]]></title>
-        <id>https://v.daum.net/v/20220721183655656</id>
-        <link href="https://v.daum.net/v/20220721183655656"/>
-        <updated>2022-07-21T10:24:10.556Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">18:36</span>]]></content>
     </entry>
 </feed>
