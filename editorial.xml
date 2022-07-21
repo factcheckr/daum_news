@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-07-21T12:40:36.528Z</updated>
+    <updated>2022-07-21T13:43:09.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022년 7월 22일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20220721220450568</id>
+        <link href="https://v.daum.net/v/20220721220450568"/>
+        <updated>2022-07-21T13:42:53.032Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:04</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그녀가 발달장애아들을 키우는 법 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20220721220042521</id>
+        <link href="https://v.daum.net/v/20220721220042521"/>
+        <updated>2022-07-21T13:42:53.033Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뭐라노] 사상 첫 '경찰 총경 회의']]></title>
         <id>https://v.daum.net/v/20220721210602881</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220721200002093"/>
         <updated>2022-07-21T11:16:47.761Z</updated>
         <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">20:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prosecutor general no longer]]></title>
-        <id>https://v.daum.net/v/20220721195902079</id>
-        <link href="https://v.daum.net/v/20220721195902079"/>
-        <updated>2022-07-21T11:16:47.761Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:59</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Today's Cartoon]  2022.07.22]]></title>
-        <id>https://v.daum.net/v/20220721195712057</id>
-        <link href="https://v.daum.net/v/20220721195712057"/>
-        <updated>2022-07-21T11:16:47.762Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:57</span>]]></content>
     </entry>
 </feed>
