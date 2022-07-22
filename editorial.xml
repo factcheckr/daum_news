@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-07-22T06:26:27.992Z</updated>
+    <updated>2022-07-22T07:19:37.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인사]산업통상자원부·행안부·국무조정실 외]]></title>
+        <id>https://v.daum.net/v/20220722155043070</id>
+        <link href="https://v.daum.net/v/20220722155043070"/>
+        <updated>2022-07-22T07:19:20.944Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">15:50</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[북리뷰] "세상에 무용한 경험은 없다" 쓸데없는 짓으로 세상을 놀래킨 사진가의 고백]]></title>
         <id>https://v.daum.net/v/20220722152222118</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">15:22</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이종환 관정재단 이사장 "앞으로 10년 내, ?노벨 과학상 수상 기대"]]></title>
+        <title type="html"><![CDATA[이종환 관정재단 이사장,"한국 노벨상 후보 양성할 것"]]></title>
         <id>https://v.daum.net/v/20220722144722988</id>
         <link href="https://v.daum.net/v/20220722144722988"/>
         <updated>2022-07-22T06:26:09.092Z</updated>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220722115033933</id>
         <link href="https://v.daum.net/v/20220722115033933"/>
         <updated>2022-07-22T03:51:55.346Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<포럼>법인세 본질과 '세율 인하' 당위성]]></title>
-        <id>https://v.daum.net/v/20220722115031931</id>
-        <link href="https://v.daum.net/v/20220722115031931"/>
-        <updated>2022-07-22T03:51:55.347Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:50</span>]]></content>
     </entry>
 </feed>
