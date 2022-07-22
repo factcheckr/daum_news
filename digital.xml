@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-07-22T11:17:29.290Z</updated>
+    <updated>2022-07-22T12:36:49.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["택시 취소했더니 5만원 내라" 취소수수료, 이대로 괜찮나요?]]></title>
+        <id>https://v.daum.net/v/20220722205056743</id>
+        <link href="https://v.daum.net/v/20220722205056743"/>
+        <updated>2022-07-22T12:36:24.742Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">20:50</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삼성SDS '에스원 상대' 손해배상 항소심서도 기각]]></title>
+        <id>https://v.daum.net/v/20220722203234499</id>
+        <link href="https://v.daum.net/v/20220722203234499"/>
+        <updated>2022-07-22T12:36:24.742Z</updated>
+        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">20:32</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["메타, 페북·인스타 개인정보 강제 동의는 위법"]]></title>
         <id>https://v.daum.net/v/20220722200710200</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220722185122942"/>
         <updated>2022-07-22T10:23:06.346Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">18:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung to invest billions in Texas chip plan]]></title>
-        <id>https://v.daum.net/v/20220722184935888</id>
-        <link href="https://v.daum.net/v/20220722184935888"/>
-        <updated>2022-07-22T10:23:06.347Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">18:49</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["메타 개인정보 동의방식, 현행법 위반" 주장 이유는]]></title>
-        <id>https://v.daum.net/v/20220722184847875</id>
-        <link href="https://v.daum.net/v/20220722184847875"/>
-        <updated>2022-07-22T10:23:06.348Z</updated>
-        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">18:48</span>]]></content>
     </entry>
 </feed>
