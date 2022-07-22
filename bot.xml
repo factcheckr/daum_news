@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-07-22T08:26:58.236Z</updated>
+    <updated>2022-07-22T09:19:22.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2022년 07월 22일)]]></title>
+        <id>https://v.daum.net/v/20220722173150323</id>
+        <link href="https://v.daum.net/v/20220722173150323"/>
+        <updated>2022-07-22T09:19:21.902Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가상화폐 비트코인골드 4,390원 상승한 29,560원에 거래]]></title>
         <id>https://v.daum.net/v/20220722163129381</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220722130602718"/>
         <updated>2022-07-22T04:47:06.393Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 간석동 간석 금호어울림 아파트 84㎡ 4억8000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220722130106625</id>
-        <link href="https://v.daum.net/v/20220722130106625"/>
-        <updated>2022-07-22T04:47:06.394Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:01</span>]]></content>
     </entry>
 </feed>
