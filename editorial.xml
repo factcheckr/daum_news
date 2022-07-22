@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-07-22T03:52:13.112Z</updated>
+    <updated>2022-07-22T04:47:06.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[fn사설]반도체 초강대국 촘촘한 후속지원에 달렸다]]></title>
+        <id>https://v.daum.net/v/20220722134118565</id>
+        <link href="https://v.daum.net/v/20220722134118565"/>
+        <updated>2022-07-22T04:46:48.031Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">13:41</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[논단] 탈북 어부 북송 수사, 증오정치의 트리거]]></title>
+        <id>https://v.daum.net/v/20220722131252836</id>
+        <link href="https://v.daum.net/v/20220722131252836"/>
+        <updated>2022-07-22T04:46:48.032Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">13:12</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[기자수첩]윤희근 경찰청장 후보 '적임자의 숙명']]></title>
         <id>https://v.daum.net/v/20220722124831428</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220722113725354"/>
         <updated>2022-07-22T03:51:55.361Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<살며 생각하며>'오죽하면']]></title>
-        <id>https://v.daum.net/v/20220722113115091</id>
-        <link href="https://v.daum.net/v/20220722113115091"/>
-        <updated>2022-07-22T03:51:55.361Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<문화논단>첨단 의약품 '제품화' 적극 지원한다]]></title>
-        <id>https://v.daum.net/v/20220722113113087</id>
-        <link href="https://v.daum.net/v/20220722113113087"/>
-        <updated>2022-07-22T03:51:55.362Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:31</span>]]></content>
     </entry>
 </feed>
