@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-07-22T10:23:32.629Z</updated>
+    <updated>2022-07-22T11:17:29.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아시아문화중심도시 광주 민·관·정 협의체 출범]]></title>
+        <id>https://v.daum.net/v/20220722192709605</id>
+        <link href="https://v.daum.net/v/20220722192709605"/>
+        <updated>2022-07-22T11:17:19.824Z</updated>
+        <content type="html"><![CDATA[kbc광주방송<span class="txt_bar"> · </span><span class="info_time">19:27</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ATBO, '카운트댄스'서 청량-섹시-카리스마 3단 변신..만능 콘셉트 소화력]]></title>
         <id>https://v.daum.net/v/20220722185021910</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220722174016594"/>
         <updated>2022-07-22T09:19:13.751Z</updated>
         <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">17:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세종시 우리동네 정보·소식 이제 세종FM이 책임진다]]></title>
-        <id>https://v.daum.net/v/20220722173553422</id>
-        <link href="https://v.daum.net/v/20220722173553422"/>
-        <updated>2022-07-22T09:19:13.751Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">17:35</span>]]></content>
     </entry>
 </feed>
