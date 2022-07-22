@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-07-22T13:38:53.951Z</updated>
+    <updated>2022-07-22T14:19:07.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스냅, 2분기 조정주당순손실 · 매출..월가 예상 보다 더 악화]]></title>
+        <id>https://v.daum.net/v/20220722231044872</id>
+        <link href="https://v.daum.net/v/20220722231044872"/>
+        <updated>2022-07-22T14:18:42.785Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">23:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하나금융-SKT 4000억원대 지분 교환.. 금융과 ICT 시너지 기대]]></title>
+        <id>https://v.daum.net/v/20220722224814593</id>
+        <link href="https://v.daum.net/v/20220722224814593"/>
+        <updated>2022-07-22T14:18:42.788Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">22:48</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한글과컴퓨터, 플레이그램에 한컴MDS 매각 완료]]></title>
         <id>https://v.daum.net/v/20220722223431498</id>
@@ -55,7 +69,7 @@
         <content type="html"><![CDATA[kbc광주방송<span class="txt_bar"> · </span><span class="info_time">21:47</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["택시 취소했더니 5만원 내라" 취소수수료, 이대로 괜찮나요?]]></title>
+        <title type="html"><![CDATA["택시 호출 취소하면  5만원 내라?" 수수료 폭탄, 이대로 괜찮나요]]></title>
         <id>https://v.daum.net/v/20220722205056743</id>
         <link href="https://v.daum.net/v/20220722205056743"/>
         <updated>2022-07-22T12:36:24.742Z</updated>
@@ -76,7 +90,7 @@
         <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">20:07</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["주현영, 이 춤췄다가 혼쭐났다" 방심위가 제동 건 '이것' 왜?]]></title>
+        <title type="html"><![CDATA["주현영, 춤췄다가 혼쭐났다" 방심위가 제동 건 뜻밖에 '이것']]></title>
         <id>https://v.daum.net/v/20220722195047958</id>
         <link href="https://v.daum.net/v/20220722195047958"/>
         <updated>2022-07-22T11:17:04.851Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220722194103807"/>
         <updated>2022-07-22T11:17:04.855Z</updated>
         <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">19:41</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넥슨, '프로젝트 MOD' 개발자 지원 나선다]]></title>
-        <id>https://v.daum.net/v/20220722191636488</id>
-        <link href="https://v.daum.net/v/20220722191636488"/>
-        <updated>2022-07-22T10:23:06.328Z</updated>
-        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">19:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메타, 국내서만 개인정보 처리 동의 '각서' 써라?.."법적 근거 없다"]]></title>
-        <id>https://v.daum.net/v/20220722191437455</id>
-        <link href="https://v.daum.net/v/20220722191437455"/>
-        <updated>2022-07-22T10:23:06.328Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">19:14</span>]]></content>
     </entry>
 </feed>
