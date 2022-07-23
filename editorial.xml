@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-07-23T05:21:40.527Z</updated>
+    <updated>2022-07-23T06:23:45.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[기자수첩]보험료 매년 인상하는데..서비스는 제대로 하는가]]></title>
+        <id>https://v.daum.net/v/20220723150016745</id>
+        <link href="https://v.daum.net/v/20220723150016745"/>
+        <updated>2022-07-23T06:23:27.264Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">15:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[권성동 '민주유공자법' 연일 맹공.."운동권 신분세습법, 민주당 부끄럽지 않나"]]></title>
         <id>https://v.daum.net/v/20220723140341177</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220723070035147</id>
         <link href="https://v.daum.net/v/20220723070035147"/>
         <updated>2022-07-22T22:23:37.745Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[신임철의 행동경제학] 손실회피 성향·통제편향..하락장의 딜레마]]></title>
-        <id>https://v.daum.net/v/20220723070030143</id>
-        <link href="https://v.daum.net/v/20220723070030143"/>
-        <updated>2022-07-22T22:23:37.746Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
     </entry>
 </feed>
