@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2022-07-23T13:30:05.619Z</updated>
+    <updated>2022-07-23T14:17:40.662Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[현대차 글로벌 최고안전 책임자 "차량 결함, 데이터 분석 통해 빨리 해결"]]></title>
+        <id>https://v.daum.net/v/20220723223653796</id>
+        <link href="https://v.daum.net/v/20220723223653796"/>
+        <updated>2022-07-23T14:16:37.765Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">22:36</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화물연대 집회로 하이트진로 공장 이틀째 출하 중단]]></title>
         <id>https://v.daum.net/v/20220723220711553</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220723213948298"/>
         <updated>2022-07-23T13:28:56.279Z</updated>
         <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">21:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울 서초구 아파트 화재..주민 50여명 대피]]></title>
-        <id>https://v.daum.net/v/20220723213904290</id>
-        <link href="https://v.daum.net/v/20220723213904290"/>
-        <updated>2022-07-23T13:28:56.282Z</updated>
-        <content type="html"><![CDATA[SBS<span class="txt_bar"> · </span><span class="info_time">21:39</span>]]></content>
     </entry>
 </feed>
