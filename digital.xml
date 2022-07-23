@@ -2,22 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-07-23T07:18:02.972Z</updated>
+    <updated>2022-07-23T08:24:20.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["김희애 지겹게 나오더니, 일냈다" 3000억원 난리난 이곳]]></title>
+        <id>https://v.daum.net/v/20220723165135734</id>
+        <link href="https://v.daum.net/v/20220723165135734"/>
+        <updated>2022-07-23T08:23:52.596Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">16:51</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[기자수첩] 개인정보 안 주면 '한국만' 이용 금지한다는 메타]]></title>
+        <id>https://v.daum.net/v/20220723164913708</id>
+        <link href="https://v.daum.net/v/20220723164913708"/>
+        <updated>2022-07-23T08:23:52.596Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">16:49</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] 택시업계 반발에 막힌 혁신..티머니 '파파' 계약 파기]]></title>
+        <id>https://v.daum.net/v/20220723164351641</id>
+        <link href="https://v.daum.net/v/20220723164351641"/>
+        <updated>2022-07-23T08:23:52.600Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">16:43</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구글, "AI 사람처럼 지각한다" 주장 엔지니어 해고]]></title>
         <id>https://v.daum.net/v/20220723155309266</id>
         <link href="https://v.daum.net/v/20220723155309266"/>
         <updated>2022-07-23T07:17:38.974Z</updated>
         <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">15:53</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기름먹는 하마 "노후 경유차 500만원에 하이브리드 탈바꿈" 실화냐?]]></title>
-        <id>https://v.daum.net/v/20220723155124258</id>
-        <link href="https://v.daum.net/v/20220723155124258"/>
-        <updated>2022-07-23T07:17:38.975Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">15:51</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[넷마블 신작 '세븐나이츠 레볼루션', 무한 변신 · 프리 클래스 '눈길']]></title>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220723130952707"/>
         <updated>2022-07-23T04:33:26.764Z</updated>
         <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">13:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[말라붙고 녹조 생기고..지구 1억개 호수 온난화에 몸살 앓는다]]></title>
-        <id>https://v.daum.net/v/20220723130022535</id>
-        <link href="https://v.daum.net/v/20220723130022535"/>
-        <updated>2022-07-23T04:33:26.770Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">13:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[블록버스터 톺아보기]자가면역질환 치료제'오렌시아'가 '휴미라'에 밀리는 이유]]></title>
-        <id>https://v.daum.net/v/20220723130017532</id>
-        <link href="https://v.daum.net/v/20220723130017532"/>
-        <updated>2022-07-23T04:33:26.770Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">13:00</span>]]></content>
     </entry>
 </feed>
