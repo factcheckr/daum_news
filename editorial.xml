@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-07-23T04:33:50.775Z</updated>
+    <updated>2022-07-23T05:21:40.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[권성동 '민주유공자법' 연일 맹공.."운동권 신분세습법, 민주당 부끄럽지 않나"]]></title>
+        <id>https://v.daum.net/v/20220723140341177</id>
+        <link href="https://v.daum.net/v/20220723140341177"/>
+        <updated>2022-07-23T05:21:21.754Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">14:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤 대통령, '칼의 서사'를 넘어서야 [쓴소리 곧은 소리]]]></title>
+        <id>https://v.daum.net/v/20220723140203152</id>
+        <link href="https://v.daum.net/v/20220723140203152"/>
+        <updated>2022-07-23T05:21:21.760Z</updated>
+        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">14:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전국에 일본뇌염 경보 발령..작년보다 2주 빨라]]></title>
         <id>https://v.daum.net/v/20220723125202493</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220723070030143"/>
         <updated>2022-07-22T22:23:37.746Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中 '제로 코로나' 정책의 혹독한 대가 [김규환의 핸디 차이나]]]></title>
-        <id>https://v.daum.net/v/20220723060606662</id>
-        <link href="https://v.daum.net/v/20220723060606662"/>
-        <updated>2022-07-22T21:18:11.164Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">06:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데스크 칼럼] 빚잔치는 끝났다.. 빚투·영끌족을 둘러싼 사회적 갈등]]></title>
-        <id>https://v.daum.net/v/20220723060145614</id>
-        <link href="https://v.daum.net/v/20220723060145614"/>
-        <updated>2022-07-22T21:18:11.165Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">06:01</span>]]></content>
     </entry>
 </feed>
