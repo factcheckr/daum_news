@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-07-25T16:27:21.458Z</updated>
+    <updated>2022-07-25T17:26:12.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]공급망 재편과 직업훈련]]></title>
+        <id>https://v.daum.net/v/20220726020502589</id>
+        <link href="https://v.daum.net/v/20220726020502589"/>
+        <updated>2022-07-25T17:25:56.482Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]일론 머스크의 'ESG 사기론'에 대하여]]></title>
+        <id>https://v.daum.net/v/20220726020501588</id>
+        <link href="https://v.daum.net/v/20220726020501588"/>
+        <updated>2022-07-25T17:25:56.495Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중앙시평] 존재가 불법인 사람의 자유민주주의]]></title>
         <id>https://v.daum.net/v/20220726003820310</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220726001701220"/>
         <updated>2022-07-25T15:20:51.961Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[디지털 세상 읽기] 아마존과 미국 의료]]></title>
-        <id>https://v.daum.net/v/20220726001627218</id>
-        <link href="https://v.daum.net/v/20220726001627218"/>
-        <updated>2022-07-25T15:20:51.961Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[취재수첩] 범죄 우려만 키운 편의점 시트지 '탁상 규제']]></title>
-        <id>https://v.daum.net/v/20220726001603216</id>
-        <link href="https://v.daum.net/v/20220726001603216"/>
-        <updated>2022-07-25T15:20:51.961Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:16</span>]]></content>
     </entry>
 </feed>
