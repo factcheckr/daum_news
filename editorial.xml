@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-07-26T22:21:08.276Z</updated>
+    <updated>2022-07-26T23:18:41.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](27일 조간)]]></title>
+        <id>https://v.daum.net/v/20220727080005090</id>
+        <link href="https://v.daum.net/v/20220727080005090"/>
+        <updated>2022-07-26T23:18:24.475Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[시론]법인세 인하, 주주에게 혜택 돌아간다]]></title>
         <id>https://v.daum.net/v/20220727070044203</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220727051153897</id>
         <link href="https://v.daum.net/v/20220727051153897"/>
         <updated>2022-07-26T20:21:30.916Z</updated>
-        <content type="html"><![CDATA[농민신문<span class="txt_bar"> · </span><span class="info_time">05:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 농업·농촌 위해 일하는 국회 모습 보여달라]]></title>
-        <id>https://v.daum.net/v/20220727051153896</id>
-        <link href="https://v.daum.net/v/20220727051153896"/>
-        <updated>2022-07-26T20:21:30.917Z</updated>
         <content type="html"><![CDATA[농민신문<span class="txt_bar"> · </span><span class="info_time">05:11</span>]]></content>
     </entry>
 </feed>
