@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-07-27T12:41:24.386Z</updated>
+    <updated>2022-07-27T13:46:57.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유럽지역 혐오범죄 대책 화상회의 개최]]></title>
+        <id>https://v.daum.net/v/20220727220542717</id>
+        <link href="https://v.daum.net/v/20220727220542717"/>
+        <updated>2022-07-27T13:46:48.028Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">22:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[애경케미칼, 나눔과 탄소 감축 매진..더 나은 세상으로 한발짝 '더!']]></title>
         <id>https://v.daum.net/v/20220727200537397</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220727195546175</id>
         <link href="https://v.daum.net/v/20220727195546175"/>
         <updated>2022-07-27T11:17:05.629Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">19:55</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신세계, 폐아이스팩 재활용한 쿨매트..동물 친구들에게 선물]]></title>
-        <id>https://v.daum.net/v/20220727195541173</id>
-        <link href="https://v.daum.net/v/20220727195541173"/>
-        <updated>2022-07-27T11:17:05.630Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">19:55</span>]]></content>
     </entry>
 </feed>
