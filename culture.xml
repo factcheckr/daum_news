@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2022-07-28T16:30:56.398Z</updated>
+    <updated>2022-07-28T17:29:27.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 열대저압부 오늘 5호 태풍 '송다'로 발달..한반도 영향은?]]></title>
+        <id>https://v.daum.net/v/20220729014606322</id>
+        <link href="https://v.daum.net/v/20220729014606322"/>
+        <updated>2022-07-28T17:28:35.087Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">01:46</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[베를린서 청소년 통일캠프.."남북한 접촉 끊겨서는 안돼"]]></title>
         <id>https://v.daum.net/v/20220729011210235</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220729001101854"/>
         <updated>2022-07-28T15:19:24.313Z</updated>
         <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[춘천 에이프릴바이오 상장 첫날 공모가 36.5% 상회]]></title>
-        <id>https://v.daum.net/v/20220729001055849</id>
-        <link href="https://v.daum.net/v/20220729001055849"/>
-        <updated>2022-07-28T15:19:24.316Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
     </entry>
 </feed>
