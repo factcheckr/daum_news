@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-07-29T13:40:59.330Z</updated>
+    <updated>2022-07-29T14:17:38.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오후 9시까지 전국 7만8743명 확진..1주 전보다 1.19배↑]]></title>
+        <id>https://v.daum.net/v/20220729230152187</id>
+        <link href="https://v.daum.net/v/20220729230152187"/>
+        <updated>2022-07-29T14:17:14.665Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">23:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공정위, 외국인 총수지정 발표 연기..이유는?]]></title>
         <id>https://v.daum.net/v/20220729223106979</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220729204303716"/>
         <updated>2022-07-29T12:38:02.385Z</updated>
         <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">20:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먹통됐던 카톡 선물하기..2시간여만에 정상화]]></title>
-        <id>https://v.daum.net/v/20220729204100697</id>
-        <link href="https://v.daum.net/v/20220729204100697"/>
-        <updated>2022-07-29T12:38:02.386Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">20:41</span>]]></content>
     </entry>
 </feed>
