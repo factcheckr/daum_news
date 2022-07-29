@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-07-29T05:30:25.913Z</updated>
+    <updated>2022-07-29T06:25:05.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인사] 한국산업기술시험원(KTL)]]></title>
+        <id>https://v.daum.net/v/20220729151807645</id>
+        <link href="https://v.daum.net/v/20220729151807645"/>
+        <updated>2022-07-29T06:24:49.293Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">15:18</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[기자수첩] 장애인·노인에게 유리 장벽이 된 키오스크]]></title>
         <id>https://v.daum.net/v/20220729142005882</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220729120005898</id>
         <link href="https://v.daum.net/v/20220729120005898"/>
         <updated>2022-07-29T03:53:29.185Z</updated>
-        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">12:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['상품이 사람을 찾아가는 시대' 구독경제 명암]]></title>
-        <id>https://v.daum.net/v/20220729120004895</id>
-        <link href="https://v.daum.net/v/20220729120004895"/>
-        <updated>2022-07-29T03:53:29.186Z</updated>
         <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">12:00</span>]]></content>
     </entry>
 </feed>
