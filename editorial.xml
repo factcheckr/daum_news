@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-07-29T03:53:43.989Z</updated>
+    <updated>2022-07-29T04:52:51.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인사] 보건복지부]]></title>
+        <id>https://v.daum.net/v/20220729134233858</id>
+        <link href="https://v.daum.net/v/20220729134233858"/>
+        <updated>2022-07-29T04:52:33.134Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">13:42</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[논단]글로벌 공급망 해결대책 '니어쇼어링']]></title>
+        <id>https://v.daum.net/v/20220729132608509</id>
+        <link href="https://v.daum.net/v/20220729132608509"/>
+        <updated>2022-07-29T04:52:33.134Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">13:26</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영화 '외계+인' 김우빈 "6년 만에 내놓은 새 영화..복귀 실감 나서 울컥했다"]]></title>
         <id>https://v.daum.net/v/20220729120322050</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220729115701797"/>
         <updated>2022-07-29T03:53:29.191Z</updated>
         <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">11:57</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<사설>하청직원 직고용 大法 판결과 파견법 전면 개정 시급성]]></title>
-        <id>https://v.daum.net/v/20220729115054586</id>
-        <link href="https://v.daum.net/v/20220729115054586"/>
-        <updated>2022-07-29T03:53:29.192Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<사설>남북 대화록 '초안 폐기' 단죄..정부기록 보존 강화해야]]></title>
-        <id>https://v.daum.net/v/20220729115053585</id>
-        <link href="https://v.daum.net/v/20220729115053585"/>
-        <updated>2022-07-29T03:53:29.193Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:50</span>]]></content>
     </entry>
 </feed>
