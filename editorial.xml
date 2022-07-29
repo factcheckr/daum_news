@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-07-29T12:38:28.407Z</updated>
+    <updated>2022-07-29T13:40:59.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[웅녀 후손답게 마늘을 깐다 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20220729220003669</id>
+        <link href="https://v.daum.net/v/20220729220003669"/>
+        <updated>2022-07-29T13:40:41.891Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[동십자각] 중장기 마스터플랜 필요한 대체육 시장]]></title>
         <id>https://v.daum.net/v/20220729213007279</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220729180043370"/>
         <updated>2022-07-29T09:19:36.897Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">18:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이디 6672화]]></title>
-        <id>https://v.daum.net/v/20220729175109201</id>
-        <link href="https://v.daum.net/v/20220729175109201"/>
-        <updated>2022-07-29T09:19:36.897Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:51</span>]]></content>
     </entry>
 </feed>
