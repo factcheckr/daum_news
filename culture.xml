@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2022-07-30T18:21:59.573Z</updated>
+    <updated>2022-07-30T19:17:03.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[깨어진 평화의 꿈..전쟁을 직시하라]]></title>
+        <id>https://v.daum.net/v/20220731034018615</id>
+        <link href="https://v.daum.net/v/20220731034018615"/>
+        <updated>2022-07-30T19:16:06.418Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">03:40</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[태풍 '송다' 영향, 전국 대부분 지역 비 [날씨]]]></title>
         <id>https://v.daum.net/v/20220731030202585</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220731000018331"/>
         <updated>2022-07-30T15:18:26.454Z</updated>
         <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["걸친 것만 1500만원" 김효진, 과감한 초미니 패션..어디 거?]]></title>
-        <id>https://v.daum.net/v/20220731000001319</id>
-        <link href="https://v.daum.net/v/20220731000001319"/>
-        <updated>2022-07-30T15:18:26.455Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
