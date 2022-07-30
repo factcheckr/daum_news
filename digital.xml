@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-07-30T08:23:20.212Z</updated>
+    <updated>2022-07-30T09:18:19.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["OO하기만 해도 수익 쏠쏠"..'돈 버는 게임' 대신 뜨는 이것 [더테크웨이브]]]></title>
+        <id>https://v.daum.net/v/20220730180300910</id>
+        <link href="https://v.daum.net/v/20220730180300910"/>
+        <updated>2022-07-30T09:17:55.307Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">18:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["광고 모델들 백수될라" 8천만원 벤츠차까지 '이 여성'이 접수]]></title>
+        <id>https://v.daum.net/v/20220730175050820</id>
+        <link href="https://v.daum.net/v/20220730175050820"/>
+        <updated>2022-07-30T09:17:55.308Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">17:50</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[외산 저질 게임 광고, 부끄러움은 국내 게임사 몫]]></title>
         <id>https://v.daum.net/v/20220730170703505</id>
@@ -34,7 +48,7 @@
         <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">16:59</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["5500만원 날렸다, 그래도 계속 산다고?" 3억원 코인 몰빵, '이 남자' 언제 멈출까]]></title>
+        <title type="html"><![CDATA["순식간에 5천만원 날렸다" 3억원 코인 몰빵, '이 남자' 처럼 했다간?]]></title>
         <id>https://v.daum.net/v/20220730165204381</id>
         <link href="https://v.daum.net/v/20220730165204381"/>
         <updated>2022-07-30T08:22:55.476Z</updated>
@@ -69,7 +83,7 @@
         <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">16:02</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["70대 인턴 입사시켰더니" 하루새 1억원 팔아치웠다]]></title>
+        <title type="html"><![CDATA["70대 인턴 입사시켰더니" 하루새 1억원 팔아치워 난리]]></title>
         <id>https://v.daum.net/v/20220730155156968</id>
         <link href="https://v.daum.net/v/20220730155156968"/>
         <updated>2022-07-30T07:17:13.980Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220730152802778"/>
         <updated>2022-07-30T07:17:13.982Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">15:28</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팬데믹도 버텼는데..美빅테크 '경기악화' 직격탄]]></title>
-        <id>https://v.daum.net/v/20220730151857697</id>
-        <link href="https://v.daum.net/v/20220730151857697"/>
-        <updated>2022-07-30T06:21:47.312Z</updated>
-        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">15:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과기정통부 "중국 창정-5B호 잔해물 한반도 추락 가능성 없어"]]></title>
-        <id>https://v.daum.net/v/20220730151250666</id>
-        <link href="https://v.daum.net/v/20220730151250666"/>
-        <updated>2022-07-30T06:21:47.314Z</updated>
-        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">15:12</span>]]></content>
     </entry>
 </feed>
