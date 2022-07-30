@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-07-30T06:22:09.561Z</updated>
+    <updated>2022-07-30T07:17:37.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[메타비티, ISO17024 국제자격인증  한국어능력평가·한국어 개인자격인증 교육 사업 진출]]></title>
+        <id>https://v.daum.net/v/20220730160404080</id>
+        <link href="https://v.daum.net/v/20220730160404080"/>
+        <updated>2022-07-30T07:17:29.416Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">16:04</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여수시, 휴가철 맞아 도심녹지 환경정비 나서]]></title>
         <id>https://v.daum.net/v/20220730151301667</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220730080127968"/>
         <updated>2022-07-29T23:20:00.849Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">08:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[자치 현장] 아파트마다 주차난.. 주차장 설치 기준 강화해야 되나]]></title>
-        <id>https://v.daum.net/v/20220730075521862</id>
-        <link href="https://v.daum.net/v/20220730075521862"/>
-        <updated>2022-07-29T23:20:00.854Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">07:55</span>]]></content>
     </entry>
 </feed>
