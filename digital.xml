@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-07-30T09:18:19.151Z</updated>
+    <updated>2022-07-30T10:20:04.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중대본 비상근무 1단계 해제..풍수해 위기 경보 '관심' 하향]]></title>
+        <id>https://v.daum.net/v/20220730185711362</id>
+        <link href="https://v.daum.net/v/20220730185711362"/>
+        <updated>2022-07-30T10:19:42.686Z</updated>
+        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">18:57</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["치킨 배달이 2시간째 안와요" 배달에 속터진 사람들, 무슨 일?]]></title>
+        <id>https://v.daum.net/v/20220730185058300</id>
+        <link href="https://v.daum.net/v/20220730185058300"/>
+        <updated>2022-07-30T10:19:42.694Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">18:50</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["OO하기만 해도 수익 쏠쏠"..'돈 버는 게임' 대신 뜨는 이것 [더테크웨이브]]]></title>
         <id>https://v.daum.net/v/20220730180300910</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220730153704868"/>
         <updated>2022-07-30T07:17:13.981Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">15:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["미, 중에 14나노 반도체장비 수출도 막는다"]]></title>
-        <id>https://v.daum.net/v/20220730153012802</id>
-        <link href="https://v.daum.net/v/20220730153012802"/>
-        <updated>2022-07-30T07:17:13.981Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">15:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[머스크·트위터 '인수 파기' 재판 10월17일 열린다]]></title>
-        <id>https://v.daum.net/v/20220730152802778</id>
-        <link href="https://v.daum.net/v/20220730152802778"/>
-        <updated>2022-07-30T07:17:13.982Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">15:28</span>]]></content>
     </entry>
 </feed>
