@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-07-30T04:40:14.307Z</updated>
+    <updated>2022-07-30T05:21:49.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['내부 총질' 뭐가 문제냐? 윤석열-권성동 문자파문 감싸는 종편 출연자들]]></title>
+        <id>https://v.daum.net/v/20220730134504936</id>
+        <link href="https://v.daum.net/v/20220730134504936"/>
+        <updated>2022-07-30T05:21:32.910Z</updated>
+        <content type="html"><![CDATA[미디어오늘<span class="txt_bar"> · </span><span class="info_time">13:45</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1948년 국보법 반대했던 조선일보, 오늘날 개폐 반대 - 반언론적 작태]]></title>
         <id>https://v.daum.net/v/20220730133237855</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220730090018396"/>
         <updated>2022-07-30T01:47:13.779Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">09:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[천남수의 視線] 윤석열 정부에 대한 합리적 상상]]></title>
-        <id>https://v.daum.net/v/20220730075515860</id>
-        <link href="https://v.daum.net/v/20220730075515860"/>
-        <updated>2022-07-29T23:19:53.759Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">07:55</span>]]></content>
     </entry>
 </feed>
