@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/foreign</id>
     <title>다음 뉴스 ─ 전체기사 ─ 국제</title>
-    <updated>2022-07-30T17:18:49.079Z</updated>
+    <updated>2022-07-30T18:21:59.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영국 철도 파업.."기관사 임금 3년 째 동결, 사실상 감봉"]]></title>
+        <id>https://v.daum.net/v/20220731023423566</id>
+        <link href="https://v.daum.net/v/20220731023423566"/>
+        <updated>2022-07-30T18:21:04.086Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">02:34</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인도네시아 구제역에 호주 비상..쇠고기 수입시장 영향]]></title>
+        <id>https://v.daum.net/v/20220731022219563</id>
+        <link href="https://v.daum.net/v/20220731022219563"/>
+        <updated>2022-07-30T18:21:04.088Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">02:22</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美켄터키 홍수 사망자 25명으로 늘어.."더 늘어날 것"]]></title>
         <id>https://v.daum.net/v/20220731015532542</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220731005602488"/>
         <updated>2022-07-30T16:24:02.027Z</updated>
         <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">00:56</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KENYA POLITICS GENERAL ELECTIONS]]></title>
-        <id>https://v.daum.net/v/20220731005356484</id>
-        <link href="https://v.daum.net/v/20220731005356484"/>
-        <updated>2022-07-30T16:24:02.028Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">00:53</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Severe Weather Appalachia]]></title>
-        <id>https://v.daum.net/v/20220731005325483</id>
-        <link href="https://v.daum.net/v/20220731005325483"/>
-        <updated>2022-07-30T16:24:02.029Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">00:53</span>]]></content>
     </entry>
 </feed>
