@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-07-30T03:49:57.931Z</updated>
+    <updated>2022-07-30T04:40:14.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[블록버스터 톺아보기]24시간 지속형 인슐린, '란투스' 뛰어넘는 당뇨병 치료제 봇물]]></title>
+        <id>https://v.daum.net/v/20220730130009654</id>
+        <link href="https://v.daum.net/v/20220730130009654"/>
+        <updated>2022-07-30T04:39:49.346Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">13:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[반도체 산업보안협의회 출범..삼성·SK하이닉스 등 참여]]></title>
         <id>https://v.daum.net/v/20220730124330591</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220730110011783"/>
         <updated>2022-07-30T03:49:33.460Z</updated>
         <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">11:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[형만한 아우 있을까? 하반기 게임시장 후속작 잇따라 출시]]></title>
-        <id>https://v.daum.net/v/20220730105701741</id>
-        <link href="https://v.daum.net/v/20220730105701741"/>
-        <updated>2022-07-30T03:49:33.463Z</updated>
-        <content type="html"><![CDATA[kbc광주방송<span class="txt_bar"> · </span><span class="info_time">10:57</span>]]></content>
     </entry>
 </feed>
