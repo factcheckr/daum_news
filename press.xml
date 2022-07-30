@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-07-30T07:17:37.317Z</updated>
+    <updated>2022-07-30T08:23:20.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 유럽으로 달리다 - FOTON iBlue EV 트럭, EU WVTA 인증 획득]]></title>
+        <id>https://v.daum.net/v/20220730165443401</id>
+        <link href="https://v.daum.net/v/20220730165443401"/>
+        <updated>2022-07-30T08:23:11.360Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:54</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 하이센스와 FIFA, 장기 협력 통해 완벽한 미래 지향]]></title>
+        <id>https://v.daum.net/v/20220730164409335</id>
+        <link href="https://v.daum.net/v/20220730164409335"/>
+        <updated>2022-07-30T08:23:11.366Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:44</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[메타비티, ISO17024 국제자격인증  한국어능력평가·한국어 개인자격인증 교육 사업 진출]]></title>
         <id>https://v.daum.net/v/20220730160404080</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220730083132171"/>
         <updated>2022-07-30T01:47:21.962Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">08:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] 2022년 RCEP 경제무역 협력, 글로벌 경제 회복에 새로운 활력을]]></title>
-        <id>https://v.daum.net/v/20220730080927046</id>
-        <link href="https://v.daum.net/v/20220730080927046"/>
-        <updated>2022-07-29T23:20:00.848Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">08:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] Mars Petcare 연구원들, 반려견의 QoL 평가 도구 개발]]></title>
-        <id>https://v.daum.net/v/20220730080127968</id>
-        <link href="https://v.daum.net/v/20220730080127968"/>
-        <updated>2022-07-29T23:20:00.849Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">08:01</span>]]></content>
     </entry>
 </feed>
