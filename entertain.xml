@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2022-07-31T17:18:58.746Z</updated>
+    <updated>2022-07-31T18:21:42.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘의 채널A]박성웅, 자신 비법 담긴 술 '웅탁주' 선보]]></title>
+        <id>https://v.daum.net/v/20220801030126457</id>
+        <link href="https://v.daum.net/v/20220801030126457"/>
+        <updated>2022-07-31T18:21:02.691Z</updated>
+        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">03:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조유리 "고교시절 연극부, 도전해보고 싶었다" [화보]]]></title>
+        <id>https://v.daum.net/v/20220801030006418</id>
+        <link href="https://v.daum.net/v/20220801030006418"/>
+        <updated>2022-07-31T18:21:02.691Z</updated>
+        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">03:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["바지 단추까지 풀었네?"..이미주, 유재석도 놀랄 '大반전' 섹시미]]></title>
         <id>https://v.daum.net/v/20220801021658386</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220801010008234"/>
         <updated>2022-07-31T16:24:33.681Z</updated>
         <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">01:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전문] 싸이 측 "흠뻑쇼, 외주 스태프 추락사 비통"]]></title>
-        <id>https://v.daum.net/v/20220801005753228</id>
-        <link href="https://v.daum.net/v/20220801005753228"/>
-        <updated>2022-07-31T16:24:33.682Z</updated>
-        <content type="html"><![CDATA[스포츠경향<span class="txt_bar"> · </span><span class="info_time">00:57</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영지, 직접 찍은 안유진 사진 공개 "너무 예뻐서"..눈부신 보조개 미소]]></title>
-        <id>https://v.daum.net/v/20220801004921219</id>
-        <link href="https://v.daum.net/v/20220801004921219"/>
-        <updated>2022-07-31T16:24:33.683Z</updated>
-        <content type="html"><![CDATA[스포츠한국<span class="txt_bar"> · </span><span class="info_time">00:49</span>]]></content>
     </entry>
 </feed>
