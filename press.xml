@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-07-31T04:36:04.781Z</updated>
+    <updated>2022-07-31T05:20:34.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수원시, 전국 최초 '스마트 가로등 전기차 급속충전기' 설치]]></title>
+        <id>https://v.daum.net/v/20220731134307441</id>
+        <link href="https://v.daum.net/v/20220731134307441"/>
+        <updated>2022-07-31T05:20:26.268Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">13:43</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안산, 체력 부담 이겨내고 '12G 무승' 전남 꺾는다]]></title>
+        <id>https://v.daum.net/v/20220731133841374</id>
+        <link href="https://v.daum.net/v/20220731133841374"/>
+        <updated>2022-07-31T05:20:26.269Z</updated>
+        <content type="html"><![CDATA[스포탈코리아<span class="txt_bar"> · </span><span class="info_time">13:38</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LG전자, 다음달 28일까지 올레드 TV 특별 전시회 개최..잉카 일로리와 협업]]></title>
         <id>https://v.daum.net/v/20220731131148070</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220731130622985"/>
         <updated>2022-07-31T04:35:56.803Z</updated>
         <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">13:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주한 베트남 유학생, 여름 방학동안 소프트웨어교육 받는다]]></title>
-        <id>https://v.daum.net/v/20220731120601328</id>
-        <link href="https://v.daum.net/v/20220731120601328"/>
-        <updated>2022-07-31T03:46:51.230Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">12:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(주)홍성건설의 불공정하도급거래행위 제재]]></title>
-        <id>https://v.daum.net/v/20220731120601327</id>
-        <link href="https://v.daum.net/v/20220731120601327"/>
-        <updated>2022-07-31T03:46:51.238Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">12:06</span>]]></content>
     </entry>
 </feed>
