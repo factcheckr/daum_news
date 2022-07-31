@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-07-31T07:17:44.276Z</updated>
+    <updated>2022-07-31T08:22:16.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[그림사설] 윤마향·박원순 대응 이상했지만..여성가족부 폐지?]]></title>
+        <title type="html"><![CDATA[[한상춘의 국제경제 읽기] 3분기가 인플레 정점..美, 내년엔 금리 내릴 수도]]></title>
+        <id>https://v.daum.net/v/20220731171303610</id>
+        <link href="https://v.daum.net/v/20220731171303610"/>
+        <updated>2022-07-31T08:21:59.609Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">17:13</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[그림사설] 윤미향·박원순 대응 이상했지만..여성가족부 폐지?]]></title>
         <id>https://v.daum.net/v/20220731160128755</id>
         <link href="https://v.daum.net/v/20220731160128755"/>
         <updated>2022-07-31T07:17:29.127Z</updated>
@@ -55,7 +62,7 @@
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">15:33</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['양두구육' 정권: 도이치 주가조작과 취임식 VIP / 박용현]]></title>
+        <title type="html"><![CDATA['양두구육' 윤석열 정권: 도이치 주가조작과 취임식 VIP]]></title>
         <id>https://v.daum.net/v/20220731145005625</id>
         <link href="https://v.daum.net/v/20220731145005625"/>
         <updated>2022-07-31T06:22:28.905Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220731070707606"/>
         <updated>2022-07-30T22:18:06.300Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴욕다이어리]지지율 30%대, "美 침체 아니다" 외쳐보지만]]></title>
-        <id>https://v.daum.net/v/20220731010012504</id>
-        <link href="https://v.daum.net/v/20220731010012504"/>
-        <updated>2022-07-30T16:24:37.277Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">01:00</span>]]></content>
     </entry>
 </feed>
