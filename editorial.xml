@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-07-31T12:33:52.589Z</updated>
+    <updated>2022-07-31T13:29:17.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[만 5세 초등학교 입학연령 하향 논란..민주당 "철회하라"]]></title>
+        <id>https://v.daum.net/v/20220731221833500</id>
+        <link href="https://v.daum.net/v/20220731221833500"/>
+        <updated>2022-07-31T13:28:59.397Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">22:18</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[성매매에 대한 적나라한 어떤 대화 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20220731220002380</id>
+        <link href="https://v.daum.net/v/20220731220002380"/>
+        <updated>2022-07-31T13:28:59.397Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TOUR  LIST | 고성·속초·양양 최고의 해수욕장..올여름  동해 바다 피서지는?]]></title>
+        <id>https://v.daum.net/v/20220731215703354</id>
+        <link href="https://v.daum.net/v/20220731215703354"/>
+        <updated>2022-07-31T13:28:59.397Z</updated>
+        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">21:57</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그들이 나서자..尹 대통령 지지율 하락 '스톱']]></title>
+        <id>https://v.daum.net/v/20220731215402325</id>
+        <link href="https://v.daum.net/v/20220731215402325"/>
+        <updated>2022-07-31T13:28:59.397Z</updated>
+        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">21:54</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뭐라노]대통령의 절대반지]]></title>
         <id>https://v.daum.net/v/20220731212858027</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20220731194242252"/>
         <updated>2022-07-31T11:16:07.415Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Today's Cartoon] 2022.08.01]]></title>
-        <id>https://v.daum.net/v/20220731193950227</id>
-        <link href="https://v.daum.net/v/20220731193950227"/>
-        <updated>2022-07-31T11:16:07.419Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ukraine stalemate shaping Asian geopolitics]]></title>
-        <id>https://v.daum.net/v/20220731193751217</id>
-        <link href="https://v.daum.net/v/20220731193751217"/>
-        <updated>2022-07-31T11:16:07.421Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Four days from Montreal to Washington]]></title>
-        <id>https://v.daum.net/v/20220731193432203</id>
-        <link href="https://v.daum.net/v/20220731193432203"/>
-        <updated>2022-07-31T11:16:07.422Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[논설실의 서가] 놀라움 가득한 40억년 생명의 진화사]]></title>
-        <id>https://v.daum.net/v/20220731190411034</id>
-        <link href="https://v.daum.net/v/20220731190411034"/>
-        <updated>2022-07-31T10:20:07.428Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">19:04</span>]]></content>
     </entry>
 </feed>
