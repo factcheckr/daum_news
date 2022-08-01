@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-08-01T13:47:45.555Z</updated>
+    <updated>2022-08-01T14:19:56.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[그림사설] 교육감도 모르는 만 5세 초등학교 입학]]></title>
+        <id>https://v.daum.net/v/20220801230027068</id>
+        <link href="https://v.daum.net/v/20220801230027068"/>
+        <updated>2022-08-01T14:19:39.923Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[오병상의 코멘터리] 왜 이재명은 언론을 공격하나?]]></title>
+        <id>https://v.daum.net/v/20220801230024067</id>
+        <link href="https://v.daum.net/v/20220801230024067"/>
+        <updated>2022-08-01T14:19:39.923Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배달 실수, 맥도날드와 요기요의 차이[삶과 문화]]]></title>
         <id>https://v.daum.net/v/20220801220058704</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220801200728594"/>
         <updated>2022-08-01T11:17:29.118Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Today's Cartoon] 2022.08.02]]></title>
-        <id>https://v.daum.net/v/20220801200458565</id>
-        <link href="https://v.daum.net/v/20220801200458565"/>
-        <updated>2022-08-01T11:17:29.119Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Korea-China relations on a test bed]]></title>
-        <id>https://v.daum.net/v/20220801200308548</id>
-        <link href="https://v.daum.net/v/20220801200308548"/>
-        <updated>2022-08-01T11:17:29.120Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:03</span>]]></content>
     </entry>
 </feed>
