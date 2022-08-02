@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2022-08-02T16:26:12.705Z</updated>
+    <updated>2022-08-02T17:27:36.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['나는 솔로' 옥순, 뒤늦은 후회 눈물.."오빠가 1순위야"]]></title>
+        <id>https://v.daum.net/v/20220803020304951</id>
+        <link href="https://v.daum.net/v/20220803020304951"/>
+        <updated>2022-08-02T17:26:53.840Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신재하 캐스팅, '일타 스캔들'서 정경호와 호흡]]></title>
+        <id>https://v.daum.net/v/20220803020255947</id>
+        <link href="https://v.daum.net/v/20220803020255947"/>
+        <updated>2022-08-02T17:26:53.842Z</updated>
+        <content type="html"><![CDATA[MBN<span class="txt_bar"> · </span><span class="info_time">02:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[bnt포토] 정우성-이민호-이정재 '포토타임 갖는 여심헌터들']]></title>
         <id>https://v.daum.net/v/20220803012402829</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220803010226707"/>
         <updated>2022-08-02T16:25:34.988Z</updated>
         <content type="html"><![CDATA[MBN<span class="txt_bar"> · </span><span class="info_time">01:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['골때녀' 발라드림, 서기X경서 콤비 플레이 성공할까]]></title>
-        <id>https://v.daum.net/v/20220803010209703</id>
-        <link href="https://v.daum.net/v/20220803010209703"/>
-        <updated>2022-08-02T16:25:34.989Z</updated>
-        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">01:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홀로서기 나선 제이홉, 시카고 뜨겁게 달궜다]]></title>
-        <id>https://v.daum.net/v/20220803010148696</id>
-        <link href="https://v.daum.net/v/20220803010148696"/>
-        <updated>2022-08-02T16:25:34.990Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:01</span>]]></content>
     </entry>
 </feed>
