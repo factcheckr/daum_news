@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-08-02T12:41:18.967Z</updated>
+    <updated>2022-08-02T13:43:33.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오병상의 코멘터리] 윤석열의 '김건희 리스크']]></title>
+        <id>https://v.daum.net/v/20220802224059592</id>
+        <link href="https://v.daum.net/v/20220802224059592"/>
+        <updated>2022-08-02T13:43:16.178Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">22:40</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[배우 이제훈의 다큐 작업을 끝마치며[삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20220802220038044</id>
+        <link href="https://v.daum.net/v/20220802220038044"/>
+        <updated>2022-08-02T13:43:16.179Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[② [오늘의 운세] 8월 3일(음력 7월 6일, 일진은 무자 戊子) : 말띠(午) ~ 돼지띠(亥)]]></title>
         <id>https://v.daum.net/v/20220802210502817</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220802195217578"/>
         <updated>2022-08-02T11:17:17.269Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:52</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The power of chips and the alliance]]></title>
-        <id>https://v.daum.net/v/20220802195015525</id>
-        <link href="https://v.daum.net/v/20220802195015525"/>
-        <updated>2022-08-02T11:17:17.270Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[무언설태] 추미애, "탐구 않는 정치가 필요 없어"..당내에 많겠네요]]></title>
-        <id>https://v.daum.net/v/20220802194224354</id>
-        <link href="https://v.daum.net/v/20220802194224354"/>
-        <updated>2022-08-02T11:17:17.271Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">19:42</span>]]></content>
     </entry>
 </feed>
