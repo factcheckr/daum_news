@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-08-02T04:27:30.083Z</updated>
+    <updated>2022-08-02T05:44:27.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우리가 몰랐던 현대차? 우리만 몰랐던!]]></title>
+        <id>https://v.daum.net/v/20220802143612999</id>
+        <link href="https://v.daum.net/v/20220802143612999"/>
+        <updated>2022-08-02T05:44:10.144Z</updated>
+        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">14:36</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[조남대의 은퇴일기⑤] 품격 있는 노년]]></title>
+        <id>https://v.daum.net/v/20220802143015337</id>
+        <link href="https://v.daum.net/v/20220802143015337"/>
+        <updated>2022-08-02T05:44:10.147Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">14:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[표지이야기 공모제 선정작 발표 연기 안내]]></title>
         <id>https://v.daum.net/v/20220802114226360</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220802112020413"/>
         <updated>2022-08-02T04:27:12.809Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[홍길용의 화식열전] '사실상' 보편감세와 '진짜' 부자감세]]></title>
-        <id>https://v.daum.net/v/20220802111804260</id>
-        <link href="https://v.daum.net/v/20220802111804260"/>
-        <updated>2022-08-02T04:27:12.809Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<뉴스와 시각>대북정책 일탈과 사법 단죄]]></title>
-        <id>https://v.daum.net/v/20220802111528084</id>
-        <link href="https://v.daum.net/v/20220802111528084"/>
-        <updated>2022-08-02T04:27:12.810Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:15</span>]]></content>
     </entry>
 </feed>
