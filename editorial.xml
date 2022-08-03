@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-08-03T16:27:23.182Z</updated>
+    <updated>2022-08-03T17:21:31.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]이례적 美경제와 '기술적' 침체]]></title>
+        <id>https://v.daum.net/v/20220804020500345</id>
+        <link href="https://v.daum.net/v/20220804020500345"/>
+        <updated>2022-08-03T17:21:13.945Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]BTS 병역 가치에 관한 오해]]></title>
+        <id>https://v.daum.net/v/20220804020301340</id>
+        <link href="https://v.daum.net/v/20220804020301340"/>
+        <updated>2022-08-03T17:21:13.952Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[심은경의 미국에서 본 한국] 역사의 교훈을 오늘에 되새기며]]></title>
         <id>https://v.daum.net/v/20220804004031078</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220804002201001"/>
         <updated>2022-08-03T15:22:28.660Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노트북을 열며] '검수완박'과 '이당완박']]></title>
-        <id>https://v.daum.net/v/20220804002029995</id>
-        <link href="https://v.daum.net/v/20220804002029995"/>
-        <updated>2022-08-03T15:22:28.661Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[취재수첩] 서울시 기재부 고래싸움에 등터지는 잠실주공5단지]]></title>
-        <id>https://v.daum.net/v/20220804001901983</id>
-        <link href="https://v.daum.net/v/20220804001901983"/>
-        <updated>2022-08-03T15:22:28.662Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:19</span>]]></content>
     </entry>
 </feed>
