@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-08-03T03:56:21.144Z</updated>
+    <updated>2022-08-03T05:06:07.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](3일 석간)]]></title>
+        <id>https://v.daum.net/v/20220803140007598</id>
+        <link href="https://v.daum.net/v/20220803140007598"/>
+        <updated>2022-08-03T05:05:52.866Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[논단] 혁신은 이렇게 시작되었다]]></title>
+        <id>https://v.daum.net/v/20220803133641794</id>
+        <link href="https://v.daum.net/v/20220803133641794"/>
+        <updated>2022-08-03T05:05:52.867Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">13:36</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[시시비비] 누가 펠로시에게 돌을 던질 수 있을까]]></title>
+        <id>https://v.daum.net/v/20220803133303707</id>
+        <link href="https://v.daum.net/v/20220803133303707"/>
+        <updated>2022-08-03T05:05:52.868Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">13:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[헤럴드시사] 1981년 레이건, 2022년 윤석열 리더십]]></title>
         <id>https://v.daum.net/v/20220803113615863</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220803111536939"/>
         <updated>2022-08-03T03:56:02.872Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명 " 기소수사권 가진 검경이 정치에 개입하고 영향을 주고 특정 세력의 이익에 도모하는 이런 나라는 없다"]]></title>
-        <id>https://v.daum.net/v/20220803111345830</id>
-        <link href="https://v.daum.net/v/20220803111345830"/>
-        <updated>2022-08-03T03:56:02.873Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">11:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[수담(手談)] 조치훈 투혼이 일깨운 승자의 자세]]></title>
-        <id>https://v.daum.net/v/20220803111137747</id>
-        <link href="https://v.daum.net/v/20220803111137747"/>
-        <updated>2022-08-03T03:56:02.873Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[100세 시대 건강]유아의 '마음건강' 고려한 보육정책 필요하다]]></title>
-        <id>https://v.daum.net/v/20220803110045296</id>
-        <link href="https://v.daum.net/v/20220803110045296"/>
-        <updated>2022-08-03T03:56:02.874Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:00</span>]]></content>
     </entry>
 </feed>
