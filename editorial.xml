@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-08-03T05:06:07.903Z</updated>
+    <updated>2022-08-03T06:23:37.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[칼럼]'시계제로' 동북亞..尹정부 위기관리능력 시험대]]></title>
+        <id>https://v.daum.net/v/20220803142420368</id>
+        <link href="https://v.daum.net/v/20220803142420368"/>
+        <updated>2022-08-03T06:23:20.268Z</updated>
+        <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">14:24</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주요 신문 사설](3일 석간)]]></title>
         <id>https://v.daum.net/v/20220803140007598</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220803111649997"/>
         <updated>2022-08-03T03:56:02.867Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<오후여담>AI시대 新직업]]></title>
-        <id>https://v.daum.net/v/20220803111536939</id>
-        <link href="https://v.daum.net/v/20220803111536939"/>
-        <updated>2022-08-03T03:56:02.872Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:15</span>]]></content>
     </entry>
 </feed>
