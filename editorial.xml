@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-08-05T22:20:09.823Z</updated>
+    <updated>2022-08-05T23:19:47.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단 영향력은 아직 현재진행형 [하재근의 이슈분석]]]></title>
+        <id>https://v.daum.net/v/20220806080808578</id>
+        <link href="https://v.daum.net/v/20220806080808578"/>
+        <updated>2022-08-05T23:19:32.902Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">08:08</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[K트레이딩업]對中 수출, 질적 전환 필요하다]]></title>
         <id>https://v.daum.net/v/20220806070051104</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220806040407069"/>
         <updated>2022-08-05T19:17:47.052Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[역사로 내리는 커피] 제비다방의 추억]]></title>
-        <id>https://v.daum.net/v/20220806040359065</id>
-        <link href="https://v.daum.net/v/20220806040359065"/>
-        <updated>2022-08-05T19:17:47.053Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:03</span>]]></content>
     </entry>
 </feed>
