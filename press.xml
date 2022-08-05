@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-08-05T13:43:30.628Z</updated>
+    <updated>2022-08-05T14:19:33.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국방부장관, K9 자주포 호주 현지 생산공장 부지 방문]]></title>
+        <id>https://v.daum.net/v/20220805230539158</id>
+        <link href="https://v.daum.net/v/20220805230539158"/>
+        <updated>2022-08-05T14:19:25.147Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">23:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아세안 관련 외교장관회의 계기 한-호주 외교장관회담(8.5.) 개최 결과]]></title>
         <id>https://v.daum.net/v/20220805223546982</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220805175806375"/>
         <updated>2022-08-05T09:19:30.964Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:58</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과천시, '잭과 사과나무 물놀이터' 전면 개방]]></title>
-        <id>https://v.daum.net/v/20220805175752362</id>
-        <link href="https://v.daum.net/v/20220805175752362"/>
-        <updated>2022-08-05T09:19:30.965Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:57</span>]]></content>
     </entry>
 </feed>
