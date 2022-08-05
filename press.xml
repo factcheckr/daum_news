@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-08-05T09:19:40.045Z</updated>
+    <updated>2022-08-05T10:21:06.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다양한 대중음악의 해외진출 지원한다]]></title>
+        <id>https://v.daum.net/v/20220805183534172</id>
+        <link href="https://v.daum.net/v/20220805183534172"/>
+        <updated>2022-08-05T10:20:58.243Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">18:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이마이폰, 손상된 파일 복구 앱 '울트라리페어' 신규 출시]]></title>
         <id>https://v.daum.net/v/20220805180704596</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220805173621765</id>
         <link href="https://v.daum.net/v/20220805173621765"/>
         <updated>2022-08-05T09:19:30.975Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">17:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[권영세 통일부장관, 필립 골드버그 주한 미국대사 접견]]></title>
-        <id>https://v.daum.net/v/20220805173621764</id>
-        <link href="https://v.daum.net/v/20220805173621764"/>
-        <updated>2022-08-05T09:19:30.976Z</updated>
         <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">17:36</span>]]></content>
     </entry>
 </feed>
