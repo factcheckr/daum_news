@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-08-06T10:20:02.303Z</updated>
+    <updated>2022-08-06T11:16:20.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[크래프톤 '눈마새' 게임화 재도전..이번엔 '이영도 판타지' 통할까 [보편적겜뷰]]]></title>
+        <id>https://v.daum.net/v/20220806200104104</id>
+        <link href="https://v.daum.net/v/20220806200104104"/>
+        <updated>2022-08-06T11:15:54.310Z</updated>
+        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">20:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삼성 신제품에 찬물 끼얹는 중국..외신 "어리석다" 비난]]></title>
+        <id>https://v.daum.net/v/20220806195138994</id>
+        <link href="https://v.daum.net/v/20220806195138994"/>
+        <updated>2022-08-06T11:15:54.318Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">19:51</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["싸이에 수억원 베팅했더니" 망해가던 '이곳' 놀라운 일이]]></title>
         <id>https://v.daum.net/v/20220806185211434</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220806165155327"/>
         <updated>2022-08-06T08:22:25.772Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">16:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[테슬라, 오토파일럿·FSD 과잉홍보로 제소당했다]]></title>
-        <id>https://v.daum.net/v/20220806162412042</id>
-        <link href="https://v.daum.net/v/20220806162412042"/>
-        <updated>2022-08-06T08:22:25.774Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">16:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코인 2배 오른다?..주목할 3대 포인트]]></title>
-        <id>https://v.daum.net/v/20220806155525830</id>
-        <link href="https://v.daum.net/v/20220806155525830"/>
-        <updated>2022-08-06T07:17:28.590Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">15:55</span>]]></content>
     </entry>
 </feed>
