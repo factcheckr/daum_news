@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-08-06T22:18:53.928Z</updated>
+    <updated>2022-08-06T23:19:22.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["게임 파일인 줄 알았더니"..사용자 몰래 코인 채굴]]></title>
+        <id>https://v.daum.net/v/20220807081015962</id>
+        <link href="https://v.daum.net/v/20220807081015962"/>
+        <updated>2022-08-06T23:18:57.812Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">08:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['공부하는 의회 만들자'..광주 초선 의원들 연구모임 '눈길']]></title>
+        <id>https://v.daum.net/v/20220807080211901</id>
+        <link href="https://v.daum.net/v/20220807080211901"/>
+        <updated>2022-08-06T23:18:57.812Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사이언스 인 미디어]태아 생명과 여성의 선택 사이 '레벤느망']]></title>
+        <id>https://v.daum.net/v/20220807080103874</id>
+        <link href="https://v.daum.net/v/20220807080103874"/>
+        <updated>2022-08-06T23:18:57.819Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">08:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["엄마가 집 10채 사주셨어요"..SNS 허세글에 中 '발칵' [조아라의 소프트차이나]]]></title>
+        <id>https://v.daum.net/v/20220807074901772</id>
+        <link href="https://v.daum.net/v/20220807074901772"/>
+        <updated>2022-08-06T23:18:57.819Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">07:49</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[㊵ LG텔레콤 vs 하나로통신..동기식 IMT-2000 주인 찾았다 [김문기의 아이씨테크]]]></title>
         <id>https://v.daum.net/v/20220807070021464</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20220807060013873"/>
         <updated>2022-08-06T21:17:28.396Z</updated>
         <content type="html"><![CDATA[동아사이언스<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[자막뉴스] 16년 동안 속았다..? 알츠하이머 정복 못했던 이유]]></title>
-        <id>https://v.daum.net/v/20220807040412536</id>
-        <link href="https://v.daum.net/v/20220807040412536"/>
-        <updated>2022-08-06T19:15:19.944Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">04:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[과학 한스푼] 알츠하이머 정복 왜 못하나 했더니..핵심 논문 조작 의혹]]></title>
-        <id>https://v.daum.net/v/20220807032213499</id>
-        <link href="https://v.daum.net/v/20220807032213499"/>
-        <updated>2022-08-06T18:23:34.446Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">03:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국이디에스, 한국도로공사 토지정보시스템 재구축 사업 수주]]></title>
-        <id>https://v.daum.net/v/20220807000107128</id>
-        <link href="https://v.daum.net/v/20220807000107128"/>
-        <updated>2022-08-06T15:18:36.386Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['배틀그라운드' 인도 앱마켓 삭제 일주일]]></title>
-        <id>https://v.daum.net/v/20220807000103124</id>
-        <link href="https://v.daum.net/v/20220807000103124"/>
-        <updated>2022-08-06T15:18:36.389Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
     </entry>
 </feed>
