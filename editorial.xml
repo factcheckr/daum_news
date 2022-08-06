@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-08-06T13:27:55.758Z</updated>
+    <updated>2022-08-06T14:17:23.860Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[그림사설] 방한 미 하원의장 휴가 이유로 안 만난 대통령]]></title>
+        <id>https://v.daum.net/v/20220806223027505</id>
+        <link href="https://v.daum.net/v/20220806223027505"/>
+        <updated>2022-08-06T14:17:09.143Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">22:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[② [오늘의 운세] 8월 7일(음력 7월 10일 입추, 일진은 임진 壬辰, 손없는 날) : 말띠(午) ~ 돼지띠(亥)]]></title>
         <id>https://v.daum.net/v/20220806210007617</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220806070037097"/>
         <updated>2022-08-05T22:19:56.114Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['윤이나 암초' 여자 골프..솔로몬 선택 기대한다 [김윤일의 역주행]]]></title>
-        <id>https://v.daum.net/v/20220806070012069</id>
-        <link href="https://v.daum.net/v/20220806070012069"/>
-        <updated>2022-08-05T22:19:56.114Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
     </entry>
 </feed>
