@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2022-08-07T16:24:31.503Z</updated>
+    <updated>2022-08-07T17:18:51.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美 앨버커키서 무슬림 4명 연쇄 피살..경찰, 연관 가능성 수사]]></title>
+        <id>https://v.daum.net/v/20220808015508799</id>
+        <link href="https://v.daum.net/v/20220808015508799"/>
+        <updated>2022-08-07T17:18:04.259Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">01:55</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원로 코미디언 한무, 대장암 투병.."아내가 대소변 다 받아"]]></title>
+        <id>https://v.daum.net/v/20220808014842778</id>
+        <link href="https://v.daum.net/v/20220808014842778"/>
+        <updated>2022-08-07T17:18:04.259Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">01:48</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남자들을 위한 80cm 부츠?..2년 만에 돌아온 쇼뮤지컬 '킹키부츠']]></title>
         <id>https://v.daum.net/v/20220808010259656</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220808001004364"/>
         <updated>2022-08-07T15:18:21.496Z</updated>
         <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[클릭, 글로벌 제약·바이오]운동 인지장애 예방·저온 종양 억제]]></title>
-        <id>https://v.daum.net/v/20220808000614352</id>
-        <link href="https://v.daum.net/v/20220808000614352"/>
-        <updated>2022-08-07T15:18:21.497Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["흥분 못 이겨" 잔나비, 록 페스타 무례 발언 논란 해명]]></title>
-        <id>https://v.daum.net/v/20220808000447329</id>
-        <link href="https://v.daum.net/v/20220808000447329"/>
-        <updated>2022-08-07T15:18:21.499Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
     </entry>
 </feed>
