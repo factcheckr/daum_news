@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-08-07T12:31:59.847Z</updated>
+    <updated>2022-08-07T13:28:27.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022년 8월 8일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20220807220111470</id>
+        <link href="https://v.daum.net/v/20220807220111470"/>
+        <updated>2022-08-07T13:28:11.291Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우회전 규제가 불편한 분들에게 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20220807220002457</id>
+        <link href="https://v.daum.net/v/20220807220002457"/>
+        <updated>2022-08-07T13:28:11.299Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뭐라노]고인돌의 비명]]></title>
         <id>https://v.daum.net/v/20220807211509914</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220807193917682"/>
         <updated>2022-08-07T11:16:29.986Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The president's summer retreat]]></title>
-        <id>https://v.daum.net/v/20220807193656656</id>
-        <link href="https://v.daum.net/v/20220807193656656"/>
-        <updated>2022-08-07T11:16:29.986Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 국무 복귀 尹대통령, 이젠 국민 불신 떨쳐낼 '한방' 보여줘야]]></title>
-        <id>https://v.daum.net/v/20220807190621296</id>
-        <link href="https://v.daum.net/v/20220807190621296"/>
-        <updated>2022-08-07T10:19:59.677Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">19:06</span>]]></content>
     </entry>
 </feed>
