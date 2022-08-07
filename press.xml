@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-08-07T05:17:07.320Z</updated>
+    <updated>2022-08-07T06:23:00.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소변줄 차고 밤일도 걱정? 전립샘 묶는 국소마취 시술 당일 퇴원 [건강한 가족]]]></title>
+        <id>https://v.daum.net/v/20220807142629324</id>
+        <link href="https://v.daum.net/v/20220807142629324"/>
+        <updated>2022-08-07T06:22:52.845Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">14:26</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[예산군보건소, 주민이 만족하는 보건사업 추진 '총력']]></title>
         <id>https://v.daum.net/v/20220807133344514</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220807133201431</id>
         <link href="https://v.daum.net/v/20220807133201431"/>
         <updated>2022-08-07T05:16:59.040Z</updated>
-        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">13:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청년창업농 영농창업 대상자 모집]]></title>
-        <id>https://v.daum.net/v/20220807133201429</id>
-        <link href="https://v.daum.net/v/20220807133201429"/>
-        <updated>2022-08-07T05:16:59.041Z</updated>
         <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">13:32</span>]]></content>
     </entry>
 </feed>
