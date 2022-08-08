@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2022-08-08T17:24:42.016Z</updated>
+    <updated>2022-08-08T18:29:23.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오상진 진짜 변했나 "김소영같은 여자 만나지마" ('동상2')]]></title>
+        <id>https://v.daum.net/v/20220809031734935</id>
+        <link href="https://v.daum.net/v/20220809031734935"/>
+        <updated>2022-08-08T18:28:42.079Z</updated>
+        <content type="html"><![CDATA[OSEN<span class="txt_bar"> · </span><span class="info_time">03:17</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[오늘의 채널A]'희자매' 김효선과 함께 알아보는 살빼기 비법!]]></title>
+        <id>https://v.daum.net/v/20220809030222741</id>
+        <link href="https://v.daum.net/v/20220809030222741"/>
+        <updated>2022-08-08T18:28:42.080Z</updated>
+        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">03:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["♥교님" 송혜교, 어딜가나 예쁨받네..감독님도 엄정화도 '간식차 응원']]></title>
         <id>https://v.daum.net/v/20220809022018633</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220809004504215"/>
         <updated>2022-08-08T16:27:42.981Z</updated>
         <content type="html"><![CDATA[스타뉴스<span class="txt_bar"> · </span><span class="info_time">00:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['동상이몽2' 홍성기, 축구 계속한다는 이현이에 "축구를 또 한다고?" 충격]]></title>
-        <id>https://v.daum.net/v/20220809004501213</id>
-        <link href="https://v.daum.net/v/20220809004501213"/>
-        <updated>2022-08-08T16:27:42.982Z</updated>
-        <content type="html"><![CDATA[SBS연예뉴스<span class="txt_bar"> · </span><span class="info_time">00:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서동주 "건강하게 행복하게 살자 엄마"]]></title>
-        <id>https://v.daum.net/v/20220809004403211</id>
-        <link href="https://v.daum.net/v/20220809004403211"/>
-        <updated>2022-08-08T16:27:42.983Z</updated>
-        <content type="html"><![CDATA[스포츠경향<span class="txt_bar"> · </span><span class="info_time">00:44</span>]]></content>
     </entry>
 </feed>
