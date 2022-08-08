@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-08-08T22:21:40.036Z</updated>
+    <updated>2022-08-08T23:21:35.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](9일 조간)]]></title>
+        <id>https://v.daum.net/v/20220809080007886</id>
+        <link href="https://v.daum.net/v/20220809080007886"/>
+        <updated>2022-08-08T23:21:19.959Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[기자수첩]  간보기]]></title>
         <id>https://v.daum.net/v/20220809070505021</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220809060006113"/>
         <updated>2022-08-08T21:17:34.585Z</updated>
         <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[칼럼]오세훈이 던진 또 다른 승부수 '한강']]></title>
-        <id>https://v.daum.net/v/20220809054801036</id>
-        <link href="https://v.daum.net/v/20220809054801036"/>
-        <updated>2022-08-08T21:17:34.590Z</updated>
-        <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">05:48</span>]]></content>
     </entry>
 </feed>
