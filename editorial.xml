@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-08-08T10:21:58.780Z</updated>
+    <updated>2022-08-08T11:17:07.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[만파식적] 보하이만]]></title>
+        <id>https://v.daum.net/v/20220808193312183</id>
+        <link href="https://v.daum.net/v/20220808193312183"/>
+        <updated>2022-08-08T11:16:48.439Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">19:33</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[무언설태] 민주 청원 "기소자 직무정지 당헌 개정"..'1인 사당' 인가요]]></title>
+        <id>https://v.daum.net/v/20220808193138157</id>
+        <link href="https://v.daum.net/v/20220808193138157"/>
+        <updated>2022-08-08T11:16:48.440Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">19:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족 같은 나라[2030의 정치학]]]></title>
         <id>https://v.daum.net/v/20220808190051678</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220808185333527"/>
         <updated>2022-08-08T10:21:44.358Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">18:53</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A diplomatic discourtesy]]></title>
-        <id>https://v.daum.net/v/20220808185213508</id>
-        <link href="https://v.daum.net/v/20220808185213508"/>
-        <updated>2022-08-08T10:21:44.359Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">18:52</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사고'는 윤 대통령이 쳤다, 교육장관 인사 참사]]></title>
-        <id>https://v.daum.net/v/20220808185011471</id>
-        <link href="https://v.daum.net/v/20220808185011471"/>
-        <updated>2022-08-08T10:21:44.360Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">18:50</span>]]></content>
     </entry>
 </feed>
