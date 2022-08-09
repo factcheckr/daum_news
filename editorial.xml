@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-08-09T16:26:32.832Z</updated>
+    <updated>2022-08-09T17:21:50.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]메타버스 신산업 진흥의 현안]]></title>
+        <id>https://v.daum.net/v/20220810020501061</id>
+        <link href="https://v.daum.net/v/20220810020501061"/>
+        <updated>2022-08-09T17:21:36.900Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]서민들이 보수정당 지지하는 이유]]></title>
+        <id>https://v.daum.net/v/20220810020301060</id>
+        <link href="https://v.daum.net/v/20220810020301060"/>
+        <updated>2022-08-09T17:21:36.906Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[염재호 칼럼] 풍요 이후에 오는 나라]]></title>
         <id>https://v.daum.net/v/20220810005826843</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220810003415761"/>
         <updated>2022-08-09T16:26:15.505Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오형규 칼럼] 우영우 vs 리갈하이]]></title>
-        <id>https://v.daum.net/v/20220810001602682</id>
-        <link href="https://v.daum.net/v/20220810001602682"/>
-        <updated>2022-08-09T15:21:53.703Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[천자 칼럼] '영원한 연인' 올리비아 뉴턴 존]]></title>
-        <id>https://v.daum.net/v/20220810001505676</id>
-        <link href="https://v.daum.net/v/20220810001505676"/>
-        <updated>2022-08-09T15:21:53.703Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:15</span>]]></content>
     </entry>
 </feed>
