@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-08-09T04:42:57.168Z</updated>
+    <updated>2022-08-09T05:26:13.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[풍수해보험을 들었습니다]]></title>
-        <id>https://v.daum.net/v/20220809133515105</id>
-        <link href="https://v.daum.net/v/20220809133515105"/>
-        <updated>2022-08-09T04:42:42.061Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">13:35</span>]]></content>
+        <title type="html"><![CDATA[[의학칼럼] 누구도 피할 수 없는 백내장.. 적기 치료가 관건]]></title>
+        <id>https://v.daum.net/v/20220809140017923</id>
+        <link href="https://v.daum.net/v/20220809140017923"/>
+        <updated>2022-08-09T05:25:57.971Z</updated>
+        <content type="html"><![CDATA[헬스조선<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[논단] 전세대란도 월세대란도 없다]]></title>
+        <id>https://v.daum.net/v/20220809134907601</id>
+        <link href="https://v.daum.net/v/20220809134907601"/>
+        <updated>2022-08-09T05:25:57.971Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">13:49</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[초동시각]속도 내는 UAM 상용화..수상택시를 기억하자]]></title>
+        <id>https://v.daum.net/v/20220809132248578</id>
+        <link href="https://v.daum.net/v/20220809132248578"/>
+        <updated>2022-08-09T05:25:57.974Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">13:22</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[전승민의 과학세계]다누리호가 4개월 반이나 날아가는 이유]]></title>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220809111536721"/>
         <updated>2022-08-09T03:45:58.179Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<시평>21세기형 기업가 정신에 국운 달렸다]]></title>
-        <id>https://v.daum.net/v/20220809111519698</id>
-        <link href="https://v.daum.net/v/20220809111519698"/>
-        <updated>2022-08-09T03:45:58.180Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[줄줄 흘려 쓰지 말고, 각 잡아 쓰라]]></title>
-        <id>https://v.daum.net/v/20220809111151489</id>
-        <link href="https://v.daum.net/v/20220809111151489"/>
-        <updated>2022-08-09T03:45:58.181Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">11:11</span>]]></content>
     </entry>
 </feed>
