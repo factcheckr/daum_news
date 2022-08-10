@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-08-10T16:28:55.616Z</updated>
+    <updated>2022-08-10T17:24:26.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가짜 양주 딱 걸렸어!..기포 모양으로 식별 기술 개발]]></title>
+        <id>https://v.daum.net/v/20220811022213530</id>
+        <link href="https://v.daum.net/v/20220811022213530"/>
+        <updated>2022-08-10T17:24:04.767Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">02:22</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삼성, '힌지' 개선 통해 '폴더블' 대중화 노렸다]]></title>
+        <id>https://v.daum.net/v/20220811020149477</id>
+        <link href="https://v.daum.net/v/20220811020149477"/>
+        <updated>2022-08-10T17:24:04.769Z</updated>
+        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">02:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[노태문 삼성전자 MX 사장 "폴더블폰은 자유· 진보·가능성 이끌어내"]]></title>
+        <id>https://v.daum.net/v/20220811013521374</id>
+        <link href="https://v.daum.net/v/20220811013521374"/>
+        <updated>2022-08-10T17:24:04.769Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">01:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[온도측정하는 갤워치5..스포츠용 '프로' 라인업 갖추고 내구성↑(종합)]]></title>
         <id>https://v.daum.net/v/20220811012815343</id>
@@ -88,12 +109,5 @@
         <link href="https://v.daum.net/v/20220811000247805"/>
         <updated>2022-08-10T15:19:52.599Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[운석 충돌이 지구 대륙을 만들었다]]></title>
-        <id>https://v.daum.net/v/20220811000012740</id>
-        <link href="https://v.daum.net/v/20220811000012740"/>
-        <updated>2022-08-10T15:19:52.600Z</updated>
-        <content type="html"><![CDATA[동아사이언스<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
