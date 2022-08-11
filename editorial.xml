@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-08-11T07:19:04.718Z</updated>
+    <updated>2022-08-11T08:23:24.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팀장 칼럼]기업인 사면, 그 후에 남는 것들]]></title>
+        <id>https://v.daum.net/v/20220811171000981</id>
+        <link href="https://v.daum.net/v/20220811171000981"/>
+        <updated>2022-08-11T08:23:08.144Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[아침 햇발] 위계적인, 너무나 위계적인 기후위기 / 안영춘]]></title>
+        <id>https://v.daum.net/v/20220811170506799</id>
+        <link href="https://v.daum.net/v/20220811170506799"/>
+        <updated>2022-08-11T08:23:08.159Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">17:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[기고]기업 오픈 이노베이션 전략에서 액셀러레이터의 역할]]></title>
         <id>https://v.daum.net/v/20220811160121251</id>
@@ -69,7 +83,7 @@
         <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">15:06</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[물난리 났는데 길에서 허둥댄 '재난대응 주무 장관' 이상민]]></title>
+        <title type="html"><![CDATA['재난대응 주무 장관' 이상민, 물난리 때는 뭘 했나?]]></title>
         <id>https://v.daum.net/v/20220811150002393</id>
         <link href="https://v.daum.net/v/20220811150002393"/>
         <updated>2022-08-11T06:24:11.406Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220811145511199"/>
         <updated>2022-08-11T06:24:11.410Z</updated>
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">14:55</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[장은수의 책으로 읽는 세계] 창조적 사고는 집단적 뇌에서 나온다]]></title>
-        <id>https://v.daum.net/v/20220811143514085</id>
-        <link href="https://v.daum.net/v/20220811143514085"/>
-        <updated>2022-08-11T06:24:11.413Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">14:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[양경미의 영화로 보는 세상] 행복한 삶을 위한 버킷리스트]]></title>
-        <id>https://v.daum.net/v/20220811141514452</id>
-        <link href="https://v.daum.net/v/20220811141514452"/>
-        <updated>2022-08-11T05:18:32.284Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">14:15</span>]]></content>
     </entry>
 </feed>
