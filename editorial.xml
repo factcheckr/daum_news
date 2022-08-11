@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-08-11T03:20:52.560Z</updated>
+    <updated>2022-08-11T04:28:14.728Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신이 특별히 선택한 것은 잘난 자들이 아니다]]></title>
+        <id>https://v.daum.net/v/20220811122503851</id>
+        <link href="https://v.daum.net/v/20220811122503851"/>
+        <updated>2022-08-11T04:27:59.681Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">12:25</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[알권리? 권언유착? '티타임'과 함께 '검찰발 받아쓰기'도 부활했다]]></title>
         <id>https://v.daum.net/v/20220811114736873</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220811111228211"/>
         <updated>2022-08-11T03:20:35.127Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">11:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데일리안 시사만평] 이준석, 효력정지 가처분 신청..국민의힘, 비대위 배는 출항]]></title>
-        <id>https://v.daum.net/v/20220811105948523</id>
-        <link href="https://v.daum.net/v/20220811105948523"/>
-        <updated>2022-08-11T03:20:35.128Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">10:59</span>]]></content>
     </entry>
 </feed>
