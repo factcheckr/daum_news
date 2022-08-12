@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-08-12T07:18:28.134Z</updated>
+    <updated>2022-08-12T08:24:41.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[시론] 입추에 물난리..속수무책의 정치]]></title>
+        <id>https://v.daum.net/v/20220812170203125</id>
+        <link href="https://v.daum.net/v/20220812170203125"/>
+        <updated>2022-08-12T08:24:23.988Z</updated>
+        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">17:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인사] 산업연구원]]></title>
         <id>https://v.daum.net/v/20220812161345790</id>
@@ -20,7 +27,7 @@
         <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">16:05</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사람이든 동물이든 생명의 온기가 없이는 살 수 없다]]></title>
+        <title type="html"><![CDATA['사람의 볕을 쬐다'..생명의 온기가 필요한 이유]]></title>
         <id>https://v.daum.net/v/20220812155504263</id>
         <link href="https://v.daum.net/v/20220812155504263"/>
         <updated>2022-08-12T07:18:10.005Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220812132632366"/>
         <updated>2022-08-12T04:33:10.943Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['광복절 특사' 이재용 복권.."기업인 책무와 소임 다할 것"]]></title>
-        <id>https://v.daum.net/v/20220812131226077</id>
-        <link href="https://v.daum.net/v/20220812131226077"/>
-        <updated>2022-08-12T04:33:10.943Z</updated>
-        <content type="html"><![CDATA[스포츠한국<span class="txt_bar"> · </span><span class="info_time">13:12</span>]]></content>
     </entry>
 </feed>
