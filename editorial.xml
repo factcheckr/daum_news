@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-08-12T09:19:03.691Z</updated>
+    <updated>2022-08-12T10:24:09.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[홍성민의 유럽에서 게임 개발하기①] 바이킹 정신이 깃든 북유럽 개발 문화]]></title>
+        <id>https://v.daum.net/v/20220812190905183</id>
+        <link href="https://v.daum.net/v/20220812190905183"/>
+        <updated>2022-08-12T10:23:52.118Z</updated>
+        <content type="html"><![CDATA[데일리e스포츠<span class="txt_bar"> · </span><span class="info_time">19:09</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[WORD_ON_THE_WEB] 'Increase the number of rescue personnel']]></title>
+        <id>https://v.daum.net/v/20220812185626966</id>
+        <link href="https://v.daum.net/v/20220812185626966"/>
+        <updated>2022-08-12T10:23:52.119Z</updated>
+        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">18:56</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사설] 이재용 등 비리경제인 결국 사면, 언제까지 '법 위의 재벌'인가]]></title>
+        <id>https://v.daum.net/v/20220812185505942</id>
+        <link href="https://v.daum.net/v/20220812185505942"/>
+        <updated>2022-08-12T10:23:52.121Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">18:55</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[지평선] 바이든이 역사수업 받은 이유]]></title>
         <id>https://v.daum.net/v/20220812180101834</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220812143407585"/>
         <updated>2022-08-12T06:24:11.387Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">14:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스쿨존 어린이 사망자 2026년까지 0명 목표]]></title>
-        <id>https://v.daum.net/v/20220812142230179</id>
-        <link href="https://v.daum.net/v/20220812142230179"/>
-        <updated>2022-08-12T06:24:11.392Z</updated>
-        <content type="html"><![CDATA[EBS<span class="txt_bar"> · </span><span class="info_time">14:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[논단]재난 방재는 예보 신뢰에서 시작한다]]></title>
-        <id>https://v.daum.net/v/20220812140334481</id>
-        <link href="https://v.daum.net/v/20220812140334481"/>
-        <updated>2022-08-12T05:19:46.764Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">14:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No more tragedies like this (KOR)]]></title>
-        <id>https://v.daum.net/v/20220812135820248</id>
-        <link href="https://v.daum.net/v/20220812135820248"/>
-        <updated>2022-08-12T05:19:46.766Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">13:58</span>]]></content>
     </entry>
 </feed>
