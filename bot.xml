@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-08-12T08:24:41.277Z</updated>
+    <updated>2022-08-12T09:19:03.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2022년 08월 12일)]]></title>
+        <id>https://v.daum.net/v/20220812173203081</id>
+        <link href="https://v.daum.net/v/20220812173203081"/>
+        <updated>2022-08-12T09:19:03.095Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:32</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[fnRASSI]오늘의 상한가, 지투파워 30.0% ↑]]></title>
         <id>https://v.daum.net/v/20220812153816758</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220812121036950"/>
         <updated>2022-08-12T03:31:17.790Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울 목동 목동4단지 67㎡ 16억원에 거래]]></title>
-        <id>https://v.daum.net/v/20220812120544806</id>
-        <link href="https://v.daum.net/v/20220812120544806"/>
-        <updated>2022-08-12T03:31:17.790Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:05</span>]]></content>
     </entry>
 </feed>
