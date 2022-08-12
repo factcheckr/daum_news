@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-08-12T11:17:28.781Z</updated>
+    <updated>2022-08-12T12:34:58.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[② [오늘의 운세] 8월 13일(음력 7월 16일, 일진은 무술 戊戌) : 말띠(午) ~ 돼지띠(亥)]]></title>
+        <id>https://v.daum.net/v/20220812210008997</id>
+        <link href="https://v.daum.net/v/20220812210008997"/>
+        <updated>2022-08-12T12:34:41.970Z</updated>
+        <content type="html"><![CDATA[웨딩21뉴스<span class="txt_bar"> · </span><span class="info_time">21:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[① [오늘의 운세] 8월 13일(음력 7월 16일, 일진은 무술 戊戌) : 쥐띠(子) ~ 뱀띠(巳)]]></title>
+        <id>https://v.daum.net/v/20220812210002992</id>
+        <link href="https://v.daum.net/v/20220812210002992"/>
+        <updated>2022-08-12T12:34:41.970Z</updated>
+        <content type="html"><![CDATA[웨딩21뉴스<span class="txt_bar"> · </span><span class="info_time">21:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[팬데믹 시대, 어떤 예술이 가능할까?]]></title>
+        <id>https://v.daum.net/v/20220812205920965</id>
+        <link href="https://v.daum.net/v/20220812205920965"/>
+        <updated>2022-08-12T12:34:41.970Z</updated>
+        <content type="html"><![CDATA[대구MBC<span class="txt_bar"> · </span><span class="info_time">20:59</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 김건희 논문표절 부정한 국민대, 교수 총회 의견 수용해야]]></title>
         <id>https://v.daum.net/v/20220812201028297</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220812173312129"/>
         <updated>2022-08-12T09:18:46.572Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:33</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[속보] 권성동, 사드배치 관련 "文, 중국 사대주의자였나..명명백백히 밝혀야"]]></title>
-        <id>https://v.daum.net/v/20220812173056043</id>
-        <link href="https://v.daum.net/v/20220812173056043"/>
-        <updated>2022-08-12T09:18:46.573Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필동정담] 1가구 1주택 당강령 폐지]]></title>
-        <id>https://v.daum.net/v/20220812173001982</id>
-        <link href="https://v.daum.net/v/20220812173001982"/>
-        <updated>2022-08-12T09:18:46.575Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시론] 입추에 물난리..속수무책의 정치]]></title>
-        <id>https://v.daum.net/v/20220812170203125</id>
-        <link href="https://v.daum.net/v/20220812170203125"/>
-        <updated>2022-08-12T08:24:23.988Z</updated>
-        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">17:02</span>]]></content>
     </entry>
 </feed>
