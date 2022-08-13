@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-08-13T07:18:28.933Z</updated>
+    <updated>2022-08-13T08:23:41.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가상화폐 스트라이크 4,110원 상승한 32,780원에 거래]]></title>
+        <id>https://v.daum.net/v/20220813163132586</id>
+        <link href="https://v.daum.net/v/20220813163132586"/>
+        <updated>2022-08-13T08:23:40.910Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">16:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가상화폐 비트코인 32,880,000원(+1.58%) 거래중]]></title>
         <id>https://v.daum.net/v/20220813133134541</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220813053055953"/>
         <updated>2022-08-12T21:18:06.291Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가상화폐 비트코인 0.84% 상승, 쎄타퓨엘 14.64% 상승]]></title>
-        <id>https://v.daum.net/v/20220813023140481</id>
-        <link href="https://v.daum.net/v/20220813023140481"/>
-        <updated>2022-08-12T18:24:11.193Z</updated>
-        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">02:31</span>]]></content>
     </entry>
 </feed>
