@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-08-13T04:27:06.384Z</updated>
+    <updated>2022-08-13T05:18:12.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[속보] 부동산 가격 촉각..'윤석열 250만호+α(알파)' 16일 발표]]></title>
+        <id>https://v.daum.net/v/20220813135709777</id>
+        <link href="https://v.daum.net/v/20220813135709777"/>
+        <updated>2022-08-13T05:17:53.495Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">13:57</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부고] 박민제(위메이드 PR실 이사)씨 부친상]]></title>
         <id>https://v.daum.net/v/20220813130755349</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220813070501101"/>
         <updated>2022-08-12T22:20:39.693Z</updated>
         <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">07:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애들이고 어른이고 승부조작에 피멍든 중국축구[김태훈의 챕터투]]]></title>
-        <id>https://v.daum.net/v/20220813070139076</id>
-        <link href="https://v.daum.net/v/20220813070139076"/>
-        <updated>2022-08-12T22:20:39.697Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:01</span>]]></content>
     </entry>
 </feed>
