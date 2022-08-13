@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2022-08-13T17:19:09.161Z</updated>
+    <updated>2022-08-13T18:22:03.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김장훈 "공연 중 졸도 아닌 초현실적 상태..쾌락 절정" 해명[종합]]]></title>
+        <id>https://v.daum.net/v/20220814032031986</id>
+        <link href="https://v.daum.net/v/20220814032031986"/>
+        <updated>2022-08-13T18:21:29.608Z</updated>
+        <content type="html"><![CDATA[OSEN<span class="txt_bar"> · </span><span class="info_time">03:20</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[스브스夜] '그알' 제3산록교 추락 사망사건..전문가, "의식 없는 상태의 추락 지점과 사건 유사"]]></title>
         <id>https://v.daum.net/v/20220814021801952</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220814004918796"/>
         <updated>2022-08-13T16:23:39.687Z</updated>
         <content type="html"><![CDATA[MBC연예<span class="txt_bar"> · </span><span class="info_time">00:49</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[종합] '전참시' 이영자, 이정재X정우성 등장에 긴장..칼빔 먹방]]></title>
-        <id>https://v.daum.net/v/20220814004201778</id>
-        <link href="https://v.daum.net/v/20220814004201778"/>
-        <updated>2022-08-13T16:23:39.690Z</updated>
-        <content type="html"><![CDATA[스타투데이<span class="txt_bar"> · </span><span class="info_time">00:42</span>]]></content>
     </entry>
 </feed>
