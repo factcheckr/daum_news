@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-08-13T01:27:50.816Z</updated>
+    <updated>2022-08-13T03:21:51.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[尹 재정분권 성공하려면 책임-재원 같이 줘야]]></title>
+        <id>https://v.daum.net/v/20220813113921761</id>
+        <link href="https://v.daum.net/v/20220813113921761"/>
+        <updated>2022-08-13T03:21:34.256Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">11:39</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한달 꼬박 일해도 쥐꼬리 소득, '리어카노인' 지원법이 필요해요 [쓰레기의 문법]]]></title>
+        <id>https://v.daum.net/v/20220813110002266</id>
+        <link href="https://v.daum.net/v/20220813110002266"/>
+        <updated>2022-08-13T03:21:34.257Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">11:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대통령 위기는 국가 위기, 윤석열의 위기 탈출법은? [쓴소리 곧은 소리]]]></title>
         <id>https://v.daum.net/v/20220813100203591</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220813070057049"/>
         <updated>2022-08-12T22:20:39.698Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잔나비 질타, 선비님들 납셨다 [하재근의 이슈분석]]]></title>
-        <id>https://v.daum.net/v/20220813060606473</id>
-        <link href="https://v.daum.net/v/20220813060606473"/>
-        <updated>2022-08-12T21:17:50.197Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">06:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국의 칩 4 가입 관련, 하나의 제언]]></title>
-        <id>https://v.daum.net/v/20220813050002818</id>
-        <link href="https://v.daum.net/v/20220813050002818"/>
-        <updated>2022-08-12T20:20:10.289Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">05:00</span>]]></content>
     </entry>
 </feed>
