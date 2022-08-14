@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-08-14T10:20:43.355Z</updated>
+    <updated>2022-08-14T11:16:35.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['규제 완화 효과' 네오위즈, 매출 전년比 19% 증가]]></title>
+        <id>https://v.daum.net/v/20220814193748090</id>
+        <link href="https://v.daum.net/v/20220814193748090"/>
+        <updated>2022-08-14T11:16:12.835Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">19:37</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[컴투스 그룹, 태국 'P2E 엑스포' 참가.. 웹3 게임 비전 공유]]></title>
         <id>https://v.daum.net/v/20220814191142797</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[OSEN<span class="txt_bar"> · </span><span class="info_time">19:11</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["삼성 폴더블폰보다 얇다고?" 중국 샤오미 도발, 알고 보니]]></title>
+        <title type="html"><![CDATA["삼성 폴더블폰보다 얇다?" 중국 샤오미 자랑, 실체 알고보니]]></title>
         <id>https://v.daum.net/v/20220814185137479</id>
         <link href="https://v.daum.net/v/20220814185137479"/>
         <updated>2022-08-14T10:20:17.998Z</updated>
@@ -97,17 +104,10 @@
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">17:12</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[단점 확 줄인 삼성 Z플립4..애플 충성고객도 혹했다 [백문이 불여IT견]]]></title>
+        <title type="html"><![CDATA[단점 확 줄인 삼성 Z플립4..애플 충성고객도 혹했다]]></title>
         <id>https://v.daum.net/v/20220814170900604</id>
         <link href="https://v.daum.net/v/20220814170900604"/>
         <updated>2022-08-14T08:22:01.677Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제2의 울산 살인 막는다]]></title>
-        <id>https://v.daum.net/v/20220814170605575</id>
-        <link href="https://v.daum.net/v/20220814170605575"/>
-        <updated>2022-08-14T08:22:01.680Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:06</span>]]></content>
     </entry>
 </feed>
