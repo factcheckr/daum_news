@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-08-14T22:19:01.405Z</updated>
+    <updated>2022-08-14T23:18:57.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[기자수첩] 앞뒤 꽉 막힌 레지던스 용도변경, 정부가 나서야 한다]]></title>
+        <id>https://v.daum.net/v/20220815080014438</id>
+        <link href="https://v.daum.net/v/20220815080014438"/>
+        <updated>2022-08-14T23:18:43.108Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[7NEWS] 대한민국의 주권·자유 위협하는 중국과 북한]]></title>
         <id>https://v.daum.net/v/20220815070136023</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220815050405224</id>
         <link href="https://v.daum.net/v/20220815050405224"/>
         <updated>2022-08-14T20:19:52.383Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 국민 안전 앞세운 범정부 기후변화 대책 강구해야]]></title>
-        <id>https://v.daum.net/v/20220815050403223</id>
-        <link href="https://v.daum.net/v/20220815050403223"/>
-        <updated>2022-08-14T20:19:52.384Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:04</span>]]></content>
     </entry>
 </feed>
