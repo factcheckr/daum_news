@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-08-14T21:17:25.704Z</updated>
+    <updated>2022-08-14T22:19:01.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[7NEWS] 대한민국의 주권·자유 위협하는 중국과 북한]]></title>
+        <id>https://v.daum.net/v/20220815070136023</id>
+        <link href="https://v.daum.net/v/20220815070136023"/>
+        <updated>2022-08-14T22:18:46.288Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">07:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[1mm금융톡]"대출하러 반차내고 갔던 은행, 예약하면 한시간 안에 끝"]]></title>
         <id>https://v.daum.net/v/20220815061025714</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220815050403223</id>
         <link href="https://v.daum.net/v/20220815050403223"/>
         <updated>2022-08-14T20:19:52.384Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 다주택 의원 이해충돌 심사기준 강화하라]]></title>
-        <id>https://v.daum.net/v/20220815050402222</id>
-        <link href="https://v.daum.net/v/20220815050402222"/>
-        <updated>2022-08-14T20:19:52.385Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:04</span>]]></content>
     </entry>
 </feed>
