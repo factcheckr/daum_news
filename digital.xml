@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-08-15T13:43:17.311Z</updated>
+    <updated>2022-08-15T14:21:13.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비트코인, 한 때 2만5천달러 돌파..6월 이후 처음]]></title>
+        <id>https://v.daum.net/v/20220815225711800</id>
+        <link href="https://v.daum.net/v/20220815225711800"/>
+        <updated>2022-08-15T14:20:47.508Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">22:57</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['서머너즈 워: 크로니클', 15일 사전 다운로드 하자마자.. 애플 인기 1위 기록]]></title>
         <id>https://v.daum.net/v/20220815224200715</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220815194625269"/>
         <updated>2022-08-15T11:16:21.818Z</updated>
         <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">19:46</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스마트폰 일상생활 필수로 여기는 '60대' 비율 점점 늘어난다]]></title>
-        <id>https://v.daum.net/v/20220815194505252</id>
-        <link href="https://v.daum.net/v/20220815194505252"/>
-        <updated>2022-08-15T11:16:21.818Z</updated>
-        <content type="html"><![CDATA[미디어오늘<span class="txt_bar"> · </span><span class="info_time">19:45</span>]]></content>
     </entry>
 </feed>
