@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-08-15T16:27:57.973Z</updated>
+    <updated>2022-08-15T17:26:25.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]미래를 향한 꿈은 방향이 먼저다]]></title>
+        <id>https://v.daum.net/v/20220816020503522</id>
+        <link href="https://v.daum.net/v/20220816020503522"/>
+        <updated>2022-08-15T17:26:08.976Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]한국정치는 전문가라는 함정을 피해야 한다]]></title>
+        <id>https://v.daum.net/v/20220816020501521</id>
+        <link href="https://v.daum.net/v/20220816020501521"/>
+        <updated>2022-08-15T17:26:08.980Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[고현곤 칼럼] 정권 초, YS의 성공 MB의 실패]]></title>
         <id>https://v.daum.net/v/20220816010235432</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220816003244343"/>
         <updated>2022-08-15T16:27:42.124Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 담대한 8·15 대북 제안..북한 호응이 관건]]></title>
-        <id>https://v.daum.net/v/20220816002758314</id>
-        <link href="https://v.daum.net/v/20220816002758314"/>
-        <updated>2022-08-15T16:27:42.125Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 윤 정부 첫 예산 편성, 재정건전성 회복에 초점 둬야]]></title>
-        <id>https://v.daum.net/v/20220816000920254</id>
-        <link href="https://v.daum.net/v/20220816000920254"/>
-        <updated>2022-08-15T15:22:10.868Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:09</span>]]></content>
     </entry>
 </feed>

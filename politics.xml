@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2022-08-15T16:27:57.986Z</updated>
+    <updated>2022-08-15T17:26:25.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["이재명 탈당하라"던 그 당 맞나..친문도 '李 호위무사' 됐다 [달라진 野세력지도]]]></title>
+        <id>https://v.daum.net/v/20220816020039511</id>
+        <link href="https://v.daum.net/v/20220816020039511"/>
+        <updated>2022-08-15T17:25:12.642Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">02:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[與 '주호영 비대위' 오늘 출범 예정..내일 이준석 가처분 심문]]></title>
         <id>https://v.daum.net/v/20220816010122420</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220816001120267"/>
         <updated>2022-08-15T15:21:10.846Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尹, 오늘 빌 게이츠 접견..공정위 업무보고도]]></title>
-        <id>https://v.daum.net/v/20220816000601223</id>
-        <link href="https://v.daum.net/v/20220816000601223"/>
-        <updated>2022-08-15T15:21:10.846Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
     </entry>
 </feed>

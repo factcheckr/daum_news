@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2022-08-15T16:27:57.968Z</updated>
+    <updated>2022-08-15T17:26:25.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[르노코리아, 앱 하나로 센터예약·견적·오일교환까지..]]></title>
+        <id>https://v.daum.net/v/20220816022020531</id>
+        <link href="https://v.daum.net/v/20220816022020531"/>
+        <updated>2022-08-15T17:25:21.797Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">02:20</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[월가 라이벌 '엇갈린 전망',  美증시 '더 오른다 vs 떨어진다"]]></title>
+        <id>https://v.daum.net/v/20220816015727506</id>
+        <link href="https://v.daum.net/v/20220816015727506"/>
+        <updated>2022-08-15T17:25:21.797Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">01:57</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이코노 브리핑] 신한銀, 취약 차주 금리 1.5%P 인하 외]]></title>
         <id>https://v.daum.net/v/20220816010409448</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220816010153426"/>
         <updated>2022-08-15T16:26:52.587Z</updated>
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울도시철도그린환경, 2022년 대한민국 일자리 으뜸 기업 선정]]></title>
-        <id>https://v.daum.net/v/20220816010116419</id>
-        <link href="https://v.daum.net/v/20220816010116419"/>
-        <updated>2022-08-15T16:26:52.588Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['엄벌 경고' 후 반토막 났던 공매도 거래, 2주 만에 쑥]]></title>
-        <id>https://v.daum.net/v/20220816004508379</id>
-        <link href="https://v.daum.net/v/20220816004508379"/>
-        <updated>2022-08-15T16:26:52.588Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">00:45</span>]]></content>
     </entry>
 </feed>
