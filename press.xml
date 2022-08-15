@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-08-15T07:18:45.650Z</updated>
+    <updated>2022-08-15T08:24:39.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SK, 미 테라파워 투자로 '넷제로' 실행 속도 낸다]]></title>
+        <id>https://v.daum.net/v/20220815171702644</id>
+        <link href="https://v.daum.net/v/20220815171702644"/>
+        <updated>2022-08-15T08:24:29.576Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:17</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] GameFi 기업 Murasaki, 150만 유로의 시드 라운드 마쳐]]></title>
+        <id>https://v.daum.net/v/20220815170403422</id>
+        <link href="https://v.daum.net/v/20220815170403422"/>
+        <updated>2022-08-15T08:24:29.577Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:04</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[AsiaNet] 내몽골 싱안맹 '농부와 목동 자수 전시회', 베이징에서 개최]]></title>
+        <id>https://v.daum.net/v/20220815164141085</id>
+        <link href="https://v.daum.net/v/20220815164141085"/>
+        <updated>2022-08-15T08:24:29.577Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:41</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Expereo, Breeze Networks 인수 'SD-WAN·SASE 실무 능력 및 영국 시장 사업 강화']]></title>
         <id>https://v.daum.net/v/20220815152701972</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220815123536929"/>
         <updated>2022-08-15T03:59:27.017Z</updated>
         <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">12:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[행안부, 공공데이터 활용 1천 개 기업 의견 듣는다]]></title>
-        <id>https://v.daum.net/v/20220815123536928</id>
-        <link href="https://v.daum.net/v/20220815123536928"/>
-        <updated>2022-08-15T03:59:27.018Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">12:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴진스, 첫 주 앨범 판매량 31만 장 돌파..걸그룹 데뷔 앨범 초동 신기록]]></title>
-        <id>https://v.daum.net/v/20220815123020850</id>
-        <link href="https://v.daum.net/v/20220815123020850"/>
-        <updated>2022-08-15T03:59:27.019Z</updated>
-        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">12:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[AsiaNet] Inner Mongolia Hinggan League Exhibition of Embroideries by Farmers]]></title>
-        <id>https://v.daum.net/v/20220815122938840</id>
-        <link href="https://v.daum.net/v/20220815122938840"/>
-        <updated>2022-08-15T03:59:27.020Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">12:29</span>]]></content>
     </entry>
 </feed>
