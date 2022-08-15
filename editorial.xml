@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-08-15T03:59:36.243Z</updated>
+    <updated>2022-08-15T05:08:52.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[패전일 맞은 일본, 야스쿠니신사에 정계 인사들 줄줄이 참배]]></title>
+        <id>https://v.daum.net/v/20220815133000653</id>
+        <link href="https://v.daum.net/v/20220815133000653"/>
+        <updated>2022-08-15T05:08:36.284Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">13:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤 대통령 "北, 실질적 비핵화 전환한다면 경제·민생 획기적 개선"]]></title>
         <id>https://v.daum.net/v/20220815123514925</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220815051244310</id>
         <link href="https://v.daum.net/v/20220815051244310"/>
         <updated>2022-08-14T20:19:52.364Z</updated>
-        <content type="html"><![CDATA[농민신문<span class="txt_bar"> · </span><span class="info_time">05:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특별기고] 지금 왜 도농상생협력인가]]></title>
-        <id>https://v.daum.net/v/20220815051242309</id>
-        <link href="https://v.daum.net/v/20220815051242309"/>
-        <updated>2022-08-14T20:19:52.371Z</updated>
         <content type="html"><![CDATA[농민신문<span class="txt_bar"> · </span><span class="info_time">05:12</span>]]></content>
     </entry>
 </feed>
