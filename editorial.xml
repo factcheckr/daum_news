@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-08-16T12:33:34.738Z</updated>
+    <updated>2022-08-16T13:32:10.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022년 8월 17일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20220816220056758</id>
+        <link href="https://v.daum.net/v/20220816220056758"/>
+        <updated>2022-08-16T13:31:55.212Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신림동 반지하방 참사는 담대한 답변을 요구한다[삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20220816220025747</id>
+        <link href="https://v.daum.net/v/20220816220025747"/>
+        <updated>2022-08-16T13:31:55.212Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뭐라노]캐리 마허 교수를 추모함]]></title>
         <id>https://v.daum.net/v/20220816210225920</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220816195124871"/>
         <updated>2022-08-16T11:15:59.308Z</updated>
         <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">19:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 충청 인사 약진 눈길 끄는 與비대위원 인선]]></title>
-        <id>https://v.daum.net/v/20220816195122869</id>
-        <link href="https://v.daum.net/v/20220816195122869"/>
-        <updated>2022-08-16T11:15:59.309Z</updated>
-        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">19:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gwanghwamun Square returns to the past]]></title>
-        <id>https://v.daum.net/v/20220816195112863</id>
-        <link href="https://v.daum.net/v/20220816195112863"/>
-        <updated>2022-08-16T11:15:59.310Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:51</span>]]></content>
     </entry>
 </feed>
