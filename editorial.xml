@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-08-17T12:40:25.872Z</updated>
+    <updated>2022-08-17T13:48:54.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[혼자서도 할 수 있는 아이 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20220817220102553</id>
+        <link href="https://v.daum.net/v/20220817220102553"/>
+        <updated>2022-08-17T13:48:37.022Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 8월 18일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20220817215928510</id>
+        <link href="https://v.daum.net/v/20220817215928510"/>
+        <updated>2022-08-17T13:48:37.023Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">21:59</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[무언설태] 민주, '기소 시 당직 정지' 당헌 유지..눈치와 꼼수 사이?]]></title>
         <id>https://v.daum.net/v/20220817210751599</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220817194555348"/>
         <updated>2022-08-17T11:16:56.905Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A different angle on Pelosi's trip]]></title>
-        <id>https://v.daum.net/v/20220817194326297</id>
-        <link href="https://v.daum.net/v/20220817194326297"/>
-        <updated>2022-08-17T11:16:56.907Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Today's Cartoon] 2022.08.18]]></title>
-        <id>https://v.daum.net/v/20220817194127277</id>
-        <link href="https://v.daum.net/v/20220817194127277"/>
-        <updated>2022-08-17T11:16:56.907Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:41</span>]]></content>
     </entry>
 </feed>
