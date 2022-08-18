@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-08-18T12:39:41.271Z</updated>
+    <updated>2022-08-18T13:43:53.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[자꾸 잃어버리는 자동차 '스마트 키' [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20220818220049533</id>
+        <link href="https://v.daum.net/v/20220818220049533"/>
+        <updated>2022-08-18T13:43:36.695Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 8월 19일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20220818220010519</id>
+        <link href="https://v.daum.net/v/20220818220010519"/>
+        <updated>2022-08-18T13:43:36.696Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뭐라노]"균형발전, 지켜봐달라"]]></title>
         <id>https://v.daum.net/v/20220818211432715</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220818193046375"/>
         <updated>2022-08-18T11:17:35.802Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Today's Cartoon] 2022.08.19]]></title>
-        <id>https://v.daum.net/v/20220818192825341</id>
-        <link href="https://v.daum.net/v/20220818192825341"/>
-        <updated>2022-08-18T11:17:35.803Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:28</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Return of an old friend]]></title>
-        <id>https://v.daum.net/v/20220818192634312</id>
-        <link href="https://v.daum.net/v/20220818192634312"/>
-        <updated>2022-08-18T11:17:35.805Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:26</span>]]></content>
     </entry>
 </feed>
