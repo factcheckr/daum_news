@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-08-18T11:17:53.028Z</updated>
+    <updated>2022-08-18T12:39:41.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뭐라노]"균형발전, 지켜봐달라"]]></title>
+        <id>https://v.daum.net/v/20220818211432715</id>
+        <link href="https://v.daum.net/v/20220818211432715"/>
+        <updated>2022-08-18T12:39:25.153Z</updated>
+        <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">21:14</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[여적] 법제처의 추락]]></title>
+        <id>https://v.daum.net/v/20220818203413637</id>
+        <link href="https://v.daum.net/v/20220818203413637"/>
+        <updated>2022-08-18T12:39:25.154Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:34</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 가계소득 증가에도 분배지표는 악화, 재정지출 중요한 이유]]></title>
         <id>https://v.daum.net/v/20220818201715275</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220818192634312"/>
         <updated>2022-08-18T11:17:35.805Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["원숭이두창 일주일에 20%씩 증가..전 세계 3만 5천 건"]]></title>
-        <id>https://v.daum.net/v/20220818191210015</id>
-        <link href="https://v.daum.net/v/20220818191210015"/>
-        <updated>2022-08-18T10:22:24.478Z</updated>
-        <content type="html"><![CDATA[EBS<span class="txt_bar"> · </span><span class="info_time">19:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['여성서사 아카이브' 플랫이 뉴스레터를 시작합니다[플랫]]]></title>
-        <id>https://v.daum.net/v/20220818191124998</id>
-        <link href="https://v.daum.net/v/20220818191124998"/>
-        <updated>2022-08-18T10:22:24.479Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">19:11</span>]]></content>
     </entry>
 </feed>
