@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-08-19T22:21:39.712Z</updated>
+    <updated>2022-08-19T23:19:17.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[신임철의 행동경제학] 퇴직연금에 숨겨진 비밀]]></title>
+        <id>https://v.daum.net/v/20220820080026503</id>
+        <link href="https://v.daum.net/v/20220820080026503"/>
+        <updated>2022-08-19T23:19:01.265Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[천남수의 視線] '이준석 亂'에 밀린 재미없는 민주당 전당대회]]></title>
+        <id>https://v.daum.net/v/20220820074507383</id>
+        <link href="https://v.daum.net/v/20220820074507383"/>
+        <updated>2022-08-19T23:19:01.266Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">07:45</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유재석, 이런 사람 또 있을까? [하재근의 이슈분석]]]></title>
         <id>https://v.daum.net/v/20220820070708201</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220820040501152"/>
         <updated>2022-08-19T19:16:12.200Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토 카페] 나만 아는 피서지]]></title>
-        <id>https://v.daum.net/v/20220820040307143</id>
-        <link href="https://v.daum.net/v/20220820040307143"/>
-        <updated>2022-08-19T19:16:12.200Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 김여정의 무례한 담화, 北의 위험한 오판]]></title>
-        <id>https://v.daum.net/v/20220820040158140</id>
-        <link href="https://v.daum.net/v/20220820040158140"/>
-        <updated>2022-08-19T19:16:12.201Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:01</span>]]></content>
     </entry>
 </feed>
