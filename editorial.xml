@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-08-19T04:53:30.747Z</updated>
+    <updated>2022-08-19T05:29:40.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[ET톡]한류의 '따뜻한 전략']]></title>
+        <id>https://v.daum.net/v/20220819140103435</id>
+        <link href="https://v.daum.net/v/20220819140103435"/>
+        <updated>2022-08-19T05:29:23.984Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">14:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[데일리안 시사만평] 설마 '노룩패스'?..김무성 민주평통 수석부의장 내정]]></title>
         <id>https://v.daum.net/v/20220819135254128</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220819112530536</id>
         <link href="https://v.daum.net/v/20220819112530536"/>
         <updated>2022-08-19T03:52:54.177Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<여론마당>학생들 많이 이용하는 방학기간 도서관 공사, 왜 굳이 이때 하나]]></title>
-        <id>https://v.daum.net/v/20220819112530535</id>
-        <link href="https://v.daum.net/v/20220819112530535"/>
-        <updated>2022-08-19T03:52:54.179Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:25</span>]]></content>
     </entry>
 </feed>
