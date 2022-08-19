@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-08-19T06:28:01.440Z</updated>
+    <updated>2022-08-19T07:18:32.823Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[FN사설] 쌓이는 재고에 기업은 R의 공포 걱정하는데]]></title>
+        <id>https://v.daum.net/v/20220819161609713</id>
+        <link href="https://v.daum.net/v/20220819161609713"/>
+        <updated>2022-08-19T07:18:15.280Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">16:16</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[시사컬처] 어느 외국인의 아주라]]></title>
         <id>https://v.daum.net/v/20220819150250621</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220819115527729"/>
         <updated>2022-08-19T03:52:54.168Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:55</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<김세동의 시론>'이재명 리스크' 갈수록 설상가상]]></title>
-        <id>https://v.daum.net/v/20220819115107602</id>
-        <link href="https://v.daum.net/v/20220819115107602"/>
-        <updated>2022-08-19T03:52:54.169Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:51</span>]]></content>
     </entry>
 </feed>
