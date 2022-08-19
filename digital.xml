@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-08-19T11:17:34.729Z</updated>
+    <updated>2022-08-19T12:36:24.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정청래, '과기부 장관 불출석 종용' 의혹 권성동 겨냥.."사실이면 고발"]]></title>
+        <id>https://v.daum.net/v/20220819204053520</id>
+        <link href="https://v.daum.net/v/20220819204053520"/>
+        <updated>2022-08-19T12:36:02.372Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">20:40</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[미리보기] 시사기획 창 : 고장난 심장, 북극의 경고]]></title>
         <id>https://v.daum.net/v/20220819195456794</id>
@@ -76,7 +83,7 @@
         <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">18:59</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이터널리턴, 시즌7 열자마자 유저 불만 폭주]]></title>
+        <title type="html"><![CDATA[이터널리턴, 시즌7 열자마자 유저 불만 이어져]]></title>
         <id>https://v.daum.net/v/20220819185546003</id>
         <link href="https://v.daum.net/v/20220819185546003"/>
         <updated>2022-08-19T10:24:03.171Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220819184541867"/>
         <updated>2022-08-19T10:24:03.174Z</updated>
         <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">18:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가야바이오 "기능성 배합사료 개발로 사람과 환경 지킬 것"]]></title>
-        <id>https://v.daum.net/v/20220819183902788</id>
-        <link href="https://v.daum.net/v/20220819183902788"/>
-        <updated>2022-08-19T10:24:03.175Z</updated>
-        <content type="html"><![CDATA[IT동아<span class="txt_bar"> · </span><span class="info_time">18:39</span>]]></content>
     </entry>
 </feed>
