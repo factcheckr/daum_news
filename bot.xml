@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-08-19T08:24:05.525Z</updated>
+    <updated>2022-08-19T09:20:06.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2022년 08월 19일)]]></title>
+        <id>https://v.daum.net/v/20220819173146079</id>
+        <link href="https://v.daum.net/v/20220819173146079"/>
+        <updated>2022-08-19T09:20:06.397Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[fnRASSI]장마감, 거래소 하락 종목(덴티움 -8.2% ↓)]]></title>
         <id>https://v.daum.net/v/20220819154423789</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220819121540227"/>
         <updated>2022-08-19T03:53:08.868Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 가정동 루원시티프라디움아파트 85㎡ 5억5000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220819121100144</id>
-        <link href="https://v.daum.net/v/20220819121100144"/>
-        <updated>2022-08-19T03:53:08.869Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:11</span>]]></content>
     </entry>
 </feed>
