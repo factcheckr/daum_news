@@ -2,112 +2,98 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/society</id>
     <title>다음 뉴스 ─ 전체기사 ─ 사회</title>
-    <updated>2022-08-20T14:17:41.649Z</updated>
+    <updated>2022-08-20T15:19:50.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[부산 화명동 도로에서 음주 차량이 차량 3대 추돌]]></title>
-        <id>https://v.daum.net/v/20220820230901315</id>
-        <link href="https://v.daum.net/v/20220820230901315"/>
-        <updated>2022-08-20T14:16:13.156Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">23:09</span>]]></content>
+        <title type="html"><![CDATA[돌고래 방류 촉구에 울산 남구청 "시기상조"]]></title>
+        <id>https://v.daum.net/v/20220821001312654</id>
+        <link href="https://v.daum.net/v/20220821001312654"/>
+        <updated>2022-08-20T15:18:27.747Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:13</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["범행 숨기려 방화 살인"..30대 남성 무기징역 구형]]></title>
-        <id>https://v.daum.net/v/20220820230830310</id>
-        <link href="https://v.daum.net/v/20220820230830310"/>
-        <updated>2022-08-20T14:16:13.160Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">23:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[울산 오늘 신규 확진 2,865명..누적 확진 48만 4천여 명]]></title>
-        <id>https://v.daum.net/v/20220820230818307</id>
-        <link href="https://v.daum.net/v/20220820230818307"/>
-        <updated>2022-08-20T14:16:13.160Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">23:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['밀양산불' 조사받던 60대 '진실밝혀달라' 유서 남기고 숨진 채 발견..산불관련 혐의부인]]></title>
-        <id>https://v.daum.net/v/20220820230102272</id>
-        <link href="https://v.daum.net/v/20220820230102272"/>
-        <updated>2022-08-20T14:16:13.163Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">23:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천공항과 함께하는 서해평화도로축제 성료]]></title>
-        <id>https://v.daum.net/v/20220820230052270</id>
-        <link href="https://v.daum.net/v/20220820230052270"/>
-        <updated>2022-08-20T14:16:13.163Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시내로 나온 발레 공연..풍성해진 야외 행사·축제]]></title>
-        <id>https://v.daum.net/v/20220820225512237</id>
-        <link href="https://v.daum.net/v/20220820225512237"/>
-        <updated>2022-08-20T14:16:13.163Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">22:55</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밤에 빛나는 광화문 광장..서울 관광 명소 될까]]></title>
-        <id>https://v.daum.net/v/20220820225214219</id>
-        <link href="https://v.daum.net/v/20220820225214219"/>
-        <updated>2022-08-20T14:16:13.169Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">22:52</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오후 9시 10만 7568명 확진..토요일 9주만에 감소세]]></title>
-        <id>https://v.daum.net/v/20220820225105208</id>
-        <link href="https://v.daum.net/v/20220820225105208"/>
-        <updated>2022-08-20T14:16:13.169Z</updated>
-        <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">22:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강원 주말 신규 확진자 3030명.. 사망자 하루새 5명 발생]]></title>
-        <id>https://v.daum.net/v/20220820225102204</id>
-        <link href="https://v.daum.net/v/20220820225102204"/>
-        <updated>2022-08-20T14:16:13.170Z</updated>
-        <content type="html"><![CDATA[쿠키뉴스<span class="txt_bar"> · </span><span class="info_time">22:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[늦게 비켜줬다고 구급차 운전자가 손가락 욕? [영상]]]></title>
-        <id>https://v.daum.net/v/20220820224419144</id>
-        <link href="https://v.daum.net/v/20220820224419144"/>
-        <updated>2022-08-20T14:16:13.170Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">22:44</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해녀항일운동 90주년.."유공자 선정 힘써야"]]></title>
-        <id>https://v.daum.net/v/20220820224014120</id>
-        <link href="https://v.daum.net/v/20220820224014120"/>
-        <updated>2022-08-20T14:16:13.170Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">22:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[취수원 갈등 재점화.."구미에 귀책 사유" vs "대구시 일방 파기"]]></title>
-        <id>https://v.daum.net/v/20220820224012119</id>
-        <link href="https://v.daum.net/v/20220820224012119"/>
-        <updated>2022-08-20T14:16:13.172Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">22:40</span>]]></content>
+        <title type="html"><![CDATA[광주 저수지 주차 차량서 40대 시신 발견..경찰 수사]]></title>
+        <id>https://v.daum.net/v/20220821001249652</id>
+        <link href="https://v.daum.net/v/20220821001249652"/>
+        <updated>2022-08-20T15:18:27.758Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">00:12</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[포항 골목길에 주차된 SUV 차량에서 화재]]></title>
-        <id>https://v.daum.net/v/20220820223900107</id>
-        <link href="https://v.daum.net/v/20220820223900107"/>
-        <updated>2022-08-20T14:16:13.173Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">22:39</span>]]></content>
+        <id>https://v.daum.net/v/20220821001014643</id>
+        <link href="https://v.daum.net/v/20220821001014643"/>
+        <updated>2022-08-20T15:18:27.758Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[설악산 등반에 나섰던 50대 20m 아래로 추락.. 중상]]></title>
-        <id>https://v.daum.net/v/20220820223601093</id>
-        <link href="https://v.daum.net/v/20220820223601093"/>
-        <updated>2022-08-20T14:16:13.174Z</updated>
-        <content type="html"><![CDATA[쿠키뉴스<span class="txt_bar"> · </span><span class="info_time">22:36</span>]]></content>
+        <title type="html"><![CDATA[서울 창동역 일대 상가건물 정전..상인·고객 불편]]></title>
+        <id>https://v.daum.net/v/20220821001012642</id>
+        <link href="https://v.daum.net/v/20220821001012642"/>
+        <updated>2022-08-20T15:18:27.759Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[수원 상가 건물 화재..100여 명 대피]]></title>
-        <id>https://v.daum.net/v/20220820223600091</id>
-        <link href="https://v.daum.net/v/20220820223600091"/>
-        <updated>2022-08-20T14:16:13.175Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">22:36</span>]]></content>
+        <title type="html"><![CDATA[[아살세툰] '빵식이 아재'의 빵 터지는 행복 비결]]></title>
+        <id>https://v.daum.net/v/20220821000649621</id>
+        <link href="https://v.daum.net/v/20220821000649621"/>
+        <updated>2022-08-20T15:18:27.761Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주광덕 남양주시장 "첨단산업 유치해 부자도시 조성"]]></title>
+        <id>https://v.daum.net/v/20220821000613619</id>
+        <link href="https://v.daum.net/v/20220821000613619"/>
+        <updated>2022-08-20T15:18:27.763Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[역사 속 오늘] '합격률 0.022%'.. 조선시대 출세의 길]]></title>
+        <id>https://v.daum.net/v/20220821000547615</id>
+        <link href="https://v.daum.net/v/20220821000547615"/>
+        <updated>2022-08-20T15:18:27.764Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[전립선 방광살리기] 뜬 눈으로 밤새운다!  야간뇨 해법은?]]></title>
+        <id>https://v.daum.net/v/20220821000356600</id>
+        <link href="https://v.daum.net/v/20220821000356600"/>
+        <updated>2022-08-20T15:18:27.765Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[금융 AI 스타트업 투디지트, 금융업계 러브콜 잇따라..기술력..사업화 인정]]></title>
+        <id>https://v.daum.net/v/20220821000109573</id>
+        <link href="https://v.daum.net/v/20220821000109573"/>
+        <updated>2022-08-20T15:18:27.769Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오세훈표 여성우선주차장 '가족우선'으로 바꾸는 까닭]]></title>
+        <id>https://v.daum.net/v/20220821000056568</id>
+        <link href="https://v.daum.net/v/20220821000056568"/>
+        <updated>2022-08-20T15:18:27.772Z</updated>
+        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이상민 장관 취임 100일..'이슈메이커' 된 행정안전부]]></title>
+        <id>https://v.daum.net/v/20220821000051567</id>
+        <link href="https://v.daum.net/v/20220821000051567"/>
+        <updated>2022-08-20T15:18:27.773Z</updated>
+        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[폴리스스토리] 불법유턴 곧바로 사이렌..'긴장 만랩' 암행순찰 단속현장]]></title>
+        <id>https://v.daum.net/v/20220821000030553</id>
+        <link href="https://v.daum.net/v/20220821000030553"/>
+        <updated>2022-08-20T15:18:27.774Z</updated>
+        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[104일 만에 '친윤' 이원석..검찰 중립성 도마에]]></title>
+        <id>https://v.daum.net/v/20220821000027551</id>
+        <link href="https://v.daum.net/v/20220821000027551"/>
+        <updated>2022-08-20T15:18:27.776Z</updated>
+        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
