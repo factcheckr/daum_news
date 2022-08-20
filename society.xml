@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/society</id>
     <title>다음 뉴스 ─ 전체기사 ─ 사회</title>
-    <updated>2022-08-20T17:20:34.355Z</updated>
+    <updated>2022-08-20T18:22:30.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[충남 서산에서 25인승 버스 화재..인명피해 없어]]></title>
+        <id>https://v.daum.net/v/20220821023902257</id>
+        <link href="https://v.daum.net/v/20220821023902257"/>
+        <updated>2022-08-20T18:21:08.274Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">02:39</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경기 김포시에서 SUV 차량 간 교통사고로 화재..5명 부상]]></title>
+        <id>https://v.daum.net/v/20220821023900256</id>
+        <link href="https://v.daum.net/v/20220821023900256"/>
+        <updated>2022-08-20T18:21:08.275Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">02:39</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김경일 파주시장 장학금 기탁..시민동참 요청]]></title>
         <id>https://v.daum.net/v/20220821020011141</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220821000547615"/>
         <updated>2022-08-20T15:18:27.764Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전립선 방광살리기] 뜬 눈으로 밤새운다!  야간뇨 해법은?]]></title>
-        <id>https://v.daum.net/v/20220821000356600</id>
-        <link href="https://v.daum.net/v/20220821000356600"/>
-        <updated>2022-08-20T15:18:27.765Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금융 AI 스타트업 투디지트, 금융업계 러브콜 잇따라..기술력..사업화 인정]]></title>
-        <id>https://v.daum.net/v/20220821000109573</id>
-        <link href="https://v.daum.net/v/20220821000109573"/>
-        <updated>2022-08-20T15:18:27.769Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
     </entry>
 </feed>
