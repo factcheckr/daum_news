@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-08-21T07:18:09.990Z</updated>
+    <updated>2022-08-21T08:23:00.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이디 6691화]]></title>
+        <id>https://v.daum.net/v/20220821171504418</id>
+        <link href="https://v.daum.net/v/20220821171504418"/>
+        <updated>2022-08-21T08:22:45.107Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[합리적 기대가설과 Fed의 금리인상 충격요법 [한상춘의 국제경제 읽기]]]></title>
+        <id>https://v.daum.net/v/20220821171501413</id>
+        <link href="https://v.daum.net/v/20220821171501413"/>
+        <updated>2022-08-21T08:22:45.107Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">17:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[박용석 만평] 8월 22일]]></title>
+        <id>https://v.daum.net/v/20220821170232141</id>
+        <link href="https://v.daum.net/v/20220821170232141"/>
+        <updated>2022-08-21T08:22:45.108Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">17:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ET시론]바이오헬스 산업, 지금이 골든타임]]></title>
+        <id>https://v.daum.net/v/20220821170106117</id>
+        <link href="https://v.daum.net/v/20220821170106117"/>
+        <updated>2022-08-21T08:22:45.109Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">17:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[ESG칼럼]기후 위기 시대 분산에너지 역할]]></title>
         <id>https://v.daum.net/v/20220821160139105</id>
@@ -69,7 +97,7 @@
         <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">13:01</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[ET시선]총체적 난국 교육부, 내부혁신부터]]></title>
+        <title type="html"><![CDATA[[ET시선]교육부, 내부 혁신부터]]></title>
         <id>https://v.daum.net/v/20220821125304899</id>
         <link href="https://v.daum.net/v/20220821125304899"/>
         <updated>2022-08-21T04:34:58.220Z</updated>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20220821123903786"/>
         <updated>2022-08-21T03:43:12.431Z</updated>
         <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">12:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기후변화, 거북에게 기회일까 위기일까?[김영준의 균형]]]></title>
-        <id>https://v.daum.net/v/20220821120010223</id>
-        <link href="https://v.daum.net/v/20220821120010223"/>
-        <updated>2022-08-21T03:43:12.433Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">12:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우영우가 던진 질문들]]></title>
-        <id>https://v.daum.net/v/20220821111816581</id>
-        <link href="https://v.daum.net/v/20220821111816581"/>
-        <updated>2022-08-21T03:43:12.434Z</updated>
-        <content type="html"><![CDATA[한겨레21<span class="txt_bar"> · </span><span class="info_time">11:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[투데이 窓]시니어 대상 스타트업이 간과하기 쉬운 세가지]]></title>
-        <id>https://v.daum.net/v/20220821090001260</id>
-        <link href="https://v.daum.net/v/20220821090001260"/>
-        <updated>2022-08-21T01:46:36.036Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">09:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[죽기 직전에야 알게 되는 복 [줄리아  투자노트]]]></title>
-        <id>https://v.daum.net/v/20220821073101579</id>
-        <link href="https://v.daum.net/v/20220821073101579"/>
-        <updated>2022-08-20T23:18:18.298Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">07:31</span>]]></content>
     </entry>
 </feed>
