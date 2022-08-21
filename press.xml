@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-08-21T10:20:39.239Z</updated>
+    <updated>2022-08-21T11:17:00.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고용노동부, 임금체불 걱정 없는 명절을 위해 총력 대응]]></title>
+        <id>https://v.daum.net/v/20220821200551812</id>
+        <link href="https://v.daum.net/v/20220821200551812"/>
+        <updated>2022-08-21T11:16:51.524Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">20:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[해남군, 귀농귀촌 체류형지원센터 개소]]></title>
         <id>https://v.daum.net/v/20220821164742868</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220821113558872</id>
         <link href="https://v.daum.net/v/20220821113558872"/>
         <updated>2022-08-21T03:43:21.775Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">11:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[추석 명절, 우리 농식품에 마음을 담아 보내세요]]></title>
-        <id>https://v.daum.net/v/20220821113558871</id>
-        <link href="https://v.daum.net/v/20220821113558871"/>
-        <updated>2022-08-21T03:43:21.776Z</updated>
         <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">11:35</span>]]></content>
     </entry>
 </feed>
