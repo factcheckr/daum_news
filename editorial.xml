@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-08-23T16:26:33.235Z</updated>
+    <updated>2022-08-23T17:22:52.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]K콘텐츠, 龍의 등에 올라타기]]></title>
+        <id>https://v.daum.net/v/20220824020301197</id>
+        <link href="https://v.daum.net/v/20220824020301197"/>
+        <updated>2022-08-23T17:22:34.829Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중앙시평] 한·중 수교 30년: 대하소하, 사소사대]]></title>
         <id>https://v.daum.net/v/20220824010435036</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220824001301800"/>
         <updated>2022-08-23T15:20:12.671Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[취재수첩] 기재부의 뒤늦은 BEPS 대응]]></title>
-        <id>https://v.daum.net/v/20220824001217797</id>
-        <link href="https://v.daum.net/v/20220824001217797"/>
-        <updated>2022-08-23T15:20:12.671Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:12</span>]]></content>
     </entry>
 </feed>
