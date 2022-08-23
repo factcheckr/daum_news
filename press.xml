@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-08-23T10:23:38.692Z</updated>
+    <updated>2022-08-23T11:17:24.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Firmenich Receives SBTi Approval For Net-Zero Emissions Target]]></title>
+        <id>https://v.daum.net/v/20220823201404888</id>
+        <link href="https://v.daum.net/v/20220823201404888"/>
+        <updated>2022-08-23T11:17:15.669Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:14</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 아시아 지역 최대의 언더웨어 박람회 SIUF 2022, 이달 10~12일 개최]]></title>
+        <id>https://v.daum.net/v/20220823195049443</id>
+        <link href="https://v.daum.net/v/20220823195049443"/>
+        <updated>2022-08-23T11:17:15.669Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">19:50</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] 2022 스마트 차이나 엑스포 개막, 중국의 국제 첨단 기술 협력 촉진]]></title>
         <id>https://v.daum.net/v/20220823190903536</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220823180019834"/>
         <updated>2022-08-23T09:19:59.454Z</updated>
         <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">18:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['굳건한 인기' 뉴진스, 'Attention' 멜론 일간차트 12일 연속 1위]]></title>
-        <id>https://v.daum.net/v/20220823175018503</id>
-        <link href="https://v.daum.net/v/20220823175018503"/>
-        <updated>2022-08-23T09:19:59.455Z</updated>
-        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">17:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한화에어로스페이스, '사랑의 리어카' 합천군에 전달]]></title>
-        <id>https://v.daum.net/v/20220823173717062</id>
-        <link href="https://v.daum.net/v/20220823173717062"/>
-        <updated>2022-08-23T09:19:59.456Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:37</span>]]></content>
     </entry>
 </feed>
