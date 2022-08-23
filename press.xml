@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-08-23T13:40:28.353Z</updated>
+    <updated>2022-08-23T14:18:42.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Skalex, 모든 규모 기업 위한 소프트웨어 컨설팅 및 개발 서비스 제공]]></title>
+        <id>https://v.daum.net/v/20220823230531303</id>
+        <link href="https://v.daum.net/v/20220823230531303"/>
+        <updated>2022-08-23T14:18:34.408Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">23:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(보도참고) 유휴·저활용 국유재산 매각은 경쟁입찰 방식을 적극 활용할 계획]]></title>
         <id>https://v.daum.net/v/20220823220552693</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220823181703354"/>
         <updated>2022-08-23T09:19:59.442Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">18:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] Sasol posts strong financial results supported by macroeconomic]]></title>
-        <id>https://v.daum.net/v/20220823181116152</id>
-        <link href="https://v.daum.net/v/20220823181116152"/>
-        <updated>2022-08-23T09:19:59.442Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">18:11</span>]]></content>
     </entry>
 </feed>
