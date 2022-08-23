@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-08-23T12:36:25.498Z</updated>
+    <updated>2022-08-23T13:40:28.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(보도참고) 유휴·저활용 국유재산 매각은 경쟁입찰 방식을 적극 활용할 계획]]></title>
+        <id>https://v.daum.net/v/20220823220552693</id>
+        <link href="https://v.daum.net/v/20220823220552693"/>
+        <updated>2022-08-23T13:40:18.287Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">22:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서병수 대통령 특사, 타지키스탄 방문 결과]]></title>
         <id>https://v.daum.net/v/20220823213528111</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220823181116152"/>
         <updated>2022-08-23T09:19:59.442Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">18:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CIX, 미니 5집 국내외 차트 진입 성공]]></title>
-        <id>https://v.daum.net/v/20220823181020131</id>
-        <link href="https://v.daum.net/v/20220823181020131"/>
-        <updated>2022-08-23T09:19:59.443Z</updated>
-        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">18:10</span>]]></content>
     </entry>
 </feed>
