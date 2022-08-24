@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-08-24T20:21:12.092Z</updated>
+    <updated>2022-08-24T21:17:51.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[김지현의 IT세상]인터넷이 끊기면 벌어지는 일들]]></title>
+        <id>https://v.daum.net/v/20220825061528610</id>
+        <link href="https://v.daum.net/v/20220825061528610"/>
+        <updated>2022-08-24T21:17:34.445Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">06:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Xiao Wang] Real lesson in Kansas vote on Roe]]></title>
+        <id>https://v.daum.net/v/20220825053120060</id>
+        <link href="https://v.daum.net/v/20220825053120060"/>
+        <updated>2022-08-24T21:17:34.445Z</updated>
+        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:31</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Kim Myong-sik] To end the vicious circle of political revenge]]></title>
+        <id>https://v.daum.net/v/20220825053119057</id>
+        <link href="https://v.daum.net/v/20220825053119057"/>
+        <updated>2022-08-24T21:17:34.446Z</updated>
+        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:31</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Editorial] Currency turmoil]]></title>
+        <id>https://v.daum.net/v/20220825053038050</id>
+        <link href="https://v.daum.net/v/20220825053038050"/>
+        <updated>2022-08-24T21:17:34.447Z</updated>
+        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[전민식의 달달한 삶] 판수/소설가]]></title>
         <id>https://v.daum.net/v/20220825050434825</id>
@@ -62,7 +90,7 @@
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:04</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[김보라미의 인권에 동그라미] AI 얼굴인식 추적 논란/ 디케 변호사]]></title>
+        <title type="html"><![CDATA[[김보라미의 인권에 동그라미] AI 얼굴인식 추적 논란/디케 변호사]]></title>
         <id>https://v.daum.net/v/20220825050421814</id>
         <link href="https://v.daum.net/v/20220825050421814"/>
         <updated>2022-08-24T20:20:55.590Z</updated>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20220825050415812"/>
         <updated>2022-08-24T20:20:55.592Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설]복덩이 호주 가스전, 해외자원개발 이유 보여줬다]]></title>
-        <id>https://v.daum.net/v/20220825050034670</id>
-        <link href="https://v.daum.net/v/20220825050034670"/>
-        <updated>2022-08-24T20:20:55.594Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">05:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설]'약자복지' 특단의 조치, 그물 구멍부터 확실히 메워야]]></title>
-        <id>https://v.daum.net/v/20220825050013633</id>
-        <link href="https://v.daum.net/v/20220825050013633"/>
-        <updated>2022-08-24T20:20:55.595Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">05:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기억할 오늘] 웨딩드레스로 변신한 구명의 낙하산]]></title>
-        <id>https://v.daum.net/v/20220825043206436</id>
-        <link href="https://v.daum.net/v/20220825043206436"/>
-        <updated>2022-08-24T20:20:55.596Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세 모녀 사망사건 재발을 막아 줄 '긴급복지지원제도' [기고]]]></title>
-        <id>https://v.daum.net/v/20220825043158435</id>
-        <link href="https://v.daum.net/v/20220825043158435"/>
-        <updated>2022-08-24T20:20:55.597Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:31</span>]]></content>
     </entry>
 </feed>
