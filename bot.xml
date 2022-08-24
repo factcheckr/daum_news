@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-08-24T04:10:49.382Z</updated>
+    <updated>2022-08-24T05:44:55.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[광주 봉선동 포스코더샵아파트 84㎡ 8억5000만원.. 역대 최고가]]></title>
+        <id>https://v.daum.net/v/20220824131042042</id>
+        <link href="https://v.daum.net/v/20220824131042042"/>
+        <updated>2022-08-24T05:44:54.918Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:10</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인천 마전동 마전영남탑스빌 153㎡ 4억4600만원에 거래]]></title>
         <id>https://v.daum.net/v/20220824130534889</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220824120101214"/>
         <updated>2022-08-24T04:10:48.794Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가상화폐 칠리즈 43원 상승한 348원에 거래]]></title>
-        <id>https://v.daum.net/v/20220824063121319</id>
-        <link href="https://v.daum.net/v/20220824063121319"/>
-        <updated>2022-08-23T22:19:36.082Z</updated>
-        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">06:31</span>]]></content>
     </entry>
 </feed>
