@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2022-08-24T18:33:14.971Z</updated>
+    <updated>2022-08-24T19:17:11.751Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['우영우 팽나무' 천연기념물 된다]]></title>
+        <id>https://v.daum.net/v/20220825040628340</id>
+        <link href="https://v.daum.net/v/20220825040628340"/>
+        <updated>2022-08-24T19:16:25.561Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:06</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족과 특별한 추억 만들까..기억에 남는 선물을 나눌까]]></title>
         <id>https://v.daum.net/v/20220825031606224</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220825030906145"/>
         <updated>2022-08-24T18:32:25.763Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">03:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[갑자기 시간이 멈췄다.. 아, 사랑에 빠졌군]]></title>
-        <id>https://v.daum.net/v/20220825030809133</id>
-        <link href="https://v.daum.net/v/20220825030809133"/>
-        <updated>2022-08-24T18:32:25.764Z</updated>
-        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">03:08</span>]]></content>
     </entry>
 </feed>
