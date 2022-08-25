@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-08-25T13:42:57.848Z</updated>
+    <updated>2022-08-25T14:18:45.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[은행권청년창업재단 디캠프, 데스커와 함께 100회차 디데이 양양 해변에서 개최]]></title>
+        <id>https://v.daum.net/v/20220825231500555</id>
+        <link href="https://v.daum.net/v/20220825231500555"/>
+        <updated>2022-08-25T14:18:19.477Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">23:15</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[침수·화재·경사지..내 주변의 위험들 미리 알려준다]]></title>
         <id>https://v.daum.net/v/20220825222605035</id>
@@ -34,7 +41,7 @@
         <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">22:07</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["화웨이 폰 사야 보조금 40만원"..대놓고 삼성 차별하는 중국]]></title>
+        <title type="html"><![CDATA[삼성 쏙 빼고 '보조금 40만원' 살포..중국의 노골적 차별]]></title>
         <id>https://v.daum.net/v/20220825220102640</id>
         <link href="https://v.daum.net/v/20220825220102640"/>
         <updated>2022-08-25T13:42:32.916Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220825203301175"/>
         <updated>2022-08-25T12:37:43.093Z</updated>
         <content type="html"><![CDATA[게임동아<span class="txt_bar"> · </span><span class="info_time">20:33</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오태석 과기정통부 1차관 "수소기술 R&D 사업 적극 추진"]]></title>
-        <id>https://v.daum.net/v/20220825201200581</id>
-        <link href="https://v.daum.net/v/20220825201200581"/>
-        <updated>2022-08-25T12:37:43.095Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">20:12</span>]]></content>
     </entry>
 </feed>
