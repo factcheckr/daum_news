@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-08-25T12:53:46.045Z</updated>
+    <updated>2022-08-25T13:42:57.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 아토팜, 폭우에 취약한 아동 가정 위해 6천만 원 상당 지원]]></title>
+        <id>https://v.daum.net/v/20220825214125281</id>
+        <link href="https://v.daum.net/v/20220825214125281"/>
+        <updated>2022-08-25T13:42:49.503Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">21:41</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한-호주 국장급 인도-태평양 대화 개최 (8.25.) 결과]]></title>
         <id>https://v.daum.net/v/20220825203528238</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220825200224368</id>
         <link href="https://v.daum.net/v/20220825200224368"/>
         <updated>2022-08-25T12:37:58.634Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현대모비스, 사업장마다 에너지 관리시스템 구축..기후변화 적극 대응]]></title>
-        <id>https://v.daum.net/v/20220825200219366</id>
-        <link href="https://v.daum.net/v/20220825200219366"/>
-        <updated>2022-08-25T12:37:58.635Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:02</span>]]></content>
     </entry>
 </feed>
