@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2022-08-25T16:26:26.602Z</updated>
+    <updated>2022-08-25T17:21:55.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[산업부 소관 41개 공공기관, 내년까지 예산 1780억원 줄인다]]></title>
+        <id>https://v.daum.net/v/20220826014616767</id>
+        <link href="https://v.daum.net/v/20220826014616767"/>
+        <updated>2022-08-25T17:20:49.658Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">01:46</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[관세청, 추석 앞두고 수출입화물 통관 특별지원 나서]]></title>
         <id>https://v.daum.net/v/20220826011132685</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220826010434634</id>
         <link href="https://v.daum.net/v/20220826010434634"/>
         <updated>2022-08-25T16:25:15.702Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[농협유통, 국산 농·축·수산물 선물세트 선보여]]></title>
-        <id>https://v.daum.net/v/20220826010405628</id>
-        <link href="https://v.daum.net/v/20220826010405628"/>
-        <updated>2022-08-25T16:25:15.704Z</updated>
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:04</span>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-08-25T16:26:26.604Z</updated>
+    <updated>2022-08-25T17:21:55.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공원 백 개 만든들 이거 안 바꾸면 허당..끔찍한 간판들 [이규화의 지리각각]]]></title>
+        <id>https://v.daum.net/v/20220826021109814</id>
+        <link href="https://v.daum.net/v/20220826021109814"/>
+        <updated>2022-08-25T17:21:38.895Z</updated>
+        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">02:11</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]금융규제샌드박스 기대사항]]></title>
+        <id>https://v.daum.net/v/20220826020301805</id>
+        <link href="https://v.daum.net/v/20220826020301805"/>
+        <updated>2022-08-25T17:21:38.895Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중앙시평] 외양간과 사람의 가치]]></title>
         <id>https://v.daum.net/v/20220826005615554</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220826002013424"/>
         <updated>2022-08-25T15:20:40.267Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이슈 프리즘] 도어스테핑과 스타 장관]]></title>
-        <id>https://v.daum.net/v/20220826002003421</id>
-        <link href="https://v.daum.net/v/20220826002003421"/>
-        <updated>2022-08-25T15:20:40.268Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[천자 칼럼] 세계 3대 아트페어]]></title>
-        <id>https://v.daum.net/v/20220826001806414</id>
-        <link href="https://v.daum.net/v/20220826001806414"/>
-        <updated>2022-08-25T15:20:40.268Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:18</span>]]></content>
     </entry>
 </feed>
