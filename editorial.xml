@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-08-26T09:19:59.111Z</updated>
+    <updated>2022-08-26T10:22:27.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[천남수의 視線] 복수는 '나의 것'인가]]></title>
+        <id>https://v.daum.net/v/20220826185411422</id>
+        <link href="https://v.daum.net/v/20220826185411422"/>
+        <updated>2022-08-26T10:22:08.735Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">18:54</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] '규제완화 속도전'에 필요한 규제까지 날림 청산하나]]></title>
         <id>https://v.daum.net/v/20220826181504767</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220826161114065"/>
         <updated>2022-08-26T07:24:24.895Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">16:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이제 취재하고 싶습니다]]></title>
-        <id>https://v.daum.net/v/20220826153855063</id>
-        <link href="https://v.daum.net/v/20220826153855063"/>
-        <updated>2022-08-26T07:24:24.897Z</updated>
-        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">15:38</span>]]></content>
     </entry>
 </feed>
