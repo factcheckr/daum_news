@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-08-26T20:21:07.671Z</updated>
+    <updated>2022-08-26T21:17:21.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[특별기고] 더욱 가까워진 우주시대..100년 뒤에는 무슨 일이]]></title>
+        <id>https://v.daum.net/v/20220827060020245</id>
+        <link href="https://v.daum.net/v/20220827060020245"/>
+        <updated>2022-08-26T21:17:03.629Z</updated>
+        <content type="html"><![CDATA[동아사이언스<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이승만의 국가보안법 활용법]]></title>
         <id>https://v.daum.net/v/20220827050506986</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220827032416698"/>
         <updated>2022-08-26T19:16:29.121Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 이집트 원전 참여로 튼 물꼬, 진짜 원전 수출로 이어가야]]></title>
-        <id>https://v.daum.net/v/20220827032221697</id>
-        <link href="https://v.daum.net/v/20220827032221697"/>
-        <updated>2022-08-26T18:23:28.790Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:22</span>]]></content>
     </entry>
 </feed>
