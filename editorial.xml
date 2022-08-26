@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-08-26T22:20:12.915Z</updated>
+    <updated>2022-08-26T23:19:52.895Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[김학주의 투자바이블]투자와 투기의 차이]]></title>
+        <id>https://v.daum.net/v/20220827073026247</id>
+        <link href="https://v.daum.net/v/20220827073026247"/>
+        <updated>2022-08-26T23:19:37.650Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">07:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅을 가두려는 사람들 [하재근의 이슈분석]]]></title>
         <id>https://v.daum.net/v/20220827070708056</id>
@@ -48,7 +55,7 @@
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[특별기고] 더욱 가까워진 우주시대..100년 뒤에는 무슨 일이]]></title>
+        <title type="html"><![CDATA[[특별기고] 더욱 가까워진 우주시대..100년 뒤를 상상한다]]></title>
         <id>https://v.daum.net/v/20220827060020245</id>
         <link href="https://v.daum.net/v/20220827060020245"/>
         <updated>2022-08-26T21:17:03.629Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220827041057786"/>
         <updated>2022-08-26T19:16:29.112Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토 카페] 가을걷이]]></title>
-        <id>https://v.daum.net/v/20220827040710775</id>
-        <link href="https://v.daum.net/v/20220827040710775"/>
-        <updated>2022-08-26T19:16:29.114Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:07</span>]]></content>
     </entry>
 </feed>
