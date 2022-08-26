@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-08-26T12:37:20.198Z</updated>
+    <updated>2022-08-26T13:38:55.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[창원서 극한 기술 검증.."소재 개발 메카 기대"]]></title>
+        <id>https://v.daum.net/v/20220826220556078</id>
+        <link href="https://v.daum.net/v/20220826220556078"/>
+        <updated>2022-08-26T13:38:28.330Z</updated>
+        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">22:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[리뷰] '스팀덱 꼭 사야 돼?' 게임에 특화된 휴대용 PC '아야네오 에어' 해보니]]></title>
+        <id>https://v.daum.net/v/20220826213900793</id>
+        <link href="https://v.daum.net/v/20220826213900793"/>
+        <updated>2022-08-26T13:38:28.333Z</updated>
+        <content type="html"><![CDATA[게임동아<span class="txt_bar"> · </span><span class="info_time">21:39</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[환경영향평가도 '규제 완화'..'헛발질 정책' 반발]]></title>
+        <id>https://v.daum.net/v/20220826213810789</id>
+        <link href="https://v.daum.net/v/20220826213810789"/>
+        <updated>2022-08-26T13:38:28.333Z</updated>
+        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">21:38</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화학물질, 유해성 따라 규제 차등화]]></title>
         <id>https://v.daum.net/v/20220826211520454</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220826194958346"/>
         <updated>2022-08-26T11:17:24.551Z</updated>
         <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">19:49</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[창원서 극한 기술 검증.."소재 개발 메카 기대"]]></title>
-        <id>https://v.daum.net/v/20220826194441254</id>
-        <link href="https://v.daum.net/v/20220826194441254"/>
-        <updated>2022-08-26T11:17:24.551Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">19:44</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전기차 확산 막아선 대외 불확실성]]></title>
-        <id>https://v.daum.net/v/20220826194200188</id>
-        <link href="https://v.daum.net/v/20220826194200188"/>
-        <updated>2022-08-26T11:17:24.560Z</updated>
-        <content type="html"><![CDATA[IT동아<span class="txt_bar"> · </span><span class="info_time">19:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[컴투스 그룹, 조직 개편으로 글로벌 경쟁력 강화 나선다]]></title>
-        <id>https://v.daum.net/v/20220826191359727</id>
-        <link href="https://v.daum.net/v/20220826191359727"/>
-        <updated>2022-08-26T10:22:00.546Z</updated>
-        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">19:13</span>]]></content>
     </entry>
 </feed>
