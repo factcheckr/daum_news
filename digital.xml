@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-08-27T13:31:06.439Z</updated>
+    <updated>2022-08-27T14:18:47.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어? 목성에도 고리가 있었네!]]></title>
+        <id>https://v.daum.net/v/20220827224919084</id>
+        <link href="https://v.daum.net/v/20220827224919084"/>
+        <updated>2022-08-27T14:18:17.496Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">22:49</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김해천문대, 다음 달부터 '토성·목성' 관측회]]></title>
         <id>https://v.daum.net/v/20220827214231564</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220827173002548"/>
         <updated>2022-08-27T09:18:29.618Z</updated>
         <content type="html"><![CDATA[게임동아<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 여성발명왕엑스포]]></title>
-        <id>https://v.daum.net/v/20220827171812469</id>
-        <link href="https://v.daum.net/v/20220827171812469"/>
-        <updated>2022-08-27T08:23:18.212Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">17:18</span>]]></content>
     </entry>
 </feed>
