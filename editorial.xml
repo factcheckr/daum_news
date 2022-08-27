@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-08-27T06:23:42.327Z</updated>
+    <updated>2022-08-27T07:18:06.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[尹정부 지방교부세 개혁, 이렇게 가야 성공한다]]></title>
+        <id>https://v.daum.net/v/20220827161513738</id>
+        <link href="https://v.daum.net/v/20220827161513738"/>
+        <updated>2022-08-27T07:17:50.115Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">16:15</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['심심한 사과'를 '싱거운 사과'로 해독하는 사람들 [쓴소리 곧은 소리]]]></title>
         <id>https://v.daum.net/v/20220827140202541</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220827060020245"/>
         <updated>2022-08-26T21:17:03.629Z</updated>
         <content type="html"><![CDATA[동아사이언스<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이승만의 국가보안법 활용법]]></title>
-        <id>https://v.daum.net/v/20220827050506986</id>
-        <link href="https://v.daum.net/v/20220827050506986"/>
-        <updated>2022-08-26T20:20:51.170Z</updated>
-        <content type="html"><![CDATA[미디어오늘<span class="txt_bar"> · </span><span class="info_time">05:05</span>]]></content>
     </entry>
 </feed>
