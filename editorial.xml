@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-08-27T09:18:56.081Z</updated>
+    <updated>2022-08-27T10:20:38.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[그림사설] 여·야·정 협의체 만들고 특별감찰관 임명해야]]></title>
+        <id>https://v.daum.net/v/20220827190521093</id>
+        <link href="https://v.daum.net/v/20220827190521093"/>
+        <updated>2022-08-27T10:20:21.834Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">19:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[ET시론]중소기업 ESG 경영의 해답 '맞춤형 원스톱 지원'에 있다]]></title>
         <id>https://v.daum.net/v/20220827180012072</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220827070031932"/>
         <updated>2022-08-26T22:19:57.309Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데스크 칼럼] 한가한 부동산 정책, 오답노트부터 다시 보라]]></title>
-        <id>https://v.daum.net/v/20220827070026923</id>
-        <link href="https://v.daum.net/v/20220827070026923"/>
-        <updated>2022-08-26T22:19:57.311Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
     </entry>
 </feed>
