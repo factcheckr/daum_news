@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2022-08-28T16:25:32.746Z</updated>
+    <updated>2022-08-28T17:20:25.918Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[양세형 "달라서 끌렸던 연인, 나중에 헤어지는 이유는.."]]></title>
+        <id>https://v.daum.net/v/20220829020014915</id>
+        <link href="https://v.daum.net/v/20220829020014915"/>
+        <updated>2022-08-28T17:19:43.526Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">02:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['우영우' 주종혁 "유일한 빌런? 미움 받아도 즐거웠어요"[인터뷰]]]></title>
+        <id>https://v.daum.net/v/20220829012511860</id>
+        <link href="https://v.daum.net/v/20220829012511860"/>
+        <updated>2022-08-28T17:19:43.533Z</updated>
+        <content type="html"><![CDATA[스포츠한국<span class="txt_bar"> · </span><span class="info_time">01:25</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이초희 "이경규, 관상 좋지 않다며 캐스팅 반대" 폭로]]></title>
         <id>https://v.daum.net/v/20220829012104849</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220829002436645"/>
         <updated>2022-08-28T16:24:50.891Z</updated>
         <content type="html"><![CDATA[MBC연예<span class="txt_bar"> · </span><span class="info_time">00:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정소민, '환혼'과 작별 인사 "그동안 많은 사랑 감사" [스타IN★]]]></title>
-        <id>https://v.daum.net/v/20220829001953628</id>
-        <link href="https://v.daum.net/v/20220829001953628"/>
-        <updated>2022-08-28T16:24:50.892Z</updated>
-        <content type="html"><![CDATA[스타뉴스<span class="txt_bar"> · </span><span class="info_time">00:19</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강승윤&이승훈 "퇴근길 책임져드려요" '홈즈!']]></title>
-        <id>https://v.daum.net/v/20220829001635616</id>
-        <link href="https://v.daum.net/v/20220829001635616"/>
-        <updated>2022-08-28T15:19:48.211Z</updated>
-        <content type="html"><![CDATA[MBC연예<span class="txt_bar"> · </span><span class="info_time">00:16</span>]]></content>
     </entry>
 </feed>
