@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-08-28T13:31:19.544Z</updated>
+    <updated>2022-08-28T14:17:46.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[과학 한스푼] 아르테미스 로켓 SLS..아폴로 로켓보다 작지만 강하다!]]></title>
+        <id>https://v.daum.net/v/20220828223123098</id>
+        <link href="https://v.daum.net/v/20220828223123098"/>
+        <updated>2022-08-28T14:17:23.313Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">22:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삼성전자, '작업자 유해물질에 노출' 보도에 "명백히 사실과 달라 유감"]]></title>
         <id>https://v.daum.net/v/20220828221710994</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">22:17</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[새 아이폰 가격 '230만원?'..애플빠 외면?, 삼성 반사이익 얻나]]></title>
+        <title type="html"><![CDATA[새 아이폰 가격 '230만원?'..애플빠 외면? 삼성 반사이익 얻나]]></title>
         <id>https://v.daum.net/v/20220828220819945</id>
         <link href="https://v.daum.net/v/20220828220819945"/>
         <updated>2022-08-28T13:30:54.334Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220828193445056"/>
         <updated>2022-08-28T11:15:55.458Z</updated>
         <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">19:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[젠지 창단 후 첫 우승..T1에 3-0 완승[LCK]]]></title>
-        <id>https://v.daum.net/v/20220828193212028</id>
-        <link href="https://v.daum.net/v/20220828193212028"/>
-        <updated>2022-08-28T11:15:55.462Z</updated>
-        <content type="html"><![CDATA[스포츠경향<span class="txt_bar"> · </span><span class="info_time">19:32</span>]]></content>
     </entry>
 </feed>
