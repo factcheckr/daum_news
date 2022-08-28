@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-08-28T19:16:35.820Z</updated>
+    <updated>2022-08-28T20:21:05.961Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원주 시장·구도심 활성화 공모 잇달아 도전]]></title>
+        <id>https://v.daum.net/v/20220829050034758</id>
+        <link href="https://v.daum.net/v/20220829050034758"/>
+        <updated>2022-08-28T20:20:57.346Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">05:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[문화예술로 돌아온 '양구 배꼽축제' 내달 2일 개막]]></title>
+        <id>https://v.daum.net/v/20220829050025736</id>
+        <link href="https://v.daum.net/v/20220829050025736"/>
+        <updated>2022-08-28T20:20:57.350Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">05:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오감만족 가을축제풍년] 진품 공룡 화석부터 퍼레이드까지   중생대로 떠나는 시간여행 즐겨요]]></title>
         <id>https://v.daum.net/v/20220829000938575</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220829000437527"/>
         <updated>2022-08-28T15:20:19.394Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[함께하는 금융] 맞춤형 커머스 브랜드 '띵'으로 MZ세대의 취향저격!]]></title>
-        <id>https://v.daum.net/v/20220829000357520</id>
-        <link href="https://v.daum.net/v/20220829000357520"/>
-        <updated>2022-08-28T15:20:19.395Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오감만족 가을축제 풍년] 다양한 전시와 체험행사 통해 유기농 산업의 의미와 가치 전한다]]></title>
-        <id>https://v.daum.net/v/20220829000353519</id>
-        <link href="https://v.daum.net/v/20220829000353519"/>
-        <updated>2022-08-28T15:20:19.397Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
     </entry>
 </feed>
