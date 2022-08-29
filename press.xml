@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-08-29T18:24:26.074Z</updated>
+    <updated>2022-08-29T19:17:02.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['완성형'으로 돌아온 삼성 폴더블..주름도 싹 사라졌네]]></title>
+        <id>https://v.daum.net/v/20220830040311077</id>
+        <link href="https://v.daum.net/v/20220830040311077"/>
+        <updated>2022-08-29T19:16:54.012Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">04:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022년 제18차 건강보험정책심의위원회 개최 (8.29)]]></title>
         <id>https://v.daum.net/v/20220830023525692</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220830000457169</id>
         <link href="https://v.daum.net/v/20220830000457169"/>
         <updated>2022-08-29T15:21:40.485Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[비즈스토리] '다시 지구를 새롭게' .. 고객과 함께하는 'FUN ESG' 활동 강화]]></title>
-        <id>https://v.daum.net/v/20220830000454168</id>
-        <link href="https://v.daum.net/v/20220830000454168"/>
-        <updated>2022-08-29T15:21:40.487Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
     </entry>
 </feed>
