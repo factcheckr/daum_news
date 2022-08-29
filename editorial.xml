@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-08-29T16:27:08.584Z</updated>
+    <updated>2022-08-29T17:24:48.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]MZ세대 노동관]]></title>
+        <id>https://v.daum.net/v/20220830020501661</id>
+        <link href="https://v.daum.net/v/20220830020501661"/>
+        <updated>2022-08-29T17:24:32.257Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]헤어질 결심]]></title>
+        <id>https://v.daum.net/v/20220830020301658</id>
+        <link href="https://v.daum.net/v/20220830020301658"/>
+        <updated>2022-08-29T17:24:32.259Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[중앙시평] 신뢰 감축 시대]]></title>
+        <id>https://v.daum.net/v/20220830012724577</id>
+        <link href="https://v.daum.net/v/20220830012724577"/>
+        <updated>2022-08-29T17:24:32.260Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">01:27</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[남정호의 시시각각] '실리콘 방패' 반도체의 미국행 비상]]></title>
         <id>https://v.daum.net/v/20220830012523572</id>
@@ -48,7 +69,7 @@
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">01:03</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[서소문포럼] 이재명 대표 취임 일성 독해]]></title>
+        <title type="html"><![CDATA[[서소문 포럼] 이재명 대표 취임 일성 독해]]></title>
         <id>https://v.daum.net/v/20220830010122451</id>
         <link href="https://v.daum.net/v/20220830010122451"/>
         <updated>2022-08-29T16:26:51.931Z</updated>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220830005102389"/>
         <updated>2022-08-29T16:26:51.941Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[취재수첩] 문재인 케어 'CT 할인'에 밀린 소아희귀질환 지원]]></title>
-        <id>https://v.daum.net/v/20220830001303273</id>
-        <link href="https://v.daum.net/v/20220830001303273"/>
-        <updated>2022-08-29T15:21:32.283Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[홍영식 칼럼] '더불어재명당'에 드리운 그늘]]></title>
-        <id>https://v.daum.net/v/20220830001301272</id>
-        <link href="https://v.daum.net/v/20220830001301272"/>
-        <updated>2022-08-29T15:21:32.283Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[최준호의 사이언스&] 26일간 124만km 날았다, 한국 첫 달탐사선 '다누리' 순항 중]]></title>
-        <id>https://v.daum.net/v/20220830001237270</id>
-        <link href="https://v.daum.net/v/20220830001237270"/>
-        <updated>2022-08-29T15:21:32.285Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:12</span>]]></content>
     </entry>
 </feed>
