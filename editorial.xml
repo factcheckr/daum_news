@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-08-29T13:41:28.714Z</updated>
+    <updated>2022-08-29T14:20:18.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[WT논평] The successful counterterrorism strike]]></title>
+        <id>https://v.daum.net/v/20220829231846887</id>
+        <link href="https://v.daum.net/v/20220829231846887"/>
+        <updated>2022-08-29T14:20:00.446Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">23:18</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[기고] 가을 길목에서 만나는 농업기술의 매력]]></title>
+        <id>https://v.daum.net/v/20220829231548874</id>
+        <link href="https://v.daum.net/v/20220829231548874"/>
+        <updated>2022-08-29T14:20:00.448Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">23:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[오병상의 코멘터리] 윤석열의 '이준석 포용'이 해법이다]]></title>
+        <id>https://v.daum.net/v/20220829231229864</id>
+        <link href="https://v.daum.net/v/20220829231229864"/>
+        <updated>2022-08-29T14:20:00.448Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">23:12</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[선정적인 언론의 '몹쓸' 성범죄 보도 언제까지 봐야 하나]]></title>
         <id>https://v.daum.net/v/20220829222725642</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220829200340189"/>
         <updated>2022-08-29T11:17:57.577Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Today's Cartoon] 2022.08.30]]></title>
-        <id>https://v.daum.net/v/20220829200139163</id>
-        <link href="https://v.daum.net/v/20220829200139163"/>
-        <updated>2022-08-29T11:17:57.578Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Korea easygoing on China's boycotts]]></title>
-        <id>https://v.daum.net/v/20220829195949126</id>
-        <link href="https://v.daum.net/v/20220829195949126"/>
-        <updated>2022-08-29T11:17:57.579Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:59</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 충청 메가시티 시동, 부·울·경 타산지석 삼아야]]></title>
-        <id>https://v.daum.net/v/20220829193438854</id>
-        <link href="https://v.daum.net/v/20220829193438854"/>
-        <updated>2022-08-29T11:17:57.579Z</updated>
-        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">19:34</span>]]></content>
     </entry>
 </feed>
