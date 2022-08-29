@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-08-29T11:18:14.289Z</updated>
+    <updated>2022-08-29T12:39:18.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023학년도 대학수학능력시험 9월 모의평가 실시]]></title>
+        <id>https://v.daum.net/v/20220829203525495</id>
+        <link href="https://v.daum.net/v/20220829203525495"/>
+        <updated>2022-08-29T12:39:09.747Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">20:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] CATL signs five-year strategic cooperation agreement with SERES,]]></title>
         <id>https://v.daum.net/v/20220829200700220</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220829181149363"/>
         <updated>2022-08-29T09:20:08.582Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">18:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['굿잡' 정일우 액션부터 음문석 빙의 연기까지..명장면 뒷모습 공개]]></title>
-        <id>https://v.daum.net/v/20220829181024322</id>
-        <link href="https://v.daum.net/v/20220829181024322"/>
-        <updated>2022-08-29T09:20:08.583Z</updated>
-        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">18:10</span>]]></content>
     </entry>
 </feed>
