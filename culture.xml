@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2022-08-31T16:27:46.398Z</updated>
+    <updated>2022-08-31T17:24:06.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[개방 후 첫 전시..'장애예술인 특별전' 개막]]></title>
+        <id>https://v.daum.net/v/20220901020411054</id>
+        <link href="https://v.daum.net/v/20220901020411054"/>
+        <updated>2022-08-31T17:23:18.942Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">02:04</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[프랑크 발터 슈타인마이어 독일 대통령 "러시아 정교회가 자각하라"]]></title>
         <id>https://v.daum.net/v/20220901012448887</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220901001031485"/>
         <updated>2022-08-31T15:20:31.479Z</updated>
         <content type="html"><![CDATA[코스모폴리탄<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청와대 개방 후 첫 전시..'장애예술인 특별전' 개막]]></title>
-        <id>https://v.daum.net/v/20220901000900464</id>
-        <link href="https://v.daum.net/v/20220901000900464"/>
-        <updated>2022-08-31T15:20:31.481Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:09</span>]]></content>
     </entry>
 </feed>
