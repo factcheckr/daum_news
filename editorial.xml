@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-09-01T22:20:19.638Z</updated>
+    <updated>2022-09-01T23:21:23.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](2일 조간)]]></title>
+        <id>https://v.daum.net/v/20220902080013042</id>
+        <link href="https://v.daum.net/v/20220902080013042"/>
+        <updated>2022-09-01T23:21:06.042Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[그림사설] 논란 끝 당선된 이재명 대표, 협치 노력해야]]></title>
         <id>https://v.daum.net/v/20220902071043382</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220902064702018"/>
         <updated>2022-09-01T22:19:58.839Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">06:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안재만의 마켓 잠망경] 이러다 금리 '뚝' 떨어지는 시기가 옵니다]]></title>
-        <id>https://v.daum.net/v/20220902060112560</id>
-        <link href="https://v.daum.net/v/20220902060112560"/>
-        <updated>2022-09-01T21:18:32.929Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">06:01</span>]]></content>
     </entry>
 </feed>
