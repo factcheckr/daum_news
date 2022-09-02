@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2022-09-02T18:24:21.367Z</updated>
+    <updated>2022-09-02T19:15:57.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대권가도 지름길, 당권의 무게 견뎌라]]></title>
+        <id>https://v.daum.net/v/20220903040457688</id>
+        <link href="https://v.daum.net/v/20220903040457688"/>
+        <updated>2022-09-02T19:14:45.634Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:04</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北은 '아직도' 美의 체제·안전 보장을 원할까]]></title>
+        <id>https://v.daum.net/v/20220903040001670</id>
+        <link href="https://v.daum.net/v/20220903040001670"/>
+        <updated>2022-09-02T19:14:45.634Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이재명 "檢수사는 말꼬투리 잡기".. 與 "범죄와의 전쟁"]]></title>
         <id>https://v.daum.net/v/20220903030623636</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220903030209518"/>
         <updated>2022-09-02T18:23:15.379Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박진 "강제징용 문제, 국민이 납득하게 해결".. 피해 할머니 "日기업, 사죄하고 돈도 내놔야"]]></title>
-        <id>https://v.daum.net/v/20220903030208517</id>
-        <link href="https://v.daum.net/v/20220903030208517"/>
-        <updated>2022-09-02T18:23:15.380Z</updated>
-        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">03:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 전기차 보조금법 개정.. 중간선거 前 쉽지 않을듯]]></title>
-        <id>https://v.daum.net/v/20220903030137503</id>
-        <link href="https://v.daum.net/v/20220903030137503"/>
-        <updated>2022-09-02T18:23:15.382Z</updated>
-        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">03:01</span>]]></content>
     </entry>
 </feed>
