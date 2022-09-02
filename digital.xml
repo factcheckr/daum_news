@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-09-02T12:37:37.423Z</updated>
+    <updated>2022-09-02T13:41:26.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[영상] 삼성전자 IFA 2022 전시관 '스마트싱스 라이프를 경험하라']]></title>
+        <id>https://v.daum.net/v/20220902222802132</id>
+        <link href="https://v.daum.net/v/20220902222802132"/>
+        <updated>2022-09-02T13:41:03.611Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">22:28</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[태풍 힌남노 접근에 따라 산업부 비생재난 대응반 구성..비상체계 돌입]]></title>
+        <id>https://v.daum.net/v/20220902222207057</id>
+        <link href="https://v.daum.net/v/20220902222207057"/>
+        <updated>2022-09-02T13:41:03.613Z</updated>
+        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">22:22</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[영상] "애플 각오해"..아이폰14 공개 앞두고 삼성전자 광고 눈길]]></title>
+        <id>https://v.daum.net/v/20220902221902018</id>
+        <link href="https://v.daum.net/v/20220902221902018"/>
+        <updated>2022-09-02T13:41:03.615Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">22:19</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한종희 삼성전자 부회장, IFA 2022 전시장서 美 베스트바이와 부스 투어]]></title>
+        <id>https://v.daum.net/v/20220902214011466</id>
+        <link href="https://v.daum.net/v/20220902214011466"/>
+        <updated>2022-09-02T13:41:03.615Z</updated>
+        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">21:40</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다누리 달로 방향 틀었다.."2차 궤적수정기동 수행"]]></title>
         <id>https://v.daum.net/v/20220902213402369</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20220902195126701"/>
         <updated>2022-09-02T11:18:18.073Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">19:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에픽게임즈 신광섭 본부장, BIC 페스티벌에서 콘텐츠 제작을 위한 언리얼 엔진 소개]]></title>
-        <id>https://v.daum.net/v/20220902194202518</id>
-        <link href="https://v.daum.net/v/20220902194202518"/>
-        <updated>2022-09-02T11:18:18.074Z</updated>
-        <content type="html"><![CDATA[게임동아<span class="txt_bar"> · </span><span class="info_time">19:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다누리 2차 궤적수정기동 오후 5시 자동실행..3시간 미뤄]]></title>
-        <id>https://v.daum.net/v/20220902193842450</id>
-        <link href="https://v.daum.net/v/20220902193842450"/>
-        <updated>2022-09-02T11:18:18.075Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">19:38</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이상헌 의원 "우마무스메 사태 계기로 게이머 권익 보호할 법 개정하겠다"]]></title>
-        <id>https://v.daum.net/v/20220902193647421</id>
-        <link href="https://v.daum.net/v/20220902193647421"/>
-        <updated>2022-09-02T11:18:18.079Z</updated>
-        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">19:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라인, 팬덤 기반 NFT 플랫폼 만든다.."라인메타버스와 연동"]]></title>
-        <id>https://v.daum.net/v/20220902193447389</id>
-        <link href="https://v.daum.net/v/20220902193447389"/>
-        <updated>2022-09-02T11:18:18.080Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">19:34</span>]]></content>
     </entry>
 </feed>
