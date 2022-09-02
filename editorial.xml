@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-09-02T10:22:28.162Z</updated>
+    <updated>2022-09-02T11:18:42.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고금리 시대, 우리가 갈아타야 할 것들_돈쓸신잡 #61]]></title>
+        <id>https://v.daum.net/v/20220902201041970</id>
+        <link href="https://v.daum.net/v/20220902201041970"/>
+        <updated>2022-09-02T11:18:25.772Z</updated>
+        <content type="html"><![CDATA[엘르<span class="txt_bar"> · </span><span class="info_time">20:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[영상사설]구소련도 6·25는 '남침', 역사왜곡 교육과정]]></title>
+        <id>https://v.daum.net/v/20220902194939683</id>
+        <link href="https://v.daum.net/v/20220902194939683"/>
+        <updated>2022-09-02T11:18:25.774Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">19:49</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] '꼼수 시행령' 비판 귀 막고 검찰 수사권 더 늘리겠다는 법무부]]></title>
         <id>https://v.daum.net/v/20220902182003052</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220902160121734"/>
         <updated>2022-09-02T07:25:51.787Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">16:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시사컬처] '어쩌라고'부터 '느슨한 연결'까지]]></title>
-        <id>https://v.daum.net/v/20220902154605156</id>
-        <link href="https://v.daum.net/v/20220902154605156"/>
-        <updated>2022-09-02T07:25:51.788Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">15:46</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[ET톡]의료 데이터 주권]]></title>
-        <id>https://v.daum.net/v/20220902153703844</id>
-        <link href="https://v.daum.net/v/20220902153703844"/>
-        <updated>2022-09-02T07:25:51.789Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">15:37</span>]]></content>
     </entry>
 </feed>
