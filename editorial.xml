@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-09-02T20:21:32.607Z</updated>
+    <updated>2022-09-02T21:17:17.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[각자 다른 배를 탄 대주주와 소액주주 [최준선의 Zoom-In]]]></title>
+        <id>https://v.daum.net/v/20220903060606710</id>
+        <link href="https://v.daum.net/v/20220903060606710"/>
+        <updated>2022-09-02T21:17:02.192Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">06:06</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 인플레 감축법 논의도 못한 한미 안보실장협의]]></title>
         <id>https://v.daum.net/v/20220903043056732</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220903031323648"/>
         <updated>2022-09-02T18:24:05.059Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[朝鮮칼럼 The Column] 尹정권, '전쟁' 감당할 준비는 돼 있나]]></title>
-        <id>https://v.daum.net/v/20220903031014642</id>
-        <link href="https://v.daum.net/v/20220903031014642"/>
-        <updated>2022-09-02T18:24:05.060Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:10</span>]]></content>
     </entry>
 </feed>
