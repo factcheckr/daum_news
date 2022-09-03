@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/society</id>
     <title>다음 뉴스 ─ 전체기사 ─ 사회</title>
-    <updated>2022-09-03T17:21:16.361Z</updated>
+    <updated>2022-09-03T18:23:21.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수원문화재단, '나만의 기와 정원 꾸미기' 체험 프로그램 진행]]></title>
+        <id>https://v.daum.net/v/20220904030204520</id>
+        <link href="https://v.daum.net/v/20220904030204520"/>
+        <updated>2022-09-03T18:21:57.918Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">03:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[음주운전 차량, 행인 치고 택시 추돌..카페·주택 화재]]></title>
         <id>https://v.daum.net/v/20220904012101196</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220904001101894"/>
         <updated>2022-09-03T15:19:13.597Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">00:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용인시산업진흥원, 위메프와 '용인기업 기획전' 진행]]></title>
-        <id>https://v.daum.net/v/20220904001004888</id>
-        <link href="https://v.daum.net/v/20220904001004888"/>
-        <updated>2022-09-03T15:19:13.602Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
     </entry>
 </feed>
