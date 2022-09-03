@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2022-09-03T18:23:21.143Z</updated>
+    <updated>2022-09-03T19:17:25.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[epl.review] '홀란드 4G 연속골' 맨시티, A.빌라와 1-1 무..6G 연속 무패]]></title>
+        <id>https://v.daum.net/v/20220904032229529</id>
+        <link href="https://v.daum.net/v/20220904032229529"/>
+        <updated>2022-09-03T19:16:39.489Z</updated>
+        <content type="html"><![CDATA[포포투<span class="txt_bar"> · </span><span class="info_time">03:22</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[가정예배 365-9월 4일] 보다 큰 기쁨]]></title>
         <id>https://v.daum.net/v/20220904030214521</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220904000040838"/>
         <updated>2022-09-03T15:19:48.868Z</updated>
         <content type="html"><![CDATA[코스모폴리탄<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘부터 전국에 비..제주·남해안은 강풍]]></title>
-        <id>https://v.daum.net/v/20220904000029834</id>
-        <link href="https://v.daum.net/v/20220904000029834"/>
-        <updated>2022-09-03T15:19:48.869Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
