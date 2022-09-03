@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-09-03T07:19:47.960Z</updated>
+    <updated>2022-09-03T08:24:20.399Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시흥시, 태풍 '힌남노' 대책회의 참석..비상대비 태세 돌입]]></title>
+        <id>https://v.daum.net/v/20220903164114302</id>
+        <link href="https://v.daum.net/v/20220903164114302"/>
+        <updated>2022-09-03T08:24:10.701Z</updated>
+        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">16:41</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제11호 태풍 힌남노 북상 대비 댐 사전 방류 확대]]></title>
+        <id>https://v.daum.net/v/20220903163540220</id>
+        <link href="https://v.daum.net/v/20220903163540220"/>
+        <updated>2022-09-03T08:24:10.703Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">16:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] 한중일 Z세대 위한 교류 행사, 문화적 우호 관계 다져]]></title>
         <id>https://v.daum.net/v/20220903161750014</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220903103056984"/>
         <updated>2022-09-03T01:59:58.945Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">10:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] HONOR Transforms Iconic Cultural Landmark Through the Power of]]></title>
-        <id>https://v.daum.net/v/20220903101144775</id>
-        <link href="https://v.daum.net/v/20220903101144775"/>
-        <updated>2022-09-03T01:59:58.948Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">10:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19 국내 발생 및 예방접종 현황 (9.3.토)]]></title>
-        <id>https://v.daum.net/v/20220903100541720</id>
-        <link href="https://v.daum.net/v/20220903100541720"/>
-        <updated>2022-09-03T01:59:58.949Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">10:05</span>]]></content>
     </entry>
 </feed>
