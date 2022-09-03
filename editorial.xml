@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-09-03T04:07:54.715Z</updated>
+    <updated>2022-09-03T05:33:59.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[글로벌+] 중국, 기록적인 폭염에.. "강바닥까지 드러나"]]></title>
+        <id>https://v.daum.net/v/20220903140147764</id>
+        <link href="https://v.daum.net/v/20220903140147764"/>
+        <updated>2022-09-03T05:33:42.810Z</updated>
+        <content type="html"><![CDATA[대구MBC<span class="txt_bar"> · </span><span class="info_time">14:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[전국 주요 신문 톱뉴스](3일 조간)]]></title>
         <id>https://v.daum.net/v/20220903100012597</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220903043037728"/>
         <updated>2022-09-02T20:21:16.307Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한마당] 부산엑스포와 BTS]]></title>
-        <id>https://v.daum.net/v/20220903041303704</id>
-        <link href="https://v.daum.net/v/20220903041303704"/>
-        <updated>2022-09-02T19:15:42.708Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:13</span>]]></content>
     </entry>
 </feed>
