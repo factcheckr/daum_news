@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-09-03T11:16:51.189Z</updated>
+    <updated>2022-09-03T12:33:34.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[문체부 소관 유튜브 채널 해킹 관련 대책 회의 개최]]></title>
+        <id>https://v.daum.net/v/20220903210550629</id>
+        <link href="https://v.daum.net/v/20220903210550629"/>
+        <updated>2022-09-03T12:33:24.262Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">21:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[농식품부, 제11호 태풍 힌남노 대응 장관주재 점검회의 개최]]></title>
         <id>https://v.daum.net/v/20220903200542126</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220903112722624"/>
         <updated>2022-09-03T04:07:46.920Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[식량농업기구(FAO) 세계식량가격지수 전월 대비 1.9% 하락]]></title>
-        <id>https://v.daum.net/v/20220903110556424</id>
-        <link href="https://v.daum.net/v/20220903110556424"/>
-        <updated>2022-09-03T04:07:46.921Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">11:05</span>]]></content>
     </entry>
 </feed>
