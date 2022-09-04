@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-09-04T13:33:07.498Z</updated>
+    <updated>2022-09-04T14:18:03.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[던파 신규 레이드 '기계혁명: 개전' 22일 출시]]></title>
+        <id>https://v.daum.net/v/20220904225313611</id>
+        <link href="https://v.daum.net/v/20220904225313611"/>
+        <updated>2022-09-04T14:17:37.158Z</updated>
+        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">22:53</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[임상돋보기]셀트리온, 차세대 바이오시밀러 임상 결과 유럽 학회 발표]]></title>
+        <id>https://v.daum.net/v/20220904224010553</id>
+        <link href="https://v.daum.net/v/20220904224010553"/>
+        <updated>2022-09-04T14:17:37.158Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">22:40</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어제의 절반수준..오후 9시 전국 3만6273명·강원 1257명 확진]]></title>
         <id>https://v.daum.net/v/20220904221946444</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220904210233933"/>
         <updated>2022-09-04T12:36:41.003Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">21:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[獨 전기요금 1년새 10배 급증..절전 가전에 푹 빠진 유럽 [IFA 2022]]]></title>
-        <id>https://v.daum.net/v/20220904204800856</id>
-        <link href="https://v.daum.net/v/20220904204800856"/>
-        <updated>2022-09-04T12:36:41.004Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">20:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[힌남노 한반도 상륙] 예상경로에 있는 부울경 원전, 안전대책은?]]></title>
-        <id>https://v.daum.net/v/20220904202342698</id>
-        <link href="https://v.daum.net/v/20220904202342698"/>
-        <updated>2022-09-04T12:36:41.005Z</updated>
-        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">20:23</span>]]></content>
     </entry>
 </feed>
