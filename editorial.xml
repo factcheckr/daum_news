@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-09-04T04:11:24.764Z</updated>
+    <updated>2022-09-04T05:36:45.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남들에게만 말고 자신에게도 잘해주세요]]></title>
+        <id>https://v.daum.net/v/20220904143502366</id>
+        <link href="https://v.daum.net/v/20220904143502366"/>
+        <updated>2022-09-04T05:36:28.594Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">14:35</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ET시선]5년마다 반복되는 '데자뷔']]></title>
+        <id>https://v.daum.net/v/20220904140108860</id>
+        <link href="https://v.daum.net/v/20220904140108860"/>
+        <updated>2022-09-04T05:36:28.595Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">14:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그렉 로렌으로 보는 New 그런지 룩! [패션 아포가토]]]></title>
+        <id>https://v.daum.net/v/20220904140009819</id>
+        <link href="https://v.daum.net/v/20220904140009819"/>
+        <updated>2022-09-04T05:36:28.595Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[신조어 사전]미닝 아웃]]></title>
+        <id>https://v.daum.net/v/20220904134411532</id>
+        <link href="https://v.daum.net/v/20220904134411532"/>
+        <updated>2022-09-04T05:36:28.597Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">13:44</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[기고] 대만 외교부장 "글로벌 굿(Global good)을 위해 함께 일합시다!"]]></title>
+        <id>https://v.daum.net/v/20220904133827476</id>
+        <link href="https://v.daum.net/v/20220904133827476"/>
+        <updated>2022-09-04T05:36:28.598Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">13:38</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴욕다이어리]"미국의 승리"라는 바이든..외교 시험대 선 '경제동맹' 한국]]></title>
         <id>https://v.daum.net/v/20220904125507849</id>
@@ -74,19 +109,5 @@
         <link href="https://v.daum.net/v/20220904071543747"/>
         <updated>2022-09-03T22:18:50.308Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전화성의 기술창업 Targeting]230. 문화예술 사회적경제 스타트업 도약]]></title>
-        <id>https://v.daum.net/v/20220904000103840</id>
-        <link href="https://v.daum.net/v/20220904000103840"/>
-        <updated>2022-09-03T15:20:21.358Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이철영의 정사신] '윤핵관' 권력투쟁과 尹 대통령의 무게 중심]]></title>
-        <id>https://v.daum.net/v/20220904000039837</id>
-        <link href="https://v.daum.net/v/20220904000039837"/>
-        <updated>2022-09-03T15:20:21.359Z</updated>
-        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
