@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-09-04T07:18:46.448Z</updated>
+    <updated>2022-09-04T08:23:35.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[환경부, 제11호 태풍 힌남노 대비 관계기관 점검회의 개최]]></title>
+        <id>https://v.daum.net/v/20220904163551603</id>
+        <link href="https://v.daum.net/v/20220904163551603"/>
+        <updated>2022-09-04T08:23:26.855Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">16:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장애예술인 특별전, 개막 후 3일간 7천명 넘게 다녀가]]></title>
         <id>https://v.daum.net/v/20220904160539124</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220904123557645</id>
         <link href="https://v.daum.net/v/20220904123557645"/>
         <updated>2022-09-04T04:11:13.491Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">12:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지진방재 정보 체계적인 수집으로 한 곳에서 공개]]></title>
-        <id>https://v.daum.net/v/20220904123557644</id>
-        <link href="https://v.daum.net/v/20220904123557644"/>
-        <updated>2022-09-04T04:11:13.495Z</updated>
         <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">12:35</span>]]></content>
     </entry>
 </feed>
