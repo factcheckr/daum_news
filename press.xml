@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-09-05T15:22:07.690Z</updated>
+    <updated>2022-09-05T16:27:18.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[참고] 제11호 태풍(힌남노) 관련 항공기 운항계획(9.6)]]></title>
+        <id>https://v.daum.net/v/20220906010524301</id>
+        <link href="https://v.daum.net/v/20220906010524301"/>
+        <updated>2022-09-05T16:27:10.732Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">01:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['폐광지 하늘길' 운탄고도 1330 활성화 모색 나섰다]]></title>
+        <id>https://v.daum.net/v/20220906003819087</id>
+        <link href="https://v.daum.net/v/20220906003819087"/>
+        <updated>2022-09-05T16:27:10.732Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:38</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[라이프 트렌드&] '글로벌 융합형 의과학 인재' 양성 위해 전공자유선택제 도입]]></title>
         <id>https://v.daum.net/v/20220906000855858</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20220906000822844</id>
         <link href="https://v.daum.net/v/20220906000822844"/>
         <updated>2022-09-05T15:21:56.575Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[라이프 트렌드&] 주식중개영업부터 M&A까지 .. 국내 넘어 해외 진출 가속도]]></title>
-        <id>https://v.daum.net/v/20220906000820843</id>
-        <link href="https://v.daum.net/v/20220906000820843"/>
-        <updated>2022-09-05T15:21:56.577Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[라이프 트렌드&] 무형문화재 보전 계승 위한 기념메달 제작 .. 전통문화 유산 가치 재조명]]></title>
-        <id>https://v.daum.net/v/20220906000818842</id>
-        <link href="https://v.daum.net/v/20220906000818842"/>
-        <updated>2022-09-05T15:21:56.578Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:08</span>]]></content>
     </entry>
 </feed>
