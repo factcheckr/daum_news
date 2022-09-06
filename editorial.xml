@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-09-06T13:44:53.897Z</updated>
+    <updated>2022-09-06T14:21:52.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[WT논평] The following catastrophic events (3)]]></title>
+        <id>https://v.daum.net/v/20220906231921266</id>
+        <link href="https://v.daum.net/v/20220906231921266"/>
+        <updated>2022-09-06T14:21:35.931Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">23:19</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 기후위기 시대, 재난 대비 필요성 일깨운 '힌남노']]></title>
         <id>https://v.daum.net/v/20220906221538545</id>
@@ -69,7 +76,7 @@
         <content type="html"><![CDATA[기자협회보<span class="txt_bar"> · </span><span class="info_time">20:49</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[사설] 세월호 침몰 원인 못 밝히고 3년반 활동 마친 사참위]]></title>
+        <title type="html"><![CDATA[[사설] 세월호 침몰 원인 못 밝히고 3년 반 활동 마친 사참위]]></title>
         <id>https://v.daum.net/v/20220906203518101</id>
         <link href="https://v.daum.net/v/20220906203518101"/>
         <updated>2022-09-06T12:38:33.471Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220906201847697"/>
         <updated>2022-09-06T12:38:33.477Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An unreasonable hike in taxi fares]]></title>
-        <id>https://v.daum.net/v/20220906201746671</id>
-        <link href="https://v.daum.net/v/20220906201746671"/>
-        <updated>2022-09-06T11:18:11.146Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:17</span>]]></content>
     </entry>
 </feed>
