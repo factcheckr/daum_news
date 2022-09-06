@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-09-06T12:38:49.979Z</updated>
+    <updated>2022-09-06T13:44:53.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사설] 기후위기 시대, 재난 대비 필요성 일깨운 '힌남노']]></title>
+        <id>https://v.daum.net/v/20220906221538545</id>
+        <link href="https://v.daum.net/v/20220906221538545"/>
+        <updated>2022-09-06T13:44:33.247Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">22:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 9월 7일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20220906220125268</id>
+        <link href="https://v.daum.net/v/20220906220125268"/>
+        <updated>2022-09-06T13:44:33.247Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내가 경험한 웃음의 심신 치유 효과 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20220906220018243</id>
+        <link href="https://v.daum.net/v/20220906220018243"/>
+        <updated>2022-09-06T13:44:33.247Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뭐라노]쓰촨의 눈물]]></title>
         <id>https://v.daum.net/v/20220906212206344</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220906201746671"/>
         <updated>2022-09-06T11:18:11.146Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seeking an enduring agreement]]></title>
-        <id>https://v.daum.net/v/20220906201626659</id>
-        <link href="https://v.daum.net/v/20220906201626659"/>
-        <updated>2022-09-06T11:18:11.147Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ramifications of a high exchange rate]]></title>
-        <id>https://v.daum.net/v/20220906201335598</id>
-        <link href="https://v.daum.net/v/20220906201335598"/>
-        <updated>2022-09-06T11:18:11.148Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Today's Cartoon] 2022.09.07]]></title>
-        <id>https://v.daum.net/v/20220906201107532</id>
-        <link href="https://v.daum.net/v/20220906201107532"/>
-        <updated>2022-09-06T11:18:11.151Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:11</span>]]></content>
     </entry>
 </feed>
