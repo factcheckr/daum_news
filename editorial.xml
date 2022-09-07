@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-09-07T16:29:29.677Z</updated>
+    <updated>2022-09-07T17:33:17.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]인구절벽 시대 과학기술 인력을 확보하려면]]></title>
+        <id>https://v.daum.net/v/20220908020501377</id>
+        <link href="https://v.daum.net/v/20220908020501377"/>
+        <updated>2022-09-07T17:33:00.994Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[진중권 칼럼] 인공지능, 시대의 흐름인가 예술의 종언인가]]></title>
         <id>https://v.daum.net/v/20220908011826253</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220908004104980"/>
         <updated>2022-09-07T16:29:13.106Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:41</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이광택의 그림 에세이 붓으로 그리는 이상향] 53. 배우면서 사는 삶의 즐거움]]></title>
-        <id>https://v.daum.net/v/20220908003917962</id>
-        <link href="https://v.daum.net/v/20220908003917962"/>
-        <updated>2022-09-07T16:29:13.110Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:39</span>]]></content>
     </entry>
 </feed>
