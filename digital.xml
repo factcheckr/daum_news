@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-09-07T18:27:26.183Z</updated>
+    <updated>2022-09-07T19:18:42.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["내구성·기능성 극한으로"..110만원대 '애플워치 울트라' 출시]]></title>
+        <id>https://v.daum.net/v/20220908041428877</id>
+        <link href="https://v.daum.net/v/20220908041428877"/>
+        <updated>2022-09-07T19:18:19.686Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">04:14</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플, 트랜지스터 160억 개 탑재 'A16 바이오닉' 칩 공개]]></title>
+        <id>https://v.daum.net/v/20220908040525805</id>
+        <link href="https://v.daum.net/v/20220908040525805"/>
+        <updated>2022-09-07T19:18:19.688Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">04:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플, 110만원대 '애플워치 울트라' 공개.. "운동선수·탐험가 특화"]]></title>
+        <id>https://v.daum.net/v/20220908040328780</id>
+        <link href="https://v.daum.net/v/20220908040328780"/>
+        <updated>2022-09-07T19:18:19.689Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">04:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플, 110만원대 '애플워치 울트라'공개.."아웃도어 특화"]]></title>
+        <id>https://v.daum.net/v/20220908034331731</id>
+        <link href="https://v.daum.net/v/20220908034331731"/>
+        <updated>2022-09-07T19:18:19.689Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">03:43</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[100만원대 '애플워치 울트라' 출시..아웃도어부터 여성 건강까지]]></title>
+        <id>https://v.daum.net/v/20220908033029719</id>
+        <link href="https://v.daum.net/v/20220908033029719"/>
+        <updated>2022-09-07T19:18:19.690Z</updated>
+        <content type="html"><![CDATA[일간스포츠<span class="txt_bar"> · </span><span class="info_time">03:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유로축구·호주오픈.. 주요대회 후원 집어삼키는 中기업]]></title>
         <id>https://v.daum.net/v/20220908030342579</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20220908000238585"/>
         <updated>2022-09-07T15:21:44.959Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["실패에서 배웠다" 핵융합 안정화 기술 세계 최초 개발]]></title>
-        <id>https://v.daum.net/v/20220908000125546</id>
-        <link href="https://v.daum.net/v/20220908000125546"/>
-        <updated>2022-09-07T15:21:44.963Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미래 핵융합 상용화 한발 더 다가섰다]]></title>
-        <id>https://v.daum.net/v/20220908000110543</id>
-        <link href="https://v.daum.net/v/20220908000110543"/>
-        <updated>2022-09-07T15:21:44.965Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["핵융합발전 상용화 난제해결" 韓 핵융합기술 전세계 주목한다]]></title>
-        <id>https://v.daum.net/v/20220908000108541</id>
-        <link href="https://v.daum.net/v/20220908000108541"/>
-        <updated>2022-09-07T15:21:44.967Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KSTAR '초고온 핵융합 플라즈마 운전', 상용로 운전방식으로 주목받아]]></title>
-        <id>https://v.daum.net/v/20220908000104537</id>
-        <link href="https://v.daum.net/v/20220908000104537"/>
-        <updated>2022-09-07T15:21:44.968Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1억도에도 폭발 없는 핵융합로 기술 나왔다]]></title>
-        <id>https://v.daum.net/v/20220908000102535</id>
-        <link href="https://v.daum.net/v/20220908000102535"/>
-        <updated>2022-09-07T15:21:44.969Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
     </entry>
 </feed>
