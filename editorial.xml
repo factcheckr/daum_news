@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-09-07T04:56:01.470Z</updated>
+    <updated>2022-09-07T06:17:06.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[우애리의 '마음아 안녕'㉓] 우리 아이 과도한 '승부욕', 게임만 하면 '울음바다'가 돼요]]></title>
+        <id>https://v.daum.net/v/20220907140956694</id>
+        <link href="https://v.daum.net/v/20220907140956694"/>
+        <updated>2022-09-07T06:16:49.379Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">14:09</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[이종길의 영상2도]'풀타임' 싱글맘이 살아남는 법]]></title>
+        <id>https://v.daum.net/v/20220907140606532</id>
+        <link href="https://v.daum.net/v/20220907140606532"/>
+        <updated>2022-09-07T06:16:49.380Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">14:06</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[투자의 창] 끝으로 치닫는 달러의 '스마일 커브']]></title>
         <id>https://v.daum.net/v/20220907135214089</id>
@@ -83,7 +97,7 @@
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:21</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[홍길용의 화식열전] 달러 독재..미국의 경제 新제국주의]]></title>
+        <title type="html"><![CDATA[[홍길용의 화식열전] 글로벌 환율대란과 미국의 달러 제국주의]]></title>
         <id>https://v.daum.net/v/20220907112125346</id>
         <link href="https://v.daum.net/v/20220907112125346"/>
         <updated>2022-09-07T04:55:44.031Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220907111920223"/>
         <updated>2022-09-07T04:55:44.031Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:19</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<뉴스와 시각>대통령 여의도서 뛰어야 한다]]></title>
-        <id>https://v.daum.net/v/20220907111840186</id>
-        <link href="https://v.daum.net/v/20220907111840186"/>
-        <updated>2022-09-07T04:55:44.032Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<오후여담>서봉수 9단 '치수 고치기']]></title>
-        <id>https://v.daum.net/v/20220907111836182</id>
-        <link href="https://v.daum.net/v/20220907111836182"/>
-        <updated>2022-09-07T04:55:44.033Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:18</span>]]></content>
     </entry>
 </feed>
