@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-09-08T07:34:27.396Z</updated>
+    <updated>2022-09-08T08:25:43.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박용석 만평] 9월 9일]]></title>
+        <id>https://v.daum.net/v/20220908171410139</id>
+        <link href="https://v.daum.net/v/20220908171410139"/>
+        <updated>2022-09-08T08:25:24.030Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">17:14</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이디 6707화]]></title>
         <id>https://v.daum.net/v/20220908162407578</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220908110650780</id>
         <link href="https://v.daum.net/v/20220908110650780"/>
         <updated>2022-09-08T04:15:19.881Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<포럼>지하공간 재해, 응급대책과 근본대책]]></title>
-        <id>https://v.daum.net/v/20220908110646771</id>
-        <link href="https://v.daum.net/v/20220908110646771"/>
-        <updated>2022-09-08T04:15:19.882Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:06</span>]]></content>
     </entry>
 </feed>
