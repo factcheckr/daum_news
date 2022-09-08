@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2022-09-08T16:29:15.580Z</updated>
+    <updated>2022-09-08T17:31:58.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다음달 파리모터쇼서 최초 공개되는 '전기로 가는 지프']]></title>
+        <id>https://v.daum.net/v/20220909015901614</id>
+        <link href="https://v.daum.net/v/20220909015901614"/>
+        <updated>2022-09-08T17:30:56.051Z</updated>
+        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">01:59</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[농협 행복이음봉사단, 추석 앞두고 국가유공자 가정 예방]]></title>
         <id>https://v.daum.net/v/20220909010542466</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220909010222422</id>
         <link href="https://v.daum.net/v/20220909010222422"/>
         <updated>2022-09-08T16:28:06.419Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가을 국내 출시 앞둔 르노 XM3 하이브리드, 수출 7만대 돌파]]></title>
-        <id>https://v.daum.net/v/20220909010211419</id>
-        <link href="https://v.daum.net/v/20220909010211419"/>
-        <updated>2022-09-08T16:28:06.420Z</updated>
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:02</span>]]></content>
     </entry>
 </feed>
