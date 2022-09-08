@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-09-08T04:15:37.648Z</updated>
+    <updated>2022-09-08T06:03:05.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[부산 당감동 국제백양아파트 84㎡ 2억2500만원.. 역대 최고가]]></title>
+        <id>https://v.daum.net/v/20220908132037246</id>
+        <link href="https://v.daum.net/v/20220908132037246"/>
+        <updated>2022-09-08T06:03:05.399Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:20</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부산 구서동 롯데캐슬골드1단지 59㎡ 4억9250만원.. 역대 최고가]]></title>
+        <id>https://v.daum.net/v/20220908131542127</id>
+        <link href="https://v.daum.net/v/20220908131542127"/>
+        <updated>2022-09-08T06:03:05.401Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:15</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울 마곡동 마곡엠밸리14단지 114㎡ 17억원.. 역대 최고가]]></title>
         <id>https://v.daum.net/v/20220908131034049</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220908121035103"/>
         <updated>2022-09-08T04:15:37.073Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용인 동천동 동천마을현대2차홈타운 84㎡ 8억원에 거래]]></title>
-        <id>https://v.daum.net/v/20220908120537998</id>
-        <link href="https://v.daum.net/v/20220908120537998"/>
-        <updated>2022-09-08T04:15:37.074Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울 암사동 암사선사현대 58㎡ 9억1000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220908120044833</id>
-        <link href="https://v.daum.net/v/20220908120044833"/>
-        <updated>2022-09-08T04:15:37.075Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:00</span>]]></content>
     </entry>
 </feed>
