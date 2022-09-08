@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-09-08T15:22:55.390Z</updated>
+    <updated>2022-09-08T16:29:15.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[장훈 칼럼] 윤 대통령은 책임총리가 필요하다]]></title>
+        <id>https://v.daum.net/v/20220909002614279</id>
+        <link href="https://v.daum.net/v/20220909002614279"/>
+        <updated>2022-09-08T16:28:59.156Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:26</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[이현상의 시시각각] 안중근의 담담함, 이재명의 비장함]]></title>
+        <id>https://v.daum.net/v/20220909002414262</id>
+        <link href="https://v.daum.net/v/20220909002414262"/>
+        <updated>2022-09-08T16:28:59.156Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:24</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[연중 기획 혁신창업의 길] 게놈 분석의 석학, 코스닥 상장기업 대표가 되다]]></title>
         <id>https://v.daum.net/v/20220909002214253</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20220909000603164</id>
         <link href="https://v.daum.net/v/20220909000603164"/>
         <updated>2022-09-08T15:22:37.418Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[매경의 창] 진화의 중심은 남성이 아니다]]></title>
-        <id>https://v.daum.net/v/20220909000602163</id>
-        <link href="https://v.daum.net/v/20220909000602163"/>
-        <updated>2022-09-08T15:22:37.421Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 세계 100대 유니콘중 55곳이 한국에선 불법이라니]]></title>
-        <id>https://v.daum.net/v/20220909000600162</id>
-        <link href="https://v.daum.net/v/20220909000600162"/>
-        <updated>2022-09-08T15:22:37.422Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
     </entry>
 </feed>
