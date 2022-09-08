@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-09-08T12:39:27.594Z</updated>
+    <updated>2022-09-08T13:37:23.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신고리 1호기 송전설비 손상..원자로 수동정지 후 정기검사]]></title>
+        <id>https://v.daum.net/v/20220908220302353</id>
+        <link href="https://v.daum.net/v/20220908220302353"/>
+        <updated>2022-09-08T13:36:59.191Z</updated>
+        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">22:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경주 신월성 2호기 설비 이상 자동정지]]></title>
+        <id>https://v.daum.net/v/20220908220154333</id>
+        <link href="https://v.daum.net/v/20220908220154333"/>
+        <updated>2022-09-08T13:36:59.193Z</updated>
+        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[포토] 이데일리M-마일벌스 업무협약]]></title>
+        <id>https://v.daum.net/v/20220908214939143</id>
+        <link href="https://v.daum.net/v/20220908214939143"/>
+        <updated>2022-09-08T13:36:59.197Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">21:49</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[검찰, 네이버 기소..'부동산 매물정보 갑질' 혐의]]></title>
         <id>https://v.daum.net/v/20220908212221761</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20220908200002617"/>
         <updated>2022-09-08T11:18:21.688Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">20:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안전 품은 '아이폰 14'..교통사고 충돌 감지, 구조 전화 자동콜]]></title>
-        <id>https://v.daum.net/v/20220908195733585</id>
-        <link href="https://v.daum.net/v/20220908195733585"/>
-        <updated>2022-09-08T11:18:21.690Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">19:57</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과기정통부 '국가지식정보' 4억3천만건 첫 지정..고신문·문헌도]]></title>
-        <id>https://v.daum.net/v/20220908195517548</id>
-        <link href="https://v.daum.net/v/20220908195517548"/>
-        <updated>2022-09-08T11:18:21.691Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">19:55</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[추석 귀성전쟁 시작되자..'티맵'에 이용자 몰리며 한때 접속장애(종합)]]></title>
-        <id>https://v.daum.net/v/20220908195203481</id>
-        <link href="https://v.daum.net/v/20220908195203481"/>
-        <updated>2022-09-08T11:18:21.693Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">19:52</span>]]></content>
     </entry>
 </feed>
