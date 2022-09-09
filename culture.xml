@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2022-09-09T13:50:24.344Z</updated>
+    <updated>2022-09-09T14:24:53.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이른 폭염에 작년보다 온열질환자 늘어]]></title>
+        <id>https://v.daum.net/v/20220909231301229</id>
+        <link href="https://v.daum.net/v/20220909231301229"/>
+        <updated>2022-09-09T14:24:03.212Z</updated>
+        <content type="html"><![CDATA[키즈맘<span class="txt_bar"> · </span><span class="info_time">23:13</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[키아프 '절반의 성공'..해외서 주목하는 한국 미술 시장]]></title>
+        <id>https://v.daum.net/v/20220909225210122</id>
+        <link href="https://v.daum.net/v/20220909225210122"/>
+        <updated>2022-09-09T14:24:03.212Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">22:52</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["추석인데, 빈좌석 왜이리 많아"..기차표 노쇼 70만석·6만석은 '텅텅']]></title>
         <id>https://v.daum.net/v/20220909224500070</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220909223748023"/>
         <updated>2022-09-09T13:49:35.176Z</updated>
         <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">22:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토]문화재청, '청와대, 칭칭나네' 행사]]></title>
-        <id>https://v.daum.net/v/20220909223722022</id>
-        <link href="https://v.daum.net/v/20220909223722022"/>
-        <updated>2022-09-09T13:49:35.177Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">22:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["달고나 만들다 실명"..추석 연휴 '화상 주의보']]></title>
-        <id>https://v.daum.net/v/20220909222551922</id>
-        <link href="https://v.daum.net/v/20220909222551922"/>
-        <updated>2022-09-09T13:49:35.178Z</updated>
-        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">22:25</span>]]></content>
     </entry>
 </feed>
