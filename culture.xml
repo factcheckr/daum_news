@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2022-09-09T16:29:15.091Z</updated>
+    <updated>2022-09-09T17:27:34.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[홍콩 억만장자가 서울서 산 단 한 점 그림, 93년생 화가 누구?]]></title>
+        <id>https://v.daum.net/v/20220910014902592</id>
+        <link href="https://v.daum.net/v/20220910014902592"/>
+        <updated>2022-09-09T17:26:43.001Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">01:49</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극계 흥행 주역 '방탄노년단']]></title>
+        <id>https://v.daum.net/v/20220910014010591</id>
+        <link href="https://v.daum.net/v/20220910014010591"/>
+        <updated>2022-09-09T17:26:43.007Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">01:40</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[영상] 밝은 달아, 빛을 비추어다오]]></title>
         <id>https://v.daum.net/v/20220910012510558</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220910000302404"/>
         <updated>2022-09-09T15:22:13.084Z</updated>
         <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 운세] 2022년 09월 10일 띠별 운세]]></title>
-        <id>https://v.daum.net/v/20220910000301403</id>
-        <link href="https://v.daum.net/v/20220910000301403"/>
-        <updated>2022-09-09T15:22:13.084Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[추석인 오늘 구름 많아..제주 내일까지 비]]></title>
-        <id>https://v.daum.net/v/20220910000241399</id>
-        <link href="https://v.daum.net/v/20220910000241399"/>
-        <updated>2022-09-09T15:22:13.085Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
     </entry>
 </feed>
