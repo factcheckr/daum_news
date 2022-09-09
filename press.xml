@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-09-09T12:40:30.762Z</updated>
+    <updated>2022-09-09T13:50:24.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Huawei Cloud Meeting, 우주비행사와 아프리카 청소년 간의 대화 지원]]></title>
+        <id>https://v.daum.net/v/20220909215900768</id>
+        <link href="https://v.daum.net/v/20220909215900768"/>
+        <updated>2022-09-09T13:50:16.009Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">21:59</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Cloud4C, APAC 지역 구글 클라우드 프리미어 파트너로 인정받아]]></title>
+        <id>https://v.daum.net/v/20220909214301675</id>
+        <link href="https://v.daum.net/v/20220909214301675"/>
+        <updated>2022-09-09T13:50:16.009Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">21:43</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[AsiaNet] The 29th China Yangling Agricultural High-tech Fair to Take Place in]]></title>
         <id>https://v.daum.net/v/20220909190944724</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220909132820223"/>
         <updated>2022-09-09T05:56:52.052Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">13:28</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] REALTY ONE GROUP TO OPEN IN BOLIVIA]]></title>
-        <id>https://v.daum.net/v/20220909114749156</id>
-        <link href="https://v.daum.net/v/20220909114749156"/>
-        <updated>2022-09-09T04:25:59.337Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] Scaled Agile's Summit Launch Reveals Breakthrough Tools and]]></title>
-        <id>https://v.daum.net/v/20220909113600042</id>
-        <link href="https://v.daum.net/v/20220909113600042"/>
-        <updated>2022-09-09T04:25:59.339Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:36</span>]]></content>
     </entry>
 </feed>
