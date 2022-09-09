@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-09-09T21:19:34.428Z</updated>
+    <updated>2022-09-09T22:21:20.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["40대는 주로 폰으로 방송 시청하고 60대는 PC 선호"]]></title>
+        <id>https://v.daum.net/v/20220910070130625</id>
+        <link href="https://v.daum.net/v/20220910070130625"/>
+        <updated>2022-09-09T22:20:56.244Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">07:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[추석 연휴에 볼 만한 인기 웹툰은]]></title>
+        <id>https://v.daum.net/v/20220910070110599</id>
+        <link href="https://v.daum.net/v/20220910070110599"/>
+        <updated>2022-09-09T22:20:56.245Z</updated>
+        <content type="html"><![CDATA[머니S<span class="txt_bar"> · </span><span class="info_time">07:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["연휴 없어요" 추석에도 '24시간 풀가동' 쉴틈없는 공장들]]></title>
+        <id>https://v.daum.net/v/20220910070022545</id>
+        <link href="https://v.daum.net/v/20220910070022545"/>
+        <updated>2022-09-09T22:20:56.246Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(51) '이통사 중앙집권화'..韓 단일 표준 플랫폼 '위피' 몰락 [김문기의 아이씨테크]]]></title>
+        <id>https://v.daum.net/v/20220910070013528</id>
+        <link href="https://v.daum.net/v/20220910070013528"/>
+        <updated>2022-09-09T22:20:56.246Z</updated>
+        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI반도체가 초래할 미래는?.."데이터센터 등 혁신"]]></title>
         <id>https://v.daum.net/v/20220910060930307</id>
@@ -81,19 +109,5 @@
         <link href="https://v.daum.net/v/20220910054901025"/>
         <updated>2022-09-09T21:19:09.776Z</updated>
         <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">05:49</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네카오 웹툰, '만화강국' 日 덮쳤다]]></title>
-        <id>https://v.daum.net/v/20220910050401787</id>
-        <link href="https://v.daum.net/v/20220910050401787"/>
-        <updated>2022-09-09T20:22:40.648Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">05:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['좀 달라진 것 없어?'..애플도 삼성도 닮은 듯 다른 스마트폰 디자인]]></title>
-        <id>https://v.daum.net/v/20220910000038387</id>
-        <link href="https://v.daum.net/v/20220910000038387"/>
-        <updated>2022-09-09T15:22:41.262Z</updated>
-        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
