@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-09-09T05:57:00.858Z</updated>
+    <updated>2022-09-09T06:37:45.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박종인의 징비] 전 광복회장 김원웅씨 전면 조사로 진정한 보훈을]]></title>
+        <id>https://v.daum.net/v/20220909151936454</id>
+        <link href="https://v.daum.net/v/20220909151936454"/>
+        <updated>2022-09-09T06:37:27.637Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">15:19</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[추석과 전(煎), 그리고 남녀]]></title>
         <id>https://v.daum.net/v/20220909140109562</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220909070005939"/>
         <updated>2022-09-08T22:21:08.970Z</updated>
         <content type="html"><![CDATA[베스트일레븐<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[목멱칼럼]'반값치킨' 열풍이 프랜차이즈 업계에 던진 숙제]]></title>
-        <id>https://v.daum.net/v/20220909060204373</id>
-        <link href="https://v.daum.net/v/20220909060204373"/>
-        <updated>2022-09-08T21:20:34.829Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">06:02</span>]]></content>
     </entry>
 </feed>
