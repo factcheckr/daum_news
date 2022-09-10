@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-09-10T10:22:31.757Z</updated>
+    <updated>2022-09-10T11:18:12.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["이럴거면 아이폰쓰지 누가 삼성폰 쓰나" 삼성빠 '대이동' 위기? [IT선빵!]]]></title>
+        <id>https://v.daum.net/v/20220910195105395</id>
+        <link href="https://v.daum.net/v/20220910195105395"/>
+        <updated>2022-09-10T11:17:46.817Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">19:51</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간IT템] 아이폰14 프로 라인업 혁신.. 카카오엔터 북미 확장]]></title>
         <id>https://v.daum.net/v/20220910185514008</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">18:55</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["이 회사 제정신이야?" 가상인간을 여성 CEO로 발탁 '시끌']]></title>
+        <title type="html"><![CDATA["회사 제정신이냐?" 조롱거리 된 '여성 CEO' 알고보니]]></title>
         <id>https://v.daum.net/v/20220910185057977</id>
         <link href="https://v.daum.net/v/20220910185057977"/>
         <updated>2022-09-10T10:22:05.219Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220910161034700"/>
         <updated>2022-09-10T07:20:02.066Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">16:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[머스크 "트위터, 내부 고발자에 700만 달러 지불 문제있다"]]></title>
-        <id>https://v.daum.net/v/20220910160536668</id>
-        <link href="https://v.daum.net/v/20220910160536668"/>
-        <updated>2022-09-10T07:20:02.067Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">16:05</span>]]></content>
     </entry>
 </feed>
