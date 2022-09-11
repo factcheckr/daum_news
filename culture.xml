@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2022-09-11T16:27:52.919Z</updated>
+    <updated>2022-09-11T17:24:30.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우주를 꿈꾼 이방인..조각가 문신 탄생 100년 특별전]]></title>
+        <id>https://v.daum.net/v/20220912013112141</id>
+        <link href="https://v.daum.net/v/20220912013112141"/>
+        <updated>2022-09-11T17:23:41.330Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">01:31</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부고] 피에르 코헨 아크닌 본인상]]></title>
+        <id>https://v.daum.net/v/20220912013043140</id>
+        <link href="https://v.daum.net/v/20220912013043140"/>
+        <updated>2022-09-11T17:23:41.330Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">01:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[날씨] 오늘 중북부 흐리고 늦더위..충청권 남부·남부·제주 비]]></title>
         <id>https://v.daum.net/v/20220912005212940</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220912000030678"/>
         <updated>2022-09-11T15:20:52.401Z</updated>
         <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[녹유 오늘의 운세] 95년생 피할 수 없는 승부 강하게 맞서요]]></title>
-        <id>https://v.daum.net/v/20220912000024674</id>
-        <link href="https://v.daum.net/v/20220912000024674"/>
-        <updated>2022-09-11T15:20:52.401Z</updated>
-        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 운세] 2022년 9월 12일 띠별 운세]]></title>
-        <id>https://v.daum.net/v/20220912000003661</id>
-        <link href="https://v.daum.net/v/20220912000003661"/>
-        <updated>2022-09-11T15:20:52.402Z</updated>
-        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
