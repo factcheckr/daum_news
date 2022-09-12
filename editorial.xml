@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-09-12T22:21:36.597Z</updated>
+    <updated>2022-09-12T23:23:39.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](13일 조간)]]></title>
+        <id>https://v.daum.net/v/20220913080004553</id>
+        <link href="https://v.daum.net/v/20220913080004553"/>
+        <updated>2022-09-12T23:23:24.618Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비트코인과 가상화폐 가격..다시 회복될 수 있을까? [국제경제읽기 한상춘]]]></title>
+        <id>https://v.daum.net/v/20220913073223158</id>
+        <link href="https://v.daum.net/v/20220913073223158"/>
+        <updated>2022-09-12T23:23:24.622Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">07:32</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[거버넌스워치]경동가스 '백년손님 vs 장자'의 한계]]></title>
         <id>https://v.daum.net/v/20220913071005933</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220913064108576"/>
         <updated>2022-09-12T22:21:18.934Z</updated>
         <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">06:41</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[목멱칼럼]윤 대통령의 우선순위]]></title>
-        <id>https://v.daum.net/v/20220913061507385</id>
-        <link href="https://v.daum.net/v/20220913061507385"/>
-        <updated>2022-09-12T21:20:13.008Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">06:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지구를 살리는 작은 실천이 모여 큰 변화를]]></title>
-        <id>https://v.daum.net/v/20220913060502285</id>
-        <link href="https://v.daum.net/v/20220913060502285"/>
-        <updated>2022-09-12T21:20:13.008Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">06:05</span>]]></content>
     </entry>
 </feed>
