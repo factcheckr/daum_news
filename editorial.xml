@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-09-12T13:49:11.944Z</updated>
+    <updated>2022-09-12T14:26:47.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[재래식 공격 임박 징후만 보여도.. 北 "자동으로 즉시 핵 타격"]]></title>
+        <id>https://v.daum.net/v/20220912225501653</id>
+        <link href="https://v.daum.net/v/20220912225501653"/>
+        <updated>2022-09-12T14:26:31.988Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">22:55</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022년 9월 13일[김용민의 그림마당]]]></title>
         <id>https://v.daum.net/v/20220912220333323</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220912191558831"/>
         <updated>2022-09-12T10:23:57.882Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">19:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[fn사설] 걱정커진 성장 뒷걸음, 기업활력에서 길 찾아야]]></title>
-        <id>https://v.daum.net/v/20220912190519737</id>
-        <link href="https://v.daum.net/v/20220912190519737"/>
-        <updated>2022-09-12T10:23:57.888Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">19:05</span>]]></content>
     </entry>
 </feed>
