@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-09-12T11:19:49.191Z</updated>
+    <updated>2022-09-12T12:44:09.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[설명] 3기 신도시 등 공공택지사업은 당초 일정대로 차질 없이 추진하고 있습니다.]]></title>
+        <id>https://v.daum.net/v/20220912203524541</id>
+        <link href="https://v.daum.net/v/20220912203524541"/>
+        <updated>2022-09-12T12:44:01.164Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">20:35</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Xinhua Silk Road "2022 SRMF, 중국 동부 샤먼시에서 개최"]]></title>
+        <id>https://v.daum.net/v/20220912202144443</id>
+        <link href="https://v.daum.net/v/20220912202144443"/>
+        <updated>2022-09-12T12:44:01.164Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:21</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] Xinhua Silk Road "쿤산시, 수십억 달러 규모 프로젝트 계약 체결"]]></title>
         <id>https://v.daum.net/v/20220912200845370</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220912123530347"/>
         <updated>2022-09-12T04:54:05.405Z</updated>
         <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">12:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 우주전파재난 예측 인공지능 경진대회 개최]]></title>
-        <id>https://v.daum.net/v/20220912120527018</id>
-        <link href="https://v.daum.net/v/20220912120527018"/>
-        <updated>2022-09-12T04:54:05.406Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">12:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과기정통부,「소프트웨어 개발보안 모범사례 공모전」개최]]></title>
-        <id>https://v.daum.net/v/20220912120527017</id>
-        <link href="https://v.daum.net/v/20220912120527017"/>
-        <updated>2022-09-12T04:54:05.407Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">12:05</span>]]></content>
     </entry>
 </feed>
