@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-09-12T07:41:05.821Z</updated>
+    <updated>2022-09-12T08:28:00.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] FDI 세계치과의사연맹, 치과의학의 지속가능성 향상 관한 툴킷 발표]]></title>
+        <id>https://v.daum.net/v/20220912170859373</id>
+        <link href="https://v.daum.net/v/20220912170859373"/>
+        <updated>2022-09-12T08:27:52.725Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:08</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이종섭 국방부장관, 육군 3사단 경계작전 현장 방문]]></title>
         <id>https://v.daum.net/v/20220912160522693</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220912103703568"/>
         <updated>2022-09-12T02:10:19.032Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">10:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19 국내 발생 현황 (9월 12일)]]></title>
-        <id>https://v.daum.net/v/20220912100532989</id>
-        <link href="https://v.daum.net/v/20220912100532989"/>
-        <updated>2022-09-12T02:10:19.034Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">10:05</span>]]></content>
     </entry>
 </feed>
