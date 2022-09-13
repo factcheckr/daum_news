@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2022-09-13T16:29:24.840Z</updated>
+    <updated>2022-09-13T17:31:45.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박지성 "'골때녀'에 좋아하는 선수가 있다"..누구?]]></title>
+        <id>https://v.daum.net/v/20220914013506841</id>
+        <link href="https://v.daum.net/v/20220914013506841"/>
+        <updated>2022-09-13T17:31:04.543Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">01:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한혜연, 12kg 감량하고 허리부터 발목까지 '한줌' 사이즈[Oh!쎈 이슈]]]></title>
         <id>https://v.daum.net/v/20220914012144802</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220914003017450"/>
         <updated>2022-09-13T16:28:42.905Z</updated>
         <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김해준·이은지, 핑크빛 기류?.."선 넘을 것 같아 존댓말"]]></title>
-        <id>https://v.daum.net/v/20220914003016449</id>
-        <link href="https://v.daum.net/v/20220914003016449"/>
-        <updated>2022-09-13T16:28:42.906Z</updated>
-        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-09-13T16:29:24.848Z</updated>
+    <updated>2022-09-13T17:31:45.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[김남국의 아포리아]자유세계를 위협하는 테러]]></title>
+        <id>https://v.daum.net/v/20220914020502939</id>
+        <link href="https://v.daum.net/v/20220914020502939"/>
+        <updated>2022-09-13T17:31:28.493Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]모두와 경쟁하고 협력해야 하는 융합시대]]></title>
+        <id>https://v.daum.net/v/20220914020203932</id>
+        <link href="https://v.daum.net/v/20220914020203932"/>
+        <updated>2022-09-13T17:31:28.493Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중앙시평] 고르바초프와 김정은]]></title>
         <id>https://v.daum.net/v/20220914011632787</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220914002203404"/>
         <updated>2022-09-13T15:22:51.423Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이학영 칼럼] '이재명의 대한민국' 예고편 나온 건가]]></title>
-        <id>https://v.daum.net/v/20220914002202403</id>
-        <link href="https://v.daum.net/v/20220914002202403"/>
-        <updated>2022-09-13T15:22:51.424Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시인의 영감과 경영자의 촉이 만나면.. [고두현의 문화살롱]]]></title>
-        <id>https://v.daum.net/v/20220914002102396</id>
-        <link href="https://v.daum.net/v/20220914002102396"/>
-        <updated>2022-09-13T15:22:51.430Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:21</span>]]></content>
     </entry>
 </feed>
