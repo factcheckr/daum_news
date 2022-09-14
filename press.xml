@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-09-14T10:24:21.166Z</updated>
+    <updated>2022-09-14T11:19:10.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제10차 한-메콩 비즈니스 포럼 개최]]></title>
+        <id>https://v.daum.net/v/20220914193531716</id>
+        <link href="https://v.daum.net/v/20220914193531716"/>
+        <updated>2022-09-14T11:19:00.410Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">19:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["이제는 마음에 투자하세요" 대국민 정신건강 공개토론회(세미나) '북토크콘서트' 개최]]></title>
         <id>https://v.daum.net/v/20220914190533134</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220914174402074"/>
         <updated>2022-09-14T09:22:48.687Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:44</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['뮤직 유니버스 K-909' 르세라핌 김채원X세일럼 일리스 만났다..고막 여친들의 특급 시너지 美쳤다]]></title>
-        <id>https://v.daum.net/v/20220914174022966</id>
-        <link href="https://v.daum.net/v/20220914174022966"/>
-        <updated>2022-09-14T09:22:48.688Z</updated>
-        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">17:40</span>]]></content>
     </entry>
 </feed>
