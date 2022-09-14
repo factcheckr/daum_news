@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2022-09-14T17:30:06.368Z</updated>
+    <updated>2022-09-14T18:26:19.036Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘의 채널A]국힘 비대위 앞날과 여권 내홍 상황 분석]]></title>
+        <id>https://v.daum.net/v/20220915030114820</id>
+        <link href="https://v.daum.net/v/20220915030114820"/>
+        <updated>2022-09-14T18:25:38.375Z</updated>
+        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">03:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최유정, 러블리한 카리스마]]></title>
+        <id>https://v.daum.net/v/20220915023009761</id>
+        <link href="https://v.daum.net/v/20220915023009761"/>
+        <updated>2022-09-14T18:25:38.375Z</updated>
+        <content type="html"><![CDATA[스포츠한국<span class="txt_bar"> · </span><span class="info_time">02:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[저스틴 하비, '라스' 출연 인증샷..양재웅과 훈훈 투샷[M+★SNS]]]></title>
         <id>https://v.daum.net/v/20220915021255747</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220915005701559"/>
         <updated>2022-09-14T16:29:20.994Z</updated>
         <content type="html"><![CDATA[SBS연예뉴스<span class="txt_bar"> · </span><span class="info_time">00:57</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신봉선, '7세 연하男' 김희현과 매일 연락 "자기 전에도 톡해" (신랑수업)[종합]]]></title>
-        <id>https://v.daum.net/v/20220915005030543</id>
-        <link href="https://v.daum.net/v/20220915005030543"/>
-        <updated>2022-09-14T16:29:20.997Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스<span class="txt_bar"> · </span><span class="info_time">00:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조성하, 과거 지성 장난감에 진짜 '아다마스' 숨겼다 '충격' [종합]]]></title>
-        <id>https://v.daum.net/v/20220915005024540</id>
-        <link href="https://v.daum.net/v/20220915005024540"/>
-        <updated>2022-09-14T16:29:20.998Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스<span class="txt_bar"> · </span><span class="info_time">00:50</span>]]></content>
     </entry>
 </feed>
