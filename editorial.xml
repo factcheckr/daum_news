@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-09-14T16:30:04.005Z</updated>
+    <updated>2022-09-14T17:30:06.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]원전 수주의 지속가능성]]></title>
+        <id>https://v.daum.net/v/20220915020502740</id>
+        <link href="https://v.daum.net/v/20220915020502740"/>
+        <updated>2022-09-14T17:29:49.539Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]데이터에서 지혜까지]]></title>
+        <id>https://v.daum.net/v/20220915020201736</id>
+        <link href="https://v.daum.net/v/20220915020201736"/>
+        <updated>2022-09-14T17:29:49.541Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중앙시평] 강달러 시대, 원화 환율의 미래는?]]></title>
         <id>https://v.daum.net/v/20220915011428668</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220915003435436"/>
         <updated>2022-09-14T16:29:45.946Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 톡픽(TalkPick)] "한쪽엔 독감, 반대쪽엔 코로나19 백신 맞으면 된다"]]></title>
-        <id>https://v.daum.net/v/20220915003404434</id>
-        <link href="https://v.daum.net/v/20220915003404434"/>
-        <updated>2022-09-14T16:29:45.948Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[조일훈 칼럼] 부자감세라는 이름의 혐오 캠페인]]></title>
-        <id>https://v.daum.net/v/20220915002501380</id>
-        <link href="https://v.daum.net/v/20220915002501380"/>
-        <updated>2022-09-14T16:29:45.949Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:25</span>]]></content>
     </entry>
 </feed>
