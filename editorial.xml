@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-09-15T16:29:59.471Z</updated>
+    <updated>2022-09-15T17:27:29.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]기후위기 극복의 키워드]]></title>
+        <id>https://v.daum.net/v/20220916020202854</id>
+        <link href="https://v.daum.net/v/20220916020202854"/>
+        <updated>2022-09-15T17:27:13.556Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]카톡 금지를 법률로 강제하는 것이 옳은 것일까]]></title>
+        <id>https://v.daum.net/v/20220916020101851</id>
+        <link href="https://v.daum.net/v/20220916020101851"/>
+        <updated>2022-09-15T17:27:13.558Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[최진석 칼럼] 지적 진동]]></title>
         <id>https://v.daum.net/v/20220916011247668</id>
@@ -20,7 +34,7 @@
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">01:10</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[신준봉의 직격인터뷰] "정치인들 제 욕심에 눈 멀어 벽을 더듬고 있다"]]></title>
+        <title type="html"><![CDATA[『하얼빈』 김훈 "지난 대선, 시궁창을 봤다..젊음이 나서야 한다"[신준봉의 직격인터뷰]]]></title>
         <id>https://v.daum.net/v/20220916010716632</id>
         <link href="https://v.daum.net/v/20220916010716632"/>
         <updated>2022-09-15T16:29:44.080Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220916003814503"/>
         <updated>2022-09-15T16:29:44.103Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:38</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[그 영화 이 장면] 엔젤 하트]]></title>
-        <id>https://v.daum.net/v/20220916003404488</id>
-        <link href="https://v.daum.net/v/20220916003404488"/>
-        <updated>2022-09-15T16:29:44.105Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 톡픽(TalkPick)] "인플레 잡으려면 중앙은행이 완고히 싸워야"]]></title>
-        <id>https://v.daum.net/v/20220916003223481</id>
-        <link href="https://v.daum.net/v/20220916003223481"/>
-        <updated>2022-09-15T16:29:44.106Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:32</span>]]></content>
     </entry>
 </feed>
