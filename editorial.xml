@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-09-16T09:22:34.550Z</updated>
+    <updated>2022-09-16T10:24:48.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사설] 민생 위기 속 '용산 영빈관'에 878억 쓰겠다는 윤 대통령]]></title>
+        <id>https://v.daum.net/v/20220916185008321</id>
+        <link href="https://v.daum.net/v/20220916185008321"/>
+        <updated>2022-09-16T10:24:26.095Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">18:50</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 스토킹 강력범죄, '땜질 대응'과 '반짝 관심'으론 못 막는다]]></title>
         <id>https://v.daum.net/v/20220916180505340</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220916144727952"/>
         <updated>2022-09-16T06:07:20.745Z</updated>
         <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">14:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[K우먼톡] 공기업 권하는 어머니, 3년 밀어줄 준비 됐나]]></title>
-        <id>https://v.daum.net/v/20220916142105997</id>
-        <link href="https://v.daum.net/v/20220916142105997"/>
-        <updated>2022-09-16T06:07:20.762Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">14:21</span>]]></content>
     </entry>
 </feed>
