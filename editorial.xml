@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-09-16T21:19:32.288Z</updated>
+    <updated>2022-09-16T22:24:19.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['학폭 논란' 선수 지명..부끄러움은 팬들 몫? [김윤일의 역주행]]]></title>
+        <id>https://v.daum.net/v/20220917070038223</id>
+        <link href="https://v.daum.net/v/20220917070038223"/>
+        <updated>2022-09-16T22:23:57.020Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['물 쓰듯이' 쓸 수 있는 물은 없다 [우리말 톺아보기]]]></title>
         <id>https://v.daum.net/v/20220917043106931</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220917031328833"/>
         <updated>2022-09-16T18:28:25.162Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[朝鮮칼럼 The Column] 실세·핵관은 편히 잘 권리가 없다]]></title>
-        <id>https://v.daum.net/v/20220917031013826</id>
-        <link href="https://v.daum.net/v/20220917031013826"/>
-        <updated>2022-09-16T18:28:25.162Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:10</span>]]></content>
     </entry>
 </feed>
