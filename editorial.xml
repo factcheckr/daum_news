@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-09-17T07:20:44.775Z</updated>
+    <updated>2022-09-17T08:26:18.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[도출신 권인숙·박지현, 신당역 살해 사건 "젠더폭력 결과" 한목소리]]></title>
+        <id>https://v.daum.net/v/20220917171432041</id>
+        <link href="https://v.daum.net/v/20220917171432041"/>
+        <updated>2022-09-17T08:25:58.679Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">17:14</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[갈아엎는 쌀 앞에 두고 밥그릇 싸움..'이재명표' 쌀값 정상화 힘겨루기?]]></title>
+        <id>https://v.daum.net/v/20220917165922895</id>
+        <link href="https://v.daum.net/v/20220917165922895"/>
+        <updated>2022-09-17T08:25:58.681Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">16:59</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[위장(僞裝·Camouflage) [고양이 눈썹 No.36]]]></title>
         <id>https://v.daum.net/v/20220917150009586</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20220917043106931"/>
         <updated>2022-09-16T20:22:49.816Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 여론 반발에 밀려 하루 만에 백지화된 영빈관 신축]]></title>
-        <id>https://v.daum.net/v/20220917043046925</id>
-        <link href="https://v.daum.net/v/20220917043046925"/>
-        <updated>2022-09-16T20:22:49.818Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 윤 대통령, 리잔수 접견..한중 소통 강화 계기 돼야]]></title>
-        <id>https://v.daum.net/v/20220917043036923</id>
-        <link href="https://v.daum.net/v/20220917043036923"/>
-        <updated>2022-09-16T20:22:49.819Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
     </entry>
 </feed>
