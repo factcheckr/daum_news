@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-09-17T01:55:32.162Z</updated>
+    <updated>2022-09-17T04:03:36.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고다르의 죽음, 오겜의 기적..이렇게 시대는 바뀐다  [라제기의 슛 & 숏]]]></title>
+        <id>https://v.daum.net/v/20220917120104164</id>
+        <link href="https://v.daum.net/v/20220917120104164"/>
+        <updated>2022-09-17T04:03:13.465Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">12:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20대 마약사범 급증..인터넷 사범도 증가]]></title>
         <id>https://v.daum.net/v/20220917100711933</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220917040708896"/>
         <updated>2022-09-16T19:19:57.455Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토 카페] 뜨거웠던 기억 뒤로하고]]></title>
-        <id>https://v.daum.net/v/20220917040607888</id>
-        <link href="https://v.daum.net/v/20220917040607888"/>
-        <updated>2022-09-16T19:19:57.455Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:06</span>]]></content>
     </entry>
 </feed>
