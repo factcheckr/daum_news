@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-09-17T11:18:18.452Z</updated>
+    <updated>2022-09-17T13:36:09.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주간 돌발영상] 9월 셋째 주]]></title>
+        <id>https://v.daum.net/v/20220917204919477</id>
+        <link href="https://v.daum.net/v/20220917204919477"/>
+        <updated>2022-09-17T13:35:50.464Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">20:49</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[그림사설] 에미상 6관왕 '오징어게임', 창작자 권리 존중 계기 되길]]></title>
         <id>https://v.daum.net/v/20220917200544022</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220917080004637"/>
         <updated>2022-09-16T23:22:28.302Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['학폭 논란' 선수 지명..부끄러움은 팬들 몫? [김윤일의 역주행]]]></title>
-        <id>https://v.daum.net/v/20220917070038223</id>
-        <link href="https://v.daum.net/v/20220917070038223"/>
-        <updated>2022-09-16T22:23:57.020Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
     </entry>
 </feed>
