@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-09-18T16:28:43.133Z</updated>
+    <updated>2022-09-18T17:25:52.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]라면과 쌀]]></title>
+        <id>https://v.daum.net/v/20220919020503105</id>
+        <link href="https://v.daum.net/v/20220919020503105"/>
+        <updated>2022-09-18T17:25:27.792Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이하경 칼럼] 한덕수는 '이재명' '김건희' 혐오 전쟁을 이겨낼까]]></title>
         <id>https://v.daum.net/v/20220919005833906</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220919003731726"/>
         <updated>2022-09-18T16:28:20.420Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 톡픽(TalkPick)] "남성 지배 세상에서 고독한 여성 지도자로서 역할을 정립한 분"]]></title>
-        <id>https://v.daum.net/v/20220919003350690</id>
-        <link href="https://v.daum.net/v/20220919003350690"/>
-        <updated>2022-09-18T16:28:20.421Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:33</span>]]></content>
     </entry>
 </feed>
