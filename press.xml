@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-09-19T12:44:08.512Z</updated>
+    <updated>2022-09-19T13:52:33.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Huawei APAC ISP 정상회의, 2030 위해 전광 지능형 인터넷 구축 탐색]]></title>
+        <id>https://v.daum.net/v/20220919221126180</id>
+        <link href="https://v.daum.net/v/20220919221126180"/>
+        <updated>2022-09-19T13:52:23.882Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">22:11</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] 화웨이, 교육의 디지털 전환 기회에 관한 백서 발표]]></title>
         <id>https://v.daum.net/v/20220919203037598</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220919184820439"/>
         <updated>2022-09-19T10:25:00.790Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">18:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[굿피플, '은총이와 함께하는 히어로 레이스' 모집 조기 마감.. '3천 명 모집 완료']]></title>
-        <id>https://v.daum.net/v/20220919184510388</id>
-        <link href="https://v.daum.net/v/20220919184510388"/>
-        <updated>2022-09-19T10:25:00.791Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">18:45</span>]]></content>
     </entry>
 </feed>
