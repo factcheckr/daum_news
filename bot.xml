@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-09-19T06:15:21.997Z</updated>
+    <updated>2022-09-19T07:41:47.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가상화폐 비트코인 26,331,000원(-4.22%) 거래중]]></title>
+        <id>https://v.daum.net/v/20220919163118660</id>
+        <link href="https://v.daum.net/v/20220919163118660"/>
+        <updated>2022-09-19T07:41:46.894Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">16:31</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[fnRASSI]장마감, 코스닥 하락 종목(매직마이크로 -31.6% ↓)]]></title>
+        <id>https://v.daum.net/v/20220919153733178</id>
+        <link href="https://v.daum.net/v/20220919153733178"/>
+        <updated>2022-09-19T07:41:46.895Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:37</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[fnRASSI]장마감, 코스닥 상승 종목(양지사 29.9% ↑)]]></title>
+        <id>https://v.daum.net/v/20220919153731177</id>
+        <link href="https://v.daum.net/v/20220919153731177"/>
+        <updated>2022-09-19T07:41:46.900Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:37</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[fnRASSI]장마감, 거래소 하락 종목(휴스틸 -19.1% ↓)]]></title>
+        <id>https://v.daum.net/v/20220919153727175</id>
+        <link href="https://v.daum.net/v/20220919153727175"/>
+        <updated>2022-09-19T07:41:46.900Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:37</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[fnRASSI]장마감, 거래소 상승 종목(화천기계 29.9% ↑)]]></title>
+        <id>https://v.daum.net/v/20220919153723172</id>
+        <link href="https://v.daum.net/v/20220919153723172"/>
+        <updated>2022-09-19T07:41:46.906Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:37</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[fnRASSI]양지사, 화천기계 등 12종목 52주 신고가 경신]]></title>
+        <id>https://v.daum.net/v/20220919153718168</id>
+        <link href="https://v.daum.net/v/20220919153718168"/>
+        <updated>2022-09-19T07:41:46.908Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:37</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[fnRASSI]오늘의 상한가, 양지사 29.9% ↑]]></title>
+        <id>https://v.daum.net/v/20220919153714165</id>
+        <link href="https://v.daum.net/v/20220919153714165"/>
+        <updated>2022-09-19T07:41:46.910Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:37</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유티아이, 하락흐름 전일대비 -10.25%.. 외국인 -58,180주 순매도]]></title>
         <id>https://v.daum.net/v/20220919144329089</id>
@@ -60,12 +109,5 @@
         <link href="https://v.daum.net/v/20220919033133613"/>
         <updated>2022-09-18T19:18:15.618Z</updated>
         <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">03:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가상화폐 칠리즈 329원(+4.11%) 거래중]]></title>
-        <id>https://v.daum.net/v/20220919023123168</id>
-        <link href="https://v.daum.net/v/20220919023123168"/>
-        <updated>2022-09-18T18:26:23.539Z</updated>
-        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">02:31</span>]]></content>
     </entry>
 </feed>
