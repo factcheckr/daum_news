@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-09-19T17:36:05.125Z</updated>
+    <updated>2022-09-19T18:30:08.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[갤럭시 찐팬이 뭉쳤다! '폴더블 문화'로 1억뷰 흥행 돌파]]></title>
+        <id>https://v.daum.net/v/20220920030558976</id>
+        <link href="https://v.daum.net/v/20220920030558976"/>
+        <updated>2022-09-19T18:29:58.414Z</updated>
+        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">03:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[라이프 트렌드&] 등산화 잘 만드는 회사에서 '종합 아웃도어 브랜드'로 변신]]></title>
         <id>https://v.daum.net/v/20220920000458121</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20220920000428105</id>
         <link href="https://v.daum.net/v/20220920000428105"/>
         <updated>2022-09-19T15:23:27.809Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[라이프 트렌드&] "사람이 있기 때문에 기술이 예술로 승화"]]></title>
-        <id>https://v.daum.net/v/20220920000427104</id>
-        <link href="https://v.daum.net/v/20220920000427104"/>
-        <updated>2022-09-19T15:23:27.811Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
     </entry>
 </feed>
