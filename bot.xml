@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-09-20T08:31:08.514Z</updated>
+    <updated>2022-09-20T09:25:47.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가상화폐 비트코인 -130,000원 하락한 27,436,000원에 거래]]></title>
+        <id>https://v.daum.net/v/20220920173123069</id>
+        <link href="https://v.daum.net/v/20220920173123069"/>
+        <updated>2022-09-20T09:25:46.577Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">17:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 날씨 - 오후 (2022년 09월 20일)]]></title>
         <id>https://v.daum.net/v/20220920173048044</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20220920132543460"/>
         <updated>2022-09-20T06:06:58.906Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 만수동 포레시안 아파트 114㎡ 5억3500만원에 거래]]></title>
-        <id>https://v.daum.net/v/20220920132052276</id>
-        <link href="https://v.daum.net/v/20220920132052276"/>
-        <updated>2022-09-20T04:24:27.868Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:20</span>]]></content>
     </entry>
 </feed>
