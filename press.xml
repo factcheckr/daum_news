@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-11-16T20:21:00.725Z</updated>
+    <updated>2022-11-16T21:18:15.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[26개 대학기숙사 사업자의 불공정약관 조항 시정]]></title>
+        <id>https://v.daum.net/v/20221117060542551</id>
+        <link href="https://v.daum.net/v/20221117060542551"/>
+        <updated>2022-11-16T21:18:05.009Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">06:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[속초시 대포농공단지 악취해결 총력]]></title>
         <id>https://v.daum.net/v/20221117050041577</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20221117000516040</id>
         <link href="https://v.daum.net/v/20221117000516040"/>
         <updated>2022-11-16T17:23:56.222Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[KCSI 우수기업] 디지털 채널 통해 비대면 맞춤형 상담 서비스]]></title>
-        <id>https://v.daum.net/v/20221117000512038</id>
-        <link href="https://v.daum.net/v/20221117000512038"/>
-        <updated>2022-11-16T17:23:56.223Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
     </entry>
 </feed>
