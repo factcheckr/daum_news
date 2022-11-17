@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-11-17T03:14:50.559Z</updated>
+    <updated>2022-11-17T04:26:05.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아주 높다란 그리움[신간]]]></title>
+        <id>https://v.daum.net/v/20221117122628242</id>
+        <link href="https://v.daum.net/v/20221117122628242"/>
+        <updated>2022-11-17T04:25:42.230Z</updated>
+        <content type="html"><![CDATA[스포츠경향<span class="txt_bar"> · </span><span class="info_time">12:26</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이 고통에 이유가 있다면 좋을텐데 [쿠키칼럼]]]></title>
         <id>https://v.daum.net/v/20221117121403918</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221117112225555"/>
         <updated>2022-11-17T03:14:30.137Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[헤럴드 광장] 글로벌 위기 극복, ‘임무 중심 R&D’로]]></title>
-        <id>https://v.daum.net/v/20221117112028422</id>
-        <link href="https://v.daum.net/v/20221117112028422"/>
-        <updated>2022-11-17T03:14:30.138Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:20</span>]]></content>
     </entry>
 </feed>
