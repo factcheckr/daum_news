@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-11-17T18:23:37.157Z</updated>
+    <updated>2022-11-17T19:18:05.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지엔에이컴퍼니, 게임리워드앱 '플레이오' 16억원브릿지 투자유치]]></title>
+        <id>https://v.daum.net/v/20221118041649005</id>
+        <link href="https://v.daum.net/v/20221118041649005"/>
+        <updated>2022-11-17T19:17:30.143Z</updated>
+        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">04:16</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[K스타트업 ‘착한 아이디어’가 美 CES서 빛났다]]></title>
         <id>https://v.daum.net/v/20221118030458787</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221118000244423"/>
         <updated>2022-11-17T15:21:04.360Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[지스타 2022] 최지원 네오위즈 PD "P의 거짓, 피노키오 비틀었더니 통하네요"]]></title>
-        <id>https://v.daum.net/v/20221118000024356</id>
-        <link href="https://v.daum.net/v/20221118000024356"/>
-        <updated>2022-11-17T15:21:04.361Z</updated>
-        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
