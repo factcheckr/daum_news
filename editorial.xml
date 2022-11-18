@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-11-18T22:20:00.189Z</updated>
+    <updated>2022-11-18T23:19:25.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[천남수의 視線] 월드컵이 시작됐다, ‘K-사커’ 돌풍이 분다]]></title>
+        <id>https://v.daum.net/v/20221119081631894</id>
+        <link href="https://v.daum.net/v/20221119081631894"/>
+        <updated>2022-11-18T23:19:06.087Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">08:16</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조용필, 존재 자체가 케이팝의 복이다 [하재근의 이슈분석]]]></title>
         <id>https://v.daum.net/v/20221119070707393</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20221119040419335</id>
         <link href="https://v.daum.net/v/20221119040419335"/>
         <updated>2022-11-18T19:16:24.002Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오후 3시의 헌책방] 몸을 쓰는 일]]></title>
-        <id>https://v.daum.net/v/20221119040417334</id>
-        <link href="https://v.daum.net/v/20221119040417334"/>
-        <updated>2022-11-18T19:16:24.003Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:04</span>]]></content>
     </entry>
 </feed>
