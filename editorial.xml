@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-11-18T12:35:05.477Z</updated>
+    <updated>2022-11-18T13:36:53.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나무의 제빛은 가을부터 나온다 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20221118220037429</id>
+        <link href="https://v.daum.net/v/20221118220037429"/>
+        <updated>2022-11-18T13:36:36.350Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘안와골절’ 손흥민, 월드컵 뛰어도 괜찮을까]]></title>
+        <id>https://v.daum.net/v/20221118213900215</id>
+        <link href="https://v.daum.net/v/20221118213900215"/>
+        <updated>2022-11-18T13:36:36.350Z</updated>
+        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">21:39</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 김은혜 재산 누락 ‘무혐의’경찰, 수사독립 가능한가]]></title>
         <id>https://v.daum.net/v/20221118211855996</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221118175846193"/>
         <updated>2022-11-18T09:19:05.716Z</updated>
         <content type="html"><![CDATA[베이비뉴스<span class="txt_bar"> · </span><span class="info_time">17:58</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이디]]></title>
-        <id>https://v.daum.net/v/20221118173015564</id>
-        <link href="https://v.daum.net/v/20221118173015564"/>
-        <updated>2022-11-18T09:19:05.717Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[책과 미래] 멍청함을 자랑하는 문화]]></title>
-        <id>https://v.daum.net/v/20221118173012558</id>
-        <link href="https://v.daum.net/v/20221118173012558"/>
-        <updated>2022-11-18T09:19:05.718Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
     </entry>
 </feed>
