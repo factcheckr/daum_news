@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-11-19T08:24:53.697Z</updated>
+    <updated>2022-11-19T09:18:18.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2022년 11월 19일)]]></title>
+        <id>https://v.daum.net/v/20221119173210133</id>
+        <link href="https://v.daum.net/v/20221119173210133"/>
+        <updated>2022-11-19T09:18:17.974Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:32</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가상화폐 비트코인 -0.23% 하락, 아이큐 39.56% 상승]]></title>
+        <id>https://v.daum.net/v/20221119173118121</id>
+        <link href="https://v.daum.net/v/20221119173118121"/>
+        <updated>2022-11-19T09:18:17.978Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">17:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가상화폐 아이큐 5.89원(+42.96%) 거래중]]></title>
         <id>https://v.daum.net/v/20221119163121505</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221119122040296"/>
         <updated>2022-11-19T04:23:02.850Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울 가락동 가락쌍용1차 59㎡ 10억1000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20221119121534272</id>
-        <link href="https://v.daum.net/v/20221119121534272"/>
-        <updated>2022-11-19T04:23:02.851Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울 신정동 목동10단지 70㎡ 13억5000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20221119121038248</id>
-        <link href="https://v.daum.net/v/20221119121038248"/>
-        <updated>2022-11-19T03:14:49.188Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:10</span>]]></content>
     </entry>
 </feed>
