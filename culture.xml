@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2022-11-19T17:17:06.364Z</updated>
+    <updated>2022-11-19T18:22:26.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[가정예배 365-11월 20일] 성령 충만함으로 드러나는 열매]]></title>
+        <id>https://v.daum.net/v/20221120030221386</id>
+        <link href="https://v.daum.net/v/20221120030221386"/>
+        <updated>2022-11-19T18:21:36.708Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">03:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTS 정국, 카타르 월드컵 개막식서 '드리머스' 공연]]></title>
         <id>https://v.daum.net/v/20221120014503234</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221120000035789"/>
         <updated>2022-11-19T15:18:06.885Z</updated>
         <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[녹유 오늘의 운세] 60년생 치솟는 유명세 하늘 높이 날아보세요]]></title>
-        <id>https://v.daum.net/v/20221120000015784</id>
-        <link href="https://v.daum.net/v/20221120000015784"/>
-        <updated>2022-11-19T15:18:06.886Z</updated>
-        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
