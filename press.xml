@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-11-19T05:17:19.431Z</updated>
+    <updated>2022-11-19T06:23:01.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 중국 국가전망공사, COP27 중국관서 녹색 저탄소 개발보고서 발표]]></title>
+        <id>https://v.daum.net/v/20221119143853327</id>
+        <link href="https://v.daum.net/v/20221119143853327"/>
+        <updated>2022-11-19T06:22:53.229Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">14:38</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] 옴니아(Omnia) 조사에 따르면 2027년까지 틱톡(Tik Tok)의 광고]]></title>
         <id>https://v.daum.net/v/20221119135836941</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221119084654088"/>
         <updated>2022-11-19T01:38:01.562Z</updated>
         <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">08:46</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] ForeVR Games, ForeVR 풀을 통해 당구 게임에 진입]]></title>
-        <id>https://v.daum.net/v/20221119012439828</id>
-        <link href="https://v.daum.net/v/20221119012439828"/>
-        <updated>2022-11-18T16:26:04.497Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">01:24</span>]]></content>
     </entry>
 </feed>
