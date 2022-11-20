@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-11-20T08:24:51.067Z</updated>
+    <updated>2022-11-20T09:19:06.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2022년 11월 20일)]]></title>
+        <id>https://v.daum.net/v/20221120173211280</id>
+        <link href="https://v.daum.net/v/20221120173211280"/>
+        <updated>2022-11-20T09:19:06.138Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:32</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가상화폐 비트코인 -0.13% 하락, 아이큐 43.85% 상승]]></title>
         <id>https://v.daum.net/v/20221120163118425</id>
