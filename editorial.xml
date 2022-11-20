@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-11-20T16:25:09.222Z</updated>
+    <updated>2022-11-20T17:17:00.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]환율 불안과 달러의 무기화]]></title>
+        <id>https://v.daum.net/v/20221121020301684</id>
+        <link href="https://v.daum.net/v/20221121020301684"/>
+        <updated>2022-11-20T17:16:43.848Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중앙시평] 미·중 사이 한국, 선택의 시간은 지났다]]></title>
         <id>https://v.daum.net/v/20221121004723980</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221121001831658"/>
         <updated>2022-11-20T16:24:54.639Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] ‘정권 퇴진’ 장외 집회 국민 공감 못 얻는다]]></title>
-        <id>https://v.daum.net/v/20221121001030570</id>
-        <link href="https://v.daum.net/v/20221121001030570"/>
-        <updated>2022-11-20T15:18:27.435Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
     </entry>
 </feed>
