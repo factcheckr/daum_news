@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-11-20T03:23:58.061Z</updated>
+    <updated>2022-11-20T04:33:23.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Yadea, FIFA 월드컵™ 아시아태평양 지역 후원사로 다시 한번 선정]]></title>
+        <id>https://v.daum.net/v/20221120132823305</id>
+        <link href="https://v.daum.net/v/20221120132823305"/>
+        <updated>2022-11-20T04:33:13.645Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">13:28</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이상하게 설득력있는 프로듀서 옫쏭, 서울커뮤니티라디오서 Welcome to ‘My Beautiful Oddness’ 공연 진행]]></title>
         <id>https://v.daum.net/v/20221120115703128</id>
@@ -83,7 +90,7 @@
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">09:38</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[기아 EV6·니로·스포티지, 호주 아일랜드서 올해의 차 선정]]></title>
+        <title type="html"><![CDATA[기아 EV6, 호주 카세일즈 주관 ‘2022 카세일즈 올해의 차’ 선정]]></title>
         <id>https://v.daum.net/v/20221120093703793</id>
         <link href="https://v.daum.net/v/20221120093703793"/>
         <updated>2022-11-20T01:42:50.722Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221120090703432"/>
         <updated>2022-11-20T01:42:50.724Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">09:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[휴대용 파워뱅크 전문 잭커리(Jackery), ‘SOLAR Generator 1000pro’ 등 30일 출시]]></title>
-        <id>https://v.daum.net/v/20221120083003008</id>
-        <link href="https://v.daum.net/v/20221120083003008"/>
-        <updated>2022-11-20T01:42:50.726Z</updated>
-        <content type="html"><![CDATA[월간 아웃도어<span class="txt_bar"> · </span><span class="info_time">08:30</span>]]></content>
     </entry>
 </feed>
