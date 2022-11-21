@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-11-21T12:39:54.644Z</updated>
+    <updated>2022-11-21T13:42:04.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SSG닷컴, 중소상공인과 같이 지자체와 같이 ‘가치’를 판매합니다]]></title>
+        <id>https://v.daum.net/v/20221121221915482</id>
+        <link href="https://v.daum.net/v/20221121221915482"/>
+        <updated>2022-11-21T13:41:53.403Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:19</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] Hisense's Value-Based Innovation Becomes the Pivotal Driving]]></title>
         <id>https://v.daum.net/v/20221121205615413</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221121192345999"/>
         <updated>2022-11-21T11:16:46.494Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">19:23</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송가인, 22일 KBS1 ‘아침마당’ 출연…‘솔직+유쾌’ 입담 예고]]></title>
-        <id>https://v.daum.net/v/20221121192025944</id>
-        <link href="https://v.daum.net/v/20221121192025944"/>
-        <updated>2022-11-21T10:21:21.706Z</updated>
-        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">19:20</span>]]></content>
     </entry>
 </feed>

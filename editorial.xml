@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-11-21T12:39:54.633Z</updated>
+    <updated>2022-11-21T13:42:04.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[29층 배달 갑질과 플랫폼의 책임 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20221121220036263</id>
+        <link href="https://v.daum.net/v/20221121220036263"/>
+        <updated>2022-11-21T13:41:43.543Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 11월 22일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20221121220026261</id>
+        <link href="https://v.daum.net/v/20221121220026261"/>
+        <updated>2022-11-21T13:41:43.544Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 정면으로 말 뒤집은 남욱, 법원에서 진실 가려야]]></title>
         <id>https://v.daum.net/v/20221121204402212</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221121191536820"/>
         <updated>2022-11-21T10:21:13.658Z</updated>
         <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">19:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 경찰병원 분원 3파전, 이제 집중력 싸움이다]]></title>
-        <id>https://v.daum.net/v/20221121191535818</id>
-        <link href="https://v.daum.net/v/20221121191535818"/>
-        <updated>2022-11-21T10:21:13.660Z</updated>
-        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">19:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[그림사설] 경찰 최상층 잘못 속속 드러나는데 책임지는 사람 없나]]></title>
-        <id>https://v.daum.net/v/20221121191521808</id>
-        <link href="https://v.daum.net/v/20221121191521808"/>
-        <updated>2022-11-21T10:21:13.662Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">19:15</span>]]></content>
     </entry>
 </feed>
