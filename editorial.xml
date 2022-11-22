@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-11-22T16:27:10.698Z</updated>
+    <updated>2022-11-22T17:21:22.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]ESG가 돈 버는 까닭은?]]></title>
+        <id>https://v.daum.net/v/20221123020501400</id>
+        <link href="https://v.daum.net/v/20221123020501400"/>
+        <updated>2022-11-22T17:20:59.226Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]혹한기를 대비한 자금조달 전략]]></title>
+        <id>https://v.daum.net/v/20221123020301384</id>
+        <link href="https://v.daum.net/v/20221123020301384"/>
+        <updated>2022-11-22T17:20:59.226Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중앙시평] 북·중·러발 반작용이 밀려온다]]></title>
         <id>https://v.daum.net/v/20221123010530099</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221123003846899"/>
         <updated>2022-11-22T16:26:54.292Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:38</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내 친구의 친구는 누구인가 [고두현의 문화살롱]]]></title>
-        <id>https://v.daum.net/v/20221123003401874</id>
-        <link href="https://v.daum.net/v/20221123003401874"/>
-        <updated>2022-11-22T16:26:54.294Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[천자칼럼] 대북 제재 '트리거 조항']]></title>
-        <id>https://v.daum.net/v/20221123003304864</id>
-        <link href="https://v.daum.net/v/20221123003304864"/>
-        <updated>2022-11-22T16:26:54.295Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:33</span>]]></content>
     </entry>
 </feed>

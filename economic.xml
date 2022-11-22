@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2022-11-22T16:27:10.705Z</updated>
+    <updated>2022-11-22T17:21:22.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[제58회 중앙광고대상] SK텔레콤 ‘만나봐! 키워봐! 일상의 디지털 메이트, 에이닷’]]></title>
+        <id>https://v.daum.net/v/20221123021133447</id>
+        <link href="https://v.daum.net/v/20221123021133447"/>
+        <updated>2022-11-22T17:19:53.216Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">02:11</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뉴욕증시, 소매 기업 실적 호조에 반등세 출발]]></title>
         <id>https://v.daum.net/v/20221123011038164</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20221123010557106</id>
         <link href="https://v.daum.net/v/20221123010557106"/>
         <updated>2022-11-22T16:25:57.086Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[농협, '2022년 국민행복! 김장나눔!' 행사 개최]]></title>
-        <id>https://v.daum.net/v/20221123010553104</id>
-        <link href="https://v.daum.net/v/20221123010553104"/>
-        <updated>2022-11-22T16:25:57.087Z</updated>
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:05</span>]]></content>
     </entry>
 </feed>
