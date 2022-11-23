@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-11-23T08:23:01.338Z</updated>
+    <updated>2022-11-23T09:18:30.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2022년 11월 23일)]]></title>
+        <id>https://v.daum.net/v/20221123173225313</id>
+        <link href="https://v.daum.net/v/20221123173225313"/>
+        <updated>2022-11-23T09:18:30.001Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:32</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[fnRASSI]장마감, 코스닥 하락 종목(에이트원 -22.5% ↓)]]></title>
         <id>https://v.daum.net/v/20221123160841878</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221123130533009"/>
         <updated>2022-11-23T04:22:44.266Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고양 식사동 위시티블루밍3단지 101㎡ 7억9800만원에 거래]]></title>
-        <id>https://v.daum.net/v/20221123130048858</id>
-        <link href="https://v.daum.net/v/20221123130048858"/>
-        <updated>2022-11-23T04:22:44.274Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:00</span>]]></content>
     </entry>
 </feed>
