@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-11-23T22:18:09.906Z</updated>
+    <updated>2022-11-23T23:19:04.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[미술 다시 보기]앵그르의 그랑 오달리스크]]></title>
+        <id>https://v.daum.net/v/20221124080039905</id>
+        <link href="https://v.daum.net/v/20221124080039905"/>
+        <updated>2022-11-23T23:18:41.691Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[김태기의 인사이트]죽음까지 이용하는 정치 시민단체]]></title>
+        <id>https://v.daum.net/v/20221124080030903</id>
+        <link href="https://v.daum.net/v/20221124080030903"/>
+        <updated>2022-11-23T23:18:41.696Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[취재 뒷담화] 기후, 정의, 대안 좀 더 궁금하다면]]></title>
+        <id>https://v.daum.net/v/20221124074504612</id>
+        <link href="https://v.daum.net/v/20221124074504612"/>
+        <updated>2022-11-23T23:18:41.697Z</updated>
+        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">07:45</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팀장 칼럼] 코스트코 핫도그가 37년째 2000원인 이유]]></title>
+        <id>https://v.daum.net/v/20221124072831397</id>
+        <link href="https://v.daum.net/v/20221124072831397"/>
+        <updated>2022-11-23T23:18:41.697Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">07:28</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[여백] 서울대육사]]></title>
         <id>https://v.daum.net/v/20221124070512160</id>
@@ -48,13 +76,6 @@
         <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">07:05</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[천화동인 1호 실소유주 '그분' 알고 싶다 [박찬제의 기출문제]]]></title>
-        <id>https://v.daum.net/v/20221124070226115</id>
-        <link href="https://v.daum.net/v/20221124070226115"/>
-        <updated>2022-11-23T22:17:51.868Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:02</span>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[김지현의 IT세상]암호화폐가 선사하는 제3 세계]]></title>
         <id>https://v.daum.net/v/20221124061508621</id>
         <link href="https://v.daum.net/v/20221124061508621"/>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20221124053025047"/>
         <updated>2022-11-23T21:16:22.066Z</updated>
         <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우유가격연동제 판박이 될 납품가격연동제 [최준선의 Zoom-In]]]></title>
-        <id>https://v.daum.net/v/20221124050505811</id>
-        <link href="https://v.daum.net/v/20221124050505811"/>
-        <updated>2022-11-23T20:19:05.308Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">05:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박인휘의 서울 오디세이] 한일 관계 정상화의 타이밍/이화여대 국제학부 교수]]></title>
-        <id>https://v.daum.net/v/20221124050355797</id>
-        <link href="https://v.daum.net/v/20221124050355797"/>
-        <updated>2022-11-23T20:19:05.309Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[씨줄날줄] ‘강변호텔’과 소프트파워/박현갑 논설위원]]></title>
-        <id>https://v.daum.net/v/20221124050353796</id>
-        <link href="https://v.daum.net/v/20221124050353796"/>
-        <updated>2022-11-23T20:19:05.310Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
     </entry>
 </feed>
