@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-11-25T10:20:12.734Z</updated>
+    <updated>2022-11-25T11:16:09.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[고두현의 아침 시편] 의사 시인을 울린 비누 두 장]]></title>
+        <id>https://v.daum.net/v/20221125194601035</id>
+        <link href="https://v.daum.net/v/20221125194601035"/>
+        <updated>2022-11-25T11:15:49.322Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">19:46</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 금융시장까지 흔드는 한전 적자, 근본 대책 필요하다]]></title>
         <id>https://v.daum.net/v/20221125182504786</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221125173001691"/>
         <updated>2022-11-25T09:18:36.005Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제4차 미세먼지 계절관리제 내달 시행…"고농도 초미세먼지 감축"]]></title>
-        <id>https://v.daum.net/v/20221125172944685</id>
-        <link href="https://v.daum.net/v/20221125172944685"/>
-        <updated>2022-11-25T09:18:36.008Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">17:29</span>]]></content>
     </entry>
 </feed>
