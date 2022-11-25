@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-11-25T04:22:44.628Z</updated>
+    <updated>2022-11-25T05:17:12.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이변의 월드컵'... 40만 명 승부 예측 다 빗나갔다]]></title>
+        <id>https://v.daum.net/v/20221125141103990</id>
+        <link href="https://v.daum.net/v/20221125141103990"/>
+        <updated>2022-11-25T05:16:51.047Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">14:11</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[일상 속 뇌과학] 뇌가 실수와 오류를 제거하는 법]]></title>
+        <id>https://v.daum.net/v/20221125140013606</id>
+        <link href="https://v.daum.net/v/20221125140013606"/>
+        <updated>2022-11-25T05:16:51.048Z</updated>
+        <content type="html"><![CDATA[동아사이언스<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[시시비비]인간을 위한 튜링 테스트 '캡챠']]></title>
+        <id>https://v.daum.net/v/20221125135257365</id>
+        <link href="https://v.daum.net/v/20221125135257365"/>
+        <updated>2022-11-25T05:16:51.049Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">13:52</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<사설>화물연대 운송 방해부터 민 · 형사 책임 끝까지 물어야]]></title>
         <id>https://v.daum.net/v/20221125115440356</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20221125112414348"/>
         <updated>2022-11-25T03:03:28.289Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시사컬처]정치권의 적은 누구인가]]></title>
-        <id>https://v.daum.net/v/20221125112046195</id>
-        <link href="https://v.daum.net/v/20221125112046195"/>
-        <updated>2022-11-25T03:03:28.290Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[헤럴드 광장]참을 수 없는 우리 사회의 가벼움, 그럴 거면]]></title>
-        <id>https://v.daum.net/v/20221125111619012</id>
-        <link href="https://v.daum.net/v/20221125111619012"/>
-        <updated>2022-11-25T03:03:28.292Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설]잠재력 밑도는 저성장의 돌파구는 규제개혁뿐]]></title>
-        <id>https://v.daum.net/v/20221125111551995</id>
-        <link href="https://v.daum.net/v/20221125111551995"/>
-        <updated>2022-11-25T03:03:28.293Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:15</span>]]></content>
     </entry>
 </feed>
