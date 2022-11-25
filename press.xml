@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-11-25T11:16:09.376Z</updated>
+    <updated>2022-11-25T12:34:21.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[AsiaNet] 제3회 World Lemon Industry Development Conference, 중국 안웨서 개막]]></title>
+        <id>https://v.daum.net/v/20221125205157542</id>
+        <link href="https://v.daum.net/v/20221125205157542"/>
+        <updated>2022-11-25T12:34:12.011Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:51</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대전디자인진흥원, ‘디자인 문화융화·시민체험 축제’ 개최]]></title>
         <id>https://v.daum.net/v/20221125191703473</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221125172021462"/>
         <updated>2022-11-25T08:22:26.948Z</updated>
         <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">17:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[순살만공격, ‘2022 올해의 우수브랜드 대상’ 치킨 부문 2년 연속 1위 수상]]></title>
-        <id>https://v.daum.net/v/20221125171900435</id>
-        <link href="https://v.daum.net/v/20221125171900435"/>
-        <updated>2022-11-25T08:22:26.951Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">17:19</span>]]></content>
     </entry>
 </feed>
