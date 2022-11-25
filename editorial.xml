@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-11-25T09:19:01.964Z</updated>
+    <updated>2022-11-25T10:20:12.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사설] 금융시장까지 흔드는 한전 적자, 근본 대책 필요하다]]></title>
+        <id>https://v.daum.net/v/20221125182504786</id>
+        <link href="https://v.daum.net/v/20221125182504786"/>
+        <updated>2022-11-25T10:19:54.517Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">18:25</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[데스크칼럼] 과방위, 방송위로 이름 바꿔야]]></title>
+        <id>https://v.daum.net/v/20221125182206743</id>
+        <link href="https://v.daum.net/v/20221125182206743"/>
+        <updated>2022-11-25T10:19:54.517Z</updated>
+        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">18:22</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] ‘대통령실 앞 집회 금지’ 합의한 민주당, 헌법 원칙 버리나]]></title>
         <id>https://v.daum.net/v/20221125180531403</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221125172944685"/>
         <updated>2022-11-25T09:18:36.008Z</updated>
         <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">17:29</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[매경춘추] 자백과 거짓말]]></title>
-        <id>https://v.daum.net/v/20221125172409558</id>
-        <link href="https://v.daum.net/v/20221125172409558"/>
-        <updated>2022-11-25T09:18:36.009Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[리더의 소통] 괴테 어록을 읽는 이유]]></title>
-        <id>https://v.daum.net/v/20221125171514331</id>
-        <link href="https://v.daum.net/v/20221125171514331"/>
-        <updated>2022-11-25T08:22:19.926Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:15</span>]]></content>
     </entry>
 </feed>
