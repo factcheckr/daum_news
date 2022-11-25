@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-11-25T22:17:53.145Z</updated>
+    <updated>2022-11-25T23:18:41.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지방언론과 모래시계]]></title>
+        <id>https://v.daum.net/v/20221126080505608</id>
+        <link href="https://v.daum.net/v/20221126080505608"/>
+        <updated>2022-11-25T23:18:18.569Z</updated>
+        <content type="html"><![CDATA[미디어오늘<span class="txt_bar"> · </span><span class="info_time">08:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[신세돈의 경제통감]중산층 경제난부터 챙겨라]]></title>
+        <id>https://v.daum.net/v/20221126080052540</id>
+        <link href="https://v.daum.net/v/20221126080052540"/>
+        <updated>2022-11-25T23:18:18.570Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[K 트레이딩업]디지털 인디아, 돈이 몰려 온다]]></title>
+        <id>https://v.daum.net/v/20221126080030530</id>
+        <link href="https://v.daum.net/v/20221126080030530"/>
+        <updated>2022-11-25T23:18:18.573Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이승기 음원 수익 0원 논란의 충격 [하재근의 이슈분석]]]></title>
         <id>https://v.daum.net/v/20221126070707149</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20221126040418593"/>
         <updated>2022-11-25T19:14:29.255Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[빛과 소금] 한달살이, 그리고 공감]]></title>
-        <id>https://v.daum.net/v/20221126040312585</id>
-        <link href="https://v.daum.net/v/20221126040312585"/>
-        <updated>2022-11-25T19:14:29.256Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 또 신촌 모녀 극단 선택… 복지 사각지대 여전]]></title>
-        <id>https://v.daum.net/v/20221126040309583</id>
-        <link href="https://v.daum.net/v/20221126040309583"/>
-        <updated>2022-11-25T19:14:29.257Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데스크 칼럼] 각자도생의 금융위기 내러티브, 끊을 해법 갖고 있나]]></title>
-        <id>https://v.daum.net/v/20221126040223579</id>
-        <link href="https://v.daum.net/v/20221126040223579"/>
-        <updated>2022-11-25T19:14:29.258Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">04:02</span>]]></content>
     </entry>
 </feed>
