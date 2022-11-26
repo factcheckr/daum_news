@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2022-11-26T13:23:37.683Z</updated>
+    <updated>2022-11-26T14:15:48.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주일대사, “尹 대통령, 연내 일본 방문 가능성…미래지향 협력 필요”]]></title>
+        <id>https://v.daum.net/v/20221126223306348</id>
+        <link href="https://v.daum.net/v/20221126223306348"/>
+        <updated>2022-11-26T14:14:12.048Z</updated>
+        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">22:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주일대사 "尹대통령, 연내 일본 방문 가능성 배제 못해"]]></title>
         <id>https://v.daum.net/v/20221126221727206</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221126212217668"/>
         <updated>2022-11-26T12:29:17.403Z</updated>
         <content type="html"><![CDATA[풋볼리스트<span class="txt_bar"> · </span><span class="info_time">21:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[WK포토] '챔피언결정전 MVP' 이민아]]></title>
-        <id>https://v.daum.net/v/20221126212112658</id>
-        <link href="https://v.daum.net/v/20221126212112658"/>
-        <updated>2022-11-26T12:29:17.404Z</updated>
-        <content type="html"><![CDATA[풋볼리스트<span class="txt_bar"> · </span><span class="info_time">21:21</span>]]></content>
     </entry>
 </feed>
