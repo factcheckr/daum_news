@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-11-26T11:15:13.082Z</updated>
+    <updated>2022-11-26T12:30:42.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[버림 받은 설원 '비켄디' 새로 태어난다]]></title>
+        <id>https://v.daum.net/v/20221126212549695</id>
+        <link href="https://v.daum.net/v/20221126212549695"/>
+        <updated>2022-11-26T12:30:14.104Z</updated>
+        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">21:25</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네오플, 던파의 미래를 이끌 디렉터 3인 깜짝 공개]]></title>
+        <id>https://v.daum.net/v/20221126202700235</id>
+        <link href="https://v.daum.net/v/20221126202700235"/>
+        <updated>2022-11-26T12:30:14.112Z</updated>
+        <content type="html"><![CDATA[게임동아<span class="txt_bar"> · </span><span class="info_time">20:27</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이커머스에 구애하는 유튜브...‘장밋빛 계획’ 뒤 가시가 있네 [홍키자의 빅테크]]]></title>
         <id>https://v.daum.net/v/20221126200304969</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221126173018604"/>
         <updated>2022-11-26T09:16:47.777Z</updated>
         <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위메이드 “위믹스 상폐는 4대 거래소 담합 결과…공정위에 제소”]]></title>
-        <id>https://v.daum.net/v/20221126170118125</id>
-        <link href="https://v.daum.net/v/20221126170118125"/>
-        <updated>2022-11-26T08:22:30.009Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘은 게임도 '작가 놀음'... 주인공의 욕망과 결핍은 필수 [게임연구소]]]></title>
-        <id>https://v.daum.net/v/20221126170014111</id>
-        <link href="https://v.daum.net/v/20221126170014111"/>
-        <updated>2022-11-26T08:22:30.020Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">17:00</span>]]></content>
     </entry>
 </feed>
