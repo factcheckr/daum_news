@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/society</id>
     <title>다음 뉴스 ─ 전체기사 ─ 사회</title>
-    <updated>2022-11-26T17:16:18.864Z</updated>
+    <updated>2022-11-26T18:21:06.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[광역버스, 유리창 파손에도 운행...승객들 불안]]></title>
+        <id>https://v.daum.net/v/20221127021609978</id>
+        <link href="https://v.daum.net/v/20221127021609978"/>
+        <updated>2022-11-26T18:19:16.330Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">02:16</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[특수본, 최성범 용산소방서장 재소환 조사]]></title>
         <id>https://v.daum.net/v/20221127021009966</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221127000307223"/>
         <updated>2022-11-26T15:16:24.276Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전립선 방광살리기]질염, 만만하게 볼 일 아냐.. 만성방광염 위험 커져]]></title>
-        <id>https://v.daum.net/v/20221127000307222</id>
-        <link href="https://v.daum.net/v/20221127000307222"/>
-        <updated>2022-11-26T15:16:24.278Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
     </entry>
 </feed>
