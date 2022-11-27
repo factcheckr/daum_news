@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2022-11-27T15:17:42.434Z</updated>
+    <updated>2022-11-27T16:23:55.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“만성 B형 간염 치료제…비알코올 지방간에 효과”]]></title>
+        <id>https://v.daum.net/v/20221128010219194</id>
+        <link href="https://v.daum.net/v/20221128010219194"/>
+        <updated>2022-11-27T16:22:50.523Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 오늘∼내일 많은 비...겨울 시작부터 영하 10℃ 북극 한파]]></title>
+        <id>https://v.daum.net/v/20221128003110995</id>
+        <link href="https://v.daum.net/v/20221128003110995"/>
+        <updated>2022-11-27T16:22:50.525Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:31</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 오늘∼내일  많은 비...겨울 시작부터 영하 10℃ 한파]]></title>
+        <id>https://v.daum.net/v/20221128002700978</id>
+        <link href="https://v.daum.net/v/20221128002700978"/>
+        <updated>2022-11-27T16:22:50.527Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:27</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘도 밝은 엔믹스]]></title>
         <id>https://v.daum.net/v/20221128001056855</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20221128000226725"/>
         <updated>2022-11-27T15:16:37.791Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘이태원 참사’ 한 달…위험 진단, 대책 담은 심층 보도를]]></title>
-        <id>https://v.daum.net/v/20221128000214720</id>
-        <link href="https://v.daum.net/v/20221128000214720"/>
-        <updated>2022-11-27T15:16:37.792Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구석구석 따라하고 싶은 요리사 프레데릭 빌 브라헤의 집]]></title>
-        <id>https://v.daum.net/v/20221128000158710</id>
-        <link href="https://v.daum.net/v/20221128000158710"/>
-        <updated>2022-11-27T15:16:37.793Z</updated>
-        <content type="html"><![CDATA[엘르<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘달은 어디에 떠 있는가’ 최양일 감독 별세]]></title>
-        <id>https://v.daum.net/v/20221128000158709</id>
-        <link href="https://v.daum.net/v/20221128000158709"/>
-        <updated>2022-11-27T15:16:37.794Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
     </entry>
 </feed>
