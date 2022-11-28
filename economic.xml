@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2022-11-28T16:21:54.697Z</updated>
+    <updated>2022-11-28T17:18:36.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에버그란데, 부채문제로 선전 상업지구 10억5천만 달러 매각]]></title>
+        <id>https://v.daum.net/v/20221129013656003</id>
+        <link href="https://v.daum.net/v/20221129013656003"/>
+        <updated>2022-11-28T17:16:54.394Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">01:36</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화물연대 파업, 5개월 만에 車 탁송난 재발]]></title>
         <id>https://v.daum.net/v/20221129011611816</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20221129010707692</id>
         <link href="https://v.daum.net/v/20221129010707692"/>
         <updated>2022-11-28T16:20:35.764Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애경산업, 동해안 산불 피해지역 생태계 복원 위해 후원금 5000만원 전달]]></title>
-        <id>https://v.daum.net/v/20221129010701690</id>
-        <link href="https://v.daum.net/v/20221129010701690"/>
-        <updated>2022-11-28T16:20:35.765Z</updated>
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:07</span>]]></content>
     </entry>
 </feed>
