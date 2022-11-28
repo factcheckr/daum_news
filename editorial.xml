@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-11-28T13:29:08.141Z</updated>
+    <updated>2022-11-28T14:17:18.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[그림사설] 1%대 경제성장에도 계속되는 화물연대 총파업]]></title>
+        <id>https://v.daum.net/v/20221128224543943</id>
+        <link href="https://v.daum.net/v/20221128224543943"/>
+        <updated>2022-11-28T14:17:00.511Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">22:45</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022년 11월 29일[김용민의 그림마당]]]></title>
         <id>https://v.daum.net/v/20221128220152192</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221128195754128"/>
         <updated>2022-11-28T11:16:04.552Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:57</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You want to know Xi? You must study Mao.]]></title>
-        <id>https://v.daum.net/v/20221128195604100</id>
-        <link href="https://v.daum.net/v/20221128195604100"/>
-        <updated>2022-11-28T11:16:04.554Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:56</span>]]></content>
     </entry>
 </feed>
