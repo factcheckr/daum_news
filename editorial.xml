@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-11-28T02:58:49.311Z</updated>
+    <updated>2022-11-28T03:34:31.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[금융위·금감원 '국제보험감독자협의회(IAIS) 실무그룹' 회의 개최]]></title>
+        <id>https://v.daum.net/v/20221128120104886</id>
+        <link href="https://v.daum.net/v/20221128120104886"/>
+        <updated>2022-11-28T03:34:11.883Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">12:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["골을 넣으면 반드시 세리머니를 하라"]]></title>
         <id>https://v.daum.net/v/20221128115620648</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221128105405858"/>
         <updated>2022-11-28T02:58:31.488Z</updated>
         <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">10:54</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[논단]양극화, 인플레이션의 공(功) 과(過)]]></title>
-        <id>https://v.daum.net/v/20221128104940677</id>
-        <link href="https://v.daum.net/v/20221128104940677"/>
-        <updated>2022-11-28T02:58:31.490Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">10:49</span>]]></content>
     </entry>
 </feed>
