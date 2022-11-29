@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-11-29T16:26:19.652Z</updated>
+    <updated>2022-11-29T17:17:02.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]어려서부터 입법과 준법을 배워야]]></title>
+        <id>https://v.daum.net/v/20221130020302096</id>
+        <link href="https://v.daum.net/v/20221130020302096"/>
+        <updated>2022-11-29T17:16:42.195Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오병상의 코멘터리] 윤석열, 민주노총에 돌직구 던지다]]></title>
         <id>https://v.daum.net/v/20221130011730820</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221130001032284"/>
         <updated>2022-11-29T15:19:17.562Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[차현진의 돈과 세상] [99] 수출의 날]]></title>
-        <id>https://v.daum.net/v/20221130001024282</id>
-        <link href="https://v.daum.net/v/20221130001024282"/>
-        <updated>2022-11-29T15:19:17.563Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
     </entry>
 </feed>
