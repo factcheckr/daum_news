@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-11-30T03:25:52.297Z</updated>
+    <updated>2022-11-30T04:23:20.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[기자수첩]부동산 경착륙 '우려'…과감한 규제 완화 필요]]></title>
+        <id>https://v.daum.net/v/20221130130011659</id>
+        <link href="https://v.daum.net/v/20221130130011659"/>
+        <updated>2022-11-30T04:23:03.138Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">13:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어떤 상황에서도 우리가 하나라는 것을 놓쳐서는 안된다]]></title>
+        <id>https://v.daum.net/v/20221130124002300</id>
+        <link href="https://v.daum.net/v/20221130124002300"/>
+        <updated>2022-11-30T04:23:03.141Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">12:40</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전력수요 내년 1월이 정점…"공급 늘어 안정적"]]></title>
         <id>https://v.daum.net/v/20221130115404238</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221130112235867"/>
         <updated>2022-11-30T02:51:55.367Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설]정면충돌로 치닫는 勞-政...협상의 끈 놓지 말아야]]></title>
-        <id>https://v.daum.net/v/20221130112235866</id>
-        <link href="https://v.daum.net/v/20221130112235866"/>
-        <updated>2022-11-30T02:51:55.369Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인사] 현대자동차그룹]]></title>
-        <id>https://v.daum.net/v/20221130112122809</id>
-        <link href="https://v.daum.net/v/20221130112122809"/>
-        <updated>2022-11-30T02:51:55.370Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">11:21</span>]]></content>
     </entry>
 </feed>
