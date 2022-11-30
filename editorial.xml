@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-11-30T04:23:20.108Z</updated>
+    <updated>2022-11-30T05:18:03.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[기자수첩] 화물연대 파업에 대처해야 할 정부의 자세]]></title>
+        <id>https://v.daum.net/v/20221130140018158</id>
+        <link href="https://v.daum.net/v/20221130140018158"/>
+        <updated>2022-11-30T05:17:44.368Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](30일 석간)]]></title>
+        <id>https://v.daum.net/v/20221130140004121</id>
+        <link href="https://v.daum.net/v/20221130140004121"/>
+        <updated>2022-11-30T05:17:44.368Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[데일리안 시사만평] 윤석열정부 "화물연대 등 불법엔 타협없다"…여야 '팽팽'한 대립국면]]></title>
+        <id>https://v.daum.net/v/20221130132918281</id>
+        <link href="https://v.daum.net/v/20221130132918281"/>
+        <updated>2022-11-30T05:17:44.368Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">13:29</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인사] GS그룹]]></title>
+        <id>https://v.daum.net/v/20221130132821267</id>
+        <link href="https://v.daum.net/v/20221130132821267"/>
+        <updated>2022-11-30T05:17:44.371Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">13:28</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[기자수첩]부동산 경착륙 '우려'…과감한 규제 완화 필요]]></title>
         <id>https://v.daum.net/v/20221130130011659</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20221130113317424"/>
         <updated>2022-11-30T02:51:55.361Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:33</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<오후여담>‘유검무죄, 무검유죄’ 유감]]></title>
-        <id>https://v.daum.net/v/20221130113316422</id>
-        <link href="https://v.daum.net/v/20221130113316422"/>
-        <updated>2022-11-30T02:51:55.363Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:33</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[헤럴드시사] 보편적 권리로서의 디지털]]></title>
-        <id>https://v.daum.net/v/20221130112700071</id>
-        <link href="https://v.daum.net/v/20221130112700071"/>
-        <updated>2022-11-30T02:51:55.364Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[헤럴드광장] 세계 유일 안전운임, 신중하게 접근해야]]></title>
-        <id>https://v.daum.net/v/20221130112256884</id>
-        <link href="https://v.daum.net/v/20221130112256884"/>
-        <updated>2022-11-30T02:51:55.366Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설]4개월 연속 생산 감소, 더 뚜렷해진 경기하강 추세]]></title>
-        <id>https://v.daum.net/v/20221130112235867</id>
-        <link href="https://v.daum.net/v/20221130112235867"/>
-        <updated>2022-11-30T02:51:55.367Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:22</span>]]></content>
     </entry>
 </feed>
