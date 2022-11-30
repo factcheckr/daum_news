@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-11-30T02:52:16.966Z</updated>
+    <updated>2022-11-30T03:25:52.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전력수요 내년 1월이 정점…"공급 늘어 안정적"]]></title>
+        <id>https://v.daum.net/v/20221130115404238</id>
+        <link href="https://v.daum.net/v/20221130115404238"/>
+        <updated>2022-11-30T03:25:35.182Z</updated>
+        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">11:54</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<사설>‘노사 법치’ 중대 기로… 정부와 국민 의지에 성패 달렸다]]></title>
         <id>https://v.daum.net/v/20221130113932679</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221130112122809"/>
         <updated>2022-11-30T02:51:55.370Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">11:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[프로필] 이규복 현대글로비스 대표이사 부사장]]></title>
-        <id>https://v.daum.net/v/20221130111632492</id>
-        <link href="https://v.daum.net/v/20221130111632492"/>
-        <updated>2022-11-30T02:51:55.372Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">11:16</span>]]></content>
     </entry>
 </feed>
