@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-12-01T12:36:07.691Z</updated>
+    <updated>2022-12-01T13:36:32.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[김희원 칼럼] 이토록 지엽적인 민주당]]></title>
+        <id>https://v.daum.net/v/20221201220537715</id>
+        <link href="https://v.daum.net/v/20221201220537715"/>
+        <updated>2022-12-01T13:36:12.870Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[당신의 잘못이 아닙니다 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20221201220030641</id>
+        <link href="https://v.daum.net/v/20221201220030641"/>
+        <updated>2022-12-01T13:36:12.874Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 12월 2일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20221201220028639</id>
+        <link href="https://v.daum.net/v/20221201220028639"/>
+        <updated>2022-12-01T13:36:12.878Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“GDP만 팽창시키면 막대한 폐기물·탄소 쏟아져… 성장은 지구에 해악”]]></title>
         <id>https://v.daum.net/v/20221201210125932</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20221201193737665"/>
         <updated>2022-12-01T11:15:54.848Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Korea’s Dream Factory deserves help]]></title>
-        <id>https://v.daum.net/v/20221201193636657</id>
-        <link href="https://v.daum.net/v/20221201193636657"/>
-        <updated>2022-12-01T11:15:54.849Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Today's Cartoon] 2022.12.02]]></title>
-        <id>https://v.daum.net/v/20221201193457617</id>
-        <link href="https://v.daum.net/v/20221201193457617"/>
-        <updated>2022-12-01T11:15:54.850Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World news without borders]]></title>
-        <id>https://v.daum.net/v/20221201193226590</id>
-        <link href="https://v.daum.net/v/20221201193226590"/>
-        <updated>2022-12-01T11:15:54.851Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:32</span>]]></content>
     </entry>
 </feed>
