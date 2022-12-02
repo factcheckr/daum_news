@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-12-02T09:17:08.124Z</updated>
+    <updated>2022-12-02T10:19:49.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] UMKM EXPO(RT) BRILIANPRENEUR 2022 개최]]></title>
+        <id>https://v.daum.net/v/20221202190122240</id>
+        <link href="https://v.daum.net/v/20221202190122240"/>
+        <updated>2022-12-02T10:19:38.383Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">19:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[모의기업 직무체험 통한 바이오헬스케어 인재양성 프로그램, 취업캠프 통해 청년 취업역량 지원]]></title>
         <id>https://v.daum.net/v/20221202180703514</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221202172703556"/>
         <updated>2022-12-02T09:16:54.702Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ACM 시그라프, 시그라프 아시아 2022 컴퓨터 애니메이션 페스티벌’서 최고 우수 작품자에 상 수여]]></title>
-        <id>https://v.daum.net/v/20221202171705315</id>
-        <link href="https://v.daum.net/v/20221202171705315"/>
-        <updated>2022-12-02T08:21:31.469Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:17</span>]]></content>
     </entry>
 </feed>
