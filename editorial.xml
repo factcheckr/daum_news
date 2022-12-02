@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-12-02T06:21:23.910Z</updated>
+    <updated>2022-12-02T07:16:21.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[영상사설]민생 볼모로 삼는 화물연대·지하철 파업]]></title>
+        <id>https://v.daum.net/v/20221202160753539</id>
+        <link href="https://v.daum.net/v/20221202160753539"/>
+        <updated>2022-12-02T07:16:02.600Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">16:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인사]산업통상자원부]]></title>
+        <id>https://v.daum.net/v/20221202152704243</id>
+        <link href="https://v.daum.net/v/20221202152704243"/>
+        <updated>2022-12-02T07:16:02.606Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">15:27</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[fn사설] 예방 우선 중대재해 로드맵, 옥상옥 규제는 안돼야]]></title>
         <id>https://v.daum.net/v/20221202150939730</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221202114810623"/>
         <updated>2022-12-02T02:49:07.911Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<포럼>헌법상 政黨 요건도 이탈하는 민주당]]></title>
-        <id>https://v.daum.net/v/20221202114529557</id>
-        <link href="https://v.daum.net/v/20221202114529557"/>
-        <updated>2022-12-02T02:49:07.918Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<포럼>화물차 허가제→ 등록제 복귀도 급하다]]></title>
-        <id>https://v.daum.net/v/20221202114301505</id>
-        <link href="https://v.daum.net/v/20221202114301505"/>
-        <updated>2022-12-02T02:49:07.918Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:43</span>]]></content>
     </entry>
 </feed>
