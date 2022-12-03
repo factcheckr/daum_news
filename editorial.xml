@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-12-02T23:17:48.247Z</updated>
+    <updated>2022-12-03T01:13:50.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](3일 조간)]]></title>
+        <id>https://v.daum.net/v/20221203100010252</id>
+        <link href="https://v.daum.net/v/20221203100010252"/>
+        <updated>2022-12-03T01:13:32.614Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">10:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[천남수의 視線] 우리는 검찰을 이길 수 없다]]></title>
+        <id>https://v.daum.net/v/20221203093617060</id>
+        <link href="https://v.daum.net/v/20221203093617060"/>
+        <updated>2022-12-03T01:13:32.615Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">09:36</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[집배원 따라 복지 사각지대 찾았더니…절반이 빈집]]></title>
+        <id>https://v.daum.net/v/20221203093601052</id>
+        <link href="https://v.daum.net/v/20221203093601052"/>
+        <updated>2022-12-03T01:13:32.619Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV<span class="txt_bar"> · </span><span class="info_time">09:36</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중국 시민들은 왜 ‘백지’를 들었을까... ‘백지 혁명’의 미래는?]]></title>
+        <id>https://v.daum.net/v/20221203090017644</id>
+        <link href="https://v.daum.net/v/20221203090017644"/>
+        <updated>2022-12-03T01:13:32.620Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">09:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[글로벌 현장에서]알제리의 잠재력에 주목해야]]></title>
         <id>https://v.daum.net/v/20221203080040202</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20221203040909510"/>
         <updated>2022-12-02T19:14:08.310Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토 카페] 털모자]]></title>
-        <id>https://v.daum.net/v/20221203040611491</id>
-        <link href="https://v.daum.net/v/20221203040611491"/>
-        <updated>2022-12-02T19:14:08.311Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[호텔에 관한 거의 모든 것] 호텔 개발도 대의를 위하여]]></title>
-        <id>https://v.daum.net/v/20221203040511478</id>
-        <link href="https://v.daum.net/v/20221203040511478"/>
-        <updated>2022-12-02T19:14:08.312Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 여야 정쟁에 결국 법정시한 넘긴 예산안]]></title>
-        <id>https://v.daum.net/v/20221203040311439</id>
-        <link href="https://v.daum.net/v/20221203040311439"/>
-        <updated>2022-12-02T19:14:08.313Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 잇단 파업 철회, 원칙 지키니 정치 파업 통하지 않는 것]]></title>
-        <id>https://v.daum.net/v/20221203031721905</id>
-        <link href="https://v.daum.net/v/20221203031721905"/>
-        <updated>2022-12-02T18:20:24.097Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:17</span>]]></content>
     </entry>
 </feed>
