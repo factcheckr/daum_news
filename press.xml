@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-12-03T03:19:16.845Z</updated>
+    <updated>2022-12-03T04:20:51.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Centralis Group, 대안투자 펀드 위한 AML 위험관리 서비스 출시]]></title>
+        <id>https://v.daum.net/v/20221203122837563</id>
+        <link href="https://v.daum.net/v/20221203122837563"/>
+        <updated>2022-12-03T04:20:42.200Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">12:28</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Global Alliance of Leaders 회의, 파리에서 개최]]></title>
+        <id>https://v.daum.net/v/20221203122423533</id>
+        <link href="https://v.daum.net/v/20221203122423533"/>
+        <updated>2022-12-03T04:20:42.201Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">12:24</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] '아스타나 클럽' 회의, 파리에서 개최]]></title>
         <id>https://v.daum.net/v/20221203121553490</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221203091135810"/>
         <updated>2022-12-03T01:13:42.284Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">09:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GS25, 버터 맥주 팝업스토어 3주 연장]]></title>
-        <id>https://v.daum.net/v/20221203090704760</id>
-        <link href="https://v.daum.net/v/20221203090704760"/>
-        <updated>2022-12-03T01:13:42.286Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">09:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[충남연구원, 도시지역 공기질 개선 위해 산·학·연 한 자리에]]></title>
-        <id>https://v.daum.net/v/20221203080703284</id>
-        <link href="https://v.daum.net/v/20221203080703284"/>
-        <updated>2022-12-02T23:17:35.919Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">08:07</span>]]></content>
     </entry>
 </feed>
