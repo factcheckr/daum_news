@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-12-03T06:22:11.899Z</updated>
+    <updated>2022-12-03T07:14:59.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['공공포털' 논의 무엇을 남겼나]]></title>
+        <id>https://v.daum.net/v/20221203160503573</id>
+        <link href="https://v.daum.net/v/20221203160503573"/>
+        <updated>2022-12-03T07:14:37.347Z</updated>
+        <content type="html"><![CDATA[미디어오늘<span class="txt_bar"> · </span><span class="info_time">16:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[IEF2022 전주] 'GenZ 열기에 게임도 대회도 드라마틱']]></title>
         <id>https://v.daum.net/v/20221203151707042</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221203122106520"/>
         <updated>2022-12-03T04:20:25.864Z</updated>
         <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">12:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티맵오토 차량에 웨이브 OTT 공급한다]]></title>
-        <id>https://v.daum.net/v/20221203120003361</id>
-        <link href="https://v.daum.net/v/20221203120003361"/>
-        <updated>2022-12-03T03:18:43.958Z</updated>
-        <content type="html"><![CDATA[비즈니스워치<span class="txt_bar"> · </span><span class="info_time">12:00</span>]]></content>
     </entry>
 </feed>
