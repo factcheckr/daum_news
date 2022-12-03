@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-12-03T20:17:27.505Z</updated>
+    <updated>2022-12-03T21:15:01.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오전 (2022년 12월 04일)]]></title>
+        <id>https://v.daum.net/v/20221204053212666</id>
+        <link href="https://v.daum.net/v/20221204053212666"/>
+        <updated>2022-12-03T21:15:00.398Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">05:32</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가상화폐 위믹스 상승세... 전일대비 +15.5%]]></title>
         <id>https://v.daum.net/v/20221204023121882</id>
