@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-12-03T01:13:50.948Z</updated>
+    <updated>2022-12-03T02:37:53.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이재명, 사법리스크에 ‘정면 돌파’ 불사?...최후 배수진 치나 [핫이슈]]]></title>
+        <id>https://v.daum.net/v/20221203111500006</id>
+        <link href="https://v.daum.net/v/20221203111500006"/>
+        <updated>2022-12-03T02:37:32.513Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">11:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삼성의 서푼짜리 정성]]></title>
+        <id>https://v.daum.net/v/20221203105402815</id>
+        <link href="https://v.daum.net/v/20221203105402815"/>
+        <updated>2022-12-03T02:37:32.516Z</updated>
+        <content type="html"><![CDATA[쿠키뉴스<span class="txt_bar"> · </span><span class="info_time">10:54</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주요 신문 사설](3일 조간)]]></title>
         <id>https://v.daum.net/v/20221203100010252</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221203041311579"/>
         <updated>2022-12-02T19:14:08.298Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[빛과 소금] 사우디에 복음의 꽃 필까]]></title>
-        <id>https://v.daum.net/v/20221203041011531</id>
-        <link href="https://v.daum.net/v/20221203041011531"/>
-        <updated>2022-12-02T19:14:08.308Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창] 축제가 끝나고 난 뒤 우리는]]></title>
-        <id>https://v.daum.net/v/20221203040909510</id>
-        <link href="https://v.daum.net/v/20221203040909510"/>
-        <updated>2022-12-02T19:14:08.310Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:09</span>]]></content>
     </entry>
 </feed>
