@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-12-04T08:20:31.684Z</updated>
+    <updated>2022-12-04T09:16:33.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://v.daum.net/v/20221204170148466"/>
         <updated>2022-12-04T08:20:22.876Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">17:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대우건설, 안전시공 기술 ‘영상기반 구조물 변위계측시스템’ 개발]]></title>
-        <id>https://v.daum.net/v/20221204170017433</id>
-        <link href="https://v.daum.net/v/20221204170017433"/>
-        <updated>2022-12-04T08:20:22.878Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">17:00</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[남양주 덕소에 900가구 규모 아파트 단지 '청약 돌입']]></title>
@@ -109,5 +102,12 @@
         <link href="https://v.daum.net/v/20221204130705524"/>
         <updated>2022-12-04T04:20:33.626Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">13:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삼성전자, 사내 일회용품 '제로화' 추진... 연 1400t 폐기물 감축 기대]]></title>
+        <id>https://v.daum.net/v/20221204122655229</id>
+        <link href="https://v.daum.net/v/20221204122655229"/>
+        <updated>2022-12-04T09:16:25.532Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">12:26</span>]]></content>
     </entry>
 </feed>
