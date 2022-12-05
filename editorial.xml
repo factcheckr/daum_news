@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-12-05T03:18:49.742Z</updated>
+    <updated>2022-12-05T04:21:34.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독]금융당국, 감사인 지정 혼선에 "비감사 용역 연말 전 끝내달라"]]></title>
+        <id>https://v.daum.net/v/20221205122002073</id>
+        <link href="https://v.daum.net/v/20221205122002073"/>
+        <updated>2022-12-05T04:21:17.995Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">12:20</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[시시비비]복지국가의 새로운 과제가 된 생활고 비극]]></title>
         <id>https://v.daum.net/v/20221205120111762</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221205112951544"/>
         <updated>2022-12-05T02:43:10.188Z</updated>
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:29</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[K우먼톡]잘 키운 딸, 아들에게 역전 당하는 이유]]></title>
-        <id>https://v.daum.net/v/20221205112732471</id>
-        <link href="https://v.daum.net/v/20221205112732471"/>
-        <updated>2022-12-05T02:43:10.190Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:27</span>]]></content>
     </entry>
 </feed>
