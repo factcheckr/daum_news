@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-12-06T10:19:34.271Z</updated>
+    <updated>2022-12-06T11:15:03.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] The LEGO Foundation Announces Recipients of US$117 Million Global]]></title>
+        <id>https://v.daum.net/v/20221206192559180</id>
+        <link href="https://v.daum.net/v/20221206192559180"/>
+        <updated>2022-12-06T11:14:54.582Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">19:25</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] 하이크비전, 2022 Shaping Intelligence Summit 개최]]></title>
         <id>https://v.daum.net/v/20221206191607028</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221206174704156"/>
         <updated>2022-12-06T09:16:57.996Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[롯데건설, 시멘트·콘크리트 분야 탄소저감 핵심기술 개발 추진]]></title>
-        <id>https://v.daum.net/v/20221206174539124</id>
-        <link href="https://v.daum.net/v/20221206174539124"/>
-        <updated>2022-12-06T09:16:57.997Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:45</span>]]></content>
     </entry>
 </feed>
