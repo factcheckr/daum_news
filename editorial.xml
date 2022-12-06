@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-12-06T16:24:03.691Z</updated>
+    <updated>2022-12-06T17:16:00.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정유신의 China Story]中경제 리스크 상장기업 '잠재 부실채권']]></title>
+        <id>https://v.daum.net/v/20221207020309398</id>
+        <link href="https://v.daum.net/v/20221207020309398"/>
+        <updated>2022-12-06T17:15:44.168Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]인공지능과 문화콘텐츠의 미래]]></title>
+        <id>https://v.daum.net/v/20221207020305396</id>
+        <link href="https://v.daum.net/v/20221207020305396"/>
+        <updated>2022-12-06T17:15:44.170Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[고두현의 문화살롱] "어둠을 불평하기보다 등불 하나 켜는 게 낫다"]]></title>
         <id>https://v.daum.net/v/20221207011803289</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221207003041086"/>
         <updated>2022-12-06T16:23:48.910Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시론] 제2의 손흥민·김연아·박태환 배출하려면]]></title>
-        <id>https://v.daum.net/v/20221207002801079</id>
-        <link href="https://v.daum.net/v/20221207002801079"/>
-        <updated>2022-12-06T16:23:48.911Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:28</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노트북을 열며] 은마 종부세 78만원 vs 338만원]]></title>
-        <id>https://v.daum.net/v/20221207002605074</id>
-        <link href="https://v.daum.net/v/20221207002605074"/>
-        <updated>2022-12-06T16:23:48.913Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:26</span>]]></content>
     </entry>
 </feed>
