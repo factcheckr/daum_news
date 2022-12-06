@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-12-06T22:18:50.248Z</updated>
+    <updated>2022-12-06T23:18:39.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[당신의 개인적 역사를 내려놓으라]]></title>
+        <id>https://v.daum.net/v/20221207075004905</id>
+        <link href="https://v.daum.net/v/20221207075004905"/>
+        <updated>2022-12-06T23:18:21.957Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">07:50</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1505호를 읽고[독자의 소리]]]></title>
+        <id>https://v.daum.net/v/20221207074133751</id>
+        <link href="https://v.daum.net/v/20221207074133751"/>
+        <updated>2022-12-06T23:18:21.958Z</updated>
+        <content type="html"><![CDATA[주간경향<span class="txt_bar"> · </span><span class="info_time">07:41</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[송년회 단상[편집실에서]]]></title>
+        <id>https://v.daum.net/v/20221207074109746</id>
+        <link href="https://v.daum.net/v/20221207074109746"/>
+        <updated>2022-12-06T23:18:21.961Z</updated>
+        <content type="html"><![CDATA[주간경향<span class="txt_bar"> · </span><span class="info_time">07:41</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[김봉규의 사람아 사람아] 한강인도교 폭파는 학살의 시작이었다]]></title>
         <id>https://v.daum.net/v/20221207070522337</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20221207055402275"/>
         <updated>2022-12-06T21:15:51.440Z</updated>
         <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">05:54</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Doyle McManus] Iran protests displace nuclear issue]]></title>
-        <id>https://v.daum.net/v/20221207053504105</id>
-        <link href="https://v.daum.net/v/20221207053504105"/>
-        <updated>2022-12-06T21:15:51.442Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Editorial] Indoor mask mandate]]></title>
-        <id>https://v.daum.net/v/20221207053039065</id>
-        <link href="https://v.daum.net/v/20221207053039065"/>
-        <updated>2022-12-06T21:15:51.446Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기고]내집마련 주거복지의 사다리 공공청년주택]]></title>
-        <id>https://v.daum.net/v/20221207053013051</id>
-        <link href="https://v.daum.net/v/20221207053013051"/>
-        <updated>2022-12-06T21:15:51.450Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
     </entry>
 </feed>
