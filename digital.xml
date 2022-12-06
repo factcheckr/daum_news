@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-12-06T13:26:52.816Z</updated>
+    <updated>2022-12-06T14:16:33.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[LTE 트래픽 줄고, 5G는 늘고…이동전화 점유율은 ‘4:2:2:1’]]></title>
+        <id>https://v.daum.net/v/20221206223655442</id>
+        <link href="https://v.daum.net/v/20221206223655442"/>
+        <updated>2022-12-06T14:16:08.271Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">22:36</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신한울 1호기, 착공 12년 만에 상업 운전]]></title>
         <id>https://v.daum.net/v/20221206220905273</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221206204859298"/>
         <updated>2022-12-06T12:34:27.651Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">20:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국토부, ICAO·위성 등 활용한 미래 항공안전 방안 모색]]></title>
-        <id>https://v.daum.net/v/20221206204105191</id>
-        <link href="https://v.daum.net/v/20221206204105191"/>
-        <updated>2022-12-06T12:34:27.651Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">20:41</span>]]></content>
     </entry>
 </feed>
