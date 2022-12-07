@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-12-07T08:21:53.623Z</updated>
+    <updated>2022-12-07T10:19:34.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가상화폐 피르마체인 57.3원(+6.7%) 거래중]]></title>
+        <id>https://v.daum.net/v/20221207183119665</id>
+        <link href="https://v.daum.net/v/20221207183119665"/>
+        <updated>2022-12-07T10:19:33.779Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">18:31</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2022년 12월 07일)]]></title>
+        <id>https://v.daum.net/v/20221207182216345</id>
+        <link href="https://v.daum.net/v/20221207182216345"/>
+        <updated>2022-12-07T10:19:33.784Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">18:22</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[fnRASSI]장마감, 코스닥 하락 종목(제넨바이오 -18.7% ↓)]]></title>
         <id>https://v.daum.net/v/20221207160411172</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221207143538522"/>
         <updated>2022-12-07T06:23:50.795Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 영통동 영통벽적골주공9 59㎡ 3억7300만원에 거래]]></title>
-        <id>https://v.daum.net/v/20221207143058339</id>
-        <link href="https://v.daum.net/v/20221207143058339"/>
-        <updated>2022-12-07T06:23:50.796Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 청라동 청라힐데스하임 59㎡ 4억원에 거래]]></title>
-        <id>https://v.daum.net/v/20221207142543150</id>
-        <link href="https://v.daum.net/v/20221207142543150"/>
-        <updated>2022-12-07T06:23:50.798Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:25</span>]]></content>
     </entry>
 </feed>
