@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2022-12-07T16:24:04.789Z</updated>
+    <updated>2022-12-07T17:16:51.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘청담동 술자리’ 제보자, 첼리스트 몰래 녹취했나…“‘그날의 진실’이 수면 위로”]]></title>
+        <id>https://v.daum.net/v/20221208020911918</id>
+        <link href="https://v.daum.net/v/20221208020911918"/>
+        <updated>2022-12-07T17:15:31.883Z</updated>
+        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">02:09</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[권성동·장제원 "심판이 할말?" 정진석·주호영 "심판이라 한말"…당대표 조건론에 엇갈린 주류]]></title>
+        <id>https://v.daum.net/v/20221208014310866</id>
+        <link href="https://v.daum.net/v/20221208014310866"/>
+        <updated>2022-12-07T17:15:31.883Z</updated>
+        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">01:43</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[민주당 강원도의원, “김진태 강원도지사 사과 요구”]]></title>
         <id>https://v.daum.net/v/20221208012007787</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221208000628371"/>
         <updated>2022-12-07T15:19:36.249Z</updated>
         <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘파업 원칙대응·월드컵’ 순풍… 尹 지지율 반등 기대감]]></title>
-        <id>https://v.daum.net/v/20221208000606369</id>
-        <link href="https://v.daum.net/v/20221208000606369"/>
-        <updated>2022-12-07T15:19:36.249Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尹대통령, 오늘 '벤투호' 축구대표팀과 만찬…김건희 여사도 참석]]></title>
-        <id>https://v.daum.net/v/20221208000516354</id>
-        <link href="https://v.daum.net/v/20221208000516354"/>
-        <updated>2022-12-07T15:19:36.250Z</updated>
-        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
     </entry>
 </feed>

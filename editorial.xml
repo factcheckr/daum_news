@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-12-07T16:24:04.792Z</updated>
+    <updated>2022-12-07T17:16:51.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]실험실창업, 기회의 나라로 가는 길]]></title>
+        <id>https://v.daum.net/v/20221208020308911</id>
+        <link href="https://v.daum.net/v/20221208020308911"/>
+        <updated>2022-12-07T17:16:36.701Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[동상이목(同想異目)]관치와 포퓰리즘의 그림자]]></title>
+        <id>https://v.daum.net/v/20221208020304910</id>
+        <link href="https://v.daum.net/v/20221208020304910"/>
+        <updated>2022-12-07T17:16:36.702Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중앙시평] 2023년 경제 위기, 20년 후의 미래]]></title>
         <id>https://v.daum.net/v/20221208005728635</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221208002916544"/>
         <updated>2022-12-07T16:23:49.344Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:29</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시조가 있는 아침] (153) 감장새 작다 하고]]></title>
-        <id>https://v.daum.net/v/20221208002417525</id>
-        <link href="https://v.daum.net/v/20221208002417525"/>
-        <updated>2022-12-07T16:23:49.345Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[e글중심] 영빈관 ‘재활용’ “실용적인 결론” “이제 와서 청와대?”]]></title>
-        <id>https://v.daum.net/v/20221208002347524</id>
-        <link href="https://v.daum.net/v/20221208002347524"/>
-        <updated>2022-12-07T16:23:49.346Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:23</span>]]></content>
     </entry>
 </feed>
