@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-12-07T03:24:31.530Z</updated>
+    <updated>2022-12-07T04:23:53.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[논단]침체 경로에서 우량자산의 저평가 기회를 찾자]]></title>
+        <id>https://v.daum.net/v/20221207132038031</id>
+        <link href="https://v.daum.net/v/20221207132038031"/>
+        <updated>2022-12-07T04:23:34.626Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">13:20</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<사설>급기야 매관매직까지 적발된 文정권 부정부패 카르텔]]></title>
         <id>https://v.daum.net/v/20221207114900211</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221207112219029"/>
         <updated>2022-12-07T02:50:53.887Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">11:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시시비비]연금개혁, 결국 대통령이 나서야 할까]]></title>
-        <id>https://v.daum.net/v/20221207112012946</id>
-        <link href="https://v.daum.net/v/20221207112012946"/>
-        <updated>2022-12-07T02:50:53.889Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:20</span>]]></content>
     </entry>
 </feed>
