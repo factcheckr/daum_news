@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-12-08T13:25:09.446Z</updated>
+    <updated>2022-12-08T14:16:18.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[국민만평-서민호 화백] 2022년 12월 9일]]></title>
+        <id>https://v.daum.net/v/20221208224307102</id>
+        <link href="https://v.daum.net/v/20221208224307102"/>
+        <updated>2022-12-08T14:16:02.489Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">22:43</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[행복에도 계획과 검토가 필요하다 [삶과 문화]]]></title>
         <id>https://v.daum.net/v/20221208220046677</id>
@@ -27,7 +34,7 @@
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">21:00</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[사설] ILO 개입·중재 권고 무시하고 추가 업무개시 명령한 정부]]></title>
+        <title type="html"><![CDATA[[사설] ILO 개입·중재 권고 무시하고 추가 업무개시명령한 정부]]></title>
         <id>https://v.daum.net/v/20221208204542586</id>
         <link href="https://v.daum.net/v/20221208204542586"/>
         <updated>2022-12-08T12:31:44.293Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221208194459326"/>
         <updated>2022-12-08T11:17:38.493Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:44</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[영상사설] 3년 새 44% 치솟은 청소년 자살률]]></title>
-        <id>https://v.daum.net/v/20221208193339178</id>
-        <link href="https://v.daum.net/v/20221208193339178"/>
-        <updated>2022-12-08T11:17:38.494Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">19:33</span>]]></content>
     </entry>
 </feed>
