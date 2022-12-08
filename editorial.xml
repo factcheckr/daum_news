@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-12-08T12:32:04.277Z</updated>
+    <updated>2022-12-08T13:25:09.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[행복에도 계획과 검토가 필요하다 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20221208220046677</id>
+        <link href="https://v.daum.net/v/20221208220046677"/>
+        <updated>2022-12-08T13:24:51.149Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 12월 9일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20221208220013664</id>
+        <link href="https://v.daum.net/v/20221208220013664"/>
+        <updated>2022-12-08T13:24:51.152Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[WEEKLY BIZ] “불확실한 시기라도 상위 기업은 달라… 관망하는 대신 행동, 격차 벌린다”]]></title>
         <id>https://v.daum.net/v/20221208210015804</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221208193339178"/>
         <updated>2022-12-08T11:17:38.494Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">19:33</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[살갗 아래]]></title>
-        <id>https://v.daum.net/v/20221208191032865</id>
-        <link href="https://v.daum.net/v/20221208191032865"/>
-        <updated>2022-12-08T10:18:37.051Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전치형의 과학 언저리] 2022년의 과학들]]></title>
-        <id>https://v.daum.net/v/20221208191027862</id>
-        <link href="https://v.daum.net/v/20221208191027862"/>
-        <updated>2022-12-08T10:18:37.052Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:10</span>]]></content>
     </entry>
 </feed>
