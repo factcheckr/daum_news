@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-12-09T12:30:26.500Z</updated>
+    <updated>2022-12-09T13:24:17.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나는 오페라를 좀 좋아한다 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20221209220008389</id>
+        <link href="https://v.daum.net/v/20221209220008389"/>
+        <updated>2022-12-09T13:23:58.514Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 정기국회 마지막날까지 국민 짜증나게 한 여야 예산안 소모전]]></title>
         <id>https://v.daum.net/v/20221209205400530</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20221209172404645</id>
         <link href="https://v.daum.net/v/20221209172404645"/>
         <updated>2022-12-09T09:17:07.086Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 고립무원 화물연대 결국 파업 중단, 법과 원칙이 통했다]]></title>
-        <id>https://v.daum.net/v/20221209172403643</id>
-        <link href="https://v.daum.net/v/20221209172403643"/>
-        <updated>2022-12-09T09:17:07.087Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:24</span>]]></content>
     </entry>
 </feed>
