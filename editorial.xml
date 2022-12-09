@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-12-09T21:16:26.971Z</updated>
+    <updated>2022-12-09T22:16:46.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[왜 한국인이 유색인 주인공에 분개할까 [하재근의 이슈분석]]]></title>
+        <id>https://v.daum.net/v/20221210070707344</id>
+        <link href="https://v.daum.net/v/20221210070707344"/>
+        <updated>2022-12-09T22:16:30.853Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엿·달걀 대신 박수, 국민들은 정확하다 [기자수첩-스포츠]]]></title>
+        <id>https://v.daum.net/v/20221210070028234</id>
+        <link href="https://v.daum.net/v/20221210070028234"/>
+        <updated>2022-12-09T22:16:30.854Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중국이 아프리카에 ‘건물 기부’ 공세를 펼치는 속내 [김규환의 핸디 차이나]]]></title>
         <id>https://v.daum.net/v/20221210050506425</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221210032729046"/>
         <updated>2022-12-09T19:15:34.325Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 지하철 민폐 시위 1년, 이제야 ‘무정차 통과’ 대책 나온 이유]]></title>
-        <id>https://v.daum.net/v/20221210032412029</id>
-        <link href="https://v.daum.net/v/20221210032412029"/>
-        <updated>2022-12-09T19:15:34.327Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] ‘나태와 무책임’ 또 드러난 국민의힘 본색]]></title>
-        <id>https://v.daum.net/v/20221210032212016</id>
-        <link href="https://v.daum.net/v/20221210032212016"/>
-        <updated>2022-12-09T19:15:34.328Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:22</span>]]></content>
     </entry>
 </feed>
