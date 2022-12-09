@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-12-09T16:23:28.761Z</updated>
+    <updated>2022-12-09T17:16:44.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[종부세로 집값 못 잡아, 보편성 잃은 이중과세 없애야]]></title>
+        <id>https://v.daum.net/v/20221210013406472</id>
+        <link href="https://v.daum.net/v/20221210013406472"/>
+        <updated>2022-12-09T17:16:26.399Z</updated>
+        <content type="html"><![CDATA[중앙SUNDAY<span class="txt_bar"> · </span><span class="info_time">01:34</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 12년 만의 가동…신한울이 주는 교훈]]></title>
         <id>https://v.daum.net/v/20221210003033212</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221210000805055"/>
         <updated>2022-12-09T15:20:25.530Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 화물연대 파업 종료, 법·원칙 바탕 노사정 관계 정립해야]]></title>
-        <id>https://v.daum.net/v/20221210000030993</id>
-        <link href="https://v.daum.net/v/20221210000030993"/>
-        <updated>2022-12-09T15:20:25.530Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
