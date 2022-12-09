@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-12-09T09:17:24.341Z</updated>
+    <updated>2022-12-09T10:18:47.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[AsiaNet] 선전, 2022년 글로벌 투자진흥회의 개최]]></title>
+        <id>https://v.daum.net/v/20221209183730013</id>
+        <link href="https://v.daum.net/v/20221209183730013"/>
+        <updated>2022-12-09T10:18:40.352Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">18:37</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] Tsinghua's institute for climate change and Asian Development]]></title>
         <id>https://v.daum.net/v/20221209180524013</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221209170023839"/>
         <updated>2022-12-09T08:23:10.708Z</updated>
         <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">17:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하남시, 소규모 미용업 지원 결실 맺어]]></title>
-        <id>https://v.daum.net/v/20221209165503688</id>
-        <link href="https://v.daum.net/v/20221209165503688"/>
-        <updated>2022-12-09T08:23:10.709Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:55</span>]]></content>
     </entry>
 </feed>
