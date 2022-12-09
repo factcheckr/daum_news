@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-12-09T10:18:47.788Z</updated>
+    <updated>2022-12-09T11:15:20.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가상화폐 비트코인 -0.21% 하락, 엠블 24.04% 상승]]></title>
+        <id>https://v.daum.net/v/20221209193125045</id>
+        <link href="https://v.daum.net/v/20221209193125045"/>
+        <updated>2022-12-09T11:15:19.384Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">19:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 날씨 - 오후 (2022년 12월 09일)]]></title>
         <id>https://v.daum.net/v/20221209173218997</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221209134601092"/>
         <updated>2022-12-09T05:16:50.029Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:46</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 논현동 논현소래마을풍림 85㎡ 3억1000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20221209134052917</id>
-        <link href="https://v.daum.net/v/20221209134052917"/>
-        <updated>2022-12-09T05:16:50.030Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:40</span>]]></content>
     </entry>
 </feed>
