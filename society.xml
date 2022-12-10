@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/society</id>
     <title>다음 뉴스 ─ 전체기사 ─ 사회</title>
-    <updated>2022-12-10T16:22:40.259Z</updated>
+    <updated>2022-12-10T17:15:42.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 전국 대체로 맑고 강원 영동지역 비나 눈]]></title>
+        <id>https://v.daum.net/v/20221211021310411</id>
+        <link href="https://v.daum.net/v/20221211021310411"/>
+        <updated>2022-12-10T17:14:15.189Z</updated>
+        <content type="html"><![CDATA[MBC<span class="txt_bar"> · </span><span class="info_time">02:13</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정부, 강경 대응 나서나...노정관계 험로 예상]]></title>
+        <id>https://v.daum.net/v/20221211021010396</id>
+        <link href="https://v.daum.net/v/20221211021010396"/>
+        <updated>2022-12-10T17:14:15.191Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">02:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[로또1045회당첨번호 '6·14·15·19·21·41'…1등 당첨지역 어디?]]></title>
+        <id>https://v.daum.net/v/20221211020856383</id>
+        <link href="https://v.daum.net/v/20221211020856383"/>
+        <updated>2022-12-10T17:14:15.194Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">02:08</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부산행 KTX 고장으로 1시간 넘게 지연...승객 불편]]></title>
+        <id>https://v.daum.net/v/20221211013901201</id>
+        <link href="https://v.daum.net/v/20221211013901201"/>
+        <updated>2022-12-10T17:14:15.197Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">01:39</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부산행 KTX 차량 고장으로 정차…1시간 넘게 승객 불편]]></title>
         <id>https://v.daum.net/v/20221211011200130</id>
@@ -81,12 +109,5 @@
         <link href="https://v.daum.net/v/20221211000023910"/>
         <updated>2022-12-10T15:15:10.164Z</updated>
         <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[폴리스스토리] 보이지 않는 범죄와 싸운다…IT전공의 '사이버캅']]></title>
-        <id>https://v.daum.net/v/20221211000023909</id>
-        <link href="https://v.daum.net/v/20221211000023909"/>
-        <updated>2022-12-10T15:15:10.165Z</updated>
-        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
