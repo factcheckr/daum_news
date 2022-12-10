@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-12-10T09:17:34.730Z</updated>
+    <updated>2022-12-10T10:17:46.743Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“고작 1억원 줬더니” 회사 떠난 전 직원, 100억 받던 CEO 제쳤다]]></title>
+        <id>https://v.daum.net/v/20221210185114311</id>
+        <link href="https://v.daum.net/v/20221210185114311"/>
+        <updated>2022-12-10T10:17:16.695Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">18:51</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CHINA SATELLITE LAUNCH]]></title>
+        <id>https://v.daum.net/v/20221210181836045</id>
+        <link href="https://v.daum.net/v/20221210181836045"/>
+        <updated>2022-12-10T10:17:16.696Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">18:18</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CHINA CHINA SATELLITE LAUNCH]]></title>
         <id>https://v.daum.net/v/20221210181558021</id>
@@ -62,7 +76,7 @@
         <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">16:12</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[콧대 높은 아이폰 '10년 고집' 꺾이나…"C타입 충전기 써라" [배성수의 다다IT선]]]></title>
+        <title type="html"><![CDATA[콧대 높은 아이폰 '10년 고집' 꺾이나…관심 쏟아지는 이유 [배성수의 다다IT선]]]></title>
         <id>https://v.daum.net/v/20221210160101811</id>
         <link href="https://v.daum.net/v/20221210160101811"/>
         <updated>2022-12-10T07:16:01.918Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221210143211100"/>
         <updated>2022-12-10T06:24:07.529Z</updated>
         <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">14:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당신이 단 음식에 끌리는 이유…장내 미생물의 비밀 [와우! 과학]]]></title>
-        <id>https://v.daum.net/v/20221210141102914</id>
-        <link href="https://v.daum.net/v/20221210141102914"/>
-        <updated>2022-12-10T05:15:15.970Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">14:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카카오, 개발자 컨퍼런스서 서비스 장애 재발방지 대책 발표]]></title>
-        <id>https://v.daum.net/v/20221210140133810</id>
-        <link href="https://v.daum.net/v/20221210140133810"/>
-        <updated>2022-12-10T05:15:15.973Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">14:01</span>]]></content>
     </entry>
 </feed>
