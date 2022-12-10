@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-12-10T07:16:26.687Z</updated>
+    <updated>2022-12-10T08:22:07.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[기고] AI컨택센터, 가치 극대화하는 대화 데이터 분석]]></title>
+        <id>https://v.daum.net/v/20221210171846493</id>
+        <link href="https://v.daum.net/v/20221210171846493"/>
+        <updated>2022-12-10T08:21:41.613Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">17:18</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“1년만에 6000억원 벌었다, 실화냐” 떼돈 번 ‘이 사람’ 알고보니]]></title>
+        <id>https://v.daum.net/v/20221210165108220</id>
+        <link href="https://v.daum.net/v/20221210165108220"/>
+        <updated>2022-12-10T08:21:41.613Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">16:51</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이도경의 플레e] 게임법안과 월드컵의 상관 관계]]></title>
         <id>https://v.daum.net/v/20221210161229946</id>
@@ -13,7 +27,7 @@
         <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">16:12</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["C타입 충전기 써라"는 EU…'콧대높은' 아이폰 백기들까 [배성수의 다다IT선]]]></title>
+        <title type="html"><![CDATA[콧대 높은 아이폰 '10년 고집' 꺾이나…"C타입 충전기 써라" [배성수의 다다IT선]]]></title>
         <id>https://v.daum.net/v/20221210160101811</id>
         <link href="https://v.daum.net/v/20221210160101811"/>
         <updated>2022-12-10T07:16:01.918Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221210125921294"/>
         <updated>2022-12-10T04:20:38.876Z</updated>
         <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">12:59</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI스타트업 텐, 30억 규모 프리시리즈A 투자 유치]]></title>
-        <id>https://v.daum.net/v/20221210125514271</id>
-        <link href="https://v.daum.net/v/20221210125514271"/>
-        <updated>2022-12-10T04:20:38.876Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">12:55</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토]위믹스 상장 폐지 확정]]></title>
-        <id>https://v.daum.net/v/20221210125222262</id>
-        <link href="https://v.daum.net/v/20221210125222262"/>
-        <updated>2022-12-10T04:20:38.877Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">12:52</span>]]></content>
     </entry>
 </feed>
