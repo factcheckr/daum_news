@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-12-10T05:15:47.183Z</updated>
+    <updated>2022-12-10T06:24:35.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[워킹데드 "영화, 코믹스 못지않게 게임서도 종횡무진"]]></title>
+        <id>https://v.daum.net/v/20221210150118319</id>
+        <link href="https://v.daum.net/v/20221210150118319"/>
+        <updated>2022-12-10T06:24:07.528Z</updated>
+        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">15:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KT 지배구조위 운영규정 제7조 [김현아의 IT세상읽기]]]></title>
+        <id>https://v.daum.net/v/20221210143211100</id>
+        <link href="https://v.daum.net/v/20221210143211100"/>
+        <updated>2022-12-10T06:24:07.529Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">14:32</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[당신이 단 음식에 끌리는 이유…장내 미생물의 비밀 [와우! 과학]]]></title>
         <id>https://v.daum.net/v/20221210141102914</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221210120548975"/>
         <updated>2022-12-10T03:18:04.501Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">12:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다음주 시작되는 네이버 도착보장, ‘물류=비용’ 공식 깨는 게임체인저 될까?]]></title>
-        <id>https://v.daum.net/v/20221210114837817</id>
-        <link href="https://v.daum.net/v/20221210114837817"/>
-        <updated>2022-12-10T03:18:04.505Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">11:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화제작 '아바타2' 韓 토종기술로 글로벌 관객 '오감' 사로잡는다]]></title>
-        <id>https://v.daum.net/v/20221210113018698</id>
-        <link href="https://v.daum.net/v/20221210113018698"/>
-        <updated>2022-12-10T02:44:37.272Z</updated>
-        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">11:30</span>]]></content>
     </entry>
 </feed>
