@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-12-10T10:17:46.743Z</updated>
+    <updated>2022-12-10T11:14:21.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“대학도 중퇴, 대충 살았는데” 웨딩 촬영하던 ‘이 남자’ 놀라운 일이]]></title>
+        <id>https://v.daum.net/v/20221210195138773</id>
+        <link href="https://v.daum.net/v/20221210195138773"/>
+        <updated>2022-12-10T11:13:51.563Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">19:51</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미국은 병상사용률 90%, 일본도 사망자 급증...코로나 19 다시 고개 드나]]></title>
+        <id>https://v.daum.net/v/20221210192659607</id>
+        <link href="https://v.daum.net/v/20221210192659607"/>
+        <updated>2022-12-10T11:13:51.564Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">19:26</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“고작 1억원 줬더니” 회사 떠난 전 직원, 100억 받던 CEO 제쳤다]]></title>
         <id>https://v.daum.net/v/20221210185114311</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221210152703469"/>
         <updated>2022-12-10T07:16:01.921Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">15:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[워킹데드 "영화, 코믹스 못지않게 게임서도 종횡무진"]]></title>
-        <id>https://v.daum.net/v/20221210150118319</id>
-        <link href="https://v.daum.net/v/20221210150118319"/>
-        <updated>2022-12-10T06:24:07.528Z</updated>
-        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">15:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KT 지배구조위 운영규정 제7조 [김현아의 IT세상읽기]]]></title>
-        <id>https://v.daum.net/v/20221210143211100</id>
-        <link href="https://v.daum.net/v/20221210143211100"/>
-        <updated>2022-12-10T06:24:07.529Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">14:32</span>]]></content>
     </entry>
 </feed>
