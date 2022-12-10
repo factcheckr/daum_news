@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-12-10T08:22:07.279Z</updated>
+    <updated>2022-12-10T09:17:34.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Viettel과 UTL 그룹, 전략적 계약 체결]]></title>
+        <id>https://v.daum.net/v/20221210174336718</id>
+        <link href="https://v.daum.net/v/20221210174336718"/>
+        <updated>2022-12-10T09:17:23.968Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:43</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] WWF 및 화웨이, 이탈리아에서 생물다양성 보존 프로젝트 출범]]></title>
+        <id>https://v.daum.net/v/20221210172649549</id>
+        <link href="https://v.daum.net/v/20221210172649549"/>
+        <updated>2022-12-10T09:17:23.971Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:26</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] 호평 받은 Unilumin의 Boulevard World Metasight Project]]></title>
         <id>https://v.daum.net/v/20221210163629099</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221210090703335"/>
         <updated>2022-12-10T01:14:29.676Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">09:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] THE PIAGGIO GROUP AND FOTON MOTOR GROUP SIGN A GENERAL AGREEMENT]]></title>
-        <id>https://v.daum.net/v/20221210001825128</id>
-        <link href="https://v.daum.net/v/20221210001825128"/>
-        <updated>2022-12-09T15:20:33.458Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">00:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] Ma'aden, 사우디 Future Minerals Forum 2023의 설립 파트너로 확정]]></title>
-        <id>https://v.daum.net/v/20221210001157092</id>
-        <link href="https://v.daum.net/v/20221210001157092"/>
-        <updated>2022-12-09T15:20:33.460Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">00:11</span>]]></content>
     </entry>
 </feed>
