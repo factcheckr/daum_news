@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-12-11T16:22:41.168Z</updated>
+    <updated>2022-12-11T17:15:25.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]월드컵으로 본 세상의 변화]]></title>
+        <id>https://v.daum.net/v/20221212020204307</id>
+        <link href="https://v.daum.net/v/20221212020204307"/>
+        <updated>2022-12-11T17:15:01.541Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이하경 칼럼] 마상(馬上)의 절대자는 민심을 품을 수 없다]]></title>
         <id>https://v.daum.net/v/20221212004942172</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221212002441132"/>
         <updated>2022-12-11T16:22:16.812Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 이상민 장관 해임건의 정쟁에 볼모가 된 내년 예산안]]></title>
-        <id>https://v.daum.net/v/20221212001620115</id>
-        <link href="https://v.daum.net/v/20221212001620115"/>
-        <updated>2022-12-11T15:16:45.340Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:16</span>]]></content>
     </entry>
 </feed>
