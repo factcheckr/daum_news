@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-12-12T22:17:43.743Z</updated>
+    <updated>2022-12-12T23:18:23.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[전국 주요 신문 톱뉴스](13일 조간)]]></title>
+        <id>https://v.daum.net/v/20221213080004611</id>
+        <link href="https://v.daum.net/v/20221213080004611"/>
+        <updated>2022-12-12T23:18:06.836Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](13일 조간)]]></title>
+        <id>https://v.daum.net/v/20221213080003609</id>
+        <link href="https://v.daum.net/v/20221213080003609"/>
+        <updated>2022-12-12T23:18:06.837Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[그림사설] 1년에 2050번 혜택? 건강보험 재정 개선해야]]></title>
+        <id>https://v.daum.net/v/20221213075546549</id>
+        <link href="https://v.daum.net/v/20221213075546549"/>
+        <updated>2022-12-12T23:18:06.839Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">07:55</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강하늘, 하지원과 손잡았다…"우리 추억도 가짜였니?" 새 국면 ('커튼콜') [SC리뷰]]]></title>
+        <id>https://v.daum.net/v/20221213074632402</id>
+        <link href="https://v.daum.net/v/20221213074632402"/>
+        <updated>2022-12-12T23:18:06.840Z</updated>
+        <content type="html"><![CDATA[스포츠조선<span class="txt_bar"> · </span><span class="info_time">07:46</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[화요광장] 일본식 부동산 버블 붕괴가 한국에서도 일어날 것인가?]]></title>
         <id>https://v.daum.net/v/20221213070510936</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20221213053049876"/>
         <updated>2022-12-12T21:16:09.967Z</updated>
         <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Faye Flam] Let's leave 'zombie viruses' under permafrost]]></title>
-        <id>https://v.daum.net/v/20221213052810827</id>
-        <link href="https://v.daum.net/v/20221213052810827"/>
-        <updated>2022-12-12T21:16:09.967Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:28</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Stephen L. Carter] Fair points about Griner's release]]></title>
-        <id>https://v.daum.net/v/20221213052411799</id>
-        <link href="https://v.daum.net/v/20221213052411799"/>
-        <updated>2022-12-12T21:16:09.968Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기자들의 시선] 무차별적인 동물 학대로 성공한들···]]></title>
-        <id>https://v.daum.net/v/20221213051808764</id>
-        <link href="https://v.daum.net/v/20221213051808764"/>
-        <updated>2022-12-12T21:16:09.970Z</updated>
-        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">05:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서울광장] ‘헬조선’에서 법과 원칙의 나라로/박현갑 논설위원]]></title>
-        <id>https://v.daum.net/v/20221213050426676</id>
-        <link href="https://v.daum.net/v/20221213050426676"/>
-        <updated>2022-12-12T20:17:11.666Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:04</span>]]></content>
     </entry>
 </feed>
