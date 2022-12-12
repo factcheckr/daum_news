@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-12-12T11:15:10.821Z</updated>
+    <updated>2022-12-12T12:32:50.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] CGTN "중국-GCC 관계, 새로운 차원으로 강화"]]></title>
+        <id>https://v.daum.net/v/20221212210910923</id>
+        <link href="https://v.daum.net/v/20221212210910923"/>
+        <updated>2022-12-12T12:32:41.360Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">21:09</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] CGTN "중국-아랍, 상생 시나리오 통해 에너지 협력 강화"]]></title>
         <id>https://v.daum.net/v/20221212193950963</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221212172702423"/>
         <updated>2022-12-12T10:19:40.299Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이동환 고양특례시장, 한파 잊은 민생 행보 ‘3안 행정’ 주목]]></title>
-        <id>https://v.daum.net/v/20221212172542392</id>
-        <link href="https://v.daum.net/v/20221212172542392"/>
-        <updated>2022-12-12T10:19:40.300Z</updated>
-        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">17:25</span>]]></content>
     </entry>
 </feed>
