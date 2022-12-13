@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-12-13T02:55:14.415Z</updated>
+    <updated>2022-12-13T03:25:37.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[반려동물, 집 안에서만 키우는 게 능사일까 [따뜻한 동물사전]]]></title>
+        <id>https://v.daum.net/v/20221213120802414</id>
+        <link href="https://v.daum.net/v/20221213120802414"/>
+        <updated>2022-12-13T03:25:18.956Z</updated>
+        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">12:08</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<사설>2차 시한 넘긴 예산안…대선 민의 존중한 타결이 正道다]]></title>
         <id>https://v.daum.net/v/20221213114903836</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221213111456340"/>
         <updated>2022-12-13T02:54:57.982Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태양처럼 가릴 수 없는 말들[플랫]]]></title>
-        <id>https://v.daum.net/v/20221213110512952</id>
-        <link href="https://v.daum.net/v/20221213110512952"/>
-        <updated>2022-12-13T02:54:57.983Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">11:05</span>]]></content>
     </entry>
 </feed>
