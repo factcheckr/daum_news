@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-12-14T16:23:53.722Z</updated>
+    <updated>2022-12-14T17:16:44.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]연말 술자리 정치토론 피하고 싶은 이유]]></title>
+        <id>https://v.daum.net/v/20221215020304121</id>
+        <link href="https://v.daum.net/v/20221215020304121"/>
+        <updated>2022-12-14T17:16:26.844Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]'평균'을 믿지 마라]]></title>
+        <id>https://v.daum.net/v/20221215020102114</id>
+        <link href="https://v.daum.net/v/20221215020102114"/>
+        <updated>2022-12-14T17:16:26.845Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중앙시평] 팬덤과 헤어질 결심]]></title>
         <id>https://v.daum.net/v/20221215005831950</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221215003002857"/>
         <updated>2022-12-14T16:23:37.290Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[양정무의 그림세상] 유화의 탄생, 그 질감의 맛]]></title>
-        <id>https://v.daum.net/v/20221215002948856</id>
-        <link href="https://v.daum.net/v/20221215002948856"/>
-        <updated>2022-12-14T16:23:37.291Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:29</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데스크 칼럼] 처벌만능주의의 함정]]></title>
-        <id>https://v.daum.net/v/20221215002801850</id>
-        <link href="https://v.daum.net/v/20221215002801850"/>
-        <updated>2022-12-14T16:23:37.292Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:28</span>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2022-12-14T16:23:53.721Z</updated>
+    <updated>2022-12-14T17:16:44.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 오늘도 북극한파 속 중부 최고 10cm 대설]]></title>
+        <id>https://v.daum.net/v/20221215015814109</id>
+        <link href="https://v.daum.net/v/20221215015814109"/>
+        <updated>2022-12-14T17:15:56.462Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">01:58</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신임 김장실 한국관광공사 사장 “기술융합형 관광벤처 1200개 발굴”]]></title>
         <id>https://v.daum.net/v/20221215010844045</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20221215005722942</id>
         <link href="https://v.daum.net/v/20221215005722942"/>
         <updated>2022-12-14T16:22:59.917Z</updated>
-        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">00:57</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주한 카타르 대사와 대화 나누는 박보균 장관]]></title>
-        <id>https://v.daum.net/v/20221215005718941</id>
-        <link href="https://v.daum.net/v/20221215005718941"/>
-        <updated>2022-12-14T16:22:59.918Z</updated>
         <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">00:57</span>]]></content>
     </entry>
 </feed>
