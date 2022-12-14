@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-12-14T05:18:27.394Z</updated>
+    <updated>2022-12-14T06:22:12.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[용인 보정동 동아솔레시티 177㎡ 6억5000만원에 거래]]></title>
+        <id>https://v.daum.net/v/20221214142040032</id>
+        <link href="https://v.daum.net/v/20221214142040032"/>
+        <updated>2022-12-14T06:22:11.737Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:20</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인천 송도동 더샵센트럴시티아파트 59㎡ 4억9800만원에 거래]]></title>
         <id>https://v.daum.net/v/20221214141541887</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221214131042033"/>
         <updated>2022-12-14T05:18:26.727Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 송도동 더샵센트럴시티아파트 59㎡ 5억5000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20221214130538963</id>
-        <link href="https://v.daum.net/v/20221214130538963"/>
-        <updated>2022-12-14T05:18:26.732Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:05</span>]]></content>
     </entry>
 </feed>
