@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-12-14T09:17:14.434Z</updated>
+    <updated>2022-12-14T10:19:00.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] CGTN "중국 병원들, 코로나19 환자에 우선순위 두고 대비"]]></title>
+        <id>https://v.daum.net/v/20221214191657398</id>
+        <link href="https://v.daum.net/v/20221214191657398"/>
+        <updated>2022-12-14T10:18:51.766Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">19:16</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 서비스플랜 코리아, 국제광고제 유로베스트에서 그랑프리 수상]]></title>
+        <id>https://v.daum.net/v/20221214190432134</id>
+        <link href="https://v.daum.net/v/20221214190432134"/>
+        <updated>2022-12-14T10:18:51.768Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">19:04</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[벤처기업협회-체인익스빌 ‘벤처기업의 콜드체인 시스템 및 블록체인 기술지원’ 위한 업무협약 체결]]></title>
         <id>https://v.daum.net/v/20221214180706837</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221214174031089"/>
         <updated>2022-12-14T09:17:06.507Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부산 강서구, 어르신 '사랑의 안경' 지원]]></title>
-        <id>https://v.daum.net/v/20221214174014080</id>
-        <link href="https://v.daum.net/v/20221214174014080"/>
-        <updated>2022-12-14T09:17:06.509Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대구교육청, 내년 1월부터 '대구학교지원센터' 설치·운영]]></title>
-        <id>https://v.daum.net/v/20221214173955069</id>
-        <link href="https://v.daum.net/v/20221214173955069"/>
-        <updated>2022-12-14T09:17:06.510Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:39</span>]]></content>
     </entry>
 </feed>
