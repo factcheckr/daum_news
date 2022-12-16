@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-12-16T10:18:05.596Z</updated>
+    <updated>2022-12-16T11:14:38.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[여적] 죽마고우 ‘보은 인사’]]></title>
+        <id>https://v.daum.net/v/20221216201254029</id>
+        <link href="https://v.daum.net/v/20221216201254029"/>
+        <updated>2022-12-16T11:14:20.748Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:12</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] ‘전쟁 가능 국가’로 나아간 일본, 역사의 교훈 잊지 말아야]]></title>
         <id>https://v.daum.net/v/20221216184017015</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20221216173303285</id>
         <link href="https://v.daum.net/v/20221216173303285"/>
         <updated>2022-12-16T09:15:59.129Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:33</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 법인세 찔끔인하 받고서는 '솔로몬재판 진짜 엄마'라는 野 궤변]]></title>
-        <id>https://v.daum.net/v/20221216173301282</id>
-        <link href="https://v.daum.net/v/20221216173301282"/>
-        <updated>2022-12-16T09:15:59.130Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:33</span>]]></content>
     </entry>
 </feed>
