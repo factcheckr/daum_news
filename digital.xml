@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-12-17T07:16:13.385Z</updated>
+    <updated>2022-12-17T08:20:28.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다누리호, 달 궤도 진입 시도…성공 여부 19일 발표]]></title>
+        <id>https://v.daum.net/v/20221217171153659</id>
+        <link href="https://v.daum.net/v/20221217171153659"/>
+        <updated>2022-12-17T08:20:01.378Z</updated>
+        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">17:11</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["삼성 폴더블폰보다 가볍다"…승부수 던진 '150만원' 中신제품 [배성수의 다다IT선]]]></title>
+        <id>https://v.daum.net/v/20221217164004385</id>
+        <link href="https://v.daum.net/v/20221217164004385"/>
+        <updated>2022-12-17T08:20:01.380Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">16:40</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英 오픈시그널 "한국 이통사 5G 다운로드 속도 1위는 SK텔레콤"]]></title>
+        <id>https://v.daum.net/v/20221217163900380</id>
+        <link href="https://v.daum.net/v/20221217163900380"/>
+        <updated>2022-12-17T08:20:01.381Z</updated>
+        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">16:39</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네이버 지도 8시간 오류…‘크리스마스’ 검색에 SPC 브랜드 노출]]></title>
+        <id>https://v.daum.net/v/20221217163017321</id>
+        <link href="https://v.daum.net/v/20221217163017321"/>
+        <updated>2022-12-17T08:20:01.383Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">16:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“올해만 ‘용돈’ 5천만원 벌었다” 27살 ‘이 청년’ 누구길래 이런 대접?]]></title>
         <id>https://v.daum.net/v/20221217161302188</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20221217134132031"/>
         <updated>2022-12-17T05:16:43.822Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">13:41</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘달 궤도선’ 다누리 발사 135일 만에 달 궤도 진입 시작]]></title>
-        <id>https://v.daum.net/v/20221217131607870</id>
-        <link href="https://v.daum.net/v/20221217131607870"/>
-        <updated>2022-12-17T04:19:38.319Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">13:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[달콤한 사이언스] ‘운동하기 싫어’하는 생각 떠오르는 이유, 알고보니…]]></title>
-        <id>https://v.daum.net/v/20221217130101784</id>
-        <link href="https://v.daum.net/v/20221217130101784"/>
-        <updated>2022-12-17T04:19:38.321Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">13:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구석구석 몸속 여행…인천어린이과학관 '인기']]></title>
-        <id>https://v.daum.net/v/20221217125418735</id>
-        <link href="https://v.daum.net/v/20221217125418735"/>
-        <updated>2022-12-17T04:19:38.324Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV<span class="txt_bar"> · </span><span class="info_time">12:54</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다누리, 발사 135일만에 달 궤도 진입 시작]]></title>
-        <id>https://v.daum.net/v/20221217123340658</id>
-        <link href="https://v.daum.net/v/20221217123340658"/>
-        <updated>2022-12-17T04:19:38.326Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV<span class="txt_bar"> · </span><span class="info_time">12:33</span>]]></content>
     </entry>
 </feed>
