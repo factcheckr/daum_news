@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-12-17T13:21:47.189Z</updated>
+    <updated>2022-12-17T14:17:31.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스노우파이프, 게임펍과 '화령설화' 글로벌 퍼블리싱 계약]]></title>
+        <id>https://v.daum.net/v/20221217225940891</id>
+        <link href="https://v.daum.net/v/20221217225940891"/>
+        <updated>2022-12-17T14:17:03.288Z</updated>
+        <content type="html"><![CDATA[스포츠한국<span class="txt_bar"> · </span><span class="info_time">22:59</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국 최고 인플루언서 ‘공대생 여성’ 정체는?]]></title>
+        <id>https://v.daum.net/v/20221217222400688</id>
+        <link href="https://v.daum.net/v/20221217222400688"/>
+        <updated>2022-12-17T14:17:03.289Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">22:24</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[네이버 지도 8시간 오류…‘크리스마스’ 검색하면 SPC만 노출]]></title>
         <id>https://v.daum.net/v/20221217211801131</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221217184930292"/>
         <updated>2022-12-17T10:16:11.295Z</updated>
         <content type="html"><![CDATA[OSEN<span class="txt_bar"> · </span><span class="info_time">18:49</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PBG 플레이! 배틀그라운드: 홈런 말고 치킨 시즌2 [사진]]]></title>
-        <id>https://v.daum.net/v/20221217184823289</id>
-        <link href="https://v.daum.net/v/20221217184823289"/>
-        <updated>2022-12-17T10:16:11.298Z</updated>
-        <content type="html"><![CDATA[OSEN<span class="txt_bar"> · </span><span class="info_time">18:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강백호-Tosi, 팀 KT로 뭉쳤다 [사진]]]></title>
-        <id>https://v.daum.net/v/20221217184558272</id>
-        <link href="https://v.daum.net/v/20221217184558272"/>
-        <updated>2022-12-17T10:16:11.303Z</updated>
-        <content type="html"><![CDATA[OSEN<span class="txt_bar"> · </span><span class="info_time">18:45</span>]]></content>
     </entry>
 </feed>
