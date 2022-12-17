@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2022-12-17T15:15:52.776Z</updated>
+    <updated>2022-12-17T16:21:23.495Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 전북 눈 폭탄, 시간당 5cm씩 늘어나...밤사이 한파·눈 더 강해져]]></title>
+        <id>https://v.daum.net/v/20221218010108711</id>
+        <link href="https://v.daum.net/v/20221218010108711"/>
+        <updated>2022-12-17T16:20:24.163Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">01:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이누스, 포근한 무드의 욕실 리모델링 패키지 '브리즈 페블' 출시]]></title>
+        <id>https://v.daum.net/v/20221218010002705</id>
+        <link href="https://v.daum.net/v/20221218010002705"/>
+        <updated>2022-12-17T16:20:24.164Z</updated>
+        <content type="html"><![CDATA[웨딩21뉴스<span class="txt_bar"> · </span><span class="info_time">01:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[날씨] 오늘 한파 절정, 서울 -13℃...서해안 폭설 계속]]></title>
         <id>https://v.daum.net/v/20221218000901255</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221218000003173"/>
         <updated>2022-12-17T15:15:01.013Z</updated>
         <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빌리프, 유니버스 캐릭터가 선사하는 스페셜 기프트 '2022 홀리데이 에디션' 출시]]></title>
-        <id>https://v.daum.net/v/20221218000002170</id>
-        <link href="https://v.daum.net/v/20221218000002170"/>
-        <updated>2022-12-17T15:15:01.014Z</updated>
-        <content type="html"><![CDATA[웨딩21뉴스<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["주얼리만 1100만원대" 박민영, 백조 같은 드레스…어디 거?]]></title>
-        <id>https://v.daum.net/v/20221218000001169</id>
-        <link href="https://v.daum.net/v/20221218000001169"/>
-        <updated>2022-12-17T15:15:01.016Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
