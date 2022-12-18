@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-12-18T03:18:49.845Z</updated>
+    <updated>2022-12-18T04:20:13.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“KT 기술로 전동 킥보드 안전성 높인다”..‘23년 제주 실증]]></title>
+        <id>https://v.daum.net/v/20221218130905573</id>
+        <link href="https://v.daum.net/v/20221218130905573"/>
+        <updated>2022-12-18T04:20:02.072Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">13:09</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[편의점을 게임 속 공간처럼 꾸몄더니...'덕후들 다모였다']]></title>
+        <id>https://v.daum.net/v/20221218124945322</id>
+        <link href="https://v.daum.net/v/20221218124945322"/>
+        <updated>2022-12-18T04:20:02.075Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">12:49</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LGU+, 글로벌 준법경영시스템 인증 받았다]]></title>
+        <id>https://v.daum.net/v/20221218123342150</id>
+        <link href="https://v.daum.net/v/20221218123342150"/>
+        <updated>2022-12-18T04:20:02.078Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">12:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[포스코, '침수 피해' 2열연공장 100일 만에 재가동]]></title>
         <id>https://v.daum.net/v/20221218112612271</id>
@@ -88,12 +109,5 @@
         <link href="https://v.daum.net/v/20221218094639678"/>
         <updated>2022-12-18T01:17:14.941Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">09:46</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SK, CES서 40여 개 탄소감축 기술 동시에 선보인다]]></title>
-        <id>https://v.daum.net/v/20221218092702437</id>
-        <link href="https://v.daum.net/v/20221218092702437"/>
-        <updated>2022-12-18T01:17:14.943Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">09:27</span>]]></content>
     </entry>
 </feed>
