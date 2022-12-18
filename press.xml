@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-12-18T07:15:15.796Z</updated>
+    <updated>2022-12-18T08:20:38.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[충북 음성에 773가구 아파트 공급]]></title>
+        <id>https://v.daum.net/v/20221218163952238</id>
+        <link href="https://v.daum.net/v/20221218163952238"/>
+        <updated>2022-12-18T08:20:28.263Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">16:39</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부산시, 전략산업 선도기업 91개사 선정… 3년간 금융혜택 지원]]></title>
+        <id>https://v.daum.net/v/20221218162528047</id>
+        <link href="https://v.daum.net/v/20221218162528047"/>
+        <updated>2022-12-18T08:20:28.264Z</updated>
+        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">16:25</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[현대차, 리비아에 장애인용 차량 3000대 공급한다]]></title>
         <id>https://v.daum.net/v/20221218144840070</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221218112612271"/>
         <updated>2022-12-18T02:36:22.853Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">11:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SK 'CES 2023'에서 40여개 탄소감축 기술 선보인다]]></title>
-        <id>https://v.daum.net/v/20221218111837158</id>
-        <link href="https://v.daum.net/v/20221218111837158"/>
-        <updated>2022-12-18T02:36:22.854Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">11:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성전자, 영국 런던 럭셔리 백화점 셀프리지에 게이밍 체험존 마련]]></title>
-        <id>https://v.daum.net/v/20221218110703997</id>
-        <link href="https://v.daum.net/v/20221218110703997"/>
-        <updated>2022-12-18T02:36:22.855Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">11:07</span>]]></content>
     </entry>
 </feed>
