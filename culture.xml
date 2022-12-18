@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2022-12-18T16:21:16.225Z</updated>
+    <updated>2022-12-18T17:16:56.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 북극 한파에 또 폭설...한파 내일 낮 풀려]]></title>
+        <id>https://v.daum.net/v/20221219015819969</id>
+        <link href="https://v.daum.net/v/20221219015819969"/>
+        <updated>2022-12-18T17:15:58.052Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">01:58</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[콧물에, 재채기에 지긋지긋한 비염… '기능코성형'으로 비염 잡고 미용 챙기자]]></title>
         <id>https://v.daum.net/v/20221219010002639</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221219000300084"/>
         <updated>2022-12-18T15:14:58.745Z</updated>
         <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 운세] 12월 19일]]></title>
-        <id>https://v.daum.net/v/20221219000209079</id>
-        <link href="https://v.daum.net/v/20221219000209079"/>
-        <updated>2022-12-18T15:14:58.746Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
     </entry>
 </feed>
