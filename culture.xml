@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2022-12-18T18:19:17.364Z</updated>
+    <updated>2022-12-18T19:13:58.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나 위중증 석 달만에 다시 500명대]]></title>
+        <id>https://v.daum.net/v/20221219040722341</id>
+        <link href="https://v.daum.net/v/20221219040722341"/>
+        <updated>2022-12-18T19:12:49.770Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['축구의 신' 메시 마침내 월드컵 품었다…승부차기 끝 프랑스 꺾어]]></title>
         <id>https://v.daum.net/v/20221219031746819</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20221219030812695</id>
         <link href="https://v.daum.net/v/20221219030812695"/>
         <updated>2022-12-18T18:18:12.383Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">03:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[우리 교회 소식] 강원도 원주 세인교회]]></title>
-        <id>https://v.daum.net/v/20221219030811694</id>
-        <link href="https://v.daum.net/v/20221219030811694"/>
-        <updated>2022-12-18T18:18:12.384Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">03:08</span>]]></content>
     </entry>
 </feed>
