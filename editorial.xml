@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-12-19T16:24:36.279Z</updated>
+    <updated>2022-12-19T17:17:32.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]매월 내는 월세가 모여 내 집이 된다!]]></title>
+        <id>https://v.daum.net/v/20221220020301465</id>
+        <link href="https://v.daum.net/v/20221220020301465"/>
+        <updated>2022-12-19T17:17:09.607Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[최훈 칼럼] 사랑받을까, 무서워질까]]></title>
         <id>https://v.daum.net/v/20221220010559327</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221220003707211"/>
         <updated>2022-12-19T16:24:11.582Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[천자칼럼] 월드컵 우승 vs 아르헨티나 정치]]></title>
-        <id>https://v.daum.net/v/20221220003113198</id>
-        <link href="https://v.daum.net/v/20221220003113198"/>
-        <updated>2022-12-19T16:24:11.583Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:31</span>]]></content>
     </entry>
 </feed>
