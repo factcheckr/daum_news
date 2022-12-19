@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-12-19T06:22:08.558Z</updated>
+    <updated>2022-12-19T07:16:12.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['Why are they trying to go against the flow?']]></title>
+        <id>https://v.daum.net/v/20221219161255618</id>
+        <link href="https://v.daum.net/v/20221219161255618"/>
+        <updated>2022-12-19T07:15:49.162Z</updated>
+        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">16:12</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팀장 칼럼] 스타트업 혹한기, 실패 공부해야 이긴다]]></title>
+        <id>https://v.daum.net/v/20221219160532292</id>
+        <link href="https://v.daum.net/v/20221219160532292"/>
+        <updated>2022-12-19T07:15:49.164Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">16:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[기자수첩] 플랫폼 규제, 이대로 괜찮나]]></title>
+        <id>https://v.daum.net/v/20221219153539269</id>
+        <link href="https://v.daum.net/v/20221219153539269"/>
+        <updated>2022-12-19T07:15:49.168Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">15:35</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[데일리안 시사만평] 문재인정부는 통계조작청?…어쩐지 이상하더라 하루 아침에 확 바뀌더라니]]></title>
+        <id>https://v.daum.net/v/20221219152244815</id>
+        <link href="https://v.daum.net/v/20221219152244815"/>
+        <updated>2022-12-19T07:15:49.169Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">15:22</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설]유통 '피싱 사이트' 일벌백계 필요]]></title>
         <id>https://v.daum.net/v/20221219151903673</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20221219115203273"/>
         <updated>2022-12-19T03:18:09.710Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:52</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<사설>거대 노조 ‘깜깜이 회계’ 투명성 획기적 강화 절실하다]]></title>
-        <id>https://v.daum.net/v/20221219114827150</id>
-        <link href="https://v.daum.net/v/20221219114827150"/>
-        <updated>2022-12-19T03:18:09.725Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<사설>다시 “성장” 외친 시진핑…北 도발 감싸기부터 중단해야]]></title>
-        <id>https://v.daum.net/v/20221219114826149</id>
-        <link href="https://v.daum.net/v/20221219114826149"/>
-        <updated>2022-12-19T03:18:09.727Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<사설>與 대표 경선 규칙 바꾸면 차차기부터 적용하는 게 正道]]></title>
-        <id>https://v.daum.net/v/20221219114826147</id>
-        <link href="https://v.daum.net/v/20221219114826147"/>
-        <updated>2022-12-19T03:18:09.728Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<유병권의 시론>참사 악용하는 ‘못난이 정치’]]></title>
-        <id>https://v.daum.net/v/20221219114824146</id>
-        <link href="https://v.daum.net/v/20221219114824146"/>
-        <updated>2022-12-19T03:18:09.730Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:48</span>]]></content>
     </entry>
 </feed>
