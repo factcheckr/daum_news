@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2022-12-20T16:23:50.140Z</updated>
+    <updated>2022-12-20T17:15:37.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["애플, 노트북컴퓨터 맥북 생산 일부 중국→베트남 이동"]]></title>
+        <id>https://v.daum.net/v/20221221013818129</id>
+        <link href="https://v.daum.net/v/20221221013818129"/>
+        <updated>2022-12-20T17:14:20.060Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">01:38</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[웅진 ‘창업자 차남’ 윤새봄, 지주부문 대표이사 사장 승진]]></title>
         <id>https://v.daum.net/v/20221221011222048</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221221010716997"/>
         <updated>2022-12-20T16:22:37.236Z</updated>
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SK이노, 1월 CES서 친환경 혁신 기술 선보인다]]></title>
-        <id>https://v.daum.net/v/20221221010654994</id>
-        <link href="https://v.daum.net/v/20221221010654994"/>
-        <updated>2022-12-20T16:22:37.237Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:06</span>]]></content>
     </entry>
 </feed>
