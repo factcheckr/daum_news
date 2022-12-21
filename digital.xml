@@ -2,112 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-12-21T14:15:56.522Z</updated>
+    <updated>2022-12-21T15:18:13.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
+        <title type="html"><![CDATA[비싼 요금제로 무단 변경…LGU+ “우리 탓 아니다?”]]></title>
+        <id>https://v.daum.net/v/20221222001111961</id>
+        <link href="https://v.daum.net/v/20221222001111961"/>
+        <updated>2022-12-21T15:17:50.045Z</updated>
+        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">00:11</span>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[민간 첫 우주발사체 '한빛 TLV' 시험발사 또 불발]]></title>
-        <id>https://v.daum.net/v/20221221230900465</id>
-        <link href="https://v.daum.net/v/20221221230900465"/>
-        <updated>2022-12-21T14:15:31.614Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">23:09</span>]]></content>
+        <id>https://v.daum.net/v/20221222000600871</id>
+        <link href="https://v.daum.net/v/20221222000600871"/>
+        <updated>2022-12-21T15:17:50.047Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['첫 민간발사체' 한빛TLV 발사 또 불발…"브라질측 시스템 문제"(종합)]]></title>
-        <id>https://v.daum.net/v/20221221230410451</id>
-        <link href="https://v.daum.net/v/20221221230410451"/>
-        <updated>2022-12-21T14:15:31.615Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">23:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫 민간발사체 ‘한빛-TLV’ 발사 무산····“안전관리시스템 오류”]]></title>
-        <id>https://v.daum.net/v/20221221225937431</id>
-        <link href="https://v.daum.net/v/20221221225937431"/>
-        <updated>2022-12-21T14:15:31.634Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:59</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[리뷰] 그림 좋고 서비스도 OK, 씨게이트 스파이더맨 스페셜 에디션 외장하드 3종]]></title>
-        <id>https://v.daum.net/v/20221221225701424</id>
-        <link href="https://v.daum.net/v/20221221225701424"/>
-        <updated>2022-12-21T14:15:31.641Z</updated>
-        <content type="html"><![CDATA[IT동아<span class="txt_bar"> · </span><span class="info_time">22:57</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫 민간로켓 '한빛-TLV' 발사 또 불발]]></title>
-        <id>https://v.daum.net/v/20221221225502416</id>
-        <link href="https://v.daum.net/v/20221221225502416"/>
-        <updated>2022-12-21T14:15:31.643Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">22:55</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫 민간 우주발사체 ‘한빛-TLV’, 3일 연속 발사 무산…”안전관리시스템 오류”]]></title>
-        <id>https://v.daum.net/v/20221221225045388</id>
-        <link href="https://v.daum.net/v/20221221225045388"/>
-        <updated>2022-12-21T14:15:31.644Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">22:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이강인, 유튜브 출연해 월드컵 후기 방출]]></title>
-        <id>https://v.daum.net/v/20221221224826376</id>
-        <link href="https://v.daum.net/v/20221221224826376"/>
-        <updated>2022-12-21T14:15:31.645Z</updated>
-        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">22:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫 민간 시험발사체 '한빛-TLV' 발사 또 무산]]></title>
-        <id>https://v.daum.net/v/20221221224429355</id>
-        <link href="https://v.daum.net/v/20221221224429355"/>
-        <updated>2022-12-21T14:15:31.650Z</updated>
-        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">22:44</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韓 민간 개발 발사체 '한빛-TLV' 첫 시험발사 시도 불발]]></title>
-        <id>https://v.daum.net/v/20221221223454252</id>
-        <link href="https://v.daum.net/v/20221221223454252"/>
-        <updated>2022-12-21T14:15:31.651Z</updated>
-        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">22:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민간 우주발사체, 시스템 오류로 불발]]></title>
-        <id>https://v.daum.net/v/20221221223209243</id>
-        <link href="https://v.daum.net/v/20221221223209243"/>
-        <updated>2022-12-21T14:15:31.653Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">22:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외부 시스템 문제에..이노스페이스 '한빛-TLV' 로켓 발사 시도 불발]]></title>
-        <id>https://v.daum.net/v/20221221223003220</id>
-        <link href="https://v.daum.net/v/20221221223003220"/>
-        <updated>2022-12-21T14:15:31.655Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">22:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['첫 민간발사체' 한빛TLV 발사 또 무산…"안전관리시스템 오류"]]></title>
-        <id>https://v.daum.net/v/20221221222921215</id>
-        <link href="https://v.daum.net/v/20221221222921215"/>
-        <updated>2022-12-21T14:15:31.656Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">22:29</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4차 우주개발진흥 계획, 2032년 달·2045년 화성에 ‘무인 착륙’]]></title>
-        <id>https://v.daum.net/v/20221221221641140</id>
-        <link href="https://v.daum.net/v/20221221221641140"/>
-        <updated>2022-12-21T14:15:31.662Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[승우아빠, 내년 '트럭 마이야르' 프로젝트…전국 누빈다]]></title>
-        <id>https://v.daum.net/v/20221221221229090</id>
-        <link href="https://v.daum.net/v/20221221221229090"/>
-        <updated>2022-12-21T14:15:31.662Z</updated>
-        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">22:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라이트에이드, 3분기 손실 확대…성장전망 하향]]></title>
-        <id>https://v.daum.net/v/20221221220527032</id>
-        <link href="https://v.daum.net/v/20221221220527032"/>
-        <updated>2022-12-21T14:15:31.664Z</updated>
-        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">22:05</span>]]></content>
+        <title type="html"><![CDATA[삼성전자·SK하이닉스 실적 '꽁꽁'…"내년 반도체 더 춥다"]]></title>
+        <id>https://v.daum.net/v/20221222000046739</id>
+        <link href="https://v.daum.net/v/20221222000046739"/>
+        <updated>2022-12-21T15:17:50.048Z</updated>
+        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
