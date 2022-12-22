@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2022-12-22T16:23:40.048Z</updated>
+    <updated>2022-12-22T17:16:06.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[내년도 예산안 극적 합의...오늘 본회의 처리]]></title>
+        <id>https://v.daum.net/v/20221223015814865</id>
+        <link href="https://v.daum.net/v/20221223015814865"/>
+        <updated>2022-12-22T17:14:47.333Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">01:58</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안전운임제 등 '일몰 법안' 오는 28일 본회의서 처리]]></title>
         <id>https://v.daum.net/v/20221223010413699</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221223001456486"/>
         <updated>2022-12-22T15:18:56.054Z</updated>
         <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">00:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명 “내가 그렇게 무섭나”…여당 “169석 뒤에 숨지 마라”]]></title>
-        <id>https://v.daum.net/v/20221223001120476</id>
-        <link href="https://v.daum.net/v/20221223001120476"/>
-        <updated>2022-12-22T15:18:56.055Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:11</span>]]></content>
     </entry>
 </feed>
