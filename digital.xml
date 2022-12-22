@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-12-22T13:22:56.257Z</updated>
+    <updated>2022-12-22T14:17:42.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“어, 삼성 낸드가격 왜 올랐지?”…미중 고래싸움에 반사익 기대]]></title>
+        <id>https://v.daum.net/v/20221222223601912</id>
+        <link href="https://v.daum.net/v/20221222223601912"/>
+        <updated>2022-12-22T14:17:20.480Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">22:36</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“18년차 장수게임 없애다니”…화난 카트라이더 유저들, 트럭시위]]></title>
         <id>https://v.daum.net/v/20221222221800762</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221222210101710"/>
         <updated>2022-12-22T12:30:06.434Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">21:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아! 중국에 질렸다…삼성 점유율 0% 초유의 적자 사태 발생]]></title>
-        <id>https://v.daum.net/v/20221222205055452</id>
-        <link href="https://v.daum.net/v/20221222205055452"/>
-        <updated>2022-12-22T12:30:06.438Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">20:50</span>]]></content>
     </entry>
 </feed>
