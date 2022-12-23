@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-12-23T03:18:27.377Z</updated>
+    <updated>2022-12-23T04:19:58.876Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[시사컬처]2022년 단 하나의 물건을 고른다면]]></title>
+        <id>https://v.daum.net/v/20221223123812072</id>
+        <link href="https://v.daum.net/v/20221223123812072"/>
+        <updated>2022-12-23T04:19:42.612Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">12:38</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[논단]스파이크먼의 경고와 美·中 경쟁]]></title>
+        <id>https://v.daum.net/v/20221223123601049</id>
+        <link href="https://v.daum.net/v/20221223123601049"/>
+        <updated>2022-12-23T04:19:42.613Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">12:36</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설]전기료 폭탄과 한전 파탄 ‘文정부 왜곡’ 철저 監査해야]]></title>
         <id>https://v.daum.net/v/20221223115815456</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221223114534109"/>
         <updated>2022-12-23T03:18:10.533Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[살며 생각하며]겨울의 빛]]></title>
-        <id>https://v.daum.net/v/20221223114520094</id>
-        <link href="https://v.daum.net/v/20221223114520094"/>
-        <updated>2022-12-23T03:18:10.534Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Editorial] Tackling economic challenges for 2023 (KOR)]]></title>
-        <id>https://v.daum.net/v/20221223113700844</id>
-        <link href="https://v.daum.net/v/20221223113700844"/>
-        <updated>2022-12-23T02:38:23.336Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">11:37</span>]]></content>
     </entry>
 </feed>
