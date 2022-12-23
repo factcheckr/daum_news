@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-12-23T13:22:14.736Z</updated>
+    <updated>2022-12-23T14:15:17.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[람다256, 블록체인 기반 라이프스타일 플랫폼 스텔시와 협력]]></title>
+        <id>https://v.daum.net/v/20221223224439878</id>
+        <link href="https://v.daum.net/v/20221223224439878"/>
+        <updated>2022-12-23T14:14:51.647Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">22:44</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['가상자산' 소득 과세 2025년으로 연기]]></title>
+        <id>https://v.daum.net/v/20221223223058756</id>
+        <link href="https://v.daum.net/v/20221223223058756"/>
+        <updated>2022-12-23T14:14:51.648Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">22:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원자력연구원 중·저준위 방사성폐기물 260드럼 반출]]></title>
         <id>https://v.daum.net/v/20221223220851534</id>
@@ -13,7 +27,7 @@
         <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">22:08</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“사진 찍어드릴까요?” 눈길 끄는 인천공항 ‘핵인싸 로봇’]]></title>
+        <title type="html"><![CDATA[“사진 찍어드릴까요?”…공항 근무 5년 ‘핵인싸로봇’이 건넨 말]]></title>
         <id>https://v.daum.net/v/20221223220502497</id>
         <link href="https://v.daum.net/v/20221223220502497"/>
         <updated>2022-12-23T13:21:41.787Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221223190609267"/>
         <updated>2022-12-23T10:17:41.722Z</updated>
         <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">19:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버 시리즈온, 연말 맞이 할인 이벤트]]></title>
-        <id>https://v.daum.net/v/20221223190132209</id>
-        <link href="https://v.daum.net/v/20221223190132209"/>
-        <updated>2022-12-23T10:17:41.722Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">19:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인사] 한국방송통신전파진흥원]]></title>
-        <id>https://v.daum.net/v/20221223185510152</id>
-        <link href="https://v.daum.net/v/20221223185510152"/>
-        <updated>2022-12-23T10:17:41.722Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">18:55</span>]]></content>
     </entry>
 </feed>
