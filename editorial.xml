@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-12-23T16:22:18.802Z</updated>
+    <updated>2022-12-23T17:17:26.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사설] 법인세 1%P 찔끔 인하로 경제 활성화 기대할 수 있겠나]]></title>
+        <id>https://v.daum.net/v/20221224013807983</id>
+        <link href="https://v.daum.net/v/20221224013807983"/>
+        <updated>2022-12-23T17:17:11.246Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:38</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[천자칼럼] 빌런이 된 머스크]]></title>
         <id>https://v.daum.net/v/20221224003404570</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20221224002054501</id>
         <link href="https://v.daum.net/v/20221224002054501"/>
         <updated>2022-12-23T16:21:59.842Z</updated>
-        <content type="html"><![CDATA[중앙SUNDAY<span class="txt_bar"> · </span><span class="info_time">00:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[산타클로스, 동로마제국 대주교 세인트 니콜라스로 실존 인물]]></title>
-        <id>https://v.daum.net/v/20221224002047499</id>
-        <link href="https://v.daum.net/v/20221224002047499"/>
-        <updated>2022-12-23T16:21:59.844Z</updated>
         <content type="html"><![CDATA[중앙SUNDAY<span class="txt_bar"> · </span><span class="info_time">00:20</span>]]></content>
     </entry>
 </feed>
