@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/foreign</id>
     <title>다음 뉴스 ─ 전체기사 ─ 국제</title>
-    <updated>2022-12-24T17:14:47.045Z</updated>
+    <updated>2022-12-24T18:19:43.238Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[독일, 크리스마스 장터도 '에너지난·고물가' 여파]]></title>
+        <id>https://v.daum.net/v/20221225023706160</id>
+        <link href="https://v.daum.net/v/20221225023706160"/>
+        <updated>2022-12-24T18:18:45.035Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">02:37</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[로이터 "테슬라 상하이공장 생산 중단…근로자들 코로나 감염"]]></title>
+        <id>https://v.daum.net/v/20221225023702159</id>
+        <link href="https://v.daum.net/v/20221225023702159"/>
+        <updated>2022-12-24T18:18:45.037Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">02:37</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[epaselect SERBIA UKRAINE RUSSIA CONFLICT]]></title>
         <id>https://v.daum.net/v/20221225020332104</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221225012633982"/>
         <updated>2022-12-24T17:13:44.637Z</updated>
         <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">01:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Estonia Christmas]]></title>
-        <id>https://v.daum.net/v/20221225012623980</id>
-        <link href="https://v.daum.net/v/20221225012623980"/>
-        <updated>2022-12-24T17:13:44.639Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">01:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우크라전 304일, 러 크리스마스 이브 헤르손 공습…민간인 등 60명 이상 사상]]></title>
-        <id>https://v.daum.net/v/20221225011404917</id>
-        <link href="https://v.daum.net/v/20221225011404917"/>
-        <updated>2022-12-24T16:20:21.817Z</updated>
-        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">01:14</span>]]></content>
     </entry>
 </feed>
