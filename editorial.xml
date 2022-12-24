@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-12-24T03:17:43.563Z</updated>
+    <updated>2022-12-24T04:19:59.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대기업 이윤보다 안전을, 안전운임제 투쟁은 끝나지 않았다]]></title>
+        <id>https://v.daum.net/v/20221224131917485</id>
+        <link href="https://v.daum.net/v/20221224131917485"/>
+        <updated>2022-12-24T04:19:40.500Z</updated>
+        <content type="html"><![CDATA[미디어오늘<span class="txt_bar"> · </span><span class="info_time">13:19</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[도티, 조나단 … 유튜버 뜨는 데 유튜버 관리업체는 죽는 '역설']]></title>
+        <id>https://v.daum.net/v/20221224131241437</id>
+        <link href="https://v.daum.net/v/20221224131241437"/>
+        <updated>2022-12-24T04:19:40.500Z</updated>
+        <content type="html"><![CDATA[더스쿠프<span class="txt_bar"> · </span><span class="info_time">13:12</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[깜깜이 민주노총 예산에 햇빛 비춰야 [쓴소리곧은소리]]]></title>
         <id>https://v.daum.net/v/20221224120804081</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221224063925140"/>
         <updated>2022-12-23T22:15:25.087Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">06:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 이제야 통과된 예산안, 남은 법안도 연내 처리하길]]></title>
-        <id>https://v.daum.net/v/20221224043131430</id>
-        <link href="https://v.daum.net/v/20221224043131430"/>
-        <updated>2022-12-23T20:17:18.791Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 샐러리맨·중산층 소득세만 ‘패싱’된 내년 세금 감면]]></title>
-        <id>https://v.daum.net/v/20221224043055426</id>
-        <link href="https://v.daum.net/v/20221224043055426"/>
-        <updated>2022-12-23T20:17:18.792Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
     </entry>
 </feed>
