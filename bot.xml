@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-12-24T05:17:11.186Z</updated>
+    <updated>2022-12-24T06:19:46.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서울 고덕동 래미안힐스테이트 고덕  59㎡ 9억6500만원... 역대 최고가]]></title>
+        <id>https://v.daum.net/v/20221224143034058</id>
+        <link href="https://v.daum.net/v/20221224143034058"/>
+        <updated>2022-12-24T06:19:45.381Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천 만수동 만수 뉴서울 아파트 34㎡ 9600만원에 거래]]></title>
+        <id>https://v.daum.net/v/20221224142538035</id>
+        <link href="https://v.daum.net/v/20221224142538035"/>
+        <updated>2022-12-24T06:19:45.381Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:25</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천 송도동 송도 풍림아이원1단지아파트 84㎡ 5억원에 거래]]></title>
+        <id>https://v.daum.net/v/20221224142043006</id>
+        <link href="https://v.daum.net/v/20221224142043006"/>
+        <updated>2022-12-24T06:19:45.385Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:20</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인천 송도동 송도캐슬&해모로 84㎡ 4억8000만원에 거래]]></title>
         <id>https://v.daum.net/v/20221224141537962</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20221224132038490"/>
         <updated>2022-12-24T05:17:10.569Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 구월동 구월 힐스테이트&롯데캐슬골드 84㎡ 4억7200만원에 거래]]></title>
-        <id>https://v.daum.net/v/20221224131538463</id>
-        <link href="https://v.daum.net/v/20221224131538463"/>
-        <updated>2022-12-24T04:19:58.625Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 연수동 연수2차우성아파트 84㎡ 4억원에 거래]]></title>
-        <id>https://v.daum.net/v/20221224131037431</id>
-        <link href="https://v.daum.net/v/20221224131037431"/>
-        <updated>2022-12-24T04:19:58.626Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용인 상현동 상현엘지자이 109㎡ 6억3000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20221224130541404</id>
-        <link href="https://v.daum.net/v/20221224130541404"/>
-        <updated>2022-12-24T04:19:58.630Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:05</span>]]></content>
     </entry>
 </feed>
