@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-12-24T08:19:59.739Z</updated>
+    <updated>2022-12-24T09:17:08.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] GWM TANK, 더 많은 세계 시장에 진출 예정]]></title>
+        <id>https://v.daum.net/v/20221224174322645</id>
+        <link href="https://v.daum.net/v/20221224174322645"/>
+        <updated>2022-12-24T09:17:00.117Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:43</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 싼야, 젊은 관광객 유치하고자 Z세대 톱 모델 대회 개최]]></title>
+        <id>https://v.daum.net/v/20221224172344422</id>
+        <link href="https://v.daum.net/v/20221224172344422"/>
+        <updated>2022-12-24T09:17:00.117Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:23</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] 하이센스, TI DLP(R) 기술로 레이저 디스플레이 분야 발전시켜]]></title>
         <id>https://v.daum.net/v/20221224165709168</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221224083649954"/>
         <updated>2022-12-24T01:08:16.468Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">08:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] Hisense Advances the Laser Display Field with Texas Instruments]]></title>
-        <id>https://v.daum.net/v/20221224083200930</id>
-        <link href="https://v.daum.net/v/20221224083200930"/>
-        <updated>2022-12-24T01:08:16.470Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">08:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[638조7276억원 내년 예산안 국회 통과…2014년 이후 ‘최장 지각’]]></title>
-        <id>https://v.daum.net/v/20221224074820601</id>
-        <link href="https://v.daum.net/v/20221224074820601"/>
-        <updated>2022-12-23T23:16:59.119Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">07:48</span>]]></content>
     </entry>
 </feed>
