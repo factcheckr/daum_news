@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-12-24T01:08:24.252Z</updated>
+    <updated>2022-12-24T02:34:18.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우리나라 가장 오래된 제사 터가 이곳일까 [배기동의 고고학 기행]]]></title>
+        <id>https://v.daum.net/v/20221224110003413</id>
+        <link href="https://v.daum.net/v/20221224110003413"/>
+        <updated>2022-12-24T02:34:01.870Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">11:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[전국 주요 신문 톱뉴스](24일 조간)]]></title>
         <id>https://v.daum.net/v/20221224100005753</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221224043035422"/>
         <updated>2022-12-23T20:17:18.799Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한마당] 경찰국과 권한쟁의심판]]></title>
-        <id>https://v.daum.net/v/20221224041205405</id>
-        <link href="https://v.daum.net/v/20221224041205405"/>
-        <updated>2022-12-23T19:13:50.051Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:12</span>]]></content>
     </entry>
 </feed>
