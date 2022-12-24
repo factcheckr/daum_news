@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-12-24T04:19:59.384Z</updated>
+    <updated>2022-12-24T05:17:11.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“중국 화나면 한국은 감기약도 못 만든다?” 독감도 중국 눈치, 어쩌다]]></title>
+        <id>https://v.daum.net/v/20221224135034711</id>
+        <link href="https://v.daum.net/v/20221224135034711"/>
+        <updated>2022-12-24T05:16:45.986Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">13:50</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["30분 거리에 7만원이요?" 깜짝…택시 싸게 타려면 [조아라의 IT's fun]]]></title>
+        <id>https://v.daum.net/v/20221224133102544</id>
+        <link href="https://v.daum.net/v/20221224133102544"/>
+        <updated>2022-12-24T05:16:45.989Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">13:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[네이버 D2SF, 슬립테크 스타트업 ‘프라나큐’에 신규 투자]]></title>
         <id>https://v.daum.net/v/20221224130116378</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221224104804285"/>
         <updated>2022-12-24T02:33:54.523Z</updated>
         <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">10:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내년 복지부 예산 ‘109조1830억원’…보건의료 사업만 3400억 줄어]]></title>
-        <id>https://v.daum.net/v/20221224103504173</id>
-        <link href="https://v.daum.net/v/20221224103504173"/>
-        <updated>2022-12-24T02:33:54.523Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">10:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['카톡' 위협하는 메신저 강자 '슬랙', 스타트업 타고 확산세]]></title>
-        <id>https://v.daum.net/v/20221224102901107</id>
-        <link href="https://v.daum.net/v/20221224102901107"/>
-        <updated>2022-12-24T02:33:54.524Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">10:29</span>]]></content>
     </entry>
 </feed>
