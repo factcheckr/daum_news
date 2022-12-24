@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-12-24T02:34:18.790Z</updated>
+    <updated>2022-12-24T03:17:43.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인사] 한국방송통신전파진흥원]]></title>
+        <id>https://v.daum.net/v/20221224114126881</id>
+        <link href="https://v.daum.net/v/20221224114126881"/>
+        <updated>2022-12-24T03:17:14.580Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">11:41</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[신작 게임 출시] 22년 12월 4주차 신규 게임 출시 일정]]></title>
         <id>https://v.daum.net/v/20221224113300798</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221224101723997"/>
         <updated>2022-12-24T02:33:54.534Z</updated>
         <content type="html"><![CDATA[연합뉴스TV<span class="txt_bar"> · </span><span class="info_time">10:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[판매옷 가상 착용·아바타 패션모델 서비스]]></title>
-        <id>https://v.daum.net/v/20221224101544986</id>
-        <link href="https://v.daum.net/v/20221224101544986"/>
-        <updated>2022-12-24T02:33:54.535Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">10:15</span>]]></content>
     </entry>
 </feed>
