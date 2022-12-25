@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2022-12-25T16:21:13.577Z</updated>
+    <updated>2022-12-25T17:14:46.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['동양화의 의미'...'흔적의 흔적'展]]></title>
+        <id>https://v.daum.net/v/20221226015305256</id>
+        <link href="https://v.daum.net/v/20221226015305256"/>
+        <updated>2022-12-25T17:13:50.240Z</updated>
+        <content type="html"><![CDATA[MBN<span class="txt_bar"> · </span><span class="info_time">01:53</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[50년간 ‘겟세마네’…‘너무도 인간적인’ 수퍼스타 예수 [고승희의 리와인드]]]></title>
         <id>https://v.daum.net/v/20221226011715221</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221226000347025"/>
         <updated>2022-12-25T15:16:32.421Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘날씨, 아침엔 ‘한파’ 여전...낮 기온 영상 ‘바람불어 추운 날’]]></title>
-        <id>https://v.daum.net/v/20221226000304014</id>
-        <link href="https://v.daum.net/v/20221226000304014"/>
-        <updated>2022-12-25T15:16:32.422Z</updated>
-        <content type="html"><![CDATA[bnt뉴스<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
     </entry>
 </feed>

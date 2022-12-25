@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2022-12-25T16:21:13.590Z</updated>
+    <updated>2022-12-25T17:14:46.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단 제이홉, 크러쉬 콘서트 게스트로 ‘깜짝 등장’]]></title>
+        <id>https://v.daum.net/v/20221226014143247</id>
+        <link href="https://v.daum.net/v/20221226014143247"/>
+        <updated>2022-12-25T17:13:59.202Z</updated>
+        <content type="html"><![CDATA[OSEN<span class="txt_bar"> · </span><span class="info_time">01:41</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(여자)아이들 전소연, 상체 앞으로 숙이고…섹시 루돌프]]></title>
+        <id>https://v.daum.net/v/20221226012043225</id>
+        <link href="https://v.daum.net/v/20221226012043225"/>
+        <updated>2022-12-25T17:13:59.210Z</updated>
+        <content type="html"><![CDATA[마이데일리<span class="txt_bar"> · </span><span class="info_time">01:20</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송중기 “진도준 살인 공범=나”→윤현우로 복수하며 ‘참회 엔딩’ (‘재벌집’)[Oh!쎈 종합]]]></title>
         <id>https://v.daum.net/v/20221226010435201</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221226003014103"/>
         <updated>2022-12-25T16:20:29.203Z</updated>
         <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Ms앨범] "닉값 증명" 에스파 윈터, 겨울에 꽃피운 비주얼]]></title>
-        <id>https://v.daum.net/v/20221226003005101</id>
-        <link href="https://v.daum.net/v/20221226003005101"/>
-        <updated>2022-12-25T16:20:29.203Z</updated>
-        <content type="html"><![CDATA[MHN스포츠<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서정희 "그저 암과 씨름..건강해지고 나를 비울 것" 다짐]]></title>
-        <id>https://v.daum.net/v/20221226002859099</id>
-        <link href="https://v.daum.net/v/20221226002859099"/>
-        <updated>2022-12-25T16:20:29.204Z</updated>
-        <content type="html"><![CDATA[스타뉴스<span class="txt_bar"> · </span><span class="info_time">00:28</span>]]></content>
     </entry>
 </feed>
