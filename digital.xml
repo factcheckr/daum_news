@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-12-27T22:15:52.749Z</updated>
+    <updated>2022-12-27T23:19:15.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[부산시, 공공 마이데이터 서비스 구축…서류제출 간소화]]></title>
+        <id>https://v.daum.net/v/20221228081516200</id>
+        <link href="https://v.daum.net/v/20221228081516200"/>
+        <updated>2022-12-27T23:18:50.338Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삼성전자, 최신 스냅드래곤 탑재 '갤럭시 북2 프로 360' 출시]]></title>
+        <id>https://v.daum.net/v/20221228081201124</id>
+        <link href="https://v.daum.net/v/20221228081201124"/>
+        <updated>2022-12-27T23:18:50.338Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">08:12</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[올쇼 TV] “쿠버네티스를 쉽고 편하게 구축하는 방안” 1월 18일 생방송]]></title>
+        <id>https://v.daum.net/v/20221228080107900</id>
+        <link href="https://v.daum.net/v/20221228080107900"/>
+        <updated>2022-12-27T23:18:50.339Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">08:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[챗GPT 파급효과 어디까지?…정부, AI 전략 '고심']]></title>
         <id>https://v.daum.net/v/20221228071508252</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20221228064613852"/>
         <updated>2022-12-27T22:15:27.078Z</updated>
         <content type="html"><![CDATA[머니S<span class="txt_bar"> · </span><span class="info_time">06:46</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SF 영화가 현실로… 미래 시장 이끌 'K-로봇']]></title>
-        <id>https://v.daum.net/v/20221228064124819</id>
-        <link href="https://v.daum.net/v/20221228064124819"/>
-        <updated>2022-12-27T22:15:27.083Z</updated>
-        <content type="html"><![CDATA[머니S<span class="txt_bar"> · </span><span class="info_time">06:41</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기자수첩]항우연 집안싸움 만큼 걱정되는 우주청]]></title>
-        <id>https://v.daum.net/v/20221228062804686</id>
-        <link href="https://v.daum.net/v/20221228062804686"/>
-        <updated>2022-12-27T22:15:27.085Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">06:28</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[글로벌 공략하는 게임업계, 올해 ESG 경영 성과는]]></title>
-        <id>https://v.daum.net/v/20221228062506671</id>
-        <link href="https://v.daum.net/v/20221228062506671"/>
-        <updated>2022-12-27T22:15:27.086Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">06:25</span>]]></content>
     </entry>
 </feed>
