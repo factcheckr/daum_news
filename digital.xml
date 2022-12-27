@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-12-27T13:23:24.898Z</updated>
+    <updated>2022-12-27T14:15:34.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[구글 픽셀7, 원인 불명 카메라 손상 잇달아]]></title>
+        <id>https://v.daum.net/v/20221227224131862</id>
+        <link href="https://v.daum.net/v/20221227224131862"/>
+        <updated>2022-12-27T14:15:07.022Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">22:41</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“자율車 한대에 2000개 필요”…빙하기 반도체에 희망이]]></title>
+        <id>https://v.daum.net/v/20221227223901851</id>
+        <link href="https://v.daum.net/v/20221227223901851"/>
+        <updated>2022-12-27T14:15:07.025Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">22:39</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[휴대폰 빙하기에…출하량 63% 급증한 폰 있다는데]]></title>
         <id>https://v.daum.net/v/20221227221200697</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221227195437766"/>
         <updated>2022-12-27T11:16:56.936Z</updated>
         <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">19:54</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[DX로 가는 밑거름 `데이터바우처`] 고압배관 손상전 안전조치… 척추재활에 적용도]]></title>
-        <id>https://v.daum.net/v/20221227195252743</id>
-        <link href="https://v.daum.net/v/20221227195252743"/>
-        <updated>2022-12-27T11:16:56.937Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">19:52</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["아바타2 보는데 초장 냄새가 진동"…영화관 황당 경험담]]></title>
-        <id>https://v.daum.net/v/20221227195103713</id>
-        <link href="https://v.daum.net/v/20221227195103713"/>
-        <updated>2022-12-27T11:16:56.939Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">19:51</span>]]></content>
     </entry>
 </feed>
