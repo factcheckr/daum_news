@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-12-27T03:18:10.102Z</updated>
+    <updated>2022-12-27T04:22:09.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인사] 하나증권]]></title>
+        <id>https://v.daum.net/v/20221227131610778</id>
+        <link href="https://v.daum.net/v/20221227131610778"/>
+        <updated>2022-12-27T04:21:52.477Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">13:16</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ET톡]이태원 참사와 정치 쇼]]></title>
+        <id>https://v.daum.net/v/20221227131305691</id>
+        <link href="https://v.daum.net/v/20221227131305691"/>
+        <updated>2022-12-27T04:21:52.478Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">13:13</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설]北 무인기에 농락당한 軍…尹대통령 나서 전면 점검해야]]></title>
         <id>https://v.daum.net/v/20221227114841615</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221227112737625"/>
         <updated>2022-12-27T02:35:41.540Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 수도권 휘저은 北 무인기, 미덥지 못한 대응력]]></title>
-        <id>https://v.daum.net/v/20221227112711606</id>
-        <link href="https://v.daum.net/v/20221227112711606"/>
-        <updated>2022-12-27T02:35:41.541Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[라이프칼럼] 전원에서 젊게 산다는 것]]></title>
-        <id>https://v.daum.net/v/20221227112632577</id>
-        <link href="https://v.daum.net/v/20221227112632577"/>
-        <updated>2022-12-27T02:35:41.542Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:26</span>]]></content>
     </entry>
 </feed>
