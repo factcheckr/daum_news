@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-12-28T13:21:05.099Z</updated>
+    <updated>2022-12-28T14:15:34.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이통3사 주축 ICT전문 펀드 "향후 5년간 4000억원 신규 출자"]]></title>
+        <id>https://v.daum.net/v/20221228231351270</id>
+        <link href="https://v.daum.net/v/20221228231351270"/>
+        <updated>2022-12-28T14:15:09.304Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">23:13</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다누리, 달 임무궤도 진입 성공...계획보다 이틀 빨라]]></title>
+        <id>https://v.daum.net/v/20221228223120040</id>
+        <link href="https://v.daum.net/v/20221228223120040"/>
+        <updated>2022-12-28T14:15:09.304Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">22:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인사] 한국전자통신연구원(ETRI)]]></title>
         <id>https://v.daum.net/v/20221228221902952</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221228211604320"/>
         <updated>2022-12-28T12:28:41.742Z</updated>
         <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">21:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한한령 풀리나? '로스트아크' 등 국산게임 7종 中 판호 발급]]></title>
-        <id>https://v.daum.net/v/20221228211511313</id>
-        <link href="https://v.daum.net/v/20221228211511313"/>
-        <updated>2022-12-28T12:28:41.744Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">21:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국민연금 "의결권 적극 행사"… 구현모 연임 안갯속]]></title>
-        <id>https://v.daum.net/v/20221228211500309</id>
-        <link href="https://v.daum.net/v/20221228211500309"/>
-        <updated>2022-12-28T12:28:41.745Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">21:15</span>]]></content>
     </entry>
 </feed>
