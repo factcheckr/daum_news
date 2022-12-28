@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-12-28T04:22:42.540Z</updated>
+    <updated>2022-12-28T05:15:32.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[부고] 이성규(더피알커뮤니케이션 대표)씨 부친상]]></title>
+        <id>https://v.daum.net/v/20221228141248253</id>
+        <link href="https://v.daum.net/v/20221228141248253"/>
+        <updated>2022-12-28T05:15:16.537Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">14:12</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ET시론]우크라이나 전쟁과 반도체 패권]]></title>
+        <id>https://v.daum.net/v/20221228140106784</id>
+        <link href="https://v.daum.net/v/20221228140106784"/>
+        <updated>2022-12-28T05:15:16.539Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">14:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[The Fountain] A looming subprime mortgage crisis (KOR)]]></title>
+        <id>https://v.daum.net/v/20221228135047419</id>
+        <link href="https://v.daum.net/v/20221228135047419"/>
+        <updated>2022-12-28T05:15:16.540Z</updated>
+        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">13:50</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[농업+IT=스마트팜] 1. 스마트팜에 관심을 가져야 하는 이유]]></title>
+        <id>https://v.daum.net/v/20221228134503233</id>
+        <link href="https://v.daum.net/v/20221228134503233"/>
+        <updated>2022-12-28T05:15:16.542Z</updated>
+        <content type="html"><![CDATA[IT동아<span class="txt_bar"> · </span><span class="info_time">13:45</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[기고] 규제 완화가 지름길이다]]></title>
         <id>https://v.daum.net/v/20221228132210737</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20221228114328515"/>
         <updated>2022-12-28T03:20:12.849Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설]‘年 5조 민간단체 보조금’ 不正 사용 규명해 바로잡아야]]></title>
-        <id>https://v.daum.net/v/20221228114322510</id>
-        <link href="https://v.daum.net/v/20221228114322510"/>
-        <updated>2022-12-28T03:20:12.850Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이현종의 시론]법치를 팬덤으로 무너뜨리려는 野]]></title>
-        <id>https://v.daum.net/v/20221228114030406</id>
-        <link href="https://v.daum.net/v/20221228114030406"/>
-        <updated>2022-12-28T03:20:12.851Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스와 시각]‘회계 투명성’ 꼴찌인 나라]]></title>
-        <id>https://v.daum.net/v/20221228114015393</id>
-        <link href="https://v.daum.net/v/20221228114015393"/>
-        <updated>2022-12-28T03:20:12.853Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오후여담]신현영 ‘DMAT 사칭’ 사건]]></title>
-        <id>https://v.daum.net/v/20221228113635257</id>
-        <link href="https://v.daum.net/v/20221228113635257"/>
-        <updated>2022-12-28T03:20:12.854Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:36</span>]]></content>
     </entry>
 </feed>
