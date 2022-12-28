@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2022-12-28T17:15:16.369Z</updated>
+    <updated>2022-12-28T18:19:54.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KT 구현모 최종후보로]]></title>
+        <id>https://v.daum.net/v/20221229030737366</id>
+        <link href="https://v.daum.net/v/20221229030737366"/>
+        <updated>2022-12-28T18:19:29.207Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삼성, 퀄컴과 협업한 ‘갤럭시 노트북’ 출시]]></title>
+        <id>https://v.daum.net/v/20221229030708355</id>
+        <link href="https://v.daum.net/v/20221229030708355"/>
+        <updated>2022-12-28T18:19:29.209Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[머스크 167조원, 베이조스 101조원… 지갑서 날아갔다]]></title>
+        <id>https://v.daum.net/v/20221229030408251</id>
+        <link href="https://v.daum.net/v/20221229030408251"/>
+        <updated>2022-12-28T18:19:29.212Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:04</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI 결합 전자피부 기술 세계 최초 구현...메타버스·원격의료 활용 가능성 제시]]></title>
         <id>https://v.daum.net/v/20221229010110887</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20221229002905766"/>
         <updated>2022-12-28T16:21:36.889Z</updated>
         <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">00:29</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다누리, 달 궤도 안착…한국 ‘Moon7 국가’ 됐다]]></title>
-        <id>https://v.daum.net/v/20221229002234745</id>
-        <link href="https://v.daum.net/v/20221229002234745"/>
-        <updated>2022-12-28T16:21:36.891Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KT 이사회, 구현모 연임 지지한 날…국민연금 “절차에 의문”]]></title>
-        <id>https://v.daum.net/v/20221229000300541</id>
-        <link href="https://v.daum.net/v/20221229000300541"/>
-        <updated>2022-12-28T15:16:59.446Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디지털서비스안전법 ‘제2 카톡사태’ 막을까]]></title>
-        <id>https://v.daum.net/v/20221229000255538</id>
-        <link href="https://v.daum.net/v/20221229000255538"/>
-        <updated>2022-12-28T15:16:59.446Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
     </entry>
 </feed>
