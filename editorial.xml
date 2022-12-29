@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-12-29T12:29:40.655Z</updated>
+    <updated>2022-12-29T13:21:07.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중국 입국 규제 완화]]></title>
+        <id>https://v.daum.net/v/20221229220422198</id>
+        <link href="https://v.daum.net/v/20221229220422198"/>
+        <updated>2022-12-29T13:20:51.161Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">22:04</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[월드컵 열기에 가려진 이야기들 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20221229220005107</id>
+        <link href="https://v.daum.net/v/20221229220005107"/>
+        <updated>2022-12-29T13:20:51.164Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[90m 절벽서 떨어진 커플 살린 한국 車 [횡설수설/이정은]]]></title>
+        <id>https://v.daum.net/v/20221229214428824</id>
+        <link href="https://v.daum.net/v/20221229214428824"/>
+        <updated>2022-12-29T13:20:51.177Z</updated>
+        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">21:44</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[흑산공항 행정절차 마무리 수순..내년 착공에 총력]]></title>
         <id>https://v.daum.net/v/20221229211711387</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20221229201919165"/>
         <updated>2022-12-29T12:29:22.167Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:19</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Column] The best, and worst, in Asia in 2022]]></title>
-        <id>https://v.daum.net/v/20221229201359042</id>
-        <link href="https://v.daum.net/v/20221229201359042"/>
-        <updated>2022-12-29T12:29:22.169Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12월 30일 한겨레 그림판]]></title>
-        <id>https://v.daum.net/v/20221229201005959</id>
-        <link href="https://v.daum.net/v/20221229201005959"/>
-        <updated>2022-12-29T11:14:08.283Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">20:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[The Fountain] Distancing yourself from social media]]></title>
-        <id>https://v.daum.net/v/20221229200440823</id>
-        <link href="https://v.daum.net/v/20221229200440823"/>
-        <updated>2022-12-29T11:14:08.283Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:04</span>]]></content>
     </entry>
 </feed>
