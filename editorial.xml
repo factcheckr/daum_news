@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-12-29T16:22:05.215Z</updated>
+    <updated>2022-12-29T17:15:23.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]갈등론자 VS 갈등유발자]]></title>
+        <id>https://v.daum.net/v/20221230020310862</id>
+        <link href="https://v.daum.net/v/20221230020310862"/>
+        <updated>2022-12-29T17:15:06.566Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]극장과 지하철]]></title>
+        <id>https://v.daum.net/v/20221230020304861</id>
+        <link href="https://v.daum.net/v/20221230020304861"/>
+        <updated>2022-12-29T17:15:06.570Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중앙시평] 사람이 살지 않는 나라]]></title>
         <id>https://v.daum.net/v/20221230005425632</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20221230003023522"/>
         <updated>2022-12-29T16:21:49.517Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[천자칼럼] 3년만에 울리는 보신각 '제야의 종']]></title>
-        <id>https://v.daum.net/v/20221230001402415</id>
-        <link href="https://v.daum.net/v/20221230001402415"/>
-        <updated>2022-12-29T15:16:58.804Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이슈프리즘] 위기의 2023년, 승자의 조건]]></title>
-        <id>https://v.daum.net/v/20221230001302411</id>
-        <link href="https://v.daum.net/v/20221230001302411"/>
-        <updated>2022-12-29T15:16:58.805Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:13</span>]]></content>
     </entry>
 </feed>
