@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-12-30T10:17:37.908Z</updated>
+    <updated>2022-12-30T11:14:01.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제14회 평창송어축제 개막, 1월 29일까지 다양한 프로그램 진행]]></title>
+        <id>https://v.daum.net/v/20221230193016660</id>
+        <link href="https://v.daum.net/v/20221230193016660"/>
+        <updated>2022-12-30T11:13:53.396Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">19:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[보라매청소년센터 ‘생명사랑센터 개소 10주년 토크콘서트’ 개최]]></title>
         <id>https://v.daum.net/v/20221230181706728</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221230162012614"/>
         <updated>2022-12-30T08:20:24.468Z</updated>
         <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">16:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[창원특례시, 진해대로 방음터널 긴급 합동점검 실시]]></title>
-        <id>https://v.daum.net/v/20221230161806578</id>
-        <link href="https://v.daum.net/v/20221230161806578"/>
-        <updated>2022-12-30T08:20:24.469Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:18</span>]]></content>
     </entry>
 </feed>
