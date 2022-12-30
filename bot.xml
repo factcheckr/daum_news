@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2022-12-30T05:15:24.109Z</updated>
+    <updated>2022-12-30T06:20:52.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인천 옥련동 옥련현대2차 59㎡ 2억8000만원에 거래]]></title>
+        <id>https://v.daum.net/v/20221230143052887</id>
+        <link href="https://v.daum.net/v/20221230143052887"/>
+        <updated>2022-12-30T06:20:51.494Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천 구월동 구월 힐스테이트&롯데캐슬골드 84㎡ 3억5500만원에 거래]]></title>
+        <id>https://v.daum.net/v/20221230142533700</id>
+        <link href="https://v.daum.net/v/20221230142533700"/>
+        <updated>2022-12-30T06:20:51.495Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:25</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하남 망월동 하남미사강변부영아파트 84㎡ 8억원에 거래]]></title>
+        <id>https://v.daum.net/v/20221230142043560</id>
+        <link href="https://v.daum.net/v/20221230142043560"/>
+        <updated>2022-12-30T06:20:51.497Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:20</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수원 영통동 영통신나무실신성신안쌍용진흥 59㎡ 3억5800만원에 거래]]></title>
+        <id>https://v.daum.net/v/20221230141543425</id>
+        <link href="https://v.daum.net/v/20221230141543425"/>
+        <updated>2022-12-30T06:20:51.498Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:15</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[용인 풍덕천동 초입마을삼익풍림동아 59㎡ 3억3600만원에 거래]]></title>
         <id>https://v.daum.net/v/20221230141043260</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20221230132037190"/>
         <updated>2022-12-30T05:15:23.575Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 천천동 천천푸르지오 84㎡ 5억6500만원에 거래]]></title>
-        <id>https://v.daum.net/v/20221230131542117</id>
-        <link href="https://v.daum.net/v/20221230131542117"/>
-        <updated>2022-12-30T04:19:46.477Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 옥련동 옥련럭키송도 68㎡ 2억1000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20221230131037053</id>
-        <link href="https://v.daum.net/v/20221230131037053"/>
-        <updated>2022-12-30T04:19:46.478Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하남 풍산동 미사강변센트럴자이 101㎡ 11억3000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20221230130537969</id>
-        <link href="https://v.daum.net/v/20221230130537969"/>
-        <updated>2022-12-30T04:19:46.479Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성남 서현동 분당시범삼성한신아파트 84㎡ 8억원에 거래]]></title>
-        <id>https://v.daum.net/v/20221230130039892</id>
-        <link href="https://v.daum.net/v/20221230130039892"/>
-        <updated>2022-12-30T04:19:46.482Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:00</span>]]></content>
     </entry>
 </feed>
