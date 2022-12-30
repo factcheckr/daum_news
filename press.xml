@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2022-12-30T11:14:01.597Z</updated>
+    <updated>2022-12-30T12:28:16.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Sinopec, 중국 에너지 전망 2060 발표]]></title>
+        <id>https://v.daum.net/v/20221230210826672</id>
+        <link href="https://v.daum.net/v/20221230210826672"/>
+        <updated>2022-12-30T12:28:07.177Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">21:08</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제14회 평창송어축제 개막, 1월 29일까지 다양한 프로그램 진행]]></title>
         <id>https://v.daum.net/v/20221230193016660</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221230162304683"/>
         <updated>2022-12-30T08:20:24.466Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:23</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원어스, 'Same Scent' 국악 버전 퍼포먼스 영상 공개…'무대천재' 증명]]></title>
-        <id>https://v.daum.net/v/20221230162012614</id>
-        <link href="https://v.daum.net/v/20221230162012614"/>
-        <updated>2022-12-30T08:20:24.468Z</updated>
-        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">16:20</span>]]></content>
     </entry>
 </feed>
