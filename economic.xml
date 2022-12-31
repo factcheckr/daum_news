@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2022-12-31T16:21:19.052Z</updated>
+    <updated>2022-12-31T17:14:38.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한수아, 빛이나는 미모]]></title>
+        <id>https://v.daum.net/v/20230101020133100</id>
+        <link href="https://v.daum.net/v/20230101020133100"/>
+        <updated>2022-12-31T17:13:31.945Z</updated>
+        <content type="html"><![CDATA[스포츠한국<span class="txt_bar"> · </span><span class="info_time">02:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신예은, 화사한 미모]]></title>
+        <id>https://v.daum.net/v/20230101014510064</id>
+        <link href="https://v.daum.net/v/20230101014510064"/>
+        <updated>2022-12-31T17:13:31.958Z</updated>
+        <content type="html"><![CDATA[스포츠한국<span class="txt_bar"> · </span><span class="info_time">01:45</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[포토]새해와 동시에 찾아온 천사들]]></title>
+        <id>https://v.daum.net/v/20230101013300013</id>
+        <link href="https://v.daum.net/v/20230101013300013"/>
+        <updated>2022-12-31T17:13:31.960Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">01:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김신비, 훈훈한 비주얼]]></title>
         <id>https://v.daum.net/v/20230101005247618</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230101000044014"/>
         <updated>2022-12-31T15:15:56.131Z</updated>
         <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[TF비즈토크<상>] 한화그룹-HD현대 '조선업 패권 경쟁' 이목 집중]]></title>
-        <id>https://v.daum.net/v/20230101000039001</id>
-        <link href="https://v.daum.net/v/20230101000039001"/>
-        <updated>2022-12-31T15:15:56.133Z</updated>
-        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정황근 "농식품 수출 100억弗 달성 목표···푸드테크 유니콘 기업 육성"]]></title>
-        <id>https://v.daum.net/v/20230101000027984</id>
-        <link href="https://v.daum.net/v/20230101000027984"/>
-        <updated>2022-12-31T15:15:56.135Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[신년사]정황근 "만성적 쌀 공급과잉 해결해 국민 우려 해소"]]></title>
-        <id>https://v.daum.net/v/20230101000022978</id>
-        <link href="https://v.daum.net/v/20230101000022978"/>
-        <updated>2022-12-31T15:15:56.136Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
