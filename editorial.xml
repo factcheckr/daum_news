@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-12-31T21:14:27.867Z</updated>
+    <updated>2022-12-31T22:17:07.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이혼·불륜·사망설…더 교묘하고, 심각해지는 유튜브 가짜뉴스 [기자수첩-연예]]]></title>
+        <id>https://v.daum.net/v/20230101070138535</id>
+        <link href="https://v.daum.net/v/20230101070138535"/>
+        <updated>2022-12-31T22:16:49.762Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[전문가 칼럼] 2023년 한국경제, 두 가지 측면에선 긍정적이다]]></title>
         <id>https://v.daum.net/v/20230101060300116</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230101005327622</id>
         <link href="https://v.daum.net/v/20230101005327622"/>
         <updated>2022-12-31T16:21:02.919Z</updated>
-        <content type="html"><![CDATA[농민신문<span class="txt_bar"> · </span><span class="info_time">00:53</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[청년 D집다] 농부에게 농지를]]></title>
-        <id>https://v.daum.net/v/20230101005326621</id>
-        <link href="https://v.daum.net/v/20230101005326621"/>
-        <updated>2022-12-31T16:21:02.928Z</updated>
         <content type="html"><![CDATA[농민신문<span class="txt_bar"> · </span><span class="info_time">00:53</span>]]></content>
     </entry>
 </feed>
