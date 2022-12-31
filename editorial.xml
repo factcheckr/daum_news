@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2022-12-31T05:14:54.150Z</updated>
+    <updated>2022-12-31T06:20:17.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세상을 빛으로 밝히자]]></title>
+        <id>https://v.daum.net/v/20221231150502870</id>
+        <link href="https://v.daum.net/v/20221231150502870"/>
+        <updated>2022-12-31T06:20:01.205Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">15:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제야의 종, 해돋이… 인파 속에서 자신 지키는 법]]></title>
         <id>https://v.daum.net/v/20221231140017308</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20221231080037292"/>
         <updated>2022-12-30T23:16:00.851Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[천남수의 視線] 마침내 검찰시대는 완성되었다]]></title>
-        <id>https://v.daum.net/v/20221231080004237</id>
-        <link href="https://v.daum.net/v/20221231080004237"/>
-        <updated>2022-12-30T23:16:00.851Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
     </entry>
 </feed>
