@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2023-01-01T15:17:15.599Z</updated>
+    <updated>2023-01-01T16:21:09.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[파크 하얏트 부산 라운지, '스트로베리 애프터눈 티 세트' 선보여]]></title>
+        <id>https://v.daum.net/v/20230102010003780</id>
+        <link href="https://v.daum.net/v/20230102010003780"/>
+        <updated>2023-01-01T16:20:15.157Z</updated>
+        <content type="html"><![CDATA[웨딩21뉴스<span class="txt_bar"> · </span><span class="info_time">01:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["이승기 사태 재발 막는다"...문체부, 불공정 관행 근절 정책 추진]]></title>
+        <id>https://v.daum.net/v/20230102002815665</id>
+        <link href="https://v.daum.net/v/20230102002815665"/>
+        <updated>2023-01-01T16:20:15.160Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:28</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중국발 코로나를 막아라… “하루 550명까지 PCR 검사”]]></title>
         <id>https://v.daum.net/v/20230102000605570</id>
@@ -95,12 +109,5 @@
         <link href="https://v.daum.net/v/20230102000018475"/>
         <updated>2023-01-01T15:16:24.439Z</updated>
         <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 운세] 2023년 1월 2일 띠별 운세]]></title>
-        <id>https://v.daum.net/v/20230102000003462</id>
-        <link href="https://v.daum.net/v/20230102000003462"/>
-        <updated>2023-01-01T15:16:24.441Z</updated>
-        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
