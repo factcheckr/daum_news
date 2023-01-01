@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-01-01T10:16:51.436Z</updated>
+    <updated>2023-01-01T11:13:43.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“최신작 다 유출됐네” 삼성, 아이폰 상대로 ‘놀라운 성능’ 보여준다]]></title>
+        <id>https://v.daum.net/v/20230101195052029</id>
+        <link href="https://v.daum.net/v/20230101195052029"/>
+        <updated>2023-01-01T11:13:19.148Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">19:50</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“음식 쓰레기 버리기 귀찮아 샀는데” 80만원짜리 ‘장식품’ 처리마저 골치]]></title>
         <id>https://v.daum.net/v/20230101185055582</id>
@@ -48,7 +55,7 @@
         <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">18:18</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[연매출 2조 벽 뛰어넘은 K바이오, 올해는 최초로 3조 벽 넘는다…매출 2조 제약기업 탄생도 주목]]></title>
+        <title type="html"><![CDATA[신약개발·글로벌 사업 성과 …삼바, 매출 3조 벽 두드린다]]></title>
         <id>https://v.daum.net/v/20230101181514223</id>
         <link href="https://v.daum.net/v/20230101181514223"/>
         <updated>2023-01-01T09:15:37.506Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230101175134922"/>
         <updated>2023-01-01T09:15:37.521Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">17:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카카오, 79일 만에 '비대위' 종료…경영 정상화]]></title>
-        <id>https://v.daum.net/v/20230101175049912</id>
-        <link href="https://v.daum.net/v/20230101175049912"/>
-        <updated>2023-01-01T09:15:37.521Z</updated>
-        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">17:50</span>]]></content>
     </entry>
 </feed>
