@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-01-01T02:52:47.883Z</updated>
+    <updated>2023-01-01T03:22:41.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[ET시론] 교통은 지하로, 지상은 국민에게]]></title>
+        <id>https://v.daum.net/v/20230101122004919</id>
+        <link href="https://v.daum.net/v/20230101122004919"/>
+        <updated>2023-01-01T03:22:22.862Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">12:20</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[동물보호법과 특별법의 현격한 격차들 [몽이아빠의 동물법]]]></title>
+        <id>https://v.daum.net/v/20230101120006460</id>
+        <link href="https://v.daum.net/v/20230101120006460"/>
+        <updated>2023-01-01T03:22:22.863Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">12:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[폭설에 사람 다니는 길은 왜 치우지 않는가?]]></title>
         <id>https://v.daum.net/v/20230101104504162</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20230101060042956</id>
         <link href="https://v.daum.net/v/20230101060042956"/>
         <updated>2022-12-31T21:14:10.618Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['2023년 검은토끼의 해! 토끼처럼 도약하는 한 해 되길']]></title>
-        <id>https://v.daum.net/v/20230101060038950</id>
-        <link href="https://v.daum.net/v/20230101060038950"/>
-        <updated>2022-12-31T21:14:10.619Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['밝아오른 2023년 계묘년 새해!']]></title>
-        <id>https://v.daum.net/v/20230101060034942</id>
-        <link href="https://v.daum.net/v/20230101060034942"/>
-        <updated>2022-12-31T21:14:10.621Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
     </entry>
 </feed>
