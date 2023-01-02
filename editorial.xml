@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-01-02T16:22:26.713Z</updated>
+    <updated>2023-01-02T17:14:48.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투테이 窓]고수(高手)를 기다리며]]></title>
+        <id>https://v.daum.net/v/20230103020509104</id>
+        <link href="https://v.daum.net/v/20230103020509104"/>
+        <updated>2023-01-02T17:14:33.108Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[동상이목(同想異目)]  꼰대와 MZ의 공존]]></title>
+        <id>https://v.daum.net/v/20230103020502103</id>
+        <link href="https://v.daum.net/v/20230103020502103"/>
+        <updated>2023-01-02T17:14:33.110Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[고현곤 칼럼] 공기업 낙하산, 그 끝없는 기득권 파티]]></title>
         <id>https://v.daum.net/v/20230103004858916</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230103002637846"/>
         <updated>2023-01-02T16:22:10.915Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[천자칼럼] 새벽 만원 버스]]></title>
-        <id>https://v.daum.net/v/20230103002405842</id>
-        <link href="https://v.daum.net/v/20230103002405842"/>
-        <updated>2023-01-02T16:22:10.915Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이건호 칼럼] 반도체·자동차 위기, 방관할 건가]]></title>
-        <id>https://v.daum.net/v/20230103002404841</id>
-        <link href="https://v.daum.net/v/20230103002404841"/>
-        <updated>2023-01-02T16:22:10.916Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:24</span>]]></content>
     </entry>
 </feed>

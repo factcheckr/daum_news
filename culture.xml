@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2023-01-02T16:22:26.706Z</updated>
+    <updated>2023-01-02T17:14:48.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[플리츠마마, 첫 플래그십 스토어 '이웃(EE:UT)' 삼청점 오픈]]></title>
+        <id>https://v.daum.net/v/20230103020003094</id>
+        <link href="https://v.daum.net/v/20230103020003094"/>
+        <updated>2023-01-02T17:14:04.584Z</updated>
+        <content type="html"><![CDATA[웨딩21뉴스<span class="txt_bar"> · </span><span class="info_time">02:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대전쟁부터 경제파탄·식인풍습까지…노스트라다무스 2023년 예언 보니]]></title>
         <id>https://v.daum.net/v/20230103010107948</id>
@@ -41,7 +48,7 @@
         <content type="html"><![CDATA[웨딩21뉴스<span class="txt_bar"> · </span><span class="info_time">01:00</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[새해 첫날부터 유럽서 ‘역대 최고 기온’ 훌쩍…스키 리조트 운영 중단]]></title>
+        <title type="html"><![CDATA['알프스 북쪽 20도' 유럽 역대급 이상고온…스키장 운영 중단]]></title>
         <id>https://v.daum.net/v/20230103005659935</id>
         <link href="https://v.daum.net/v/20230103005659935"/>
         <updated>2023-01-02T16:21:31.817Z</updated>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230103000250723</id>
         <link href="https://v.daum.net/v/20230103000250723"/>
         <updated>2023-01-02T15:16:32.415Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황동혁의 영화 ‘수상한 그녀’…브로드웨이 뮤지컬로 뜬다]]></title>
-        <id>https://v.daum.net/v/20230103000245721</id>
-        <link href="https://v.daum.net/v/20230103000245721"/>
-        <updated>2023-01-02T15:16:32.416Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
     </entry>
 </feed>
