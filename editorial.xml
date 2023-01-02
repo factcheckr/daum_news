@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-01-02T10:18:12.506Z</updated>
+    <updated>2023-01-02T11:14:47.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[No more ‘white swans’ in the new year]]></title>
+        <id>https://v.daum.net/v/20230102201318367</id>
+        <link href="https://v.daum.net/v/20230102201318367"/>
+        <updated>2023-01-02T11:14:31.330Z</updated>
+        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:13</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1월 3일 한겨레 그림판]]></title>
+        <id>https://v.daum.net/v/20230102193505774</id>
+        <link href="https://v.daum.net/v/20230102193505774"/>
+        <updated>2023-01-02T11:14:31.332Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[12회 비정규 노동 수기 공모전 대상] 당신과 나의 노동은 같은 무게 / 김미르]]></title>
         <id>https://v.daum.net/v/20230102191005437</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20230102185538203</id>
         <link href="https://v.daum.net/v/20230102185538203"/>
         <updated>2023-01-02T10:17:56.217Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">18:55</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[배종찬 칼럼] 파란만장 요동칠 2023년 정치, 정답은 `중도`]]></title>
-        <id>https://v.daum.net/v/20230102185536202</id>
-        <link href="https://v.daum.net/v/20230102185536202"/>
-        <updated>2023-01-02T10:17:56.219Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">18:55</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[글로벌 오피니언리더] 바이든, 남북 분열 막은 링컨 소환하며 "새해엔 통합하자" 호소]]></title>
-        <id>https://v.daum.net/v/20230102185535201</id>
-        <link href="https://v.daum.net/v/20230102185535201"/>
-        <updated>2023-01-02T10:17:56.220Z</updated>
         <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">18:55</span>]]></content>
     </entry>
 </feed>
