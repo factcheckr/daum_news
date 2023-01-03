@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-01-03T16:23:28.578Z</updated>
+    <updated>2023-01-03T17:15:36.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]그런 '트렌드'는 없다]]></title>
+        <id>https://v.daum.net/v/20230104020504006</id>
+        <link href="https://v.daum.net/v/20230104020504006"/>
+        <updated>2023-01-03T17:15:15.416Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중앙시평] 중국 경제, 예외는 없다]]></title>
         <id>https://v.daum.net/v/20230104005022811</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230104001502682"/>
         <updated>2023-01-03T15:18:09.816Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[백승현의 시각] 대통령만 보이는 노동개혁]]></title>
-        <id>https://v.daum.net/v/20230104001403676</id>
-        <link href="https://v.daum.net/v/20230104001403676"/>
-        <updated>2023-01-03T15:18:09.820Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:14</span>]]></content>
     </entry>
 </feed>
