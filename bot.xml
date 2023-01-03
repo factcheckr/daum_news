@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-01-03T11:14:31.156Z</updated>
+    <updated>2023-01-03T12:31:51.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가상화폐 플로우 71원 상승한 918원에 거래]]></title>
+        <id>https://v.daum.net/v/20230103213125558</id>
+        <link href="https://v.daum.net/v/20230103213125558"/>
+        <updated>2023-01-03T12:31:50.688Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">21:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 날씨 - 오후 (2023년 01월 03일)]]></title>
         <id>https://v.daum.net/v/20230103173218747</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230103133538621"/>
         <updated>2023-01-03T05:15:32.663Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하남 망월동 미사강변푸르지오 84㎡ 8억9000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230103133047467</id>
-        <link href="https://v.daum.net/v/20230103133047467"/>
-        <updated>2023-01-03T05:15:32.664Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:30</span>]]></content>
     </entry>
 </feed>
