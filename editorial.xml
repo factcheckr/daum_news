@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-01-04T16:28:42.595Z</updated>
+    <updated>2023-01-04T17:18:17.961Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]2023년, 과학기술 혁신의 원년으로]]></title>
+        <id>https://v.daum.net/v/20230105020206848</id>
+        <link href="https://v.daum.net/v/20230105020206848"/>
+        <updated>2023-01-04T17:18:00.285Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]변화한 '금리 적응' 고민해야]]></title>
+        <id>https://v.daum.net/v/20230105020201847</id>
+        <link href="https://v.daum.net/v/20230105020201847"/>
+        <updated>2023-01-04T17:18:00.286Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중앙시평] 맥주, 김밥, 그리고 시청사]]></title>
         <id>https://v.daum.net/v/20230105005825566</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230105003431495"/>
         <updated>2023-01-04T16:28:27.184Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[e글중심] 장애인 지하철 시위 “엘리베이터 놔줘야” “시위하려면 국회로”]]></title>
-        <id>https://v.daum.net/v/20230105003231478</id>
-        <link href="https://v.daum.net/v/20230105003231478"/>
-        <updated>2023-01-04T16:28:27.185Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 톡픽(TalkPick)] “완성이 되지 못했기 때문이다”]]></title>
-        <id>https://v.daum.net/v/20230105003031458</id>
-        <link href="https://v.daum.net/v/20230105003031458"/>
-        <updated>2023-01-04T16:28:27.186Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
     </entry>
 </feed>
