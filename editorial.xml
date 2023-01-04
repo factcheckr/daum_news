@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-01-04T12:31:02.501Z</updated>
+    <updated>2023-01-04T13:23:58.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송년 판소리 공연에서 들은 최고의 덕담 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20230104220038376</id>
+        <link href="https://v.daum.net/v/20230104220038376"/>
+        <updated>2023-01-04T13:23:40.251Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국의 ‘무역흑자 1위’ 수출시장 베트남 [횡설수설/박중현]]]></title>
         <id>https://v.daum.net/v/20230104213012084</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230104194011280"/>
         <updated>2023-01-04T11:15:06.068Z</updated>
         <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[만평] 조기영의 세상터치 2023년 1월 5일]]></title>
-        <id>https://v.daum.net/v/20230104193801230</id>
-        <link href="https://v.daum.net/v/20230104193801230"/>
-        <updated>2023-01-04T11:15:06.069Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">19:38</span>]]></content>
     </entry>
 </feed>
