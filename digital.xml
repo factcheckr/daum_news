@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-01-04T11:15:23.873Z</updated>
+    <updated>2023-01-04T12:31:02.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“넷플릭스 열받았네?” 중국인 5만명, 공짜로 ‘더 글로리’ 봤다]]></title>
+        <id>https://v.daum.net/v/20230104205105578</id>
+        <link href="https://v.daum.net/v/20230104205105578"/>
+        <updated>2023-01-04T12:30:37.168Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">20:51</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“빈집에 낯선 사람 들어왔어요” 이 문자는 누가 보냈지?]]></title>
+        <id>https://v.daum.net/v/20230104204801522</id>
+        <link href="https://v.daum.net/v/20230104204801522"/>
+        <updated>2023-01-04T12:30:37.170Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">20:48</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[2022 NCSI 조사]4반세기 1위 SK텔레콤 “고객 만족에 최우선 가치 둘 것”]]></title>
+        <id>https://v.daum.net/v/20230104201504947</id>
+        <link href="https://v.daum.net/v/20230104201504947"/>
+        <updated>2023-01-04T12:30:37.170Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">20:15</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“미국 FDA 기준 법처럼 따랐는데”...국내 연구진, 오류 발견]]></title>
         <id>https://v.daum.net/v/20230104200302721</id>
@@ -13,7 +34,7 @@
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">20:03</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“월급도 많은데 떡볶이도 준다?” 직원 요청에 분식까지 꺼내든 네이버]]></title>
+        <title type="html"><![CDATA[“직원 평균 연봉 1억3천, 재택 근무에 떡볶이도 준다?” 분식까지 꺼내든 네이버]]></title>
         <id>https://v.daum.net/v/20230104195104515</id>
         <link href="https://v.daum.net/v/20230104195104515"/>
         <updated>2023-01-04T11:14:57.540Z</updated>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230104190028672"/>
         <updated>2023-01-04T10:19:15.747Z</updated>
         <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">19:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“콧대 높은 애플이 웬일이냐?” 35만→ 10만원대 ‘반값’ 이어폰 나온다]]></title>
-        <id>https://v.daum.net/v/20230104185016513</id>
-        <link href="https://v.daum.net/v/20230104185016513"/>
-        <updated>2023-01-04T10:19:15.749Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">18:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이상엽 KAIST 특훈교수, 한국생물공학회 제30대 회장 취임]]></title>
-        <id>https://v.daum.net/v/20230104184521456</id>
-        <link href="https://v.daum.net/v/20230104184521456"/>
-        <updated>2023-01-04T10:19:15.751Z</updated>
-        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">18:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["스쿼트·런지 하면 코인이 우수수?"…'파이트 아웃', M2E 판 흔들까]]></title>
-        <id>https://v.daum.net/v/20230104184301416</id>
-        <link href="https://v.daum.net/v/20230104184301416"/>
-        <updated>2023-01-04T10:19:15.753Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">18:43</span>]]></content>
     </entry>
 </feed>
