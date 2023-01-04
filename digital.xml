@@ -2,112 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-01-04T14:18:56.055Z</updated>
+    <updated>2023-01-04T15:20:22.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[벨킨 "제품 원재료 재활용 플라스틱으로 전환"]]></title>
-        <id>https://v.daum.net/v/20230104230020887</id>
-        <link href="https://v.daum.net/v/20230104230020887"/>
-        <updated>2023-01-04T14:18:30.181Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+        <title type="html"><![CDATA["IBM 성장 동력, 파트너 에코시스템"…'IBM 파트너 플러스' 신규 발표]]></title>
+        <id>https://v.daum.net/v/20230105000529284</id>
+        <link href="https://v.daum.net/v/20230105000529284"/>
+        <updated>2023-01-04T15:19:54.036Z</updated>
+        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[벨킨, 재활용 소재로 충전기 만든다…스마트폰 주변기기도 ‘친환경’[CES 2023]]]></title>
-        <id>https://v.daum.net/v/20230104230007883</id>
-        <link href="https://v.daum.net/v/20230104230007883"/>
-        <updated>2023-01-04T14:18:30.183Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+        <title type="html"><![CDATA[SK는 ‘탄소 없는 미래’…도심항공교통·AI반도체 전시]]></title>
+        <id>https://v.daum.net/v/20230105000231221</id>
+        <link href="https://v.daum.net/v/20230105000231221"/>
+        <updated>2023-01-04T15:19:54.037Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[인사] 이코노믹리뷰]]></title>
-        <id>https://v.daum.net/v/20230104221708528</id>
-        <link href="https://v.daum.net/v/20230104221708528"/>
-        <updated>2023-01-04T13:23:29.686Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">22:17</span>]]></content>
+        <title type="html"><![CDATA[IBM, 새 파트너 지원 프로그램 'IBM 파트너 플러스' 공개]]></title>
+        <id>https://v.daum.net/v/20230105000109188</id>
+        <link href="https://v.daum.net/v/20230105000109188"/>
+        <updated>2023-01-04T15:19:54.039Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스마트폰 끼고사는 Z세대...네카오 앱은 60%만 설치 왜?]]></title>
-        <id>https://v.daum.net/v/20230104215701335</id>
-        <link href="https://v.daum.net/v/20230104215701335"/>
-        <updated>2023-01-04T13:23:29.686Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">21:57</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[CES2023] 엔비디아, AI로 게임 프레임, 동영상 해상도까지 높인다]]></title>
-        <id>https://v.daum.net/v/20230104214200185</id>
-        <link href="https://v.daum.net/v/20230104214200185"/>
-        <updated>2023-01-04T13:23:29.686Z</updated>
-        <content type="html"><![CDATA[IT동아<span class="txt_bar"> · </span><span class="info_time">21:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세계는 “반도체 기업? 필요한거 다 말해”...한국 지원은 걸음마]]></title>
-        <id>https://v.daum.net/v/20230104213301103</id>
-        <link href="https://v.daum.net/v/20230104213301103"/>
-        <updated>2023-01-04T13:23:29.686Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">21:33</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“넷플릭스 열받았네?” 중국인 5만명, 공짜로 ‘더 글로리’ 봤다]]></title>
-        <id>https://v.daum.net/v/20230104205105578</id>
-        <link href="https://v.daum.net/v/20230104205105578"/>
-        <updated>2023-01-04T12:30:37.168Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">20:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“빈집에 낯선 사람 들어왔어요” 이 문자는 누가 보냈지?]]></title>
-        <id>https://v.daum.net/v/20230104204801522</id>
-        <link href="https://v.daum.net/v/20230104204801522"/>
-        <updated>2023-01-04T12:30:37.170Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">20:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2022 NCSI 조사]4반세기 1위 SK텔레콤 “고객 만족에 최우선 가치 둘 것”]]></title>
-        <id>https://v.daum.net/v/20230104201504947</id>
-        <link href="https://v.daum.net/v/20230104201504947"/>
-        <updated>2023-01-04T12:30:37.170Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">20:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“미국 FDA 기준 법처럼 따랐는데”...국내 연구진, 오류 발견]]></title>
-        <id>https://v.daum.net/v/20230104200302721</id>
-        <link href="https://v.daum.net/v/20230104200302721"/>
-        <updated>2023-01-04T11:14:57.539Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">20:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“직원 평균 연봉 1억3천, 재택 근무에 떡볶이도 준다?” 분식까지 꺼내든 네이버]]></title>
-        <id>https://v.daum.net/v/20230104195104515</id>
-        <link href="https://v.daum.net/v/20230104195104515"/>
-        <updated>2023-01-04T11:14:57.540Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">19:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카카오 "무거운 책임감 깨달아"…사과 이모티콘 내일(5일) 지급]]></title>
-        <id>https://v.daum.net/v/20230104194201304</id>
-        <link href="https://v.daum.net/v/20230104194201304"/>
-        <updated>2023-01-04T11:14:57.544Z</updated>
-        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">19:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카카오 서비스 장애 재발방지 재차 강조‥5일 이모티콘 등 보상]]></title>
-        <id>https://v.daum.net/v/20230104193258172</id>
-        <link href="https://v.daum.net/v/20230104193258172"/>
-        <updated>2023-01-04T11:14:57.549Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">19:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카카오 ‘먹통보상 페이지’ 노출…일부 사용자 보상 하루 먼저 수령]]></title>
-        <id>https://v.daum.net/v/20230104192907120</id>
-        <link href="https://v.daum.net/v/20230104192907120"/>
-        <updated>2023-01-04T11:14:57.556Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">19:29</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mobile virtual network operators fast gaining foothold in telecom market]]></title>
-        <id>https://v.daum.net/v/20230104191712961</id>
-        <link href="https://v.daum.net/v/20230104191712961"/>
-        <updated>2023-01-04T10:19:15.736Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:17</span>]]></content>
+        <title type="html"><![CDATA[카카오게임즈 신작 '에버소울' 출격…'별들의 전쟁' 신호탄]]></title>
+        <id>https://v.daum.net/v/20230105000032170</id>
+        <link href="https://v.daum.net/v/20230105000032170"/>
+        <updated>2023-01-04T15:19:54.040Z</updated>
+        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
