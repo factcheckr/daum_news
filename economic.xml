@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2023-01-05T16:25:53.149Z</updated>
+    <updated>2023-01-05T17:17:56.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[CES 현장] '초연결·영역파괴…' 최첨단 기술의 향연 CES 2023 개막]]></title>
+        <id>https://v.daum.net/v/20230106020004180</id>
+        <link href="https://v.daum.net/v/20230106020004180"/>
+        <updated>2023-01-05T17:16:52.650Z</updated>
+        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">02:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴욕 증시, 고용 호조에 따른 긴축 가능성에 하락 출발]]></title>
+        <id>https://v.daum.net/v/20230106014902155</id>
+        <link href="https://v.daum.net/v/20230106014902155"/>
+        <updated>2023-01-05T17:16:52.652Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">01:49</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[테슬라, 12월 중국 생산 전기차 판매 5개월 만에 최저]]></title>
         <id>https://v.daum.net/v/20230106012123068</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230106010604001"/>
         <updated>2023-01-05T16:24:41.654Z</updated>
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국농수산식품유통공사, 2023년 해양수산가족 신년인사회 참석]]></title>
-        <id>https://v.daum.net/v/20230106010603000</id>
-        <link href="https://v.daum.net/v/20230106010603000"/>
-        <updated>2023-01-05T16:24:41.655Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포스코, 2년 연속 CES 참전… 벤처기업 19개사 선보여]]></title>
-        <id>https://v.daum.net/v/20230106010551997</id>
-        <link href="https://v.daum.net/v/20230106010551997"/>
-        <updated>2023-01-05T16:24:41.658Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:05</span>]]></content>
     </entry>
 </feed>
