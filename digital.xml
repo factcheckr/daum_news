@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-01-05T18:20:59.030Z</updated>
+    <updated>2023-01-05T19:14:38.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[CES 2023] MSI, 압도적 성능을 가진 차세대 게이밍 노트북으로 '눈길']]></title>
+        <id>https://v.daum.net/v/20230106040900677</id>
+        <link href="https://v.daum.net/v/20230106040900677"/>
+        <updated>2023-01-05T19:14:15.659Z</updated>
+        <content type="html"><![CDATA[게임동아<span class="txt_bar"> · </span><span class="info_time">04:09</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美 IT 전문 매체 "CES 2023에서 눈여겨볼 만한 기기 많아"]]></title>
+        <id>https://v.daum.net/v/20230106032100551</id>
+        <link href="https://v.daum.net/v/20230106032100551"/>
+        <updated>2023-01-05T19:14:15.659Z</updated>
+        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">03:21</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[게임업체 신년사서 ‘작년 단골’ 메타버스·NFT가 사라졌다]]></title>
         <id>https://v.daum.net/v/20230106030355455</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230106010126934"/>
         <updated>2023-01-05T16:25:27.159Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">01:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사진] CES 2023 개막]]></title>
-        <id>https://v.daum.net/v/20230106005715915</id>
-        <link href="https://v.daum.net/v/20230106005715915"/>
-        <updated>2023-01-05T16:25:27.161Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:57</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카트라이더 황제 문호준 "선수로 복귀한다"]]></title>
-        <id>https://v.daum.net/v/20230106005055886</id>
-        <link href="https://v.daum.net/v/20230106005055886"/>
-        <updated>2023-01-05T16:25:27.163Z</updated>
-        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">00:50</span>]]></content>
     </entry>
 </feed>
