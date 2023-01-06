@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-01-06T12:30:26.930Z</updated>
+    <updated>2023-01-06T13:23:02.711Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] TCL, CES 2023에서 혁신적인 기술 성과 발표]]></title>
+        <id>https://v.daum.net/v/20230106214823747</id>
+        <link href="https://v.daum.net/v/20230106214823747"/>
+        <updated>2023-01-06T13:22:54.619Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">21:48</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] Dr. Lan Lin, 2022 올해의 경제인에 선정]]></title>
         <id>https://v.daum.net/v/20230106194441669</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230106172721193</id>
         <link href="https://v.daum.net/v/20230106172721193"/>
         <updated>2023-01-06T09:16:37.364Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[롯데건설, 부동산 PF 채권 매각 1.5조 자금 확보…재무구조 안정화]]></title>
-        <id>https://v.daum.net/v/20230106172713186</id>
-        <link href="https://v.daum.net/v/20230106172713186"/>
-        <updated>2023-01-06T09:16:37.365Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:27</span>]]></content>
     </entry>
 </feed>
