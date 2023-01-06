@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-01-06T05:16:20.116Z</updated>
+    <updated>2023-01-06T06:21:28.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[급발진 걱정된다면… 발 밑에 '블랙박스' 달아라]]></title>
+        <id>https://v.daum.net/v/20230106151526838</id>
+        <link href="https://v.daum.net/v/20230106151526838"/>
+        <updated>2023-01-06T06:21:11.717Z</updated>
+        <content type="html"><![CDATA[더스쿠프<span class="txt_bar"> · </span><span class="info_time">15:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[시사컬처]‘글로리’와 ‘재벌집 막내아들’의 공통점]]></title>
+        <id>https://v.daum.net/v/20230106150620558</id>
+        <link href="https://v.daum.net/v/20230106150620558"/>
+        <updated>2023-01-06T06:21:11.718Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">15:06</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[논단]안전사고가 되풀이되는 진짜 이유]]></title>
         <id>https://v.daum.net/v/20230106140645700</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230106113412201"/>
         <updated>2023-01-06T02:45:34.405Z</updated>
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Editorial] Shame on the military for drone infiltration (KOR)]]></title>
-        <id>https://v.daum.net/v/20230106112730859</id>
-        <link href="https://v.daum.net/v/20230106112730859"/>
-        <updated>2023-01-06T02:45:34.407Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">11:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[경제포커스] 반복되는 인재(人災)...일본의 원칙주의서 배워야]]></title>
-        <id>https://v.daum.net/v/20230106112650825</id>
-        <link href="https://v.daum.net/v/20230106112650825"/>
-        <updated>2023-01-06T02:45:34.410Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:26</span>]]></content>
     </entry>
 </feed>
