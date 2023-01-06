@@ -2,70 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2023-01-06T15:24:57.674Z</updated>
+    <updated>2023-01-06T17:16:52.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대통령실, 나경원 공개 비판...전당대회 염두 뒀나?]]></title>
+        <id>https://v.daum.net/v/20230107021017175</id>
+        <link href="https://v.daum.net/v/20230107021017175"/>
+        <updated>2023-01-06T17:15:37.008Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">02:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이재명, '성남FC 의혹' 관련 10일 오전 검찰 출석]]></title>
+        <id>https://v.daum.net/v/20230107020707171</id>
+        <link href="https://v.daum.net/v/20230107020707171"/>
+        <updated>2023-01-06T17:15:37.008Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">02:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[포토] 올해도 얼굴 없는 천사가 보낸 쌀]]></title>
+        <id>https://v.daum.net/v/20230107020428167</id>
+        <link href="https://v.daum.net/v/20230107020428167"/>
+        <updated>2023-01-06T17:15:37.008Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">02:04</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국회의장, 이태원 유족 면담..."유가족 입장에서 문제 해결"]]></title>
+        <id>https://v.daum.net/v/20230107020417166</id>
+        <link href="https://v.daum.net/v/20230107020417166"/>
+        <updated>2023-01-06T17:15:37.008Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">02:04</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오세훈 "조만간 분향소 찾아 유족과 사후대책 논의"]]></title>
+        <id>https://v.daum.net/v/20230107020407165</id>
+        <link href="https://v.daum.net/v/20230107020407165"/>
+        <updated>2023-01-06T17:15:37.009Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">02:04</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이태원 참사 2차 청문회...이상민·박희영 질타]]></title>
+        <id>https://v.daum.net/v/20230107020117162</id>
+        <link href="https://v.daum.net/v/20230107020117162"/>
+        <updated>2023-01-06T17:15:37.009Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">02:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대통령실, 나경원 '저출산 대책' 정면 반박…전당대회 불출마 압박?]]></title>
+        <id>https://v.daum.net/v/20230107020001156</id>
+        <link href="https://v.daum.net/v/20230107020001156"/>
+        <updated>2023-01-06T17:15:37.010Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">02:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[포토] 은평구, 사랑의 성금 전달식]]></title>
+        <id>https://v.daum.net/v/20230107013001055</id>
+        <link href="https://v.daum.net/v/20230107013001055"/>
+        <updated>2023-01-06T17:15:37.015Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">01:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[포토] GTX-A 추진현황 점검하는 김미경 은평구청장]]></title>
+        <id>https://v.daum.net/v/20230107012207043</id>
+        <link href="https://v.daum.net/v/20230107012207043"/>
+        <updated>2023-01-06T17:15:37.015Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">01:22</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이태원 2차 청문회…野 '이상민 사퇴 압박' 與 '李 엄호·박희영 질타']]></title>
+        <id>https://v.daum.net/v/20230107010039909</id>
+        <link href="https://v.daum.net/v/20230107010039909"/>
+        <updated>2023-01-06T17:15:37.021Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">01:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국민의힘, ‘무인기 침투’ 문 정부 탓…색깔론 공세로 면피 급급]]></title>
+        <id>https://v.daum.net/v/20230107010001906</id>
+        <link href="https://v.daum.net/v/20230107010001906"/>
+        <updated>2023-01-06T17:15:37.022Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">01:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이재명 "안보 참사...軍 책임 묻고 국정운영 쇄신해야"]]></title>
+        <id>https://v.daum.net/v/20230107005817903</id>
+        <link href="https://v.daum.net/v/20230107005817903"/>
+        <updated>2023-01-06T17:15:37.022Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:58</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美국무부 경제차관 내주 방한… "공급망 등 현안 논의"(종합)]]></title>
+        <id>https://v.daum.net/v/20230107005730900</id>
+        <link href="https://v.daum.net/v/20230107005730900"/>
+        <updated>2023-01-06T17:15:37.022Z</updated>
+        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">00:57</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 오늘 오전까지 전국에 눈·비...큰 추위 없어]]></title>
+        <id>https://v.daum.net/v/20230107004607871</id>
+        <link href="https://v.daum.net/v/20230107004607871"/>
+        <updated>2023-01-06T17:15:37.022Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:46</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["이상민 사퇴" vs "정쟁 그만"...또 헛심 공방만]]></title>
         <id>https://v.daum.net/v/20230107001607752</id>
         <link href="https://v.daum.net/v/20230107001607752"/>
         <updated>2023-01-06T15:23:33.152Z</updated>
         <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오세훈 "조만간 분향소 찾아 유족과 사후대책 논의"]]></title>
-        <id>https://v.daum.net/v/20230107001502740</id>
-        <link href="https://v.daum.net/v/20230107001502740"/>
-        <updated>2023-01-06T15:23:33.153Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尹 업무보고 키워드는 시장·수출·디지털·자유…국정 철학 드러내]]></title>
-        <id>https://v.daum.net/v/20230107000917703</id>
-        <link href="https://v.daum.net/v/20230107000917703"/>
-        <updated>2023-01-06T15:23:33.153Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[野 "이상민 헌법위배" 與 "용산구청 통탄"…'3차 청문회'는 줄다리기(종합2보)]]></title>
-        <id>https://v.daum.net/v/20230107000740700</id>
-        <link href="https://v.daum.net/v/20230107000740700"/>
-        <updated>2023-01-06T15:23:33.155Z</updated>
-        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">00:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이태원 참사 2차 청문회...이상민·박희영 질타]]></title>
-        <id>https://v.daum.net/v/20230107000321685</id>
-        <link href="https://v.daum.net/v/20230107000321685"/>
-        <updated>2023-01-06T15:23:33.155Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이상민, 사퇴 요구에 "주어진 위치에서 최선 다할 것"]]></title>
-        <id>https://v.daum.net/v/20230107000302674</id>
-        <link href="https://v.daum.net/v/20230107000302674"/>
-        <updated>2023-01-06T15:23:33.156Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간政談<하>] 친윤 단일화?..."권성동 불출마는 결단이었을까"]]></title>
-        <id>https://v.daum.net/v/20230107000056642</id>
-        <link href="https://v.daum.net/v/20230107000056642"/>
-        <updated>2023-01-06T15:23:33.157Z</updated>
-        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간政談<상>] 尹 신년회 초청 몰랐다는 이재명..."알았다면 갔을까?"]]></title>
-        <id>https://v.daum.net/v/20230107000024634</id>
-        <link href="https://v.daum.net/v/20230107000024634"/>
-        <updated>2023-01-06T15:23:33.159Z</updated>
-        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[60초 리뷰] “38선 천천히 지나가주십시오” 사진담당 말에 盧대통령 반응? (영상)]]></title>
-        <id>https://v.daum.net/v/20230107000004617</id>
-        <link href="https://v.daum.net/v/20230107000004617"/>
-        <updated>2023-01-06T15:23:33.164Z</updated>
-        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
