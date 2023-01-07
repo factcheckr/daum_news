@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/society</id>
     <title>다음 뉴스 ─ 전체기사 ─ 사회</title>
-    <updated>2023-01-07T17:14:24.584Z</updated>
+    <updated>2023-01-07T18:18:58.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[자막뉴스]  이기영의 한마디에 '속수무책'...난감해진 경찰]]></title>
+        <id>https://v.daum.net/v/20230108024009199</id>
+        <link href="https://v.daum.net/v/20230108024009199"/>
+        <updated>2023-01-07T18:17:31.929Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">02:40</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[눈 덮인 겨울 왕국 울릉도..."외국에 나온 느낌이에요"]]></title>
+        <id>https://v.daum.net/v/20230108023708194</id>
+        <link href="https://v.daum.net/v/20230108023708194"/>
+        <updated>2023-01-07T18:17:31.929Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">02:37</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고양 산란계 농장서 고병원성 조류인플루엔자 확진]]></title>
         <id>https://v.daum.net/v/20230108015700166</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230108000303921"/>
         <updated>2023-01-07T15:14:51.713Z</updated>
         <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경부고속도로서 고속버스가 승합차 추돌...6명 부상]]></title>
-        <id>https://v.daum.net/v/20230108000303919</id>
-        <link href="https://v.daum.net/v/20230108000303919"/>
-        <updated>2023-01-07T15:14:51.713Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고농도 미세먼지 이어져…아침 기온 어제보다 낮아]]></title>
-        <id>https://v.daum.net/v/20230108000026888</id>
-        <link href="https://v.daum.net/v/20230108000026888"/>
-        <updated>2023-01-07T15:14:51.715Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
