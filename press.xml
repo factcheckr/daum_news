@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-01-07T06:19:15.834Z</updated>
+    <updated>2023-01-07T07:15:12.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] TCL, 올봄부터 더 많은 대화면 미니 LED 및 QLED TV 시리즈 공개]]></title>
+        <id>https://v.daum.net/v/20230107154453700</id>
+        <link href="https://v.daum.net/v/20230107154453700"/>
+        <updated>2023-01-07T07:15:03.047Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">15:44</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] 하이센스, 라이카와 협업]]></title>
         <id>https://v.daum.net/v/20230107143157960</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230107094643372"/>
         <updated>2023-01-07T01:14:45.288Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">09:46</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] GWM, 광저우 모터쇼에서 여러 NEV 모델 최초 공개]]></title>
-        <id>https://v.daum.net/v/20230107093909277</id>
-        <link href="https://v.daum.net/v/20230107093909277"/>
-        <updated>2023-01-07T01:14:45.288Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">09:39</span>]]></content>
     </entry>
 </feed>
