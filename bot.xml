@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-01-07T08:22:38.064Z</updated>
+    <updated>2023-01-07T09:15:22.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2023년 01월 07일)]]></title>
+        <id>https://v.daum.net/v/20230107173208600</id>
+        <link href="https://v.daum.net/v/20230107173208600"/>
+        <updated>2023-01-07T09:15:21.932Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:32</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가상화폐 비트코인 21,512,000원(-0.02%) 거래중]]></title>
+        <id>https://v.daum.net/v/20230107173122593</id>
+        <link href="https://v.daum.net/v/20230107173122593"/>
+        <updated>2023-01-07T09:15:21.933Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">17:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성남 이매동 이매촌한신 50㎡ 8억원에 거래]]></title>
         <id>https://v.daum.net/v/20230107133543579</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230107123538185"/>
         <updated>2023-01-07T04:19:56.331Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 이의동 e편한세상광교 101㎡ 13억6500만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230107123041156</id>
-        <link href="https://v.daum.net/v/20230107123041156"/>
-        <updated>2023-01-07T04:19:56.332Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하남 망월동 미사강변푸르지오 74㎡ 7억6500만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230107122535116</id>
-        <link href="https://v.daum.net/v/20230107122535116"/>
-        <updated>2023-01-07T04:19:56.334Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:25</span>]]></content>
     </entry>
 </feed>

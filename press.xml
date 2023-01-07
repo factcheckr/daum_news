@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-01-07T08:22:38.149Z</updated>
+    <updated>2023-01-07T09:15:22.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Pantum, CES 2023서 우수한 컬러 성능 자랑하는 신제품 공개]]></title>
+        <id>https://v.daum.net/v/20230107172705556</id>
+        <link href="https://v.daum.net/v/20230107172705556"/>
+        <updated>2023-01-07T09:15:13.618Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:27</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] TCL, 올봄부터 더 많은 대화면 미니 LED 및 QLED TV 시리즈 공개]]></title>
         <id>https://v.daum.net/v/20230107154453700</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230107095110413"/>
         <updated>2023-01-07T01:14:45.284Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">09:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] DOO GROUP APPOINTED AS AN OFFICIAL GLOBAL PARTNER OF MANCHESTER]]></title>
-        <id>https://v.daum.net/v/20230107094643372</id>
-        <link href="https://v.daum.net/v/20230107094643372"/>
-        <updated>2023-01-07T01:14:45.288Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">09:46</span>]]></content>
     </entry>
 </feed>
