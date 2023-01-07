@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-01-07T09:15:22.538Z</updated>
+    <updated>2023-01-07T10:17:09.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[벼랑끝 내몰린 반도체, 100점짜리가 30점된 삼성전자 [비즈360]]]></title>
+        <id>https://v.daum.net/v/20230107183916110</id>
+        <link href="https://v.daum.net/v/20230107183916110"/>
+        <updated>2023-01-07T10:16:52.039Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">18:39</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국민의힘 "대장동 검은 손의 마수 어디까지 뻗어있나?"]]></title>
         <id>https://v.daum.net/v/20230107172431543</id>
@@ -48,7 +55,7 @@
         <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">10:00</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘주체’ 라면서 가장 비주체적이고 중국 종속적인 북한]]></title>
+        <title type="html"><![CDATA[주체라면서 가장 비주체적… 중국 종속적인 북한의 역사]]></title>
         <id>https://v.daum.net/v/20230107090016793</id>
         <link href="https://v.daum.net/v/20230107090016793"/>
         <updated>2023-01-07T01:14:37.592Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230107070707837"/>
         <updated>2023-01-06T22:18:29.097Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“이게 팀이냐!” 팬들도 에이스도 부끄러워 하는 프로구단[기자의눈-스포츠]]]></title>
-        <id>https://v.daum.net/v/20230107070125751</id>
-        <link href="https://v.daum.net/v/20230107070125751"/>
-        <updated>2023-01-06T22:18:29.100Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:01</span>]]></content>
     </entry>
 </feed>
