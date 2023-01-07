@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-01-07T11:13:50.470Z</updated>
+    <updated>2023-01-07T12:27:38.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[② [오늘의 운세] 1월 8일(음력 12월17일) : 말띠~돼지띠 & MBTI(16가지 성향, 궁합)]]></title>
+        <id>https://v.daum.net/v/20230107210010931</id>
+        <link href="https://v.daum.net/v/20230107210010931"/>
+        <updated>2023-01-07T12:27:21.599Z</updated>
+        <content type="html"><![CDATA[웨딩21뉴스<span class="txt_bar"> · </span><span class="info_time">21:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[① [오늘의 운세] 1월 8일(음력 12월17일) : 쥐띠~뱀띠 & MBTI(16가지 성향, 궁합)]]></title>
+        <id>https://v.daum.net/v/20230107210003923</id>
+        <link href="https://v.daum.net/v/20230107210003923"/>
+        <updated>2023-01-07T12:27:21.600Z</updated>
+        <content type="html"><![CDATA[웨딩21뉴스<span class="txt_bar"> · </span><span class="info_time">21:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간 돌발영상] 1월 첫째 주]]></title>
+        <id>https://v.daum.net/v/20230107204918866</id>
+        <link href="https://v.daum.net/v/20230107204918866"/>
+        <updated>2023-01-07T12:27:21.601Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">20:49</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[벼랑끝 내몰린 반도체, 100점짜리가 30점된 삼성전자 [비즈360]]]></title>
         <id>https://v.daum.net/v/20230107183916110</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230107080033229"/>
         <updated>2023-01-06T23:17:11.613Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[너의 췌장을 먹고 싶어 [안태환 리포트]]]></title>
-        <id>https://v.daum.net/v/20230107080001186</id>
-        <link href="https://v.daum.net/v/20230107080001186"/>
-        <updated>2023-01-06T23:17:11.615Z</updated>
-        <content type="html"><![CDATA[쿠키뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[거버넌스워치]세스코 오너 전찬혁이 띄운 렌탈업, 흑자직행의 비결]]></title>
-        <id>https://v.daum.net/v/20230107071003861</id>
-        <link href="https://v.daum.net/v/20230107071003861"/>
-        <updated>2023-01-06T22:18:29.096Z</updated>
-        <content type="html"><![CDATA[비즈니스워치<span class="txt_bar"> · </span><span class="info_time">07:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미스터트롯2 가요계 지각변동 만들어낸 브랜드 파워 [하재근의 이슈분석]]]></title>
-        <id>https://v.daum.net/v/20230107070707837</id>
-        <link href="https://v.daum.net/v/20230107070707837"/>
-        <updated>2023-01-06T22:18:29.097Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:07</span>]]></content>
     </entry>
 </feed>
