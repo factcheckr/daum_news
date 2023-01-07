@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2023-01-07T16:21:16.479Z</updated>
+    <updated>2023-01-07T17:14:24.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주말엔 뷰티] 슬리핑팩, 일반 크림이랑 뭐가 다를까?]]></title>
+        <id>https://v.daum.net/v/20230108015032155</id>
+        <link href="https://v.daum.net/v/20230108015032155"/>
+        <updated>2023-01-07T17:13:32.619Z</updated>
+        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">01:50</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTS, 골든디스크 6년 연속 대상…아이브, 신인상·대상 동시 수상]]></title>
         <id>https://v.daum.net/v/20230108010305083</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230108000213907"/>
         <updated>2023-01-07T15:15:30.771Z</updated>
         <content type="html"><![CDATA[코스모폴리탄<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여드름, 가리기만 할 거야? '트러블 패치'로 힙 지수 UP 렛츠기릿!]]></title>
-        <id>https://v.daum.net/v/20230108000129904</id>
-        <link href="https://v.daum.net/v/20230108000129904"/>
-        <updated>2023-01-07T15:15:30.773Z</updated>
-        <content type="html"><![CDATA[코스모폴리탄<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
     </entry>
 </feed>
