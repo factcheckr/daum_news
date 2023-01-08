@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-01-08T16:21:16.692Z</updated>
+    <updated>2023-01-08T17:14:36.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]자수성가형 리더십은 왜 실패할까]]></title>
+        <id>https://v.daum.net/v/20230109020502736</id>
+        <link href="https://v.daum.net/v/20230109020502736"/>
+        <updated>2023-01-08T17:14:20.313Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[최훈 칼럼] 면피 사회]]></title>
         <id>https://v.daum.net/v/20230109005631535</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230109003018455"/>
         <updated>2023-01-08T16:20:58.436Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[천자칼럼] 한·일 관계의 '슬램덩크']]></title>
-        <id>https://v.daum.net/v/20230109002002423</id>
-        <link href="https://v.daum.net/v/20230109002002423"/>
-        <updated>2023-01-08T16:20:58.438Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:20</span>]]></content>
     </entry>
 </feed>
