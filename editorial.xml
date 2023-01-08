@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-01-08T03:17:32.530Z</updated>
+    <updated>2023-01-08T04:20:12.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[기자수첩]"저도 삼성전자처럼 망해봤으면 좋겠습니다"]]></title>
+        <id>https://v.daum.net/v/20230108131209600</id>
+        <link href="https://v.daum.net/v/20230108131209600"/>
+        <updated>2023-01-08T04:19:53.089Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">13:12</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“종합부동산세는 징벌적 과세…폐지가 글로벌 스탠더드” [쓴소리 곧은 소리]]]></title>
         <id>https://v.daum.net/v/20230108120803961</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230108070707175"/>
         <updated>2023-01-07T22:14:57.418Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[CES 2023]<현장에서>다시는 한국을 무시하지 마라]]></title>
-        <id>https://v.daum.net/v/20230108031906218</id>
-        <link href="https://v.daum.net/v/20230108031906218"/>
-        <updated>2023-01-07T19:13:29.911Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">03:19</span>]]></content>
     </entry>
 </feed>
