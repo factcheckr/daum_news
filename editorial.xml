@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-01-08T12:29:05.001Z</updated>
+    <updated>2023-01-08T13:20:44.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[절제, 미학과 미덕을 넘어 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20230108220003703</id>
+        <link href="https://v.daum.net/v/20230108220003703"/>
+        <updated>2023-01-08T13:20:25.022Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023년 1월 9일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20230108215945697</id>
+        <link href="https://v.daum.net/v/20230108215945697"/>
+        <updated>2023-01-08T13:20:25.023Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">21:59</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“왕개미가 황제의 수레에 깔렸다”[횡설수설/김재영]]]></title>
+        <id>https://v.daum.net/v/20230108213505513</id>
+        <link href="https://v.daum.net/v/20230108213505513"/>
+        <updated>2023-01-08T13:20:25.023Z</updated>
+        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">21:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[스트레이트] "살아 남아도 아프다"‥10.29 참사 생존자들 여전한 트라우마]]></title>
         <id>https://v.daum.net/v/20230108210409326</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230108194953773"/>
         <updated>2023-01-08T11:13:38.359Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:49</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1월 9일 한겨레 그림판]]></title>
-        <id>https://v.daum.net/v/20230108194504741</id>
-        <link href="https://v.daum.net/v/20230108194504741"/>
-        <updated>2023-01-08T11:13:38.360Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[국민만평-서민호 화백] 2023년 1월 9일]]></title>
-        <id>https://v.daum.net/v/20230108191809546</id>
-        <link href="https://v.daum.net/v/20230108191809546"/>
-        <updated>2023-01-08T11:13:38.363Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">19:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 출범 50주년 대덕특구, 지역유대 강화해야]]></title>
-        <id>https://v.daum.net/v/20230108191027481</id>
-        <link href="https://v.daum.net/v/20230108191027481"/>
-        <updated>2023-01-08T10:17:00.636Z</updated>
-        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">19:10</span>]]></content>
     </entry>
 </feed>
