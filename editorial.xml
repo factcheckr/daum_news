@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-01-09T12:31:54.309Z</updated>
+    <updated>2023-01-09T13:25:08.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[횡설수설/이진영]매 맞는 남편]]></title>
+        <title type="html"><![CDATA[2023년 1월 10일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20230109220137743</id>
+        <link href="https://v.daum.net/v/20230109220137743"/>
+        <updated>2023-01-09T13:24:49.959Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인간의 영혼은 고유하다는 미신 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20230109220018730</id>
+        <link href="https://v.daum.net/v/20230109220018730"/>
+        <updated>2023-01-09T13:24:49.960Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[국민만평-서민호 화백] 2023년 1월 10일]]></title>
+        <id>https://v.daum.net/v/20230109214412492</id>
+        <link href="https://v.daum.net/v/20230109214412492"/>
+        <updated>2023-01-09T13:24:49.961Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">21:44</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[매 맞는 남편[횡설수설/이진영]]]></title>
         <id>https://v.daum.net/v/20230109213007317</id>
         <link href="https://v.daum.net/v/20230109213007317"/>
         <updated>2023-01-09T12:31:39.224Z</updated>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230109194505796"/>
         <updated>2023-01-09T11:15:20.358Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[증권사 '네카오 바닥론', 2022년 오류의 반복일까]]></title>
-        <id>https://v.daum.net/v/20230109193626662</id>
-        <link href="https://v.daum.net/v/20230109193626662"/>
-        <updated>2023-01-09T11:15:20.360Z</updated>
-        <content type="html"><![CDATA[더스쿠프<span class="txt_bar"> · </span><span class="info_time">19:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1월 10일 한겨레 그림판]]></title>
-        <id>https://v.daum.net/v/20230109193007580</id>
-        <link href="https://v.daum.net/v/20230109193007580"/>
-        <updated>2023-01-09T11:15:20.361Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정의길 칼럼] AI 무기가 등장할 우크라이나 전쟁의 미래]]></title>
-        <id>https://v.daum.net/v/20230109192010445</id>
-        <link href="https://v.daum.net/v/20230109192010445"/>
-        <updated>2023-01-09T11:15:20.363Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:20</span>]]></content>
     </entry>
 </feed>
