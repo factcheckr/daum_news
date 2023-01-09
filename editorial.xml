@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-01-09T06:21:58.927Z</updated>
+    <updated>2023-01-09T07:16:39.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사설]공공 클라우드 전환, 불씨 지켜야]]></title>
+        <id>https://v.daum.net/v/20230109160107818</id>
+        <link href="https://v.daum.net/v/20230109160107818"/>
+        <updated>2023-01-09T07:16:22.944Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">16:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[자막뉴스] 이거까지 가능하다고? 10분 만에 완벽히 복사]]></title>
+        <id>https://v.daum.net/v/20230109153450916</id>
+        <link href="https://v.daum.net/v/20230109153450916"/>
+        <updated>2023-01-09T07:16:22.945Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">15:34</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['믿을 수 있을까' 물음표 달린 한겨레 신뢰 추락의 위기]]></title>
+        <id>https://v.daum.net/v/20230109152240481</id>
+        <link href="https://v.daum.net/v/20230109152240481"/>
+        <updated>2023-01-09T07:16:22.945Z</updated>
+        <content type="html"><![CDATA[미디어오늘<span class="txt_bar"> · </span><span class="info_time">15:22</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국민의힘 "민주당, 표현의 자유 뒤에 숨어 헌법정신 파괴 자행"]]></title>
         <id>https://v.daum.net/v/20230109151108108</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230109114249654"/>
         <updated>2023-01-09T04:20:44.413Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설]‘정당·노조 침투’ 제주 간첩단 적발… 빙산의 일각일 것]]></title>
-        <id>https://v.daum.net/v/20230109114240647</id>
-        <link href="https://v.daum.net/v/20230109114240647"/>
-        <updated>2023-01-09T04:20:44.415Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스와 시각]이원석 검찰총장의 진실론]]></title>
-        <id>https://v.daum.net/v/20230109113947529</id>
-        <link href="https://v.daum.net/v/20230109113947529"/>
-        <updated>2023-01-09T04:20:44.417Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포럼]김관진 强軍論과 文정부 9·19 원죄]]></title>
-        <id>https://v.daum.net/v/20230109113942519</id>
-        <link href="https://v.daum.net/v/20230109113942519"/>
-        <updated>2023-01-09T04:20:44.421Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:39</span>]]></content>
     </entry>
 </feed>
