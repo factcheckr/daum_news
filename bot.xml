@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-01-10T05:15:54.689Z</updated>
+    <updated>2023-01-10T06:22:19.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서울 남가좌동 DMC파크뷰자이아파트 84㎡ 8억5000만원... 역대 최고가]]></title>
+        <id>https://v.daum.net/v/20230110143045689</id>
+        <link href="https://v.daum.net/v/20230110143045689"/>
+        <updated>2023-01-10T06:22:18.331Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[용인 지곡동 자봉마을써니밸리 84㎡ 2억8000만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230110142545438</id>
+        <link href="https://v.daum.net/v/20230110142545438"/>
+        <updated>2023-01-10T06:22:18.332Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:25</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천 송도동 e편한세상송도아파트 84㎡ 5억7500만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230110142039265</id>
+        <link href="https://v.daum.net/v/20230110142039265"/>
+        <updated>2023-01-10T06:22:18.332Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:20</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인천 송도동 e편한세상송도아파트 84㎡ 5억9750만원에 거래]]></title>
         <id>https://v.daum.net/v/20230110141541113</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230110132045397"/>
         <updated>2023-01-10T04:23:32.616Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 송도동 e편한세상송도아파트 84㎡ 6억5000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230110131541246</id>
-        <link href="https://v.daum.net/v/20230110131541246"/>
-        <updated>2023-01-10T04:23:32.617Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 심곡동 연희 대동주택 아파트 59㎡ 1억8500만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230110131036098</id>
-        <link href="https://v.daum.net/v/20230110131036098"/>
-        <updated>2023-01-10T04:23:32.620Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 신현동 루원e편한세상하늘채 114㎡ 5억2000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230110130538013</id>
-        <link href="https://v.daum.net/v/20230110130538013"/>
-        <updated>2023-01-10T04:23:32.625Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:05</span>]]></content>
     </entry>
 </feed>
