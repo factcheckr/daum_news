@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-01-11T06:26:03.869Z</updated>
+    <updated>2023-01-11T07:16:10.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“어렸을 때 꿈이 뭐였어?” 엄마에게 물었다[플랫]]]></title>
+        <id>https://v.daum.net/v/20230111161540188</id>
+        <link href="https://v.daum.net/v/20230111161540188"/>
+        <updated>2023-01-11T07:15:55.086Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">16:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부고] 최재성(삼성SDI 커뮤니케이션팀 뉴미디어그룹장)씨 부친상]]></title>
+        <id>https://v.daum.net/v/20230111155758300</id>
+        <link href="https://v.daum.net/v/20230111155758300"/>
+        <updated>2023-01-11T07:15:55.088Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">15:57</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[배달잇슈] 벌써 등장한 김정은 딸…4대 세습? 위장술?]]></title>
+        <id>https://v.daum.net/v/20230111153612441</id>
+        <link href="https://v.daum.net/v/20230111153612441"/>
+        <updated>2023-01-11T07:15:55.093Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV<span class="txt_bar"> · </span><span class="info_time">15:36</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[기자수첩] 이태원 참사 수사 특수본의 ‘쇼탐대실’]]></title>
         <id>https://v.daum.net/v/20230111150152938</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230111114026925"/>
         <updated>2023-01-11T02:43:12.371Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스와 시각]저출산委가 정치 발판인가]]></title>
-        <id>https://v.daum.net/v/20230111114021919</id>
-        <link href="https://v.daum.net/v/20230111114021919"/>
-        <updated>2023-01-11T02:43:12.371Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포럼]민주당, 국민 아닌 李 위해 존재하나]]></title>
-        <id>https://v.daum.net/v/20230111113640772</id>
-        <link href="https://v.daum.net/v/20230111113640772"/>
-        <updated>2023-01-11T02:43:12.372Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포럼]‘미지근 반도체법’ 재개정 시급하다]]></title>
-        <id>https://v.daum.net/v/20230111113621749</id>
-        <link href="https://v.daum.net/v/20230111113621749"/>
-        <updated>2023-01-11T02:43:12.373Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:36</span>]]></content>
     </entry>
 </feed>
