@@ -2,112 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-01-11T14:22:18.787Z</updated>
+    <updated>2023-01-11T15:33:34.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2023년 01월 11일)]]></title>
-        <id>https://v.daum.net/v/20230111173212318</id>
-        <link href="https://v.daum.net/v/20230111173212318"/>
-        <updated>2023-01-11T09:20:25.554Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[fnRASSI]장마감, 코스닥 하락 종목(애머릿지 -6.5% ↓)]]></title>
-        <id>https://v.daum.net/v/20230111154001582</id>
-        <link href="https://v.daum.net/v/20230111154001582"/>
-        <updated>2023-01-11T07:16:10.058Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[fnRASSI]장마감, 코스닥 상승 종목(제이에스티나 30.0% ↑)]]></title>
-        <id>https://v.daum.net/v/20230111153957581</id>
-        <link href="https://v.daum.net/v/20230111153957581"/>
-        <updated>2023-01-11T07:16:10.074Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[fnRASSI]장마감, 거래소 하락 종목(에이프로젠바이오로직 -6.8% ↓)]]></title>
-        <id>https://v.daum.net/v/20230111153954578</id>
-        <link href="https://v.daum.net/v/20230111153954578"/>
-        <updated>2023-01-11T07:16:10.075Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[fnRASSI]장마감, 거래소 상승 종목(SK네트웍스우 29.9% ↑)]]></title>
-        <id>https://v.daum.net/v/20230111153945573</id>
-        <link href="https://v.daum.net/v/20230111153945573"/>
-        <updated>2023-01-11T07:16:10.078Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[fnRASSI]코콤, MDS테크 등 17종목 52주 신고가 경신]]></title>
-        <id>https://v.daum.net/v/20230111153635454</id>
-        <link href="https://v.daum.net/v/20230111153635454"/>
-        <updated>2023-01-11T07:16:10.079Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[fnRASSI]오늘의 상한가, 제이에스티나 30.0% ↑]]></title>
-        <id>https://v.daum.net/v/20230111153630450</id>
-        <link href="https://v.daum.net/v/20230111153630450"/>
-        <updated>2023-01-11T07:16:10.080Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 송도동 e편한세상송도아파트 70㎡ 4억8300만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230111141543985</id>
-        <link href="https://v.daum.net/v/20230111141543985"/>
-        <updated>2023-01-11T05:16:18.122Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용인 지곡동 자봉마을써니밸리 114㎡ 3억3000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230111141046773</id>
-        <link href="https://v.daum.net/v/20230111141046773"/>
-        <updated>2023-01-11T05:16:18.124Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하남 망월동 미사강변 루나리움 74㎡ 7억3000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230111140535566</id>
-        <link href="https://v.daum.net/v/20230111140535566"/>
-        <updated>2023-01-11T05:16:18.125Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 영통동 영통신나무실주공5단지 49㎡ 2억7000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230111140040375</id>
-        <link href="https://v.daum.net/v/20230111140040375"/>
-        <updated>2023-01-11T05:16:18.130Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 청라동 청라제일풍경채2차에듀앤파크 84㎡ 5억5000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230111135544195</id>
-        <link href="https://v.daum.net/v/20230111135544195"/>
-        <updated>2023-01-11T05:16:18.130Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:55</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 원천동 원천레이크파크 59㎡ 4억1000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230111135036059</id>
-        <link href="https://v.daum.net/v/20230111135036059"/>
-        <updated>2023-01-11T05:16:18.130Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용인 풍덕천동 수지4차삼성 59㎡ 4억8000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230111134540963</id>
-        <link href="https://v.daum.net/v/20230111134540963"/>
-        <updated>2023-01-11T05:16:18.131Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 동춘동 연수1차 현대 아파트 84㎡ 3억9500만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230111134053826</id>
-        <link href="https://v.daum.net/v/20230111134053826"/>
-        <updated>2023-01-11T05:16:18.132Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:40</span>]]></content>
+        <title type="html"><![CDATA[가상화폐 비트코인 0.34% 상승, 스트라이크 19.7% 상승]]></title>
+        <id>https://v.daum.net/v/20230112003122939</id>
+        <link href="https://v.daum.net/v/20230112003122939"/>
+        <updated>2023-01-11T15:33:33.699Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">00:31</span>]]></content>
     </entry>
 </feed>
