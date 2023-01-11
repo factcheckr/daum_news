@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-01-11T22:18:09.329Z</updated>
+    <updated>2023-01-11T23:17:35.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[역사속 오늘]중국의 ‘친구’]]></title>
+        <id>https://v.daum.net/v/20230112080027564</id>
+        <link href="https://v.daum.net/v/20230112080027564"/>
+        <updated>2023-01-11T23:17:14.969Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](12일 조간)]]></title>
+        <id>https://v.daum.net/v/20230112080005532</id>
+        <link href="https://v.daum.net/v/20230112080005532"/>
+        <updated>2023-01-11T23:17:14.969Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[라병배 칼럼] 기로의 나경원]]></title>
         <id>https://v.daum.net/v/20230112070512770</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20230112050352327</id>
         <link href="https://v.daum.net/v/20230112050352327"/>
         <updated>2023-01-11T20:19:26.468Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[씨줄날줄] 만혼시대 개막/박현갑 논설위원]]></title>
-        <id>https://v.daum.net/v/20230112050350325</id>
-        <link href="https://v.daum.net/v/20230112050350325"/>
-        <updated>2023-01-11T20:19:26.469Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[길섶에서] 자동차보험 교체/임창용 논설위원]]></title>
-        <id>https://v.daum.net/v/20230112050350324</id>
-        <link href="https://v.daum.net/v/20230112050350324"/>
-        <updated>2023-01-11T20:19:26.469Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
     </entry>
 </feed>
