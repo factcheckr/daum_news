@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-01-11T09:20:26.374Z</updated>
+    <updated>2023-01-11T10:22:06.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[농협자산관리회사 전남서부지사, 설 앞두고 농업인 돕기 나서]]></title>
+        <id>https://v.daum.net/v/20230111182935214</id>
+        <link href="https://v.daum.net/v/20230111182935214"/>
+        <updated>2023-01-11T10:21:57.588Z</updated>
+        <content type="html"><![CDATA[농민신문<span class="txt_bar"> · </span><span class="info_time">18:29</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] Xinhua Silk Road: 37 cities along the Yellow River see favorable]]></title>
         <id>https://v.daum.net/v/20230111181521824</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230111171021466"/>
         <updated>2023-01-11T08:21:58.793Z</updated>
         <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">17:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] 캔톤 페어, 확장된 전시관 공개하며 세계의 전시 단지로 부상]]></title>
-        <id>https://v.daum.net/v/20230111170824381</id>
-        <link href="https://v.daum.net/v/20230111170824381"/>
-        <updated>2023-01-11T08:21:58.794Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:08</span>]]></content>
     </entry>
 </feed>
