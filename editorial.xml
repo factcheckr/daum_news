@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-01-11T16:30:38.594Z</updated>
+    <updated>2023-01-11T17:21:38.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]양곡관리법에 대한 소고(小考)]]></title>
+        <id>https://v.daum.net/v/20230112020502296</id>
+        <link href="https://v.daum.net/v/20230112020502296"/>
+        <updated>2023-01-11T17:21:22.435Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]나의 소박한 새해 결심]]></title>
+        <id>https://v.daum.net/v/20230112020305291</id>
+        <link href="https://v.daum.net/v/20230112020305291"/>
+        <updated>2023-01-11T17:21:22.437Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중앙시평] 법에 갇힌 정치]]></title>
         <id>https://v.daum.net/v/20230112005640037</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230112002801924"/>
         <updated>2023-01-11T15:33:16.740Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:28</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[밀레니얼 트렌드 사전] 고블린 모드]]></title>
-        <id>https://v.daum.net/v/20230112002748923</id>
-        <link href="https://v.daum.net/v/20230112002748923"/>
-        <updated>2023-01-11T15:33:16.740Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데스크 칼럼] 거짓말의 작동 원리]]></title>
-        <id>https://v.daum.net/v/20230112002602913</id>
-        <link href="https://v.daum.net/v/20230112002602913"/>
-        <updated>2023-01-11T15:33:16.740Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:26</span>]]></content>
     </entry>
 </feed>
