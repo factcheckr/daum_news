@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-01-12T04:20:28.694Z</updated>
+    <updated>2023-01-12T05:16:08.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[로봇이 된 日 화가 쿠사마 야요이]]></title>
+        <id>https://v.daum.net/v/20230112140533639</id>
+        <link href="https://v.daum.net/v/20230112140533639"/>
+        <updated>2023-01-12T05:15:49.110Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">14:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[의학칼럼] 줄기세포 가슴성형, 생착률 높이는 데 탁월]]></title>
+        <id>https://v.daum.net/v/20230112140510632</id>
+        <link href="https://v.daum.net/v/20230112140510632"/>
+        <updated>2023-01-12T05:15:49.112Z</updated>
+        <content type="html"><![CDATA[헬스조선<span class="txt_bar"> · </span><span class="info_time">14:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[양경미의 영화로 보는 세상] 자기연민에 빠진 관종의 거짓된 삶]]></title>
+        <id>https://v.daum.net/v/20230112140140506</id>
+        <link href="https://v.daum.net/v/20230112140140506"/>
+        <updated>2023-01-12T05:15:49.114Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">14:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시민이 만든 박물관, 기증 유물 한눈에]]></title>
+        <id>https://v.daum.net/v/20230112135019102</id>
+        <link href="https://v.daum.net/v/20230112135019102"/>
+        <updated>2023-01-12T05:15:49.115Z</updated>
+        <content type="html"><![CDATA[KTV<span class="txt_bar"> · </span><span class="info_time">13:50</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[관망경]10차 전기본, 세부 실행 중요]]></title>
         <id>https://v.daum.net/v/20230112124104128</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230112114523652"/>
         <updated>2023-01-12T03:18:12.206Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포럼]성남FC 후원금과 제3자 뇌물죄 법리]]></title>
-        <id>https://v.daum.net/v/20230112114314562</id>
-        <link href="https://v.daum.net/v/20230112114314562"/>
-        <updated>2023-01-12T03:18:12.208Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오후여담]문신 ‘우주를 향하여’]]></title>
-        <id>https://v.daum.net/v/20230112113937437</id>
-        <link href="https://v.daum.net/v/20230112113937437"/>
-        <updated>2023-01-12T02:42:04.171Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[만평] 무 하나 못 자른 중대재해처벌법]]></title>
-        <id>https://v.daum.net/v/20230112113256152</id>
-        <link href="https://v.daum.net/v/20230112113256152"/>
-        <updated>2023-01-12T02:42:04.173Z</updated>
-        <content type="html"><![CDATA[대구MBC<span class="txt_bar"> · </span><span class="info_time">11:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국민의힘 "이재명의 개헌 주장? 사법 리스크 모면하려는 잔꾀"]]></title>
-        <id>https://v.daum.net/v/20230112112449728</id>
-        <link href="https://v.daum.net/v/20230112112449728"/>
-        <updated>2023-01-12T02:42:04.174Z</updated>
-        <content type="html"><![CDATA[대구MBC<span class="txt_bar"> · </span><span class="info_time">11:24</span>]]></content>
     </entry>
 </feed>
