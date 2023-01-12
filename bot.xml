@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-01-12T08:22:26.796Z</updated>
+    <updated>2023-01-12T09:19:32.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2023년 01월 12일)]]></title>
+        <id>https://v.daum.net/v/20230112173213792</id>
+        <link href="https://v.daum.net/v/20230112173213792"/>
+        <updated>2023-01-12T09:19:31.253Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:32</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[fnRASSI]장마감, 코스닥 하락 종목(메디콕스 -22.7% ↓)]]></title>
         <id>https://v.daum.net/v/20230112154121849</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230112140546645"/>
         <updated>2023-01-12T05:16:08.303Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 영통동 영통벽적골두산한신 59㎡ 4억원에 거래]]></title>
-        <id>https://v.daum.net/v/20230112140040458</id>
-        <link href="https://v.daum.net/v/20230112140040458"/>
-        <updated>2023-01-12T05:16:08.309Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
     </entry>
 </feed>
