@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-01-12T12:33:47.442Z</updated>
+    <updated>2023-01-12T13:31:28.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[민간 제작사만 실리 챙기는 군대 뮤지컬 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20230112220045995</id>
+        <link href="https://v.daum.net/v/20230112220045995"/>
+        <updated>2023-01-12T13:31:11.297Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023년 1월 13일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20230112220014981</id>
+        <link href="https://v.daum.net/v/20230112220014981"/>
+        <updated>2023-01-12T13:31:11.298Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“채용 청탁 안 받겠습니다” [횡설수설/박중현]]]></title>
         <id>https://v.daum.net/v/20230112213008545</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230112201841086"/>
         <updated>2023-01-12T11:20:12.397Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[The Fountain] Why more math education?]]></title>
-        <id>https://v.daum.net/v/20230112201640051</id>
-        <link href="https://v.daum.net/v/20230112201640051"/>
-        <updated>2023-01-12T11:20:12.398Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제어되고 응징돼야 할 말쟁이의 이간질 [기민석의 호크마 샬롬]]]></title>
-        <id>https://v.daum.net/v/20230112200018731</id>
-        <link href="https://v.daum.net/v/20230112200018731"/>
-        <updated>2023-01-12T11:20:12.401Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">20:00</span>]]></content>
     </entry>
 </feed>
