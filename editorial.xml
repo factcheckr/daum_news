@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-01-12T20:19:24.828Z</updated>
+    <updated>2023-01-12T21:27:23.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[Robert J. Fouser] US-China relations downward spiral]]></title>
+        <id>https://v.daum.net/v/20230113053107132</id>
+        <link href="https://v.daum.net/v/20230113053107132"/>
+        <updated>2023-01-12T21:27:07.558Z</updated>
+        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:31</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Editorial] Thorough probe needed]]></title>
+        <id>https://v.daum.net/v/20230113053052126</id>
+        <link href="https://v.daum.net/v/20230113053052126"/>
+        <updated>2023-01-12T21:27:07.558Z</updated>
+        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[김균미 칼럼] 눈먼 정치 양극화가 부른 폭동/논설고문]]></title>
         <id>https://v.daum.net/v/20230113050428840</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230113050220700"/>
         <updated>2023-01-12T20:19:04.619Z</updated>
         <content type="html"><![CDATA[농민신문<span class="txt_bar"> · </span><span class="info_time">05:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[조주청의 사랑방 이야기] (435) 토실골]]></title>
-        <id>https://v.daum.net/v/20230113050204674</id>
-        <link href="https://v.daum.net/v/20230113050204674"/>
-        <updated>2023-01-12T20:19:04.621Z</updated>
-        <content type="html"><![CDATA[농민신문<span class="txt_bar"> · </span><span class="info_time">05:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전문가의 눈] 농업 디지털 전환, 디테일로 명품화하자]]></title>
-        <id>https://v.daum.net/v/20230113050155665</id>
-        <link href="https://v.daum.net/v/20230113050155665"/>
-        <updated>2023-01-12T20:19:04.623Z</updated>
-        <content type="html"><![CDATA[농민신문<span class="txt_bar"> · </span><span class="info_time">05:01</span>]]></content>
     </entry>
 </feed>
