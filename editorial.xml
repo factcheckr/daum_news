@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-01-13T21:14:59.214Z</updated>
+    <updated>2023-01-13T22:15:51.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[끝나서는 안 되는 질문들]]></title>
+        <id>https://v.daum.net/v/20230114071311234</id>
+        <link href="https://v.daum.net/v/20230114071311234"/>
+        <updated>2023-01-13T22:15:35.266Z</updated>
+        <content type="html"><![CDATA[한겨레21<span class="txt_bar"> · </span><span class="info_time">07:13</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[데스크 칼럼] 로봇과 식품의 위대한 결합...푸드테크 미래 보여준 CES]]></title>
         <id>https://v.daum.net/v/20230114060016615</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230114031525013"/>
         <updated>2023-01-13T18:20:19.624Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 인파 예방 부재와 현장 대응 미흡이 참사 원인, 정쟁 말고 교훈 찾길]]></title>
-        <id>https://v.daum.net/v/20230114031212006</id>
-        <link href="https://v.daum.net/v/20230114031212006"/>
-        <updated>2023-01-13T18:20:19.626Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:12</span>]]></content>
     </entry>
 </feed>
