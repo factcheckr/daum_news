@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-01-13T03:27:34.985Z</updated>
+    <updated>2023-01-13T04:23:31.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[시사컬처]연말연시 대리운전 모범이용기]]></title>
+        <id>https://v.daum.net/v/20230113125835278</id>
+        <link href="https://v.daum.net/v/20230113125835278"/>
+        <updated>2023-01-13T04:23:11.301Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">12:58</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설]‘李 판결 2건’ 大法서 뒤집힌 전말 이번엔 제대로 밝혀야]]></title>
         <id>https://v.daum.net/v/20230113115232180</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230113113406558"/>
         <updated>2023-01-13T02:58:45.630Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">11:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데일리안 시사만평] 尹 "자체 핵 보유할 수도"…김정은, 도발 말고 같이 잘 살면 안되겠니?]]></title>
-        <id>https://v.daum.net/v/20230113111818800</id>
-        <link href="https://v.daum.net/v/20230113111818800"/>
-        <updated>2023-01-13T02:58:45.632Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">11:18</span>]]></content>
     </entry>
 </feed>
