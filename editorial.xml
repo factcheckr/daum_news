@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-01-13T12:31:22.164Z</updated>
+    <updated>2023-01-13T13:25:41.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[문 닫는 학생식당… ‘1000원 짜리 아침밥’ 사라지나[횡설수설/송평인]]]></title>
+        <id>https://v.daum.net/v/20230113220138540</id>
+        <link href="https://v.daum.net/v/20230113220138540"/>
+        <updated>2023-01-13T13:25:21.507Z</updated>
+        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[예쁜 일기가 아닌 나의 일기를 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20230113220004514</id>
+        <link href="https://v.daum.net/v/20230113220004514"/>
+        <updated>2023-01-13T13:25:21.508Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 여전히 미국보다 1%P 낮은 기준금리, 금리 정점론 경계해야]]></title>
         <id>https://v.daum.net/v/20230113203015523</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230113172954754"/>
         <updated>2023-01-13T12:31:04.933Z</updated>
         <content type="html"><![CDATA[오토타임즈<span class="txt_bar"> · </span><span class="info_time">17:29</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세상사는 이야기] 공동생활 유감]]></title>
-        <id>https://v.daum.net/v/20230113171205271</id>
-        <link href="https://v.daum.net/v/20230113171205271"/>
-        <updated>2023-01-13T12:31:04.934Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 선거비 수천억 이중수령해 배 불린 與野, 나랏돈 도둑질 아닌가]]></title>
-        <id>https://v.daum.net/v/20230113171204268</id>
-        <link href="https://v.daum.net/v/20230113171204268"/>
-        <updated>2023-01-13T12:31:04.935Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:12</span>]]></content>
     </entry>
 </feed>
