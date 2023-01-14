@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-01-14T12:27:38.725Z</updated>
+    <updated>2023-01-14T13:19:39.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[창원시의회 “한국형 발사체 단 조립장 유치해야”]]></title>
+        <id>https://v.daum.net/v/20230114213506149</id>
+        <link href="https://v.daum.net/v/20230114213506149"/>
+        <updated>2023-01-14T13:19:13.509Z</updated>
+        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">21:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[메가존-베스핀글로벌, 경제사절단 동행 글로벌 진출 기대]]></title>
         <id>https://v.daum.net/v/20230114212532083</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230114164446995"/>
         <updated>2023-01-14T08:19:59.499Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">16:44</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘애플 따라올라’···메타, VR헤드셋 핵심 ‘광학’ 스타트업 인수]]></title>
-        <id>https://v.daum.net/v/20230114163229914</id>
-        <link href="https://v.daum.net/v/20230114163229914"/>
-        <updated>2023-01-14T08:19:59.501Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">16:32</span>]]></content>
     </entry>
 </feed>
