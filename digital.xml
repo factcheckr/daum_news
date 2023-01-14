@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-01-14T06:19:36.553Z</updated>
+    <updated>2023-01-14T07:14:47.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["한국엔 왜 수입 안 하나"…최태원도 감탄한 간식 먹어보니 [조아라의 IT's fun]]]></title>
+        <id>https://v.daum.net/v/20230114153702483</id>
+        <link href="https://v.daum.net/v/20230114153702483"/>
+        <updated>2023-01-14T07:14:19.235Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">15:37</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["귀에 들린 그대로 녹음하세요"…삼성전자 '360 오디오 레코딩' 정체는]]></title>
         <id>https://v.daum.net/v/20230114150002139</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230114113600848"/>
         <updated>2023-01-14T02:36:44.069Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">11:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[게임위드인] '카트 드리프트' 총괄 "세계적 사랑받는 게임 만들고파"]]></title>
-        <id>https://v.daum.net/v/20230114110009554</id>
-        <link href="https://v.daum.net/v/20230114110009554"/>
-        <updated>2023-01-14T02:36:44.070Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">11:00</span>]]></content>
     </entry>
 </feed>
