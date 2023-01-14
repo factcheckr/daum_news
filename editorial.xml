@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-01-14T03:18:06.250Z</updated>
+    <updated>2023-01-14T04:20:04.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이재명, 尹 대통령 사과·이상민 파면 촉구 “이태원 참사 유족 눈물 닦을 유일한 방법”]]></title>
+        <id>https://v.daum.net/v/20230114130641374</id>
+        <link href="https://v.daum.net/v/20230114130641374"/>
+        <updated>2023-01-14T04:19:46.758Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">13:06</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[영상+] "개개비비" 대구 가남지 개개비]]></title>
         <id>https://v.daum.net/v/20230114103428299</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230114073328331"/>
         <updated>2023-01-13T23:16:53.743Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:33</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[날씨 칼럼] 발로 직접 뛰는 기상관측장비]]></title>
-        <id>https://v.daum.net/v/20230114072402289</id>
-        <link href="https://v.daum.net/v/20230114072402289"/>
-        <updated>2023-01-13T23:16:53.744Z</updated>
-        <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">07:24</span>]]></content>
     </entry>
 </feed>
