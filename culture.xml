@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2023-01-14T18:18:52.667Z</updated>
+    <updated>2023-01-14T19:13:32.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[모델 김희원의 겨울 방한템 6]]></title>
+        <id>https://v.daum.net/v/20230115040040000</id>
+        <link href="https://v.daum.net/v/20230115040040000"/>
+        <updated>2023-01-14T19:12:47.854Z</updated>
+        <content type="html"><![CDATA[엘르<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[포시마크 “네이버와 수십억 플랫폼으로 성장”]]></title>
         <id>https://v.daum.net/v/20230115030300842</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230115000508220"/>
         <updated>2023-01-14T15:20:01.463Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 운세] 2023년 01월 15일 별자리 운세]]></title>
-        <id>https://v.daum.net/v/20230115000307201</id>
-        <link href="https://v.daum.net/v/20230115000307201"/>
-        <updated>2023-01-14T15:20:01.465Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
     </entry>
 </feed>
