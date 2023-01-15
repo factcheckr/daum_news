@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-01-15T04:20:11.743Z</updated>
+    <updated>2023-01-15T05:16:02.176Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강원도, “민·관이 힘 모아 뛰는 물가 잡는다”]]></title>
+        <id>https://v.daum.net/v/20230115133850517</id>
+        <link href="https://v.daum.net/v/20230115133850517"/>
+        <updated>2023-01-15T05:15:50.507Z</updated>
+        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">13:38</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[용인 '반도체 도시와 신성장 전략' 위한 조직 개편]]></title>
         <id>https://v.daum.net/v/20230115125631868</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230115090606697"/>
         <updated>2023-01-15T01:20:21.908Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">09:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리은행, 승진 소속장 대상 리더십 연수 실시]]></title>
-        <id>https://v.daum.net/v/20230115090012542</id>
-        <link href="https://v.daum.net/v/20230115090012542"/>
-        <updated>2023-01-15T01:20:21.910Z</updated>
-        <content type="html"><![CDATA[스포츠한국<span class="txt_bar"> · </span><span class="info_time">09:00</span>]]></content>
     </entry>
 </feed>
