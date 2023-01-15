@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2023-01-15T16:21:13.639Z</updated>
+    <updated>2023-01-15T17:17:04.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장신영♥강경준 둘째 子, 독서에 푹 빠진 5살 '속눈썹 왕자']]></title>
+        <id>https://v.daum.net/v/20230116012133840</id>
+        <link href="https://v.daum.net/v/20230116012133840"/>
+        <updated>2023-01-15T17:16:10.659Z</updated>
+        <content type="html"><![CDATA[스포츠조선<span class="txt_bar"> · </span><span class="info_time">01:21</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['최강야구', 회식하면 다음 경기 패배 '징크스'…깨질까?]]></title>
         <id>https://v.daum.net/v/20230116010904783</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230116001807509"/>
         <updated>2023-01-15T16:20:30.628Z</updated>
         <content type="html"><![CDATA[마이데일리<span class="txt_bar"> · </span><span class="info_time">00:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이보영, 금수저 회장딸 손나은 취임식에 날 선 경고..."괜히 사고치지 마라"('대행사')]]></title>
-        <id>https://v.daum.net/v/20230116001701506</id>
-        <link href="https://v.daum.net/v/20230116001701506"/>
-        <updated>2023-01-15T16:20:30.630Z</updated>
-        <content type="html"><![CDATA[텐아시아<span class="txt_bar"> · </span><span class="info_time">00:17</span>]]></content>
     </entry>
 </feed>
