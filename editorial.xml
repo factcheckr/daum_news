@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-01-16T22:16:24.760Z</updated>
+    <updated>2023-01-16T23:17:30.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[해외 칼럼]첫발 뗀 바이든의 이민 개혁]]></title>
+        <id>https://v.daum.net/v/20230117080028439</id>
+        <link href="https://v.daum.net/v/20230117080028439"/>
+        <updated>2023-01-16T23:17:12.012Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](17일 조간)]]></title>
+        <id>https://v.daum.net/v/20230117080003401</id>
+        <link href="https://v.daum.net/v/20230117080003401"/>
+        <updated>2023-01-16T23:17:12.015Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[김대호 박사의 오늘의 키워드] 다보스 경기침체·국세청 해체·빅테크 수난시대·UAE MOU·명품 노예]]></title>
+        <id>https://v.daum.net/v/20230117072730926</id>
+        <link href="https://v.daum.net/v/20230117072730926"/>
+        <updated>2023-01-16T23:17:12.017Z</updated>
+        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">07:27</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[여론광장] 비단강 개발에 대한 소모적 논쟁 최소화해야]]></title>
         <id>https://v.daum.net/v/20230117070512714</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230117060401044"/>
         <updated>2023-01-16T21:19:10.447Z</updated>
         <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">06:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Andrew Sheng] Piloting Spaceship Earth in the New Year]]></title>
-        <id>https://v.daum.net/v/20230117053131605</id>
-        <link href="https://v.daum.net/v/20230117053131605"/>
-        <updated>2023-01-16T21:19:10.452Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Editorial] Suspected deals on trial]]></title>
-        <id>https://v.daum.net/v/20230117053110602</id>
-        <link href="https://v.daum.net/v/20230117053110602"/>
-        <updated>2023-01-16T21:19:10.454Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[송정열의 Echo]'출근 명령 vs 이직할 결심'…재택근무 전쟁]]></title>
-        <id>https://v.daum.net/v/20230117053013586</id>
-        <link href="https://v.daum.net/v/20230117053013586"/>
-        <updated>2023-01-16T21:19:10.455Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
     </entry>
 </feed>
