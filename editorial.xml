@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-01-16T03:18:32.901Z</updated>
+    <updated>2023-01-16T04:21:02.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[부고] 김종배 전 미디어오늘 편집국장 모친상]]></title>
+        <id>https://v.daum.net/v/20230116131526930</id>
+        <link href="https://v.daum.net/v/20230116131526930"/>
+        <updated>2023-01-16T04:20:44.254Z</updated>
+        <content type="html"><![CDATA[미디어오늘<span class="txt_bar"> · </span><span class="info_time">13:15</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['홈케어 가능해요' 집에서도 할 수 있는 기미 예방법]]></title>
         <id>https://v.daum.net/v/20230116121103867</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230116112954122"/>
         <updated>2023-01-16T02:44:04.978Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:29</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[칼럼]버려진 특별감찰관, 윤석열 대통령도 끝내 외면하나]]></title>
-        <id>https://v.daum.net/v/20230116112404779</id>
-        <link href="https://v.daum.net/v/20230116112404779"/>
-        <updated>2023-01-16T02:44:04.979Z</updated>
-        <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">11:24</span>]]></content>
     </entry>
 </feed>
