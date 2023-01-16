@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-01-16T06:22:42.809Z</updated>
+    <updated>2023-01-16T07:16:21.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[ET시론]모든 혁신은 '데이터'로 통한다]]></title>
+        <id>https://v.daum.net/v/20230116160133701</id>
+        <link href="https://v.daum.net/v/20230116160133701"/>
+        <updated>2023-01-16T07:16:03.373Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">16:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[신혜권의 에듀포인트]〈19〉초·중학생, 문해력과 사고력을 기르는 적절한 시기]]></title>
+        <id>https://v.daum.net/v/20230116160131700</id>
+        <link href="https://v.daum.net/v/20230116160131700"/>
+        <updated>2023-01-16T07:16:03.374Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">16:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[과학을읽다]中 천인계획 성공이 주는 교훈]]></title>
+        <id>https://v.daum.net/v/20230116154320060</id>
+        <link href="https://v.daum.net/v/20230116154320060"/>
+        <updated>2023-01-16T07:16:03.375Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">15:43</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[속보] 나경원 "보수의 가치를 지키는 저의 길을 갈것" 전직 대통령 묘역 참배, 당대표 출마 무게]]></title>
         <id>https://v.daum.net/v/20230116152034228</id>
@@ -62,6 +83,13 @@
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">13:56</span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[기대 못 미친 CES, 그래도 '삼성' 'LG'가 있었다[우보세]]]></title>
+        <id>https://v.daum.net/v/20230116132845240</id>
+        <link href="https://v.daum.net/v/20230116132845240"/>
+        <updated>2023-01-16T07:16:03.387Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">13:28</span>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[부고] 김종배 전 미디어오늘 편집국장 모친상]]></title>
         <id>https://v.daum.net/v/20230116131526930</id>
         <link href="https://v.daum.net/v/20230116131526930"/>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230116121103867"/>
         <updated>2023-01-16T03:18:15.599Z</updated>
         <content type="html"><![CDATA[베이비뉴스<span class="txt_bar"> · </span><span class="info_time">12:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설]UAE와 37兆 미래산업 동맹, 제2 중동붐으로 만들어야]]></title>
-        <id>https://v.daum.net/v/20230116114922131</id>
-        <link href="https://v.daum.net/v/20230116114922131"/>
-        <updated>2023-01-16T03:18:15.609Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:49</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김종호의 시론]가당찮은 李 ‘피해자 행세’와 人性]]></title>
-        <id>https://v.daum.net/v/20230116114546975</id>
-        <link href="https://v.daum.net/v/20230116114546975"/>
-        <updated>2023-01-16T03:18:15.609Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설]민심 등진 與 경선 이전투구와 尹대통령 책임]]></title>
-        <id>https://v.daum.net/v/20230116114540970</id>
-        <link href="https://v.daum.net/v/20230116114540970"/>
-        <updated>2023-01-16T03:18:15.613Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설]바이든 “日 반격 능력 지지”… 한일 ‘과감한 협력’ 급하다]]></title>
-        <id>https://v.daum.net/v/20230116114527959</id>
-        <link href="https://v.daum.net/v/20230116114527959"/>
-        <updated>2023-01-16T03:18:15.619Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:45</span>]]></content>
     </entry>
 </feed>
