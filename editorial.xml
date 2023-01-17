@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-01-17T22:17:17.301Z</updated>
+    <updated>2023-01-17T23:18:58.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[시론]고립 자초한 시진핑의 착각]]></title>
+        <id>https://v.daum.net/v/20230118080100424</id>
+        <link href="https://v.daum.net/v/20230118080100424"/>
+        <updated>2023-01-17T23:18:41.477Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[시로 여는 수요일]너와 나]]></title>
+        <id>https://v.daum.net/v/20230118080055422</id>
+        <link href="https://v.daum.net/v/20230118080055422"/>
+        <updated>2023-01-17T23:18:41.478Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정인교 칼럼]중국에 더 강경해진 미 하원]]></title>
+        <id>https://v.daum.net/v/20230118080044416</id>
+        <link href="https://v.daum.net/v/20230118080044416"/>
+        <updated>2023-01-17T23:18:41.479Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[세평] 알 권리 또는 알려지지 않을 권리]]></title>
         <id>https://v.daum.net/v/20230118070512641</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230118053031393"/>
         <updated>2023-01-17T21:17:14.426Z</updated>
         <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[씨줄날줄] 국정원의 존재 이유/박록삼 논설위원]]></title>
-        <id>https://v.daum.net/v/20230118050432234</id>
-        <link href="https://v.daum.net/v/20230118050432234"/>
-        <updated>2023-01-17T20:16:32.494Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[길섶에서] 겨울 과메기/이순녀 논설위원]]></title>
-        <id>https://v.daum.net/v/20230118050429233</id>
-        <link href="https://v.daum.net/v/20230118050429233"/>
-        <updated>2023-01-17T20:16:32.501Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 건설노조 불법행위 엄단해 부패고리 끊어야]]></title>
-        <id>https://v.daum.net/v/20230118050428232</id>
-        <link href="https://v.daum.net/v/20230118050428232"/>
-        <updated>2023-01-17T20:16:32.502Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:04</span>]]></content>
     </entry>
 </feed>
