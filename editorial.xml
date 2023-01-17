@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-01-17T16:23:01.742Z</updated>
+    <updated>2023-01-17T17:15:48.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]ESG 천태만상-바다]]></title>
+        <id>https://v.daum.net/v/20230118020306001</id>
+        <link href="https://v.daum.net/v/20230118020306001"/>
+        <updated>2023-01-17T17:15:31.720Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]'토요타·스타벅스'를 꿈꾸는 양식 스타트업]]></title>
+        <id>https://v.daum.net/v/20230118020102994</id>
+        <link href="https://v.daum.net/v/20230118020102994"/>
+        <updated>2023-01-17T17:15:31.722Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중앙시평] 우크라이나 전쟁, 빨리 끝날 수 있을까]]></title>
         <id>https://v.daum.net/v/20230118005224696</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230118002101594"/>
         <updated>2023-01-17T16:22:46.715Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 톡픽(TalkPick)] “적절한 시기에 물러나는 법을 배워야”]]></title>
-        <id>https://v.daum.net/v/20230118001931587</id>
-        <link href="https://v.daum.net/v/20230118001931587"/>
-        <updated>2023-01-17T16:22:46.717Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:19</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤리 불감증이 낳은 '김만배 돈거래 사태']]></title>
-        <id>https://v.daum.net/v/20230118001922584</id>
-        <link href="https://v.daum.net/v/20230118001922584"/>
-        <updated>2023-01-17T16:22:46.719Z</updated>
-        <content type="html"><![CDATA[기자협회보<span class="txt_bar"> · </span><span class="info_time">00:19</span>]]></content>
     </entry>
 </feed>
