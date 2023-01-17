@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-01-17T13:23:45.090Z</updated>
+    <updated>2023-01-17T14:16:37.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[산악인 김영미, 한국인 최초로 '무보급 단독' 남극점 도달]]></title>
+        <id>https://v.daum.net/v/20230117223001850</id>
+        <link href="https://v.daum.net/v/20230117223001850"/>
+        <updated>2023-01-17T14:16:19.512Z</updated>
+        <content type="html"><![CDATA[MBC<span class="txt_bar"> · </span><span class="info_time">22:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[민망했던 변협회장 선거…소송전문가들의 이전투구 [횡설수설/송평인]]]></title>
         <id>https://v.daum.net/v/20230117220344578</id>
@@ -41,7 +48,7 @@
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:34</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[사설] 김성태 입국, 검찰은 예단 없이 엄정하게 수사하라]]></title>
+        <title type="html"><![CDATA[[사설] 김성태 압송, 검찰은 예단 없이 엄정하게 수사하라]]></title>
         <id>https://v.daum.net/v/20230117203450361</id>
         <link href="https://v.daum.net/v/20230117203450361"/>
         <updated>2023-01-17T12:33:07.202Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230117201022957"/>
         <updated>2023-01-17T11:14:38.738Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[만파식적] 우크라이나 지원군 ‘비버’]]></title>
-        <id>https://v.daum.net/v/20230117191936193</id>
-        <link href="https://v.daum.net/v/20230117191936193"/>
-        <updated>2023-01-17T11:14:38.739Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">19:19</span>]]></content>
     </entry>
 </feed>
