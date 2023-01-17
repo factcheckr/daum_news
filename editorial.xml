@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-01-17T07:23:13.784Z</updated>
+    <updated>2023-01-17T08:22:14.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이디]]></title>
+        <id>https://v.daum.net/v/20230117171511895</id>
+        <link href="https://v.daum.net/v/20230117171511895"/>
+        <updated>2023-01-17T08:21:56.558Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[매경춘추] 세브란스씨가 쏘아 올린 작은 공]]></title>
+        <id>https://v.daum.net/v/20230117170600532</id>
+        <link href="https://v.daum.net/v/20230117170600532"/>
+        <updated>2023-01-17T08:21:56.560Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:06</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[호칭 인플레이션 사회, 어떻게 불러드릴까요?[플랫]]]></title>
         <id>https://v.daum.net/v/20230117160955540</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230117114546478"/>
         <updated>2023-01-17T03:17:58.713Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설]옵티머스·라임 재수사, 정치권 연루 이번엔 밝혀내야]]></title>
-        <id>https://v.daum.net/v/20230117114545477</id>
-        <link href="https://v.daum.net/v/20230117114545477"/>
-        <updated>2023-01-17T03:17:58.714Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설]쏟아진 ‘건설 현장 不法’ 신고로 거듭 확인된 노조 행패]]></title>
-        <id>https://v.daum.net/v/20230117114238372</id>
-        <link href="https://v.daum.net/v/20230117114238372"/>
-        <updated>2023-01-17T02:43:58.449Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:42</span>]]></content>
     </entry>
 </feed>
