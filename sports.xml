@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/sports</id>
     <title>다음 뉴스 ─ 전체기사 ─ 스포츠</title>
-    <updated>2023-01-18T16:23:26.066Z</updated>
+    <updated>2023-01-18T17:16:26.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[NBA] 르브론, 통산 100번째 40득점 올리던 날.. 현장에서는 'MVP' 함성까지 울려퍼졌다]]></title>
+        <id>https://v.daum.net/v/20230119020902234</id>
+        <link href="https://v.daum.net/v/20230119020902234"/>
+        <updated>2023-01-18T17:15:48.501Z</updated>
+        <content type="html"><![CDATA[점프볼<span class="txt_bar"> · </span><span class="info_time">02:09</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[볼티모어, 2년 연속 BA 유망주 랭킹 1위 배출]]></title>
         <id>https://v.daum.net/v/20230119011800122</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230119004006897"/>
         <updated>2023-01-18T16:22:51.434Z</updated>
         <content type="html"><![CDATA[MHN스포츠<span class="txt_bar"> · </span><span class="info_time">00:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투덜대는 콘테 "잉글랜드는 감독만 이야기하잖아!"]]></title>
-        <id>https://v.daum.net/v/20230119004004895</id>
-        <link href="https://v.daum.net/v/20230119004004895"/>
-        <updated>2023-01-18T16:22:51.438Z</updated>
-        <content type="html"><![CDATA[인터풋볼<span class="txt_bar"> · </span><span class="info_time">00:40</span>]]></content>
     </entry>
 </feed>

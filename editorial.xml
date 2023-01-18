@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-01-18T16:23:26.062Z</updated>
+    <updated>2023-01-18T17:16:26.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]MZ세대 관료 '퇴직 러시' 어떻게 볼 것인가]]></title>
+        <id>https://v.daum.net/v/20230119020302227</id>
+        <link href="https://v.daum.net/v/20230119020302227"/>
+        <updated>2023-01-18T17:16:07.266Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중앙시평] 소득 4만 달러 길목, 국민은 왜 행복하지 않나]]></title>
         <id>https://v.daum.net/v/20230119005416958</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230119003124848"/>
         <updated>2023-01-18T16:23:07.581Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 톡픽(TalkPick)] “인공지능(AI)은 인간 생산성 증가에 필요”]]></title>
-        <id>https://v.daum.net/v/20230119003045846</id>
-        <link href="https://v.daum.net/v/20230119003045846"/>
-        <updated>2023-01-18T16:23:07.587Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
     </entry>
 </feed>
