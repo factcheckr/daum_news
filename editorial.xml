@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-01-18T22:18:30.831Z</updated>
+    <updated>2023-01-18T23:18:06.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[역사속 오늘]베르사유 궁의 독일 황제 대관식]]></title>
+        <id>https://v.daum.net/v/20230119080048550</id>
+        <link href="https://v.daum.net/v/20230119080048550"/>
+        <updated>2023-01-18T23:17:48.418Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[알기 쉬운 부동산] 임대시장의 깡통전세]]></title>
         <id>https://v.daum.net/v/20230119070509747</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230119050408431</id>
         <link href="https://v.daum.net/v/20230119050408431"/>
         <updated>2023-01-18T20:17:31.946Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박철희의 글로벌워치] 일본이 발빠르게 호응해야 한다/서울대 국제학연구소장]]></title>
-        <id>https://v.daum.net/v/20230119050407429</id>
-        <link href="https://v.daum.net/v/20230119050407429"/>
-        <updated>2023-01-18T20:17:31.947Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:04</span>]]></content>
     </entry>
 </feed>
