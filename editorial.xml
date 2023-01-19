@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-01-19T21:15:24.005Z</updated>
+    <updated>2023-01-19T22:16:59.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필드스토리]최경주의 열정과 도전…"나이는 숫자에 불과"]]></title>
+        <id>https://v.daum.net/v/20230120064828959</id>
+        <link href="https://v.daum.net/v/20230120064828959"/>
+        <updated>2023-01-19T22:16:42.915Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">06:48</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[목멱칼럼]공(功)은 묻고 과(過)만 부풀린 ‘플랫폼 때리기’]]></title>
+        <id>https://v.daum.net/v/20230120061506641</id>
+        <link href="https://v.daum.net/v/20230120061506641"/>
+        <updated>2023-01-19T22:16:42.916Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">06:15</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[기자수첩] 초불확실성 시대 사라진 경제 전망, 투박한 정책 메시지]]></title>
         <id>https://v.daum.net/v/20230120060031364</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20230120050448790</id>
         <link href="https://v.daum.net/v/20230120050448790"/>
         <updated>2023-01-19T21:15:06.975Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 민주당 ‘법사완박’ 입법 농단 아닌가]]></title>
-        <id>https://v.daum.net/v/20230120050446789</id>
-        <link href="https://v.daum.net/v/20230120050446789"/>
-        <updated>2023-01-19T21:15:06.976Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] ‘1호 영업사원’ 尹 세일즈 외교, 앞으로가 중요하다]]></title>
-        <id>https://v.daum.net/v/20230120050444788</id>
-        <link href="https://v.daum.net/v/20230120050444788"/>
-        <updated>2023-01-19T21:15:06.976Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:04</span>]]></content>
     </entry>
 </feed>
