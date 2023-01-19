@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-01-19T06:21:42.296Z</updated>
+    <updated>2023-01-19T07:16:43.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[관망경]유체이탈]]></title>
+        <id>https://v.daum.net/v/20230119161304108</id>
+        <link href="https://v.daum.net/v/20230119161304108"/>
+        <updated>2023-01-19T07:16:25.338Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">16:13</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ET시론]융합이란 무엇인가]]></title>
+        <id>https://v.daum.net/v/20230119160127633</id>
+        <link href="https://v.daum.net/v/20230119160127633"/>
+        <updated>2023-01-19T07:16:25.339Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">16:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[기고] “모빌리티 규제, ‘현명한 보이는 손’이 필요하다”]]></title>
+        <id>https://v.daum.net/v/20230119154333840</id>
+        <link href="https://v.daum.net/v/20230119154333840"/>
+        <updated>2023-01-19T07:16:25.343Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:43</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[데스크라인]초연결과 융합]]></title>
+        <id>https://v.daum.net/v/20230119154304822</id>
+        <link href="https://v.daum.net/v/20230119154304822"/>
+        <updated>2023-01-19T07:16:25.348Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">15:43</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['김만배 기자 금품거래', 언론계 또 개혁하지 않는다면]]></title>
+        <id>https://v.daum.net/v/20230119154201755</id>
+        <link href="https://v.daum.net/v/20230119154201755"/>
+        <updated>2023-01-19T07:16:25.350Z</updated>
+        <content type="html"><![CDATA[미디어오늘<span class="txt_bar"> · </span><span class="info_time">15:42</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여성의 말을 자르는 남성들[플랫]]]></title>
+        <id>https://v.daum.net/v/20230119152921161</id>
+        <link href="https://v.daum.net/v/20230119152921161"/>
+        <updated>2023-01-19T07:16:25.351Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">15:29</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[데일리안 시사만평] 민주노총, 노동자 권리와 복지 위한 단체?…알고보니 북한 간첩?]]></title>
         <id>https://v.daum.net/v/20230119150701208</id>
@@ -67,47 +109,5 @@
         <link href="https://v.daum.net/v/20230119114519175"/>
         <updated>2023-01-19T02:50:20.030Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설]방첩 역량 허물고 간첩 수사 훼방한 文정부 5년]]></title>
-        <id>https://v.daum.net/v/20230119114518174</id>
-        <link href="https://v.daum.net/v/20230119114518174"/>
-        <updated>2023-01-19T02:50:20.031Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설]화물차 표준운임 도입과 ‘번호판 장사’ 퇴출 시급하다]]></title>
-        <id>https://v.daum.net/v/20230119114518173</id>
-        <link href="https://v.daum.net/v/20230119114518173"/>
-        <updated>2023-01-19T02:50:20.032Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시평]‘자체 핵 보유’의 원초적 요건]]></title>
-        <id>https://v.daum.net/v/20230119114216069</id>
-        <link href="https://v.daum.net/v/20230119114216069"/>
-        <updated>2023-01-19T02:50:20.033Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스와 시각]지속 불가능한 것들의 반격]]></title>
-        <id>https://v.daum.net/v/20230119114215068</id>
-        <link href="https://v.daum.net/v/20230119114215068"/>
-        <updated>2023-01-19T02:50:20.034Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포럼]쌍방울 대북 송금 본질과 李 연루 정황]]></title>
-        <id>https://v.daum.net/v/20230119113922936</id>
-        <link href="https://v.daum.net/v/20230119113922936"/>
-        <updated>2023-01-19T02:50:20.035Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포럼]일탈 학생 제재조차 막는 과잉 민주화]]></title>
-        <id>https://v.daum.net/v/20230119113920935</id>
-        <link href="https://v.daum.net/v/20230119113920935"/>
-        <updated>2023-01-19T02:50:20.036Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:39</span>]]></content>
     </entry>
 </feed>
