@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-01-19T16:26:30.951Z</updated>
+    <updated>2023-01-19T17:17:48.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]신년사로 본 국내 헬스케어 업체들의 경영전략]]></title>
+        <id>https://v.daum.net/v/20230120020301522</id>
+        <link href="https://v.daum.net/v/20230120020301522"/>
+        <updated>2023-01-19T17:17:32.040Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중앙시평] 추가 성장, ‘경제외적 기반’ 없이는 어렵다]]></title>
         <id>https://v.daum.net/v/20230120005631142</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230120003401022"/>
         <updated>2023-01-19T16:26:11.943Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[취재수첩] 제값 안 쳐주는 건강보험 의료체계의 함정]]></title>
-        <id>https://v.daum.net/v/20230120003303014</id>
-        <link href="https://v.daum.net/v/20230120003303014"/>
-        <updated>2023-01-19T16:26:11.945Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:33</span>]]></content>
     </entry>
 </feed>
