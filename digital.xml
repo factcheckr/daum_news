@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-01-19T11:15:53.045Z</updated>
+    <updated>2023-01-19T12:34:17.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“못해도 80만원은 그냥 깨져요” 설 명절이 골치 아픈 직장인들]]></title>
+        <id>https://v.daum.net/v/20230119205119475</id>
+        <link href="https://v.daum.net/v/20230119205119475"/>
+        <updated>2023-01-19T12:33:49.663Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">20:51</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[브릿지바이오⋅GI이노베이션⋅한국팜비오⋅큐리언트, 혁신형 제약기업 인증]]></title>
+        <id>https://v.daum.net/v/20230119204220291</id>
+        <link href="https://v.daum.net/v/20230119204220291"/>
+        <updated>2023-01-19T12:33:49.664Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">20:42</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尹 "글로벌 공급망 복원해야...한국 핵심 파트너 되겠다"]]></title>
         <id>https://v.daum.net/v/20230119200759507</id>
@@ -13,7 +27,7 @@
         <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">20:07</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“외모·학벌 따져 만나더니” 이젠 애인도 귀찮다?, ‘소개팅앱’ 급랭]]></title>
+        <title type="html"><![CDATA[“서울대끼리만 사귀자?”…‘SKY캐슬’판 만남 앱 급랭]]></title>
         <id>https://v.daum.net/v/20230119195120069</id>
         <link href="https://v.daum.net/v/20230119195120069"/>
         <updated>2023-01-19T11:15:26.740Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230119185626683"/>
         <updated>2023-01-19T10:18:28.086Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">18:56</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온오프믹스, 신입·경력 사원 모집]]></title>
-        <id>https://v.daum.net/v/20230119184558419</id>
-        <link href="https://v.daum.net/v/20230119184558419"/>
-        <updated>2023-01-19T10:18:28.086Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">18:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 퍼블리싱 강화 나선 개발 명가 크래프톤 [Oh!쎈 초점]]]></title>
-        <id>https://v.daum.net/v/20230119184316366</id>
-        <link href="https://v.daum.net/v/20230119184316366"/>
-        <updated>2023-01-19T10:18:28.087Z</updated>
-        <content type="html"><![CDATA[OSEN<span class="txt_bar"> · </span><span class="info_time">18:43</span>]]></content>
     </entry>
 </feed>
