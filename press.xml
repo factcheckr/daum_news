@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-01-20T13:24:44.725Z</updated>
+    <updated>2023-01-20T14:16:34.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Global Review 2022: GWM Expands Its Global Layout, Empowered by]]></title>
+        <id>https://v.daum.net/v/20230120231235079</id>
+        <link href="https://v.daum.net/v/20230120231235079"/>
+        <updated>2023-01-20T14:16:26.392Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">23:12</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 마하라슈트라주 주총리 Eknath Shinde, WEF에서 170억 달러 투자 유치]]></title>
+        <id>https://v.daum.net/v/20230120230111024</id>
+        <link href="https://v.daum.net/v/20230120230111024"/>
+        <updated>2023-01-20T14:16:26.400Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">23:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WEF: Importance of Compliant Solutions Takes Centrestage in Discussion on Financial Inclusion]]></title>
         <id>https://v.daum.net/v/20230120204705557</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230120160703092"/>
         <updated>2023-01-20T07:18:24.010Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">16:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[거창군, 설 명절 대비 AI·ASF·구제역 예방 총력 대응]]></title>
-        <id>https://v.daum.net/v/20230120160224934</id>
-        <link href="https://v.daum.net/v/20230120160224934"/>
-        <updated>2023-01-20T07:18:24.012Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설 연휴 맞이 키이스트 배우들의 덕담 담은 친필 연하장 공개]]></title>
-        <id>https://v.daum.net/v/20230120160016881</id>
-        <link href="https://v.daum.net/v/20230120160016881"/>
-        <updated>2023-01-20T07:18:24.013Z</updated>
-        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">16:00</span>]]></content>
     </entry>
 </feed>

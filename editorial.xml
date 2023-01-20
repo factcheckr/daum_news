@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-01-20T13:24:44.701Z</updated>
+    <updated>2023-01-20T14:16:34.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[Doyle McManus] Frozen conflict looming in Ukraine]]></title>
+        <id>https://v.daum.net/v/20230120230048022</id>
+        <link href="https://v.daum.net/v/20230120230048022"/>
+        <updated>2023-01-20T14:16:19.349Z</updated>
+        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[칼럼] 공 색깔만 봐도 고수인지 안다]]></title>
         <id>https://v.daum.net/v/20230120220901685</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230120185537982</id>
         <link href="https://v.daum.net/v/20230120185537982"/>
         <updated>2023-01-20T10:18:39.271Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">18:55</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 중대재해법 1년, 256명 사망했는데 기소는 고작 11건]]></title>
-        <id>https://v.daum.net/v/20230120185534981</id>
-        <link href="https://v.daum.net/v/20230120185534981"/>
-        <updated>2023-01-20T10:18:39.272Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">18:55</span>]]></content>
     </entry>
 </feed>
