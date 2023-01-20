@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-01-20T08:21:58.917Z</updated>
+    <updated>2023-01-20T09:17:36.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] DCO 보고서 "다자간 협력, 디지털 경제 격차 해소의 핵심"]]></title>
+        <id>https://v.daum.net/v/20230120180615426</id>
+        <link href="https://v.daum.net/v/20230120180615426"/>
+        <updated>2023-01-20T09:17:28.012Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">18:06</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] GAC MOTOR, 필리핀에서 EMPOW 및 신형 GS8 출시]]></title>
+        <id>https://v.daum.net/v/20230120172204767</id>
+        <link href="https://v.daum.net/v/20230120172204767"/>
+        <updated>2023-01-20T09:17:28.012Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:22</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] 노바백스 Nuvaxovid 코로나19 백신, 한국서 성인 대상 부스터로 승인]]></title>
         <id>https://v.daum.net/v/20230120162524522</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230120154114448"/>
         <updated>2023-01-20T07:18:24.019Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:41</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한혜진X아이키, ‘결혼 말고 동거’ MC 출격…20일 첫 방송]]></title>
-        <id>https://v.daum.net/v/20230120154019424</id>
-        <link href="https://v.daum.net/v/20230120154019424"/>
-        <updated>2023-01-20T07:18:24.020Z</updated>
-        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">15:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[관악구, 유니세프 아동친화도시 상위단계 인증 추진]]></title>
-        <id>https://v.daum.net/v/20230120153747354</id>
-        <link href="https://v.daum.net/v/20230120153747354"/>
-        <updated>2023-01-20T07:18:24.022Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">15:37</span>]]></content>
     </entry>
 </feed>
