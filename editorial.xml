@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-01-20T05:16:34.336Z</updated>
+    <updated>2023-01-20T06:21:36.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[웹 사설] 코로나 3년, 마스크는 벗지만 경기 침체 위기는 여전]]></title>
+        <id>https://v.daum.net/v/20230120144923229</id>
+        <link href="https://v.daum.net/v/20230120144923229"/>
+        <updated>2023-01-20T06:21:21.844Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">14:49</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[허연의 책과 지성] "미터법은 인쇄술 이후 인류 최고의 발명품이다" 측정의 역사를 추적한 美 철학자 겸 물리학자]]></title>
+        <id>https://v.daum.net/v/20230120144516090</id>
+        <link href="https://v.daum.net/v/20230120144516090"/>
+        <updated>2023-01-20T06:21:21.849Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">14:45</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[큐어 바이 케어 [안태환 리포트]]]></title>
         <id>https://v.daum.net/v/20230120141603310</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230120111510864"/>
         <updated>2023-01-20T02:48:01.389Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[여론마당]정치인 치적 생색내기 ‘명절 현수막’ 허용법 폐지해야]]></title>
-        <id>https://v.daum.net/v/20230120111210742</id>
-        <link href="https://v.daum.net/v/20230120111210742"/>
-        <updated>2023-01-20T02:48:01.391Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[여론마당]설 선물, 정성 가득 ‘우리 농축산물’로 준비하세요]]></title>
-        <id>https://v.daum.net/v/20230120111208741</id>
-        <link href="https://v.daum.net/v/20230120111208741"/>
-        <updated>2023-01-20T02:48:01.393Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:12</span>]]></content>
     </entry>
 </feed>
