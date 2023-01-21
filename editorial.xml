@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-01-21T09:15:51.772Z</updated>
+    <updated>2023-01-21T10:16:47.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[② [오늘의 운세] 1월 22일(음력 1월 1일) : 말띠~돼지띠 & MBTI(16가지 성향, 궁합)]]></title>
+        <id>https://v.daum.net/v/20230121190010482</id>
+        <link href="https://v.daum.net/v/20230121190010482"/>
+        <updated>2023-01-21T10:16:31.280Z</updated>
+        <content type="html"><![CDATA[웨딩21뉴스<span class="txt_bar"> · </span><span class="info_time">19:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[① [오늘의 운세] 1월 22일(음력 1월 1일) : 쥐띠~뱀띠 & MBTI(16가지 성향, 궁합)]]></title>
+        <id>https://v.daum.net/v/20230121190004479</id>
+        <link href="https://v.daum.net/v/20230121190004479"/>
+        <updated>2023-01-21T10:16:31.281Z</updated>
+        <content type="html"><![CDATA[웨딩21뉴스<span class="txt_bar"> · </span><span class="info_time">19:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송강호 마동석 이정재가 '신트로이카'라고 하는데… [라제기의 슛 & 숏]]]></title>
         <id>https://v.daum.net/v/20230121120103911</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230121062056070"/>
         <updated>2023-01-20T22:16:34.427Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">06:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 장애인 모녀 비극 막으려면 국가 책임 강화해야]]></title>
-        <id>https://v.daum.net/v/20230121043102228</id>
-        <link href="https://v.daum.net/v/20230121043102228"/>
-        <updated>2023-01-20T20:19:30.367Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 日 사도광산 세계유산 강행...징용해법에 찬물 끼얹나]]></title>
-        <id>https://v.daum.net/v/20230121043044224</id>
-        <link href="https://v.daum.net/v/20230121043044224"/>
-        <updated>2023-01-20T20:19:30.369Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
     </entry>
 </feed>
