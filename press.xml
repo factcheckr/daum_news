@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-01-21T06:19:49.148Z</updated>
+    <updated>2023-01-21T07:14:57.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 글로벌 리뷰 2022 "GWM, 산림 생태계 바탕으로 국제적 배치 확장"]]></title>
+        <id>https://v.daum.net/v/20230121152520756</id>
+        <link href="https://v.daum.net/v/20230121152520756"/>
+        <updated>2023-01-21T07:14:48.695Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">15:25</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LTIMindtree, 2023년 회계 연도 3분기 강력한 실적 보고]]></title>
         <id>https://v.daum.net/v/20230121142704201</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230121100037664</id>
         <link href="https://v.daum.net/v/20230121100037664"/>
         <updated>2023-01-21T01:15:58.643Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">10:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더넥스트제네레이션 주식회사, ‘2022 올해의 우수브랜드 대상’ 종합영양제 부문 1위 수상]]></title>
-        <id>https://v.daum.net/v/20230121100036663</id>
-        <link href="https://v.daum.net/v/20230121100036663"/>
-        <updated>2023-01-21T01:15:58.647Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">10:00</span>]]></content>
     </entry>
 </feed>
