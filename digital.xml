@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-01-21T13:21:46.241Z</updated>
+    <updated>2023-01-21T14:15:06.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유타대 아시아캠퍼스, 게임 전공 개설]]></title>
+        <id>https://v.daum.net/v/20230121224810941</id>
+        <link href="https://v.daum.net/v/20230121224810941"/>
+        <updated>2023-01-21T14:14:38.762Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">22:48</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“밖에서 치이고 안에선 논란”…광고 때문에 욕먹는 이 회사]]></title>
+        <id>https://v.daum.net/v/20230121223307873</id>
+        <link href="https://v.daum.net/v/20230121223307873"/>
+        <updated>2023-01-21T14:14:38.764Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">22:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[열흘 뒤 베일 벗는 갤럭시 S23…현재까지 공개된 정보는]]></title>
         <id>https://v.daum.net/v/20230121215833648</id>
@@ -55,7 +69,7 @@
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">20:31</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“예쁜 손 만들려다” 손톱 젤 굳히는 기기 ‘피부암’ 유발 충격]]></title>
+        <title type="html"><![CDATA[“예쁜 손 만들려다” 여성들 지나친 손톱 네일 ‘피부암’ 유발 우려]]></title>
         <id>https://v.daum.net/v/20230121185104424</id>
         <link href="https://v.daum.net/v/20230121185104424"/>
         <updated>2023-01-21T10:16:23.622Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230121161341114"/>
         <updated>2023-01-21T07:14:30.448Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">16:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방통위, 갤럭시Z4플립 14만원 등 사기판매 주의보]]></title>
-        <id>https://v.daum.net/v/20230121160508049</id>
-        <link href="https://v.daum.net/v/20230121160508049"/>
-        <updated>2023-01-21T07:14:30.448Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">16:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[갤럭시S23울트라 기본모델 159만원...판매 자료 유출]]></title>
-        <id>https://v.daum.net/v/20230121155509965</id>
-        <link href="https://v.daum.net/v/20230121155509965"/>
-        <updated>2023-01-21T07:14:30.448Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">15:55</span>]]></content>
     </entry>
 </feed>
