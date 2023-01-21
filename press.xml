@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-01-21T10:16:47.498Z</updated>
+    <updated>2023-01-21T11:16:48.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대구·경북지역 농식품 설 원산지 위반 421개 업체 적발]]></title>
+        <id>https://v.daum.net/v/20230121201010931</id>
+        <link href="https://v.daum.net/v/20230121201010931"/>
+        <updated>2023-01-21T11:16:40.522Z</updated>
+        <content type="html"><![CDATA[농민신문<span class="txt_bar"> · </span><span class="info_time">20:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 중국 광둥에서 전하는 음력 설 인사]]></title>
+        <id>https://v.daum.net/v/20230121195345830</id>
+        <link href="https://v.daum.net/v/20230121195345830"/>
+        <updated>2023-01-21T11:16:40.525Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">19:53</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[락앤락, 대학생 친환경 서포터즈 '그린메이트 20기' 모집]]></title>
         <id>https://v.daum.net/v/20230121175810019</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230121114701772"/>
         <updated>2023-01-21T03:18:15.852Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">11:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tianjin Port Group and Huawei Announce Deepening Cooperation to Build a Digital Twin of the Port]]></title>
-        <id>https://v.daum.net/v/20230121113703683</id>
-        <link href="https://v.daum.net/v/20230121113703683"/>
-        <updated>2023-01-21T02:39:45.051Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">11:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫 자이드 지속가능성상 포럼, 회복력 있는 지역사회의 구축을 위해 포용적이고 통일된 기후 조치가 필요함을 강조]]></title>
-        <id>https://v.daum.net/v/20230121112705566</id>
-        <link href="https://v.daum.net/v/20230121112705566"/>
-        <updated>2023-01-21T02:39:45.053Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">11:27</span>]]></content>
     </entry>
 </feed>
