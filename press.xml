@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-01-21T02:39:53.764Z</updated>
+    <updated>2023-01-21T03:18:24.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Tianjin Port Group과 Huawei가 항만 디지털 트윈 구축을 위한 협력 강화를 발표]]></title>
+        <id>https://v.daum.net/v/20230121114701772</id>
+        <link href="https://v.daum.net/v/20230121114701772"/>
+        <updated>2023-01-21T03:18:15.852Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">11:47</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tianjin Port Group and Huawei Announce Deepening Cooperation to Build a Digital Twin of the Port]]></title>
         <id>https://v.daum.net/v/20230121113703683</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230121085336752"/>
         <updated>2023-01-21T01:15:58.657Z</updated>
         <content type="html"><![CDATA[농민신문<span class="txt_bar"> · </span><span class="info_time">08:53</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 스타트업 누비랩, CES 2023 성과 보고회 성료]]></title>
-        <id>https://v.daum.net/v/20230121070043604</id>
-        <link href="https://v.daum.net/v/20230121070043604"/>
-        <updated>2023-01-20T22:16:42.748Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
     </entry>
 </feed>
