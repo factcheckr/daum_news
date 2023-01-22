@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2023-01-22T16:21:38.888Z</updated>
+    <updated>2023-01-22T17:14:40.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배성재 "외모 성수기는 샤워 직후"]]></title>
+        <id>https://v.daum.net/v/20230123014807392</id>
+        <link href="https://v.daum.net/v/20230123014807392"/>
+        <updated>2023-01-22T17:13:59.397Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">01:48</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[스브스夜] '미우새' 대작 드라마에 '시청률 타격'…시청률 지켜낼 '대책 토론']]></title>
+        <id>https://v.daum.net/v/20230123012700379</id>
+        <link href="https://v.daum.net/v/20230123012700379"/>
+        <updated>2023-01-22T17:13:59.398Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스<span class="txt_bar"> · </span><span class="info_time">01:27</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['김승현♥' 장정윤 "딸 수빈, 언니라 불러…아직은 데면데면" (걸환장)[종합]]]></title>
         <id>https://v.daum.net/v/20230123011008374</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230123002100257"/>
         <updated>2023-01-22T16:20:58.937Z</updated>
         <content type="html"><![CDATA[스타뉴스<span class="txt_bar"> · </span><span class="info_time">00:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미우새' 임원희, "내 딸 같은 마음이 들어"…반려견 '순덕이'에 '애정 뚝뚝']]></title>
-        <id>https://v.daum.net/v/20230123002100256</id>
-        <link href="https://v.daum.net/v/20230123002100256"/>
-        <updated>2023-01-22T16:20:58.939Z</updated>
-        <content type="html"><![CDATA[SBS연예뉴스<span class="txt_bar"> · </span><span class="info_time">00:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘만삭’ 벤, 출산 임박 “이젠 뻥 하고 터질 것 같다”]]></title>
-        <id>https://v.daum.net/v/20230123001229241</id>
-        <link href="https://v.daum.net/v/20230123001229241"/>
-        <updated>2023-01-22T15:17:58.387Z</updated>
-        <content type="html"><![CDATA[MBC연예<span class="txt_bar"> · </span><span class="info_time">00:12</span>]]></content>
     </entry>
 </feed>
