@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-01-22T12:28:32.643Z</updated>
+    <updated>2023-01-22T13:20:15.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[춘천시, 지난해 무료 와이파이로 통신비 39억 원 절감]]></title>
+        <id>https://v.daum.net/v/20230122220137672</id>
+        <link href="https://v.daum.net/v/20230122220137672"/>
+        <updated>2023-01-22T13:19:51.022Z</updated>
+        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[K-게임에 가장 돈 많이 쓰는 나라는? 카타르와 UAE]]></title>
         <id>https://v.daum.net/v/20230122204006174</id>
@@ -27,7 +34,7 @@
         <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">20:24</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[비싼 돈 주고 산 친환경 과일…“플라스틱 포장이 웬말이냐?” [지구, 뭐래?]]]></title>
+        <title type="html"><![CDATA[비싼 돈 주고 산 친환경 과일…“끔찍한 플라스틱이 웬말이냐?” [지구, 뭐래?]]]></title>
         <id>https://v.daum.net/v/20230122195128923</id>
         <link href="https://v.daum.net/v/20230122195128923"/>
         <updated>2023-01-22T11:13:54.223Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230122183018448"/>
         <updated>2023-01-22T10:17:00.133Z</updated>
         <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">18:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이번에도 덕질 필수템?‥갤S23 울트라 카메라 성능 눈길]]></title>
-        <id>https://v.daum.net/v/20230122183011444</id>
-        <link href="https://v.daum.net/v/20230122183011444"/>
-        <updated>2023-01-22T10:17:00.135Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">18:30</span>]]></content>
     </entry>
 </feed>
