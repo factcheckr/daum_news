@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-01-22T06:20:16.167Z</updated>
+    <updated>2023-01-22T07:15:03.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고(故) 강수연 유작 '정이', 하루 만에 넷플릭스 세계 1위]]></title>
+        <id>https://v.daum.net/v/20230122153516129</id>
+        <link href="https://v.daum.net/v/20230122153516129"/>
+        <updated>2023-01-22T07:14:39.071Z</updated>
+        <content type="html"><![CDATA[머니S<span class="txt_bar"> · </span><span class="info_time">15:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['킹겐' 황성훈, 잭스로 가볼까[포토]]]></title>
         <id>https://v.daum.net/v/20230122151747979</id>
@@ -83,7 +90,7 @@
         <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">15:01</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["우리가 바이러스? 왜 격리하나"…가짜뉴스에 폭발한 中 [조아라의 소프트차이나]]]></title>
+        <title type="html"><![CDATA["우리를 범죄자 취급하나"…중국인들 분노 폭발한 이유 [조아라의 소프트차이나]]]></title>
         <id>https://v.daum.net/v/20230122150102823</id>
         <link href="https://v.daum.net/v/20230122150102823"/>
         <updated>2023-01-22T06:19:49.397Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230122145800785"/>
         <updated>2023-01-22T06:19:49.403Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스<span class="txt_bar"> · </span><span class="info_time">14:58</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['킹겐' 황성훈, 2연승 가보자[포토]]]></title>
-        <id>https://v.daum.net/v/20230122145503761</id>
-        <link href="https://v.daum.net/v/20230122145503761"/>
-        <updated>2023-01-22T06:19:49.406Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스<span class="txt_bar"> · </span><span class="info_time">14:55</span>]]></content>
     </entry>
 </feed>
