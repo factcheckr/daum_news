@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-01-22T10:17:24.996Z</updated>
+    <updated>2023-01-22T11:14:17.918Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비싼 돈 주고 산 친환경 과일…“플라스틱 포장이 웬말이냐?” [지구, 뭐래?]]]></title>
+        <id>https://v.daum.net/v/20230122195128923</id>
+        <link href="https://v.daum.net/v/20230122195128923"/>
+        <updated>2023-01-22T11:13:54.223Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">19:51</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘인공지능이 와튼 MBA를 딸 수 있을까’ 실험해보니… “B학점 수준 답변 내놔”]]></title>
+        <id>https://v.daum.net/v/20230122193758835</id>
+        <link href="https://v.daum.net/v/20230122193758835"/>
+        <updated>2023-01-22T11:13:54.225Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">19:37</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['바이탈' 하인성, 밝은 미소 보이며[포토]]]></title>
         <id>https://v.daum.net/v/20230122190215658</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230122173604071"/>
         <updated>2023-01-22T09:15:28.393Z</updated>
         <content type="html"><![CDATA[연합뉴스TV<span class="txt_bar"> · </span><span class="info_time">17:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토]포낙보청기, '포낙 오데오 루미티' 선보여]]></title>
-        <id>https://v.daum.net/v/20230122171306900</id>
-        <link href="https://v.daum.net/v/20230122171306900"/>
-        <updated>2023-01-22T08:20:07.328Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">17:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토]포낙보청기, 스마트 스피치 기술 적용된 '포낙 오데오 루미티' 선보여]]></title>
-        <id>https://v.daum.net/v/20230122171255898</id>
-        <link href="https://v.daum.net/v/20230122171255898"/>
-        <updated>2023-01-22T08:20:07.328Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">17:12</span>]]></content>
     </entry>
 </feed>
