@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2023-01-23T16:24:34.556Z</updated>
+    <updated>2023-01-23T17:17:02.997Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['동상이몽2' 양은지, "남편 이호, 해외팀으로 가버렸으면" 불만 토로]]></title>
+        <id>https://v.daum.net/v/20230124013300526</id>
+        <link href="https://v.daum.net/v/20230124013300526"/>
+        <updated>2023-01-23T17:16:21.048Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스<span class="txt_bar"> · </span><span class="info_time">01:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[스브스夜] '골림픽' 50미터 단거리→드리블꽃이 피었습니다, 골때녀 세계관 최강자는?]]></title>
         <id>https://v.daum.net/v/20230124011802491</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230124001604308"/>
         <updated>2023-01-23T15:17:52.400Z</updated>
         <content type="html"><![CDATA[OSEN<span class="txt_bar"> · </span><span class="info_time">00:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['너는 내 운명' 문재완 "셋째 계획 있지만…이지혜 정책 따라야" 웃음]]></title>
-        <id>https://v.daum.net/v/20230124001450305</id>
-        <link href="https://v.daum.net/v/20230124001450305"/>
-        <updated>2023-01-23T15:17:52.402Z</updated>
-        <content type="html"><![CDATA[스포츠한국<span class="txt_bar"> · </span><span class="info_time">00:14</span>]]></content>
     </entry>
 </feed>
