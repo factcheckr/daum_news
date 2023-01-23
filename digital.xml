@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-01-23T11:17:04.911Z</updated>
+    <updated>2023-01-23T12:31:11.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[“잠 잘 온대서 5만원 주고 샀더니” 알고보니, 불면증 해소 식품은 없다]]></title>
+        <title type="html"><![CDATA[“손흥민 믿고 유료화 질렀다가” 욕만 먹고, 결국 이런일이]]></title>
+        <id>https://v.daum.net/v/20230123203343293</id>
+        <link href="https://v.daum.net/v/20230123203343293"/>
+        <updated>2023-01-23T12:30:40.902Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">20:33</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[불면증 때문에 고생…“잠 잘 온대서 5만원 주고 샀더니…”]]></title>
         <id>https://v.daum.net/v/20230123191646832</id>
         <link href="https://v.daum.net/v/20230123191646832"/>
         <updated>2023-01-23T10:18:27.620Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230123163648595"/>
         <updated>2023-01-23T08:21:36.696Z</updated>
         <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">16:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가전 렌털 업계, 非가전·케어 서비스 확대...새 먹거리 발굴 총력]]></title>
-        <id>https://v.daum.net/v/20230123160819378</id>
-        <link href="https://v.daum.net/v/20230123160819378"/>
-        <updated>2023-01-23T07:16:39.999Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">16:08</span>]]></content>
     </entry>
 </feed>
