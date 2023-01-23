@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2023-01-23T17:17:02.985Z</updated>
+    <updated>2023-01-23T18:19:51.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[가정예배 365-1월 24일] 여호와께서 함께하셨으니]]></title>
+        <id>https://v.daum.net/v/20230124030316609</id>
+        <link href="https://v.daum.net/v/20230124030316609"/>
+        <updated>2023-01-23T18:19:03.508Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">03:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[날씨] 최강 한파 온다, 서울 -17℃...강풍에 폭설까지]]></title>
         <id>https://v.daum.net/v/20230124020416565</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230124000031236"/>
         <updated>2023-01-23T15:17:42.605Z</updated>
         <content type="html"><![CDATA[엘르<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['익숙하면서도 낯설다' 건축물을 통해 느끼는 '줌의 미학' [TF포토기획]]]></title>
-        <id>https://v.daum.net/v/20230124000026233</id>
-        <link href="https://v.daum.net/v/20230124000026233"/>
-        <updated>2023-01-23T15:17:42.607Z</updated>
-        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
