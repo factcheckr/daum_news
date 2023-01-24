@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-01-24T02:40:30.080Z</updated>
+    <updated>2023-01-24T03:18:21.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최태원 제안 ‘사회성과인센티브', 다보스포럼서 호평]]></title>
+        <id>https://v.daum.net/v/20230124114129394</id>
+        <link href="https://v.daum.net/v/20230124114129394"/>
+        <updated>2023-01-24T03:18:12.938Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">11:41</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김준 SK이노 부회장 "신입사원, 세상 움직이는 원동력 돼 달라"]]></title>
         <id>https://v.daum.net/v/20230124113112223</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230124101702947"/>
         <updated>2023-01-24T01:18:08.773Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">10:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morrow Sodali, 글로벌 주요 은행 30곳의 지속 가능성 거버넌스 관행 연구 보고서 발간]]></title>
-        <id>https://v.daum.net/v/20230124095702579</id>
-        <link href="https://v.daum.net/v/20230124095702579"/>
-        <updated>2023-01-24T01:18:08.780Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">09:57</span>]]></content>
     </entry>
 </feed>
