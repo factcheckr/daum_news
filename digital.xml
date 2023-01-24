@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-01-24T10:18:16.180Z</updated>
+    <updated>2023-01-24T11:14:38.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“우리 전에 얘기했던 거 알지?”…영화처럼 AI와 ‘감성대화’ 나눈다]]></title>
+        <id>https://v.daum.net/v/20230124201200371</id>
+        <link href="https://v.daum.net/v/20230124201200371"/>
+        <updated>2023-01-24T11:14:11.276Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">20:12</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최강 한파에 포켓몬 GO 다시 시작한 이유는?]]></title>
+        <id>https://v.daum.net/v/20230124195851265</id>
+        <link href="https://v.daum.net/v/20230124195851265"/>
+        <updated>2023-01-24T11:14:11.276Z</updated>
+        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">19:58</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BELGIUM EU SPACE CONFERENCE]]></title>
+        <id>https://v.daum.net/v/20230124192416050</id>
+        <link href="https://v.daum.net/v/20230124192416050"/>
+        <updated>2023-01-24T11:14:11.276Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">19:24</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안전·측정 효율성 UP… `생활 속 전자파` 우려 차단]]></title>
         <id>https://v.daum.net/v/20230124191631986</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230124183034511"/>
         <updated>2023-01-24T10:17:51.376Z</updated>
         <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">18:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["항생제 사용 줄이자" 생명연, 고감도 세포선별 시스템 개발]]></title>
-        <id>https://v.daum.net/v/20230124182606462</id>
-        <link href="https://v.daum.net/v/20230124182606462"/>
-        <updated>2023-01-24T10:17:51.377Z</updated>
-        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">18:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에너지밀도 30% 향상된 고성능 리튬-황 전지 나왔다]]></title>
-        <id>https://v.daum.net/v/20230124182605461</id>
-        <link href="https://v.daum.net/v/20230124182605461"/>
-        <updated>2023-01-24T10:17:51.378Z</updated>
-        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">18:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BELGIUM EU SPACE CONFERENCE]]></title>
-        <id>https://v.daum.net/v/20230124182204417</id>
-        <link href="https://v.daum.net/v/20230124182204417"/>
-        <updated>2023-01-24T10:17:51.383Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">18:22</span>]]></content>
     </entry>
 </feed>
