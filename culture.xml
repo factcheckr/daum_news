@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2023-01-24T16:22:52.305Z</updated>
+    <updated>2023-01-24T17:15:39.416Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 최강 한파 오늘 절정, 서울 -18℃...서해안 많은 눈]]></title>
+        <id>https://v.daum.net/v/20230125015400025</id>
+        <link href="https://v.daum.net/v/20230125015400025"/>
+        <updated>2023-01-24T17:14:50.323Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">01:54</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최강 한파와 함께하는 일상⋯25일 오전 경기 북부 체감기온 ‘영하 30℃ 이하’]]></title>
         <id>https://v.daum.net/v/20230125010115914</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230125000302683"/>
         <updated>2023-01-24T15:16:31.692Z</updated>
         <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쏠퀴즈(쏠야구) 정답 1월 25일]]></title>
-        <id>https://v.daum.net/v/20230125000301680</id>
-        <link href="https://v.daum.net/v/20230125000301680"/>
-        <updated>2023-01-24T15:16:31.694Z</updated>
-        <content type="html"><![CDATA[bnt뉴스<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-01-24T16:22:52.318Z</updated>
+    <updated>2023-01-24T17:15:39.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]양·한방의 레이저 공유가 레이저 의료일원화다]]></title>
+        <id>https://v.daum.net/v/20230125020506043</id>
+        <link href="https://v.daum.net/v/20230125020506043"/>
+        <updated>2023-01-24T17:15:22.621Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]'자통'에 포획된 민노총과 노동개혁]]></title>
+        <id>https://v.daum.net/v/20230125020501042</id>
+        <link href="https://v.daum.net/v/20230125020501042"/>
+        <updated>2023-01-24T17:15:22.624Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[염재호 칼럼] ‘뷰카 시대’의 사회시스템]]></title>
         <id>https://v.daum.net/v/20230125005431893</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230125003228837"/>
         <updated>2023-01-24T16:22:36.182Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 톡픽(TalkPick)] “일상적 성차별이 폭력적 성차별로 이어진다”]]></title>
-        <id>https://v.daum.net/v/20230125003028830</id>
-        <link href="https://v.daum.net/v/20230125003028830"/>
-        <updated>2023-01-24T16:22:36.183Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이학영 칼럼] 좌파가 '진보'일 수 없는 이유]]></title>
-        <id>https://v.daum.net/v/20230125003005827</id>
-        <link href="https://v.daum.net/v/20230125003005827"/>
-        <updated>2023-01-24T16:22:36.184Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
     </entry>
 </feed>
