@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-01-24T04:20:40.417Z</updated>
+    <updated>2023-01-24T05:15:33.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[동해시 '해오름 유아숲 체험원' 확대 운영…산림교육·체험 프로그램 활성화]]></title>
+        <id>https://v.daum.net/v/20230124140243509</id>
+        <link href="https://v.daum.net/v/20230124140243509"/>
+        <updated>2023-01-24T05:15:26.146Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">14:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안전사고 경각심 커지며 'AED' 관심 집중]]></title>
+        <id>https://v.daum.net/v/20230124132941889</id>
+        <link href="https://v.daum.net/v/20230124132941889"/>
+        <updated>2023-01-24T05:15:26.146Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">13:29</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최태원 제안 ‘사회성과인센티브', 다보스포럼서 호평]]></title>
         <id>https://v.daum.net/v/20230124114129394</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230124103702301"/>
         <updated>2023-01-24T02:40:21.792Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">10:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Ireland Becomes Newest FINEOS Client]]></title>
-        <id>https://v.daum.net/v/20230124101703948</id>
-        <link href="https://v.daum.net/v/20230124101703948"/>
-        <updated>2023-01-24T01:18:08.772Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">10:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최신 FINEOS 클라이언트가 된 New Ireland]]></title>
-        <id>https://v.daum.net/v/20230124101702947</id>
-        <link href="https://v.daum.net/v/20230124101702947"/>
-        <updated>2023-01-24T01:18:08.773Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">10:17</span>]]></content>
     </entry>
 </feed>
