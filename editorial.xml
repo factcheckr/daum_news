@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-01-25T16:23:01.171Z</updated>
+    <updated>2023-01-25T17:15:38.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]AI인공지능이 비즈니스에서 실패하는 이유]]></title>
+        <id>https://v.daum.net/v/20230126020304750</id>
+        <link href="https://v.daum.net/v/20230126020304750"/>
+        <updated>2023-01-25T17:15:20.322Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]시베리아 횡단철도의 환상]]></title>
+        <id>https://v.daum.net/v/20230126020302748</id>
+        <link href="https://v.daum.net/v/20230126020302748"/>
+        <updated>2023-01-25T17:15:20.322Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[진중권 칼럼] 정신의 바바리맨들]]></title>
         <id>https://v.daum.net/v/20230126010358536</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230126004616352"/>
         <updated>2023-01-25T16:22:42.466Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:46</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[e글중심] 난방비 폭탄 아우성 “정부가 관리했어야” “가스비 인상 불가피”]]></title>
-        <id>https://v.daum.net/v/20230126004336346</id>
-        <link href="https://v.daum.net/v/20230126004336346"/>
-        <updated>2023-01-25T16:22:42.468Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 톡픽(TalkPick)] “꺼림칙한 교제는 아니었다”]]></title>
-        <id>https://v.daum.net/v/20230126004306344</id>
-        <link href="https://v.daum.net/v/20230126004306344"/>
-        <updated>2023-01-25T16:22:42.475Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:43</span>]]></content>
     </entry>
 </feed>
