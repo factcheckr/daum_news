@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-01-26T05:16:37.290Z</updated>
+    <updated>2023-01-26T06:37:40.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[양경미의 영화로 보는 세상] 항일영화, 흥행실패의 이유]]></title>
+        <id>https://v.daum.net/v/20230126144002701</id>
+        <link href="https://v.daum.net/v/20230126144002701"/>
+        <updated>2023-01-26T06:36:10.326Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">14:40</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인사] 농촌진흥청]]></title>
         <id>https://v.daum.net/v/20230126140101878</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230126112353520"/>
         <updated>2023-01-26T02:42:52.309Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:23</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시시비비]세종문화화관 클래식 전용홀, 내실도 중요]]></title>
-        <id>https://v.daum.net/v/20230126112259486</id>
-        <link href="https://v.daum.net/v/20230126112259486"/>
-        <updated>2023-01-26T02:42:52.311Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:22</span>]]></content>
     </entry>
 </feed>
