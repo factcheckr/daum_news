@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-01-27T22:16:43.480Z</updated>
+    <updated>2023-01-27T23:16:42.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴스'까'페] 개미도 홀린 '뉴진스 신드롬'…증권가도 예의주시]]></title>
+        <id>https://v.daum.net/v/20230128080306458</id>
+        <link href="https://v.daum.net/v/20230128080306458"/>
+        <updated>2023-01-27T23:16:27.247Z</updated>
+        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">08:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[이한주의 테크 오디세이]클라우드 활성화를 위한 조건]]></title>
+        <id>https://v.daum.net/v/20230128080056421</id>
+        <link href="https://v.daum.net/v/20230128080056421"/>
+        <updated>2023-01-27T23:16:27.250Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[글로벌 현장에서]유로존·솅겐 동시 가입···비상하는 크로아티아]]></title>
+        <id>https://v.daum.net/v/20230128080050419</id>
+        <link href="https://v.daum.net/v/20230128080050419"/>
+        <updated>2023-01-27T23:16:27.252Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중국 누리꾼 억지 반중정서 부추긴다 [하재근의 이슈분석]]]></title>
         <id>https://v.daum.net/v/20230128070707068</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230128040421972"/>
         <updated>2023-01-27T19:14:15.703Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[역사로 내리는 커피] 돌체다방이 사라진 명동]]></title>
-        <id>https://v.daum.net/v/20230128040419971</id>
-        <link href="https://v.daum.net/v/20230128040419971"/>
-        <updated>2023-01-27T19:14:15.704Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데스크 칼럼] 우리금융 차기 회장 논란, 핵심은 관치가 아니다]]></title>
-        <id>https://v.daum.net/v/20230128040152968</id>
-        <link href="https://v.daum.net/v/20230128040152968"/>
-        <updated>2023-01-27T19:14:15.705Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">04:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 우리 아이들이 마주할 수밖에 없는 암울한 대한민국]]></title>
-        <id>https://v.daum.net/v/20230128032721927</id>
-        <link href="https://v.daum.net/v/20230128032721927"/>
-        <updated>2023-01-27T19:14:15.708Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:27</span>]]></content>
     </entry>
 </feed>
