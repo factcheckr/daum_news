@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-01-27T03:18:21.755Z</updated>
+    <updated>2023-01-27T04:20:47.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이재명 검찰 출석 D-1…"조용하게 수사 받길" "마녀사냥식 여론재판"]]></title>
+        <id>https://v.daum.net/v/20230127130214975</id>
+        <link href="https://v.daum.net/v/20230127130214975"/>
+        <updated>2023-01-27T04:20:22.210Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV<span class="txt_bar"> · </span><span class="info_time">13:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[시사컬처]연말연시 대리운전 모범 이용기②]]></title>
+        <id>https://v.daum.net/v/20230127130034947</id>
+        <link href="https://v.daum.net/v/20230127130034947"/>
+        <updated>2023-01-27T04:20:22.214Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">13:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설]‘백현동 피의자’도 된 李 더 이상 묵비권 뒤에 숨지 말라]]></title>
         <id>https://v.daum.net/v/20230127114853837</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230127113308357"/>
         <updated>2023-01-27T02:45:00.818Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:33</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[초동시각]지방 소멸과 한 달 살이]]></title>
-        <id>https://v.daum.net/v/20230127113114286</id>
-        <link href="https://v.daum.net/v/20230127113114286"/>
-        <updated>2023-01-27T02:45:00.819Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[의학칼럼] 종류 다양한 시력교정술… 안전성과 만족도 높이려면?]]></title>
-        <id>https://v.daum.net/v/20230127111959820</id>
-        <link href="https://v.daum.net/v/20230127111959820"/>
-        <updated>2023-01-27T02:45:00.821Z</updated>
-        <content type="html"><![CDATA[헬스조선<span class="txt_bar"> · </span><span class="info_time">11:19</span>]]></content>
     </entry>
 </feed>
