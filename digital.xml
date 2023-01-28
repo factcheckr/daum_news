@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-01-28T10:17:11.668Z</updated>
+    <updated>2023-01-28T11:14:23.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“2600만원 쥐꼬리 연봉도 서러운데” 노동강도는 1억 연봉자보다 더 쎄다]]></title>
+        <id>https://v.daum.net/v/20230128200307434</id>
+        <link href="https://v.daum.net/v/20230128200307434"/>
+        <updated>2023-01-28T11:13:52.783Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">20:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스튜디오비사이드, 신작 '프로젝트 스타' 공개]]></title>
+        <id>https://v.daum.net/v/20230128194554350</id>
+        <link href="https://v.daum.net/v/20230128194554350"/>
+        <updated>2023-01-28T11:13:52.784Z</updated>
+        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">19:45</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“입원해도 인사만 하고 쌩” 몸값 높아진 의사 얼굴 보기도 힘들다?]]></title>
         <id>https://v.daum.net/v/20230128185104079</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230128170003260"/>
         <updated>2023-01-28T08:20:01.442Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">17:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍영기 인디게임협회 "인디개발자 돕기 위해 다양한 행사 열 것"]]></title>
-        <id>https://v.daum.net/v/20230128161730945</id>
-        <link href="https://v.daum.net/v/20230128161730945"/>
-        <updated>2023-01-28T08:20:01.442Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">16:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강추위와 큰 눈 속에서도 에어컨 새 제품을 뽐내는 까닭은]]></title>
-        <id>https://v.daum.net/v/20230128160004779</id>
-        <link href="https://v.daum.net/v/20230128160004779"/>
-        <updated>2023-01-28T07:14:59.340Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">16:00</span>]]></content>
     </entry>
 </feed>
