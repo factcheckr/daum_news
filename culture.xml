@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2023-01-28T17:16:39.222Z</updated>
+    <updated>2023-01-28T18:19:02.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[가정예배 365-1월 29일] 안심(安心)]]></title>
+        <id>https://v.daum.net/v/20230129030113097</id>
+        <link href="https://v.daum.net/v/20230129030113097"/>
+        <updated>2023-01-28T18:18:12.880Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">03:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023년 트렌드 세터가 되어보자, 레이첼콕스 플랫슈즈 'Ophlia']]></title>
         <id>https://v.daum.net/v/20230129020002065</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230129000034802"/>
         <updated>2023-01-28T15:15:44.255Z</updated>
         <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인플루언서 프리즘] 사회실험 유튜브, '아직 살 만한 세상' 보여주며 각광]]></title>
-        <id>https://v.daum.net/v/20230129000028799</id>
-        <link href="https://v.daum.net/v/20230129000028799"/>
-        <updated>2023-01-28T15:15:44.258Z</updated>
-        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
