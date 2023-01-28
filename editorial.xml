@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-01-28T02:43:16.053Z</updated>
+    <updated>2023-01-28T03:18:25.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[클라우드 전쟁터 된 중동 [최연진의 IT 프리즘]]]></title>
+        <id>https://v.daum.net/v/20230128120004996</id>
+        <link href="https://v.daum.net/v/20230128120004996"/>
+        <updated>2023-01-28T03:18:08.403Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">12:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이재명, "검찰 모든 질문에 서명서로 갈음"]]></title>
         <id>https://v.daum.net/v/20230128110236385</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230128043022019</id>
         <link href="https://v.daum.net/v/20230128043022019"/>
         <updated>2023-01-27T20:17:50.857Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 더 빨라진 연금고갈 시계...개혁 속도 내야]]></title>
-        <id>https://v.daum.net/v/20230128043016015</id>
-        <link href="https://v.daum.net/v/20230128043016015"/>
-        <updated>2023-01-27T20:17:50.858Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
     </entry>
 </feed>
