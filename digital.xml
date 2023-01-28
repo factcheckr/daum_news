@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-01-28T07:15:27.906Z</updated>
+    <updated>2023-01-28T08:20:30.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[자전거 '덕후'를 뽑는 스타트업…취향 넘치는 사람들이 환영받는 일터 [인턴 H가 간다]]]></title>
+        <id>https://v.daum.net/v/20230128170003260</id>
+        <link href="https://v.daum.net/v/20230128170003260"/>
+        <updated>2023-01-28T08:20:01.442Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">17:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[홍영기 인디게임협회 "인디개발자 돕기 위해 다양한 행사 열 것"]]></title>
+        <id>https://v.daum.net/v/20230128161730945</id>
+        <link href="https://v.daum.net/v/20230128161730945"/>
+        <updated>2023-01-28T08:20:01.442Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">16:17</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강추위와 큰 눈 속에서도 에어컨 새 제품을 뽐내는 까닭은]]></title>
         <id>https://v.daum.net/v/20230128160004779</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230128152029470"/>
         <updated>2023-01-28T07:14:59.357Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스<span class="txt_bar"> · </span><span class="info_time">15:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['칸나' 김창동, 여기는 탑입니다[포토]]]></title>
-        <id>https://v.daum.net/v/20230128152002464</id>
-        <link href="https://v.daum.net/v/20230128152002464"/>
-        <updated>2023-01-28T07:14:59.358Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스<span class="txt_bar"> · </span><span class="info_time">15:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['켈린' 김형규, 마이크 체크[포토]]]></title>
-        <id>https://v.daum.net/v/20230128151916462</id>
-        <link href="https://v.daum.net/v/20230128151916462"/>
-        <updated>2023-01-28T06:19:23.954Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스<span class="txt_bar"> · </span><span class="info_time">15:19</span>]]></content>
     </entry>
 </feed>
