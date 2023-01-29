@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2023-01-29T16:23:31.697Z</updated>
+    <updated>2023-01-29T17:14:52.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[명절 지나 처치곤란 설 음식들…재탄생 시키는 마법의 레시피 5]]></title>
+        <id>https://v.daum.net/v/20230130015228376</id>
+        <link href="https://v.daum.net/v/20230130015228376"/>
+        <updated>2023-01-29T17:14:04.471Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">01:52</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[폐기능 급격 저하 땐 폐쇄성폐질환 발병 ↑]]></title>
         <id>https://v.daum.net/v/20230130010301299</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230130000300080"/>
         <updated>2023-01-29T15:17:25.719Z</updated>
         <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[삼성화재배 AI와 함께하는 바둑 해설] 싸움꾼들의 평화]]></title>
-        <id>https://v.daum.net/v/20230130000246074</id>
-        <link href="https://v.daum.net/v/20230130000246074"/>
-        <updated>2023-01-29T15:17:25.721Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
     </entry>
 </feed>
