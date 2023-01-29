@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-01-29T06:22:59.846Z</updated>
+    <updated>2023-01-29T07:17:01.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여당, 해상풍력 초점 '보급 촉진 특별법' 발의 추진]]></title>
+        <id>https://v.daum.net/v/20230129160116784</id>
+        <link href="https://v.daum.net/v/20230129160116784"/>
+        <updated>2023-01-29T07:16:51.222Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">16:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[법제처, 구리시의 개방형 임기제 부시장 채용에 대해 불가 결정]]></title>
+        <id>https://v.daum.net/v/20230129154930582</id>
+        <link href="https://v.daum.net/v/20230129154930582"/>
+        <updated>2023-01-29T07:16:51.223Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">15:49</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[두산에너빌리티, 친환경 수소터빈 국산화 속도 낸다]]></title>
         <id>https://v.daum.net/v/20230129150409729</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230129110553041"/>
         <updated>2023-01-29T02:49:44.536Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">11:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LG그램 '무신사·뉴진스와 콜라보' 패션 트렌드 선도]]></title>
-        <id>https://v.daum.net/v/20230129104831726</id>
-        <link href="https://v.daum.net/v/20230129104831726"/>
-        <updated>2023-01-29T02:49:44.537Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">10:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이석용 행장 "금융소비자 신뢰가 금융기관 경쟁력" 강조]]></title>
-        <id>https://v.daum.net/v/20230129103722551</id>
-        <link href="https://v.daum.net/v/20230129103722551"/>
-        <updated>2023-01-29T02:49:44.538Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">10:37</span>]]></content>
     </entry>
 </feed>

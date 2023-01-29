@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-01-29T06:22:59.842Z</updated>
+    <updated>2023-01-29T07:17:01.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[윤 대통령은 ‘왕’이 되고 싶은 건가 [눈 떠보니 후진국 4]]]></title>
+        <title type="html"><![CDATA[[사설]해킹에 이렇게 쉽게 당해서야]]></title>
+        <id>https://v.daum.net/v/20230129160119786</id>
+        <link href="https://v.daum.net/v/20230129160119786"/>
+        <updated>2023-01-29T07:16:41.835Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">16:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사설]전기화물차 보조금 조정해야]]></title>
+        <id>https://v.daum.net/v/20230129160105777</id>
+        <link href="https://v.daum.net/v/20230129160105777"/>
+        <updated>2023-01-29T07:16:41.835Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">16:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[유레카] 정략에 밀린 ‘비동의 강간죄’]]></title>
+        <id>https://v.daum.net/v/20230129152501132</id>
+        <link href="https://v.daum.net/v/20230129152501132"/>
+        <updated>2023-01-29T07:16:41.835Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">15:25</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤 대통령은 ‘왕’이 되고 싶은 건가 - 눈 떠보니 후진국 4]]></title>
         <id>https://v.daum.net/v/20230129140003515</id>
         <link href="https://v.daum.net/v/20230129140003515"/>
         <updated>2023-01-29T05:15:12.403Z</updated>
@@ -88,12 +109,5 @@
         <link href="https://v.daum.net/v/20230129002627924"/>
         <updated>2023-01-28T16:21:00.860Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전화성의 기술창업 Targeting]〈247〉행동경제학과 MBTI의 연관성 그리고 큐레이션커머스]]></title>
-        <id>https://v.daum.net/v/20230129000105810</id>
-        <link href="https://v.daum.net/v/20230129000105810"/>
-        <updated>2023-01-28T15:16:17.215Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
     </entry>
 </feed>
