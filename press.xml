@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-01-29T08:20:12.132Z</updated>
+    <updated>2023-01-29T09:15:52.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[진안군, 학동마을 '얼음 썰매장' 개장]]></title>
+        <id>https://v.daum.net/v/20230129172448397</id>
+        <link href="https://v.daum.net/v/20230129172448397"/>
+        <updated>2023-01-29T09:15:43.872Z</updated>
+        <content type="html"><![CDATA[투어코리아<span class="txt_bar"> · </span><span class="info_time">17:24</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여당, 해상풍력 초점 '보급 촉진 특별법' 발의 추진]]></title>
         <id>https://v.daum.net/v/20230129160116784</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230129111701245"/>
         <updated>2023-01-29T02:49:44.535Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">11:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기업 10곳 중 4곳 "올해도 원자재 가격 오를 것" 리쇼어링 검토도]]></title>
-        <id>https://v.daum.net/v/20230129110553041</id>
-        <link href="https://v.daum.net/v/20230129110553041"/>
-        <updated>2023-01-29T02:49:44.536Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">11:05</span>]]></content>
     </entry>
 </feed>

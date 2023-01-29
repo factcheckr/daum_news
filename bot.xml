@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-01-29T08:20:12.215Z</updated>
+    <updated>2023-01-29T09:15:52.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2023년 01월 29일)]]></title>
+        <id>https://v.daum.net/v/20230129173213536</id>
+        <link href="https://v.daum.net/v/20230129173213536"/>
+        <updated>2023-01-29T09:15:52.047Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:32</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가상화폐 카바 상승세... 전일대비 +5.44%]]></title>
         <id>https://v.daum.net/v/20230129163118394</id>
