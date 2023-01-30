@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2023-01-30T16:23:07.531Z</updated>
+    <updated>2023-01-30T17:16:26.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴욕증시, FOMC 정례회의 앞두고 혼조세 출발]]></title>
+        <id>https://v.daum.net/v/20230131011816357</id>
+        <link href="https://v.daum.net/v/20230131011816357"/>
+        <updated>2023-01-30T17:15:19.015Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">01:18</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삼성중공업, 2022년 영업적자 8544억원…“올해 영업이익 2000억원 전망”]]></title>
         <id>https://v.daum.net/v/20230131010543329</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230131010358287</id>
         <link href="https://v.daum.net/v/20230131010358287"/>
         <updated>2023-01-30T16:21:59.615Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진에어, 코로나 이후 15분기 만에 흑자전환… LCC 중 처음]]></title>
-        <id>https://v.daum.net/v/20230131010356286</id>
-        <link href="https://v.daum.net/v/20230131010356286"/>
-        <updated>2023-01-30T16:21:59.616Z</updated>
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:03</span>]]></content>
     </entry>
 </feed>
