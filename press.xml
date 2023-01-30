@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-01-30T09:17:54.641Z</updated>
+    <updated>2023-01-30T10:19:23.801Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“안전과 미관 모두 잡았네요”⋯거창 주상면, 마을 골목길 친환경 태양광 LED 조명등 설치 ‘호응’]]></title>
+        <id>https://v.daum.net/v/20230130190935558</id>
+        <link href="https://v.daum.net/v/20230130190935558"/>
+        <updated>2023-01-30T10:19:15.794Z</updated>
+        <content type="html"><![CDATA[농민신문<span class="txt_bar"> · </span><span class="info_time">19:09</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 인앱터 AG, 한국으로부터 중요 주문 수주]]></title>
+        <id>https://v.daum.net/v/20230130183713022</id>
+        <link href="https://v.daum.net/v/20230130183713022"/>
+        <updated>2023-01-30T10:19:15.794Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">18:37</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지아이이노베이션, 코스닥 상장 증권신고서 제출… 3월 상장 목표]]></title>
         <id>https://v.daum.net/v/20230130180704315</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230130170018172"/>
         <updated>2023-01-30T08:25:45.044Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">17:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울주택도시공사, '주거약자와의 동행' 실행을 위한 조직개편 단행]]></title>
-        <id>https://v.daum.net/v/20230130165645062</id>
-        <link href="https://v.daum.net/v/20230130165645062"/>
-        <updated>2023-01-30T08:25:45.045Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:56</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['무엇이든 물어보살' 의뢰인 "20분마다 화장실 가고 싶은 '변의 강박', 벗어나고 싶어요"]]></title>
-        <id>https://v.daum.net/v/20230130165015846</id>
-        <link href="https://v.daum.net/v/20230130165015846"/>
-        <updated>2023-01-30T08:25:45.048Z</updated>
-        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">16:50</span>]]></content>
     </entry>
 </feed>
