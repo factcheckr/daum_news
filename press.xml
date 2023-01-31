@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-01-31T02:48:41.922Z</updated>
+    <updated>2023-01-31T03:20:12.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[커스텀미, 일대일 맞춤형 스킨케어 ‘비스포크 에센스’ 출시]]></title>
+        <id>https://v.daum.net/v/20230131120705031</id>
+        <link href="https://v.daum.net/v/20230131120705031"/>
+        <updated>2023-01-31T03:20:01.391Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">12:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서대문청소년센터, 2023년 겨울방학 청소년 동행캠프 ‘서대문 윈터스쿨’ 성황리 종료]]></title>
+        <id>https://v.daum.net/v/20230131120703028</id>
+        <link href="https://v.daum.net/v/20230131120703028"/>
+        <updated>2023-01-31T03:20:01.392Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">12:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[현대일렉트릭, 1100억원 규모 변압기 수주]]></title>
+        <id>https://v.daum.net/v/20230131115701556</id>
+        <link href="https://v.daum.net/v/20230131115701556"/>
+        <updated>2023-01-31T03:20:01.394Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">11:57</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국나눔연맹, 계묘년 맞아 토끼띠 독거노인 합동생신잔치 개최]]></title>
+        <id>https://v.daum.net/v/20230131115504513</id>
+        <link href="https://v.daum.net/v/20230131115504513"/>
+        <updated>2023-01-31T03:20:01.395Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">11:55</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다이어터 다 드루와~! 군침 도는 글루텐 프리 베이커리 맛집]]></title>
         <id>https://v.daum.net/v/20230131114423040</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230131112146852"/>
         <updated>2023-01-31T02:48:30.145Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VIVIZ(비비지), 31일 미니 3집 ‘VarioUS’ 발매…‘PULL UP’으로 보여줄 당찬 변신]]></title>
-        <id>https://v.daum.net/v/20230131112022777</id>
-        <link href="https://v.daum.net/v/20230131112022777"/>
-        <updated>2023-01-31T02:48:30.149Z</updated>
-        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">11:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 강화군, 고품질 고추 생산의 첫걸음…육묘기술 지도]]></title>
-        <id>https://v.daum.net/v/20230131111910712</id>
-        <link href="https://v.daum.net/v/20230131111910712"/>
-        <updated>2023-01-31T02:48:30.150Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:19</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성남시, 경기도종합체육대회 공식 홈페이지 개설]]></title>
-        <id>https://v.daum.net/v/20230131111443486</id>
-        <link href="https://v.daum.net/v/20230131111443486"/>
-        <updated>2023-01-31T02:48:30.150Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사이버한국외대, 2023학년도 1학기 신·편입생 2차 모집]]></title>
-        <id>https://v.daum.net/v/20230131111257422</id>
-        <link href="https://v.daum.net/v/20230131111257422"/>
-        <updated>2023-01-31T02:48:30.151Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">11:12</span>]]></content>
     </entry>
 </feed>
