@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-01-31T10:18:32.510Z</updated>
+    <updated>2023-01-31T13:27:52.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[2023년 신년인터뷰] 차준택 인천 부평구청장]]></title>
+        <id>https://v.daum.net/v/20230131201355103</id>
+        <link href="https://v.daum.net/v/20230131201355103"/>
+        <updated>2023-01-31T13:27:43.370Z</updated>
+        <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">20:13</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이충우 여주시장 "여주시 청렴도 1위 쾌거는 시민이 만든 것"]]></title>
+        <id>https://v.daum.net/v/20230131192535268</id>
+        <link href="https://v.daum.net/v/20230131192535268"/>
+        <updated>2023-01-31T13:27:43.379Z</updated>
+        <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">19:25</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인천 연수구노인인력개발센터, 어르신 일자리 창출에 집중]]></title>
         <id>https://v.daum.net/v/20230131190612972</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230131172822469"/>
         <updated>2023-01-31T09:17:17.494Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">17:28</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용산청소년문화의집, 청소년 요리조리 베이커리 진행]]></title>
-        <id>https://v.daum.net/v/20230131172710422</id>
-        <link href="https://v.daum.net/v/20230131172710422"/>
-        <updated>2023-01-31T09:17:17.495Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Faraday Announces Multi-Site Manufacturing Support in ASIC]]></title>
-        <id>https://v.daum.net/v/20230131172704410</id>
-        <link href="https://v.daum.net/v/20230131172704410"/>
-        <updated>2023-01-31T09:17:17.496Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:27</span>]]></content>
     </entry>
 </feed>
