@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-02-01T08:26:11.818Z</updated>
+    <updated>2023-02-01T10:19:14.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2023년 02월 01일)]]></title>
+        <id>https://v.daum.net/v/20230201173221971</id>
+        <link href="https://v.daum.net/v/20230201173221971"/>
+        <updated>2023-02-01T10:19:13.548Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:32</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가상화폐 누사이퍼 상승세... 전일대비 +2.75%]]></title>
         <id>https://v.daum.net/v/20230201163123923</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230201150540442"/>
         <updated>2023-02-01T06:22:31.346Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">15:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용인 상갈동 금화마을주공3단지 59㎡ 3억5000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230201150048238</id>
-        <link href="https://v.daum.net/v/20230201150048238"/>
-        <updated>2023-02-01T06:22:31.348Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">15:00</span>]]></content>
     </entry>
 </feed>
