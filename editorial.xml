@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-02-01T22:17:19.117Z</updated>
+    <updated>2023-02-01T23:17:56.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[역사속 오늘]스탈린그라드 전투가 끝나다]]></title>
+        <id>https://v.daum.net/v/20230202080035646</id>
+        <link href="https://v.daum.net/v/20230202080035646"/>
+        <updated>2023-02-01T23:17:36.166Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[우보세]은행 영업시간, 비정상의 정상화]]></title>
+        <id>https://v.daum.net/v/20230202080033644</id>
+        <link href="https://v.daum.net/v/20230202080033644"/>
+        <updated>2023-02-01T23:17:36.167Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[시론]다양성 확대가 혁신의 길이다]]></title>
+        <id>https://v.daum.net/v/20230202080027640</id>
+        <link href="https://v.daum.net/v/20230202080027640"/>
+        <updated>2023-02-01T23:17:36.167Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](2일 조간)]]></title>
+        <id>https://v.daum.net/v/20230202080016627</id>
+        <link href="https://v.daum.net/v/20230202080016627"/>
+        <updated>2023-02-01T23:17:36.167Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[청년 청소부이자 작가인 N잡러의 ‘나 다운 삶’을 산다는 것]]></title>
         <id>https://v.daum.net/v/20230202070511795</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230202053044504"/>
         <updated>2023-02-01T21:15:36.222Z</updated>
         <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Editorial] Remittance connection]]></title>
-        <id>https://v.daum.net/v/20230202053025502</id>
-        <link href="https://v.daum.net/v/20230202053025502"/>
-        <updated>2023-02-01T21:15:36.223Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뒤끝작렬]신상진 시장은 성남FC 투자 유치 '어떻게'에 답해야]]></title>
-        <id>https://v.daum.net/v/20230202052700467</id>
-        <link href="https://v.daum.net/v/20230202052700467"/>
-        <updated>2023-02-01T21:15:36.230Z</updated>
-        <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">05:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[길섶에서] 등대지기/박록삼 논설위원]]></title>
-        <id>https://v.daum.net/v/20230202050345203</id>
-        <link href="https://v.daum.net/v/20230202050345203"/>
-        <updated>2023-02-01T20:17:50.768Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[씨줄날줄] 보잉 747/서동철 논설위원]]></title>
-        <id>https://v.daum.net/v/20230202050343202</id>
-        <link href="https://v.daum.net/v/20230202050343202"/>
-        <updated>2023-02-01T20:17:50.768Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
     </entry>
 </feed>
