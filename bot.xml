@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-02-01T07:20:19.421Z</updated>
+    <updated>2023-02-01T08:26:11.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가상화폐 누사이퍼 상승세... 전일대비 +2.75%]]></title>
+        <id>https://v.daum.net/v/20230201163123923</id>
+        <link href="https://v.daum.net/v/20230201163123923"/>
+        <updated>2023-02-01T08:26:11.217Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">16:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[fnRASSI]장마감, 코스닥 하락 종목(갤럭시아머니트리 -13.4% ↓)]]></title>
         <id>https://v.daum.net/v/20230201154149883</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230201150048238"/>
         <updated>2023-02-01T06:22:31.348Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">15:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 가정동 루원시티프라디움아파트 84㎡ 5억1800만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230201145540992</id>
-        <link href="https://v.daum.net/v/20230201145540992"/>
-        <updated>2023-02-01T06:22:31.349Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:55</span>]]></content>
     </entry>
 </feed>
