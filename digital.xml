@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-02-01T13:25:21.469Z</updated>
+    <updated>2023-02-01T14:16:30.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“우리 확 결혼해버릴까”…계정공유 막는 넷플릭스 조건이]]></title>
+        <id>https://v.daum.net/v/20230201231503084</id>
+        <link href="https://v.daum.net/v/20230201231503084"/>
+        <updated>2023-02-01T14:16:02.894Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">23:15</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[업스테이지, 한화생명에 노코드·로우코드 AI 솔루션 `OCR팩` 공급]]></title>
         <id>https://v.daum.net/v/20230201215410434</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230201202242954"/>
         <updated>2023-02-01T12:33:44.545Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">20:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버클라우드 공공 클라우드 플랫폼, NIPA 클라우드 품질·성능 검증 확인서 획득]]></title>
-        <id>https://v.daum.net/v/20230201201247769</id>
-        <link href="https://v.daum.net/v/20230201201247769"/>
-        <updated>2023-02-01T11:14:55.497Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">20:12</span>]]></content>
     </entry>
 </feed>
