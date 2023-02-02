@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-02-02T03:18:57.791Z</updated>
+    <updated>2023-02-02T04:24:49.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KT는 방송사를 '즉결처분'하는 21세기형 언론통제 기구로 변신했나]]></title>
+        <id>https://v.daum.net/v/20230202131151840</id>
+        <link href="https://v.daum.net/v/20230202131151840"/>
+        <updated>2023-02-02T04:24:32.992Z</updated>
+        <content type="html"><![CDATA[미디어오늘<span class="txt_bar"> · </span><span class="info_time">13:11</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인사] 대한상공회의소]]></title>
+        <id>https://v.daum.net/v/20230202122453784</id>
+        <link href="https://v.daum.net/v/20230202122453784"/>
+        <updated>2023-02-02T04:24:32.993Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">12:24</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 황교안 "윤심? 애들도 아니고…총선 험지출마, 피하지 않겠다"]]></title>
         <id>https://v.daum.net/v/20230202121110387</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230202111331419"/>
         <updated>2023-02-02T02:48:53.017Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팀장시각] 민영화 논란 없는 철도시설 합리화방안 필요]]></title>
-        <id>https://v.daum.net/v/20230202111253383</id>
-        <link href="https://v.daum.net/v/20230202111253383"/>
-        <updated>2023-02-02T02:48:53.019Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 지방소멸 대안 ‘글로컬 대학’ 육성 주목]]></title>
-        <id>https://v.daum.net/v/20230202111228353</id>
-        <link href="https://v.daum.net/v/20230202111228353"/>
-        <updated>2023-02-02T02:48:53.020Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:12</span>]]></content>
     </entry>
 </feed>
