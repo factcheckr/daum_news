@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-02-02T16:23:13.460Z</updated>
+    <updated>2023-02-02T17:16:34.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]사회문제, 과학기술로 해결하자]]></title>
+        <id>https://v.daum.net/v/20230203020504610</id>
+        <link href="https://v.daum.net/v/20230203020504610"/>
+        <updated>2023-02-02T17:16:18.218Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[동상이목(同想異目)] '관치'가 아니기 위한 '관치']]></title>
+        <id>https://v.daum.net/v/20230203020302608</id>
+        <link href="https://v.daum.net/v/20230203020302608"/>
+        <updated>2023-02-02T17:16:18.220Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[최진석 칼럼] 새는 좌우의 날개로 날지 않는다]]></title>
         <id>https://v.daum.net/v/20230203010323505</id>
@@ -20,7 +34,7 @@
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">01:02</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[서소문 포럼] 항명 검사와 실세 장관]]></title>
+        <title type="html"><![CDATA[세월호는 항소 포기한 한동훈…'항명 임은정'엔 항소, 왜 [서소문 포럼]]]></title>
         <id>https://v.daum.net/v/20230203010122464</id>
         <link href="https://v.daum.net/v/20230203010122464"/>
         <updated>2023-02-02T16:22:58.151Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230203003731393"/>
         <updated>2023-02-02T16:22:58.160Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 톡픽(TalkPick)] “달러 약세일 때 오히려 한국 수출 잘 된다”]]></title>
-        <id>https://v.daum.net/v/20230203003651391</id>
-        <link href="https://v.daum.net/v/20230203003651391"/>
-        <updated>2023-02-02T16:22:58.162Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[허원순 칼럼] 7년 만의 '광고 자유'…밤이 더 빛나는 도시 만들자]]></title>
-        <id>https://v.daum.net/v/20230203002902343</id>
-        <link href="https://v.daum.net/v/20230203002902343"/>
-        <updated>2023-02-02T16:22:58.164Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:29</span>]]></content>
     </entry>
 </feed>
