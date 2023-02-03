@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-02-03T13:24:24.777Z</updated>
+    <updated>2023-02-03T14:16:27.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[세컷칼럼] MZ 다음 알파세대, 그들 세상은 행복할까]]></title>
+        <id>https://v.daum.net/v/20230203230132961</id>
+        <link href="https://v.daum.net/v/20230203230132961"/>
+        <updated>2023-02-03T14:16:10.090Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">23:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[다다를 인터뷰] '우일이형' 임우일 "제 인생의 기어봉은 항상 'P'였어요"]]></title>
+        <id>https://v.daum.net/v/20230203222821787</id>
+        <link href="https://v.daum.net/v/20230203222821787"/>
+        <updated>2023-02-03T14:16:10.093Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV<span class="txt_bar"> · </span><span class="info_time">22:28</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[천남수의 視線] 김건희와 힐러리]]></title>
         <id>https://v.daum.net/v/20230203221357678</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230203180012665"/>
         <updated>2023-02-03T09:17:04.298Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">18:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[지평선] 빅쇼트 주인공의 경고]]></title>
-        <id>https://v.daum.net/v/20230203180003644</id>
-        <link href="https://v.daum.net/v/20230203180003644"/>
-        <updated>2023-02-03T09:17:04.300Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">18:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[타이틀리스트 글씨체를 비서가 만들었다고?]]></title>
-        <id>https://v.daum.net/v/20230203173306990</id>
-        <link href="https://v.daum.net/v/20230203173306990"/>
-        <updated>2023-02-03T09:17:04.302Z</updated>
-        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">17:33</span>]]></content>
     </entry>
 </feed>
