@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-02-03T20:18:35.041Z</updated>
+    <updated>2023-02-03T21:17:29.970Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고기 먹방에는 왜 모자이크를 안 할까]]></title>
+        <id>https://v.daum.net/v/20230204060504973</id>
+        <link href="https://v.daum.net/v/20230204060504973"/>
+        <updated>2023-02-03T21:17:08.457Z</updated>
+        <content type="html"><![CDATA[미디어오늘<span class="txt_bar"> · </span><span class="info_time">06:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[데스크 칼럼] 로보칼립스 또는 로보토피아]]></title>
+        <id>https://v.daum.net/v/20230204060138898</id>
+        <link href="https://v.daum.net/v/20230204060138898"/>
+        <updated>2023-02-03T21:17:08.457Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">06:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 정치권 또 ‘공항 포퓰리즘’ 야합이라니]]></title>
         <id>https://v.daum.net/v/20230204043131388</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230204032409254"/>
         <updated>2023-02-03T19:14:50.335Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 돈 받으며 되레 호통치는 北, 민주당이 이 지경 만든 것 아닌가]]></title>
-        <id>https://v.daum.net/v/20230204032221252</id>
-        <link href="https://v.daum.net/v/20230204032221252"/>
-        <updated>2023-02-03T19:14:50.335Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[朝鮮칼럼 The Column] 지배 구조 걱정, 국민연금부터 하라]]></title>
-        <id>https://v.daum.net/v/20230204032120249</id>
-        <link href="https://v.daum.net/v/20230204032120249"/>
-        <updated>2023-02-03T18:22:02.431Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:21</span>]]></content>
     </entry>
 </feed>
