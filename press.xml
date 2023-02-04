@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-02-04T12:28:41.389Z</updated>
+    <updated>2023-02-04T13:20:02.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023 양구 피스컵 탈북민&다문화 축구 페스티벌 개최]]></title>
+        <id>https://v.daum.net/v/20230204215429139</id>
+        <link href="https://v.daum.net/v/20230204215429139"/>
+        <updated>2023-02-04T13:19:52.475Z</updated>
+        <content type="html"><![CDATA[베스트일레븐<span class="txt_bar"> · </span><span class="info_time">21:54</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[완도군, 올해부터 초ㆍ중ㆍ고 입학축하금 지급]]></title>
         <id>https://v.daum.net/v/20230204210114740</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230204095056875"/>
         <updated>2023-02-04T01:17:50.906Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">09:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] 세계 최초의 AI 대학 MBZUAI, 제1회 졸업생 배출]]></title>
-        <id>https://v.daum.net/v/20230204094611839</id>
-        <link href="https://v.daum.net/v/20230204094611839"/>
-        <updated>2023-02-04T01:17:50.907Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">09:46</span>]]></content>
     </entry>
 </feed>
