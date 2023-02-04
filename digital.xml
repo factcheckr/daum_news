@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-02-04T13:20:02.418Z</updated>
+    <updated>2023-02-04T14:14:51.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[LG유플러스 인터넷 엿새만에 또 접속장애…“디도스 공격 추정”]]></title>
+        <id>https://v.daum.net/v/20230204224003391</id>
+        <link href="https://v.daum.net/v/20230204224003391"/>
+        <updated>2023-02-04T14:14:19.386Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">22:40</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[입증된 '마비노기’ IP 파워...굿즈 펀딩 1주일만에 1700% [Oh!덕후]]]></title>
+        <id>https://v.daum.net/v/20230204223945387</id>
+        <link href="https://v.daum.net/v/20230204223945387"/>
+        <updated>2023-02-04T14:14:19.386Z</updated>
+        <content type="html"><![CDATA[OSEN<span class="txt_bar"> · </span><span class="info_time">22:39</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['치료반응 예측' 웰마커바이오, 美 MSD '키트루다'와 폐암 치료제 병용 임상]]></title>
         <id>https://v.daum.net/v/20230204210702793</id>
@@ -27,7 +41,7 @@
         <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">20:54</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["LG유플 또 안돼?" 개인정보 유출에 인터넷 '먹통'까지…불만 폭주 [종합]]]></title>
+        <title type="html"><![CDATA["이번주 3번이나 먹통"…LG유플, 인터넷 장애에 '불만 폭주' [종합]]]></title>
         <id>https://v.daum.net/v/20230204205103679</id>
         <link href="https://v.daum.net/v/20230204205103679"/>
         <updated>2023-02-04T12:28:13.033Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230204192320095"/>
         <updated>2023-02-04T11:14:26.047Z</updated>
         <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">19:23</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["밤마다 별보러 나갈 판"…역대급 카메라 장착한 '갤S23' [배성수의 다다IT선]]]></title>
-        <id>https://v.daum.net/v/20230204192103086</id>
-        <link href="https://v.daum.net/v/20230204192103086"/>
-        <updated>2023-02-04T11:14:26.048Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">19:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이번 주만 3번째, LG 유플러스 또?"…인터넷 장애에 불만 폭주]]></title>
-        <id>https://v.daum.net/v/20230204192038081</id>
-        <link href="https://v.daum.net/v/20230204192038081"/>
-        <updated>2023-02-04T11:14:26.052Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">19:20</span>]]></content>
     </entry>
 </feed>
