@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-02-04T02:43:27.318Z</updated>
+    <updated>2023-02-04T03:22:05.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://v.daum.net/v/20230204112953133"/>
         <updated>2023-02-04T02:43:17.983Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:29</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] SBTI를 선언하며 엔드투엔드 지속 가능성을 추진하는 데 수억 달러를]]></title>
-        <id>https://v.daum.net/v/20230204110851929</id>
-        <link href="https://v.daum.net/v/20230204110851929"/>
-        <updated>2023-02-04T02:43:17.984Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:08</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] Zoomlion, 전 세계 고객에게 총 10억 위안 상당의 제품 시리즈 납품]]></title>
@@ -109,5 +102,12 @@
         <link href="https://v.daum.net/v/20230204091417527"/>
         <updated>2023-02-04T01:17:50.911Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">09:14</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경기도내 곳곳 ‘정월 대보름’ 행사... 액운 떨쳐 버리고, 새해 소원 빌어요]]></title>
+        <id>https://v.daum.net/v/20230204090112354</id>
+        <link href="https://v.daum.net/v/20230204090112354"/>
+        <updated>2023-02-04T03:21:54.555Z</updated>
+        <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">09:01</span>]]></content>
     </entry>
 </feed>
