@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-02-05T07:15:53.134Z</updated>
+    <updated>2023-02-05T08:21:31.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[아침햇발] ‘만기친람 대통령’과 경제정책에 낀 짙은 안개]]></title>
+        <title type="html"><![CDATA[사진은 말한다 지하철 1호선 공사 시작 1972년 4월 19일]]></title>
+        <id>https://v.daum.net/v/20230205171815670</id>
+        <link href="https://v.daum.net/v/20230205171815670"/>
+        <updated>2023-02-05T08:21:11.427Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:18</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[매경춘추] 코로나가 남긴 교훈은]]></title>
+        <id>https://v.daum.net/v/20230205171803657</id>
+        <link href="https://v.daum.net/v/20230205171803657"/>
+        <updated>2023-02-05T08:21:11.428Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:18</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대통령의 ‘만기친람’에 짙은 안개 낀 경제정책 [아침햇발]]]></title>
         <id>https://v.daum.net/v/20230205160010916</id>
         <link href="https://v.daum.net/v/20230205160010916"/>
         <updated>2023-02-05T07:15:30.011Z</updated>
@@ -95,12 +109,5 @@
         <link href="https://v.daum.net/v/20230205070707491"/>
         <updated>2023-02-04T22:15:46.674Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[심은하 거짓 복귀설 고소엔딩·츄 템퍼링 의혹…바이포엠의 추락한 신뢰 [기자수첩-연예]]]></title>
-        <id>https://v.daum.net/v/20230205070056435</id>
-        <link href="https://v.daum.net/v/20230205070056435"/>
-        <updated>2023-02-04T22:15:46.675Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
     </entry>
 </feed>
