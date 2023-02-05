@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2023-02-05T15:18:40.815Z</updated>
+    <updated>2023-02-05T16:22:01.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘월드코리안 대상’ 신경호 이사장]]></title>
+        <id>https://v.daum.net/v/20230206010152006</id>
+        <link href="https://v.daum.net/v/20230206010152006"/>
+        <updated>2023-02-05T16:20:56.284Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 당분간 온화...오늘 미세먼지 '나쁨']]></title>
+        <id>https://v.daum.net/v/20230206002812897</id>
+        <link href="https://v.daum.net/v/20230206002812897"/>
+        <updated>2023-02-05T16:20:56.286Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:28</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FIND YOUR PERFUME! 당신의 소울메이트 퍼퓸은?]]></title>
         <id>https://v.daum.net/v/20230206001129846</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20230206000159741</id>
         <link href="https://v.daum.net/v/20230206000159741"/>
         <updated>2023-02-05T15:17:45.126Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MY LITTLE BLACK DRESS! LBD에 대한 모든 것]]></title>
-        <id>https://v.daum.net/v/20230206000157740</id>
-        <link href="https://v.daum.net/v/20230206000157740"/>
-        <updated>2023-02-05T15:17:45.128Z</updated>
-        <content type="html"><![CDATA[코스모폴리탄<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국경 넘는 한국문학, 대만을 달구다]]></title>
-        <id>https://v.daum.net/v/20230206000156739</id>
-        <link href="https://v.daum.net/v/20230206000156739"/>
-        <updated>2023-02-05T15:17:45.130Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
     </entry>
 </feed>
