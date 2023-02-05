@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-02-05T06:20:02.098Z</updated>
+    <updated>2023-02-05T07:15:53.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국토부, 스마트시티 조성·확산 사업 공모…1040억원 지원]]></title>
+        <id>https://v.daum.net/v/20230205161153158</id>
+        <link href="https://v.daum.net/v/20230205161153158"/>
+        <updated>2023-02-05T07:15:38.213Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">16:11</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[노인보호시설 거주 80대 할머니 저소득아동 성금 '훈훈']]></title>
+        <id>https://v.daum.net/v/20230205152732246</id>
+        <link href="https://v.daum.net/v/20230205152732246"/>
+        <updated>2023-02-05T07:15:38.215Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">15:27</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고양특례시 시민 안전체험교육 운영 본격화… 내달 2일부터]]></title>
         <id>https://v.daum.net/v/20230205151250933</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230205105702970"/>
         <updated>2023-02-05T02:51:01.570Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">10:57</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dentalis Animal Health appoints Advisory Board]]></title>
-        <id>https://v.daum.net/v/20230205105701967</id>
-        <link href="https://v.daum.net/v/20230205105701967"/>
-        <updated>2023-02-05T02:51:01.572Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">10:57</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부천시 찾아가는 안마버스 운행 재개…어르신들  호응↑]]></title>
-        <id>https://v.daum.net/v/20230205105445932</id>
-        <link href="https://v.daum.net/v/20230205105445932"/>
-        <updated>2023-02-05T02:51:01.574Z</updated>
-        <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">10:54</span>]]></content>
     </entry>
 </feed>
