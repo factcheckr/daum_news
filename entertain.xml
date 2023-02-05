@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2023-02-05T17:18:07.992Z</updated>
+    <updated>2023-02-05T18:19:26.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단, 오늘(6일) 그래미 세 번째 도전...꿈 이룰까[MK이슈]]]></title>
+        <id>https://v.daum.net/v/20230206030300371</id>
+        <link href="https://v.daum.net/v/20230206030300371"/>
+        <updated>2023-02-05T18:18:42.590Z</updated>
+        <content type="html"><![CDATA[스타투데이<span class="txt_bar"> · </span><span class="info_time">03:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[오늘의 채널A]상대 부모 반대로 파혼했지만 못 헤어져]]></title>
+        <id>https://v.daum.net/v/20230206030143293</id>
+        <link href="https://v.daum.net/v/20230206030143293"/>
+        <updated>2023-02-05T18:18:42.590Z</updated>
+        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">03:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Z세대 탐구생활]리메이크…규현·NCT드림·아이유·조정석]]></title>
+        <id>https://v.daum.net/v/20230206030020229</id>
+        <link href="https://v.daum.net/v/20230206030020229"/>
+        <updated>2023-02-05T18:18:42.591Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">03:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이상민 "망하고 난 뒤, 자연인의 삶 꿈꾼 적 있다" [미우새]]]></title>
+        <id>https://v.daum.net/v/20230206030004223</id>
+        <link href="https://v.daum.net/v/20230206030004223"/>
+        <updated>2023-02-05T18:18:42.592Z</updated>
+        <content type="html"><![CDATA[마이데일리<span class="txt_bar"> · </span><span class="info_time">03:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쇼트트랙 박지원, 월드컵 랭킹 1위 사실상 확정]]></title>
         <id>https://v.daum.net/v/20230206021352191</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230206005903981"/>
         <updated>2023-02-05T16:21:09.832Z</updated>
         <content type="html"><![CDATA[OSEN<span class="txt_bar"> · </span><span class="info_time">00:59</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫 배곧신도시 매물 공개, 호텔같은 인테리어 눈길 → 복팀의 승리 (홈즈)[종합]]]></title>
-        <id>https://v.daum.net/v/20230206005003966</id>
-        <link href="https://v.daum.net/v/20230206005003966"/>
-        <updated>2023-02-05T16:21:09.833Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스<span class="txt_bar"> · </span><span class="info_time">00:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랙핑크 리사, 치명적 비주얼..美친 분위기 [스타IN★]]]></title>
-        <id>https://v.daum.net/v/20230206004957965</id>
-        <link href="https://v.daum.net/v/20230206004957965"/>
-        <updated>2023-02-05T16:21:09.834Z</updated>
-        <content type="html"><![CDATA[스타뉴스<span class="txt_bar"> · </span><span class="info_time">00:49</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['홈즈' 김소현·양세형 승리..'베두나 하우스' 최종 선택[★밤TView]]]></title>
-        <id>https://v.daum.net/v/20230206004741958</id>
-        <link href="https://v.daum.net/v/20230206004741958"/>
-        <updated>2023-02-05T16:21:09.836Z</updated>
-        <content type="html"><![CDATA[스타뉴스<span class="txt_bar"> · </span><span class="info_time">00:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['홈즈' 김소현 "집 보는 것 좋아해…지금 집은 청약 당첨"]]></title>
-        <id>https://v.daum.net/v/20230206004458951</id>
-        <link href="https://v.daum.net/v/20230206004458951"/>
-        <updated>2023-02-05T16:21:09.838Z</updated>
-        <content type="html"><![CDATA[스포츠한국<span class="txt_bar"> · </span><span class="info_time">00:44</span>]]></content>
     </entry>
 </feed>
