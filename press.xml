@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-02-05T05:15:32.506Z</updated>
+    <updated>2023-02-05T06:20:02.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고양특례시 시민 안전체험교육 운영 본격화… 내달 2일부터]]></title>
+        <id>https://v.daum.net/v/20230205151250933</id>
+        <link href="https://v.daum.net/v/20230205151250933"/>
+        <updated>2023-02-05T06:19:53.312Z</updated>
+        <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">15:12</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연합뉴스 이 시각 헤드라인] - 15:00]]></title>
+        <id>https://v.daum.net/v/20230205150003701</id>
+        <link href="https://v.daum.net/v/20230205150003701"/>
+        <updated>2023-02-05T06:19:53.313Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">15:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[과천시, 해빙기 대형 공사장 안전점검 내달 말까지 실시]]></title>
         <id>https://v.daum.net/v/20230205135535635</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230205105445932"/>
         <updated>2023-02-05T02:51:01.574Z</updated>
         <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">10:54</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SLB, 자이로데이터 인수 완료]]></title>
-        <id>https://v.daum.net/v/20230205104704842</id>
-        <link href="https://v.daum.net/v/20230205104704842"/>
-        <updated>2023-02-05T02:51:01.576Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">10:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SLB Completes Acquisition of Gyrodata Incorporated]]></title>
-        <id>https://v.daum.net/v/20230205104703839</id>
-        <link href="https://v.daum.net/v/20230205104703839"/>
-        <updated>2023-02-05T02:51:01.578Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">10:47</span>]]></content>
     </entry>
 </feed>
