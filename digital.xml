@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-02-06T21:16:31.438Z</updated>
+    <updated>2023-02-06T22:17:04.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[XR 손잡은 삼성·구글·퀄컴… ‘메타버스 삼국시대’ 본격화]]></title>
+        <id>https://v.daum.net/v/20230207070714879</id>
+        <link href="https://v.daum.net/v/20230207070714879"/>
+        <updated>2023-02-06T22:16:40.514Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">07:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[갤럭시S23에 올인한 삼성, 역대급 혜택 눈길]]></title>
+        <id>https://v.daum.net/v/20230207070019735</id>
+        <link href="https://v.daum.net/v/20230207070019735"/>
+        <updated>2023-02-06T22:16:40.517Z</updated>
+        <content type="html"><![CDATA[일간스포츠<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[챗GPT 맞설 구글 AI 챗봇 '몇 주 내' 나온다... 이름은 '바드']]></title>
+        <id>https://v.daum.net/v/20230207064654543</id>
+        <link href="https://v.daum.net/v/20230207064654543"/>
+        <updated>2023-02-06T22:16:40.522Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">06:46</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[기자수첩]넷플릭스, 더이상 ‘공유’가 사랑이 아니라면…‘선택’도 늘려야]]></title>
+        <id>https://v.daum.net/v/20230207064004485</id>
+        <link href="https://v.daum.net/v/20230207064004485"/>
+        <updated>2023-02-06T22:16:40.523Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">06:40</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미국이 격추한 중국의 정찰 풍선… 레이더 감시 뚫고 어떻게 대서양까지 갔나]]></title>
+        <id>https://v.daum.net/v/20230207063324413</id>
+        <link href="https://v.daum.net/v/20230207063324413"/>
+        <updated>2023-02-06T22:16:40.525Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">06:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4분기 게임한파...넥슨만 웃나]]></title>
         <id>https://v.daum.net/v/20230207061504230</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20230207051004547"/>
         <updated>2023-02-06T20:18:36.073Z</updated>
         <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">05:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SKT, 도심항공교통 협력… 부산엑스포 GO!]]></title>
-        <id>https://v.daum.net/v/20230207050333455</id>
-        <link href="https://v.daum.net/v/20230207050333455"/>
-        <updated>2023-02-06T20:18:36.074Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“갓태문, 노태북!” 갤S23보다 먼저 터졌다]]></title>
-        <id>https://v.daum.net/v/20230207050330454</id>
-        <link href="https://v.daum.net/v/20230207050330454"/>
-        <updated>2023-02-06T20:18:36.076Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LG CNS ‘통합 IT서비스센터’ 개소… 먹통 NO!]]></title>
-        <id>https://v.daum.net/v/20230207050328453</id>
-        <link href="https://v.daum.net/v/20230207050328453"/>
-        <updated>2023-02-06T20:18:36.077Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[작곡도 동영상도 AI로… 챗GPT 보란 듯 감춰 놨던 기술 꺼낸 구글]]></title>
-        <id>https://v.daum.net/v/20230207050324449</id>
-        <link href="https://v.daum.net/v/20230207050324449"/>
-        <updated>2023-02-06T20:18:36.078Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LG유플러스 가중되는 정보 유출 사태… 정부 '칼날 검증' 예고]]></title>
-        <id>https://v.daum.net/v/20230207050105340</id>
-        <link href="https://v.daum.net/v/20230207050105340"/>
-        <updated>2023-02-06T20:18:36.082Z</updated>
-        <content type="html"><![CDATA[머니S<span class="txt_bar"> · </span><span class="info_time">05:01</span>]]></content>
     </entry>
 </feed>
