@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-02-07T12:32:44.869Z</updated>
+    <updated>2023-02-07T13:24:35.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다정함이 세상을 구한다 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20230207220032891</id>
+        <link href="https://v.daum.net/v/20230207220032891"/>
+        <updated>2023-02-07T13:24:16.292Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“사실을 지어낼 수 있다” 챗GPT 개발자의 경고 [횡설수설/서정보]]]></title>
+        <id>https://v.daum.net/v/20230207214148623</id>
+        <link href="https://v.daum.net/v/20230207214148623"/>
+        <updated>2023-02-07T13:24:16.294Z</updated>
+        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">21:41</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[생각하며 읽는 동시] 억울함]]></title>
         <id>https://v.daum.net/v/20230207205650936</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230207193505413"/>
         <updated>2023-02-07T11:14:25.993Z</updated>
         <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 2월 8일[오늘의 운세 나침반]]]></title>
-        <id>https://v.daum.net/v/20230207190025970</id>
-        <link href="https://v.daum.net/v/20230207190025970"/>
-        <updated>2023-02-07T10:18:32.466Z</updated>
-        <content type="html"><![CDATA[스포츠경향<span class="txt_bar"> · </span><span class="info_time">19:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케냐의 약진, 수단·우간다의 후퇴가 뒤섞인 아프리카 민주주의 [무지갯빛 아프리카]]]></title>
-        <id>https://v.daum.net/v/20230207190009961</id>
-        <link href="https://v.daum.net/v/20230207190009961"/>
-        <updated>2023-02-07T10:18:32.468Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">19:00</span>]]></content>
     </entry>
 </feed>
