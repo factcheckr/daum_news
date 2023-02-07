@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-02-07T11:14:42.035Z</updated>
+    <updated>2023-02-07T12:32:44.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] PXG Breaks into the Golf Ball Market with the Release of PXG(R)]]></title>
+        <id>https://v.daum.net/v/20230207205001789</id>
+        <link href="https://v.daum.net/v/20230207205001789"/>
+        <updated>2023-02-07T12:32:32.279Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:50</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] JOHANNE SIY, ASIA'S BEST FEMALE CHEF AWARD 2023 수상]]></title>
         <id>https://v.daum.net/v/20230207192349279</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230207181016950"/>
         <updated>2023-02-07T10:18:40.381Z</updated>
         <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">18:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시흥시, ‘K-교육도시 시흥’ 종합계획 완성]]></title>
-        <id>https://v.daum.net/v/20230207180829908</id>
-        <link href="https://v.daum.net/v/20230207180829908"/>
-        <updated>2023-02-07T10:18:40.382Z</updated>
-        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">18:08</span>]]></content>
     </entry>
 </feed>
