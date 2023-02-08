@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-02-08T18:22:28.415Z</updated>
+    <updated>2023-02-08T19:15:31.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['챗GPT' 전쟁 中 알리바바도 참전]]></title>
+        <id>https://v.daum.net/v/20230209035700270</id>
+        <link href="https://v.daum.net/v/20230209035700270"/>
+        <updated>2023-02-08T19:15:01.052Z</updated>
+        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">03:57</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세계 최대 해운사 머스크 "올해 컨테이너 수요 둔화-수익률 감소 전망"]]></title>
+        <id>https://v.daum.net/v/20230209034950264</id>
+        <link href="https://v.daum.net/v/20230209034950264"/>
+        <updated>2023-02-08T19:15:01.090Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">03:49</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글 '바드' 오답에 망신...주가 급락]]></title>
+        <id>https://v.daum.net/v/20230209034802257</id>
+        <link href="https://v.daum.net/v/20230209034802257"/>
+        <updated>2023-02-08T19:15:01.090Z</updated>
+        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">03:48</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글, MS에 '맞불'...생성형 AI 검색 공개]]></title>
+        <id>https://v.daum.net/v/20230209034204242</id>
+        <link href="https://v.daum.net/v/20230209034204242"/>
+        <updated>2023-02-08T19:15:01.090Z</updated>
+        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">03:42</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[챗GPT 덕분에, 샌프란시스코가 ‘AI 메카’로]]></title>
         <id>https://v.daum.net/v/20230209030516126</id>
@@ -81,12 +109,5 @@
         <link href="https://v.daum.net/v/20230209000103983"/>
         <updated>2023-02-08T15:19:43.401Z</updated>
         <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[新 AI 혁명①] '챗GPT'에 물었다…"넌 누구니?"]]></title>
-        <id>https://v.daum.net/v/20230209000013950</id>
-        <link href="https://v.daum.net/v/20230209000013950"/>
-        <updated>2023-02-08T15:19:43.403Z</updated>
-        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
