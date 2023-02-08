@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-02-08T10:21:04.778Z</updated>
+    <updated>2023-02-08T11:18:52.036Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘튀르키예 강진 여파’ 세자르 배구 대표팀 감독, 방한일정 변경]]></title>
+        <id>https://v.daum.net/v/20230208194103502</id>
+        <link href="https://v.daum.net/v/20230208194103502"/>
+        <updated>2023-02-08T11:18:43.116Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">19:41</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김해시, 전국 최초 ‘중고로봇 리퍼브센터’ 구축]]></title>
         <id>https://v.daum.net/v/20230208190351952</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230208170017553"/>
         <updated>2023-02-08T08:22:07.130Z</updated>
         <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">17:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['원인자부담금 산정 잘못' 등 하남시의 가용 예산 태부족]]></title>
-        <id>https://v.daum.net/v/20230208165810455</id>
-        <link href="https://v.daum.net/v/20230208165810455"/>
-        <updated>2023-02-08T08:22:07.131Z</updated>
-        <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">16:58</span>]]></content>
     </entry>
 </feed>
