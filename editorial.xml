@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-02-08T16:24:53.670Z</updated>
+    <updated>2023-02-08T17:18:05.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]금리인상, 초기보다 끝날 때 더 위험하다]]></title>
+        <id>https://v.daum.net/v/20230209020502839</id>
+        <link href="https://v.daum.net/v/20230209020502839"/>
+        <updated>2023-02-08T17:17:47.361Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]기술혁명이 시작된 농업과 우리의 대응]]></title>
+        <id>https://v.daum.net/v/20230209020102808</id>
+        <link href="https://v.daum.net/v/20230209020102808"/>
+        <updated>2023-02-08T17:17:47.363Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중앙시평] 가난한 노인, 젊은이의 미래가 되게 할 건가]]></title>
         <id>https://v.daum.net/v/20230209010009480</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230209003708355"/>
         <updated>2023-02-08T16:24:34.926Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[e글중심] 룸카페 성행위 논란 “청소년 가는 곳인데” “밀폐 구조는 바꿔야”]]></title>
-        <id>https://v.daum.net/v/20230209003547350</id>
-        <link href="https://v.daum.net/v/20230209003547350"/>
-        <updated>2023-02-08T16:24:34.928Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 톡픽(TalkPick)] “추모와 치유에는 여야도, 대립도 없어야 한다”]]></title>
-        <id>https://v.daum.net/v/20230209003247334</id>
-        <link href="https://v.daum.net/v/20230209003247334"/>
-        <updated>2023-02-08T16:24:34.930Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:32</span>]]></content>
     </entry>
 </feed>
