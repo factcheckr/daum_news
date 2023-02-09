@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-02-09T12:34:02.151Z</updated>
+    <updated>2023-02-09T13:33:02.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] FBS, Ultimate Trading Birthday 프로모션 행사 시작]]></title>
+        <id>https://v.daum.net/v/20230209213906029</id>
+        <link href="https://v.daum.net/v/20230209213906029"/>
+        <updated>2023-02-09T13:32:53.248Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">21:39</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Kigen과 Skylo, eSIM 및 위성 연결성 제공에 협력]]></title>
+        <id>https://v.daum.net/v/20230209213444975</id>
+        <link href="https://v.daum.net/v/20230209213444975"/>
+        <updated>2023-02-09T13:32:53.248Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">21:34</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] Effective Reskilling, Talent Diversity, and Digital Tool]]></title>
         <id>https://v.daum.net/v/20230209213006915</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230209173458316"/>
         <updated>2023-02-09T09:17:45.904Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김혜나, 영화 ‘그녀의 취미생활’로 돌아올 ‘독립영화 퀸’]]></title>
-        <id>https://v.daum.net/v/20230209173025173</id>
-        <link href="https://v.daum.net/v/20230209173025173"/>
-        <updated>2023-02-09T09:17:45.904Z</updated>
-        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김태우 강서구청장 "난방비 걱정 없도록 에너지 효율화 사업 확대할 것"]]></title>
-        <id>https://v.daum.net/v/20230209172938121</id>
-        <link href="https://v.daum.net/v/20230209172938121"/>
-        <updated>2023-02-09T09:17:45.904Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:29</span>]]></content>
     </entry>
 </feed>

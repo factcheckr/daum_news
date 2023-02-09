@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-02-09T12:34:02.168Z</updated>
+    <updated>2023-02-09T13:33:02.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단의 '얼굴들', 그 윤리적 요청 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20230209220046341</id>
+        <link href="https://v.daum.net/v/20230209220046341"/>
+        <updated>2023-02-09T13:32:46.151Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023년 2월 10일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20230209220030338</id>
+        <link href="https://v.daum.net/v/20230209220030338"/>
+        <updated>2023-02-09T13:32:46.151Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[헷갈리는 집값… 낙폭 줄어드나 커지나 [횡설수설/김재영]]]></title>
         <id>https://v.daum.net/v/20230209213007917</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230209195004335"/>
         <updated>2023-02-09T11:16:20.092Z</updated>
         <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경북도, 소형모듈원자로 활용 해양시스템 기술개발 MOU 체결]]></title>
-        <id>https://v.daum.net/v/20230209193402091</id>
-        <link href="https://v.daum.net/v/20230209193402091"/>
-        <updated>2023-02-09T11:16:20.092Z</updated>
-        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">19:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[윤석헌 칼럼] 론스타 사태: 모피아가 무너뜨린 금융감독]]></title>
-        <id>https://v.daum.net/v/20230209192506900</id>
-        <link href="https://v.daum.net/v/20230209192506900"/>
-        <updated>2023-02-09T11:16:20.094Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:25</span>]]></content>
     </entry>
 </feed>
