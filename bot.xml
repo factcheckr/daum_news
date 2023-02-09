@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-02-09T11:16:40.351Z</updated>
+    <updated>2023-02-09T12:34:02.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가상화폐 비트코인 28,801,000원(-1.71%) 거래중]]></title>
+        <id>https://v.daum.net/v/20230209213122942</id>
+        <link href="https://v.daum.net/v/20230209213122942"/>
+        <updated>2023-02-09T12:34:01.494Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">21:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[용인 신봉동 엘지자이1차 83㎡ 6억1800만원에 거래]]></title>
         <id>https://v.daum.net/v/20230209180045128</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230209170045169"/>
         <updated>2023-02-09T08:22:37.274Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용인 구갈동 기흥역센트럴푸르지오 84㎡ 7억원에 거래]]></title>
-        <id>https://v.daum.net/v/20230209165539967</id>
-        <link href="https://v.daum.net/v/20230209165539967"/>
-        <updated>2023-02-09T08:22:37.276Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">16:55</span>]]></content>
     </entry>
 </feed>
