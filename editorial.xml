@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-02-10T06:23:17.601Z</updated>
+    <updated>2023-02-10T07:17:21.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여 전대 대진표 확정…김기현·안철수·천하람·황교안]]></title>
+        <id>https://v.daum.net/v/20230210154703307</id>
+        <link href="https://v.daum.net/v/20230210154703307"/>
+        <updated>2023-02-10T07:17:01.723Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV<span class="txt_bar"> · </span><span class="info_time">15:47</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인간 중심 전략이 AI 기술력보다 비즈니스 성공을 좌우한다]]></title>
         <id>https://v.daum.net/v/20230210151149106</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">15:11</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[웹 사설] 이 정도 지방 소멸 대응으로 인구 절벽 위기 넘기겠나]]></title>
+        <title type="html"><![CDATA[[fn사설] 이 정도 지방 소멸 대응으로 인구 절벽 위기 넘기겠나]]></title>
         <id>https://v.daum.net/v/20230210150744984</id>
         <link href="https://v.daum.net/v/20230210150744984"/>
         <updated>2023-02-10T06:22:57.988Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230210114511805"/>
         <updated>2023-02-10T02:56:53.094Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[헤럴드광장] 문제의 핵심]]></title>
-        <id>https://v.daum.net/v/20230210111046383</id>
-        <link href="https://v.daum.net/v/20230210111046383"/>
-        <updated>2023-02-10T02:56:53.095Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:10</span>]]></content>
     </entry>
 </feed>
