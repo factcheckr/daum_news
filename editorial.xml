@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-02-10T10:20:17.116Z</updated>
+    <updated>2023-02-10T11:16:09.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국민의힘 전당대회, 김기현·안철수·천하람·황교안 본선행]]></title>
+        <id>https://v.daum.net/v/20230210201133609</id>
+        <link href="https://v.daum.net/v/20230210201133609"/>
+        <updated>2023-02-10T11:15:52.404Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV<span class="txt_bar"> · </span><span class="info_time">20:11</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안동농협, 중장기 비전 선포⋯"100년 농협 도약"]]></title>
+        <id>https://v.daum.net/v/20230210195208308</id>
+        <link href="https://v.daum.net/v/20230210195208308"/>
+        <updated>2023-02-10T11:15:52.405Z</updated>
+        <content type="html"><![CDATA[농민신문<span class="txt_bar"> · </span><span class="info_time">19:52</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[① [오늘의 운세] 2월 11일(음력 1월 21일) : 쥐띠~뱀띠 & MBTI(16가지 성향, 궁합)]]></title>
         <id>https://v.daum.net/v/20230210190010455</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230210172102196"/>
         <updated>2023-02-10T08:22:13.390Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필동정담] 튀르키예·시리아에 기적을]]></title>
-        <id>https://v.daum.net/v/20230210172100193</id>
-        <link href="https://v.daum.net/v/20230210172100193"/>
-        <updated>2023-02-10T08:22:13.391Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이디]]></title>
-        <id>https://v.daum.net/v/20230210171813115</id>
-        <link href="https://v.daum.net/v/20230210171813115"/>
-        <updated>2023-02-10T08:22:13.391Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:18</span>]]></content>
     </entry>
 </feed>
