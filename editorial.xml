@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-02-10T04:21:30.887Z</updated>
+    <updated>2023-02-10T05:17:14.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기후변화 담론의 최전선에 선 우파, 윌리엄 노드하우스]]></title>
+        <id>https://v.daum.net/v/20230210140503105</id>
+        <link href="https://v.daum.net/v/20230210140503105"/>
+        <updated>2023-02-10T05:16:53.487Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">14:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[의학칼럼] 방아쇠수지 수술, 이제는 흉터 없이 치료한다]]></title>
+        <id>https://v.daum.net/v/20230210134624625</id>
+        <link href="https://v.daum.net/v/20230210134624625"/>
+        <updated>2023-02-10T05:16:53.489Z</updated>
+        <content type="html"><![CDATA[헬스조선<span class="txt_bar"> · </span><span class="info_time">13:46</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[시사컬처]누군가를 기다리는 마음]]></title>
         <id>https://v.daum.net/v/20230210125421457</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230210110925309"/>
         <updated>2023-02-10T02:56:53.097Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[55년이나 지났는데…국가로부터 벗어나지 못한 한국 재벌들]]></title>
-        <id>https://v.daum.net/v/20230210110510087</id>
-        <link href="https://v.daum.net/v/20230210110510087"/>
-        <updated>2023-02-10T02:56:53.098Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">11:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데일리안 시사만평] 여·야, 오랫만에 쿵짝맞네…표안된다 결국 국민연금 개혁 떠넘기기]]></title>
-        <id>https://v.daum.net/v/20230210104902330</id>
-        <link href="https://v.daum.net/v/20230210104902330"/>
-        <updated>2023-02-10T02:56:53.098Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">10:49</span>]]></content>
     </entry>
 </feed>
