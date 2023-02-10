@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-02-10T12:31:20.411Z</updated>
+    <updated>2023-02-10T13:25:21.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["지나칠 수 없는 아재 스멜": 친남매도 울고 갈 손석구X전종서 티키타카]]></title>
+        <id>https://v.daum.net/v/20230210220624068</id>
+        <link href="https://v.daum.net/v/20230210220624068"/>
+        <updated>2023-02-10T13:25:12.371Z</updated>
+        <content type="html"><![CDATA[엘르<span class="txt_bar"> · </span><span class="info_time">22:06</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[충북농협·재경농협충우회, 충주에 고향사랑기부금 전달]]></title>
         <id>https://v.daum.net/v/20230210194931258</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230210183019038"/>
         <updated>2023-02-10T10:20:07.306Z</updated>
         <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">18:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황민현, 솔로 앨범 ‘Truth or Lie’ 발매 기념 팬쇼케이스 개최…타이틀곡 무대 최초 공개]]></title>
-        <id>https://v.daum.net/v/20230210182020864</id>
-        <link href="https://v.daum.net/v/20230210182020864"/>
-        <updated>2023-02-10T10:20:07.307Z</updated>
-        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">18:20</span>]]></content>
     </entry>
 </feed>
