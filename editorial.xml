@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-02-11T04:20:48.329Z</updated>
+    <updated>2023-02-11T05:16:24.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김기현 “현재, 미래 권력 부딪히면 탄핵 우려된다”]]></title>
+        <id>https://v.daum.net/v/20230211141506480</id>
+        <link href="https://v.daum.net/v/20230211141506480"/>
+        <updated>2023-02-11T05:16:05.787Z</updated>
+        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">14:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부고]이승은(IBK기업은행 홍보부장)씨 부친상]]></title>
+        <id>https://v.daum.net/v/20230211134420252</id>
+        <link href="https://v.daum.net/v/20230211134420252"/>
+        <updated>2023-02-11T05:16:05.790Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">13:44</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[이선영의 시선] '피지컬 100', 어떤 성공]]></title>
+        <id>https://v.daum.net/v/20230211133004148</id>
+        <link href="https://v.daum.net/v/20230211133004148"/>
+        <updated>2023-02-11T05:16:05.791Z</updated>
+        <content type="html"><![CDATA[미디어오늘<span class="txt_bar"> · </span><span class="info_time">13:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['아바타2' '슬램덩크'… 팬덤 영화의 시대가 왔다 [라제기의 슛 & 숏]]]></title>
         <id>https://v.daum.net/v/20230211120104642</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230211060301289"/>
         <updated>2023-02-10T21:16:19.373Z</updated>
         <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">06:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 의사단체 이기주의 오죽하면 간호법 직회부 했겠나]]></title>
-        <id>https://v.daum.net/v/20230211043048861</id>
-        <link href="https://v.daum.net/v/20230211043048861"/>
-        <updated>2023-02-10T20:19:05.970Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 도이치 주가조작 유죄, 남은 의혹 성역없이 수사해야]]></title>
-        <id>https://v.daum.net/v/20230211043039859</id>
-        <link href="https://v.daum.net/v/20230211043039859"/>
-        <updated>2023-02-10T20:19:05.970Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 윤미향 1심 벌금형… '후원금 유용' 깊이 반성하길]]></title>
-        <id>https://v.daum.net/v/20230211043027857</id>
-        <link href="https://v.daum.net/v/20230211043027857"/>
-        <updated>2023-02-10T20:19:05.972Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
     </entry>
 </feed>

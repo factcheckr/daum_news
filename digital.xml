@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-02-11T04:20:48.334Z</updated>
+    <updated>2023-02-11T05:16:24.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미국인에 "투표하라"는 김정은…'탑건' 발킬머도 이 기술 덕 봤다]]></title>
+        <id>https://v.daum.net/v/20230211141211452</id>
+        <link href="https://v.daum.net/v/20230211141211452"/>
+        <updated>2023-02-11T05:15:57.071Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">14:12</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[216조원 날린 구글 vs 챗GPT 품은 MS…당신의 선택은?]]></title>
+        <id>https://v.daum.net/v/20230211134502256</id>
+        <link href="https://v.daum.net/v/20230211134502256"/>
+        <updated>2023-02-11T05:15:57.075Z</updated>
+        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">13:45</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[글로벌 워크OS 지향 '스윗', 구글 최고 레벨 파트너로 승격]]></title>
         <id>https://v.daum.net/v/20230211130531019</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230211112403327"/>
         <updated>2023-02-11T02:42:19.649Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">11:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 네이버, 7년치 스포츠 기사 댓글 일괄 삭제한다]]></title>
-        <id>https://v.daum.net/v/20230211112106309</id>
-        <link href="https://v.daum.net/v/20230211112106309"/>
-        <updated>2023-02-11T02:42:19.650Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“시간이 얼마 없다”...삼성 SK 중국 반도체공장 어떻게 되나 [MK위클리반도체]]]></title>
-        <id>https://v.daum.net/v/20230211110300142</id>
-        <link href="https://v.daum.net/v/20230211110300142"/>
-        <updated>2023-02-11T02:42:19.651Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">11:03</span>]]></content>
     </entry>
 </feed>
