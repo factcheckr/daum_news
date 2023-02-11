@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-02-11T13:21:16.313Z</updated>
+    <updated>2023-02-11T14:15:45.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[세컷칼럼] '빅 배스'의 소멸시효]]></title>
+        <id>https://v.daum.net/v/20230211230122736</id>
+        <link href="https://v.daum.net/v/20230211230122736"/>
+        <updated>2023-02-11T14:15:24.512Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">23:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[디지털트윈 칼럼] 중기부가 시행하는 메타버스팩토리 사업 성공할 수 있을까]]></title>
         <id>https://v.daum.net/v/20230211214628331</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230211085134680"/>
         <updated>2023-02-11T01:13:44.150Z</updated>
         <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">08:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[홍성걸의 정치나침반]한국 정치 이대론 안된다]]></title>
-        <id>https://v.daum.net/v/20230211080038267</id>
-        <link href="https://v.daum.net/v/20230211080038267"/>
-        <updated>2023-02-10T23:17:40.067Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
     </entry>
 </feed>
