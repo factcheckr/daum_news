@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-02-10T23:17:59.282Z</updated>
+    <updated>2023-02-11T01:14:00.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](11일 조간)]]></title>
+        <id>https://v.daum.net/v/20230211100005441</id>
+        <link href="https://v.daum.net/v/20230211100005441"/>
+        <updated>2023-02-11T01:13:44.146Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">10:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[홈트, 다시 시작해볼까요?]]></title>
+        <id>https://v.daum.net/v/20230211090123838</id>
+        <link href="https://v.daum.net/v/20230211090123838"/>
+        <updated>2023-02-11T01:13:44.147Z</updated>
+        <content type="html"><![CDATA[우먼센스<span class="txt_bar"> · </span><span class="info_time">09:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[민영 기업이 일자리 90% 만드는 자본주의 나라 중국]]></title>
+        <id>https://v.daum.net/v/20230211090016785</id>
+        <link href="https://v.daum.net/v/20230211090016785"/>
+        <updated>2023-02-11T01:13:44.148Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">09:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[천남수의 視線] 곽상도의 50억, 이승기의 50억]]></title>
+        <id>https://v.daum.net/v/20230211085134680</id>
+        <link href="https://v.daum.net/v/20230211085134680"/>
+        <updated>2023-02-11T01:13:44.150Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">08:51</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[홍성걸의 정치나침반]한국 정치 이대론 안된다]]></title>
         <id>https://v.daum.net/v/20230211080038267</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230211041009812"/>
         <updated>2023-02-10T19:15:02.490Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오후 3시의 헌책방] 헌책방 빌런]]></title>
-        <id>https://v.daum.net/v/20230211040919811</id>
-        <link href="https://v.daum.net/v/20230211040919811"/>
-        <updated>2023-02-10T19:15:02.490Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[빛과 소금] 성지순례, 제대로 하려면]]></title>
-        <id>https://v.daum.net/v/20230211040911810</id>
-        <link href="https://v.daum.net/v/20230211040911810"/>
-        <updated>2023-02-10T19:15:02.493Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토 카페] “(믿으니까) 다녀오세요”]]></title>
-        <id>https://v.daum.net/v/20230211040409797</id>
-        <link href="https://v.daum.net/v/20230211040409797"/>
-        <updated>2023-02-10T19:15:02.497Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데스크 칼럼] 尹 대통령의 반도체 사랑에 누 끼치는 재정당국]]></title>
-        <id>https://v.daum.net/v/20230211040329796</id>
-        <link href="https://v.daum.net/v/20230211040329796"/>
-        <updated>2023-02-10T19:15:02.498Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">04:03</span>]]></content>
     </entry>
 </feed>
