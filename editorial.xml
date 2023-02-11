@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-02-11T02:42:52.416Z</updated>
+    <updated>2023-02-11T03:19:16.194Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아바타2' '슬램덩크'… 팬덤 영화의 시대가 왔다 [라제기의 슛 & 숏]]]></title>
+        <id>https://v.daum.net/v/20230211120104642</id>
+        <link href="https://v.daum.net/v/20230211120104642"/>
+        <updated>2023-02-11T03:18:55.542Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">12:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박지원 "국민의힘 전당대회 '윤석열 vs 이준석 대결"]]></title>
+        <id>https://v.daum.net/v/20230211114813522</id>
+        <link href="https://v.daum.net/v/20230211114813522"/>
+        <updated>2023-02-11T03:18:55.543Z</updated>
+        <content type="html"><![CDATA[대구MBC<span class="txt_bar"> · </span><span class="info_time">11:48</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부고] 김형석(작곡가)씨 부친상]]></title>
         <id>https://v.daum.net/v/20230211113902450</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230211043027857"/>
         <updated>2023-02-10T20:19:05.972Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Godoksa(고독사) [우리말 톺아보기]]]></title>
-        <id>https://v.daum.net/v/20230211043004852</id>
-        <link href="https://v.daum.net/v/20230211043004852"/>
-        <updated>2023-02-10T20:19:05.974Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한마당] 대한민국 긴급구호대]]></title>
-        <id>https://v.daum.net/v/20230211041329815</id>
-        <link href="https://v.daum.net/v/20230211041329815"/>
-        <updated>2023-02-10T19:15:02.490Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:13</span>]]></content>
     </entry>
 </feed>
