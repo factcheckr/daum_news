@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-02-12T20:19:25.853Z</updated>
+    <updated>2023-02-12T21:15:54.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[경기인터뷰] 홍경래 농협중앙회 경기본부장]]></title>
+        <id>https://v.daum.net/v/20230213060141168</id>
+        <link href="https://v.daum.net/v/20230213060141168"/>
+        <updated>2023-02-12T21:15:41.468Z</updated>
+        <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">06:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경남농협본부, “농식품 수출 1억1500만달러 달성 목표”]]></title>
         <id>https://v.daum.net/v/20230213050259644</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230213000444281</id>
         <link href="https://v.daum.net/v/20230213000444281"/>
         <updated>2023-02-12T15:17:23.077Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[건강한 가족] 기력 회복에 뇌 손상 예방 돕는 침향, 면역 증진까지 효과 확인]]></title>
-        <id>https://v.daum.net/v/20230213000442280</id>
-        <link href="https://v.daum.net/v/20230213000442280"/>
-        <updated>2023-02-12T15:17:23.078Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
     </entry>
 </feed>
