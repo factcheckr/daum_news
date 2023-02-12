@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-02-12T06:22:55.018Z</updated>
+    <updated>2023-02-12T07:20:09.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국조선해양, CDP 탄소경영 특별상 수상]]></title>
+        <id>https://v.daum.net/v/20230212154611609</id>
+        <link href="https://v.daum.net/v/20230212154611609"/>
+        <updated>2023-02-12T07:20:00.368Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:46</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보성군, 튀르키예 국민돕기 구호 물품 모집]]></title>
+        <id>https://v.daum.net/v/20230212154302568</id>
+        <link href="https://v.daum.net/v/20230212154302568"/>
+        <updated>2023-02-12T07:20:00.371Z</updated>
+        <content type="html"><![CDATA[kbc광주방송<span class="txt_bar"> · </span><span class="info_time">15:43</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[졸업·입학식 몰렸는데 꽃값 요동… 장미 1년 전보다 85% ↑]]></title>
+        <id>https://v.daum.net/v/20230212153750480</id>
+        <link href="https://v.daum.net/v/20230212153750480"/>
+        <updated>2023-02-12T07:20:00.375Z</updated>
+        <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">15:37</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LG U+, 올해 첫 오리지널 콘텐츠로 아이돌 예능 선보인다]]></title>
+        <id>https://v.daum.net/v/20230212152410227</id>
+        <link href="https://v.daum.net/v/20230212152410227"/>
+        <updated>2023-02-12T07:20:00.377Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:24</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열표 ‘뉴:홈’ 특공 경쟁률 11.1대 1…청년 등 1.5만명 몰렸다]]></title>
         <id>https://v.daum.net/v/20230212151510992</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230212120702357"/>
         <updated>2023-02-12T03:21:01.886Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">12:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왓츠 워터 테크놀러지, 가벨리 펀즈 33차 연례 펌프, 밸브 및 워터 시스템 심포지엄의 프레젠테이션 웹캐스트 발표]]></title>
-        <id>https://v.daum.net/v/20230212114703998</id>
-        <link href="https://v.daum.net/v/20230212114703998"/>
-        <updated>2023-02-12T02:50:54.586Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">11:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watts Water Technologies Announces Webcast of its Presentation in Gabelli Funds 33rd Annual Pump, Valve & Water Systems Symposium]]></title>
-        <id>https://v.daum.net/v/20230212114702997</id>
-        <link href="https://v.daum.net/v/20230212114702997"/>
-        <updated>2023-02-12T02:50:54.599Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">11:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[O-RAN 에코시스템의 진행 상황을 공개하는 MWC Barcelona에 참석할 O-RAN 얼라이언스의 이벤트와 데모]]></title>
-        <id>https://v.daum.net/v/20230212111703576</id>
-        <link href="https://v.daum.net/v/20230212111703576"/>
-        <updated>2023-02-12T02:50:54.599Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">11:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[O-RAN ALLIANCE Events and Demos at MWC Barcelona Showcasing O-RAN Ecosystem Progress]]></title>
-        <id>https://v.daum.net/v/20230212111702574</id>
-        <link href="https://v.daum.net/v/20230212111702574"/>
-        <updated>2023-02-12T02:50:54.599Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">11:17</span>]]></content>
     </entry>
 </feed>
