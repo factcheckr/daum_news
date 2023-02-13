@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-02-13T13:26:29.399Z</updated>
+    <updated>2023-02-13T14:17:18.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] ACE Green Recycling과 STC, 배터리 재활용 장비 공급 위해 협업]]></title>
+        <id>https://v.daum.net/v/20230213224751857</id>
+        <link href="https://v.daum.net/v/20230213224751857"/>
+        <updated>2023-02-13T14:17:08.645Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">22:47</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] ACE Green Recycling and STC Partner for Battery Recycling]]></title>
+        <id>https://v.daum.net/v/20230213224548846</id>
+        <link href="https://v.daum.net/v/20230213224548846"/>
+        <updated>2023-02-13T14:17:08.659Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">22:45</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경산시, 산불 예방 위해 산림인접지 영농부산물 파쇄]]></title>
         <id>https://v.daum.net/v/20230213190015005</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230213173759098"/>
         <updated>2023-02-13T09:18:52.645Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에너자이-브라이센코리아, 인공지능 기반 ISP 솔루션 고도화 목적 MOU 체결]]></title>
-        <id>https://v.daum.net/v/20230213173705084</id>
-        <link href="https://v.daum.net/v/20230213173705084"/>
-        <updated>2023-02-13T09:18:52.646Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울과학종합대학원대학교, 한국세무사회와 산학협약 체결]]></title>
-        <id>https://v.daum.net/v/20230213173703080</id>
-        <link href="https://v.daum.net/v/20230213173703080"/>
-        <updated>2023-02-13T09:18:52.648Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:37</span>]]></content>
     </entry>
 </feed>
