@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-02-13T04:23:56.779Z</updated>
+    <updated>2023-02-13T05:17:06.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘접속사를 쓰지 말라’는 억지]]></title>
+        <id>https://v.daum.net/v/20230213141633973</id>
+        <link href="https://v.daum.net/v/20230213141633973"/>
+        <updated>2023-02-13T05:16:46.385Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">14:16</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[과학을읽다]2배 늘어난 연구예산…여전한 깜깜이 수당]]></title>
+        <id>https://v.daum.net/v/20230213140624637</id>
+        <link href="https://v.daum.net/v/20230213140624637"/>
+        <updated>2023-02-13T05:16:46.386Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">14:06</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](13일 석간)]]></title>
+        <id>https://v.daum.net/v/20230213140006410</id>
+        <link href="https://v.daum.net/v/20230213140006410"/>
+        <updated>2023-02-13T05:16:46.386Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인사] 통계청]]></title>
         <id>https://v.daum.net/v/20230213123918631</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230213112409196"/>
         <updated>2023-02-13T02:48:50.730Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">11:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[K우먼톡]편리함에 대적할 봄이 오길]]></title>
-        <id>https://v.daum.net/v/20230213112255130</id>
-        <link href="https://v.daum.net/v/20230213112255130"/>
-        <updated>2023-02-13T02:48:50.737Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 튀르키예 포퓰리즘 정권의 민낯, 부실·늑장 재난대응]]></title>
-        <id>https://v.daum.net/v/20230213111830891</id>
-        <link href="https://v.daum.net/v/20230213111830891"/>
-        <updated>2023-02-13T02:48:50.739Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 與전대 본경선, 집권당의 품격과 비전 보여야]]></title>
-        <id>https://v.daum.net/v/20230213111828889</id>
-        <link href="https://v.daum.net/v/20230213111828889"/>
-        <updated>2023-02-13T02:48:50.740Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:18</span>]]></content>
     </entry>
 </feed>
