@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-02-13T22:18:16.824Z</updated>
+    <updated>2023-02-13T23:19:49.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“왜 나만 못 나가지?”... 이생망(이번 생은 망했다)이 나오게 된 이유 3가지]]></title>
+        <id>https://v.daum.net/v/20230214080655260</id>
+        <link href="https://v.daum.net/v/20230214080655260"/>
+        <updated>2023-02-13T23:19:27.496Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">08:06</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[해외칼럼]정찰풍선보다 더 큰 위기가 오면]]></title>
+        <id>https://v.daum.net/v/20230214080038144</id>
+        <link href="https://v.daum.net/v/20230214080038144"/>
+        <updated>2023-02-13T23:19:27.496Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](14일 조간)]]></title>
+        <id>https://v.daum.net/v/20230214080003108</id>
+        <link href="https://v.daum.net/v/20230214080003108"/>
+        <updated>2023-02-13T23:19:27.498Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[기자수첩]  버스 요금의 양극화]]></title>
         <id>https://v.daum.net/v/20230214070515432</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230214051204850"/>
         <updated>2023-02-13T20:19:52.094Z</updated>
         <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Kent Harrington] House Republicans’ absurdities will hurt democracy]]></title>
-        <id>https://v.daum.net/v/20230214050803798</id>
-        <link href="https://v.daum.net/v/20230214050803798"/>
-        <updated>2023-02-13T20:19:52.103Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[씨줄날줄] 행동주의 펀드/이순녀 논설위원]]></title>
-        <id>https://v.daum.net/v/20230214050342740</id>
-        <link href="https://v.daum.net/v/20230214050342740"/>
-        <updated>2023-02-13T20:19:52.109Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[길섶에서] 재택근무 단상/임창용 논설위원]]></title>
-        <id>https://v.daum.net/v/20230214050341739</id>
-        <link href="https://v.daum.net/v/20230214050341739"/>
-        <updated>2023-02-13T20:19:52.111Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
     </entry>
 </feed>
