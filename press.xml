@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-02-14T09:19:25.642Z</updated>
+    <updated>2023-02-14T10:22:14.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강수현 양주시장 '양심 토크'로 민생행보 시작]]></title>
+        <id>https://v.daum.net/v/20230214190220644</id>
+        <link href="https://v.daum.net/v/20230214190220644"/>
+        <updated>2023-02-14T10:22:01.364Z</updated>
+        <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">19:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여주시 홍보, 우리가 책임진다!]]></title>
+        <id>https://v.daum.net/v/20230214183907067</id>
+        <link href="https://v.daum.net/v/20230214183907067"/>
+        <updated>2023-02-14T10:22:01.365Z</updated>
+        <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">18:39</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인천시교육청, 수학여행 등 현장학습비 확대 지원]]></title>
         <id>https://v.daum.net/v/20230214175230765</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230214174925641"/>
         <updated>2023-02-14T09:19:14.230Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:49</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["멤버십 잘 쓰면 알뜰폰보다 혜택 多" SKT]]></title>
-        <id>https://v.daum.net/v/20230214174318431</id>
-        <link href="https://v.daum.net/v/20230214174318431"/>
-        <updated>2023-02-14T09:19:14.233Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">17:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] 아카마이, '아카마이 커넥티드 클라우드' 발표 … 향후 10년 이끌]]></title>
-        <id>https://v.daum.net/v/20230214174200370</id>
-        <link href="https://v.daum.net/v/20230214174200370"/>
-        <updated>2023-02-14T09:19:14.235Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:42</span>]]></content>
     </entry>
 </feed>
