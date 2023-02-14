@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2023-02-14T16:26:02.315Z</updated>
+    <updated>2023-02-14T17:18:05.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[마켓인]투자 빙하기라고?…딴 세상에 사는 이 업종]]></title>
+        <id>https://v.daum.net/v/20230215012525914</id>
+        <link href="https://v.daum.net/v/20230215012525914"/>
+        <updated>2023-02-14T17:16:41.002Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">01:25</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘미국 내 절도 확산’ 현대차·기아, 830만대 소프트웨어 업데이트]]></title>
         <id>https://v.daum.net/v/20230215011816887</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230215010406845</id>
         <link href="https://v.daum.net/v/20230215010406845"/>
         <updated>2023-02-14T16:24:39.563Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국투자증권, 신용융자 이자율 인하]]></title>
-        <id>https://v.daum.net/v/20230215010401842</id>
-        <link href="https://v.daum.net/v/20230215010401842"/>
-        <updated>2023-02-14T16:24:39.564Z</updated>
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:04</span>]]></content>
     </entry>
 </feed>
