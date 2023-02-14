@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-02-13T23:19:49.092Z</updated>
+    <updated>2023-02-14T01:21:10.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[“왜 나만 못 나가지?”... 이생망(이번 생은 망했다)이 나오게 된 이유 3가지]]></title>
+        <title type="html"><![CDATA[[기고] 짧은 거리 안 가는 택시편 들어주는 것이 공정한가?]]></title>
+        <id>https://v.daum.net/v/20230214091215010</id>
+        <link href="https://v.daum.net/v/20230214091215010"/>
+        <updated>2023-02-14T01:20:53.031Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">09:12</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[요가원 매트 정리, 괜히 하는 게 아니었네요]]></title>
+        <id>https://v.daum.net/v/20230214083058748</id>
+        <link href="https://v.daum.net/v/20230214083058748"/>
+        <updated>2023-02-14T01:20:53.034Z</updated>
+        <content type="html"><![CDATA[베이비뉴스<span class="txt_bar"> · </span><span class="info_time">08:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“왜 나만 이 꼴이지?”... 이생망이 나오게 된 이유 3가지]]></title>
         <id>https://v.daum.net/v/20230214080655260</id>
         <link href="https://v.daum.net/v/20230214080655260"/>
         <updated>2023-02-13T23:19:27.496Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230214055108365"/>
         <updated>2023-02-13T21:17:03.628Z</updated>
         <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">05:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Editorial] Unconvincing rulings]]></title>
-        <id>https://v.daum.net/v/20230214053042165</id>
-        <link href="https://v.daum.net/v/20230214053042165"/>
-        <updated>2023-02-13T21:17:03.644Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Martin Schram] Massaging the anti-Biden message]]></title>
-        <id>https://v.daum.net/v/20230214051204850</id>
-        <link href="https://v.daum.net/v/20230214051204850"/>
-        <updated>2023-02-13T20:19:52.094Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:12</span>]]></content>
     </entry>
 </feed>
