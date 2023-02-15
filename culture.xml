@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2023-02-15T15:20:23.381Z</updated>
+    <updated>2023-02-15T16:24:40.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[리츠칼튼 클럽, 아태지역 런칭 통해 새로운 럭셔리 여행 경험 제공]]></title>
+        <id>https://v.daum.net/v/20230216010002290</id>
+        <link href="https://v.daum.net/v/20230216010002290"/>
+        <updated>2023-02-15T16:23:37.669Z</updated>
+        <content type="html"><![CDATA[웨딩21뉴스<span class="txt_bar"> · </span><span class="info_time">01:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2월 KBS울산 시청자위원회 열려]]></title>
         <id>https://v.daum.net/v/20230216001547085</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230216000205910"/>
         <updated>2023-02-15T15:19:31.354Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쏠퀴즈(쏠야구) 정답 2월 16일]]></title>
-        <id>https://v.daum.net/v/20230216000202904</id>
-        <link href="https://v.daum.net/v/20230216000202904"/>
-        <updated>2023-02-15T15:19:31.355Z</updated>
-        <content type="html"><![CDATA[bnt뉴스<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
     </entry>
 </feed>
