@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-02-15T04:21:43.050Z</updated>
+    <updated>2023-02-15T05:19:41.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[논단]농부는 굵어 죽을지언정 종자는 남겨둔다]]></title>
+        <id>https://v.daum.net/v/20230215134926867</id>
+        <link href="https://v.daum.net/v/20230215134926867"/>
+        <updated>2023-02-15T05:19:22.408Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">13:49</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[똑같이 넷플릭스 탔는데…희비 엇갈린 우영우와 재벌집 막내아들]]></title>
         <id>https://v.daum.net/v/20230215131206855</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230215111308104"/>
         <updated>2023-02-15T02:51:01.543Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">11:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기고]협력을 통해 수소경제의 주도권을 확보하자]]></title>
-        <id>https://v.daum.net/v/20230215110316592</id>
-        <link href="https://v.daum.net/v/20230215110316592"/>
-        <updated>2023-02-15T02:51:01.544Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">11:03</span>]]></content>
     </entry>
 </feed>
