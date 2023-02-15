@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2023-02-15T16:24:40.576Z</updated>
+    <updated>2023-02-15T17:17:59.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['대구 지하철 참사' 추모 시민단체들에…홍준표 "정쟁 도구 옳지 않아"]]></title>
+        <id>https://v.daum.net/v/20230216020531477</id>
+        <link href="https://v.daum.net/v/20230216020531477"/>
+        <updated>2023-02-15T17:16:49.421Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김남국 “김성태 깡패라 해도 되나” vs 한동훈 “깡패라고 본다”]]></title>
         <id>https://v.daum.net/v/20230216011805391</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230216001214044"/>
         <updated>2023-02-15T15:19:07.350Z</updated>
         <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[檢 구속영장 청구 예고에 바쁜 野...'체포동의안 표 단속']]></title>
-        <id>https://v.daum.net/v/20230216001144040</id>
-        <link href="https://v.daum.net/v/20230216001144040"/>
-        <updated>2023-02-15T15:19:07.351Z</updated>
-        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:11</span>]]></content>
     </entry>
 </feed>
