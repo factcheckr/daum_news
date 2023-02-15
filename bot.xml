@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-02-15T09:18:27.134Z</updated>
+    <updated>2023-02-15T10:20:03.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인천 송도동 e편한세상송도아파트 70㎡ 4억8900만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230215183539683</id>
+        <link href="https://v.daum.net/v/20230215183539683"/>
+        <updated>2023-02-15T10:20:02.866Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:35</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천 논현동 한화에코메트로11단지 85㎡ 4억500만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230215183044583</id>
+        <link href="https://v.daum.net/v/20230215183044583"/>
+        <updated>2023-02-15T10:20:02.867Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천 서창동 서창퍼스트뷰(구,서창LH7단지) 101㎡ 4억3500만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230215182537474</id>
+        <link href="https://v.daum.net/v/20230215182537474"/>
+        <updated>2023-02-15T10:20:02.867Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:25</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수원 화서동 화서 블루밍푸른숲아파트 59㎡ 5억원에 거래]]></title>
+        <id>https://v.daum.net/v/20230215182044338</id>
+        <link href="https://v.daum.net/v/20230215182044338"/>
+        <updated>2023-02-15T10:20:02.868Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:20</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인천 논현동 논현소래마을풍림 85㎡ 2억9000만원에 거래]]></title>
         <id>https://v.daum.net/v/20230215181539189</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230215173103777"/>
         <updated>2023-02-15T09:18:26.474Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 망포동 영통아이파크캐슬2단지 아파트 75㎡ 6억4500만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230215172549540</id>
-        <link href="https://v.daum.net/v/20230215172549540"/>
-        <updated>2023-02-15T09:18:26.475Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용인 신봉동 엘지자이1차 101㎡ 5억9000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230215172037347</id>
-        <link href="https://v.daum.net/v/20230215172037347"/>
-        <updated>2023-02-15T08:22:52.022Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 정자동 정자동신2차 59㎡ 2억7500만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230215171543200</id>
-        <link href="https://v.daum.net/v/20230215171543200"/>
-        <updated>2023-02-15T08:22:52.024Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하남 망월동 미사강변스타힐스 51㎡ 6억2000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230215171045010</id>
-        <link href="https://v.daum.net/v/20230215171045010"/>
-        <updated>2023-02-15T08:22:52.025Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:10</span>]]></content>
     </entry>
 </feed>
