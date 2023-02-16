@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2023-02-16T16:24:53.562Z</updated>
+    <updated>2023-02-16T17:16:23.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안철수 "1,800배 시세차익 해명하라"…김기현 "민주당식 가짜뉴스"]]></title>
+        <id>https://v.daum.net/v/20230217013000295</id>
+        <link href="https://v.daum.net/v/20230217013000295"/>
+        <updated>2023-02-16T17:14:42.756Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">01:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["감사원장 관사 호화 정원 증명"...해명도 논란]]></title>
         <id>https://v.daum.net/v/20230217010413208</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230217000718874"/>
         <updated>2023-02-16T15:17:42.956Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘부결 당론’이냐 ‘자유투표’냐… 민주, 체포동의안 ‘딜레마’]]></title>
-        <id>https://v.daum.net/v/20230217000414833</id>
-        <link href="https://v.daum.net/v/20230217000414833"/>
-        <updated>2023-02-16T15:17:42.964Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
     </entry>
 </feed>

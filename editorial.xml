@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-02-16T16:24:53.575Z</updated>
+    <updated>2023-02-16T17:16:23.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]정말 당정분리 재검토해야 하나]]></title>
+        <id>https://v.daum.net/v/20230217020506386</id>
+        <link href="https://v.daum.net/v/20230217020506386"/>
+        <updated>2023-02-16T17:16:02.710Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]챗GPT가 말하는 한국의 AI 경쟁력]]></title>
+        <id>https://v.daum.net/v/20230217020304384</id>
+        <link href="https://v.daum.net/v/20230217020304384"/>
+        <updated>2023-02-16T17:16:02.712Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중앙시평] 대전환 시대의 대응]]></title>
         <id>https://v.daum.net/v/20230217011035247</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230217004332069"/>
         <updated>2023-02-16T16:24:28.589Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[그 영화 이 장면] 피터 본 칸트]]></title>
-        <id>https://v.daum.net/v/20230217003952059</id>
-        <link href="https://v.daum.net/v/20230217003952059"/>
-        <updated>2023-02-16T16:24:28.592Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 톡픽(TalkPick)] “러시아는 결국 우크라이나에서 패배할 것”]]></title>
-        <id>https://v.daum.net/v/20230217003912057</id>
-        <link href="https://v.daum.net/v/20230217003912057"/>
-        <updated>2023-02-16T16:24:28.593Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:39</span>]]></content>
     </entry>
 </feed>
