@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-02-16T10:20:51.478Z</updated>
+    <updated>2023-02-16T11:15:28.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신계용 과천시장, 인도 삼성전자 R&D센터 방문]]></title>
+        <id>https://v.daum.net/v/20230216201305224</id>
+        <link href="https://v.daum.net/v/20230216201305224"/>
+        <updated>2023-02-16T11:15:19.832Z</updated>
+        <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">20:13</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강진군, 축산 경영비 절감 기술지원 ‘큰 호응’]]></title>
+        <id>https://v.daum.net/v/20230216193819449</id>
+        <link href="https://v.daum.net/v/20230216193819449"/>
+        <updated>2023-02-16T11:15:19.835Z</updated>
+        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">19:38</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] The Londoner Macao Garners Two Five-Star Awards in Forbes Travel]]></title>
         <id>https://v.daum.net/v/20230216191351047</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230216174026972"/>
         <updated>2023-02-16T09:20:19.025Z</updated>
         <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">17:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라이크라, 캐시 스파이서를 새로운 최고법률책임자로 임명]]></title>
-        <id>https://v.daum.net/v/20230216173706871</id>
-        <link href="https://v.daum.net/v/20230216173706871"/>
-        <updated>2023-02-16T09:20:19.026Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The LYCRA Company Names Cathy Spicer as New Chief Legal Officer]]></title>
-        <id>https://v.daum.net/v/20230216173704867</id>
-        <link href="https://v.daum.net/v/20230216173704867"/>
-        <updated>2023-02-16T09:20:19.029Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:37</span>]]></content>
     </entry>
 </feed>
