@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-02-17T22:20:19.690Z</updated>
+    <updated>2023-02-17T23:17:36.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주위에 이런 사람 없다면…불행한 인생[줄리아 투자노트]]]></title>
+        <id>https://v.daum.net/v/20230218073104934</id>
+        <link href="https://v.daum.net/v/20230218073104934"/>
+        <updated>2023-02-17T23:17:19.420Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">07:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[故 이예람 중사 아버지가 기자에게 전화 온 까닭 [기자수첩-사회]]]></title>
         <id>https://v.daum.net/v/20230218070258740</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230218040413481</id>
         <link href="https://v.daum.net/v/20230218040413481"/>
         <updated>2023-02-17T20:22:04.421Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이주윤의 딴생각] 나는 엄마의 짝사랑]]></title>
-        <id>https://v.daum.net/v/20230218040405479</id>
-        <link href="https://v.daum.net/v/20230218040405479"/>
-        <updated>2023-02-17T20:22:04.422Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:04</span>]]></content>
     </entry>
 </feed>
