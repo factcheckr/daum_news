@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-02-18T13:23:08.653Z</updated>
+    <updated>2023-02-18T14:18:34.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[완벽하진 않지만 로뽕 차기엔 충분한 '볼다이크']]></title>
+        <id>https://v.daum.net/v/20230218225703461</id>
+        <link href="https://v.daum.net/v/20230218225703461"/>
+        <updated>2023-02-18T14:18:09.177Z</updated>
+        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">22:57</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['의사 총파업 위기' 의협, '간호법 반발'에 비대위 구성한다]]></title>
         <id>https://v.daum.net/v/20230218221003167</id>
@@ -27,7 +34,7 @@
         <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">21:30</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“한국을 마지막으로 보고 세상 떠나겠다” 6개월 시한부 위대한 총장, 감동의 장면]]></title>
+        <title type="html"><![CDATA[“한국 마지막으로 보고 세상 떠나겠다” 6개월 시한부 위대한 총장, 감동의 장면]]></title>
         <id>https://v.daum.net/v/20230218210737607</id>
         <link href="https://v.daum.net/v/20230218210737607"/>
         <updated>2023-02-18T12:34:36.504Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230218161923542"/>
         <updated>2023-02-18T09:19:30.945Z</updated>
         <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">16:19</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“완전히 소름끼쳤다”…AI챗봇은 내 말을 따르지 않았다]]></title>
-        <id>https://v.daum.net/v/20230218160501293</id>
-        <link href="https://v.daum.net/v/20230218160501293"/>
-        <updated>2023-02-18T09:19:30.947Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">16:05</span>]]></content>
     </entry>
 </feed>

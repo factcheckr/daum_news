@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-02-18T13:23:08.659Z</updated>
+    <updated>2023-02-18T14:18:34.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[세컷칼럼] 친명 좌장 정성호의 이중플레이? 정진상·김용 ‘특별면회’ 유감]]></title>
+        <id>https://v.daum.net/v/20230218230034490</id>
+        <link href="https://v.daum.net/v/20230218230034490"/>
+        <updated>2023-02-18T14:18:17.901Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마포 당인리, 자연부락의 해체  한 눈에 보다]]></title>
         <id>https://v.daum.net/v/20230218203502337</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230218083005398"/>
         <updated>2023-02-18T05:18:39.761Z</updated>
         <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">08:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명, ‘동병상련’ 윤미향에 “미안하다”사과…국민에 사죄가 먼저 아닌가 [핫이슈]]]></title>
-        <id>https://v.daum.net/v/20230218083000390</id>
-        <link href="https://v.daum.net/v/20230218083000390"/>
-        <updated>2023-02-18T01:18:04.959Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">08:30</span>]]></content>
     </entry>
 </feed>
