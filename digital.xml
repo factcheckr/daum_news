@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-02-18T10:20:55.847Z</updated>
+    <updated>2023-02-18T12:35:09.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MBC 사장 후보에 안형준·허태정…박성제 연임 실패]]></title>
+        <id>https://v.daum.net/v/20230218213002769</id>
+        <link href="https://v.daum.net/v/20230218213002769"/>
+        <updated>2023-02-18T12:34:36.504Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">21:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“한국을 마지막으로 보고 가서 행복” 6개월 시한부 위대한 총장, 감동 학위 수여식]]></title>
+        <id>https://v.daum.net/v/20230218210737607</id>
+        <link href="https://v.daum.net/v/20230218210737607"/>
+        <updated>2023-02-18T12:34:36.504Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">21:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MBC 사장 후보에 안형준·허태정...박성제 연임 실패]]></title>
+        <id>https://v.daum.net/v/20230218205056486</id>
+        <link href="https://v.daum.net/v/20230218205056486"/>
+        <updated>2023-02-18T12:34:36.504Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">20:50</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“너도나도 친환경” 말만 번지르한 기업 광고, 12억 벌금폭탄 맞을라 [지구, 뭐래?]]]></title>
         <id>https://v.daum.net/v/20230218185035333</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230218155403157"/>
         <updated>2023-02-18T09:19:30.951Z</updated>
         <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">15:54</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뱀에게도 귀가 있을까?…예상 뛰어넘는 청각의 비밀 [핵잼 사이언스]]]></title>
-        <id>https://v.daum.net/v/20230218154301048</id>
-        <link href="https://v.daum.net/v/20230218154301048"/>
-        <updated>2023-02-18T09:19:30.953Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">15:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고집' 꺾은 애플, 'C타입' 단 둥근 모서리 '아이폰15' 내놓나]]></title>
-        <id>https://v.daum.net/v/20230218150623857</id>
-        <link href="https://v.daum.net/v/20230218150623857"/>
-        <updated>2023-02-18T06:22:29.597Z</updated>
-        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">15:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가뜩이나 어려운데 카카오까지?…야놀자·여기어때 '비상' [신현보의 딥데이터]]]></title>
-        <id>https://v.daum.net/v/20230218150103831</id>
-        <link href="https://v.daum.net/v/20230218150103831"/>
-        <updated>2023-02-18T06:22:29.597Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">15:01</span>]]></content>
     </entry>
 </feed>
