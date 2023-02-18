@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-02-18T09:19:59.080Z</updated>
+    <updated>2023-02-18T10:20:55.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“너도나도 친환경” 말만 번지르한 기업 광고, 12억 벌금폭탄 맞을라 [지구, 뭐래?]]]></title>
+        <id>https://v.daum.net/v/20230218185035333</id>
+        <link href="https://v.daum.net/v/20230218185035333"/>
+        <updated>2023-02-18T10:20:31.136Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">18:50</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“군대도 대신 가줄 수 있어”...미국 중국이 경쟁붙은 이 친구는 [더테크웨이브]]]></title>
         <id>https://v.daum.net/v/20230218180300849</id>
@@ -62,7 +69,7 @@
         <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">16:19</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“당신 결혼생활은 행복하지 않아…사랑해” AI챗봇, 내 말을 따르지 않았다]]></title>
+        <title type="html"><![CDATA[“완전히 소름끼쳤다”…AI챗봇은 내 말을 따르지 않았다]]></title>
         <id>https://v.daum.net/v/20230218160501293</id>
         <link href="https://v.daum.net/v/20230218160501293"/>
         <updated>2023-02-18T09:19:30.947Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230218150103831"/>
         <updated>2023-02-18T06:22:29.597Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">15:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[천재 다빈치 알고보니 인류 최초의 지구중력 연구자였다]]></title>
-        <id>https://v.daum.net/v/20230218150001806</id>
-        <link href="https://v.daum.net/v/20230218150001806"/>
-        <updated>2023-02-18T06:22:29.597Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">15:00</span>]]></content>
     </entry>
 </feed>
