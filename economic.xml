@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2023-02-19T16:22:27.246Z</updated>
+    <updated>2023-02-19T17:17:00.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이번주엔 美PCE…Fed 빅스텝 전망 높아지나]]></title>
+        <id>https://v.daum.net/v/20230220015224587</id>
+        <link href="https://v.daum.net/v/20230220015224587"/>
+        <updated>2023-02-19T17:15:47.453Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">01:52</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DGB금융그룹, 먹방 소재 유튜브 새 콘텐츠 ‘eat세끼’ 공개]]></title>
         <id>https://v.daum.net/v/20230220010439388</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230220002017229"/>
         <updated>2023-02-19T16:21:15.759Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올해도 최대 400% 성과급, 5대 은행들 또 돈잔치]]></title>
-        <id>https://v.daum.net/v/20230220001930228</id>
-        <link href="https://v.daum.net/v/20230220001930228"/>
-        <updated>2023-02-19T16:21:15.760Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:19</span>]]></content>
     </entry>
 </feed>
