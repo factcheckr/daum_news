@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2023-02-20T16:23:48.160Z</updated>
+    <updated>2023-02-20T17:16:21.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['뉴:홈' 첫 사전청약 일반공급 평형별 최고 경쟁률 82.4 대 1]]></title>
+        <id>https://v.daum.net/v/20230221021008772</id>
+        <link href="https://v.daum.net/v/20230221021008772"/>
+        <updated>2023-02-20T17:14:59.562Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">02:10</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국농수산식품유통공사, 지속가능한 전복 양식어업 발전 방안 모색]]></title>
         <id>https://v.daum.net/v/20230221010413637</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230221010216610"/>
         <updated>2023-02-20T16:22:32.344Z</updated>
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기아, UAE 방산 전시회서 미래형 특수차량 선봬]]></title>
-        <id>https://v.daum.net/v/20230221010159609</id>
-        <link href="https://v.daum.net/v/20230221010159609"/>
-        <updated>2023-02-20T16:22:32.345Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:01</span>]]></content>
     </entry>
 </feed>
