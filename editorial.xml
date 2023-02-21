@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-02-21T22:17:38.723Z</updated>
+    <updated>2023-02-21T23:22:04.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[영상2도]인력 파견업체로 전락한 학교들]]></title>
+        <id>https://v.daum.net/v/20230222080052904</id>
+        <link href="https://v.daum.net/v/20230222080052904"/>
+        <updated>2023-02-21T23:21:44.573Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[시로 여는 수요일] 할미꽃]]></title>
+        <id>https://v.daum.net/v/20230222080039895</id>
+        <link href="https://v.daum.net/v/20230222080039895"/>
+        <updated>2023-02-21T23:21:44.573Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“기록을 삭제한 적 없다”는 공무원과 검찰 [프리스타일]]]></title>
+        <id>https://v.daum.net/v/20230222073017389</id>
+        <link href="https://v.daum.net/v/20230222073017389"/>
+        <updated>2023-02-21T23:21:44.574Z</updated>
+        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">07:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[세평] 꼭 필요한 대물림]]></title>
         <id>https://v.daum.net/v/20230222070511040</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230222060031074"/>
         <updated>2023-02-21T22:17:23.612Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아버지로부터 배웠나? 데이트폭력 이어가는 MZ세대 남성들]]></title>
-        <id>https://v.daum.net/v/20230222055547968</id>
-        <link href="https://v.daum.net/v/20230222055547968"/>
-        <updated>2023-02-21T22:17:23.613Z</updated>
-        <content type="html"><![CDATA[프레시안<span class="txt_bar"> · </span><span class="info_time">05:55</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Cho Sung-hun] Joint probe needed for the issue of Vietnam War's civilian victims]]></title>
-        <id>https://v.daum.net/v/20230222054027781</id>
-        <link href="https://v.daum.net/v/20230222054027781"/>
-        <updated>2023-02-21T22:17:23.614Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Kim Seong-kon] War with fascism, communism, populism]]></title>
-        <id>https://v.daum.net/v/20230222053531726</id>
-        <link href="https://v.daum.net/v/20230222053531726"/>
-        <updated>2023-02-21T22:17:23.616Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:35</span>]]></content>
     </entry>
 </feed>
