@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-02-22T18:23:45.761Z</updated>
+    <updated>2023-02-22T19:17:55.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[위기의 인텔, 분기 배당금 대폭 삭감]]></title>
+        <id>https://v.daum.net/v/20230223034501054</id>
+        <link href="https://v.daum.net/v/20230223034501054"/>
+        <updated>2023-02-22T19:17:25.192Z</updated>
+        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">03:45</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이제 챗봇 써볼 수 있다고?...MS, 모바일용 빙 '맛보기' 출시]]></title>
+        <id>https://v.daum.net/v/20230223033000025</id>
+        <link href="https://v.daum.net/v/20230223033000025"/>
+        <updated>2023-02-22T19:17:25.194Z</updated>
+        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">03:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[실적 악화 ‘K엔터 대표’ CJ ENM… 연초부터 칼바람]]></title>
         <id>https://v.daum.net/v/20230223030600958</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230223010012416"/>
         <updated>2023-02-22T16:23:54.378Z</updated>
         <content type="html"><![CDATA[동아사이언스<span class="txt_bar"> · </span><span class="info_time">01:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[일문일답] 김빛내리 IBS RNA연구단장 "10년내 새 RNA 치료제 기대"]]></title>
-        <id>https://v.daum.net/v/20230223010008414</id>
-        <link href="https://v.daum.net/v/20230223010008414"/>
-        <updated>2023-02-22T16:23:54.380Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">01:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마이크로RNA 만드는 '다이서' 원리 밝혔다…RNA치료제 새 가능성]]></title>
-        <id>https://v.daum.net/v/20230223010006413</id>
-        <link href="https://v.daum.net/v/20230223010006413"/>
-        <updated>2023-02-22T16:23:54.381Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">01:00</span>]]></content>
     </entry>
 </feed>
