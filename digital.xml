@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-02-23T13:32:03.327Z</updated>
+    <updated>2023-02-23T14:18:38.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우리카드 배구단, 아프리카TV 최다 누적 시청자 보유 팀 된 비결은]]></title>
+        <id>https://v.daum.net/v/20230223230714537</id>
+        <link href="https://v.daum.net/v/20230223230714537"/>
+        <updated>2023-02-23T14:18:13.064Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">23:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[핵융합으로 무한 에너지 창출…‘K인공태양’ 일출 준비 분주]]></title>
+        <id>https://v.daum.net/v/20230223223354322</id>
+        <link href="https://v.daum.net/v/20230223223354322"/>
+        <updated>2023-02-23T14:18:13.085Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[모바일 학급 알림장 서비스, 보안 취약점 드러나... “2시간 만에 조치”]]></title>
         <id>https://v.daum.net/v/20230223223118293</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230223212548583"/>
         <updated>2023-02-23T12:35:43.167Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">21:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘챗GPT, 회사서 쓰지 마’…미국 대기업들도 금지령]]></title>
-        <id>https://v.daum.net/v/20230223212541580</id>
-        <link href="https://v.daum.net/v/20230223212541580"/>
-        <updated>2023-02-23T12:35:43.173Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">21:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비즈플레이, 비플식권 출시 1년 만에 가입기업 2000개 돌파]]></title>
-        <id>https://v.daum.net/v/20230223211329442</id>
-        <link href="https://v.daum.net/v/20230223211329442"/>
-        <updated>2023-02-23T12:35:43.175Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">21:13</span>]]></content>
     </entry>
 </feed>

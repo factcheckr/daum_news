@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-02-23T13:32:03.315Z</updated>
+    <updated>2023-02-23T14:18:38.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스타벅스 코리아, 스프링 시즌 신규 음료·푸드 선보여]]></title>
+        <id>https://v.daum.net/v/20230223224327373</id>
+        <link href="https://v.daum.net/v/20230223224327373"/>
+        <updated>2023-02-23T14:18:29.743Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:43</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인사] 양평군]]></title>
         <id>https://v.daum.net/v/20230223213953742</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230223204359933</id>
         <link href="https://v.daum.net/v/20230223204359933"/>
         <updated>2023-02-23T12:36:01.198Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이마트, 에너지 절감 시설에 600억원 투자…전기차 설비도 확충]]></title>
-        <id>https://v.daum.net/v/20230223204351931</id>
-        <link href="https://v.daum.net/v/20230223204351931"/>
-        <updated>2023-02-23T12:36:01.199Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:43</span>]]></content>
     </entry>
 </feed>
