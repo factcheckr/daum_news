@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-02-24T13:26:10.358Z</updated>
+    <updated>2023-02-24T14:18:23.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한컴, 지난해 영업익 42%↓…"MDS 매각 영향, M&A 자금 1200억 확보"]]></title>
+        <id>https://v.daum.net/v/20230224224328675</id>
+        <link href="https://v.daum.net/v/20230224224328675"/>
+        <updated>2023-02-24T14:17:56.140Z</updated>
+        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">22:43</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[밀집·장애물에도 5G ‘빵빵’…세계 최고 5G 스몰셀 SW 개발]]></title>
         <id>https://v.daum.net/v/20230224222441534</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230224210929724"/>
         <updated>2023-02-24T12:32:09.067Z</updated>
         <content type="html"><![CDATA[연합뉴스TV<span class="txt_bar"> · </span><span class="info_time">21:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부음]윤철호(문화일보 편집부 차장)씨 부친상]]></title>
-        <id>https://v.daum.net/v/20230224205804532</id>
-        <link href="https://v.daum.net/v/20230224205804532"/>
-        <updated>2023-02-24T12:32:09.068Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">20:58</span>]]></content>
     </entry>
 </feed>
