@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2023-02-25T18:21:10.017Z</updated>
+    <updated>2023-02-25T19:14:31.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유연석, 유재석도 반한 수준급 요리 실력 "자격증 있다" [런닝맨]]]></title>
+        <id>https://v.daum.net/v/20230226040006066</id>
+        <link href="https://v.daum.net/v/20230226040006066"/>
+        <updated>2023-02-25T19:13:45.363Z</updated>
+        <content type="html"><![CDATA[마이데일리<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유재석, '무도' 이어 가요제 개최?…조세호→광희 줄줄이 소환 (놀뭐)]]></title>
+        <id>https://v.daum.net/v/20230226040003065</id>
+        <link href="https://v.daum.net/v/20230226040003065"/>
+        <updated>2023-02-25T19:13:45.364Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이은결, 본인 소유 '870평 규모' 마술 공장 공개 [당나귀 귀]]]></title>
         <id>https://v.daum.net/v/20230226020129988</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230226003900814"/>
         <updated>2023-02-25T16:21:21.199Z</updated>
         <content type="html"><![CDATA[스타투데이<span class="txt_bar"> · </span><span class="info_time">00:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘전지적 참견 시점’ 김민석 ‘상추 10개쌈’에 이영자 “우리 집안이야!”]]></title>
-        <id>https://v.daum.net/v/20230226003837813</id>
-        <link href="https://v.daum.net/v/20230226003837813"/>
-        <updated>2023-02-25T16:21:21.204Z</updated>
-        <content type="html"><![CDATA[MBC연예<span class="txt_bar"> · </span><span class="info_time">00:38</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['전참시' 김민석 동생 김우석 "형이 용돈 주기 시작하며 사이좋아져"]]></title>
-        <id>https://v.daum.net/v/20230226003435805</id>
-        <link href="https://v.daum.net/v/20230226003435805"/>
-        <updated>2023-02-25T16:21:21.205Z</updated>
-        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">00:34</span>]]></content>
     </entry>
 </feed>
