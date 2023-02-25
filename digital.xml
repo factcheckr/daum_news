@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-02-25T03:23:47.903Z</updated>
+    <updated>2023-02-25T04:22:34.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지나치게 섣부른 KT 대표 유력설[김현아의 IT세상읽기]]]></title>
+        <id>https://v.daum.net/v/20230225131336363</id>
+        <link href="https://v.daum.net/v/20230225131336363"/>
+        <updated>2023-02-25T04:22:03.619Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">13:13</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인턴 H가 간다]'발표가 일상' 프랩이 뭔가요]]></title>
+        <id>https://v.daum.net/v/20230225130127296</id>
+        <link href="https://v.daum.net/v/20230225130127296"/>
+        <updated>2023-02-25T04:22:03.619Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">13:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[토요웹툰] 시각장애 장벽 부순 네이버웹툰···비결은 AI]]></title>
         <id>https://v.daum.net/v/20230225121127008</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230225113014637"/>
         <updated>2023-02-25T02:49:56.186Z</updated>
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“왜 미국에 투자” TSMC 흔들릴때...삼성은 ‘이것’ 잡았다 [MK위클리반도체]]]></title>
-        <id>https://v.daum.net/v/20230225110300329</id>
-        <link href="https://v.daum.net/v/20230225110300329"/>
-        <updated>2023-02-25T02:49:56.189Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">11:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[달콤한 사이언스] 동양인과 흑인이 백인보다 오래 산다]]></title>
-        <id>https://v.daum.net/v/20230225110226316</id>
-        <link href="https://v.daum.net/v/20230225110226316"/>
-        <updated>2023-02-25T02:49:56.189Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">11:02</span>]]></content>
     </entry>
 </feed>
