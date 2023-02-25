@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-02-25T09:17:18.464Z</updated>
+    <updated>2023-02-25T10:17:21.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[② 오늘의 운세, 궁금하세요? 2월 26일(음력 2월 7일) : 말띠~돼지띠 & MBTI(16가지 성향, 궁합)]]></title>
+        <id>https://v.daum.net/v/20230225190009773</id>
+        <link href="https://v.daum.net/v/20230225190009773"/>
+        <updated>2023-02-25T10:17:06.267Z</updated>
+        <content type="html"><![CDATA[웨딩21뉴스<span class="txt_bar"> · </span><span class="info_time">19:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[① 오늘의 운세, 궁금하세요? 2월 26일(음력 2월 7일) : 쥐띠~뱀띠 & MBTI(16가지 성향, 궁합)]]></title>
+        <id>https://v.daum.net/v/20230225190004771</id>
+        <link href="https://v.daum.net/v/20230225190004771"/>
+        <updated>2023-02-25T10:17:06.268Z</updated>
+        <content type="html"><![CDATA[웨딩21뉴스<span class="txt_bar"> · </span><span class="info_time">19:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[불확실성의 시대]]></title>
         <id>https://v.daum.net/v/20230225170506606</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230225073826086"/>
         <updated>2023-02-25T01:19:10.058Z</updated>
         <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">07:38</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이경실 성희롱 논란, 일 커진 이유 [하재근의 이슈분석]]]></title>
-        <id>https://v.daum.net/v/20230225060607969</id>
-        <link href="https://v.daum.net/v/20230225060607969"/>
-        <updated>2023-02-24T21:16:59.033Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">06:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기고]고이면 썩기 마련…SM 사태, 진흙탕 걷어내면 드러나는 핵심]]></title>
-        <id>https://v.daum.net/v/20230225055700745</id>
-        <link href="https://v.daum.net/v/20230225055700745"/>
-        <updated>2023-02-24T21:16:59.033Z</updated>
-        <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">05:57</span>]]></content>
     </entry>
 </feed>
