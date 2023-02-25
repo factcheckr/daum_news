@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-02-25T07:16:08.450Z</updated>
+    <updated>2023-02-25T08:21:29.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[불확실성의 시대]]></title>
+        <id>https://v.daum.net/v/20230225170506606</id>
+        <link href="https://v.daum.net/v/20230225170506606"/>
+        <updated>2023-02-25T08:21:07.524Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">17:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[러-우크라이나 전쟁 1년, 글로벌 경제 생태계가 바뀌었다 [최준영의 경제 바로읽기]]]></title>
         <id>https://v.daum.net/v/20230225160803942</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230225055700745"/>
         <updated>2023-02-24T21:16:59.033Z</updated>
         <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">05:57</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 美 50조 반도체 지원 시작... 정부 필사적으로 협상하라]]></title>
-        <id>https://v.daum.net/v/20230225043146210</id>
-        <link href="https://v.daum.net/v/20230225043146210"/>
-        <updated>2023-02-24T21:16:59.034Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:31</span>]]></content>
     </entry>
 </feed>
