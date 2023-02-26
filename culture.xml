@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2023-02-26T15:17:15.246Z</updated>
+    <updated>2023-02-26T16:25:30.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[대중문화 단신] ‘뷰민라 2023’ 1차 라인업 14팀 공개 외]]></title>
+        <id>https://v.daum.net/v/20230227010346130</id>
+        <link href="https://v.daum.net/v/20230227010346130"/>
+        <updated>2023-02-26T16:24:34.842Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[양강섬예술축제, 축제프로그램 특별상 수상]]></title>
+        <id>https://v.daum.net/v/20230227001948909</id>
+        <link href="https://v.daum.net/v/20230227001948909"/>
+        <updated>2023-02-26T16:24:34.848Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">00:19</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오늘의 운세] 2023년 2월27일 띠별‧별자리]]></title>
         <id>https://v.daum.net/v/20230227001015858</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230227000127767"/>
         <updated>2023-02-26T15:16:26.696Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<007> 그레이 존스의 귀환? 후드 스타일링]]></title>
-        <id>https://v.daum.net/v/20230227000117765</id>
-        <link href="https://v.daum.net/v/20230227000117765"/>
-        <updated>2023-02-26T15:16:26.697Z</updated>
-        <content type="html"><![CDATA[엘르<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 날씨] 맑고 큰 일교차…중부 미세먼지 '나쁨']]></title>
-        <id>https://v.daum.net/v/20230227000033759</id>
-        <link href="https://v.daum.net/v/20230227000033759"/>
-        <updated>2023-02-26T15:16:26.698Z</updated>
-        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
