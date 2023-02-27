@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-02-27T05:17:56.525Z</updated>
+    <updated>2023-02-27T06:23:29.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이재명 “수사가 사건 아닌 사람 향해”…체포동의안 ‘부결’ 호소]]></title>
+        <id>https://v.daum.net/v/20230227152004191</id>
+        <link href="https://v.daum.net/v/20230227152004191"/>
+        <updated>2023-02-27T06:23:03.224Z</updated>
+        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">15:20</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[작동 안된 한동훈式 인사검증 시스템…책임론 ‘눈덩이’]]></title>
         <id>https://v.daum.net/v/20230227140902152</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230227114707466"/>
         <updated>2023-02-27T02:51:11.279Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데스크칼럼] 힘이 있는 곳에 돈도 모였다]]></title>
-        <id>https://v.daum.net/v/20230227114452331</id>
-        <link href="https://v.daum.net/v/20230227114452331"/>
-        <updated>2023-02-27T02:51:11.282Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:44</span>]]></content>
     </entry>
 </feed>
