@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-02-27T20:25:13.474Z</updated>
+    <updated>2023-02-27T21:19:29.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스킨룸, 화장품 마음 모델로 ‘얼짱시대’ 김슬미 발탁]]></title>
+        <id>https://v.daum.net/v/20230228060703480</id>
+        <link href="https://v.daum.net/v/20230228060703480"/>
+        <updated>2023-02-27T21:19:15.711Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">06:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“글로벌 강원특별자치도 도약 여성 역량 발휘할 것”]]></title>
         <id>https://v.daum.net/v/20230228050230674</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230228000603313</id>
         <link href="https://v.daum.net/v/20230228000603313"/>
         <updated>2023-02-27T15:19:19.788Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[위기를 기회로] 에너지·기계·IT 중심 사업 포트폴리오 재편]]></title>
-        <id>https://v.daum.net/v/20230228000601311</id>
-        <link href="https://v.daum.net/v/20230228000601311"/>
-        <updated>2023-02-27T15:19:19.789Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
     </entry>
 </feed>
