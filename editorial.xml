@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-02-27T16:24:36.880Z</updated>
+    <updated>2023-02-27T17:18:01.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박준영의 트렌드&브랜드]챗GPT 어디까지 경험해 보셨나요?]]></title>
+        <id>https://v.daum.net/v/20230228020434823</id>
+        <link href="https://v.daum.net/v/20230228020434823"/>
+        <updated>2023-02-27T17:17:42.951Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:04</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]대학과 도시 사업이 '한국판 말뫼' 되려면]]></title>
+        <id>https://v.daum.net/v/20230228020427822</id>
+        <link href="https://v.daum.net/v/20230228020427822"/>
+        <updated>2023-02-27T17:17:42.953Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:04</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[고현곤 칼럼] 위기 때마다 은행이 문제였다]]></title>
         <id>https://v.daum.net/v/20230228010235607</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230228003903520"/>
         <updated>2023-02-27T16:24:15.915Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 톡픽(TalkPick)] “푸틴, 당분간 우크라이나를 이길 수 없겠지만 질 수도 없다고 믿어”]]></title>
-        <id>https://v.daum.net/v/20230228003753518</id>
-        <link href="https://v.daum.net/v/20230228003753518"/>
-        <updated>2023-02-27T16:24:15.916Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[윤대현의 마음속 세상 풍경] [145] 마음 독립 만세]]></title>
-        <id>https://v.daum.net/v/20230228002011432</id>
-        <link href="https://v.daum.net/v/20230228002011432"/>
-        <updated>2023-02-27T16:24:15.917Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:20</span>]]></content>
     </entry>
 </feed>
