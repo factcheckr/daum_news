@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-02-27T02:51:27.100Z</updated>
+    <updated>2023-02-27T03:27:54.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사설]불가피한 물가 급등, 통제보다 실상 알리고 협조 구하라]]></title>
+        <id>https://v.daum.net/v/20230227115247719</id>
+        <link href="https://v.daum.net/v/20230227115247719"/>
+        <updated>2023-02-27T03:27:36.510Z</updated>
+        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:52</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사설]尹 최악의 인사 참사…檢 일색 인사 라인 문책·쇄신해야]]></title>
+        <id>https://v.daum.net/v/20230227115246718</id>
+        <link href="https://v.daum.net/v/20230227115246718"/>
+        <updated>2023-02-27T03:27:36.510Z</updated>
+        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:52</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설]“李 기소돼도 대표직 유지” 미리 못 박은 민주당 퇴행]]></title>
         <id>https://v.daum.net/v/20230227114937542</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230227113726017"/>
         <updated>2023-02-27T02:51:11.292Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[글로벌 인사이트] 중국 리오프닝, 중부 내륙시장을 주목하라]]></title>
-        <id>https://v.daum.net/v/20230227113627990</id>
-        <link href="https://v.daum.net/v/20230227113627990"/>
-        <updated>2023-02-27T02:51:11.293Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데일리안 시사만평] 정순신 인사검증 논란…'검사나라' 비판 수용하고 제대로 해라]]></title>
-        <id>https://v.daum.net/v/20230227113532953</id>
-        <link href="https://v.daum.net/v/20230227113532953"/>
-        <updated>2023-02-27T02:51:11.294Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">11:35</span>]]></content>
     </entry>
 </feed>
