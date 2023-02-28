@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/sports</id>
     <title>다음 뉴스 ─ 전체기사 ─ 스포츠</title>
-    <updated>2023-02-28T16:25:05.083Z</updated>
+    <updated>2023-02-28T17:17:23.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김하성 동료 '웨이트 도중' 발가락 골절…SD, 시작부터 암초 만났다]]></title>
+        <id>https://v.daum.net/v/20230301014527209</id>
+        <link href="https://v.daum.net/v/20230301014527209"/>
+        <updated>2023-02-28T17:16:45.040Z</updated>
+        <content type="html"><![CDATA[스포티비뉴스<span class="txt_bar"> · </span><span class="info_time">01:45</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[epaselect FRANCE SOCCER]]></title>
+        <id>https://v.daum.net/v/20230301013928196</id>
+        <link href="https://v.daum.net/v/20230301013928196"/>
+        <updated>2023-02-28T17:16:45.041Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">01:39</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SSG 출신 폰트, 에이스 잃은 샌디에이고의 대체 선수 급부상?]]></title>
         <id>https://v.daum.net/v/20230301011926161</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230301002004914"/>
         <updated>2023-02-28T16:24:32.059Z</updated>
         <content type="html"><![CDATA[MHN스포츠<span class="txt_bar"> · </span><span class="info_time">00:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비자발급 완료' DB 새 새인 데이비스, 1일 KT전 출전]]></title>
-        <id>https://v.daum.net/v/20230301001412880</id>
-        <link href="https://v.daum.net/v/20230301001412880"/>
-        <updated>2023-02-28T15:18:16.518Z</updated>
-        <content type="html"><![CDATA[점프볼<span class="txt_bar"> · </span><span class="info_time">00:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UAE TENNIS]]></title>
-        <id>https://v.daum.net/v/20230301001209868</id>
-        <link href="https://v.daum.net/v/20230301001209868"/>
-        <updated>2023-02-28T15:18:16.519Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">00:12</span>]]></content>
     </entry>
 </feed>
