@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-02-28T09:19:50.709Z</updated>
+    <updated>2023-02-28T10:21:21.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주영섭 전 중기청장  "기술혁신 통해 미래상 제시하는 개척자 필요"]]></title>
+        <id>https://v.daum.net/v/20230228191628579</id>
+        <link href="https://v.daum.net/v/20230228191628579"/>
+        <updated>2023-02-28T10:21:09.868Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">19:16</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[양곡관리법 개정안 보류, 미곡처리장에 쌓인 쌀 [포토뉴스]]]></title>
+        <id>https://v.daum.net/v/20230228190036325</id>
+        <link href="https://v.daum.net/v/20230228190036325"/>
+        <updated>2023-02-28T10:21:09.869Z</updated>
+        <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">19:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김동연 "도민청원 1호 동인선, 지자체와 힘 합쳐 조속히 착공할 것"]]></title>
+        <id>https://v.daum.net/v/20230228183640963</id>
+        <link href="https://v.daum.net/v/20230228183640963"/>
+        <updated>2023-02-28T10:21:09.870Z</updated>
+        <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">18:36</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천 강화군, '2023 청소년 참여 위원회' 신규 위원 모집]]></title>
+        <id>https://v.daum.net/v/20230228183336903</id>
+        <link href="https://v.daum.net/v/20230228183336903"/>
+        <updated>2023-02-28T10:21:09.871Z</updated>
+        <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">18:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제주 인구 증가세 회복⋯70만명 육박]]></title>
         <id>https://v.daum.net/v/20230228181840565</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230228172703883"/>
         <updated>2023-02-28T09:19:39.423Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] ZTE, 더 효율적이고 친환경적인 첨단 제품 및 솔루션 공개]]></title>
-        <id>https://v.daum.net/v/20230228172635847</id>
-        <link href="https://v.daum.net/v/20230228172635847"/>
-        <updated>2023-02-28T09:19:39.424Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘불타는 트롯맨’ 서울 콘서트 압도적인 티켓파워 입증…오픈당일 예매사이트 전체랭킹 1위]]></title>
-        <id>https://v.daum.net/v/20230228172016616</id>
-        <link href="https://v.daum.net/v/20230228172016616"/>
-        <updated>2023-02-28T08:23:32.976Z</updated>
-        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">17:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] ZTE, 새로운 소비자 기기와 풀 시나리오 지능형 생태계 2.0 공개]]></title>
-        <id>https://v.daum.net/v/20230228171657512</id>
-        <link href="https://v.daum.net/v/20230228171657512"/>
-        <updated>2023-02-28T08:23:32.977Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] ZTE unveils new consumer devices and its Full-Scenario]]></title>
-        <id>https://v.daum.net/v/20230228171518456</id>
-        <link href="https://v.daum.net/v/20230228171518456"/>
-        <updated>2023-02-28T08:23:32.978Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:15</span>]]></content>
     </entry>
 </feed>
