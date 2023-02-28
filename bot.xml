@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-02-28T10:21:21.252Z</updated>
+    <updated>2023-02-28T12:33:54.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가상화폐 비트코인 31,032,000원(-0.71%) 거래중]]></title>
+        <id>https://v.daum.net/v/20230228193132833</id>
+        <link href="https://v.daum.net/v/20230228193132833"/>
+        <updated>2023-02-28T12:33:53.634Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">19:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수원 영통동 (살구마을)동아서광성지진덕 134㎡ 7억9000만원에 거래]]></title>
         <id>https://v.daum.net/v/20230228183537942</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230228173534170"/>
         <updated>2023-02-28T09:19:49.993Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2023년 02월 28일)]]></title>
-        <id>https://v.daum.net/v/20230228173227071</id>
-        <link href="https://v.daum.net/v/20230228173227071"/>
-        <updated>2023-02-28T09:19:49.996Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:32</span>]]></content>
     </entry>
 </feed>
