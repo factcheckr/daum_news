@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-02-28T20:20:51.398Z</updated>
+    <updated>2023-02-28T21:17:15.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[David C. Logan] Why Putin suspended START]]></title>
+        <id>https://v.daum.net/v/20230301053228054</id>
+        <link href="https://v.daum.net/v/20230301053228054"/>
+        <updated>2023-02-28T21:16:58.556Z</updated>
+        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:32</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Editorial] Embattled chip industry]]></title>
+        <id>https://v.daum.net/v/20230301053227052</id>
+        <link href="https://v.daum.net/v/20230301053227052"/>
+        <updated>2023-02-28T21:16:58.561Z</updated>
+        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:32</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Kim Seong-kon] Living dangerously in this apocalyptic moment]]></title>
+        <id>https://v.daum.net/v/20230301053110040</id>
+        <link href="https://v.daum.net/v/20230301053110040"/>
+        <updated>2023-02-28T21:16:58.565Z</updated>
+        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[길섶에서] 긴 위로/황수정 수석논설위원]]></title>
         <id>https://v.daum.net/v/20230301050514956</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230301044003764"/>
         <updated>2023-02-28T20:20:33.886Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 오죽하면 여당도 인사 책임 물으라 하겠나]]></title>
-        <id>https://v.daum.net/v/20230301043243749</id>
-        <link href="https://v.daum.net/v/20230301043243749"/>
-        <updated>2023-02-28T20:20:33.887Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기억할 오늘] 마녀재판, 욕망의 관성]]></title>
-        <id>https://v.daum.net/v/20230301043138742</id>
-        <link href="https://v.daum.net/v/20230301043138742"/>
-        <updated>2023-02-28T20:20:33.888Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해양 IoT 시대를 연다 [기고]]]></title>
-        <id>https://v.daum.net/v/20230301043127740</id>
-        <link href="https://v.daum.net/v/20230301043127740"/>
-        <updated>2023-02-28T20:20:33.889Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:31</span>]]></content>
     </entry>
 </feed>
