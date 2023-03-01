@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-03-01T12:35:54.319Z</updated>
+    <updated>2023-03-01T13:32:42.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[헌책방에 책 파는 걸 포기했다 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20230301220127379</id>
+        <link href="https://v.daum.net/v/20230301220127379"/>
+        <updated>2023-03-01T13:32:25.087Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023년 3월 2일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20230301220113374</id>
+        <link href="https://v.daum.net/v/20230301220113374"/>
+        <updated>2023-03-01T13:32:25.089Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MZ세대가 ‘586 노조’에 가르쳐 주는 진실[오늘과 내일/박중현]]]></title>
         <id>https://v.daum.net/v/20230301213132166</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230301201424406"/>
         <updated>2023-03-01T11:16:00.969Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 현안 덮어두고 일본을 파트너로 띄운 윤 대통령]]></title>
-        <id>https://v.daum.net/v/20230301195009154</id>
-        <link href="https://v.daum.net/v/20230301195009154"/>
-        <updated>2023-03-01T11:16:00.970Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3월 2일 한겨레 그림판]]></title>
-        <id>https://v.daum.net/v/20230301193502025</id>
-        <link href="https://v.daum.net/v/20230301193502025"/>
-        <updated>2023-03-01T11:16:00.971Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:35</span>]]></content>
     </entry>
 </feed>
