@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-03-02T12:33:43.771Z</updated>
+    <updated>2023-03-02T13:35:36.918Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스페이스엑스, 유인캡슐 발사 성공…무사히 우주정거장 향해]]></title>
+        <id>https://v.daum.net/v/20230302214302561</id>
+        <link href="https://v.daum.net/v/20230302214302561"/>
+        <updated>2023-03-02T13:35:06.828Z</updated>
+        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">21:43</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우주항공청 특별법 입법예고…연내 개청 목표]]></title>
+        <id>https://v.daum.net/v/20230302214146548</id>
+        <link href="https://v.daum.net/v/20230302214146548"/>
+        <updated>2023-03-02T13:35:06.828Z</updated>
+        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">21:41</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“카메라 싸게 팔아요” 월 100만원도 힘들다, 결국 떠나는 유튜버들]]></title>
+        <id>https://v.daum.net/v/20230302214046535</id>
+        <link href="https://v.daum.net/v/20230302214046535"/>
+        <updated>2023-03-02T13:35:06.829Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">21:40</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[화웨이 "작년 매출 29% R&D 투자…자율주행·클라우드 초점"]]></title>
+        <id>https://v.daum.net/v/20230302213408460</id>
+        <link href="https://v.daum.net/v/20230302213408460"/>
+        <updated>2023-03-02T13:35:06.829Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">21:34</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["제품 이름부터 기능까지 판박이"…中 바이낸스, 韓스타트업 베꼈나]]></title>
         <id>https://v.daum.net/v/20230302204002863</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230302193600924"/>
         <updated>2023-03-02T12:33:13.275Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">19:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“귀밑에 휴대폰 이식”...충전도 할 필요없다고 하는데]]></title>
-        <id>https://v.daum.net/v/20230302193302897</id>
-        <link href="https://v.daum.net/v/20230302193302897"/>
-        <updated>2023-03-02T12:33:13.276Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">19:33</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OP.GG, 고교 개발자 지원에 나선 이유는]]></title>
-        <id>https://v.daum.net/v/20230302193212880</id>
-        <link href="https://v.daum.net/v/20230302193212880"/>
-        <updated>2023-03-02T12:33:13.277Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">19:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우주항공청 특별법 입법예고…연내 개청 목표]]></title>
-        <id>https://v.daum.net/v/20230302192815797</id>
-        <link href="https://v.daum.net/v/20230302192815797"/>
-        <updated>2023-03-02T12:33:13.277Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">19:28</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시승기] 포르쉐가 만든 전기 CUV, ‘타이칸 4S 크로스 투리스모’]]></title>
-        <id>https://v.daum.net/v/20230302192701786</id>
-        <link href="https://v.daum.net/v/20230302192701786"/>
-        <updated>2023-03-02T12:33:13.279Z</updated>
-        <content type="html"><![CDATA[IT동아<span class="txt_bar"> · </span><span class="info_time">19:27</span>]]></content>
     </entry>
 </feed>
