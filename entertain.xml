@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2023-03-02T18:26:03.440Z</updated>
+    <updated>2023-03-02T19:14:48.895Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스페인으로 간 ‘텐트 밖은 유럽’]]></title>
+        <id>https://v.daum.net/v/20230303040522649</id>
+        <link href="https://v.daum.net/v/20230303040522649"/>
+        <updated>2023-03-02T19:14:03.841Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[밥 잘 먹기=거식증 완치? 'NO'…오은영 "단기간 완치 어렵다"]]></title>
+        <id>https://v.daum.net/v/20230303034407589</id>
+        <link href="https://v.daum.net/v/20230303034407589"/>
+        <updated>2023-03-02T19:14:03.842Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">03:44</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강수지, 판교에 집 3채 지어...청순돌→금손 건축가 ('라스')]]></title>
         <id>https://v.daum.net/v/20230303030533459</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230303011938094"/>
         <updated>2023-03-02T17:16:31.912Z</updated>
         <content type="html"><![CDATA[스포츠한국<span class="txt_bar"> · </span><span class="info_time">01:19</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황영웅, '불타는 트롯맨' 하차 "변명 안 해, 하지만…" [전문]]]></title>
-        <id>https://v.daum.net/v/20230303011204074</id>
-        <link href="https://v.daum.net/v/20230303011204074"/>
-        <updated>2023-03-02T18:25:18.506Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">01:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['여행보내Dream단' 역대급 고생길 오픈…최종 미션 정체는?]]></title>
-        <id>https://v.daum.net/v/20230303011125045</id>
-        <link href="https://v.daum.net/v/20230303011125045"/>
-        <updated>2023-03-02T17:16:31.912Z</updated>
-        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">01:11</span>]]></content>
     </entry>
 </feed>
