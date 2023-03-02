@@ -2,112 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-03-02T13:35:36.918Z</updated>
+    <updated>2023-03-02T15:20:52.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[스페이스엑스, 유인캡슐 발사 성공…무사히 우주정거장 향해]]></title>
-        <id>https://v.daum.net/v/20230302214302561</id>
-        <link href="https://v.daum.net/v/20230302214302561"/>
-        <updated>2023-03-02T13:35:06.828Z</updated>
-        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">21:43</span>]]></content>
+        <title type="html"><![CDATA[오일머니의 ‘돈잔치’…K테크 ‘중동의 봄’ 오나]]></title>
+        <id>https://v.daum.net/v/20230303001606875</id>
+        <link href="https://v.daum.net/v/20230303001606875"/>
+        <updated>2023-03-02T15:20:28.252Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:16</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우주항공청 특별법 입법예고…연내 개청 목표]]></title>
-        <id>https://v.daum.net/v/20230302214146548</id>
-        <link href="https://v.daum.net/v/20230302214146548"/>
-        <updated>2023-03-02T13:35:06.828Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">21:41</span>]]></content>
+        <title type="html"><![CDATA[갤럭시S23 개발 사령탑 “기본기에 집중, 완성도 높이려 했다”]]></title>
+        <id>https://v.daum.net/v/20230303000632798</id>
+        <link href="https://v.daum.net/v/20230303000632798"/>
+        <updated>2023-03-02T15:20:28.253Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“카메라 싸게 팔아요” 월 100만원도 힘들다, 결국 떠나는 유튜버들]]></title>
-        <id>https://v.daum.net/v/20230302214046535</id>
-        <link href="https://v.daum.net/v/20230302214046535"/>
-        <updated>2023-03-02T13:35:06.829Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">21:40</span>]]></content>
+        <title type="html"><![CDATA[전시장 규모는 단연 화웨이, MWC 역사상 최대 사이즈]]></title>
+        <id>https://v.daum.net/v/20230303000628795</id>
+        <link href="https://v.daum.net/v/20230303000628795"/>
+        <updated>2023-03-02T15:20:28.260Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[화웨이 "작년 매출 29% R&D 투자…자율주행·클라우드 초점"]]></title>
-        <id>https://v.daum.net/v/20230302213408460</id>
-        <link href="https://v.daum.net/v/20230302213408460"/>
-        <updated>2023-03-02T13:35:06.829Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">21:34</span>]]></content>
+        <title type="html"><![CDATA["지원금 받으려면 이익 공유"…美 반도체지원법에 삼성·SK '한숨']]></title>
+        <id>https://v.daum.net/v/20230303000449702</id>
+        <link href="https://v.daum.net/v/20230303000449702"/>
+        <updated>2023-03-02T15:20:28.261Z</updated>
+        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["제품 이름부터 기능까지 판박이"…中 바이낸스, 韓스타트업 베꼈나]]></title>
-        <id>https://v.daum.net/v/20230302204002863</id>
-        <link href="https://v.daum.net/v/20230302204002863"/>
-        <updated>2023-03-02T12:33:13.264Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">20:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[IT애정남] 아이폰에도, 넷플릭스에도…여기저기 뜨는 ‘공간 음향’이 뭘까?]]></title>
-        <id>https://v.daum.net/v/20230302203301764</id>
-        <link href="https://v.daum.net/v/20230302203301764"/>
-        <updated>2023-03-02T12:33:13.269Z</updated>
-        <content type="html"><![CDATA[IT동아<span class="txt_bar"> · </span><span class="info_time">20:33</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인텔, 차세대 노트북용 13세대 코어 모바일 프로세서 국내 정식 출시]]></title>
-        <id>https://v.daum.net/v/20230302201200553</id>
-        <link href="https://v.daum.net/v/20230302201200553"/>
-        <updated>2023-03-02T12:33:13.272Z</updated>
-        <content type="html"><![CDATA[IT동아<span class="txt_bar"> · </span><span class="info_time">20:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SKT 앱 'T월드' 한때 접속문제…"테스트 메시지 발송 영향"]]></title>
-        <id>https://v.daum.net/v/20230302200826500</id>
-        <link href="https://v.daum.net/v/20230302200826500"/>
-        <updated>2023-03-02T12:33:13.272Z</updated>
-        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">20:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI에 '윤봉길 의사' 그려달라 했더니…"北 군인?" 황당 결과]]></title>
-        <id>https://v.daum.net/v/20230302200104398</id>
-        <link href="https://v.daum.net/v/20230302200104398"/>
-        <updated>2023-03-02T12:33:13.272Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">20:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대통령실·與 반발에 KT대표 다시 안갯속… 경영 공백 우려]]></title>
-        <id>https://v.daum.net/v/20230302200045389</id>
-        <link href="https://v.daum.net/v/20230302200045389"/>
-        <updated>2023-03-02T12:33:13.273Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">20:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MWC] AI·초연결에서 찾아본 미래…최대 통신전시회 막내려]]></title>
-        <id>https://v.daum.net/v/20230302200003371</id>
-        <link href="https://v.daum.net/v/20230302200003371"/>
-        <updated>2023-03-02T12:33:13.273Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">20:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["하늘 보세요"…7년 만에 금성·목성 함께 빛나]]></title>
-        <id>https://v.daum.net/v/20230302195927361</id>
-        <link href="https://v.daum.net/v/20230302195927361"/>
-        <updated>2023-03-02T12:33:13.273Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV<span class="txt_bar"> · </span><span class="info_time">19:59</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“회식비 1인당 5만원, 말이 돼?” 무제한 펑펑 카카오 제동…직원들 ‘뿔났다’]]></title>
-        <id>https://v.daum.net/v/20230302195043230</id>
-        <link href="https://v.daum.net/v/20230302195043230"/>
-        <updated>2023-03-02T12:33:13.274Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">19:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CEL, 스위치용 ‘이스 메모와르-펠가나의 맹세’ 5월 발매]]></title>
-        <id>https://v.daum.net/v/20230302194444152</id>
-        <link href="https://v.daum.net/v/20230302194444152"/>
-        <updated>2023-03-02T12:33:13.275Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">19:44</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30년 글로벌 반도체 분업체제 깨졌다 … 외통수 몰린 삼성·SK]]></title>
-        <id>https://v.daum.net/v/20230302193600924</id>
-        <link href="https://v.daum.net/v/20230302193600924"/>
-        <updated>2023-03-02T12:33:13.275Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">19:36</span>]]></content>
+        <title type="html"><![CDATA[과기정통부, 디지털 신질서 정립 '권리장전' 마련한다]]></title>
+        <id>https://v.daum.net/v/20230303000415630</id>
+        <link href="https://v.daum.net/v/20230303000415630"/>
+        <updated>2023-03-02T15:20:28.264Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
     </entry>
 </feed>
