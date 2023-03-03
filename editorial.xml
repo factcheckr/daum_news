@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-03-03T09:19:26.226Z</updated>
+    <updated>2023-03-03T10:22:19.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[② 오늘의 운세, 궁금하세요? 3월 4일(음력 2월 13일) : 말띠~돼지띠 & MBTI(16가지 성향, 궁합)]]></title>
+        <id>https://v.daum.net/v/20230303190014688</id>
+        <link href="https://v.daum.net/v/20230303190014688"/>
+        <updated>2023-03-03T10:22:00.258Z</updated>
+        <content type="html"><![CDATA[웨딩21뉴스<span class="txt_bar"> · </span><span class="info_time">19:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[① 오늘의 운세, 궁금하세요? 3월 4일(음력 2월 13일) : 쥐띠~뱀띠 & MBTI(16가지 성향, 궁합)]]></title>
+        <id>https://v.daum.net/v/20230303190003673</id>
+        <link href="https://v.daum.net/v/20230303190003673"/>
+        <updated>2023-03-03T10:22:00.259Z</updated>
+        <content type="html"><![CDATA[웨딩21뉴스<span class="txt_bar"> · </span><span class="info_time">19:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 지난해 80조 손실 본 국민연금, 가입자 불안 해소방안 내놔야]]></title>
         <id>https://v.daum.net/v/20230303181504546</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230303170902417"/>
         <updated>2023-03-03T08:24:27.204Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] '로또' 현대차 생산직 공채 지원 폭주가 보여준 노동시장 양극화]]></title>
-        <id>https://v.daum.net/v/20230303170900415</id>
-        <link href="https://v.daum.net/v/20230303170900415"/>
-        <updated>2023-03-03T08:24:27.206Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시론] 정부 정책도 디테일이 필요하다]]></title>
-        <id>https://v.daum.net/v/20230303170802400</id>
-        <link href="https://v.daum.net/v/20230303170802400"/>
-        <updated>2023-03-03T08:24:27.209Z</updated>
-        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">17:08</span>]]></content>
     </entry>
 </feed>
