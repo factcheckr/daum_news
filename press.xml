@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-03-03T11:18:25.868Z</updated>
+    <updated>2023-03-03T12:33:02.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 화웨이, MWC 2023에서 새로운 인재 개발 모델 발표]]></title>
+        <id>https://v.daum.net/v/20230303210429891</id>
+        <link href="https://v.daum.net/v/20230303210429891"/>
+        <updated>2023-03-03T12:32:52.274Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">21:04</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 화웨이, MWC 2023에서 톈진 항 위한 디지털 트윈 프로젝트 선보여]]></title>
+        <id>https://v.daum.net/v/20230303203028336</id>
+        <link href="https://v.daum.net/v/20230303203028336"/>
+        <updated>2023-03-03T12:32:52.276Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] 화웨이, MWC 2023에서 엔터프라이즈 서비스 선보여]]></title>
         <id>https://v.daum.net/v/20230303195331673</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230303174703578"/>
         <updated>2023-03-03T09:19:15.366Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단편영화 스트리밍 영화제 플랫폼 무빌리지, 제1회 단편영화자랑회 개최]]></title>
-        <id>https://v.daum.net/v/20230303173703295</id>
-        <link href="https://v.daum.net/v/20230303173703295"/>
-        <updated>2023-03-03T09:19:15.367Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구례군, 인구감소대응 사업 발굴 나서]]></title>
-        <id>https://v.daum.net/v/20230303173010013</id>
-        <link href="https://v.daum.net/v/20230303173010013"/>
-        <updated>2023-03-03T09:19:15.368Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
     </entry>
 </feed>
