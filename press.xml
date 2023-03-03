@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-03-03T12:33:02.718Z</updated>
+    <updated>2023-03-03T13:26:07.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 화웨이, 업계 최초의 50G POL 시제품 출시]]></title>
+        <id>https://v.daum.net/v/20230303213727233</id>
+        <link href="https://v.daum.net/v/20230303213727233"/>
+        <updated>2023-03-03T13:25:58.283Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">21:37</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] 화웨이, MWC 2023에서 새로운 인재 개발 모델 발표]]></title>
         <id>https://v.daum.net/v/20230303210429891</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230303174706581</id>
         <link href="https://v.daum.net/v/20230303174706581"/>
         <updated>2023-03-03T09:19:15.364Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국핀테크지원센터, 디티앤인베스트먼트-코로프라넥스트코리아와 핀테크 스타트업 성장 위한 업무협약 체결]]></title>
-        <id>https://v.daum.net/v/20230303174703578</id>
-        <link href="https://v.daum.net/v/20230303174703578"/>
-        <updated>2023-03-03T09:19:15.366Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:47</span>]]></content>
     </entry>
 </feed>
