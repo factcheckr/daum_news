@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2023-03-03T16:23:55.689Z</updated>
+    <updated>2023-03-03T17:18:37.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주식 개미들 올해 또 '테슬라 광풍'…주가 80% 폭등]]></title>
+        <id>https://v.daum.net/v/20230304013001825</id>
+        <link href="https://v.daum.net/v/20230304013001825"/>
+        <updated>2023-03-03T17:17:26.746Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">01:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴욕증시, 국채금리 하락 속 상승 출발… S&P 0.89%↑ 나스닥 1.24%↑]]></title>
+        <id>https://v.daum.net/v/20230304012752819</id>
+        <link href="https://v.daum.net/v/20230304012752819"/>
+        <updated>2023-03-03T17:17:26.749Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">01:27</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미 국채금리 내리자 증시 반등…서비스 PMI 강세 변수]]></title>
         <id>https://v.daum.net/v/20230304011301797</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20230304010353741</id>
         <link href="https://v.daum.net/v/20230304010353741"/>
         <updated>2023-03-03T16:22:42.880Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대우건설, 알제리에 가스복합화력발전소 준공… 9844억원 규모]]></title>
-        <id>https://v.daum.net/v/20230304010331735</id>
-        <link href="https://v.daum.net/v/20230304010331735"/>
-        <updated>2023-03-03T16:22:42.882Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현대오일뱅크, 온라인 미디어 플랫폼 ‘블루톡’ 오픈]]></title>
-        <id>https://v.daum.net/v/20230304010326733</id>
-        <link href="https://v.daum.net/v/20230304010326733"/>
-        <updated>2023-03-03T16:22:42.884Z</updated>
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:03</span>]]></content>
     </entry>
 </feed>
