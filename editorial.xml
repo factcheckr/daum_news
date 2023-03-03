@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-03-03T04:48:50.542Z</updated>
+    <updated>2023-03-03T05:25:08.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[기자수첩]MWC 현장 뒤덮은 中 기업 공세]]></title>
+        <id>https://v.daum.net/v/20230303135348380</id>
+        <link href="https://v.daum.net/v/20230303135348380"/>
+        <updated>2023-03-03T05:24:48.367Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">13:53</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[시사컬처]이수만 그리고 마삼트리오]]></title>
         <id>https://v.daum.net/v/20230303131046227</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230303113608840"/>
         <updated>2023-03-03T03:16:52.986Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시시비비]침몰한 반도체 강국 日, 전철 밟지 않으려면]]></title>
-        <id>https://v.daum.net/v/20230303112756485</id>
-        <link href="https://v.daum.net/v/20230303112756485"/>
-        <updated>2023-03-03T03:16:52.986Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:27</span>]]></content>
     </entry>
 </feed>
