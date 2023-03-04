@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-03-04T02:46:35.913Z</updated>
+    <updated>2023-03-04T03:20:52.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[동기부여의 최고 마술사로 추앙된 스티브 잡스 [열국지로 보는 사람경영]]]></title>
+        <id>https://v.daum.net/v/20230304120312355</id>
+        <link href="https://v.daum.net/v/20230304120312355"/>
+        <updated>2023-03-04T03:20:34.327Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">12:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박성웅 발표가 쇼가 되지 않으려면 [라제기의 슛 & 숏]]]></title>
+        <id>https://v.daum.net/v/20230304120234344</id>
+        <link href="https://v.daum.net/v/20230304120234344"/>
+        <updated>2023-03-04T03:20:34.327Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">12:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[왜 제주 토기가 암사동 보다 오래 됐을까? [배기동의 고고학 기행]]]></title>
         <id>https://v.daum.net/v/20230304110025810</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230304043006222"/>
         <updated>2023-03-03T20:20:43.028Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한마당] 10년 만의 채용]]></title>
-        <id>https://v.daum.net/v/20230304041227212</id>
-        <link href="https://v.daum.net/v/20230304041227212"/>
-        <updated>2023-03-03T19:17:16.118Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토 카페] 폐지 수집 노인들 혹독한 겨울나기]]></title>
-        <id>https://v.daum.net/v/20230304040726198</id>
-        <link href="https://v.daum.net/v/20230304040726198"/>
-        <updated>2023-03-03T19:17:16.123Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:07</span>]]></content>
     </entry>
 </feed>
