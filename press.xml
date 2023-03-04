@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-03-04T11:18:02.077Z</updated>
+    <updated>2023-03-04T12:30:03.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[무등산 정상부 올해 첫 개방..9월부터 상시개방]]></title>
+        <id>https://v.daum.net/v/20230304205613979</id>
+        <link href="https://v.daum.net/v/20230304205613979"/>
+        <updated>2023-03-04T12:29:53.655Z</updated>
+        <content type="html"><![CDATA[kbc광주방송<span class="txt_bar"> · </span><span class="info_time">20:56</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] Ample Solutions, 15년 성공 역사 기리는 갈라 개최]]></title>
         <id>https://v.daum.net/v/20230304172528454</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230304082741157"/>
         <updated>2023-03-04T01:18:10.965Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">08:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[충남연구원, 서산공항 건설 정책효과 분석... “가성비 좋은 공항 가능”]]></title>
-        <id>https://v.daum.net/v/20230304070704562</id>
-        <link href="https://v.daum.net/v/20230304070704562"/>
-        <updated>2023-03-03T22:17:24.427Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">07:07</span>]]></content>
     </entry>
 </feed>
