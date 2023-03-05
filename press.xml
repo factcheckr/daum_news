@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-03-05T08:22:49.837Z</updated>
+    <updated>2023-03-05T11:19:29.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[사업화 자금 3억 지원 아기유니콘 50곳 모집···200억 기술보증 예비유니콘도]]></title>
+        <title type="html"><![CDATA[오산시, ‘튀르키예·시리아’ 지진피해 성금 3700만원 전달]]></title>
+        <id>https://v.daum.net/v/20230305184827651</id>
+        <link href="https://v.daum.net/v/20230305184827651"/>
+        <updated>2023-03-05T11:19:19.586Z</updated>
+        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">18:48</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고양시, 일산테크노밸리 차별화에 행정역량 집중]]></title>
+        <id>https://v.daum.net/v/20230305183927558</id>
+        <link href="https://v.daum.net/v/20230305183927558"/>
+        <updated>2023-03-05T11:19:19.588Z</updated>
+        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">18:39</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사업화 자금 3억 지원 아기유니콘 50곳 모집]]></title>
         <id>https://v.daum.net/v/20230305171526338</id>
         <link href="https://v.daum.net/v/20230305171526338"/>
         <updated>2023-03-05T08:22:41.064Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230305113632694"/>
         <updated>2023-03-05T03:01:56.506Z</updated>
         <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">11:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LH, 올해 분양·임대주택 7만4천 호 입주자 모집]]></title>
-        <id>https://v.daum.net/v/20230305110007982</id>
-        <link href="https://v.daum.net/v/20230305110007982"/>
-        <updated>2023-03-05T03:01:56.508Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] Netcore Cloud, 이메일 1천억 건 연구]]></title>
-        <id>https://v.daum.net/v/20230305105126847</id>
-        <link href="https://v.daum.net/v/20230305105126847"/>
-        <updated>2023-03-05T03:01:56.509Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">10:51</span>]]></content>
     </entry>
 </feed>
