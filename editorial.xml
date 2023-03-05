@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-03-05T16:21:50.086Z</updated>
+    <updated>2023-03-05T17:15:36.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]MZ노조, 사무엘 곰퍼스에게 배워야]]></title>
+        <id>https://v.daum.net/v/20230306020307990</id>
+        <link href="https://v.daum.net/v/20230306020307990"/>
+        <updated>2023-03-05T17:15:18.676Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[장훈 칼럼] 여당 전당대회, 법치와 인치의 시험대]]></title>
         <id>https://v.daum.net/v/20230306010021903</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230306003630842"/>
         <updated>2023-03-05T16:21:34.554Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[아침의 문장] 늘 단정히, 늘 반듯이, 늘 해맑게]]></title>
-        <id>https://v.daum.net/v/20230306003530837</id>
-        <link href="https://v.daum.net/v/20230306003530837"/>
-        <updated>2023-03-05T16:21:34.555Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:35</span>]]></content>
     </entry>
 </feed>
