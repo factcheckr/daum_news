@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-03-05T06:21:31.922Z</updated>
+    <updated>2023-03-05T07:17:41.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사설]스마트홈 표준 한국이 주도해야]]></title>
+        <id>https://v.daum.net/v/20230305160121212</id>
+        <link href="https://v.daum.net/v/20230305160121212"/>
+        <updated>2023-03-05T07:17:20.519Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">16:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ET시선]그들만의 세상]]></title>
+        <id>https://v.daum.net/v/20230305160120211</id>
+        <link href="https://v.daum.net/v/20230305160120211"/>
+        <updated>2023-03-05T07:17:20.533Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">16:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사설]재해복구시스템, 빠르면 빠를수록 좋다]]></title>
+        <id>https://v.daum.net/v/20230305160117209</id>
+        <link href="https://v.daum.net/v/20230305160117209"/>
+        <updated>2023-03-05T07:17:20.535Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">16:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[전문가 기고]챗GPT 시대, 한국에도 기회의 장]]></title>
+        <id>https://v.daum.net/v/20230305160113206</id>
+        <link href="https://v.daum.net/v/20230305160113206"/>
+        <updated>2023-03-05T07:17:20.537Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">16:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘내로남불’을 쓰지 말아야 할 이유 [아침 햇발]]]></title>
+        <id>https://v.daum.net/v/20230305160004154</id>
+        <link href="https://v.daum.net/v/20230305160004154"/>
+        <updated>2023-03-05T07:17:20.538Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">16:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이재명 “미국 반도체 지원법, 기업에만 맡길  일 아냐”]]></title>
         <id>https://v.daum.net/v/20230305124335640</id>
@@ -74,26 +109,5 @@
         <link href="https://v.daum.net/v/20230305080137166"/>
         <updated>2023-03-04T23:17:22.633Z</updated>
         <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">08:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빈살만의 사우디는 미국과 영영 결별하나[PADO]]]></title>
-        <id>https://v.daum.net/v/20230305080133158</id>
-        <link href="https://v.daum.net/v/20230305080133158"/>
-        <updated>2023-03-04T23:17:22.635Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">08:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴욕다이어리]매장에 등장한 훈련견…'좀도둑 낙원'의 고육책]]></title>
-        <id>https://v.daum.net/v/20230305080051135</id>
-        <link href="https://v.daum.net/v/20230305080051135"/>
-        <updated>2023-03-05T01:32:07.096Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中 경제뇌관 지방정부 그림자 부채 최소 2500조원대 [김규환의 핸디 차이나]]]></title>
-        <id>https://v.daum.net/v/20230305070707826</id>
-        <link href="https://v.daum.net/v/20230305070707826"/>
-        <updated>2023-03-04T22:16:02.452Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:07</span>]]></content>
     </entry>
 </feed>
