@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-03-05T07:17:41.082Z</updated>
+    <updated>2023-03-05T08:22:49.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사업화 자금 3억 지원 아기유니콘 50곳 모집···200억 기술보증 예비유니콘도]]></title>
+        <id>https://v.daum.net/v/20230305171526338</id>
+        <link href="https://v.daum.net/v/20230305171526338"/>
+        <updated>2023-03-05T08:22:41.064Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">17:15</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이천시, 민선8기 첫 조직개편]]></title>
         <id>https://v.daum.net/v/20230305161425403</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230305105126847"/>
         <updated>2023-03-05T03:01:56.509Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">10:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] Etihad Airways Engineering, Ramco Systems와 협력]]></title>
-        <id>https://v.daum.net/v/20230305104258687</id>
-        <link href="https://v.daum.net/v/20230305104258687"/>
-        <updated>2023-03-05T03:01:56.511Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">10:42</span>]]></content>
     </entry>
 </feed>
