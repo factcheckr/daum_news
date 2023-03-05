@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-03-05T20:18:42.125Z</updated>
+    <updated>2023-03-05T21:17:29.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오전 (2023년 03월 06일)]]></title>
+        <id>https://v.daum.net/v/20230306053228342</id>
+        <link href="https://v.daum.net/v/20230306053228342"/>
+        <updated>2023-03-05T21:17:28.608Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">05:32</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가상화폐 캐리프로토콜 6.4원(+4.92%) 거래중]]></title>
         <id>https://v.daum.net/v/20230306013120976</id>
