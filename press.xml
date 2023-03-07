@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-03-07T11:16:00.736Z</updated>
+    <updated>2023-03-07T13:30:50.399Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[양구군, 한옥마을 ''평화빌리지' 조성, 관광객 유치 및 정착 유도]]></title>
+        <id>https://v.daum.net/v/20230307222039865</id>
+        <link href="https://v.daum.net/v/20230307222039865"/>
+        <updated>2023-03-07T13:30:42.141Z</updated>
+        <content type="html"><![CDATA[투어코리아<span class="txt_bar"> · </span><span class="info_time">22:20</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부산 사상구, 초·중·고등학교 신입생 입학준비금 지원]]></title>
         <id>https://v.daum.net/v/20230307193131585</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230307172357477"/>
         <updated>2023-03-07T09:19:15.365Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">17:23</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chart Streams in cTrader by Spotware: Broadcast Your Technical Analysis 24/7]]></title>
-        <id>https://v.daum.net/v/20230307171705248</id>
-        <link href="https://v.daum.net/v/20230307171705248"/>
-        <updated>2023-03-07T08:23:23.471Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:17</span>]]></content>
     </entry>
 </feed>
