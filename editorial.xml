@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-03-07T03:00:38.568Z</updated>
+    <updated>2023-03-07T03:33:54.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[경북도개발공사, 예천군에 고향사랑기부금 전달]]></title>
+        <id>https://v.daum.net/v/20230307121506997</id>
+        <link href="https://v.daum.net/v/20230307121506997"/>
+        <updated>2023-03-07T03:33:34.501Z</updated>
+        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">12:15</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설]尹정부 ‘근로 선택권’ 확대 추진과 野 결자해지 책무]]></title>
         <id>https://v.daum.net/v/20230307114353024</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230307110945433"/>
         <updated>2023-03-07T03:00:17.450Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">11:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에스엠 운명 가를 다른 시선…‘배아픈 자’와 ‘배고픈 자’ [홍길용의 화식열전]]]></title>
-        <id>https://v.daum.net/v/20230307104227194</id>
-        <link href="https://v.daum.net/v/20230307104227194"/>
-        <updated>2023-03-07T03:00:17.452Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">10:42</span>]]></content>
     </entry>
 </feed>
