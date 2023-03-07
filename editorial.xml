@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-03-07T16:24:42.935Z</updated>
+    <updated>2023-03-07T17:18:58.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]학폭 사실을 대학입시에 반영하려면]]></title>
+        <id>https://v.daum.net/v/20230308020626210</id>
+        <link href="https://v.daum.net/v/20230308020626210"/>
+        <updated>2023-03-07T17:18:40.201Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:06</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]'은행업의 정부 철학'이 먼저다]]></title>
+        <id>https://v.daum.net/v/20230308020429207</id>
+        <link href="https://v.daum.net/v/20230308020429207"/>
+        <updated>2023-03-07T17:18:40.203Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:04</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정운찬 칼럼] 산업정책의 컨트롤 타워가 필요하다]]></title>
         <id>https://v.daum.net/v/20230308010018962</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230308003816850"/>
         <updated>2023-03-07T16:24:26.398Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:38</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노트북을 열며] 101번째 저출산 대책]]></title>
-        <id>https://v.daum.net/v/20230308003615844</id>
-        <link href="https://v.daum.net/v/20230308003615844"/>
-        <updated>2023-03-07T16:24:26.399Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[역지사지] 이웃집 토토로]]></title>
-        <id>https://v.daum.net/v/20230308003416839</id>
-        <link href="https://v.daum.net/v/20230308003416839"/>
-        <updated>2023-03-07T16:24:26.401Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:34</span>]]></content>
     </entry>
 </feed>
