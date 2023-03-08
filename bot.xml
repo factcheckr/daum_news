@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-03-08T09:23:01.820Z</updated>
+    <updated>2023-03-08T10:25:40.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인천 청라동 청라센트럴에일린의뜰 84㎡ 6억2500만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230308183544964</id>
+        <link href="https://v.daum.net/v/20230308183544964"/>
+        <updated>2023-03-08T10:25:40.223Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:35</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천 청라동 청라제일풍경채2차에듀앤파크 74㎡ 5억5400만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230308183047833</id>
+        <link href="https://v.daum.net/v/20230308183047833"/>
+        <updated>2023-03-08T10:25:40.224Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고양 식사동 위시티일산자이2단지 123㎡ 6억5000만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230308182543637</id>
+        <link href="https://v.daum.net/v/20230308182543637"/>
+        <updated>2023-03-08T10:25:40.226Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:25</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인천 왕길동 검단대림e-편한세상 84㎡ 3억2000만원에 거래]]></title>
         <id>https://v.daum.net/v/20230308182040425</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230308173053421"/>
         <updated>2023-03-08T09:23:01.167Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 영통동 (살구마을)동아서광성지진덕 101㎡ 6억9500만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230308172539192</id>
-        <link href="https://v.daum.net/v/20230308172539192"/>
-        <updated>2023-03-08T09:23:01.169Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용인 풍덕천동 e편한세상 수지아파트 84㎡ 10억원에 거래]]></title>
-        <id>https://v.daum.net/v/20230308172050022</id>
-        <link href="https://v.daum.net/v/20230308172050022"/>
-        <updated>2023-03-08T08:25:16.046Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성남 수내동 파크타운아파트 59㎡ 8억원에 거래]]></title>
-        <id>https://v.daum.net/v/20230308171539828</id>
-        <link href="https://v.daum.net/v/20230308171539828"/>
-        <updated>2023-03-08T08:25:16.048Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:15</span>]]></content>
     </entry>
 </feed>
