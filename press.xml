@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-03-08T12:36:52.253Z</updated>
+    <updated>2023-03-08T13:26:55.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인천, 23개 농·수·산림조합장 결정… 4명은 무투표 당선]]></title>
+        <id>https://v.daum.net/v/20230308214635585</id>
+        <link href="https://v.daum.net/v/20230308214635585"/>
+        <updated>2023-03-08T13:26:44.514Z</updated>
+        <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">21:46</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] ZTE, Ooredoo Group extend partnership agreement for further five]]></title>
         <id>https://v.daum.net/v/20230308204835713</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230308175247221"/>
         <updated>2023-03-08T09:22:50.635Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:52</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[믿고 보는 음악 장인들…앤-마리 X (여자)아이들 민니 ‘Expectations’ 기대 포인트 셋]]></title>
-        <id>https://v.daum.net/v/20230308175011074</id>
-        <link href="https://v.daum.net/v/20230308175011074"/>
-        <updated>2023-03-08T09:22:50.636Z</updated>
-        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">17:50</span>]]></content>
     </entry>
 </feed>

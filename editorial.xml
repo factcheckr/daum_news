@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-03-08T12:36:52.247Z</updated>
+    <updated>2023-03-08T13:26:55.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[40대가 되어 처음으로 되돌아보는 삶 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20230308220226818</id>
+        <link href="https://v.daum.net/v/20230308220226818"/>
+        <updated>2023-03-08T13:26:34.439Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조끼를 입으려는 자, 그 무게를 견뎌라[광화문에서/유성열]]]></title>
         <id>https://v.daum.net/v/20230308213226410</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230308201211051"/>
         <updated>2023-03-08T12:36:32.419Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] ‘윤심’ 업고 당선된 김기현 대표, ‘출장소’ 우려 불식해야]]></title>
-        <id>https://v.daum.net/v/20230308201015022</id>
-        <link href="https://v.daum.net/v/20230308201015022"/>
-        <updated>2023-03-08T12:36:32.419Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">20:10</span>]]></content>
     </entry>
 </feed>
