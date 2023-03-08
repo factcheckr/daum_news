@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-03-08T16:24:30.008Z</updated>
+    <updated>2023-03-08T17:17:12.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]인공지능에 대처하는 우리의 자세]]></title>
+        <id>https://v.daum.net/v/20230309020304696</id>
+        <link href="https://v.daum.net/v/20230309020304696"/>
+        <updated>2023-03-08T17:16:53.240Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[김남국의 아포리아]카터 대통령의 삶과 인권외교]]></title>
+        <id>https://v.daum.net/v/20230309020301695</id>
+        <link href="https://v.daum.net/v/20230309020301695"/>
+        <updated>2023-03-08T17:16:53.249Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중앙시평] 트루먼 명패의 뒷면]]></title>
         <id>https://v.daum.net/v/20230309010442414</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230309004721302"/>
         <updated>2023-03-08T16:24:11.393Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시론] 플랫폼 시대, 변호사의 고민]]></title>
-        <id>https://v.daum.net/v/20230309004702301</id>
-        <link href="https://v.daum.net/v/20230309004702301"/>
-        <updated>2023-03-08T16:24:11.395Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 국민의힘 대표에 김기현…국정 뒷받침 제대로 하는 것이 여당의 본분]]></title>
-        <id>https://v.daum.net/v/20230309004604299</id>
-        <link href="https://v.daum.net/v/20230309004604299"/>
-        <updated>2023-03-08T16:24:11.397Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:46</span>]]></content>
     </entry>
 </feed>
