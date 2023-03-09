@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-03-09T13:34:27.167Z</updated>
+    <updated>2023-03-09T14:18:15.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[세컷칼럼] 비경제부처 공정위]]></title>
+        <id>https://v.daum.net/v/20230309230038823</id>
+        <link href="https://v.daum.net/v/20230309230038823"/>
+        <updated>2023-03-09T14:17:53.917Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[자산 관리하듯 정서를 관리해야 하는 이유 [삶과 문화]]]></title>
         <id>https://v.daum.net/v/20230309220126410</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230309201622035"/>
         <updated>2023-03-09T11:18:02.670Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Today's Cartoon]  2023.03.10]]></title>
-        <id>https://v.daum.net/v/20230309201352015</id>
-        <link href="https://v.daum.net/v/20230309201352015"/>
-        <updated>2023-03-09T11:18:02.671Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:13</span>]]></content>
     </entry>
 </feed>
