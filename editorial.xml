@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-03-10T13:30:06.163Z</updated>
+    <updated>2023-03-10T14:17:24.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오병상의 코멘터리] 김기현 당선과 ‘소용돌이 정치’]]></title>
+        <id>https://v.daum.net/v/20230310224021543</id>
+        <link href="https://v.daum.net/v/20230310224021543"/>
+        <updated>2023-03-10T14:17:07.108Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">22:40</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나의, 너의 두 번째 새해 [삶과 문화]]]></title>
         <id>https://v.daum.net/v/20230310220051135</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230310181509066"/>
         <updated>2023-03-10T11:15:51.539Z</updated>
         <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">18:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[메아리] 모두의 전쟁, 우크라이나전]]></title>
-        <id>https://v.daum.net/v/20230310180005705</id>
-        <link href="https://v.daum.net/v/20230310180005705"/>
-        <updated>2023-03-10T11:15:51.549Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">18:00</span>]]></content>
     </entry>
 </feed>
