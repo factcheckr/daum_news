@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-03-10T21:17:57.540Z</updated>
+    <updated>2023-03-10T22:16:57.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[낡은 이념에서 희망을 찾는건 나무위에서 물고기 구하기]]></title>
+        <id>https://v.daum.net/v/20230311070510279</id>
+        <link href="https://v.daum.net/v/20230311070510279"/>
+        <updated>2023-03-10T22:16:38.274Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">07:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울 아파트 ‘찜’할 곳은 어디···강남 vs 강북 수익률 비교 [경제칼럼]]]></title>
+        <id>https://v.daum.net/v/20230311070317261</id>
+        <link href="https://v.daum.net/v/20230311070317261"/>
+        <updated>2023-03-10T22:16:38.277Z</updated>
+        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">07:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나는 신이다, 놀라운 파장 [하재근의 이슈분석]]]></title>
         <id>https://v.daum.net/v/20230311060606866</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230311040326153"/>
         <updated>2023-03-10T19:14:22.373Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데스크 칼럼] 챗GPT의 ‘그럴듯함’에 가려진 것들]]></title>
-        <id>https://v.daum.net/v/20230311040219148</id>
-        <link href="https://v.daum.net/v/20230311040219148"/>
-        <updated>2023-03-10T19:14:22.376Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">04:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 이재명 사건의 5번째 비극, “이제 내려놓으라”는 유언]]></title>
-        <id>https://v.daum.net/v/20230311032613097</id>
-        <link href="https://v.daum.net/v/20230311032613097"/>
-        <updated>2023-03-10T19:14:22.377Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:26</span>]]></content>
     </entry>
 </feed>
