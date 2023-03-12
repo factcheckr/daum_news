@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2023-03-12T17:16:43.125Z</updated>
+    <updated>2023-03-12T18:19:51.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘의 채널A]쌍둥이 아기 돌보는 성호 커플]]></title>
+        <id>https://v.daum.net/v/20230313030230717</id>
+        <link href="https://v.daum.net/v/20230313030230717"/>
+        <updated>2023-03-12T18:18:59.573Z</updated>
+        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">03:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이상민 “바람 피우면 전 재산 압수” 비장 (장미의 전쟁)]]></title>
+        <id>https://v.daum.net/v/20230313030126690</id>
+        <link href="https://v.daum.net/v/20230313030126690"/>
+        <updated>2023-03-12T18:18:59.578Z</updated>
+        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">03:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[TV조선] 김청 모녀의 뼈 건강 관리법]]></title>
+        <id>https://v.daum.net/v/20230313030036672</id>
+        <link href="https://v.daum.net/v/20230313030036672"/>
+        <updated>2023-03-12T18:18:59.579Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["환장하겠다 어떡하냐"…한혜진, 동거남녀 쌍둥이 육아에 '걱정']]></title>
         <id>https://v.daum.net/v/20230313020305597</id>
@@ -87,27 +108,6 @@
         <id>https://v.daum.net/v/20230313003130312</id>
         <link href="https://v.daum.net/v/20230313003130312"/>
         <updated>2023-03-12T16:20:22.410Z</updated>
-        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">00:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[만화 ‘검정고무신’ 이우영 작가 별세 [연예뉴스 HOT]]]></title>
-        <id>https://v.daum.net/v/20230313003128310</id>
-        <link href="https://v.daum.net/v/20230313003128310"/>
-        <updated>2023-03-12T16:20:22.420Z</updated>
-        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">00:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랙핑크, 英 기네스 월드 레코드에 등재 [연예뉴스 HOT]]]></title>
-        <id>https://v.daum.net/v/20230313003127309</id>
-        <link href="https://v.daum.net/v/20230313003127309"/>
-        <updated>2023-03-12T16:20:22.422Z</updated>
-        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">00:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강지섭 측 “JMS, 일반 교회인 줄 알고 다녀” [연예뉴스 HOT]]]></title>
-        <id>https://v.daum.net/v/20230313003126307</id>
-        <link href="https://v.daum.net/v/20230313003126307"/>
-        <updated>2023-03-12T16:20:22.423Z</updated>
         <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">00:31</span>]]></content>
     </entry>
 </feed>
