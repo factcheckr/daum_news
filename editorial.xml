@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-03-12T12:32:16.299Z</updated>
+    <updated>2023-03-12T13:23:43.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신영옥 동심초 속 당나라 기녀의 봄맞이 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20230312220003342</id>
+        <link href="https://v.daum.net/v/20230312220003342"/>
+        <updated>2023-03-12T13:23:24.772Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘관료는 3류, 정치는 4류’ 오명 씻을 때가 됐다[광화문에서/유재동]]]></title>
         <id>https://v.daum.net/v/20230312213129123</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230312200010512"/>
         <updated>2023-03-12T11:17:19.820Z</updated>
         <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">20:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Column] Where is farsighted advice for the president?]]></title>
-        <id>https://v.daum.net/v/20230312195855492</id>
-        <link href="https://v.daum.net/v/20230312195855492"/>
-        <updated>2023-03-12T11:17:19.823Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:58</span>]]></content>
     </entry>
 </feed>
