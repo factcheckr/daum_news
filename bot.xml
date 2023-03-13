@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-03-13T20:19:23.158Z</updated>
+    <updated>2023-03-13T21:18:30.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오전 (2023년 03월 14일)]]></title>
+        <id>https://v.daum.net/v/20230314053217754</id>
+        <link href="https://v.daum.net/v/20230314053217754"/>
+        <updated>2023-03-13T21:18:30.304Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">05:32</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가상화폐 룸네트워크 32.2원 상승한 114원에 거래]]></title>
         <id>https://v.daum.net/v/20230314033127804</id>
