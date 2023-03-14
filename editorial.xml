@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-03-14T13:38:31.933Z</updated>
+    <updated>2023-03-14T14:21:18.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기협만평 2023.3.15]]></title>
+        <id>https://v.daum.net/v/20230314232041909</id>
+        <link href="https://v.daum.net/v/20230314232041909"/>
+        <updated>2023-03-14T14:20:55.387Z</updated>
+        <content type="html"><![CDATA[기자협회보<span class="txt_bar"> · </span><span class="info_time">23:20</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[세컷칼럼] 한·일 협상의 백그라운드…지금부터 시작이다]]></title>
+        <id>https://v.daum.net/v/20230314230026829</id>
+        <link href="https://v.daum.net/v/20230314230026829"/>
+        <updated>2023-03-14T14:20:55.387Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구본형, 내 삶을 바꾼 스승 [삶과 문화]]]></title>
         <id>https://v.daum.net/v/20230314220228355</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230314202628941"/>
         <updated>2023-03-14T12:42:13.664Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Editorial] A tragic offshoot of the unfair copyright deal]]></title>
-        <id>https://v.daum.net/v/20230314202530934</id>
-        <link href="https://v.daum.net/v/20230314202530934"/>
-        <updated>2023-03-14T12:42:13.665Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Column] Improved relations are the priority now]]></title>
-        <id>https://v.daum.net/v/20230314202359904</id>
-        <link href="https://v.daum.net/v/20230314202359904"/>
-        <updated>2023-03-14T12:42:13.666Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:23</span>]]></content>
     </entry>
 </feed>
