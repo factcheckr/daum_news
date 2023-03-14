@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-03-14T11:21:09.256Z</updated>
+    <updated>2023-03-14T12:42:35.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 몽골 정부와 Rio Tinto, Oyu Tolgoi구리 광산에서 첫 지하 생산 시작]]></title>
+        <id>https://v.daum.net/v/20230314211726706</id>
+        <link href="https://v.daum.net/v/20230314211726706"/>
+        <updated>2023-03-14T12:42:21.163Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">21:17</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] CGTN "더 높은 과학기술 자립·자강, 고품질 발전 위한 필수 요소"]]></title>
+        <id>https://v.daum.net/v/20230314204326201</id>
+        <link href="https://v.daum.net/v/20230314204326201"/>
+        <updated>2023-03-14T12:42:21.163Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:43</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영주문화관광재단, 레지던시 프로그램 지원사업 선정]]></title>
         <id>https://v.daum.net/v/20230314200020599</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230314181003077"/>
         <updated>2023-03-14T10:24:19.157Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">18:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[슈나이더 일렉트릭, 2022년 지속가능성 영향 성과 발표]]></title>
-        <id>https://v.daum.net/v/20230314180705959</id>
-        <link href="https://v.daum.net/v/20230314180705959"/>
-        <updated>2023-03-14T10:24:19.158Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">18:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바이네르, 튀르키예 이재민 위해 30억 상당 신발 1만켤레 ‘튀르키예 한국마을’에 기부]]></title>
-        <id>https://v.daum.net/v/20230314180703955</id>
-        <link href="https://v.daum.net/v/20230314180703955"/>
-        <updated>2023-03-14T10:24:19.160Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">18:07</span>]]></content>
     </entry>
 </feed>
