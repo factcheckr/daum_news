@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2023-03-14T16:29:27.467Z</updated>
+    <updated>2023-03-14T17:23:34.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제이앤티씨, 美 코닝과 제휴 강화…“1분기 흑자 전환”]]></title>
+        <id>https://v.daum.net/v/20230315014627708</id>
+        <link href="https://v.daum.net/v/20230315014627708"/>
+        <updated>2023-03-14T17:22:09.772Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">01:46</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[맥키스컴퍼니, 소주 신제품 ‘선양’ 유통 본격화]]></title>
         <id>https://v.daum.net/v/20230315010535586</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230315010341550"/>
         <updated>2023-03-14T16:28:07.427Z</updated>
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이코노 브리핑] 중국산 골프화 국산 속인 데상트 제재]]></title>
-        <id>https://v.daum.net/v/20230315010234528</id>
-        <link href="https://v.daum.net/v/20230315010234528"/>
-        <updated>2023-03-14T16:28:07.428Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:02</span>]]></content>
     </entry>
 </feed>
