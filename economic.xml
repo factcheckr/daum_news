@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2023-03-15T16:24:23.720Z</updated>
+    <updated>2023-03-15T17:17:03.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[속보] FT “크레디트 스위스, 중앙은행에 지원성명 요청”]]></title>
+        <id>https://v.daum.net/v/20230316013122937</id>
+        <link href="https://v.daum.net/v/20230316013122937"/>
+        <updated>2023-03-15T17:15:48.379Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">01:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[美친주] 월트디즈니, 호실적 뒤 감춰진 OTT 부진… 재정비 나선다]]></title>
         <id>https://v.daum.net/v/20230316011726907</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230316010452838</id>
         <link href="https://v.daum.net/v/20230316010452838"/>
         <updated>2023-03-15T16:23:11.497Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 봄 도다리, 농협 하나로마트에서 만나요!]]></title>
-        <id>https://v.daum.net/v/20230316010448837</id>
-        <link href="https://v.daum.net/v/20230316010448837"/>
-        <updated>2023-03-15T16:23:11.499Z</updated>
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:04</span>]]></content>
     </entry>
 </feed>
