@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-03-16T16:30:36.960Z</updated>
+    <updated>2023-03-16T17:17:13.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]초거대 AI 시대 '개인정보법제'의 역할]]></title>
+        <id>https://v.daum.net/v/20230317020302012</id>
+        <link href="https://v.daum.net/v/20230317020302012"/>
+        <updated>2023-03-16T17:16:56.169Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중앙시평] 아시아의 시대를 준비하자]]></title>
         <id>https://v.daum.net/v/20230317010646842</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230317004434739"/>
         <updated>2023-03-16T16:30:18.196Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:44</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 톡픽(TalkPick)] “실리콘밸리뱅크(SVB) 파산은 첫 번째 도미노”]]></title>
-        <id>https://v.daum.net/v/20230317004024729</id>
-        <link href="https://v.daum.net/v/20230317004024729"/>
-        <updated>2023-03-16T16:30:18.197Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:40</span>]]></content>
     </entry>
 </feed>
