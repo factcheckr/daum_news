@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-03-17T13:28:59.208Z</updated>
+    <updated>2023-03-17T14:18:25.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유전자가위로 선천성 망막질환 치료 가능성 입증]]></title>
+        <id>https://v.daum.net/v/20230317230013006</id>
+        <link href="https://v.daum.net/v/20230317230013006"/>
+        <updated>2023-03-17T14:17:56.614Z</updated>
+        <content type="html"><![CDATA[동아사이언스<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[위메이드, 미르의 전설2 저작권 분쟁서 이겨…2579억원 배상]]></title>
+        <id>https://v.daum.net/v/20230317225345970</id>
+        <link href="https://v.daum.net/v/20230317225345970"/>
+        <updated>2023-03-17T14:17:56.626Z</updated>
+        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">22:53</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[메디허브, 전문 진료과별 증상 맞춤형 챗GPT 프롬프트 배포]]></title>
         <id>https://v.daum.net/v/20230317222004771</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230317201344982"/>
         <updated>2023-03-17T11:15:08.911Z</updated>
         <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">20:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위메이드, 미르 IP 손해배상금 2500억 확정...액토즈 "취소 소송 제기"]]></title>
-        <id>https://v.daum.net/v/20230317201158948</id>
-        <link href="https://v.daum.net/v/20230317201158948"/>
-        <updated>2023-03-17T11:15:08.915Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">20:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔씨소프트, 경영기술 지원조직 개편...구현범 부사장 총괄 맡아]]></title>
-        <id>https://v.daum.net/v/20230317200954919</id>
-        <link href="https://v.daum.net/v/20230317200954919"/>
-        <updated>2023-03-17T11:15:08.915Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">20:09</span>]]></content>
     </entry>
 </feed>
