@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2023-03-18T17:15:03.583Z</updated>
+    <updated>2023-03-18T18:20:21.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장원영, 허리가 이렇게 말랐다고? 브라톱에 복근이 '딱']]></title>
+        <id>https://v.daum.net/v/20230319030507876</id>
+        <link href="https://v.daum.net/v/20230319030507876"/>
+        <updated>2023-03-18T18:19:24.026Z</updated>
+        <content type="html"><![CDATA[마이데일리<span class="txt_bar"> · </span><span class="info_time">03:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['전세사기 당한' 트로트가수, 안전한 집 찾는다…'전직 발레리노']]></title>
+        <id>https://v.daum.net/v/20230319023308836</id>
+        <link href="https://v.daum.net/v/20230319023308836"/>
+        <updated>2023-03-18T18:19:24.027Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">02:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신예은 "'더 글로리' 공개 이후 SNS 팔로워 줄었다"]]></title>
         <id>https://v.daum.net/v/20230319014408776</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230319005201702"/>
         <updated>2023-03-18T16:21:00.794Z</updated>
         <content type="html"><![CDATA[텐아시아<span class="txt_bar"> · </span><span class="info_time">00:52</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘팬텀싱어4’ 실력자, 개성파들이 왜 이렇게 많을까]]></title>
-        <id>https://v.daum.net/v/20230319005146701</id>
-        <link href="https://v.daum.net/v/20230319005146701"/>
-        <updated>2023-03-18T16:21:00.795Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">00:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모범택시2' 신재하, "형님이 선을 세게 넘으시네"…반지男 조사 중인 이제훈 '포착']]></title>
-        <id>https://v.daum.net/v/20230319005100700</id>
-        <link href="https://v.daum.net/v/20230319005100700"/>
-        <updated>2023-03-18T16:21:00.796Z</updated>
-        <content type="html"><![CDATA[SBS연예뉴스<span class="txt_bar"> · </span><span class="info_time">00:51</span>]]></content>
     </entry>
 </feed>
