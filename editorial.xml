@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-03-18T11:14:15.184Z</updated>
+    <updated>2023-03-18T12:33:17.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주간 돌발영상] 3월 셋째 주]]></title>
+        <id>https://v.daum.net/v/20230318205219486</id>
+        <link href="https://v.daum.net/v/20230318205219486"/>
+        <updated>2023-03-18T12:33:01.232Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">20:52</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[① 오늘의 운세, 궁금하세요? 3월 19일(음력 2월 28일) : 쥐띠~뱀띠 & MBTI(16가지 성향, 궁합)]]></title>
         <id>https://v.daum.net/v/20230318190011795</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230318092541507"/>
         <updated>2023-03-18T01:17:55.269Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">09:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명 “어디 감히 노무현 대통령을 입에 올리느냐”…이인규 회고록 비판]]></title>
-        <id>https://v.daum.net/v/20230318090232283</id>
-        <link href="https://v.daum.net/v/20230318090232283"/>
-        <updated>2023-03-18T01:17:55.272Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">09:02</span>]]></content>
     </entry>
 </feed>
