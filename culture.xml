@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2023-03-19T15:16:37.078Z</updated>
+    <updated>2023-03-19T16:23:25.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[천태종 새 총무원장에 덕수 스님]]></title>
+        <id>https://v.daum.net/v/20230320010148029</id>
+        <link href="https://v.daum.net/v/20230320010148029"/>
+        <updated>2023-03-19T16:22:35.758Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[외화에 무릎꿇은 한국영화..."달라진 관객 눈높이 맞춰야"]]></title>
+        <id>https://v.daum.net/v/20230320002840909</id>
+        <link href="https://v.daum.net/v/20230320002840909"/>
+        <updated>2023-03-19T16:22:35.761Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:28</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["女봐라~ 우리 모두가 정년이" 창극으로 태어난 웹툰, 신명나네]]></title>
         <id>https://v.daum.net/v/20230320001013838</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230320000044716"/>
         <updated>2023-03-19T15:15:42.932Z</updated>
         <content type="html"><![CDATA[엘르<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 날씨] 아침 '쌀쌀' 한낮 최고 20도↑…미세먼지 '유의']]></title>
-        <id>https://v.daum.net/v/20230320000016698</id>
-        <link href="https://v.daum.net/v/20230320000016698"/>
-        <updated>2023-03-19T15:15:42.934Z</updated>
-        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 운세] 2023년 3월20일 띠별‧별자리]]></title>
-        <id>https://v.daum.net/v/20230320000015696</id>
-        <link href="https://v.daum.net/v/20230320000015696"/>
-        <updated>2023-03-19T15:15:42.935Z</updated>
-        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
