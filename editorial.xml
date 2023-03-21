@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-03-21T16:22:01.391Z</updated>
+    <updated>2023-03-21T17:16:05.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓] 챗GPT 열풍이 과학기술 정책에 주는 시사점]]></title>
+        <id>https://v.daum.net/v/20230322020302304</id>
+        <link href="https://v.daum.net/v/20230322020302304"/>
+        <updated>2023-03-21T17:15:46.617Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]한일간 차이를 인정하자]]></title>
+        <id>https://v.daum.net/v/20230322020202303</id>
+        <link href="https://v.daum.net/v/20230322020202303"/>
+        <updated>2023-03-21T17:15:46.619Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[염재호 칼럼] 완전히 새로 짜야 할 저출생 정책설계]]></title>
         <id>https://v.daum.net/v/20230322010221145</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230322003826057"/>
         <updated>2023-03-21T16:21:41.605Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:38</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[분수대] 코코본드]]></title>
-        <id>https://v.daum.net/v/20230322003726054</id>
-        <link href="https://v.daum.net/v/20230322003726054"/>
-        <updated>2023-03-21T16:21:41.607Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[르포 대한민국] 지역균형 발전정책, 50년간 실패 되풀이… 이제 폐기할 때 됐다]]></title>
-        <id>https://v.daum.net/v/20230322003632052</id>
-        <link href="https://v.daum.net/v/20230322003632052"/>
-        <updated>2023-03-21T16:21:41.610Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:36</span>]]></content>
     </entry>
 </feed>
