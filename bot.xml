@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-03-21T04:19:19.050Z</updated>
+    <updated>2023-03-21T11:15:07.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2023년 03월 21일)]]></title>
+        <id>https://v.daum.net/v/20230321173108352</id>
+        <link href="https://v.daum.net/v/20230321173108352"/>
+        <updated>2023-03-21T11:15:06.184Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:31</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가상화폐 비트코인 -329,000원 하락한 36,966,000원에 거래]]></title>
+        <id>https://v.daum.net/v/20230321163131341</id>
+        <link href="https://v.daum.net/v/20230321163131341"/>
+        <updated>2023-03-21T11:15:06.186Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">16:31</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[fnRASSI]장마감, 코스닥 상승 종목(강원에너지 30.0% ↑)]]></title>
+        <id>https://v.daum.net/v/20230321154455137</id>
+        <link href="https://v.daum.net/v/20230321154455137"/>
+        <updated>2023-03-21T11:15:06.188Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:44</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[fnRASSI]장마감, 거래소 상승 종목(금양 24.3% ↑)]]></title>
+        <id>https://v.daum.net/v/20230321154448134</id>
+        <link href="https://v.daum.net/v/20230321154448134"/>
+        <updated>2023-03-21T11:15:06.191Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:44</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[fnRASSI]강원에너지, 셀바스헬스케어 등 33종목 52주 신고가 경신]]></title>
+        <id>https://v.daum.net/v/20230321154442132</id>
+        <link href="https://v.daum.net/v/20230321154442132"/>
+        <updated>2023-03-21T11:15:06.193Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:44</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[fnRASSI]오늘의 상한가, 강원에너지 29.9% ↑]]></title>
+        <id>https://v.daum.net/v/20230321154432127</id>
+        <link href="https://v.daum.net/v/20230321154432127"/>
+        <updated>2023-03-21T11:15:06.194Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:44</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가상화폐 비트코인(+0.75%), 하이브(+5.89%)]]></title>
         <id>https://v.daum.net/v/20230321073129924</id>
