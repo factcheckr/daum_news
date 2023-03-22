@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-03-22T20:17:32.099Z</updated>
+    <updated>2023-03-22T22:15:51.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[킹덤, 23일 미니 6집 발매세계관 끝판왕의 강림]]></title>
+        <id>https://v.daum.net/v/20230323070555214</id>
+        <link href="https://v.daum.net/v/20230323070555214"/>
+        <updated>2023-03-22T22:15:41.322Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">07:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강원도, 가축재해보험 가입비 최대 80% 지원]]></title>
         <id>https://v.daum.net/v/20230323050054412</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230323000732943</id>
         <link href="https://v.daum.net/v/20230323000732943"/>
         <updated>2023-03-22T15:18:49.953Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[제약 & 바이오] 비타민·미네랄 고루 함유한 ‘비맥스’…피로 해소, 에너지 대사 활성에 도움]]></title>
-        <id>https://v.daum.net/v/20230323000731942</id>
-        <link href="https://v.daum.net/v/20230323000731942"/>
-        <updated>2023-03-22T15:18:49.955Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:07</span>]]></content>
     </entry>
 </feed>
