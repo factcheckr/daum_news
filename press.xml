@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-03-22T11:18:34.394Z</updated>
+    <updated>2023-03-22T12:34:36.298Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이태규 평택대 교수, 국제장애인기능올림픽 국제심사장 위촉]]></title>
+        <id>https://v.daum.net/v/20230322205604911</id>
+        <link href="https://v.daum.net/v/20230322205604911"/>
+        <updated>2023-03-22T12:34:24.857Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">20:56</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] The Spring Equinox Arrives with a Fresh Start of Warm Breeze:]]></title>
         <id>https://v.daum.net/v/20230322193409398</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230322173704347"/>
         <updated>2023-03-22T09:17:02.797Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트렌드지, ‘NEW DAYZ’ 초동 판매량 3만 장 돌파→MV 조회수 1천만 뷰까지…거침없는 고공행진]]></title>
-        <id>https://v.daum.net/v/20230322173024141</id>
-        <link href="https://v.daum.net/v/20230322173024141"/>
-        <updated>2023-03-22T09:17:02.798Z</updated>
-        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
     </entry>
 </feed>
