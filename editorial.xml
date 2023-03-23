@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-03-23T13:22:46.255Z</updated>
+    <updated>2023-03-23T14:17:50.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[세컷칼럼] 고용노동부를 위한 변명]]></title>
+        <id>https://v.daum.net/v/20230323230031036</id>
+        <link href="https://v.daum.net/v/20230323230031036"/>
+        <updated>2023-03-23T14:17:28.713Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023년 3월 24일[김용민의 그림마당]]]></title>
         <id>https://v.daum.net/v/20230323220152468</id>
@@ -41,7 +48,7 @@
         <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">21:30</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[사설] ‘검찰 수사권 축소’ 합헌 결정, ‘시행령 편법’ 바로잡아야]]></title>
+        <title type="html"><![CDATA[[사설] ‘검찰 수사권 축소’ 손 들어준 헌재 결정, ‘시행령 편법’ 바로잡아야]]></title>
         <id>https://v.daum.net/v/20230323211002485</id>
         <link href="https://v.daum.net/v/20230323211002485"/>
         <updated>2023-03-23T12:32:01.481Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230323201818527"/>
         <updated>2023-03-23T12:32:01.496Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">20:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Column] No more backpedaling on the bilateral relations]]></title>
-        <id>https://v.daum.net/v/20230323201541473</id>
-        <link href="https://v.daum.net/v/20230323201541473"/>
-        <updated>2023-03-23T12:32:01.497Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:15</span>]]></content>
     </entry>
 </feed>
