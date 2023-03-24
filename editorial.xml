@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-03-24T09:17:35.869Z</updated>
+    <updated>2023-03-24T10:18:06.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[알림] 미디어오늘 신임 대표이사에 이희정 전 한국일보 미디어전략실장]]></title>
+        <id>https://v.daum.net/v/20230324183942803</id>
+        <link href="https://v.daum.net/v/20230324183942803"/>
+        <updated>2023-03-24T10:17:47.131Z</updated>
+        <content type="html"><![CDATA[미디어오늘<span class="txt_bar"> · </span><span class="info_time">18:39</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 양곡관리법, 거부권 거론 앞서 ‘무관심·무대책’부터 반성해야]]></title>
         <id>https://v.daum.net/v/20230324181506371</id>
@@ -90,7 +97,7 @@
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:09</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[박제완의 논점] '아이를 낳은 이유']]></title>
+        <title type="html"><![CDATA[[박제완의 논점] '아이를 낳는 이유']]></title>
         <id>https://v.daum.net/v/20230324170903771</id>
         <link href="https://v.daum.net/v/20230324170903771"/>
         <updated>2023-03-24T08:22:27.117Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230324170900765"/>
         <updated>2023-03-24T08:22:27.118Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시론] 나는 ‘댓글 폭력’에 책임이 없나?]]></title>
-        <id>https://v.daum.net/v/20230324170803745</id>
-        <link href="https://v.daum.net/v/20230324170803745"/>
-        <updated>2023-03-24T08:22:27.120Z</updated>
-        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">17:08</span>]]></content>
     </entry>
 </feed>
