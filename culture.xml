@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2023-03-24T16:22:56.077Z</updated>
+    <updated>2023-03-24T17:15:52.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제철 맞은 주꾸미, 더 건강하게 먹으려면?]]></title>
+        <id>https://v.daum.net/v/20230325020857634</id>
+        <link href="https://v.daum.net/v/20230325020857634"/>
+        <updated>2023-03-24T17:14:55.929Z</updated>
+        <content type="html"><![CDATA[코메디닷컴<span class="txt_bar"> · </span><span class="info_time">02:08</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[영상] 노오란 빛깔 가득 담고서]]></title>
         <id>https://v.daum.net/v/20230325011612522</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230325004550398"/>
         <updated>2023-03-24T16:22:01.218Z</updated>
         <content type="html"><![CDATA[중앙SUNDAY<span class="txt_bar"> · </span><span class="info_time">00:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미세먼지 속 주말…남부지방은 비[오늘 날씨]]]></title>
-        <id>https://v.daum.net/v/20230325004406393</id>
-        <link href="https://v.daum.net/v/20230325004406393"/>
-        <updated>2023-03-24T16:22:01.220Z</updated>
-        <content type="html"><![CDATA[스포츠경향<span class="txt_bar"> · </span><span class="info_time">00:44</span>]]></content>
     </entry>
 </feed>
