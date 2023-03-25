@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-03-25T11:15:59.496Z</updated>
+    <updated>2023-03-25T12:30:58.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주간 돌발영상] 3월 넷째 주]]></title>
+        <id>https://v.daum.net/v/20230325204923727</id>
+        <link href="https://v.daum.net/v/20230325204923727"/>
+        <updated>2023-03-25T12:30:36.896Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">20:49</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국민의힘 “한동훈 탄핵·민형배 복당 외치는 민주당 뻔뻔”]]></title>
         <id>https://v.daum.net/v/20230325162910655</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230325081900740"/>
         <updated>2023-03-25T01:10:46.355Z</updated>
         <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">08:19</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로맨스엔 관심 없다, 성공 위해 달린다 [K콘텐츠의 순간들]]]></title>
-        <id>https://v.daum.net/v/20230325080102595</id>
-        <link href="https://v.daum.net/v/20230325080102595"/>
-        <updated>2023-03-24T23:16:27.300Z</updated>
-        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">08:01</span>]]></content>
     </entry>
 </feed>
