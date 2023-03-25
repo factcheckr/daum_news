@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-03-25T13:20:21.772Z</updated>
+    <updated>2023-03-25T14:14:11.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[세컷칼럼] 이인규, ‘협박 수사’가 자랑인가]]></title>
+        <id>https://v.daum.net/v/20230325230033447</id>
+        <link href="https://v.daum.net/v/20230325230033447"/>
+        <updated>2023-03-25T14:13:56.439Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간 돌발영상] 3월 넷째 주]]></title>
         <id>https://v.daum.net/v/20230325204923727</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230325082721794"/>
         <updated>2023-03-25T01:10:46.354Z</updated>
         <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">08:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[천남수의 視線] '내전(內戰)’상태 한국정치와 이재명의 길]]></title>
-        <id>https://v.daum.net/v/20230325081900740</id>
-        <link href="https://v.daum.net/v/20230325081900740"/>
-        <updated>2023-03-25T01:10:46.355Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">08:19</span>]]></content>
     </entry>
 </feed>
