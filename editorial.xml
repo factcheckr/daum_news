@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-03-25T01:11:08.342Z</updated>
+    <updated>2023-03-25T02:33:07.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[與 “한동훈 탄핵 운운 외치는 민주당은 창피하지도 않나”]]></title>
+        <id>https://v.daum.net/v/20230325105537274</id>
+        <link href="https://v.daum.net/v/20230325105537274"/>
+        <updated>2023-03-25T02:32:44.882Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">10:55</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[약손+] 전립선 건강, 오해와 진실 ⑧전립선비대증 수술]]></title>
         <id>https://v.daum.net/v/20230325100836864</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230325060030469"/>
         <updated>2023-03-24T21:14:51.605Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TSMC를 바라보는 대만 내부의 복잡한 시선[PADO]]]></title>
-        <id>https://v.daum.net/v/20230325060012436</id>
-        <link href="https://v.daum.net/v/20230325060012436"/>
-        <updated>2023-03-24T21:14:51.607Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
     </entry>
 </feed>
