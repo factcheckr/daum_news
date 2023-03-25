@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-03-25T08:19:48.816Z</updated>
+    <updated>2023-03-25T09:15:35.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2023년 03월 25일)]]></title>
+        <id>https://v.daum.net/v/20230325173213208</id>
+        <link href="https://v.daum.net/v/20230325173213208"/>
+        <updated>2023-03-25T09:15:35.125Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:32</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세종 죽림리 조치원자이 154㎡ 4억4300만원... 역대 최고가]]></title>
         <id>https://v.daum.net/v/20230325165042892</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230325154538116"/>
         <updated>2023-03-25T08:19:48.009Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">15:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용인 신봉동 엘지자이1차 83㎡ 6억원에 거래]]></title>
-        <id>https://v.daum.net/v/20230325154043053</id>
-        <link href="https://v.daum.net/v/20230325154043053"/>
-        <updated>2023-03-25T08:19:48.012Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">15:40</span>]]></content>
     </entry>
 </feed>
