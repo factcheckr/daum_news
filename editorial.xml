@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-03-25T03:16:58.548Z</updated>
+    <updated>2023-03-25T04:19:47.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘데이원-KBL-허재’ 무책임의 극치가 만든 최악의 ‘캐롯 사태’]]></title>
+        <id>https://v.daum.net/v/20230325130802393</id>
+        <link href="https://v.daum.net/v/20230325130802393"/>
+        <updated>2023-03-25T04:19:25.326Z</updated>
+        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">13:08</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이주의 법안]“술취한 아저씨 탓에 아빠가 떠났어요”…음주운전 피해자 구제할 법안은?]]></title>
         <id>https://v.daum.net/v/20230325120808994</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230325060347564</id>
         <link href="https://v.daum.net/v/20230325060347564"/>
         <updated>2023-03-24T21:14:51.599Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">06:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 佛보다 2배 빨리 증가하는 수급자, 연금 개혁 시급하다]]></title>
-        <id>https://v.daum.net/v/20230325060337563</id>
-        <link href="https://v.daum.net/v/20230325060337563"/>
-        <updated>2023-03-24T21:14:51.600Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">06:03</span>]]></content>
     </entry>
 </feed>
