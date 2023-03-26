@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-03-26T22:15:39.165Z</updated>
+    <updated>2023-03-26T23:16:22.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[D:이슈] '역사 왜곡'으로 추락했던 ‘철인왕후’, 넷플릭스발 글로벌 흥행이 불편한 이유]]></title>
+        <id>https://v.daum.net/v/20230327081425526</id>
+        <link href="https://v.daum.net/v/20230327081425526"/>
+        <updated>2023-03-26T23:16:03.738Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">08:14</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[전영기의 과유불급] 신화가 된 노무현의 죽음, 사실로 되돌려 놔야]]></title>
+        <id>https://v.daum.net/v/20230327080805411</id>
+        <link href="https://v.daum.net/v/20230327080805411"/>
+        <updated>2023-03-26T23:16:03.740Z</updated>
+        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">08:08</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중국의 은행위기 음모…미국 국채 팔아 돈줄 더 조인다 [국제경제읽기 한상춘]]]></title>
         <id>https://v.daum.net/v/20230327071501609</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230327062009967"/>
         <updated>2023-03-26T22:15:20.555Z</updated>
         <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">06:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[목멱칼럼]은행이 제 역할을 잊으면 벌어지는 일]]></title>
-        <id>https://v.daum.net/v/20230327061509928</id>
-        <link href="https://v.daum.net/v/20230327061509928"/>
-        <updated>2023-03-26T22:15:20.558Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">06:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뒤끝작렬]오세훈은 왜 한강에 집착하나…직접 물어봤다]]></title>
-        <id>https://v.daum.net/v/20230327061200888</id>
-        <link href="https://v.daum.net/v/20230327061200888"/>
-        <updated>2023-03-26T21:14:27.307Z</updated>
-        <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">06:12</span>]]></content>
     </entry>
 </feed>
