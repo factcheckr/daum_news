@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-03-26T10:17:44.196Z</updated>
+    <updated>2023-03-26T11:13:27.743Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강원 평창군 대관령면에 로컬푸드직매장 개장]]></title>
+        <id>https://v.daum.net/v/20230326192720530</id>
+        <link href="https://v.daum.net/v/20230326192720530"/>
+        <updated>2023-03-26T11:13:18.326Z</updated>
+        <content type="html"><![CDATA[농민신문<span class="txt_bar"> · </span><span class="info_time">19:27</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정안농협, 조합원 영농·생활 편의 위한 지원 확대]]></title>
         <id>https://v.daum.net/v/20230326191415357</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230326120114728"/>
         <updated>2023-03-26T03:20:16.678Z</updated>
         <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">12:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[흰딸기·분홍딸기·노랑딸기...신품종 딸기 3종, 양양 클러스터 산업으로 육성]]></title>
-        <id>https://v.daum.net/v/20230326114537423</id>
-        <link href="https://v.daum.net/v/20230326114537423"/>
-        <updated>2023-03-26T03:20:16.685Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">11:45</span>]]></content>
     </entry>
 </feed>
