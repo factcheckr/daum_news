@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2023-03-26T18:19:00.938Z</updated>
+    <updated>2023-03-26T19:15:45.399Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예식장 대란] 시청사·한강공원·북서울꿈의숲서 결혼하세요]]></title>
+        <id>https://v.daum.net/v/20230327040130451</id>
+        <link href="https://v.daum.net/v/20230327040130451"/>
+        <updated>2023-03-26T19:14:55.425Z</updated>
+        <content type="html"><![CDATA[농민신문<span class="txt_bar"> · </span><span class="info_time">04:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오늘의 설교] 기도로 가는 이정표]]></title>
         <id>https://v.daum.net/v/20230327031015412</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230327030806397"/>
         <updated>2023-03-26T18:18:01.002Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">03:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피영민 목사, 한국침례신학대 총장 취임]]></title>
-        <id>https://v.daum.net/v/20230327030707395</id>
-        <link href="https://v.daum.net/v/20230327030707395"/>
-        <updated>2023-03-26T18:18:01.003Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">03:07</span>]]></content>
     </entry>
 </feed>
