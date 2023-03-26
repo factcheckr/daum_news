@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-03-26T05:17:53.193Z</updated>
+    <updated>2023-03-26T06:23:07.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[동해 도로개설공사 6곳… 교통기반 대폭 확충]]></title>
+        <id>https://v.daum.net/v/20230326143630923</id>
+        <link href="https://v.daum.net/v/20230326143630923"/>
+        <updated>2023-03-26T06:22:58.623Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">14:36</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BGF리테일, 2023년 상반기 신입사원 공개 채용]]></title>
         <id>https://v.daum.net/v/20230326135044118</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230326095520553"/>
         <updated>2023-03-26T01:22:58.140Z</updated>
         <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">09:55</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인터랙티브 브로커스, 즉시 사용 가능한 현금 이자율 USD 4.33%로 인상 예정]]></title>
-        <id>https://v.daum.net/v/20230326093704305</id>
-        <link href="https://v.daum.net/v/20230326093704305"/>
-        <updated>2023-03-26T01:22:58.140Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">09:37</span>]]></content>
     </entry>
 </feed>
