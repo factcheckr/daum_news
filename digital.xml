@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-03-27T13:31:43.574Z</updated>
+    <updated>2023-03-27T14:27:36.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[레드햇 앤드류 해브굿 부사장 “파트너십 확대, 한국 기업 글로벌 진출 도울 것”]]></title>
+        <id>https://v.daum.net/v/20230327232100095</id>
+        <link href="https://v.daum.net/v/20230327232100095"/>
+        <updated>2023-03-27T14:27:03.565Z</updated>
+        <content type="html"><![CDATA[IT동아<span class="txt_bar"> · </span><span class="info_time">23:21</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삼성, 울산·대구·광주과기원과 반도체학과 신설 협약]]></title>
         <id>https://v.daum.net/v/20230327222135741</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230327195850555</id>
         <link href="https://v.daum.net/v/20230327195850555"/>
         <updated>2023-03-27T11:14:56.834Z</updated>
-        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">19:58</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한국 과학기술 1번지] 64년 성과 축적…원자력硏 기술력 우주에서도 빛난다]]></title>
-        <id>https://v.daum.net/v/20230327195844552</id>
-        <link href="https://v.daum.net/v/20230327195844552"/>
-        <updated>2023-03-27T11:14:56.836Z</updated>
         <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">19:58</span>]]></content>
     </entry>
 </feed>
