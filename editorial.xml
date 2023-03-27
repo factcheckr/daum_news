@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-03-27T16:21:54.924Z</updated>
+    <updated>2023-03-27T17:17:00.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]초저출산 시대, 더 절실한 '맞춤형 교육']]></title>
+        <id>https://v.daum.net/v/20230328020304957</id>
+        <link href="https://v.daum.net/v/20230328020304957"/>
+        <updated>2023-03-27T17:16:40.799Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[고현곤 칼럼] 보면 볼수록 어색한 김병준의 전경련]]></title>
         <id>https://v.daum.net/v/20230328010223807</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230328003901722"/>
         <updated>2023-03-27T16:21:31.853Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[진회숙의 음악으로 읽는 세상] 회의는 춤춘다]]></title>
-        <id>https://v.daum.net/v/20230328003841719</id>
-        <link href="https://v.daum.net/v/20230328003841719"/>
-        <updated>2023-03-27T16:21:31.853Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:38</span>]]></content>
     </entry>
 </feed>
