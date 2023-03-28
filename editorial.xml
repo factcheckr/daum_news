@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-03-28T16:27:13.827Z</updated>
+    <updated>2023-03-28T17:15:54.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]일방적 극장, 주입식 교실]]></title>
+        <id>https://v.daum.net/v/20230329020302442</id>
+        <link href="https://v.daum.net/v/20230329020302442"/>
+        <updated>2023-03-28T17:15:33.259Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중앙시평] 핵이 파괴한 김정은의 꿈]]></title>
         <id>https://v.daum.net/v/20230329005822178</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230329003828059"/>
         <updated>2023-03-28T16:26:53.574Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:38</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[분수대] 노량진 고시촌]]></title>
-        <id>https://v.daum.net/v/20230329003628054</id>
-        <link href="https://v.daum.net/v/20230329003628054"/>
-        <updated>2023-03-28T16:26:53.575Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:36</span>]]></content>
     </entry>
 </feed>
