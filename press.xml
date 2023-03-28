@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-03-28T10:19:09.928Z</updated>
+    <updated>2023-03-28T11:15:20.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 파키스탄 학자, 짜오좡시 산팅구에서 왕씨 철공예 체험]]></title>
+        <id>https://v.daum.net/v/20230328195152731</id>
+        <link href="https://v.daum.net/v/20230328195152731"/>
+        <updated>2023-03-28T11:15:09.711Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">19:51</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 헨리 & 파트너스, 2023 아프리카 부 보고서 발표]]></title>
+        <id>https://v.daum.net/v/20230328194841685</id>
+        <link href="https://v.daum.net/v/20230328194841685"/>
+        <updated>2023-03-28T11:15:09.712Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">19:48</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[포천시 '유아부터 고등학생까지' 교육자들 한자리에... 협업모드]]></title>
         <id>https://v.daum.net/v/20230328191140000</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230328173702513"/>
         <updated>2023-03-28T09:18:07.368Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중기중앙회·하남시, ‘K-스타월드’ 조성 협력…“우수 중소기업 발굴”]]></title>
-        <id>https://v.daum.net/v/20230328173318366</id>
-        <link href="https://v.daum.net/v/20230328173318366"/>
-        <updated>2023-03-28T09:18:07.374Z</updated>
-        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">17:33</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러블리즈 출신 류수정, 5월 데뷔 첫 단독 콘서트 포스터 공개…'압도적 비주얼+성숙美']]></title>
-        <id>https://v.daum.net/v/20230328173029289</id>
-        <link href="https://v.daum.net/v/20230328173029289"/>
-        <updated>2023-03-28T09:18:07.376Z</updated>
-        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
     </entry>
 </feed>
