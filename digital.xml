@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-03-29T18:26:02.166Z</updated>
+    <updated>2023-03-29T19:15:33.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독]"앗, 이 냄새는" 인지 후 판단까지…삼성 '후각센서' 상용화 성큼]]></title>
+        <id>https://v.daum.net/v/20230330040602091</id>
+        <link href="https://v.daum.net/v/20230330040602091"/>
+        <updated>2023-03-29T19:15:05.063Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">04:06</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[해외에서는… 삼성페이, 5종 카드만 가능… 애플페이, 현대카드만 OK]]></title>
         <id>https://v.daum.net/v/20230330030714980</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230330004003199"/>
         <updated>2023-03-29T18:25:34.322Z</updated>
         <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">00:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한상혁 위원장 구속 면했지만…방통위 정상운영 차질 우려]]></title>
-        <id>https://v.daum.net/v/20230330003533175</id>
-        <link href="https://v.daum.net/v/20230330003533175"/>
-        <updated>2023-03-29T18:25:34.324Z</updated>
-        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">00:35</span>]]></content>
     </entry>
 </feed>
