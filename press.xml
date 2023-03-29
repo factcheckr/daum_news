@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-03-29T12:34:11.983Z</updated>
+    <updated>2023-03-29T13:26:31.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 영국령 버진 제도의 상사들, 전 세계적으로 230만 개의 일자리 지원]]></title>
+        <id>https://v.daum.net/v/20230329213646947</id>
+        <link href="https://v.daum.net/v/20230329213646947"/>
+        <updated>2023-03-29T13:26:21.316Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">21:36</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] 매뉴라이프 설문 조사, 더 길고 건강한 은퇴를 위해 건강 수명을]]></title>
         <id>https://v.daum.net/v/20230329213159896</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230329173927707"/>
         <updated>2023-03-29T09:17:54.033Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">17:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경희사이버대학교 호텔관광대학원 호텔외식MBA전공, 본죽 최복이 대표이사 초청 특강]]></title>
-        <id>https://v.daum.net/v/20230329173726627</id>
-        <link href="https://v.daum.net/v/20230329173726627"/>
-        <updated>2023-03-29T09:17:54.034Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">17:37</span>]]></content>
     </entry>
 </feed>
