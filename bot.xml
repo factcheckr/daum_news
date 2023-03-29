@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-03-29T11:14:49.376Z</updated>
+    <updated>2023-03-29T12:34:11.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가상화폐 비트코인(+3.38%), 솔라(+48.94%)]]></title>
+        <id>https://v.daum.net/v/20230329213116890</id>
+        <link href="https://v.daum.net/v/20230329213116890"/>
+        <updated>2023-03-29T12:34:11.148Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">21:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[용인 풍덕천동 수지현대아파트 84㎡ 6억6500만원에 거래]]></title>
         <id>https://v.daum.net/v/20230329183543548</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230329173211370"/>
         <updated>2023-03-29T09:18:02.574Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 영통동 영통센트럴파크뷰 59㎡ 3억3500만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230329173044313</id>
-        <link href="https://v.daum.net/v/20230329173044313"/>
-        <updated>2023-03-29T09:18:02.576Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
     </entry>
 </feed>
