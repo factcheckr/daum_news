@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-03-29T03:20:54.212Z</updated>
+    <updated>2023-03-29T04:20:27.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서정진 "2년간 셀트리온 성장시키고 은퇴할 것"]]></title>
+        <id>https://v.daum.net/v/20230329124526894</id>
+        <link href="https://v.daum.net/v/20230329124526894"/>
+        <updated>2023-03-29T04:20:06.056Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">12:45</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설]美 과도한 반도체 갑질…정부 나서고 대만·日과 공조해야]]></title>
         <id>https://v.daum.net/v/20230329114540087</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230329110903965"/>
         <updated>2023-03-29T02:43:27.736Z</updated>
         <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">11:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기자의 일상]빨리 찾아온 봄]]></title>
-        <id>https://v.daum.net/v/20230329110655777</id>
-        <link href="https://v.daum.net/v/20230329110655777"/>
-        <updated>2023-03-29T02:43:27.736Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">11:06</span>]]></content>
     </entry>
 </feed>
