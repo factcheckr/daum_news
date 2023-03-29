@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-03-29T22:17:26.143Z</updated>
+    <updated>2023-03-29T23:17:22.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](30일 조간)]]></title>
+        <id>https://v.daum.net/v/20230330080005665</id>
+        <link href="https://v.daum.net/v/20230330080005665"/>
+        <updated>2023-03-29T23:17:03.292Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수도사 멘델이 콩나무 키우다 발견한 놀라운 사실]]></title>
+        <id>https://v.daum.net/v/20230330073020224</id>
+        <link href="https://v.daum.net/v/20230330073020224"/>
+        <updated>2023-03-29T23:17:03.295Z</updated>
+        <content type="html"><![CDATA[헬스조선<span class="txt_bar"> · </span><span class="info_time">07:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[〈시사IN〉 대학기자상 수상 팁 [취재 뒷담화]]]></title>
         <id>https://v.daum.net/v/20230330071203032</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230330060015011"/>
         <updated>2023-03-29T21:15:34.860Z</updated>
         <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Lee In-hyun] ‘Naatu Naatu’ proves universal power of music]]></title>
-        <id>https://v.daum.net/v/20230330053116749</id>
-        <link href="https://v.daum.net/v/20230330053116749"/>
-        <updated>2023-03-29T21:15:34.863Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Editorial] Wet blanket on relations]]></title>
-        <id>https://v.daum.net/v/20230330053055740</id>
-        <link href="https://v.daum.net/v/20230330053055740"/>
-        <updated>2023-03-29T21:15:34.864Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
     </entry>
 </feed>
