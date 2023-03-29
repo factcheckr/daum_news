@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-03-29T09:18:03.500Z</updated>
+    <updated>2023-03-29T10:18:55.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[경기신보, 정책에 도민이 참여·소통하는 ‘고객자문위원회’ 개최]]></title>
+        <id>https://v.daum.net/v/20230329191000155</id>
+        <link href="https://v.daum.net/v/20230329191000155"/>
+        <updated>2023-03-29T10:18:45.257Z</updated>
+        <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">19:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[칠곡 약목농협 창립 50주년 기념식]]></title>
+        <id>https://v.daum.net/v/20230329183445517</id>
+        <link href="https://v.daum.net/v/20230329183445517"/>
+        <updated>2023-03-29T10:18:45.259Z</updated>
+        <content type="html"><![CDATA[농민신문<span class="txt_bar"> · </span><span class="info_time">18:34</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하남시, '청렴하남' 구현 위해 청렴교육 등 본격 나서]]></title>
         <id>https://v.daum.net/v/20230329180138588</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230329173203363"/>
         <updated>2023-03-29T09:17:54.039Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[함양군, 어린이 대상 건강생활실천 교육]]></title>
-        <id>https://v.daum.net/v/20230329173151353</id>
-        <link href="https://v.daum.net/v/20230329173151353"/>
-        <updated>2023-03-29T09:17:54.039Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국가스공사, 정기 주주총회서 무배당 확정]]></title>
-        <id>https://v.daum.net/v/20230329173134343</id>
-        <link href="https://v.daum.net/v/20230329173134343"/>
-        <updated>2023-03-29T09:17:54.041Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:31</span>]]></content>
     </entry>
 </feed>
