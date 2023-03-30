@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2023-03-30T16:25:46.020Z</updated>
+    <updated>2023-03-30T17:15:25.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[민주당, 최민희 방통위원 추천 단독강행…국민의힘 "의회폭력사태"]]></title>
+        <id>https://v.daum.net/v/20230331020000324</id>
+        <link href="https://v.daum.net/v/20230331020000324"/>
+        <updated>2023-03-30T17:14:04.984Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">02:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[2보] 검찰 '계엄문건' 조현천 전 기무사령관 구속영장]]></title>
+        <id>https://v.daum.net/v/20230331014557297</id>
+        <link href="https://v.daum.net/v/20230331014557297"/>
+        <updated>2023-03-30T17:14:04.985Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">01:45</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['20억대 신고 누락' 김대기 비서실장...징계·과태료 처분 받나]]></title>
         <id>https://v.daum.net/v/20230331011609195</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230331002409901"/>
         <updated>2023-03-30T16:24:18.638Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[재산공개] 두 채 이상 다주택 국회의원 40명…'강남 3구’ 보유는 47명]]></title>
-        <id>https://v.daum.net/v/20230331002359898</id>
-        <link href="https://v.daum.net/v/20230331002359898"/>
-        <updated>2023-03-30T16:24:18.638Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">00:23</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국회의원 87% 재산 증가...안철수 1,347억 '1위']]></title>
-        <id>https://v.daum.net/v/20230331002209871</id>
-        <link href="https://v.daum.net/v/20230331002209871"/>
-        <updated>2023-03-30T16:24:18.639Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:22</span>]]></content>
     </entry>
 </feed>
