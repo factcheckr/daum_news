@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-03-30T15:17:42.761Z</updated>
+    <updated>2023-03-30T16:25:46.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[구리시, 농수산물도매시장과 연계해 일자리창출 사업 진행]]></title>
+        <id>https://v.daum.net/v/20230331004156996</id>
+        <link href="https://v.daum.net/v/20230331004156996"/>
+        <updated>2023-03-30T16:25:35.738Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">00:41</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하남시, 구직단념 청년에게 희망 주는 프로그램 진행]]></title>
         <id>https://v.daum.net/v/20230331000952786</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230331000453711</id>
         <link href="https://v.daum.net/v/20230331000453711"/>
         <updated>2023-03-30T15:17:34.512Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[issue&] 비욘드 스틸, 미국 ‘2021~22 LACP 비전 어워즈’에서 2년 연속 금상 수상]]></title>
-        <id>https://v.daum.net/v/20230331000451710</id>
-        <link href="https://v.daum.net/v/20230331000451710"/>
-        <updated>2023-03-30T15:17:34.514Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
     </entry>
 </feed>
