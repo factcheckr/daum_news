@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-03-30T13:23:08.302Z</updated>
+    <updated>2023-03-30T14:16:26.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중기 지원 방향 개편···우수 혁신기업에 집중]]></title>
+        <id>https://v.daum.net/v/20230330224058743</id>
+        <link href="https://v.daum.net/v/20230330224058743"/>
+        <updated>2023-03-30T14:16:16.510Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">22:40</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[울산 북구, 재미가 철철 넘친다 ‘쇠부리축제’]]></title>
         <id>https://v.daum.net/v/20230330205725450</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230330204613307</id>
         <link href="https://v.daum.net/v/20230330204613307"/>
         <updated>2023-03-30T12:31:54.926Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:46</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경주시, 벚꽂향기 가득한 코스에서 1만여명 마라토너 달린다]]></title>
-        <id>https://v.daum.net/v/20230330204608301</id>
-        <link href="https://v.daum.net/v/20230330204608301"/>
-        <updated>2023-03-30T12:31:54.927Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:46</span>]]></content>
     </entry>
 </feed>
