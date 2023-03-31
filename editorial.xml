@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-03-31T04:20:13.958Z</updated>
+    <updated>2023-03-31T05:16:18.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[골프 초청해놓곤 결국 나타나지 않았다 [정현권의 감성골프]]]></title>
+        <id>https://v.daum.net/v/20230331141505182</id>
+        <link href="https://v.daum.net/v/20230331141505182"/>
+        <updated>2023-03-31T05:16:00.219Z</updated>
+        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">14:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인사] EBN산업경제]]></title>
+        <id>https://v.daum.net/v/20230331135138447</id>
+        <link href="https://v.daum.net/v/20230331135138447"/>
+        <updated>2023-03-31T05:16:00.224Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">13:51</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[시사컬처]정명석의 그늘에 가려진 것들]]></title>
         <id>https://v.daum.net/v/20230331123733621</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230331111650051"/>
         <updated>2023-03-31T02:37:52.654Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">11:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기자수첩]연금개혁, 논의의 틀 전면 바꿔야]]></title>
-        <id>https://v.daum.net/v/20230331110437442</id>
-        <link href="https://v.daum.net/v/20230331110437442"/>
-        <updated>2023-03-31T02:37:52.654Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[초동시각]20년 묵힌 예금자보호한도 상향해야]]></title>
-        <id>https://v.daum.net/v/20230331110046272</id>
-        <link href="https://v.daum.net/v/20230331110046272"/>
-        <updated>2023-03-31T02:37:52.655Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:00</span>]]></content>
     </entry>
 </feed>
