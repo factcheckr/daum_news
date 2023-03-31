@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-03-31T05:16:18.340Z</updated>
+    <updated>2023-03-31T06:22:26.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[기자수첩] 유아인, 그리고 조태오]]></title>
+        <id>https://v.daum.net/v/20230331151416509</id>
+        <link href="https://v.daum.net/v/20230331151416509"/>
+        <updated>2023-03-31T06:22:01.026Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">15:14</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[박정호의 미리 가 본 미래]〈67〉데이터 주도권 싸움이 다시 시작되다.]]></title>
+        <id>https://v.daum.net/v/20230331145305532</id>
+        <link href="https://v.daum.net/v/20230331145305532"/>
+        <updated>2023-03-31T06:22:01.029Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">14:53</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[골프 초청해놓곤 결국 나타나지 않았다 [정현권의 감성골프]]]></title>
         <id>https://v.daum.net/v/20230331141505182</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230331112623478"/>
         <updated>2023-03-31T02:37:52.635Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[만평] 대구 농수산물도매시장 이전···국비 확보 관건]]></title>
-        <id>https://v.daum.net/v/20230331111848155</id>
-        <link href="https://v.daum.net/v/20230331111848155"/>
-        <updated>2023-03-31T02:37:52.653Z</updated>
-        <content type="html"><![CDATA[대구MBC<span class="txt_bar"> · </span><span class="info_time">11:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데일리안 시사만평] 민주당 '내로남불'의 극치…내 편은 잡범 죄인도 영웅]]></title>
-        <id>https://v.daum.net/v/20230331111650051</id>
-        <link href="https://v.daum.net/v/20230331111650051"/>
-        <updated>2023-03-31T02:37:52.654Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">11:16</span>]]></content>
     </entry>
 </feed>
