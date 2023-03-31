@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-03-31T21:12:44.318Z</updated>
+    <updated>2023-03-31T22:15:52.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이수만 퇴진, 한 시대가 끝났다 [하재근의 이슈분석]]]></title>
+        <id>https://v.daum.net/v/20230401070707413</id>
+        <link href="https://v.daum.net/v/20230401070707413"/>
+        <updated>2023-03-31T22:15:35.630Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[기고]최근 글로벌 은행 위기가 국내 금융권에 주는 교훈]]></title>
         <id>https://v.daum.net/v/20230401060301810</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230401031214109"/>
         <updated>2023-03-31T18:18:57.480Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 노조 간부들 임협 때마다 뒷돈 의혹, 이렇게 썩을 수 있다니]]></title>
-        <id>https://v.daum.net/v/20230401031011105</id>
-        <link href="https://v.daum.net/v/20230401031011105"/>
-        <updated>2023-03-31T18:18:57.483Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:10</span>]]></content>
     </entry>
 </feed>
