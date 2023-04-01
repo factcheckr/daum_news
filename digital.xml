@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-04-01T13:19:08.392Z</updated>
+    <updated>2023-04-01T14:14:35.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[“배달 음식 많이 먹는다 싶더니” 배달의민족 4000억원 벌었다]]></title>
+        <title type="html"><![CDATA[평가 정교해진 '디지털 SAT', 어떻게 준비할까]]></title>
+        <id>https://v.daum.net/v/20230401225020191</id>
+        <link href="https://v.daum.net/v/20230401225020191"/>
+        <updated>2023-04-01T14:14:04.941Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">22:50</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤준오 삼성전자 부사장, 레인보우로보틱스 합류]]></title>
+        <id>https://v.daum.net/v/20230401223527115</id>
+        <link href="https://v.daum.net/v/20230401223527115"/>
+        <updated>2023-04-01T14:14:04.944Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">22:35</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“비싼 배달 음식 많이 먹는다 싶더니” 배달의민족 4000억 벌었다]]></title>
         <id>https://v.daum.net/v/20230401215507843</id>
         <link href="https://v.daum.net/v/20230401215507843"/>
         <updated>2023-04-01T13:18:42.546Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230401170003914"/>
         <updated>2023-04-01T08:18:38.448Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">17:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“맛은 좋은데 몸엔 괜찮나?” 의사가 귀띔하는 비밀 레시피]]></title>
-        <id>https://v.daum.net/v/20230401165104811</id>
-        <link href="https://v.daum.net/v/20230401165104811"/>
-        <updated>2023-04-01T08:18:38.465Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">16:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버, 세 번째 데이터센터는 ‘달나라’에 건축 “경축”]]></title>
-        <id>https://v.daum.net/v/20230401164632759</id>
-        <link href="https://v.daum.net/v/20230401164632759"/>
-        <updated>2023-04-01T08:18:38.473Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">16:46</span>]]></content>
     </entry>
 </feed>
