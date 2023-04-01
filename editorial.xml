@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-04-01T06:19:56.551Z</updated>
+    <updated>2023-04-01T07:14:44.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지금이 ‘지방 소멸’ 막을 마지막 골든타임  [김택환 쓴소리 곧은소리]]]></title>
+        <id>https://v.daum.net/v/20230401160704124</id>
+        <link href="https://v.daum.net/v/20230401160704124"/>
+        <updated>2023-04-01T07:14:28.259Z</updated>
+        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">16:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임영웅, 새 오디션에도 흔들리지 않는 존재감]]></title>
         <id>https://v.daum.net/v/20230401150703150</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230401060003679"/>
         <updated>2023-03-31T21:12:28.593Z</updated>
         <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뒤끝작렬]말로만 "MZ 의견 듣겠다"는 정부…저출산 해결 의지 있나]]></title>
-        <id>https://v.daum.net/v/20230401051200345</id>
-        <link href="https://v.daum.net/v/20230401051200345"/>
-        <updated>2023-03-31T20:16:09.102Z</updated>
-        <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">05:12</span>]]></content>
     </entry>
 </feed>
