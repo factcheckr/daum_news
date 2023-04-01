@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-04-01T08:19:04.855Z</updated>
+    <updated>2023-04-01T09:14:58.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2023년 04월 01일)]]></title>
+        <id>https://v.daum.net/v/20230401173211401</id>
+        <link href="https://v.daum.net/v/20230401173211401"/>
+        <updated>2023-04-01T09:14:57.841Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:32</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대구 북리 논공성원아파트 39㎡ 5700만원... 역대 최고가]]></title>
         <id>https://v.daum.net/v/20230401170537002</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230401160044999"/>
         <updated>2023-04-01T07:14:44.086Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">16:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 영통동 영통황골주공1차 49㎡ 2억8000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230401155546925</id>
-        <link href="https://v.daum.net/v/20230401155546925"/>
-        <updated>2023-04-01T07:14:44.088Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">15:55</span>]]></content>
     </entry>
 </feed>

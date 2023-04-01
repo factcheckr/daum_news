@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-04-01T08:19:04.845Z</updated>
+    <updated>2023-04-01T09:14:58.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[양경미의 영화로 보는 세상] 최악의 순간에 만난 최고의 이웃]]></title>
+        <id>https://v.daum.net/v/20230401172820327</id>
+        <link href="https://v.daum.net/v/20230401172820327"/>
+        <updated>2023-04-01T09:14:41.707Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">17:28</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지금이 ‘지방 소멸’ 막을 마지막 골든타임  [김택환 쓴소리 곧은소리]]]></title>
         <id>https://v.daum.net/v/20230401160704124</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230401060301810"/>
         <updated>2023-03-31T21:12:28.592Z</updated>
         <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">06:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영국 이코노미스트紙가 본 대만 전쟁 시나리오[PADO]]]></title>
-        <id>https://v.daum.net/v/20230401060003679</id>
-        <link href="https://v.daum.net/v/20230401060003679"/>
-        <updated>2023-03-31T21:12:28.593Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
     </entry>
 </feed>
