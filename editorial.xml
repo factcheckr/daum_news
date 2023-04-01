@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-04-01T11:17:29.092Z</updated>
+    <updated>2023-04-01T12:26:47.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주간 돌발영상] 4월 첫째 주]]></title>
+        <id>https://v.daum.net/v/20230401205821427</id>
+        <link href="https://v.daum.net/v/20230401205821427"/>
+        <updated>2023-04-01T12:26:28.513Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">20:58</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[양경미의 영화로 보는 세상] 최악의 순간에 만난 최고의 이웃]]></title>
         <id>https://v.daum.net/v/20230401172820327</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230401070707413"/>
         <updated>2023-03-31T22:15:35.630Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기고]최근 글로벌 은행 위기가 국내 금융권에 주는 교훈]]></title>
-        <id>https://v.daum.net/v/20230401060301810</id>
-        <link href="https://v.daum.net/v/20230401060301810"/>
-        <updated>2023-03-31T21:12:28.592Z</updated>
-        <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">06:03</span>]]></content>
     </entry>
 </feed>
