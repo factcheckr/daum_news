@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-04-02T12:27:10.085Z</updated>
+    <updated>2023-04-02T13:17:33.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[17년 연속 TV 세계 판매 1위 기념…삼성전자 ‘슈퍼빅세일’[포토뉴스]]]></title>
+        <id>https://v.daum.net/v/20230402221511671</id>
+        <link href="https://v.daum.net/v/20230402221511671"/>
+        <updated>2023-04-02T13:17:02.724Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원전 소재 4개 시·도 원전 현안 공동 대처]]></title>
+        <id>https://v.daum.net/v/20230402215431501</id>
+        <link href="https://v.daum.net/v/20230402215431501"/>
+        <updated>2023-04-02T13:17:02.725Z</updated>
+        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">21:54</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보안 정보 나갈라…기업들 ‘챗GPT 경보’]]></title>
+        <id>https://v.daum.net/v/20230402213425266</id>
+        <link href="https://v.daum.net/v/20230402213425266"/>
+        <updated>2023-04-02T13:17:02.726Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">21:34</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['챗GPT의 아버지' 샘 올트먼, 서울 온다]]></title>
         <id>https://v.daum.net/v/20230402212505157</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230402194125667"/>
         <updated>2023-04-02T11:12:49.204Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">19:41</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KT롤스터, LCK스프링서 한화생명 꺾고 결승행 목전]]></title>
-        <id>https://v.daum.net/v/20230402192918378</id>
-        <link href="https://v.daum.net/v/20230402192918378"/>
-        <updated>2023-04-02T11:12:49.206Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">19:29</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[칼로리 앱 연동해 레시피 추천···'오픈AI판 앱스토어' 열린다]]></title>
-        <id>https://v.daum.net/v/20230402190545182</id>
-        <link href="https://v.daum.net/v/20230402190545182"/>
-        <updated>2023-04-02T10:15:58.336Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">19:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["초당 60경번 연산 목표"… 2929억 슈퍼컴 6호기 도입 본격화]]></title>
-        <id>https://v.daum.net/v/20230402185532061</id>
-        <link href="https://v.daum.net/v/20230402185532061"/>
-        <updated>2023-04-02T10:15:58.337Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">18:55</span>]]></content>
     </entry>
 </feed>
