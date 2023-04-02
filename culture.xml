@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2023-04-02T15:15:55.808Z</updated>
+    <updated>2023-04-02T16:19:36.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 오늘도 고온 건조...내일부터 전국에 비]]></title>
+        <id>https://v.daum.net/v/20230403002822404</id>
+        <link href="https://v.daum.net/v/20230403002822404"/>
+        <updated>2023-04-02T16:18:33.875Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:28</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[평범한 사람들의 수호자, ‘너무도 인간적인’ 살리에리 [고승희의 리와인드]]]></title>
+        <id>https://v.daum.net/v/20230403001442364</id>
+        <link href="https://v.daum.net/v/20230403001442364"/>
+        <updated>2023-04-02T16:18:33.880Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">00:14</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[별이 된 '일본 음악 거장'…사카모토 류이치가 남긴 소통의 기록들]]></title>
         <id>https://v.daum.net/v/20230403000843344</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230403000201272"/>
         <updated>2023-04-02T15:14:46.901Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모델 릴리 알드리지가 상상한 위켄드 막스마라]]></title>
-        <id>https://v.daum.net/v/20230403000201271</id>
-        <link href="https://v.daum.net/v/20230403000201271"/>
-        <updated>2023-04-02T15:14:46.903Z</updated>
-        <content type="html"><![CDATA[엘르<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[벤자민 카나렉이 거리 위에서 만난 사람들]]></title>
-        <id>https://v.daum.net/v/20230403000145262</id>
-        <link href="https://v.daum.net/v/20230403000145262"/>
-        <updated>2023-04-02T15:14:46.906Z</updated>
-        <content type="html"><![CDATA[엘르<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
     </entry>
 </feed>
