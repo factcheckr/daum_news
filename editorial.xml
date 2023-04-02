@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-04-02T22:14:53.315Z</updated>
+    <updated>2023-04-02T23:15:34.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[한강로에서] ‘물 한 컵’이 온전하게 채워지려면…]]></title>
+        <id>https://v.daum.net/v/20230403080802801</id>
+        <link href="https://v.daum.net/v/20230403080802801"/>
+        <updated>2023-04-02T23:15:09.750Z</updated>
+        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">08:08</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](3일 조간)]]></title>
+        <id>https://v.daum.net/v/20230403080003632</id>
+        <link href="https://v.daum.net/v/20230403080003632"/>
+        <updated>2023-04-02T23:15:09.756Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지난해 넷플릭스 회원 70%가 본 콘텐츠는? [기자들의 시선]]]></title>
+        <id>https://v.daum.net/v/20230403071516014</id>
+        <link href="https://v.daum.net/v/20230403071516014"/>
+        <updated>2023-04-02T23:15:09.756Z</updated>
+        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">07:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘한·중·일 vs 북·중·러’ 도식으로 이해하기 어려운 세상 [편집국장의 편지]]]></title>
+        <id>https://v.daum.net/v/20230403071504006</id>
+        <link href="https://v.daum.net/v/20230403071504006"/>
+        <updated>2023-04-02T23:15:09.756Z</updated>
+        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">07:15</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시장에 맡긴 의료가 무너지는 이유[‘혼돈의 의료현장’ 특별기고]]]></title>
         <id>https://v.daum.net/v/20230403070812934</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230403060043108"/>
         <updated>2023-04-02T21:14:02.127Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기고]EU 그린 전환은 기회다]]></title>
-        <id>https://v.daum.net/v/20230403060039094</id>
-        <link href="https://v.daum.net/v/20230403060039094"/>
-        <updated>2023-04-02T21:14:02.128Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시론]이권 카르텔 정치를 넘어서려면]]></title>
-        <id>https://v.daum.net/v/20230403060036086</id>
-        <link href="https://v.daum.net/v/20230403060036086"/>
-        <updated>2023-04-02T21:14:02.128Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기자수첩] '일타강사' 이지영·현우진을 향한 관심이 커질 때 나타나는 현상]]></title>
-        <id>https://v.daum.net/v/20230403060035084</id>
-        <link href="https://v.daum.net/v/20230403060035084"/>
-        <updated>2023-04-02T21:14:02.129Z</updated>
-        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[우보세]전경련의 몰락과 부활]]></title>
-        <id>https://v.daum.net/v/20230403060025059</id>
-        <link href="https://v.daum.net/v/20230403060025059"/>
-        <updated>2023-04-02T21:14:02.134Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
     </entry>
 </feed>
