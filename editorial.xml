@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-04-03T22:14:51.518Z</updated>
+    <updated>2023-04-03T23:16:16.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](4일 조간)]]></title>
+        <id>https://v.daum.net/v/20230404080009731</id>
+        <link href="https://v.daum.net/v/20230404080009731"/>
+        <updated>2023-04-03T23:15:57.487Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[계엄 문건의 진실은 밝혀질 수 있을까? [기자들의 시선]]]></title>
+        <id>https://v.daum.net/v/20230404072911214</id>
+        <link href="https://v.daum.net/v/20230404072911214"/>
+        <updated>2023-04-03T23:15:57.488Z</updated>
+        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">07:29</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[기자수첩] 화마(火魔)]]></title>
         <id>https://v.daum.net/v/20230404070517904</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230404060026039"/>
         <updated>2023-04-03T21:14:30.635Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Adam Minter] Farmers are fighting for our right to repair our iPhones]]></title>
-        <id>https://v.daum.net/v/20230404053100756</id>
-        <link href="https://v.daum.net/v/20230404053100756"/>
-        <updated>2023-04-03T21:14:30.636Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Editorial] Decline in tax revenue]]></title>
-        <id>https://v.daum.net/v/20230404053040755</id>
-        <link href="https://v.daum.net/v/20230404053040755"/>
-        <updated>2023-04-03T21:14:30.636Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
     </entry>
 </feed>
