@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-04-03T03:17:37.688Z</updated>
+    <updated>2023-04-03T04:19:40.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[Editorial] Time to change Korea’s industrial structure (KOR)]]></title>
+        <id>https://v.daum.net/v/20230403130748327</id>
+        <link href="https://v.daum.net/v/20230403130748327"/>
+        <updated>2023-04-03T04:19:16.332Z</updated>
+        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">13:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“선거제도 바꾸는 데 하나도 희생하지 않겠다는 국회의원들, 부끄럽지 않나?”]]></title>
         <id>https://v.daum.net/v/20230403120804220</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230403111650288"/>
         <updated>2023-04-03T02:30:26.913Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팀장시각] 대형 정치이벤트 줄 잇는 ‘잔인한 4월’의 한반도]]></title>
-        <id>https://v.daum.net/v/20230403111553243</id>
-        <link href="https://v.daum.net/v/20230403111553243"/>
-        <updated>2023-04-03T02:30:26.917Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:15</span>]]></content>
     </entry>
 </feed>
