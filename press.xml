@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-04-04T12:29:42.780Z</updated>
+    <updated>2023-04-04T13:20:54.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[AsiaNet] More than 10,000 runners participated in the marathon in Suqian, the]]></title>
+        <id>https://v.daum.net/v/20230404220111101</id>
+        <link href="https://v.daum.net/v/20230404220111101"/>
+        <updated>2023-04-04T13:20:45.058Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경기도 농업기술원, 2023년 농촌교육농장 교사양성과정 운영]]></title>
         <id>https://v.daum.net/v/20230404210435870</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230404175928474"/>
         <updated>2023-04-04T09:16:24.370Z</updated>
         <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">17:59</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고흥군, 민·관 합동 무허가 불법건축물 집중 단속]]></title>
-        <id>https://v.daum.net/v/20230404175847457</id>
-        <link href="https://v.daum.net/v/20230404175847457"/>
-        <updated>2023-04-04T09:16:24.371Z</updated>
-        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">17:58</span>]]></content>
     </entry>
 </feed>
