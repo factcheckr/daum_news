@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-04-04T16:21:15.588Z</updated>
+    <updated>2023-04-04T17:13:16.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]독도문제, 시간은 우리 편]]></title>
+        <id>https://v.daum.net/v/20230405020503564</id>
+        <link href="https://v.daum.net/v/20230405020503564"/>
+        <updated>2023-04-04T17:12:57.196Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]데이터 사례로 보는 미래의 직장 이야기]]></title>
+        <id>https://v.daum.net/v/20230405020301561</id>
+        <link href="https://v.daum.net/v/20230405020301561"/>
+        <updated>2023-04-04T17:12:57.197Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 尹 대통령, 양곡법 거부권 행사… 巨野 입법 폭주 멈추라]]></title>
         <id>https://v.daum.net/v/20230405010533457</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230405005159347"/>
         <updated>2023-04-04T16:20:54.148Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노트북을 열며] 홍영애를 위한 변명]]></title>
-        <id>https://v.daum.net/v/20230405005039344</id>
-        <link href="https://v.daum.net/v/20230405005039344"/>
-        <updated>2023-04-04T16:20:54.150Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["연금개혁 후 늘 선거서 패배? 잘 소통하면 그럴 일 없어" [신성식의 레츠 고 9988]]]></title>
-        <id>https://v.daum.net/v/20230405005019342</id>
-        <link href="https://v.daum.net/v/20230405005019342"/>
-        <updated>2023-04-04T16:20:54.151Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:50</span>]]></content>
     </entry>
 </feed>
