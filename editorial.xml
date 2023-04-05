@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-04-05T03:17:55.731Z</updated>
+    <updated>2023-04-05T04:21:09.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘1호가 될 수 없어’ 아니, ‘1호가 될 수 있어!’]]></title>
+        <id>https://v.daum.net/v/20230405132014498</id>
+        <link href="https://v.daum.net/v/20230405132014498"/>
+        <updated>2023-04-05T04:20:50.469Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">13:20</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[볼 만해?] "고객님 사랑합니다"…'불멸의 여자'가 살아가는 법]]></title>
+        <id>https://v.daum.net/v/20230405125924033</id>
+        <link href="https://v.daum.net/v/20230405125924033"/>
+        <updated>2023-04-05T04:20:50.471Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">12:59</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Tech & Law] 혐오 표현으로서 악성 댓글과 모욕죄]]></title>
+        <id>https://v.daum.net/v/20230405123222620</id>
+        <link href="https://v.daum.net/v/20230405123222620"/>
+        <updated>2023-04-05T04:20:50.479Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:32</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대통령실 감사 연장 불승인, '유병호 압력설' 사실인가]]></title>
         <id>https://v.daum.net/v/20230405115707739</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230405111756968"/>
         <updated>2023-04-05T02:23:03.696Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">11:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데일리안 시사만평] 민주당, 여당때도 안했던 법률안…윤정부 발목잡기에 '올인' 추진]]></title>
-        <id>https://v.daum.net/v/20230405110210114</id>
-        <link href="https://v.daum.net/v/20230405110210114"/>
-        <updated>2023-04-05T02:23:03.698Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">11:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미디어법 VS 검찰수사권 축소' 헌재 판결 해석하는 언론의 변심]]></title>
-        <id>https://v.daum.net/v/20230405101402680</id>
-        <link href="https://v.daum.net/v/20230405101402680"/>
-        <updated>2023-04-05T01:58:15.315Z</updated>
-        <content type="html"><![CDATA[미디어오늘<span class="txt_bar"> · </span><span class="info_time">10:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[테헤란로] 공매도는 죄가 없다...기울어진 운동장이 문제]]></title>
-        <id>https://v.daum.net/v/20230405100506200</id>
-        <link href="https://v.daum.net/v/20230405100506200"/>
-        <updated>2023-04-05T01:58:15.317Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">10:05</span>]]></content>
     </entry>
 </feed>
