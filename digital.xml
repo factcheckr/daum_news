@@ -2,112 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-04-05T14:17:17.151Z</updated>
+    <updated>2023-04-05T15:22:06.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA['과학기술인 55만명' 한국과총, 해킹에 뚫렸다…열흘간 먹통]]></title>
-        <id>https://v.daum.net/v/20230405230127865</id>
-        <link href="https://v.daum.net/v/20230405230127865"/>
-        <updated>2023-04-05T14:16:47.511Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">23:01</span>]]></content>
+        <title type="html"><![CDATA[주요 정보보안 기업, 2022년 외형과 내실 고른 성장세 기록]]></title>
+        <id>https://v.daum.net/v/20230406000103261</id>
+        <link href="https://v.daum.net/v/20230406000103261"/>
+        <updated>2023-04-05T15:21:30.824Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SAP코리아, SYNC 아카데미 3기 모집]]></title>
-        <id>https://v.daum.net/v/20230405223214642</id>
-        <link href="https://v.daum.net/v/20230405223214642"/>
-        <updated>2023-04-05T14:16:47.512Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">22:32</span>]]></content>
+        <title type="html"><![CDATA[미세먼지 노출되면 정상세포가 유전자 변이… 폐암 확률 높아진다]]></title>
+        <id>https://v.daum.net/v/20230406000042257</id>
+        <link href="https://v.daum.net/v/20230406000042257"/>
+        <updated>2023-04-05T15:21:30.828Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오라클, `오라클DB 23c 개발자용 무료 버전` 공개]]></title>
-        <id>https://v.daum.net/v/20230405221810500</id>
-        <link href="https://v.daum.net/v/20230405221810500"/>
-        <updated>2023-04-05T13:28:22.068Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">22:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[리뷰] AMD 라이젠 7 7800X3D 써보니··· '게이밍에선 16코어 CPU도 넘어서']]></title>
-        <id>https://v.daum.net/v/20230405220300262</id>
-        <link href="https://v.daum.net/v/20230405220300262"/>
-        <updated>2023-04-05T13:28:22.071Z</updated>
-        <content type="html"><![CDATA[IT동아<span class="txt_bar"> · </span><span class="info_time">22:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KT클라우드, 케이스마텍 ‘클라우드키’ CSAP 획득 지원]]></title>
-        <id>https://v.daum.net/v/20230405215813159</id>
-        <link href="https://v.daum.net/v/20230405215813159"/>
-        <updated>2023-04-05T13:28:22.072Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">21:58</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엑스포 무대 북항, 첨단 기술로 미래 구현]]></title>
-        <id>https://v.daum.net/v/20230405215217032</id>
-        <link href="https://v.daum.net/v/20230405215217032"/>
-        <updated>2023-04-05T13:28:22.073Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">21:52</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘우주 진흥법’ 개정안…우주항공청과 입법 경쟁 ‘우려’]]></title>
-        <id>https://v.daum.net/v/20230405214545948</id>
-        <link href="https://v.daum.net/v/20230405214545948"/>
-        <updated>2023-04-05T13:28:22.075Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">21:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[토큰증권 시대를 준비하는 블록체인 업계, BCMC]]></title>
-        <id>https://v.daum.net/v/20230405213901848</id>
-        <link href="https://v.daum.net/v/20230405213901848"/>
-        <updated>2023-04-05T13:28:22.077Z</updated>
-        <content type="html"><![CDATA[IT동아<span class="txt_bar"> · </span><span class="info_time">21:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고학수 개인정보위원장, IAPP서 정책성과 공유]]></title>
-        <id>https://v.daum.net/v/20230405213210784</id>
-        <link href="https://v.daum.net/v/20230405213210784"/>
-        <updated>2023-04-05T12:36:33.160Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">21:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["아키에이지 워, 리니지2M 베꼈다" 엔씨소프트, 카카오게임즈 상대로 소송 냈다]]></title>
-        <id>https://v.daum.net/v/20230405213013750</id>
-        <link href="https://v.daum.net/v/20230405213013750"/>
-        <updated>2023-04-05T12:36:33.161Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">21:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조승래 의원, BEREC 대표단과 면담 "망 이용대가 정책 협력"]]></title>
-        <id>https://v.daum.net/v/20230405212204643</id>
-        <link href="https://v.daum.net/v/20230405212204643"/>
-        <updated>2023-04-05T12:36:33.162Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">21:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔씨, 카카오겜·엑스엘 상대 저작권 침해 소송]]></title>
-        <id>https://v.daum.net/v/20230405210634409</id>
-        <link href="https://v.daum.net/v/20230405210634409"/>
-        <updated>2023-04-05T12:36:33.163Z</updated>
-        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">21:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리니지2M과 아키에이지 워 8대 유사성 긴급 점검]]></title>
-        <id>https://v.daum.net/v/20230405210419369</id>
-        <link href="https://v.daum.net/v/20230405210419369"/>
-        <updated>2023-04-05T12:36:33.165Z</updated>
-        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">21:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“이게 진짜 이쁜가요?” 삼성 새로운 접는폰 ‘핑크’에 꽂혔다]]></title>
-        <id>https://v.daum.net/v/20230405205140128</id>
-        <link href="https://v.daum.net/v/20230405205140128"/>
-        <updated>2023-04-05T12:36:33.166Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">20:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["우주항공청은 조정 한계 커"…조승래, 우주전략본부 설치법 발의]]></title>
-        <id>https://v.daum.net/v/20230405204801063</id>
-        <link href="https://v.daum.net/v/20230405204801063"/>
-        <updated>2023-04-05T12:36:33.167Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">20:48</span>]]></content>
+        <title type="html"><![CDATA["안 펼쳐도 충분하다"…갤럭시Z플립5, 커버 디스플레이 2배 커질까]]></title>
+        <id>https://v.daum.net/v/20230406000031249</id>
+        <link href="https://v.daum.net/v/20230406000031249"/>
+        <updated>2023-04-05T15:21:30.830Z</updated>
+        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
