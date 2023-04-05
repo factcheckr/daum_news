@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-04-05T05:17:28.682Z</updated>
+    <updated>2023-04-05T06:20:32.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[바로 지금, 나부터…탄소중립 생활 실천수칙 ③ ‘가정편’]]></title>
+        <id>https://v.daum.net/v/20230405144018010</id>
+        <link href="https://v.daum.net/v/20230405144018010"/>
+        <updated>2023-04-05T06:20:12.816Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">14:40</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박홍근 “與 양곡법 대안이 밥 한 공기 비우기 운동?… 황당한 구상”]]></title>
         <id>https://v.daum.net/v/20230405134257049</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230405113907924"/>
         <updated>2023-04-05T03:17:33.549Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 입법폭주에 거부권 맞대응 악순환, 협치로 민생 챙겨야]]></title>
-        <id>https://v.daum.net/v/20230405112412264</id>
-        <link href="https://v.daum.net/v/20230405112412264"/>
-        <updated>2023-04-05T03:17:33.550Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:24</span>]]></content>
     </entry>
 </feed>
