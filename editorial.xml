@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-04-05T04:21:09.468Z</updated>
+    <updated>2023-04-05T05:17:28.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박홍근 “與 양곡법 대안이 밥 한 공기 비우기 운동?… 황당한 구상”]]></title>
+        <id>https://v.daum.net/v/20230405134257049</id>
+        <link href="https://v.daum.net/v/20230405134257049"/>
+        <updated>2023-04-05T05:17:09.933Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">13:42</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[논단]사회를 이해하려면‥집요하게 관찰하고 대화하라]]></title>
+        <id>https://v.daum.net/v/20230405133429800</id>
+        <link href="https://v.daum.net/v/20230405133429800"/>
+        <updated>2023-04-05T05:17:09.938Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">13:34</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘1호가 될 수 없어’ 아니, ‘1호가 될 수 있어!’]]></title>
         <id>https://v.daum.net/v/20230405132014498</id>
@@ -62,6 +76,13 @@
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:48</span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[발언대]안전 넘어 안심 사업장…중대재해 예방 '도원결의']]></title>
+        <id>https://v.daum.net/v/20230405114752364</id>
+        <link href="https://v.daum.net/v/20230405114752364"/>
+        <updated>2023-04-05T05:17:09.950Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:47</span>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[포럼]커지는 전기료 폭탄, 뇌관 제거가 먼저]]></title>
         <id>https://v.daum.net/v/20230405114213096</id>
         <link href="https://v.daum.net/v/20230405114213096"/>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230405112412264"/>
         <updated>2023-04-05T03:17:33.550Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 최저임금 1만원 넘어설 텐데 차등화 계속 미룰 건가]]></title>
-        <id>https://v.daum.net/v/20230405112409258</id>
-        <link href="https://v.daum.net/v/20230405112409258"/>
-        <updated>2023-04-05T03:17:33.551Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Editorial] Where are the politics? (KOR)]]></title>
-        <id>https://v.daum.net/v/20230405112237183</id>
-        <link href="https://v.daum.net/v/20230405112237183"/>
-        <updated>2023-04-05T02:23:03.694Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">11:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[The Fountain] The irony of the working poor (KOR)]]></title>
-        <id>https://v.daum.net/v/20230405111756968</id>
-        <link href="https://v.daum.net/v/20230405111756968"/>
-        <updated>2023-04-05T02:23:03.696Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">11:17</span>]]></content>
     </entry>
 </feed>
