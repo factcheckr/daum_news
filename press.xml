@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-04-06T11:19:47.440Z</updated>
+    <updated>2023-04-06T12:29:19.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Xinhua Silk Road "Wuliangye, 아시아 보아오포럼 2023에서 빛나"]]></title>
+        <id>https://v.daum.net/v/20230406203554836</id>
+        <link href="https://v.daum.net/v/20230406203554836"/>
+        <updated>2023-04-06T12:29:08.887Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:35</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] GWM 2022 Annual Performance Report: 12.18 billion CNY R&D]]></title>
+        <id>https://v.daum.net/v/20230406202932725</id>
+        <link href="https://v.daum.net/v/20230406202932725"/>
+        <updated>2023-04-06T12:29:08.888Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:29</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[AsiaNet] Shenyang (Shenhe District) Culture and Creativity Center French]]></title>
         <id>https://v.daum.net/v/20230406182757895</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230406173639399"/>
         <updated>2023-04-06T09:18:08.721Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">17:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘딜리버리맨’ 윤찬영 VS 김민석 운명 걸린 마지막 대치, 악연 끝낼까]]></title>
-        <id>https://v.daum.net/v/20230406173015158</id>
-        <link href="https://v.daum.net/v/20230406173015158"/>
-        <updated>2023-04-06T09:18:08.721Z</updated>
-        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부산 기장군, 방사선의학 전문대학원 설립 위해 중앙부처에 건의문 제출]]></title>
-        <id>https://v.daum.net/v/20230406172432954</id>
-        <link href="https://v.daum.net/v/20230406172432954"/>
-        <updated>2023-04-06T09:18:08.723Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:24</span>]]></content>
     </entry>
 </feed>
