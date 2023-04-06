@@ -2,112 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-04-06T14:15:56.283Z</updated>
+    <updated>2023-04-06T15:16:41.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[정부, '누누티비' 차단 팔 걷는다...토종 OTT 지원 300억원 펀드 조성도]]></title>
-        <id>https://v.daum.net/v/20230406225054350</id>
-        <link href="https://v.daum.net/v/20230406225054350"/>
-        <updated>2023-04-06T14:15:28.956Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">22:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아무 말이나 늘어놓는다고 다 ‘말’이 되는 건 아니라서[전문가의 세계 - 박주용의 퓨처라마]]]></title>
-        <id>https://v.daum.net/v/20230406223157997</id>
-        <link href="https://v.daum.net/v/20230406223157997"/>
-        <updated>2023-04-06T14:15:28.958Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정부 “반도체·디스플레이·차세대 전지에 160조원 집중 투자”]]></title>
-        <id>https://v.daum.net/v/20230406222340864</id>
-        <link href="https://v.daum.net/v/20230406222340864"/>
-        <updated>2023-04-06T14:15:28.960Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:23</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘daum.ai 14억원에 팝니다’ 도메인 선점 장사 돌아오나]]></title>
-        <id>https://v.daum.net/v/20230406222338862</id>
-        <link href="https://v.daum.net/v/20230406222338862"/>
-        <updated>2023-04-06T14:15:28.964Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:23</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD 자일링스, ASIC 기반 알베오 미디어 가속기 'MA35D' 공개]]></title>
-        <id>https://v.daum.net/v/20230406221802789</id>
-        <link href="https://v.daum.net/v/20230406221802789"/>
-        <updated>2023-04-06T13:19:02.535Z</updated>
-        <content type="html"><![CDATA[IT동아<span class="txt_bar"> · </span><span class="info_time">22:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD, AI 탑재 서버용 동영상 가속기 '알베오 MA35D' 공개]]></title>
-        <id>https://v.daum.net/v/20230406220117504</id>
-        <link href="https://v.daum.net/v/20230406220117504"/>
-        <updated>2023-04-06T13:19:02.538Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["GPU 경쟁 상대 안돼"···AMD, 실시간 영상용 新 가속기카드 선봬]]></title>
-        <id>https://v.daum.net/v/20230406220020482</id>
-        <link href="https://v.daum.net/v/20230406220020482"/>
-        <updated>2023-04-06T13:19:02.539Z</updated>
-        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“커지는 스트리밍 시장 공략”… AMD, 저지연·고효율 가속기 카드 출시]]></title>
-        <id>https://v.daum.net/v/20230406220012478</id>
-        <link href="https://v.daum.net/v/20230406220012478"/>
-        <updated>2023-04-06T13:19:02.541Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RUSSIA SOYUZ MS-18 SPACE CAPSULE]]></title>
-        <id>https://v.daum.net/v/20230406215922456</id>
-        <link href="https://v.daum.net/v/20230406215922456"/>
-        <updated>2023-04-06T13:19:02.548Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">21:59</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RUSSIA SOYUZ MS-18 SPACE CAPSULE]]></title>
-        <id>https://v.daum.net/v/20230406215918454</id>
-        <link href="https://v.daum.net/v/20230406215918454"/>
-        <updated>2023-04-06T13:19:02.549Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">21:59</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RUSSIA SOYUZ MS-18 SPACE CAPSULE]]></title>
-        <id>https://v.daum.net/v/20230406215915451</id>
-        <link href="https://v.daum.net/v/20230406215915451"/>
-        <updated>2023-04-06T13:19:02.550Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">21:59</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“한빛원전에 핵 폐기물 저장시설 추진”…고창 등 반발]]></title>
-        <id>https://v.daum.net/v/20230406215332335</id>
-        <link href="https://v.daum.net/v/20230406215332335"/>
-        <updated>2023-04-06T13:19:02.553Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">21:53</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“기후위기, 체험으로 배워요”…기상과학체험관 개관]]></title>
-        <id>https://v.daum.net/v/20230406215036254</id>
-        <link href="https://v.daum.net/v/20230406215036254"/>
-        <updated>2023-04-06T13:19:02.557Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">21:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RUSSIA SOYUZ MS-18 SPACE CAPSULE]]></title>
-        <id>https://v.daum.net/v/20230406214738190</id>
-        <link href="https://v.daum.net/v/20230406214738190"/>
-        <updated>2023-04-06T13:19:02.557Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">21:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RUSSIA SOYUZ MS-18 SPACE CAPSULE]]></title>
-        <id>https://v.daum.net/v/20230406214734188</id>
-        <link href="https://v.daum.net/v/20230406214734188"/>
-        <updated>2023-04-06T13:19:02.559Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">21:47</span>]]></content>
+        <title type="html"><![CDATA[사람이 살고 죽는 결정이라도 우리는 AI 의견에 휘둘린다]]></title>
+        <id>https://v.daum.net/v/20230407000018065</id>
+        <link href="https://v.daum.net/v/20230407000018065"/>
+        <updated>2023-04-06T15:16:15.622Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
