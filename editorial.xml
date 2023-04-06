@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-04-06T13:19:31.330Z</updated>
+    <updated>2023-04-06T14:15:56.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[세컷칼럼] 전기요금 동결의 디스토피아]]></title>
+        <id>https://v.daum.net/v/20230406230021491</id>
+        <link href="https://v.daum.net/v/20230406230021491"/>
+        <updated>2023-04-06T14:15:38.131Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘실명 확인’이 한국에만 있다고? [생활 속 법률 이야기] (52) 실명 확인과 고객 확인 차이가 뭔가요]]></title>
+        <id>https://v.daum.net/v/20230406222400869</id>
+        <link href="https://v.daum.net/v/20230406222400869"/>
+        <updated>2023-04-06T14:15:38.134Z</updated>
+        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">22:24</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[국민만평-서민호 화백] 2023년 4월 7일]]></title>
         <id>https://v.daum.net/v/20230406221802788</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230406203832865"/>
         <updated>2023-04-06T12:28:58.605Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:38</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Column] A revision for food security? Think again]]></title>
-        <id>https://v.daum.net/v/20230406203558837</id>
-        <link href="https://v.daum.net/v/20230406203558837"/>
-        <updated>2023-04-06T12:28:58.606Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Column] What kind of death are you preparing?]]></title>
-        <id>https://v.daum.net/v/20230406203323797</id>
-        <link href="https://v.daum.net/v/20230406203323797"/>
-        <updated>2023-04-06T12:28:58.608Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:33</span>]]></content>
     </entry>
 </feed>
