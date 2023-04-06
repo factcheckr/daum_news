@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-04-05T23:13:54.209Z</updated>
+    <updated>2023-04-06T01:08:09.036Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국은 인구 비해 항공사 많다, 저비용 항공사도 난립]]></title>
+        <id>https://v.daum.net/v/20230406093019061</id>
+        <link href="https://v.daum.net/v/20230406093019061"/>
+        <updated>2023-04-06T01:07:50.792Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">09:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[금융이 국가정책 소산이라는 이재명, 금융을 알고 한 말인가 [핫이슈]]]></title>
+        <id>https://v.daum.net/v/20230406091503390</id>
+        <link href="https://v.daum.net/v/20230406091503390"/>
+        <updated>2023-04-06T01:07:50.793Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">09:15</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하루 한 잔으로 멘탈 다스리는 4가지 본초]]></title>
         <id>https://v.daum.net/v/20230406081304603</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230406064010077"/>
         <updated>2023-04-05T22:15:16.370Z</updated>
         <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">06:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시론]통합 국적 항공사 경쟁력 높이려면]]></title>
-        <id>https://v.daum.net/v/20230406060029462</id>
-        <link href="https://v.daum.net/v/20230406060029462"/>
-        <updated>2023-04-05T21:15:51.889Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기고]주택시장 '경기침체 리스크' 최소화]]></title>
-        <id>https://v.daum.net/v/20230406055502345</id>
-        <link href="https://v.daum.net/v/20230406055502345"/>
-        <updated>2023-04-05T21:15:51.891Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">05:55</span>]]></content>
     </entry>
 </feed>
