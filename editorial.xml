@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-04-07T09:15:42.224Z</updated>
+    <updated>2023-04-07T10:17:14.762Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사설] 또 술자리로 논란 빚은 윤 대통령]]></title>
+        <id>https://v.daum.net/v/20230407183006560</id>
+        <link href="https://v.daum.net/v/20230407183006560"/>
+        <updated>2023-04-07T10:16:53.936Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">18:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사설] 국민의힘 새 원내대표, 대통령 아닌 국민 목소리 귀 기울여라]]></title>
+        <id>https://v.daum.net/v/20230407182002302</id>
+        <link href="https://v.daum.net/v/20230407182002302"/>
+        <updated>2023-04-07T10:16:53.946Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">18:20</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제주 도민이 추천하는 감성 카페는 바로 여기!]]></title>
+        <id>https://v.daum.net/v/20230407181509193</id>
+        <link href="https://v.daum.net/v/20230407181509193"/>
+        <updated>2023-04-07T10:16:53.946Z</updated>
+        <content type="html"><![CDATA[베이비뉴스<span class="txt_bar"> · </span><span class="info_time">18:15</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이디]]></title>
         <id>https://v.daum.net/v/20230407170624366</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230407164805870"/>
         <updated>2023-04-07T08:20:17.774Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">16:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인사] 한국경영자총협회]]></title>
-        <id>https://v.daum.net/v/20230407160526651</id>
-        <link href="https://v.daum.net/v/20230407160526651"/>
-        <updated>2023-04-07T07:15:17.107Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">16:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[양경미의 영화로 보는 세상] 워킹맘, 전도연의 연기 변신]]></title>
-        <id>https://v.daum.net/v/20230407160134524</id>
-        <link href="https://v.daum.net/v/20230407160134524"/>
-        <updated>2023-04-07T07:15:17.112Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">16:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[메아리] 알바생 목숨값 1000만원이라는 법원]]></title>
-        <id>https://v.daum.net/v/20230407160022467</id>
-        <link href="https://v.daum.net/v/20230407160022467"/>
-        <updated>2023-04-07T07:15:17.112Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">16:00</span>]]></content>
     </entry>
 </feed>
