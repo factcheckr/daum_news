@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-04-07T06:21:24.260Z</updated>
+    <updated>2023-04-07T07:15:39.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인사] 한국경영자총협회]]></title>
+        <id>https://v.daum.net/v/20230407160526651</id>
+        <link href="https://v.daum.net/v/20230407160526651"/>
+        <updated>2023-04-07T07:15:17.107Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">16:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[양경미의 영화로 보는 세상] 워킹맘, 전도연의 연기 변신]]></title>
+        <id>https://v.daum.net/v/20230407160134524</id>
+        <link href="https://v.daum.net/v/20230407160134524"/>
+        <updated>2023-04-07T07:15:17.112Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">16:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[메아리] 알바생 목숨값 1000만원이라는 법원]]></title>
+        <id>https://v.daum.net/v/20230407160022467</id>
+        <link href="https://v.daum.net/v/20230407160022467"/>
+        <updated>2023-04-07T07:15:17.112Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">16:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[지평선] 핀란드의 변심은 무죄]]></title>
+        <id>https://v.daum.net/v/20230407160018459</id>
+        <link href="https://v.daum.net/v/20230407160018459"/>
+        <updated>2023-04-07T07:15:17.113Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">16:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[경제 토론] '전국민 천만원 대출'에 '천원 학식'…여야 민생 정책 배틀]]></title>
+        <id>https://v.daum.net/v/20230407154326939</id>
+        <link href="https://v.daum.net/v/20230407154326939"/>
+        <updated>2023-04-07T07:15:17.113Z</updated>
+        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">15:43</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[fn사설] 삼성 '어닝소크', 악 소리 나는 한국경제]]></title>
+        <id>https://v.daum.net/v/20230407152512378</id>
+        <link href="https://v.daum.net/v/20230407152512378"/>
+        <updated>2023-04-07T07:15:17.113Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:25</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이선영의 시선] 기억이라는 몸부림]]></title>
         <id>https://v.daum.net/v/20230407145930573</id>
@@ -67,47 +109,5 @@
         <link href="https://v.daum.net/v/20230407115737206"/>
         <updated>2023-04-07T03:17:46.131Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:57</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[신보영의 시론]통합 위해 國歌까지 바꾼 호주의 교훈]]></title>
-        <id>https://v.daum.net/v/20230407115713180</id>
-        <link href="https://v.daum.net/v/20230407115713180"/>
-        <updated>2023-04-07T03:17:46.131Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:57</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스와 시각]전기료 인상 골든타임의 끝]]></title>
-        <id>https://v.daum.net/v/20230407115711179</id>
-        <link href="https://v.daum.net/v/20230407115711179"/>
-        <updated>2023-04-07T03:17:46.132Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:57</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포럼]태양광·풍력 과속 청구서도 날아든다]]></title>
-        <id>https://v.daum.net/v/20230407115152024</id>
-        <link href="https://v.daum.net/v/20230407115152024"/>
-        <updated>2023-04-07T03:17:46.132Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포럼]최저임금 양면성과 세분화 필요성]]></title>
-        <id>https://v.daum.net/v/20230407114823914</id>
-        <link href="https://v.daum.net/v/20230407114823914"/>
-        <updated>2023-04-07T03:17:46.132Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오후여담]김수근의 ‘고석공간’]]></title>
-        <id>https://v.daum.net/v/20230407114808899</id>
-        <link href="https://v.daum.net/v/20230407114808899"/>
-        <updated>2023-04-07T03:17:46.132Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[문화논단]‘자체 핵 역량’에 국력 결집할 때다]]></title>
-        <id>https://v.daum.net/v/20230407114511806</id>
-        <link href="https://v.daum.net/v/20230407114511806"/>
-        <updated>2023-04-07T03:17:46.132Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:45</span>]]></content>
     </entry>
 </feed>
