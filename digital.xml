@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-04-07T12:29:04.804Z</updated>
+    <updated>2023-04-07T13:18:45.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이종호 장관, ‘누리호 3차 발사’ 현장 점검]]></title>
+        <id>https://v.daum.net/v/20230407220822659</id>
+        <link href="https://v.daum.net/v/20230407220822659"/>
+        <updated>2023-04-07T13:18:18.414Z</updated>
+        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">22:08</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[반도체 부문 4조원대 손실…재고 급증·가격 하락 겹쳐]]></title>
         <id>https://v.daum.net/v/20230407212146997</id>
@@ -55,7 +62,7 @@
         <content type="html"><![CDATA[IT동아<span class="txt_bar"> · </span><span class="info_time">19:51</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“30분도 안 걸렸는데 2만원…택시 안 탈래요” 잘 나가던 카카오T 인기 ‘뚝’]]></title>
+        <title type="html"><![CDATA[“30분도 안 걸렸는데 2만원, 무서운 요금” 카카오택시 안 탄다]]></title>
         <id>https://v.daum.net/v/20230407195043278</id>
         <link href="https://v.daum.net/v/20230407195043278"/>
         <updated>2023-04-07T11:13:37.821Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230407190723458"/>
         <updated>2023-04-07T10:16:43.921Z</updated>
         <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">19:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["블룸버그, K콘텐츠 열풍 속 CJ ENM 역할 조명”]]></title>
-        <id>https://v.daum.net/v/20230407190334349</id>
-        <link href="https://v.daum.net/v/20230407190334349"/>
-        <updated>2023-04-07T10:16:43.930Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">19:03</span>]]></content>
     </entry>
 </feed>
