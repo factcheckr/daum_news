@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2023-04-08T18:18:15.567Z</updated>
+    <updated>2023-04-08T19:12:47.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지수 '꽃', 英 싱글차트 38위 데뷔…지민 2주 연속 최상위권]]></title>
+        <id>https://v.daum.net/v/20230409034307280</id>
+        <link href="https://v.daum.net/v/20230409034307280"/>
+        <updated>2023-04-08T19:12:05.674Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">03:43</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차주영, 바이크 타고 '멋쁨' 폭발…"멋있다 혜정아!" [전지적 참견 시점]]]></title>
         <id>https://v.daum.net/v/20230409030205256</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230409004201992"/>
         <updated>2023-04-08T16:21:10.086Z</updated>
         <content type="html"><![CDATA[MBC연예<span class="txt_bar"> · </span><span class="info_time">00:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['전참시' 추성훈, 달콤한 커피→샌드위치…전현무 "탄수화물 마니아다"]]></title>
-        <id>https://v.daum.net/v/20230409004136991</id>
-        <link href="https://v.daum.net/v/20230409004136991"/>
-        <updated>2023-04-08T16:21:10.088Z</updated>
-        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">00:41</span>]]></content>
     </entry>
 </feed>

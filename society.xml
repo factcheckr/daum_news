@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/society</id>
     <title>다음 뉴스 ─ 전체기사 ─ 사회</title>
-    <updated>2023-04-08T18:18:15.585Z</updated>
+    <updated>2023-04-08T19:12:47.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아침 0도 안팎 추위…큰 일교차 주의[오늘날씨]]]></title>
+        <id>https://v.daum.net/v/20230409040014287</id>
+        <link href="https://v.daum.net/v/20230409040014287"/>
+        <updated>2023-04-08T19:11:24.647Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천, 아침 바람 불고 쌀쌀…낮 기온 올라 큰 일교차]]></title>
+        <id>https://v.daum.net/v/20230409040013286</id>
+        <link href="https://v.daum.net/v/20230409040013286"/>
+        <updated>2023-04-08T19:11:24.647Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["백살까지 노래한다셨는데"…현미 빈소에 이틀째 추모행렬]]></title>
         <id>https://v.daum.net/v/20230409030016253</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230409000309841"/>
         <updated>2023-04-08T15:15:29.512Z</updated>
         <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[광주시 '디지털 트윈' 기술로 도시문제 해결]]></title>
-        <id>https://v.daum.net/v/20230409000307840</id>
-        <link href="https://v.daum.net/v/20230409000307840"/>
-        <updated>2023-04-08T15:15:29.518Z</updated>
-        <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여중생 살해한 성범죄자 새아버지..지켜만 본 경찰[그해 오늘]]]></title>
-        <id>https://v.daum.net/v/20230409000307839</id>
-        <link href="https://v.daum.net/v/20230409000307839"/>
-        <updated>2023-04-08T15:15:29.519Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
     </entry>
 </feed>
