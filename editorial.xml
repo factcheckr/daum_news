@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-04-08T13:17:12.051Z</updated>
+    <updated>2023-04-08T14:14:22.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[세컷칼럼] 국가 중대사가 된 ‘1000원 학식’]]></title>
+        <id>https://v.daum.net/v/20230408230035388</id>
+        <link href="https://v.daum.net/v/20230408230035388"/>
+        <updated>2023-04-08T14:13:57.791Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간 돌발영상] 4월 둘째 주]]></title>
         <id>https://v.daum.net/v/20230408204918415</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230408083600895"/>
         <updated>2023-04-08T01:09:56.503Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">08:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[천남수의 視線] 힘으로만 평화가 오나]]></title>
-        <id>https://v.daum.net/v/20230408080507675</id>
-        <link href="https://v.daum.net/v/20230408080507675"/>
-        <updated>2023-04-07T23:15:21.979Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">08:05</span>]]></content>
     </entry>
 </feed>
