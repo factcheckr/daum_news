@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-04-08T10:16:08.637Z</updated>
+    <updated>2023-04-08T11:14:37.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['정치가 호남 가뭄 키웠다' 보도에 대한 유감]]></title>
+        <id>https://v.daum.net/v/20230408193504743</id>
+        <link href="https://v.daum.net/v/20230408193504743"/>
+        <updated>2023-04-08T11:14:19.552Z</updated>
+        <content type="html"><![CDATA[미디어오늘<span class="txt_bar"> · </span><span class="info_time">19:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[기자수첩] 日 디스플레이 산업의 몰락, 반면교사로 삼아야]]></title>
         <id>https://v.daum.net/v/20230408164947435</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230408080458669"/>
         <updated>2023-04-07T23:15:21.984Z</updated>
         <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">08:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[더 한장] 아프리카의 뿔, 가뭄으로 꺾이다]]></title>
-        <id>https://v.daum.net/v/20230408070012117</id>
-        <link href="https://v.daum.net/v/20230408070012117"/>
-        <updated>2023-04-07T22:14:50.885Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
     </entry>
 </feed>
