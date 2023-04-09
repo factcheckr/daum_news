@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-04-09T16:19:22.906Z</updated>
+    <updated>2023-04-09T17:13:56.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[김남국의 아포리아]역사에서 '구조적 부정의'의 함정]]></title>
+        <id>https://v.daum.net/v/20230410020302796</id>
+        <link href="https://v.daum.net/v/20230410020302796"/>
+        <updated>2023-04-09T17:13:38.606Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[유용원의 군사세계] 현실화된 해상 교통로 봉쇄 위협… 한미 정상회담서 원자력 잠수함 문제 풀자]]></title>
         <id>https://v.daum.net/v/20230410011013744</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230410004034654"/>
         <updated>2023-04-09T16:19:04.491Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[분수대] 전 국민 1000만원 대출]]></title>
-        <id>https://v.daum.net/v/20230410003833646</id>
-        <link href="https://v.daum.net/v/20230410003833646"/>
-        <updated>2023-04-09T16:19:04.493Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:38</span>]]></content>
     </entry>
 </feed>

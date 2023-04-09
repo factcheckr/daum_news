@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/society</id>
     <title>다음 뉴스 ─ 전체기사 ─ 사회</title>
-    <updated>2023-04-09T16:19:22.896Z</updated>
+    <updated>2023-04-09T17:13:56.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대전서 만취차량이 스쿨존 덮쳐… 초등생 1명 숨져]]></title>
+        <id>https://v.daum.net/v/20230410015650790</id>
+        <link href="https://v.daum.net/v/20230410015650790"/>
+        <updated>2023-04-09T17:12:33.812Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">01:56</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사무실서 여직원 어깨 주물렀는데···성추행 혐의 '무죄' 왜?]]></title>
         <id>https://v.daum.net/v/20230410011253749</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230410010244722</id>
         <link href="https://v.daum.net/v/20230410010244722"/>
         <updated>2023-04-09T16:17:53.323Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포항시, 지역 균형발전 위한 주요 현안사업 건의]]></title>
-        <id>https://v.daum.net/v/20230410010243721</id>
-        <link href="https://v.daum.net/v/20230410010243721"/>
-        <updated>2023-04-09T16:17:53.325Z</updated>
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:02</span>]]></content>
     </entry>
 </feed>
