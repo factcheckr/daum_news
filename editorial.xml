@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-04-10T16:20:43.527Z</updated>
+    <updated>2023-04-10T17:14:35.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]소비절벽과 생산절벽]]></title>
+        <id>https://v.daum.net/v/20230411020306249</id>
+        <link href="https://v.daum.net/v/20230411020306249"/>
+        <updated>2023-04-10T17:14:15.971Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]은퇴후 노동에 대한 단상]]></title>
+        <id>https://v.daum.net/v/20230411020302247</id>
+        <link href="https://v.daum.net/v/20230411020302247"/>
+        <updated>2023-04-10T17:14:15.971Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중앙시평] 인공지능 개발을 멈춰야 할까?]]></title>
         <id>https://v.daum.net/v/20230411010041092</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230411004317048"/>
         <updated>2023-04-10T16:20:25.780Z</updated>
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">00:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김환기칼럼] 巨野 닮아가는 與, 총선 이길 수 있겠나]]></title>
-        <id>https://v.daum.net/v/20230411004308047</id>
-        <link href="https://v.daum.net/v/20230411004308047"/>
-        <updated>2023-04-10T16:20:25.782Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">00:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이후남의 영화몽상] 왕관의 무게를 견딘 ‘칸의 여왕’]]></title>
-        <id>https://v.daum.net/v/20230411004230045</id>
-        <link href="https://v.daum.net/v/20230411004230045"/>
-        <updated>2023-04-10T16:20:25.783Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:42</span>]]></content>
     </entry>
 </feed>
