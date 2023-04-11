@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-04-11T13:23:32.070Z</updated>
+    <updated>2023-04-11T14:18:40.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[리뷰] USB에 꽂아 쓰는 와이파이6E 어댑터, 넷기어 나이트호크 A8000]]></title>
+        <id>https://v.daum.net/v/20230411230300254</id>
+        <link href="https://v.daum.net/v/20230411230300254"/>
+        <updated>2023-04-11T14:18:13.789Z</updated>
+        <content type="html"><![CDATA[IT동아<span class="txt_bar"> · </span><span class="info_time">23:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수원시, '2025년 ITS 아태총회' 개최지 선정]]></title>
+        <id>https://v.daum.net/v/20230411225904215</id>
+        <link href="https://v.daum.net/v/20230411225904215"/>
+        <updated>2023-04-11T14:18:13.790Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">22:59</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[누리호 3차 발사, 다음 달 24일로 결정]]></title>
         <id>https://v.daum.net/v/20230411220416733</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230411212142008"/>
         <updated>2023-04-11T12:29:52.740Z</updated>
         <content type="html"><![CDATA[풋볼리스트<span class="txt_bar"> · </span><span class="info_time">21:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 수비를 따돌리는 이금민의 드리블]]></title>
-        <id>https://v.daum.net/v/20230411212017985</id>
-        <link href="https://v.daum.net/v/20230411212017985"/>
-        <updated>2023-04-11T12:29:52.741Z</updated>
-        <content type="html"><![CDATA[풋볼리스트<span class="txt_bar"> · </span><span class="info_time">21:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 해트트릭 기록하는 이금민]]></title>
-        <id>https://v.daum.net/v/20230411211933970</id>
-        <link href="https://v.daum.net/v/20230411211933970"/>
-        <updated>2023-04-11T12:29:52.743Z</updated>
-        <content type="html"><![CDATA[풋볼리스트<span class="txt_bar"> · </span><span class="info_time">21:19</span>]]></content>
     </entry>
 </feed>
