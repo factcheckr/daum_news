@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-04-11T16:21:17.285Z</updated>
+    <updated>2023-04-11T17:15:11.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]연동형비례제 만능론의 함정]]></title>
+        <id>https://v.daum.net/v/20230412020302174</id>
+        <link href="https://v.daum.net/v/20230412020302174"/>
+        <updated>2023-04-11T17:14:51.664Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]막힌 개혁, 더 치밀하게 더 과감하게 뚫자]]></title>
+        <id>https://v.daum.net/v/20230412020102170</id>
+        <link href="https://v.daum.net/v/20230412020102170"/>
+        <updated>2023-04-11T17:14:51.666Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중앙시평] 국빈 방미와 한국 외교의 향배]]></title>
         <id>https://v.daum.net/v/20230412005840963</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230412005027938"/>
         <updated>2023-04-11T16:20:59.495Z</updated>
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">00:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안혜리 논설위원이 간다]소아과 대란의 역설, 소아과 의사가 넘쳐난다]]></title>
-        <id>https://v.daum.net/v/20230412004828935</id>
-        <link href="https://v.daum.net/v/20230412004828935"/>
-        <updated>2023-04-11T16:20:59.496Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[최종학의 경영산책] 합스부르크 가문이 나폴레옹에 패배한 이유]]></title>
-        <id>https://v.daum.net/v/20230412004628930</id>
-        <link href="https://v.daum.net/v/20230412004628930"/>
-        <updated>2023-04-11T16:20:59.497Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:46</span>]]></content>
     </entry>
 </feed>
