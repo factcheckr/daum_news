@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-04-11T11:16:28.262Z</updated>
+    <updated>2023-04-11T12:30:25.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Wemade Participates in the World's Biggest NFT Conference]]></title>
+        <id>https://v.daum.net/v/20230411212501061</id>
+        <link href="https://v.daum.net/v/20230411212501061"/>
+        <updated>2023-04-11T12:30:13.657Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">21:25</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] HUAWEI Kicks Off the Global XMAGE Awards 2023]]></title>
         <id>https://v.daum.net/v/20230411194949994</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230411181153921"/>
         <updated>2023-04-11T09:21:06.954Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">18:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강원도, ‘노지 스마트농업’ 시범사업 공모 선정…국비 167억 원 지원]]></title>
-        <id>https://v.daum.net/v/20230411180350690</id>
-        <link href="https://v.daum.net/v/20230411180350690"/>
-        <updated>2023-04-11T09:21:06.956Z</updated>
-        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">18:03</span>]]></content>
     </entry>
 </feed>
