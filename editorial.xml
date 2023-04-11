@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-04-11T04:19:01.043Z</updated>
+    <updated>2023-04-11T05:15:26.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](11일 석간)]]></title>
+        <id>https://v.daum.net/v/20230411140005081</id>
+        <link href="https://v.daum.net/v/20230411140005081"/>
+        <updated>2023-04-11T05:15:01.524Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[퇴직해도 현역 때처럼 활기차게 사는 사람의 비법 3가지 [행복한 노후 탐구]]]></title>
+        <id>https://v.daum.net/v/20230411133716280</id>
+        <link href="https://v.daum.net/v/20230411133716280"/>
+        <updated>2023-04-11T05:15:01.525Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">13:37</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[과학세계]생각으로 움직이는 ‘인공신체’ 언제 등장할까]]></title>
+        <id>https://v.daum.net/v/20230411132507874</id>
+        <link href="https://v.daum.net/v/20230411132507874"/>
+        <updated>2023-04-11T05:15:01.525Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">13:25</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[기자수첩]관세청의 난센스 해명]]></title>
         <id>https://v.daum.net/v/20230411122338644</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230411113909954"/>
         <updated>2023-04-11T03:16:30.305Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘여성이 정치 주인공이 되는 서사’ 문소리와 퀸메이커 김희애[포토]]]></title>
-        <id>https://v.daum.net/v/20230411113443629</id>
-        <link href="https://v.daum.net/v/20230411113443629"/>
-        <updated>2023-04-11T03:16:30.307Z</updated>
-        <content type="html"><![CDATA[스포츠서울<span class="txt_bar"> · </span><span class="info_time">11:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인권변호사 문소리와 퀸메이커 김희애[포토]]]></title>
-        <id>https://v.daum.net/v/20230411113303498</id>
-        <link href="https://v.daum.net/v/20230411113303498"/>
-        <updated>2023-04-11T03:16:30.307Z</updated>
-        <content type="html"><![CDATA[스포츠서울<span class="txt_bar"> · </span><span class="info_time">11:33</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퀸과 퀸메이커로 손잡은 김희애와 문소리[포토]]]></title>
-        <id>https://v.daum.net/v/20230411113104373</id>
-        <link href="https://v.daum.net/v/20230411113104373"/>
-        <updated>2023-04-11T03:16:30.308Z</updated>
-        <content type="html"><![CDATA[스포츠서울<span class="txt_bar"> · </span><span class="info_time">11:31</span>]]></content>
     </entry>
 </feed>
