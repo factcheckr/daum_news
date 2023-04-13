@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-04-13T13:20:03.424Z</updated>
+    <updated>2023-04-13T14:16:40.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[세컷칼럼] 학폭이 장난이었다는 아이들]]></title>
+        <id>https://v.daum.net/v/20230413230029037</id>
+        <link href="https://v.daum.net/v/20230413230029037"/>
+        <updated>2023-04-13T14:16:20.545Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[눈이 추적 가능한 한계속도였다... 유망주가 던진 160㎞ 투구 [만물상]]]></title>
+        <id>https://v.daum.net/v/20230413224533910</id>
+        <link href="https://v.daum.net/v/20230413224533910"/>
+        <updated>2023-04-13T14:16:20.546Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">22:45</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대한민국의 길을 묻다] 정치의 사법화와 검찰화, 민주주의의 근간을 잠식한다]]></title>
+        <id>https://v.daum.net/v/20230413223541828</id>
+        <link href="https://v.daum.net/v/20230413223541828"/>
+        <updated>2023-04-13T14:16:20.547Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이상한 변호사와 노쇼 변호사[광화문에서/황형준]]]></title>
         <id>https://v.daum.net/v/20230413220628492</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230413201834714"/>
         <updated>2023-04-13T12:32:17.329Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기고] 민·관 함께 가는 길 ‘스마트관광’]]></title>
-        <id>https://v.daum.net/v/20230413201600645</id>
-        <link href="https://v.daum.net/v/20230413201600645"/>
-        <updated>2023-04-13T12:32:17.330Z</updated>
-        <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">20:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Column] Keeping AI from morphing into a Frankenstein]]></title>
-        <id>https://v.daum.net/v/20230413201504619</id>
-        <link href="https://v.daum.net/v/20230413201504619"/>
-        <updated>2023-04-13T12:32:17.332Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[The Fountain] Return of ‘Busan Seagull’]]></title>
-        <id>https://v.daum.net/v/20230413201305587</id>
-        <link href="https://v.daum.net/v/20230413201305587"/>
-        <updated>2023-04-13T11:14:01.301Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:13</span>]]></content>
     </entry>
 </feed>
