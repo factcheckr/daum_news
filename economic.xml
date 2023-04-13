@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2023-04-13T16:20:03.392Z</updated>
+    <updated>2023-04-13T17:14:16.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유럽산 홉 사용하고 물 타지 않아… 정통 맥주 맛·향 구현]]></title>
+        <id>https://v.daum.net/v/20230414020102249</id>
+        <link href="https://v.daum.net/v/20230414020102249"/>
+        <updated>2023-04-13T17:12:53.488Z</updated>
+        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">02:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[또 한전채 불랙홀…회사채 수요 꺾였다]]></title>
+        <id>https://v.daum.net/v/20230414014208199</id>
+        <link href="https://v.daum.net/v/20230414014208199"/>
+        <updated>2023-04-13T17:12:53.488Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">01:42</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LG 스타일러 체험공간 운영]]></title>
         <id>https://v.daum.net/v/20230414010447042</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230414010317016"/>
         <updated>2023-04-13T16:18:55.133Z</updated>
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[농협, '살맛나는 한우고기 할인행사' 실시]]></title>
-        <id>https://v.daum.net/v/20230414010315015</id>
-        <link href="https://v.daum.net/v/20230414010315015"/>
-        <updated>2023-04-13T16:18:55.135Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포스코인터내셔널, 글로벌 친환경 종합사업회사로 새롭게 출발]]></title>
-        <id>https://v.daum.net/v/20230414010256008</id>
-        <link href="https://v.daum.net/v/20230414010256008"/>
-        <updated>2023-04-13T16:18:55.137Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:02</span>]]></content>
     </entry>
 </feed>

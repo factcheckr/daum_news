@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-04-13T16:20:03.375Z</updated>
+    <updated>2023-04-13T17:14:16.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]스피드웨이·맥주·조종…인프라체험여행이 뜬다]]></title>
+        <id>https://v.daum.net/v/20230414020301258</id>
+        <link href="https://v.daum.net/v/20230414020301258"/>
+        <updated>2023-04-13T17:13:54.401Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[朝鮮칼럼 The Column] 대한민국 정통 세력의 한국사 교과서는 왜 아직 없나]]></title>
+        <id>https://v.daum.net/v/20230414015020209</id>
+        <link href="https://v.daum.net/v/20230414015020209"/>
+        <updated>2023-04-13T17:13:54.401Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">01:50</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[터치! 코리아] 윤희숙, 김미애 같은 사람… 어디 없소?]]></title>
         <id>https://v.daum.net/v/20230414011928096</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230414004228889"/>
         <updated>2023-04-13T16:19:44.582Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오병상의 라이프톡] 영화 '스노든'이 알려주는 것들]]></title>
-        <id>https://v.daum.net/v/20230414004028876</id>
-        <link href="https://v.daum.net/v/20230414004028876"/>
-        <updated>2023-04-13T16:19:44.583Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[권석천의 컷 cut] ‘좋은 비주얼’이 각광받는 조직은 좋을까?]]></title>
-        <id>https://v.daum.net/v/20230414003828872</id>
-        <link href="https://v.daum.net/v/20230414003828872"/>
-        <updated>2023-04-13T16:19:44.584Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:38</span>]]></content>
     </entry>
 </feed>
