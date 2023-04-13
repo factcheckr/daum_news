@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-04-13T12:32:37.493Z</updated>
+    <updated>2023-04-13T13:20:03.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이상한 변호사와 노쇼 변호사[광화문에서/황형준]]]></title>
+        <id>https://v.daum.net/v/20230413220628492</id>
+        <link href="https://v.daum.net/v/20230413220628492"/>
+        <updated>2023-04-13T13:19:41.344Z</updated>
+        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">22:06</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전기료 5만7070원 vs 1만1578엔[오늘과 내일/박형준]]]></title>
+        <id>https://v.daum.net/v/20230413220241409</id>
+        <link href="https://v.daum.net/v/20230413220241409"/>
+        <updated>2023-04-13T13:19:41.345Z</updated>
+        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">22:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[감행과 주저사이, 최초의 결정 그 이후  [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20230413220059378</id>
+        <link href="https://v.daum.net/v/20230413220059378"/>
+        <updated>2023-04-13T13:19:41.345Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“숨이 막혀요”… 질식 공포 싣고 달리는 김포골드라인[횡설수설/김재영]]]></title>
+        <id>https://v.daum.net/v/20230413214906164</id>
+        <link href="https://v.daum.net/v/20230413214906164"/>
+        <updated>2023-04-13T13:19:41.346Z</updated>
+        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">21:49</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[여적] 160㎞ 강속구]]></title>
         <id>https://v.daum.net/v/20230413210929529</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230413201305587"/>
         <updated>2023-04-13T11:14:01.301Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Today's Cartoon]]]></title>
-        <id>https://v.daum.net/v/20230413201144560</id>
-        <link href="https://v.daum.net/v/20230413201144560"/>
-        <updated>2023-04-13T11:14:01.302Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박용석 만평] 4월 14일]]></title>
-        <id>https://v.daum.net/v/20230413193029792</id>
-        <link href="https://v.daum.net/v/20230413193029792"/>
-        <updated>2023-04-13T11:14:01.307Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">19:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4월 14일 한겨레 그림판]]></title>
-        <id>https://v.daum.net/v/20230413193008777</id>
-        <link href="https://v.daum.net/v/20230413193008777"/>
-        <updated>2023-04-13T11:14:01.307Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 원희룡 장관 대전 방문, 국가산단 조성 힘 받나]]></title>
-        <id>https://v.daum.net/v/20230413192719687</id>
-        <link href="https://v.daum.net/v/20230413192719687"/>
-        <updated>2023-04-13T11:14:01.308Z</updated>
-        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">19:27</span>]]></content>
     </entry>
 </feed>

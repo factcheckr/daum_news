@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-04-13T12:32:37.485Z</updated>
+    <updated>2023-04-13T13:20:03.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[농가주부모임 부산시연합회 정기총회]]></title>
+        <id>https://v.daum.net/v/20230413215800314</id>
+        <link href="https://v.daum.net/v/20230413215800314"/>
+        <updated>2023-04-13T13:19:51.816Z</updated>
+        <content type="html"><![CDATA[농민신문<span class="txt_bar"> · </span><span class="info_time">21:58</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[귀농 귀촌 성공시대] 서산농기센터, 영농기술 교육 등 정착지원 프로그램 운영]]></title>
         <id>https://v.daum.net/v/20230413201618654</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230413172930353"/>
         <updated>2023-04-13T09:19:02.773Z</updated>
         <content type="html"><![CDATA[투어코리아<span class="txt_bar"> · </span><span class="info_time">17:29</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GEODIS, 아시아 태평양 및 중동 전역 항공화물 온도 관리 의약품 운송 역량 강화]]></title>
-        <id>https://v.daum.net/v/20230413172704280</id>
-        <link href="https://v.daum.net/v/20230413172704280"/>
-        <updated>2023-04-13T09:19:02.773Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:27</span>]]></content>
     </entry>
 </feed>
