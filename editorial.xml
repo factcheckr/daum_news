@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-04-14T10:17:29.094Z</updated>
+    <updated>2023-04-14T11:14:34.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[비관론 또 비관론… CEO 없는 KT 앞 가시밭길 [IT 언더라인]]]></title>
-        <id>https://v.daum.net/v/20230414191127563</id>
-        <link href="https://v.daum.net/v/20230414191127563"/>
-        <updated>2023-04-14T10:17:10.086Z</updated>
-        <content type="html"><![CDATA[더스쿠프<span class="txt_bar"> · </span><span class="info_time">19:11</span>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[데일리안 시사만평] 홍준표 해촉…쓴소리라기 보단 내부 분탕질 탓]]></title>
         <id>https://v.daum.net/v/20230414190508451</id>
@@ -108,6 +101,13 @@
         <id>https://v.daum.net/v/20230414172706269</id>
         <link href="https://v.daum.net/v/20230414172706269"/>
         <updated>2023-04-14T09:15:43.749Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:27</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[김희래의 시사해시태그] '퓨리에버'는 도화선이 될까]]></title>
+        <id>https://v.daum.net/v/20230414172705264</id>
+        <link href="https://v.daum.net/v/20230414172705264"/>
+        <updated>2023-04-14T11:14:16.392Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:27</span>]]></content>
     </entry>
 </feed>
