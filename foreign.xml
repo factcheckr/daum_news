@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/foreign</id>
     <title>다음 뉴스 ─ 전체기사 ─ 국제</title>
-    <updated>2023-04-15T18:21:26.678Z</updated>
+    <updated>2023-04-15T19:14:13.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미 몬태나주 틱톡 금지 법안 '54 대 43' 통과…50개 주 처음]]></title>
+        <id>https://v.daum.net/v/20230416040600964</id>
+        <link href="https://v.daum.net/v/20230416040600964"/>
+        <updated>2023-04-15T19:13:14.195Z</updated>
+        <content type="html"><![CDATA[SBS<span class="txt_bar"> · </span><span class="info_time">04:06</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네덜란드, 안락사 허용 연령 1~11세로 확대]]></title>
+        <id>https://v.daum.net/v/20230416035829954</id>
+        <link href="https://v.daum.net/v/20230416035829954"/>
+        <updated>2023-04-15T19:13:14.195Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">03:58</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[자막뉴스] 믿었던 동맹의 배신으로 보기 충분...미국은 "문제없다" 수습]]></title>
+        <id>https://v.daum.net/v/20230416032815943</id>
+        <link href="https://v.daum.net/v/20230416032815943"/>
+        <updated>2023-04-15T19:13:14.198Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">03:28</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우크라이나, 러시아·벨라루스 참가 대회에 대표팀 출전금지]]></title>
         <id>https://v.daum.net/v/20230416031836932</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230416014927860"/>
         <updated>2023-04-15T17:12:51.513Z</updated>
         <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">01:49</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Britain Aintree Horse Racing Protest]]></title>
-        <id>https://v.daum.net/v/20230416014227853</id>
-        <link href="https://v.daum.net/v/20230416014227853"/>
-        <updated>2023-04-15T17:12:51.514Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">01:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Britain Aintree Horse Racing Protest]]></title>
-        <id>https://v.daum.net/v/20230416014200852</id>
-        <link href="https://v.daum.net/v/20230416014200852"/>
-        <updated>2023-04-15T17:12:51.516Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">01:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Britain Soccer Premier League]]></title>
-        <id>https://v.daum.net/v/20230416013727847</id>
-        <link href="https://v.daum.net/v/20230416013727847"/>
-        <updated>2023-04-15T17:12:51.516Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">01:37</span>]]></content>
     </entry>
 </feed>
