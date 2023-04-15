@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-04-15T08:18:58.930Z</updated>
+    <updated>2023-04-15T09:15:21.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이제 아이폰도 윈도우 PC에 연결, 기능 살펴보니]]></title>
+        <id>https://v.daum.net/v/20230415180103829</id>
+        <link href="https://v.daum.net/v/20230415180103829"/>
+        <updated>2023-04-15T09:14:51.428Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">18:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“배달 음식 많이 시킨다 싶더니” 적자 허덕 쿠팡 14억원 벌었다]]></title>
+        <id>https://v.daum.net/v/20230415175109629</id>
+        <link href="https://v.daum.net/v/20230415175109629"/>
+        <updated>2023-04-15T09:14:51.433Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">17:51</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이광식의 천문학+] ‘나그네의 길잡이’ 세 별이 하나로 보이는 북극성 이야기]]></title>
         <id>https://v.daum.net/v/20230415171401314</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230415144535951"/>
         <updated>2023-04-15T06:23:02.398Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“북한 쏜 고체연료 ICBM, 러시아와 유사…기술 협력한 듯”]]></title>
-        <id>https://v.daum.net/v/20230415144329935</id>
-        <link href="https://v.daum.net/v/20230415144329935"/>
-        <updated>2023-04-15T06:23:02.408Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부음]김준배(시에라베이스 이사·전 IT조선 취재본부장)씨 모친상]]></title>
-        <id>https://v.daum.net/v/20230415143204813</id>
-        <link href="https://v.daum.net/v/20230415143204813"/>
-        <updated>2023-04-15T06:23:02.409Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">14:32</span>]]></content>
     </entry>
 </feed>
