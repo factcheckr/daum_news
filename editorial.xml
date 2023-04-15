@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-04-15T06:23:29.678Z</updated>
+    <updated>2023-04-15T07:18:54.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[유승현의 人터뷰] 4. 일과 삶의 하모니를 찾는 권순일 노무사]]></title>
+        <id>https://v.daum.net/v/20230415155555687</id>
+        <link href="https://v.daum.net/v/20230415155555687"/>
+        <updated>2023-04-15T07:18:35.697Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">15:55</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['스즈메의 문단속'과 '검정 고무신' [라제기의 슛 & 숏]]]></title>
         <id>https://v.daum.net/v/20230415120103600</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230415060026276"/>
         <updated>2023-04-14T21:15:27.329Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기자수첩] 일관성 없는 에너지 정책에 멍 드는 발전사업자]]></title>
-        <id>https://v.daum.net/v/20230415060022267</id>
-        <link href="https://v.daum.net/v/20230415060022267"/>
-        <updated>2023-04-15T05:14:45.848Z</updated>
-        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
     </entry>
 </feed>
