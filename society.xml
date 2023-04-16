@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/society</id>
     <title>다음 뉴스 ─ 전체기사 ─ 사회</title>
-    <updated>2023-04-16T16:20:23.086Z</updated>
+    <updated>2023-04-16T17:14:50.176Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[검찰, '돈봉투 조달' 강래구 소환조사...자금출처 등 집중 추궁]]></title>
+        <id>https://v.daum.net/v/20230417015806567</id>
+        <link href="https://v.daum.net/v/20230417015806567"/>
+        <updated>2023-04-16T17:13:08.680Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">01:58</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아홉 번째 맞는 '4월의 봄'..."영원히 기억하겠습니다"]]></title>
         <id>https://v.daum.net/v/20230417011318474</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230417010200414"/>
         <updated>2023-04-16T16:18:21.029Z</updated>
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[창원대 코딩아카데미 코드하우스 “슬로바키아 정부도 벤치마킹”]]></title>
-        <id>https://v.daum.net/v/20230417010142411</id>
-        <link href="https://v.daum.net/v/20230417010142411"/>
-        <updated>2023-04-16T16:18:21.030Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:01</span>]]></content>
     </entry>
 </feed>
