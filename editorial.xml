@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-04-18T22:18:05.323Z</updated>
+    <updated>2023-04-18T23:19:14.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[만화] 그래도 과일은 못 먹어 [날백수인생]]]></title>
+        <id>https://v.daum.net/v/20230419081201238</id>
+        <link href="https://v.daum.net/v/20230419081201238"/>
+        <updated>2023-04-18T23:18:55.723Z</updated>
+        <content type="html"><![CDATA[오마이뉴스<span class="txt_bar"> · </span><span class="info_time">08:12</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기후 악당 국가에서 뭐요? 출산?[오늘을 생각한다]]]></title>
         <id>https://v.daum.net/v/20230419070945205</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230419070507118</id>
         <link href="https://v.daum.net/v/20230419070507118"/>
         <updated>2023-04-18T22:17:45.386Z</updated>
-        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">07:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기고] 선진국의 기후 한 수]]></title>
-        <id>https://v.daum.net/v/20230419070505117</id>
-        <link href="https://v.daum.net/v/20230419070505117"/>
-        <updated>2023-04-18T22:17:45.389Z</updated>
         <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">07:05</span>]]></content>
     </entry>
 </feed>
