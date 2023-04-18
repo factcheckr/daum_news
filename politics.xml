@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2023-04-18T16:18:37.167Z</updated>
+    <updated>2023-04-18T17:13:37.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美국무, 기시다 日총리 25분간 만나…"최근 한일 관계 진전 축하"]]></title>
+        <id>https://v.daum.net/v/20230419020414581</id>
+        <link href="https://v.daum.net/v/20230419020414581"/>
+        <updated>2023-04-18T17:12:16.300Z</updated>
+        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">02:04</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[與, 전광훈 손절 선언…중요한 건 '김재원 반면교사']]></title>
+        <id>https://v.daum.net/v/20230419020005567</id>
+        <link href="https://v.daum.net/v/20230419020005567"/>
+        <updated>2023-04-18T17:12:16.306Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">02:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[민주당, ‘전세 사기 선지원’ 대책 촉구…긴급 간담회 개최]]></title>
         <id>https://v.daum.net/v/20230419010110394</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230419000305095"/>
         <updated>2023-04-18T15:18:06.674Z</updated>
         <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금태섭 “신당 창당 길 걷겠다, 30석 차지하면 정치 바뀔 것”]]></title>
-        <id>https://v.daum.net/v/20230419000151056</id>
-        <link href="https://v.daum.net/v/20230419000151056"/>
-        <updated>2023-04-18T15:18:06.675Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[통일부 “북한 근로자 개성공단 출근 늘어, 배상 요구할 것”]]></title>
-        <id>https://v.daum.net/v/20230419000137047</id>
-        <link href="https://v.daum.net/v/20230419000137047"/>
-        <updated>2023-04-18T15:18:06.676Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
     </entry>
 </feed>

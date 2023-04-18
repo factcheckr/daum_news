@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-04-18T16:18:37.147Z</updated>
+    <updated>2023-04-18T17:13:37.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]선대 창업자의 정신이 필요한 전통제약사]]></title>
+        <id>https://v.daum.net/v/20230419020302580</id>
+        <link href="https://v.daum.net/v/20230419020302580"/>
+        <updated>2023-04-18T17:13:19.986Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[朝鮮칼럼 The Column] 대통령의 무박(無泊) 지방 나들이 유감]]></title>
         <id>https://v.daum.net/v/20230419011744510</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230419002632254"/>
         <updated>2023-04-18T16:18:19.844Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김소연의 시인이 사랑한 단어] 윤동주, 부끄러움]]></title>
-        <id>https://v.daum.net/v/20230419002443249</id>
-        <link href="https://v.daum.net/v/20230419002443249"/>
-        <updated>2023-04-18T16:18:19.846Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:24</span>]]></content>
     </entry>
 </feed>
