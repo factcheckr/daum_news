@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-04-19T09:23:35.210Z</updated>
+    <updated>2023-04-19T10:17:25.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남양주시, 대학 입시 전략 설명회 개최]]></title>
+        <id>https://v.daum.net/v/20230419191313238</id>
+        <link href="https://v.daum.net/v/20230419191313238"/>
+        <updated>2023-04-19T10:17:15.569Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">19:13</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[탐방 선도농협] 강원 고성 토성농협, 눈부신 성과로 일류 농협 ‘우뚝’]]></title>
+        <id>https://v.daum.net/v/20230419185205715</id>
+        <link href="https://v.daum.net/v/20230419185205715"/>
+        <updated>2023-04-19T10:17:15.579Z</updated>
+        <content type="html"><![CDATA[농민신문<span class="txt_bar"> · </span><span class="info_time">18:52</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남우주, ‘어린왕자’ 셀카로 전한 근황…뮤지컬→드라마 ‘종이달’로 바쁜 열일]]></title>
         <id>https://v.daum.net/v/20230419181017725</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230419172702362"/>
         <updated>2023-04-19T08:36:38.783Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[울산시-한국생산기술연구원, 고에너지정밀가공기술센터 개소식]]></title>
-        <id>https://v.daum.net/v/20230419172157188</id>
-        <link href="https://v.daum.net/v/20230419172157188"/>
-        <updated>2023-04-19T08:36:38.783Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘닥터 차정숙’ 엄정화X김병철X명세빈X민우혁, 연기 포텐 터진 비하인드 컷 공개]]></title>
-        <id>https://v.daum.net/v/20230419172019118</id>
-        <link href="https://v.daum.net/v/20230419172019118"/>
-        <updated>2023-04-19T08:36:38.785Z</updated>
-        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">17:20</span>]]></content>
     </entry>
 </feed>
