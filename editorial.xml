@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-04-19T16:21:54.996Z</updated>
+    <updated>2023-04-19T17:15:21.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]거대한 체스판]]></title>
+        <id>https://v.daum.net/v/20230420020501632</id>
+        <link href="https://v.daum.net/v/20230420020501632"/>
+        <updated>2023-04-19T17:15:04.097Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]간호법 찬성론(2)]]></title>
+        <id>https://v.daum.net/v/20230420020102623</id>
+        <link href="https://v.daum.net/v/20230420020102623"/>
+        <updated>2023-04-19T17:15:04.097Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[진중권 칼럼] 폭주하는 태영호 의원]]></title>
         <id>https://v.daum.net/v/20230420010217451</id>
@@ -34,7 +48,7 @@
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:56</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[엉뚱한 인간 꼼수에 14번이나 굴욕패…'최강 AI 바둑'의 급소 [주정완 논설위원이 간다]]]></title>
+        <title type="html"><![CDATA['인간의 꼼수'가 치명타였다…14번 패한 최강 'AI 바둑'의 굴욕 [주정완 논설위원이 간다]]]></title>
         <id>https://v.daum.net/v/20230420005424402</id>
         <link href="https://v.daum.net/v/20230420005424402"/>
         <updated>2023-04-19T16:21:36.978Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230420004622370"/>
         <updated>2023-04-19T16:21:36.992Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:46</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 애플이 예금계좌 내놓는 시대, 한국 금융업은 몇 시인가]]></title>
-        <id>https://v.daum.net/v/20230420004602369</id>
-        <link href="https://v.daum.net/v/20230420004602369"/>
-        <updated>2023-04-19T16:21:36.993Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:46</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 핵무기만큼 위험한 北 해커조직…작은 구멍 하나에 둑이 터진다]]></title>
-        <id>https://v.daum.net/v/20230420004601368</id>
-        <link href="https://v.daum.net/v/20230420004601368"/>
-        <updated>2023-04-19T16:21:36.995Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:46</span>]]></content>
     </entry>
 </feed>
