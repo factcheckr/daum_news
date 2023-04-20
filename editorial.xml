@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-04-20T05:16:08.330Z</updated>
+    <updated>2023-04-20T06:23:21.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘윤석열 경제’ 1년은 횡설수설, 우왕좌왕, 진퇴양난 [아침햇발]]]></title>
+        <id>https://v.daum.net/v/20230420143505902</id>
+        <link href="https://v.daum.net/v/20230420143505902"/>
+        <updated>2023-04-20T06:22:58.439Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">14:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Editorial] End the confusion over the labor reform (KOR)]]></title>
         <id>https://v.daum.net/v/20230420141353906</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230420115041085"/>
         <updated>2023-04-20T03:17:13.826Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정윤희의 현장에서] 尹대통령 ‘순방 잔혹사’ 고리 끊어져야]]></title>
-        <id>https://v.daum.net/v/20230420114433811</id>
-        <link href="https://v.daum.net/v/20230420114433811"/>
-        <updated>2023-04-20T03:17:13.830Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:44</span>]]></content>
     </entry>
 </feed>
