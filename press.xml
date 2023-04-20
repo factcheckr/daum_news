@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-04-20T20:17:29.961Z</updated>
+    <updated>2023-04-20T21:14:49.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대한민국청소년기자대상 ‘생활 속 이슈’로 접수 시작]]></title>
+        <id>https://v.daum.net/v/20230421060703867</id>
+        <link href="https://v.daum.net/v/20230421060703867"/>
+        <updated>2023-04-20T21:14:36.189Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">06:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[농협미곡종합처리장(RPC) 운영 부산·울산·경남협의회, 쌀산업 발전방안 논의·신임회장 선출]]></title>
         <id>https://v.daum.net/v/20230421050235063</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230421000547601</id>
         <link href="https://v.daum.net/v/20230421000547601"/>
         <updated>2023-04-20T15:16:59.434Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[분양 포커스] ‘송파 대표상권’ 방이동 먹자골목 중심 자리]]></title>
-        <id>https://v.daum.net/v/20230421000546600</id>
-        <link href="https://v.daum.net/v/20230421000546600"/>
-        <updated>2023-04-20T15:16:59.435Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
     </entry>
 </feed>
