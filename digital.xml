@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-04-21T13:19:47.670Z</updated>
+    <updated>2023-04-21T14:16:16.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[8만전자 기대해도 될까요…세계가 알아주는 ‘저평가 3인방’ 손꼽혀]]></title>
+        <id>https://v.daum.net/v/20230421222100336</id>
+        <link href="https://v.daum.net/v/20230421222100336"/>
+        <updated>2023-04-21T14:15:47.311Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">22:21</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[23년 4월 2주차] "두 유 노우 원신?" 글로벌 순항 중인 원신]]></title>
         <id>https://v.daum.net/v/20230421215101918</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230421203006824"/>
         <updated>2023-04-21T12:28:28.004Z</updated>
         <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">20:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1분기 랜섬웨어 공격 933건…"비주류 언어 기반 랜섬웨어 주의"]]></title>
-        <id>https://v.daum.net/v/20230421202811800</id>
-        <link href="https://v.daum.net/v/20230421202811800"/>
-        <updated>2023-04-21T12:28:28.005Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">20:28</span>]]></content>
     </entry>
 </feed>
