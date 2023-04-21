@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2023-04-21T16:22:26.910Z</updated>
+    <updated>2023-04-21T17:19:25.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[봄을 활짝 연다! 서울스프링실내악축제]]></title>
+        <id>https://v.daum.net/v/20230422012507612</id>
+        <link href="https://v.daum.net/v/20230422012507612"/>
+        <updated>2023-04-21T17:18:23.690Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">01:25</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임지연, 여리여리~]]></title>
         <id>https://v.daum.net/v/20230422011010545</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230422004501407"/>
         <updated>2023-04-21T16:21:23.440Z</updated>
         <content type="html"><![CDATA[엘르<span class="txt_bar"> · </span><span class="info_time">00:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[꾸밈도 허세도 없이 본질에 충실…동물 뼈 같은 가구 디자인 하겠다]]></title>
-        <id>https://v.daum.net/v/20230422003819381</id>
-        <link href="https://v.daum.net/v/20230422003819381"/>
-        <updated>2023-04-21T16:21:23.441Z</updated>
-        <content type="html"><![CDATA[중앙SUNDAY<span class="txt_bar"> · </span><span class="info_time">00:38</span>]]></content>
     </entry>
 </feed>
