@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-04-21T06:20:54.074Z</updated>
+    <updated>2023-04-21T07:18:54.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['우회전 일시 정지' 3개월 계도 끝···4월 22일부터 단속]]></title>
+        <id>https://v.daum.net/v/20230421161304261</id>
+        <link href="https://v.daum.net/v/20230421161304261"/>
+        <updated>2023-04-21T07:18:32.855Z</updated>
+        <content type="html"><![CDATA[대구MBC<span class="txt_bar"> · </span><span class="info_time">16:13</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[지평선] 다극화 시대에 ‘미국 올인’]]></title>
+        <id>https://v.daum.net/v/20230421160003867</id>
+        <link href="https://v.daum.net/v/20230421160003867"/>
+        <updated>2023-04-21T07:18:32.856Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">16:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[경제 토론] 재정준칙 30개월 표류하는데…뒷북 유럽 출장 떠난 여야]]></title>
+        <id>https://v.daum.net/v/20230421154320394</id>
+        <link href="https://v.daum.net/v/20230421154320394"/>
+        <updated>2023-04-21T07:18:32.856Z</updated>
+        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">15:43</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[논단]정부 데이터 바우처 지원사업의 현실]]></title>
         <id>https://v.daum.net/v/20230421142722902</id>
@@ -48,7 +69,7 @@
         <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">13:32</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[시사컬처]로제·강동원 열애설에 가려진 그날 밤]]></title>
+        <title type="html"><![CDATA[로제·강동원 열애설에 가려진 그날 밤[시사컬처]]]></title>
         <id>https://v.daum.net/v/20230421132937330</id>
         <link href="https://v.daum.net/v/20230421132937330"/>
         <updated>2023-04-21T05:16:00.589Z</updated>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230421115707550"/>
         <updated>2023-04-21T03:16:53.940Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:57</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포럼]‘깡통전세’ 입법 보완도 시급하다]]></title>
-        <id>https://v.daum.net/v/20230421115425465</id>
-        <link href="https://v.daum.net/v/20230421115425465"/>
-        <updated>2023-04-21T03:16:53.941Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:54</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포럼]전기료 인상과 한전 자구책 병행할 때]]></title>
-        <id>https://v.daum.net/v/20230421115423463</id>
-        <link href="https://v.daum.net/v/20230421115423463"/>
-        <updated>2023-04-21T03:16:53.942Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:54</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[문화논단]‘선도적 미래 치안’의 대장정]]></title>
-        <id>https://v.daum.net/v/20230421115115348</id>
-        <link href="https://v.daum.net/v/20230421115115348"/>
-        <updated>2023-04-21T03:16:53.943Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:51</span>]]></content>
     </entry>
 </feed>
