@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-04-21T21:14:08.731Z</updated>
+    <updated>2023-04-21T22:15:34.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서세원, 최고 희극인 최고 사회자였다 [하재근의 이슈분석]]]></title>
+        <id>https://v.daum.net/v/20230422070707224</id>
+        <link href="https://v.daum.net/v/20230422070707224"/>
+        <updated>2023-04-21T22:15:10.010Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[더 한장] 어디선가 본 듯한 풍경? 인도네시아 코로나 끝나자 1억명이 움직였다.]]></title>
+        <id>https://v.daum.net/v/20230422070128163</id>
+        <link href="https://v.daum.net/v/20230422070128163"/>
+        <updated>2023-04-21T22:15:10.010Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">07:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[데스크 칼럼] 규제에 발목 잡힌 금융 빅블러]]></title>
         <id>https://v.daum.net/v/20230422060114626</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230422040311077"/>
         <updated>2023-04-21T19:15:26.849Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 뻔히 닥칠 문제 미루고 외면한 정부·국회, ‘전세 사기’뿐 아니다]]></title>
-        <id>https://v.daum.net/v/20230422031609040</id>
-        <link href="https://v.daum.net/v/20230422031609040"/>
-        <updated>2023-04-21T18:19:48.229Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 국제 기본 원칙 언급에도 막말 위협 中, 외국 협박에 굴복하자는 野]]></title>
-        <id>https://v.daum.net/v/20230422031527039</id>
-        <link href="https://v.daum.net/v/20230422031527039"/>
-        <updated>2023-04-21T18:19:48.230Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:15</span>]]></content>
     </entry>
 </feed>
