@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-04-22T11:13:23.035Z</updated>
+    <updated>2023-04-22T12:27:45.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“무슨 사연이?” 재개발 폐허 뒤지며 잡초 모으는 ‘이 분’ [지구, 뭐래?]]]></title>
+        <id>https://v.daum.net/v/20230422212155300</id>
+        <link href="https://v.daum.net/v/20230422212155300"/>
+        <updated>2023-04-22T12:27:16.224Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">21:21</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[머스크 인류최대 로켓 발사실패했지만 달·화성행 준비는 착착[우주이야기]]]></title>
+        <id>https://v.daum.net/v/20230422210444195</id>
+        <link href="https://v.daum.net/v/20230422210444195"/>
+        <updated>2023-04-22T12:27:16.226Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">21:04</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘아우터플레인’, 싱가포르서 승승장구...구글플레이 1위·앱스토어 2위 등극]]></title>
         <id>https://v.daum.net/v/20230422195010600</id>
@@ -13,7 +27,7 @@
         <content type="html"><![CDATA[OSEN<span class="txt_bar"> · </span><span class="info_time">19:50</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“10만원만 올려 받을께요?” 모습 드러낸 삼성 최고 ‘접는폰’…이 가격이면 어때?]]></title>
+        <title type="html"><![CDATA[“10만원만 올려 받을게요” 모습 드러낸 삼성 역대급 ‘접는폰’…이 가격 어때?]]></title>
         <id>https://v.daum.net/v/20230422194134518</id>
         <link href="https://v.daum.net/v/20230422194134518"/>
         <updated>2023-04-22T11:12:50.468Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230422174120370"/>
         <updated>2023-04-22T09:15:16.083Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">17:41</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OGN-경기게임마이스터고 산학협력]]></title>
-        <id>https://v.daum.net/v/20230422155707227</id>
-        <link href="https://v.daum.net/v/20230422155707227"/>
-        <updated>2023-04-22T07:14:09.219Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">15:57</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“파격 할인이라더니” 야놀자, 네고왕 출연 통큰 ‘혜택’ 싼 것 맞아?]]></title>
-        <id>https://v.daum.net/v/20230422155113164</id>
-        <link href="https://v.daum.net/v/20230422155113164"/>
-        <updated>2023-04-22T07:14:09.220Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">15:51</span>]]></content>
     </entry>
 </feed>
