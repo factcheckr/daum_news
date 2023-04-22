@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-04-22T13:17:46.650Z</updated>
+    <updated>2023-04-22T14:14:05.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] TECH4ALL "파트너십 통한 포용성 및 지속가능성 도모"]]></title>
+        <id>https://v.daum.net/v/20230422224530786</id>
+        <link href="https://v.daum.net/v/20230422224530786"/>
+        <updated>2023-04-22T14:13:56.210Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">22:45</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] 5가지 시나리오에서 F5.5G 전광 10기가 시티 구축]]></title>
         <id>https://v.daum.net/v/20230422191349296</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230422094641640"/>
         <updated>2023-04-22T01:11:48.426Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">09:46</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잭커리, 지구의 날 기념 ‘잭커리 파워뱅크 1000’ 할인 이벤트 진행]]></title>
-        <id>https://v.daum.net/v/20230422090703218</id>
-        <link href="https://v.daum.net/v/20230422090703218"/>
-        <updated>2023-04-22T01:11:48.427Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">09:07</span>]]></content>
     </entry>
 </feed>

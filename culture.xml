@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2023-04-22T13:17:46.528Z</updated>
+    <updated>2023-04-22T14:14:05.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[키 크는 주사가 당뇨병을 부른다고?]]></title>
+        <id>https://v.daum.net/v/20230422230015842</id>
+        <link href="https://v.daum.net/v/20230422230015842"/>
+        <updated>2023-04-22T14:13:16.359Z</updated>
+        <content type="html"><![CDATA[헬스조선<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“교회건축은 국민일보와 함께” 6월 20일 ‘2023 교회건축 세미나’]]></title>
+        <id>https://v.daum.net/v/20230422224807793</id>
+        <link href="https://v.daum.net/v/20230422224807793"/>
+        <updated>2023-04-22T14:13:16.364Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">22:48</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['맥주' 안 마시면 잠 안 오는 사람들 보세요]]></title>
         <id>https://v.daum.net/v/20230422220015544</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230422214018414"/>
         <updated>2023-04-22T13:16:51.144Z</updated>
         <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">21:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[클로브, 에너지 넘치는 2023 S/S 'SOMEWHERE CLUB' 선공개]]></title>
-        <id>https://v.daum.net/v/20230422213610394</id>
-        <link href="https://v.daum.net/v/20230422213610394"/>
-        <updated>2023-04-22T13:16:51.145Z</updated>
-        <content type="html"><![CDATA[로피시엘 코리아<span class="txt_bar"> · </span><span class="info_time">21:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제1회 아름다운 찻자리 대회 열려]]></title>
-        <id>https://v.daum.net/v/20230422213544393</id>
-        <link href="https://v.daum.net/v/20230422213544393"/>
-        <updated>2023-04-22T13:16:51.146Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">21:35</span>]]></content>
     </entry>
 </feed>
