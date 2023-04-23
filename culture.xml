@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2023-04-23T16:19:33.209Z</updated>
+    <updated>2023-04-23T17:14:00.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[부채 펼치니 박완서 글에 김점선 그림이…영인문학관 선면화전]]></title>
+        <id>https://v.daum.net/v/20230424013138844</id>
+        <link href="https://v.daum.net/v/20230424013138844"/>
+        <updated>2023-04-23T17:13:10.213Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">01:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오늘의 운세] 4월 24일 월요일 (음력 3월 5일 /壬子) 띠별 / 생년월일 운세]]></title>
         <id>https://v.daum.net/v/20230424010125747</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230424000211387"/>
         <updated>2023-04-23T15:14:58.214Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘날씨, 일교차 크고 건조한 날씨...서울 아침기온 11도]]></title>
-        <id>https://v.daum.net/v/20230424000202381</id>
-        <link href="https://v.daum.net/v/20230424000202381"/>
-        <updated>2023-04-23T15:14:58.217Z</updated>
-        <content type="html"><![CDATA[bnt뉴스<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
     </entry>
 </feed>
