@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-04-23T13:19:43.379Z</updated>
+    <updated>2023-04-23T14:14:25.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[국민만평-서민호 화백] 2023년 4월 24일]]></title>
+        <id>https://v.daum.net/v/20230423230209036</id>
+        <link href="https://v.daum.net/v/20230423230209036"/>
+        <updated>2023-04-23T14:14:04.443Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">23:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[세컷칼럼] 중국 시장과 작별할 각오]]></title>
+        <id>https://v.daum.net/v/20230423230034030</id>
+        <link href="https://v.daum.net/v/20230423230034030"/>
+        <updated>2023-04-23T14:14:04.446Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안드로이드는 로봇 외과 의사를 꿈꾸는가? [삶과 문화]]]></title>
         <id>https://v.daum.net/v/20230423220003501</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230423200748664"/>
         <updated>2023-04-23T11:13:12.924Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Today's Cartoon] 2023.04.24]]></title>
-        <id>https://v.daum.net/v/20230423200519646</id>
-        <link href="https://v.daum.net/v/20230423200519646"/>
-        <updated>2023-04-23T11:13:12.924Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Meanwhile] Revival of tourism in Bangkok]]></title>
-        <id>https://v.daum.net/v/20230423200307637</id>
-        <link href="https://v.daum.net/v/20230423200307637"/>
-        <updated>2023-04-23T11:13:12.924Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:03</span>]]></content>
     </entry>
 </feed>
