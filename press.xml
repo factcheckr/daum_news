@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-04-24T13:20:42.200Z</updated>
+    <updated>2023-04-24T14:15:55.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ESG의 신세계, 대안육으로 지구의 건강을 지키다]]></title>
+        <id>https://v.daum.net/v/20230424223430575</id>
+        <link href="https://v.daum.net/v/20230424223430575"/>
+        <updated>2023-04-24T14:15:44.808Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:34</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] International Health Industry Forum of Boao Forum for Asia Held]]></title>
         <id>https://v.daum.net/v/20230424215028038</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230424175705618"/>
         <updated>2023-04-24T09:16:33.014Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:57</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘낭만닥터 김사부3’ 이신영X이홍내, 돌담병원 금쪽 같은 막내 의사들 등장]]></title>
-        <id>https://v.daum.net/v/20230424175025464</id>
-        <link href="https://v.daum.net/v/20230424175025464"/>
-        <updated>2023-04-24T09:16:33.015Z</updated>
-        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">17:50</span>]]></content>
     </entry>
 </feed>
