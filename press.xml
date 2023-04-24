@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-04-24T19:14:00.207Z</updated>
+    <updated>2023-04-24T20:20:04.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[철원군 근남면사무소, 생활문화공간 복합청사로 새단장]]></title>
+        <id>https://v.daum.net/v/20230425050010755</id>
+        <link href="https://v.daum.net/v/20230425050010755"/>
+        <updated>2023-04-24T20:19:55.561Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">05:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MBA로 가는 길] AI·빅데이터 과정 등 개설…시대 맞춰 ‘한국형 MBA’ 진화]]></title>
         <id>https://v.daum.net/v/20230425000536464</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230425000454445</id>
         <link href="https://v.daum.net/v/20230425000454445"/>
         <updated>2023-04-24T15:17:35.588Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[라이프 트렌드&] 챗GPT 접목 ‘4월 이달의 맛’ 광고 영상 공개…소비자와 소통 강화]]></title>
-        <id>https://v.daum.net/v/20230425000451444</id>
-        <link href="https://v.daum.net/v/20230425000451444"/>
-        <updated>2023-04-24T15:17:35.589Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
     </entry>
 </feed>
