@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-04-25T12:29:44.524Z</updated>
+    <updated>2023-04-25T13:20:00.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[건강 TALK] 건보 가입 91년생 직장인, 올해 일반건강검진 전액 무료]]></title>
+        <id>https://v.daum.net/v/20230425220114880</id>
+        <link href="https://v.daum.net/v/20230425220114880"/>
+        <updated>2023-04-25T13:19:50.794Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] 라이온델바젤, 2022년 지속 가능성 보고서에서 가속 모멘텀 자세히]]></title>
         <id>https://v.daum.net/v/20230425212442261</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230425173446823"/>
         <updated>2023-04-25T09:16:48.064Z</updated>
         <content type="html"><![CDATA[로피시엘 코리아<span class="txt_bar"> · </span><span class="info_time">17:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] GAC의 글로벌 진출 - 밀라노 디자인 위크 및 상하이 오토쇼 2023]]></title>
-        <id>https://v.daum.net/v/20230425173209758</id>
-        <link href="https://v.daum.net/v/20230425173209758"/>
-        <updated>2023-04-25T09:16:48.067Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:32</span>]]></content>
     </entry>
 </feed>

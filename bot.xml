@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-04-25T12:29:44.536Z</updated>
+    <updated>2023-04-25T13:20:00.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가상화폐 비트코인(-0.21%), 엠블(+31.13%)]]></title>
+        <id>https://v.daum.net/v/20230425213127398</id>
+        <link href="https://v.daum.net/v/20230425213127398"/>
+        <updated>2023-04-25T13:19:59.882Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">21:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성남 이매동 이매촌삼성 127㎡ 13억2000만원에 거래]]></title>
         <id>https://v.daum.net/v/20230425183530826</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230425173104737"/>
         <updated>2023-04-25T09:16:57.735Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하남 망월동 미사강변스타힐스 59㎡ 7억5000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230425173036717</id>
-        <link href="https://v.daum.net/v/20230425173036717"/>
-        <updated>2023-04-25T09:16:57.737Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
     </entry>
 </feed>
