@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-04-25T22:18:02.640Z</updated>
+    <updated>2023-04-25T23:16:19.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세상이 그대론데 자살이 줄까[오늘을 생각한다]]]></title>
+        <id>https://v.daum.net/v/20230426075325514</id>
+        <link href="https://v.daum.net/v/20230426075325514"/>
+        <updated>2023-04-25T23:15:59.060Z</updated>
+        <content type="html"><![CDATA[주간경향<span class="txt_bar"> · </span><span class="info_time">07:53</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[금쪽같은 내 새끼[편집실에서]]]></title>
+        <id>https://v.daum.net/v/20230426074836420</id>
+        <link href="https://v.daum.net/v/20230426074836420"/>
+        <updated>2023-04-25T23:15:59.061Z</updated>
+        <content type="html"><![CDATA[주간경향<span class="txt_bar"> · </span><span class="info_time">07:48</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1524호를 읽고[독자의 소리]]]></title>
+        <id>https://v.daum.net/v/20230426074834419</id>
+        <link href="https://v.daum.net/v/20230426074834419"/>
+        <updated>2023-04-25T23:15:59.062Z</updated>
+        <content type="html"><![CDATA[주간경향<span class="txt_bar"> · </span><span class="info_time">07:48</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[교단일기] 네 번째 6학년을 맡으며]]></title>
         <id>https://v.daum.net/v/20230426070512713</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230426053605338"/>
         <updated>2023-04-25T21:14:43.740Z</updated>
         <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">05:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Editorial] Tricky support plan]]></title>
-        <id>https://v.daum.net/v/20230426053042299</id>
-        <link href="https://v.daum.net/v/20230426053042299"/>
-        <updated>2023-04-25T21:14:43.740Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Kim Seong-kon] What to expect from the Korea-US summit meeting]]></title>
-        <id>https://v.daum.net/v/20230426052105209</id>
-        <link href="https://v.daum.net/v/20230426052105209"/>
-        <updated>2023-04-25T21:14:43.740Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기고]자국보호주의 심화 속 건기식 시장, 자생식물이 대안]]></title>
-        <id>https://v.daum.net/v/20230426051015138</id>
-        <link href="https://v.daum.net/v/20230426051015138"/>
-        <updated>2023-04-25T20:17:23.781Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">05:10</span>]]></content>
     </entry>
 </feed>
