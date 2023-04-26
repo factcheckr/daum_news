@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-04-26T03:18:04.784Z</updated>
+    <updated>2023-04-26T04:23:02.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[초동시각] 내일도 중국 뉴스를 쓸 예정입니다]]></title>
+        <id>https://v.daum.net/v/20230426130742656</id>
+        <link href="https://v.daum.net/v/20230426130742656"/>
+        <updated>2023-04-26T04:22:42.472Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">13:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[기자수첩] 넷플릭스 3.3조 투자의 그림자]]></title>
+        <id>https://v.daum.net/v/20230426122858736</id>
+        <link href="https://v.daum.net/v/20230426122858736"/>
+        <updated>2023-04-26T04:22:42.472Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">12:28</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부고] 유석희(LSK Global PS 고문) 부인상]]></title>
         <id>https://v.daum.net/v/20230426121510459</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230426113018353"/>
         <updated>2023-04-26T02:34:21.944Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 고수익 브랜드 변모 현대차...정부 IRA 넘을 힘 보태야]]></title>
-        <id>https://v.daum.net/v/20230426112950298</id>
-        <link href="https://v.daum.net/v/20230426112950298"/>
-        <updated>2023-04-26T02:34:21.946Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:29</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 정상외교 둘러싼 정치권의 소모전]]></title>
-        <id>https://v.daum.net/v/20230426112949296</id>
-        <link href="https://v.daum.net/v/20230426112949296"/>
-        <updated>2023-04-26T02:34:21.947Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:29</span>]]></content>
     </entry>
 </feed>
