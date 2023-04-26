@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-04-26T13:20:19.154Z</updated>
+    <updated>2023-04-26T14:17:03.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한미동맹 70년… 어떻게 볼 것인가]]></title>
+        <id>https://v.daum.net/v/20230426224614547</id>
+        <link href="https://v.daum.net/v/20230426224614547"/>
+        <updated>2023-04-26T14:16:44.154Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">22:46</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나를 다시 잡아 끈 '달과 6펜스'  [삶과 문화]]]></title>
         <id>https://v.daum.net/v/20230426220025023</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230426201324819"/>
         <updated>2023-04-26T12:33:31.548Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mission accomplished!]]></title>
-        <id>https://v.daum.net/v/20230426201104772</id>
-        <link href="https://v.daum.net/v/20230426201104772"/>
-        <updated>2023-04-26T11:13:32.744Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:11</span>]]></content>
     </entry>
 </feed>
