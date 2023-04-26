@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-04-26T16:24:29.465Z</updated>
+    <updated>2023-04-26T17:15:37.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]동호회가 만든 극장, 동호회가 만든 장르]]></title>
+        <id>https://v.daum.net/v/20230427020502276</id>
+        <link href="https://v.daum.net/v/20230427020502276"/>
+        <updated>2023-04-26T17:15:16.769Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중앙시평] 철학자의 도시, 아니면]]></title>
         <id>https://v.daum.net/v/20230427012050138</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230427005957952</id>
         <link href="https://v.daum.net/v/20230427005957952"/>
         <updated>2023-04-26T16:24:11.083Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:59</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[분수대] 마라톤 ‘서브2’]]></title>
-        <id>https://v.daum.net/v/20230427005907945</id>
-        <link href="https://v.daum.net/v/20230427005907945"/>
-        <updated>2023-04-26T16:24:11.085Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:59</span>]]></content>
     </entry>
 </feed>
