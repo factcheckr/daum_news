@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-04-27T22:14:11.735Z</updated>
+    <updated>2023-04-27T23:16:56.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대통령 방미 ‘트집잡기’ 혈안인 野, 국익보다 당리당략이 우선인가 [핫이슈]]]></title>
+        <id>https://v.daum.net/v/20230428080603822</id>
+        <link href="https://v.daum.net/v/20230428080603822"/>
+        <updated>2023-04-27T23:16:36.623Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">08:06</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[여백] 마약]]></title>
         <id>https://v.daum.net/v/20230428070511979</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230428061507263"/>
         <updated>2023-04-27T22:13:54.865Z</updated>
         <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">06:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이슈리포트]인구충격, 한국형 발전모델 기회로···수출·제조→내수·서비스 대전환을]]></title>
-        <id>https://v.daum.net/v/20230428060029822</id>
-        <link href="https://v.daum.net/v/20230428060029822"/>
-        <updated>2023-04-27T21:14:28.694Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
     </entry>
 </feed>
