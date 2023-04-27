@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-04-27T03:17:24.563Z</updated>
+    <updated>2023-04-27T04:19:07.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[부고] 권영식(넷마블 대표)씨 빙부상]]></title>
+        <id>https://v.daum.net/v/20230427123735606</id>
+        <link href="https://v.daum.net/v/20230427123735606"/>
+        <updated>2023-04-27T04:18:46.757Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">12:37</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[리오프닝에도 제조업 비틀... 中 1~3월 공업이익 전년比 -21.4%]]></title>
+        <id>https://v.daum.net/v/20230427122335338</id>
+        <link href="https://v.daum.net/v/20230427122335338"/>
+        <updated>2023-04-27T04:18:46.757Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">12:23</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[기자수첩] 후쿠시마 오염수가 위험하길 기도하는 사람들]]></title>
         <id>https://v.daum.net/v/20230427120057829</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230427113013400"/>
         <updated>2023-04-27T02:34:11.728Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">11:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[헤럴드광장] 전세사기 피해구제, 이제는 디테일이다]]></title>
-        <id>https://v.daum.net/v/20230427112707229</id>
-        <link href="https://v.daum.net/v/20230427112707229"/>
-        <updated>2023-04-27T02:34:11.729Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 상설 핵협의체 가동 ‘워싱턴 선언’ 실효성 확보가 관건]]></title>
-        <id>https://v.daum.net/v/20230427112644205</id>
-        <link href="https://v.daum.net/v/20230427112644205"/>
-        <updated>2023-04-27T02:34:11.735Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:26</span>]]></content>
     </entry>
 </feed>
