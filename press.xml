@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-04-27T11:14:22.365Z</updated>
+    <updated>2023-04-27T12:29:04.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 아카마이, 피싱 공격 및 가짜 웹사이트 방어를 위한 브랜드 프로텍터]]></title>
+        <id>https://v.daum.net/v/20230427202950322</id>
+        <link href="https://v.daum.net/v/20230427202950322"/>
+        <updated>2023-04-27T12:28:52.437Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:29</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] FII Institute, 제7회 Future Investment Initiative의 주제 발표]]></title>
         <id>https://v.daum.net/v/20230427200638797</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230427171643410"/>
         <updated>2023-04-27T08:19:34.041Z</updated>
         <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">17:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[의정부시, 청년들의 시정 참여 확대…청년 하루 명예시장 위촉]]></title>
-        <id>https://v.daum.net/v/20230427171136198</id>
-        <link href="https://v.daum.net/v/20230427171136198"/>
-        <updated>2023-04-27T08:19:34.041Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:11</span>]]></content>
     </entry>
 </feed>
