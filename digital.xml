@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-04-29T12:29:08.790Z</updated>
+    <updated>2023-04-29T13:17:47.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[로스트아크 카양겔이 불지핀 '적정 보상' 논쟁]]></title>
+        <id>https://v.daum.net/v/20230429220842059</id>
+        <link href="https://v.daum.net/v/20230429220842059"/>
+        <updated>2023-04-29T13:17:18.760Z</updated>
+        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">22:08</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바다·호수·강에서 ‘그린 수소’ 생산한다!]]></title>
+        <id>https://v.daum.net/v/20230429220148973</id>
+        <link href="https://v.daum.net/v/20230429220148973"/>
+        <updated>2023-04-29T13:17:18.763Z</updated>
+        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘오리를 산 채로 택배 배송?’···논란의 전말]]></title>
+        <id>https://v.daum.net/v/20230429215157892</id>
+        <link href="https://v.daum.net/v/20230429215157892"/>
+        <updated>2023-04-29T13:17:18.765Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">21:51</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한강 밤하늘 수놓는 드론]]></title>
         <id>https://v.daum.net/v/20230429212149581</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230429210908414"/>
         <updated>2023-04-29T12:28:43.383Z</updated>
         <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">21:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['드론과 함께 춤을']]></title>
-        <id>https://v.daum.net/v/20230429210833402</id>
-        <link href="https://v.daum.net/v/20230429210833402"/>
-        <updated>2023-04-29T12:28:43.386Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">21:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['드론과 함께 춤을']]></title>
-        <id>https://v.daum.net/v/20230429210830400</id>
-        <link href="https://v.daum.net/v/20230429210830400"/>
-        <updated>2023-04-29T12:28:43.387Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">21:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한강 드론 라이트쇼]]></title>
-        <id>https://v.daum.net/v/20230429210655373</id>
-        <link href="https://v.daum.net/v/20230429210655373"/>
-        <updated>2023-04-29T12:28:43.389Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">21:06</span>]]></content>
     </entry>
 </feed>
