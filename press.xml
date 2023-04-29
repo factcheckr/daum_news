@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-04-29T13:17:47.327Z</updated>
+    <updated>2023-04-29T14:14:26.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하나금융 '국공립 칠곡 왜관하나어린이집' 개원…저출산 극복‧지역사회 상생 실천]]></title>
+        <id>https://v.daum.net/v/20230429224300266</id>
+        <link href="https://v.daum.net/v/20230429224300266"/>
+        <updated>2023-04-29T14:14:17.621Z</updated>
+        <content type="html"><![CDATA[스포츠한국<span class="txt_bar"> · </span><span class="info_time">22:43</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] 선전, Engineering Biology Innovation Forum IV 개최]]></title>
         <id>https://v.daum.net/v/20230429155833256</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230429090702476"/>
         <updated>2023-04-29T01:11:11.796Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">09:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[AsiaNet] 제1회 산둥 랴오청(선현) 녹색채소박람회 개최]]></title>
-        <id>https://v.daum.net/v/20230429083609138</id>
-        <link href="https://v.daum.net/v/20230429083609138"/>
-        <updated>2023-04-29T01:11:11.798Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">08:36</span>]]></content>
     </entry>
 </feed>
