@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-04-29T03:16:29.932Z</updated>
+    <updated>2023-04-29T04:20:22.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] CGTN "WDF, 지속가능한 발전 위해 데이터 거버넌스 촉구"]]></title>
+        <id>https://v.daum.net/v/20230429123527505</id>
+        <link href="https://v.daum.net/v/20230429123527505"/>
+        <updated>2023-04-29T04:20:12.265Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">12:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] 나의 광둥 스토리 "주하이에서 새로운 자신을 찾은 일본인 매니저"]]></title>
         <id>https://v.daum.net/v/20230429115125220</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230429065449065"/>
         <updated>2023-04-28T22:15:11.590Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">06:54</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] Astronergy, 28GW TOPCon 제조 역량 추가]]></title>
-        <id>https://v.daum.net/v/20230429002336981</id>
-        <link href="https://v.daum.net/v/20230429002336981"/>
-        <updated>2023-04-28T17:14:49.141Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">00:23</span>]]></content>
     </entry>
 </feed>
