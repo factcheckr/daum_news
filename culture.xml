@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2023-04-29T15:15:13.707Z</updated>
+    <updated>2023-04-29T16:19:26.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘의 운세] 4월 30일 일요일 (음력 3월 11일 /戊午) 띠별 / 생년월일 운세]]></title>
+        <id>https://v.daum.net/v/20230430010116064</id>
+        <link href="https://v.daum.net/v/20230430010116064"/>
+        <updated>2023-04-29T16:18:33.475Z</updated>
+        <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">01:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[오늘의 운세] 2023년 4월30일 띠별‧별자리]]></title>
+        <id>https://v.daum.net/v/20230430003014988</id>
+        <link href="https://v.daum.net/v/20230430003014988"/>
+        <updated>2023-04-29T16:18:33.480Z</updated>
+        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[백두산이 2025년 폭발한다고?...기상청 "가능성 희박"]]></title>
         <id>https://v.daum.net/v/20230430001316906</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230430000042783"/>
         <updated>2023-04-29T15:14:15.903Z</updated>
         <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인플루언서 프리즘] 문과도 흥미로운 '우주 콘텐츠' 유튜브서 '인기']]></title>
-        <id>https://v.daum.net/v/20230430000034781</id>
-        <link href="https://v.daum.net/v/20230430000034781"/>
-        <updated>2023-04-29T15:14:15.903Z</updated>
-        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[녹유 오늘의 운세] 02년생 감동의 순간 무지개 꽃이 피어요]]></title>
-        <id>https://v.daum.net/v/20230430000011773</id>
-        <link href="https://v.daum.net/v/20230430000011773"/>
-        <updated>2023-04-29T15:14:15.904Z</updated>
-        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
