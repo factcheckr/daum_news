@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2023-04-30T16:19:33.216Z</updated>
+    <updated>2023-04-30T17:13:58.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전국 휘발유 가격 1662.79원…경유 격차는 더 벌어져]]></title>
+        <id>https://v.daum.net/v/20230501013543844</id>
+        <link href="https://v.daum.net/v/20230501013543844"/>
+        <updated>2023-04-30T17:12:30.498Z</updated>
+        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">01:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1일부터 ‘동행축제’…中企‧소상공인 제품 최대 50% 할인]]></title>
         <id>https://v.daum.net/v/20230501010343731</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230501010140694</id>
         <link href="https://v.daum.net/v/20230501010140694"/>
         <updated>2023-04-30T16:17:57.061Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국원자력환경공단, 지하수 분야 국가표준 협력기관 지정]]></title>
-        <id>https://v.daum.net/v/20230501010138693</id>
-        <link href="https://v.daum.net/v/20230501010138693"/>
-        <updated>2023-04-30T16:17:57.062Z</updated>
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:01</span>]]></content>
     </entry>
 </feed>
