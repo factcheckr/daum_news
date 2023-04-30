@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-04-30T22:14:20.956Z</updated>
+    <updated>2023-04-30T23:15:15.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[농업 위크 규슈 2023, 소프트뱅크·소니·토요타 등 글로벌 그룹 참가 확정]]></title>
+        <id>https://v.daum.net/v/20230501080703753</id>
+        <link href="https://v.daum.net/v/20230501080703753"/>
+        <updated>2023-04-30T23:15:02.506Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">08:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[푸짐, 20kg 업소용 신동진 쌀 전국 최저가 공동구매 진행]]></title>
         <id>https://v.daum.net/v/20230501070703980</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230501000327425</id>
         <link href="https://v.daum.net/v/20230501000327425"/>
         <updated>2023-04-30T15:15:07.827Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[건강한 가족] 헬스 신간]]></title>
-        <id>https://v.daum.net/v/20230501000323422</id>
-        <link href="https://v.daum.net/v/20230501000323422"/>
-        <updated>2023-04-30T15:15:07.829Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
     </entry>
 </feed>
