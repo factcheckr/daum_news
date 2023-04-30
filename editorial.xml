@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-04-30T13:16:56.166Z</updated>
+    <updated>2023-04-30T14:14:01.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[세컷칼럼] 의대 광풍 뒤의 불편한 진실]]></title>
+        <id>https://v.daum.net/v/20230430230019968</id>
+        <link href="https://v.daum.net/v/20230430230019968"/>
+        <updated>2023-04-30T14:13:41.401Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오래오래 잊히지 않아야 할 것들 [삶과 문화]]]></title>
         <id>https://v.daum.net/v/20230430220003456</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230430193039140</id>
         <link href="https://v.daum.net/v/20230430193039140"/>
         <updated>2023-04-30T11:13:17.710Z</updated>
-        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">19:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설]  너무 오르는 외식물가, 촘촘한 대책 필요하다]]></title>
-        <id>https://v.daum.net/v/20230430193037139</id>
-        <link href="https://v.daum.net/v/20230430193037139"/>
-        <updated>2023-04-30T11:13:17.712Z</updated>
         <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">19:30</span>]]></content>
     </entry>
 </feed>
