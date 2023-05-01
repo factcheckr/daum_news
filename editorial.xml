@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-05-01T12:31:49.760Z</updated>
+    <updated>2023-05-01T13:18:36.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[역사에 마침표는 없다 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20230501220003022</id>
+        <link href="https://v.daum.net/v/20230501220003022"/>
+        <updated>2023-05-01T13:18:19.235Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전세사기 부추긴 ‘관대한 전세대출’ [오늘과 내일/김유영]]]></title>
         <id>https://v.daum.net/v/20230501213018681</id>
@@ -20,7 +27,7 @@
         <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">21:30</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[피해자 구제 빠진 ‘상생’ 동의의결 제도 문제 있다 [광화문에서/송충현]]]></title>
+        <title type="html"><![CDATA[피해자 구제 빠진 ‘상생’…동의의결 제도 문제 있다 [광화문에서/송충현]]]></title>
         <id>https://v.daum.net/v/20230501213010675</id>
         <link href="https://v.daum.net/v/20230501213010675"/>
         <updated>2023-05-01T12:31:30.721Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230501201542779"/>
         <updated>2023-05-01T11:17:37.421Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박용석 만평] 5월 2일]]></title>
-        <id>https://v.daum.net/v/20230501193024157</id>
-        <link href="https://v.daum.net/v/20230501193024157"/>
-        <updated>2023-05-01T11:17:37.422Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">19:30</span>]]></content>
     </entry>
 </feed>
