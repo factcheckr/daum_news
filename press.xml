@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-05-02T12:30:35.425Z</updated>
+    <updated>2023-05-02T13:20:02.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] iHerb Names Miriee Chang as Chief Operating Officer]]></title>
+        <id>https://v.daum.net/v/20230502214146126</id>
+        <link href="https://v.daum.net/v/20230502214146126"/>
+        <updated>2023-05-02T13:19:51.251Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">21:41</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장흥군, 비휠체어 장애인 전용 바우처 택시 운영]]></title>
         <id>https://v.daum.net/v/20230502212448881</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230502175025127"/>
         <updated>2023-05-02T09:16:09.980Z</updated>
         <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">17:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안리쓰, 신호 분석기 MS2840A 기능 강화]]></title>
-        <id>https://v.daum.net/v/20230502174706018</id>
-        <link href="https://v.daum.net/v/20230502174706018"/>
-        <updated>2023-05-02T09:16:09.980Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:47</span>]]></content>
     </entry>
 </feed>
