@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-05-03T16:23:03.557Z</updated>
+    <updated>2023-05-03T17:15:12.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]국제통화체제의 분절화 위험]]></title>
+        <id>https://v.daum.net/v/20230504020302724</id>
+        <link href="https://v.daum.net/v/20230504020302724"/>
+        <updated>2023-05-03T17:14:53.373Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]'창업은 쉽고 수성은 어렵다'에 대한 재고]]></title>
+        <id>https://v.daum.net/v/20230504020203723</id>
+        <link href="https://v.daum.net/v/20230504020203723"/>
+        <updated>2023-05-03T17:14:53.374Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중앙시평] 외교는 정치다]]></title>
         <id>https://v.daum.net/v/20230504010431522</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230504004030390"/>
         <updated>2023-05-03T16:22:43.955Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노트북을 열며] 사라진 ‘시장의 경찰’]]></title>
-        <id>https://v.daum.net/v/20230504003829386</id>
-        <link href="https://v.daum.net/v/20230504003829386"/>
-        <updated>2023-05-03T16:22:43.957Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:38</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[신복룡의 신 영웅전] 신숙주의 유언]]></title>
-        <id>https://v.daum.net/v/20230504003629378</id>
-        <link href="https://v.daum.net/v/20230504003629378"/>
-        <updated>2023-05-03T16:22:43.958Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:36</span>]]></content>
     </entry>
 </feed>

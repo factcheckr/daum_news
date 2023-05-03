@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2023-05-03T16:23:03.558Z</updated>
+    <updated>2023-05-03T17:15:12.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[양주시 산업단지서 큰불…30대 1명 병원 이송]]></title>
+        <id>https://v.daum.net/v/20230504020605729</id>
+        <link href="https://v.daum.net/v/20230504020605729"/>
+        <updated>2023-05-03T17:13:44.553Z</updated>
+        <content type="html"><![CDATA[SBS<span class="txt_bar"> · </span><span class="info_time">02:06</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[위기의 태영호, 당 징계 움직임에도 "절대 굴복하지 않을 것"]]></title>
+        <id>https://v.daum.net/v/20230504020012715</id>
+        <link href="https://v.daum.net/v/20230504020012715"/>
+        <updated>2023-05-03T17:13:44.555Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">02:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[민주당, 올해 첫 외교안보통일자문회의…외교 정책 총공세]]></title>
         <id>https://v.daum.net/v/20230504010113511</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230504001040232"/>
         <updated>2023-05-03T15:15:20.939Z</updated>
         <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[與, 태영호 징계 절차 개시...민주 "명백한 범죄"]]></title>
-        <id>https://v.daum.net/v/20230504001030227</id>
-        <link href="https://v.daum.net/v/20230504001030227"/>
-        <updated>2023-05-03T15:15:20.939Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["수박 vs 내부총질"…민주당 골칫덩이 된 '개딸들']]></title>
-        <id>https://v.daum.net/v/20230504001000213</id>
-        <link href="https://v.daum.net/v/20230504001000213"/>
-        <updated>2023-05-03T15:15:20.940Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
     </entry>
 </feed>
