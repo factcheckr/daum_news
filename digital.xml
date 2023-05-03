@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-05-03T18:19:14.426Z</updated>
+    <updated>2023-05-03T19:13:41.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[CVS 헬스, 1분기 매출 월가 예상 상회…수익전망 하향]]></title>
+        <id>https://v.daum.net/v/20230504033340096</id>
+        <link href="https://v.daum.net/v/20230504033340096"/>
+        <updated>2023-05-03T19:13:10.994Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">03:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“핵융합은 聖杯”… 빌 게이츠·베이조스도 꽂혔다]]></title>
         <id>https://v.daum.net/v/20230504030444994</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230504000123014"/>
         <updated>2023-05-03T15:16:14.615Z</updated>
         <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양구서 전국 유소년 야구대회]]></title>
-        <id>https://v.daum.net/v/20230504000115008</id>
-        <link href="https://v.daum.net/v/20230504000115008"/>
-        <updated>2023-05-03T15:16:14.615Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
     </entry>
 </feed>
