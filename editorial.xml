@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-05-03T03:17:35.003Z</updated>
+    <updated>2023-05-03T04:20:42.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[부고] 장창범(한국은행 부국장)씨 본인상]]></title>
+        <id>https://v.daum.net/v/20230503130514198</id>
+        <link href="https://v.daum.net/v/20230503130514198"/>
+        <updated>2023-05-03T04:20:22.025Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">13:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정당 간 패널 토론방식, 혐오 정치의 공장]]></title>
+        <id>https://v.daum.net/v/20230503125514988</id>
+        <link href="https://v.daum.net/v/20230503125514988"/>
+        <updated>2023-05-03T04:20:22.027Z</updated>
+        <content type="html"><![CDATA[미디어오늘<span class="txt_bar"> · </span><span class="info_time">12:55</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['혼합진료금지'로 의료비 부담 낮추어야 한다]]></title>
         <id>https://v.daum.net/v/20230503120614212</id>
@@ -69,13 +83,6 @@
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:37</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['AI 대부'는 왜 갑자기 구글을 떠났을까]]></title>
-        <id>https://v.daum.net/v/20230503113340917</id>
-        <link href="https://v.daum.net/v/20230503113340917"/>
-        <updated>2023-05-03T03:17:15.179Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">11:33</span>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[특별기고] 국방혁신 4.0 마중물될 ‘한국형 DIU ’ 설립]]></title>
         <id>https://v.daum.net/v/20230503112410462</id>
         <link href="https://v.daum.net/v/20230503112410462"/>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230503112315406"/>
         <updated>2023-05-03T02:32:27.427Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:23</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[홍성원의 영점조정] ‘글로벌 허브’도 되고 해외도 진출하겠다는 한국금융]]></title>
-        <id>https://v.daum.net/v/20230503112114322</id>
-        <link href="https://v.daum.net/v/20230503112114322"/>
-        <updated>2023-05-03T02:32:27.428Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:21</span>]]></content>
     </entry>
 </feed>
