@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-05-04T06:20:28.083Z</updated>
+    <updated>2023-05-04T07:15:41.053Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인사] 질병관리청]]></title>
+        <id>https://v.daum.net/v/20230504161059682</id>
+        <link href="https://v.daum.net/v/20230504161059682"/>
+        <updated>2023-05-04T07:15:16.250Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">16:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[지평선] 노라 에프론 문제]]></title>
+        <id>https://v.daum.net/v/20230504160223346</id>
+        <link href="https://v.daum.net/v/20230504160223346"/>
+        <updated>2023-05-04T07:15:16.256Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">16:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[책으로 읽는 세계]자유주의는 자유 우선주의가 아니다]]></title>
         <id>https://v.daum.net/v/20230504150924166</id>
@@ -69,7 +83,7 @@
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:34</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[윤석열 자유의 나침반? 지도까지 틀렸다]]></title>
+        <title type="html"><![CDATA[윤석열의 망가진 “자유의 나침반”, 지도까지 틀렸다]]></title>
         <id>https://v.daum.net/v/20230504112506719</id>
         <link href="https://v.daum.net/v/20230504112506719"/>
         <updated>2023-05-04T02:32:29.413Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230504112230629"/>
         <updated>2023-05-04T02:32:29.418Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[라이프칼럼] 치유의 자연이 곧 병원]]></title>
-        <id>https://v.daum.net/v/20230504112131580</id>
-        <link href="https://v.daum.net/v/20230504112131580"/>
-        <updated>2023-05-04T02:32:29.418Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[초동시각]돌봄에 청춘을 저당 잡힌 청년들]]></title>
-        <id>https://v.daum.net/v/20230504110051688</id>
-        <link href="https://v.daum.net/v/20230504110051688"/>
-        <updated>2023-05-04T02:32:29.419Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:00</span>]]></content>
     </entry>
 </feed>
