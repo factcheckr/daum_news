@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-05-04T03:17:26.713Z</updated>
+    <updated>2023-05-04T04:20:08.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[논단]동네 책방의 사회적 의미]]></title>
+        <id>https://v.daum.net/v/20230504130214988</id>
+        <link href="https://v.daum.net/v/20230504130214988"/>
+        <updated>2023-05-04T04:19:45.280Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">13:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설]SG사태, 철저한 수사·강력처벌·제도개선 뒤따라야]]></title>
         <id>https://v.daum.net/v/20230504114315528</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230504105728535"/>
         <updated>2023-05-04T02:32:29.420Z</updated>
         <content type="html"><![CDATA[연합뉴스TV<span class="txt_bar"> · </span><span class="info_time">10:57</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[동해안 역사문화 리포트] 8. 고구려 장수 살해 사건]]></title>
-        <id>https://v.daum.net/v/20230504104815199</id>
-        <link href="https://v.daum.net/v/20230504104815199"/>
-        <updated>2023-05-04T02:32:29.421Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">10:48</span>]]></content>
     </entry>
 </feed>
