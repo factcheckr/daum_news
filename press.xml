@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-05-04T09:16:26.233Z</updated>
+    <updated>2023-05-04T10:17:28.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[충북 괴산 불정농협, 영농폐기물 수거 캠페인 펼쳐]]></title>
+        <id>https://v.daum.net/v/20230504184845294</id>
+        <link href="https://v.daum.net/v/20230504184845294"/>
+        <updated>2023-05-04T10:17:17.848Z</updated>
+        <content type="html"><![CDATA[농민신문<span class="txt_bar"> · </span><span class="info_time">18:48</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[템퍼 ‘2023 신제품 프로&프리마 매트리스 컬렉션’ 출시]]></title>
+        <id>https://v.daum.net/v/20230504183704007</id>
+        <link href="https://v.daum.net/v/20230504183704007"/>
+        <updated>2023-05-04T10:17:17.851Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">18:37</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MSCI, 애슐리 레스터를 리서치 글로벌 책임자로 임명]]></title>
         <id>https://v.daum.net/v/20230504180706213</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230504172143921"/>
         <updated>2023-05-04T09:16:16.903Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성민, 트로트 싱글 유명 작곡가 이호섭 지원사격 화제]]></title>
-        <id>https://v.daum.net/v/20230504172021876</id>
-        <link href="https://v.daum.net/v/20230504172021876"/>
-        <updated>2023-05-04T08:20:51.919Z</updated>
-        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">17:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동래구, 정부합동평가 부산시 구·군 기여도 평가서 '3년 연속 우수 구' 선정]]></title>
-        <id>https://v.daum.net/v/20230504171657786</id>
-        <link href="https://v.daum.net/v/20230504171657786"/>
-        <updated>2023-05-04T08:20:51.929Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:16</span>]]></content>
     </entry>
 </feed>
