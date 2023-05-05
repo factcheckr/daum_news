@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-05-05T03:16:47.762Z</updated>
+    <updated>2023-05-05T04:19:05.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["기본 배달료 3천→4천원 인상"…배민 라이더, '어린이날 파업']]></title>
+        <id>https://v.daum.net/v/20230505130914163</id>
+        <link href="https://v.daum.net/v/20230505130914163"/>
+        <updated>2023-05-05T04:18:40.297Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">13:09</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MS의 AI 반도체 '아테나', AMD가 생산]]></title>
         <id>https://v.daum.net/v/20230505120629620</id>
@@ -34,7 +41,7 @@
         <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">12:00</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['폴드가 너와 함께 하길' 구글 폴더폰 티저 영상 공개]]></title>
+        <title type="html"><![CDATA['폴드가 너와 함께 하길' 구글 폴더블폰 티저 영상 공개]]></title>
         <id>https://v.daum.net/v/20230505115615485</id>
         <link href="https://v.daum.net/v/20230505115615485"/>
         <updated>2023-05-05T03:16:16.049Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230505110901887"/>
         <updated>2023-05-05T02:30:28.798Z</updated>
         <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">11:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지구와 갈수록 멀어지는 달…처음엔 지금보다 20배 커보였다]]></title>
-        <id>https://v.daum.net/v/20230505110238805</id>
-        <link href="https://v.daum.net/v/20230505110238805"/>
-        <updated>2023-05-05T02:30:28.799Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">11:02</span>]]></content>
     </entry>
 </feed>

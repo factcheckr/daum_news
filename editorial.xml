@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-05-05T03:16:47.753Z</updated>
+    <updated>2023-05-05T04:19:05.905Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘꿈의 나라’ 디즈니, 性문제·좌우 정치 싸움터가 된 이유 [WEEKLY BIZ]]]></title>
+        <id>https://v.daum.net/v/20230505131132203</id>
+        <link href="https://v.daum.net/v/20230505131132203"/>
+        <updated>2023-05-05T04:18:48.084Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">13:11</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[전영기의 과유불급] 어중간한 중립은 파멸을 부른다]]></title>
         <id>https://v.daum.net/v/20230505100642966</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230505052801840"/>
         <updated>2023-05-04T21:14:40.398Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">05:28</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 한일 정상 ‘후쿠시마 방류’ 전향적 해법도 논의하길]]></title>
-        <id>https://v.daum.net/v/20230505050537606</id>
-        <link href="https://v.daum.net/v/20230505050537606"/>
-        <updated>2023-05-04T20:16:46.882Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:05</span>]]></content>
     </entry>
 </feed>
