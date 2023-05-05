@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-05-05T22:15:14.010Z</updated>
+    <updated>2023-05-05T23:16:49.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘격식’ 앞세워 대통령실 회동 요청 뿌리친 野, ‘대화’의지 있긴 하나[핫이슈]]]></title>
+        <id>https://v.daum.net/v/20230506080600957</id>
+        <link href="https://v.daum.net/v/20230506080600957"/>
+        <updated>2023-05-05T23:16:30.162Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">08:06</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나물 삶는 남자, 마음의 도보 여행]]></title>
         <id>https://v.daum.net/v/20230506063702259</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230506031613528"/>
         <updated>2023-05-05T18:18:55.465Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 北 해킹에 보안 점검 거부한 선관위, 무얼 감추겠다는 건가]]></title>
-        <id>https://v.daum.net/v/20230506031412527</id>
-        <link href="https://v.daum.net/v/20230506031412527"/>
-        <updated>2023-05-05T18:18:55.467Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:14</span>]]></content>
     </entry>
 </feed>
