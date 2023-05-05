@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-05-05T11:14:24.943Z</updated>
+    <updated>2023-05-05T12:28:01.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[초보 탈출 위한 '붕괴 스타레일' 꿀팁 15선]]></title>
+        <id>https://v.daum.net/v/20230505210242521</id>
+        <link href="https://v.daum.net/v/20230505210242521"/>
+        <updated>2023-05-05T12:27:34.847Z</updated>
+        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">21:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최신 챗GPT 장착 MS 검색엔진 ‘빙’ ‘1시간 전 데이터’ 반영…서비스 개시]]></title>
+        <id>https://v.daum.net/v/20230505205523418</id>
+        <link href="https://v.daum.net/v/20230505205523418"/>
+        <updated>2023-05-05T12:27:34.849Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:55</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[영상]갤Z폴드 닮았네…구글 '픽셀 폴드' 깜짝 공개, 가격은?]]></title>
+        <id>https://v.daum.net/v/20230505205516414</id>
+        <link href="https://v.daum.net/v/20230505205516414"/>
+        <updated>2023-05-05T12:27:34.854Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">20:55</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미국, 첫 ‘국가 표준전략’ 발표…중국 ‘기술 굴기’ 견제 강화]]></title>
+        <id>https://v.daum.net/v/20230505205454389</id>
+        <link href="https://v.daum.net/v/20230505205454389"/>
+        <updated>2023-05-05T12:27:34.860Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:54</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“차라리 배달 음식 끊겠다” 배달료 인상 파업…더 성난 이용자]]></title>
         <id>https://v.daum.net/v/20230505194649729</id>
@@ -20,7 +48,7 @@
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">19:07</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“140→80만원…대만 노트북 파격 승부수” 한국서 작정하고 삼성·LG 노렸다]]></title>
+        <title type="html"><![CDATA[“60만원 파격적으로 내린다” 작정하고 한국 시장 노린 ‘최저가?’]]></title>
         <id>https://v.daum.net/v/20230505185052948</id>
         <link href="https://v.daum.net/v/20230505185052948"/>
         <updated>2023-05-05T10:17:00.624Z</updated>
@@ -55,7 +83,7 @@
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">17:58</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“항생제 안 먹어도 됐는데” 의사들이 직접 고백했다]]></title>
+        <title type="html"><![CDATA[“필요 없는데 무조건 항생제 처방” 의사들이 고백했다, 이러다?]]></title>
         <id>https://v.daum.net/v/20230505175216171</id>
         <link href="https://v.daum.net/v/20230505175216171"/>
         <updated>2023-05-05T09:15:09.057Z</updated>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230505173300942"/>
         <updated>2023-05-05T09:15:09.059Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:33</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SK Bioscience shares soar after contract deal with MSD]]></title>
-        <id>https://v.daum.net/v/20230505173016911</id>
-        <link href="https://v.daum.net/v/20230505173016911"/>
-        <updated>2023-05-05T09:15:09.062Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KAIST 찾은 경계현 삼성전자 사장…"신기술 함께 만들자"]]></title>
-        <id>https://v.daum.net/v/20230505173002902</id>
-        <link href="https://v.daum.net/v/20230505173002902"/>
-        <updated>2023-05-05T09:15:09.063Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한숨 돌렸는데…中반도체 규제 더 조일라 '전전긍긍']]></title>
-        <id>https://v.daum.net/v/20230505172702857</id>
-        <link href="https://v.daum.net/v/20230505172702857"/>
-        <updated>2023-05-05T09:15:09.064Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[글로벌 빅테크 갑질 제동 공정위, 실태조사 나선다]]></title>
-        <id>https://v.daum.net/v/20230505172404820</id>
-        <link href="https://v.daum.net/v/20230505172404820"/>
-        <updated>2023-05-05T09:15:09.066Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:24</span>]]></content>
     </entry>
 </feed>
