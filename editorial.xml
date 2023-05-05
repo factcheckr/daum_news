@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-05-05T04:19:05.905Z</updated>
+    <updated>2023-05-05T05:15:29.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[데스크칼럼] 툭하면 바뀌는  '도시 슬로건']]></title>
+        <id>https://v.daum.net/v/20230505134242624</id>
+        <link href="https://v.daum.net/v/20230505134242624"/>
+        <updated>2023-05-05T05:15:08.457Z</updated>
+        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">13:42</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘꿈의 나라’ 디즈니, 性문제·좌우 정치 싸움터가 된 이유 [WEEKLY BIZ]]]></title>
         <id>https://v.daum.net/v/20230505131132203</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230505053043848"/>
         <updated>2023-05-04T21:14:40.397Z</updated>
         <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데일리안 시사만평] 등골 휘는 '어린이날 물가'…비도 온다는데 집에서 쉬자]]></title>
-        <id>https://v.daum.net/v/20230505052801840</id>
-        <link href="https://v.daum.net/v/20230505052801840"/>
-        <updated>2023-05-04T21:14:40.398Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">05:28</span>]]></content>
     </entry>
 </feed>
