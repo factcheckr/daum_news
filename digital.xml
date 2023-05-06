@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-05-06T13:17:19.054Z</updated>
+    <updated>2023-05-06T14:14:05.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[과학 한스푼] 사람 생각 읽어주는 AI...마비 환자와도 소통 가능]]></title>
+        <id>https://v.daum.net/v/20230506225933991</id>
+        <link href="https://v.daum.net/v/20230506225933991"/>
+        <updated>2023-05-06T14:13:35.640Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">22:59</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가오갤3·슈퍼 마리오 브라더스, 어린이날 흥행 성공]]></title>
         <id>https://v.daum.net/v/20230506204515369</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230506155516275"/>
         <updated>2023-05-06T07:14:30.608Z</updated>
         <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">15:55</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["마스크 벗으니 트러블 걱정되네"…피부시술 검색량 급증]]></title>
-        <id>https://v.daum.net/v/20230506153709169</id>
-        <link href="https://v.daum.net/v/20230506153709169"/>
-        <updated>2023-05-06T07:14:30.609Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">15:37</span>]]></content>
     </entry>
 </feed>
