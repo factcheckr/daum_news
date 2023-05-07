@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-05-07T16:18:54.775Z</updated>
+    <updated>2023-05-07T17:13:52.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[캐나다 앨버타주, 산불 비상사태 선포…피해 면적 서울의 2배]]></title>
+        <id>https://v.daum.net/v/20230508021042048</id>
+        <link href="https://v.daum.net/v/20230508021042048"/>
+        <updated>2023-05-07T17:13:34.753Z</updated>
+        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">02:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]이차전지와 중국의 산업정책]]></title>
+        <id>https://v.daum.net/v/20230508020302043</id>
+        <link href="https://v.daum.net/v/20230508020302043"/>
+        <updated>2023-05-07T17:13:34.753Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중앙시평] 공화주의 상상력을 요청한다]]></title>
         <id>https://v.daum.net/v/20230508005829928</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230508003416879"/>
         <updated>2023-05-07T16:18:31.056Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 톡픽(TalkPick)] “미·중의 갈등을 고조시키는 건 매우 멍청한 짓”]]></title>
-        <id>https://v.daum.net/v/20230508003226865</id>
-        <link href="https://v.daum.net/v/20230508003226865"/>
-        <updated>2023-05-07T16:18:31.057Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시선2035] “방콕에 이런 곳 없어요” 생성AI시대의 여행]]></title>
-        <id>https://v.daum.net/v/20230508003026854</id>
-        <link href="https://v.daum.net/v/20230508003026854"/>
-        <updated>2023-05-07T16:18:31.059Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
     </entry>
 </feed>

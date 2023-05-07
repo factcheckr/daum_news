@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2023-05-07T16:18:54.763Z</updated>
+    <updated>2023-05-07T17:13:52.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김남국 60억 코인 논란 확산…여당 “윤리특위 제소 검토”]]></title>
+        <id>https://v.daum.net/v/20230508015212031</id>
+        <link href="https://v.daum.net/v/20230508015212031"/>
+        <updated>2023-05-07T17:12:27.607Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">01:52</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[영상] 52일 만에 만나 '100분 회담'…팔도 특산물로 관저만찬]]></title>
+        <id>https://v.daum.net/v/20230508013628008</id>
+        <link href="https://v.daum.net/v/20230508013628008"/>
+        <updated>2023-05-07T17:12:27.618Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">01:36</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정부 “용산어린이정원 환경 모니터링 3번…안전성 문제없다”]]></title>
         <id>https://v.daum.net/v/20230508011531964</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230508002051826"/>
         <updated>2023-05-07T16:17:14.221Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">00:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기시다 “많은 분이 힘든 경험, 가슴 아파”]]></title>
-        <id>https://v.daum.net/v/20230508001935825</id>
-        <link href="https://v.daum.net/v/20230508001935825"/>
-        <updated>2023-05-07T16:17:14.221Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:19</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[與, 김재원·태영호 중징계?...오늘 최고위도 취소]]></title>
-        <id>https://v.daum.net/v/20230508001615813</id>
-        <link href="https://v.daum.net/v/20230508001615813"/>
-        <updated>2023-05-07T16:17:14.221Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:16</span>]]></content>
     </entry>
 </feed>
