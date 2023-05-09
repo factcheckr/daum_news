@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-05-09T22:15:20.634Z</updated>
+    <updated>2023-05-09T23:17:49.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[만화] 희망의 씨앗 [날백수인생]]]></title>
+        <id>https://v.daum.net/v/20230510081501038</id>
+        <link href="https://v.daum.net/v/20230510081501038"/>
+        <updated>2023-05-09T23:17:32.366Z</updated>
+        <content type="html"><![CDATA[오마이뉴스<span class="txt_bar"> · </span><span class="info_time">08:15</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아름다운 건축] 시간·공간·자본의 결합체로서의 건축]]></title>
         <id>https://v.daum.net/v/20230510070518885</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230510070026729"/>
         <updated>2023-05-09T22:14:59.080Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이충재의 인사이트] 윤 대통령이 문재인 직접 저격한 이유]]></title>
-        <id>https://v.daum.net/v/20230510065401653</id>
-        <link href="https://v.daum.net/v/20230510065401653"/>
-        <updated>2023-05-09T22:14:59.081Z</updated>
-        <content type="html"><![CDATA[오마이뉴스<span class="txt_bar"> · </span><span class="info_time">06:54</span>]]></content>
     </entry>
 </feed>
