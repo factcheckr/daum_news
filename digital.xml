@@ -2,98 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-05-09T19:13:15.859Z</updated>
+    <updated>2023-05-09T20:16:44.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[애플 헤드셋이 온다… 다시 VR이 들썩인다]]></title>
+        <id>https://v.daum.net/v/20230510050431440</id>
+        <link href="https://v.daum.net/v/20230510050431440"/>
+        <updated>2023-05-09T20:16:15.120Z</updated>
+        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:04</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네오위즈 ‘고양이와 스프’ 중국판 출시 계약]]></title>
+        <id>https://v.daum.net/v/20230510050430439</id>
+        <link href="https://v.daum.net/v/20230510050430439"/>
+        <updated>2023-05-09T20:16:15.120Z</updated>
+        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:04</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔씨소프트, 매월 9일 ‘야9데이’ 미션 이벤트]]></title>
+        <id>https://v.daum.net/v/20230510050428438</id>
+        <link href="https://v.daum.net/v/20230510050428438"/>
+        <updated>2023-05-09T20:16:15.121Z</updated>
+        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:04</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크래프톤 ‘배그 한일전’ 日도넛배럴 우승]]></title>
+        <id>https://v.daum.net/v/20230510050426436</id>
+        <link href="https://v.daum.net/v/20230510050426436"/>
+        <updated>2023-05-09T20:16:15.122Z</updated>
+        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:04</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[카이스트 새 이사장 김명자씨]]></title>
+        <id>https://v.daum.net/v/20230510050419427</id>
+        <link href="https://v.daum.net/v/20230510050419427"/>
+        <updated>2023-05-09T20:16:15.123Z</updated>
+        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:04</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LG유플·숭실대 정보보호학과 신설… 사이버보안 인재 양성]]></title>
+        <id>https://v.daum.net/v/20230510050411420</id>
+        <link href="https://v.daum.net/v/20230510050411420"/>
+        <updated>2023-05-09T20:16:15.123Z</updated>
+        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:04</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인류가 바꾼 세상 ‘인류세’… “공존 위한 불편 감수해야”]]></title>
+        <id>https://v.daum.net/v/20230510050339400</id>
+        <link href="https://v.daum.net/v/20230510050339400"/>
+        <updated>2023-05-09T20:16:15.125Z</updated>
+        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강원랜드 부사장 최종 후보군 이성규·소병기 압축]]></title>
+        <id>https://v.daum.net/v/20230510050236356</id>
+        <link href="https://v.daum.net/v/20230510050236356"/>
+        <updated>2023-05-09T20:16:15.125Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">05:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘무쟁점 법안’ 강특법 개정 작업 속도… 5월 입법 청신호]]></title>
+        <id>https://v.daum.net/v/20230510050232348</id>
+        <link href="https://v.daum.net/v/20230510050232348"/>
+        <updated>2023-05-09T20:16:15.126Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">05:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이노그리드 "클라우드 R&D 3관왕 달성···매출 300억 달성 무난"]]></title>
+        <id>https://v.daum.net/v/20230510050033205</id>
+        <link href="https://v.daum.net/v/20230510050033205"/>
+        <updated>2023-05-09T20:16:15.126Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">05:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[병원 혁신 어떻게…한-덴마크 의료인 머리 맞대]]></title>
+        <id>https://v.daum.net/v/20230510050018179</id>
+        <link href="https://v.daum.net/v/20230510050018179"/>
+        <updated>2023-05-09T20:16:15.127Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">05:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나19의 새로운 후유증…'민감해진 감각이 유발하는 통증']]></title>
+        <id>https://v.daum.net/v/20230510050013172</id>
+        <link href="https://v.daum.net/v/20230510050013172"/>
+        <updated>2023-05-09T20:16:15.128Z</updated>
+        <content type="html"><![CDATA[동아사이언스<span class="txt_bar"> · </span><span class="info_time">05:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[머스크 "트위터 비활성화 계정 삭제중"… 15억개 언제 지울까]]></title>
+        <id>https://v.daum.net/v/20230510044105124</id>
+        <link href="https://v.daum.net/v/20230510044105124"/>
+        <updated>2023-05-09T20:16:15.128Z</updated>
+        <content type="html"><![CDATA[머니S<span class="txt_bar"> · </span><span class="info_time">04:41</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[스타트업 리포트]"AI 기저귀 보셨나요" 하기스가 놀란 스마트 기저귀 만든 박도형 모닛 대표]]></title>
+        <id>https://v.daum.net/v/20230510043259089</id>
+        <link href="https://v.daum.net/v/20230510043259089"/>
+        <updated>2023-05-09T20:16:15.129Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:32</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수사 중인 ‘위믹스 60억’ 외에 또다른 ‘28억 지갑’ 나와]]></title>
         <id>https://v.daum.net/v/20230510034957877</id>
         <link href="https://v.daum.net/v/20230510034957877"/>
         <updated>2023-05-09T19:12:48.287Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:49</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가상화폐 지갑에 코인 보관… ‘인출’은 현금화 않고 지갑에 매도 대금 남아있는 상태]]></title>
-        <id>https://v.daum.net/v/20230510034918875</id>
-        <link href="https://v.daum.net/v/20230510034918875"/>
-        <updated>2023-05-09T19:12:48.288Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:49</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 링크드인, 글로벌 감원...中 사업도 완전철수]]></title>
-        <id>https://v.daum.net/v/20230510034502867</id>
-        <link href="https://v.daum.net/v/20230510034502867"/>
-        <updated>2023-05-09T19:12:48.289Z</updated>
-        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">03:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글 이긴 매끄러운 번역… “한국어, 세계 5大시장 될 것”]]></title>
-        <id>https://v.daum.net/v/20230510030313623</id>
-        <link href="https://v.daum.net/v/20230510030313623"/>
-        <updated>2023-05-09T18:24:26.216Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설치비 절반 줄인 ‘ICT 기반 가압장’ 개발]]></title>
-        <id>https://v.daum.net/v/20230510012008371</id>
-        <link href="https://v.daum.net/v/20230510012008371"/>
-        <updated>2023-05-09T17:15:56.206Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">01:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[옥내누수, AI 기반 3일내 탐지·7일내 복구]]></title>
-        <id>https://v.daum.net/v/20230510011115348</id>
-        <link href="https://v.daum.net/v/20230510011115348"/>
-        <updated>2023-05-09T16:20:11.019Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">01:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사진] 아파트 순찰하는 로봇]]></title>
-        <id>https://v.daum.net/v/20230510000317068</id>
-        <link href="https://v.daum.net/v/20230510000317068"/>
-        <updated>2023-05-09T15:16:39.227Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[비즈 칼럼] AI 혁신 vs 규제…양자 조화 꾀할 법제 서둘러야]]></title>
-        <id>https://v.daum.net/v/20230510000316067</id>
-        <link href="https://v.daum.net/v/20230510000316067"/>
-        <updated>2023-05-09T15:16:39.228Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“자꾸 생각난대 ㅋㅋ”…댓글 단 그놈, 사람 아니었다]]></title>
-        <id>https://v.daum.net/v/20230510000307060</id>
-        <link href="https://v.daum.net/v/20230510000307060"/>
-        <updated>2023-05-09T15:16:39.229Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[독일산 AI 번역 ‘딥엘’, 구글·파파고와 경쟁하나]]></title>
-        <id>https://v.daum.net/v/20230510000305054</id>
-        <link href="https://v.daum.net/v/20230510000305054"/>
-        <updated>2023-05-09T15:16:39.229Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김명자 전 장관, KAIST 첫 여성 이사장 됐다]]></title>
-        <id>https://v.daum.net/v/20230510000157018</id>
-        <link href="https://v.daum.net/v/20230510000157018"/>
-        <updated>2023-05-09T15:16:39.230Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[상용화 4년 맞은 5G…'킬러 콘텐츠'는 실종]]></title>
-        <id>https://v.daum.net/v/20230510000058985</id>
-        <link href="https://v.daum.net/v/20230510000058985"/>
-        <updated>2023-05-09T15:16:39.231Z</updated>
-        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사이테크+] '가상현실에서 꽃향기 맡는다'…웨어러블 VR 냄새 발생기 개발]]></title>
-        <id>https://v.daum.net/v/20230510000004955</id>
-        <link href="https://v.daum.net/v/20230510000004955"/>
-        <updated>2023-05-09T15:16:39.235Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
