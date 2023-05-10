@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-05-09T23:17:49.872Z</updated>
+    <updated>2023-05-10T01:11:31.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[짠돌이 커밍아웃한 그가 코인에 몰빵한 까닭은 [핫이슈]]]></title>
+        <id>https://v.daum.net/v/20230510091817943</id>
+        <link href="https://v.daum.net/v/20230510091817943"/>
+        <updated>2023-05-10T01:11:14.138Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">09:18</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[초록이 가져다주는 상상을 초월한 행복 속으로!]]></title>
+        <id>https://v.daum.net/v/20230510090020218</id>
+        <link href="https://v.daum.net/v/20230510090020218"/>
+        <updated>2023-05-10T01:11:14.140Z</updated>
+        <content type="html"><![CDATA[우먼센스<span class="txt_bar"> · </span><span class="info_time">09:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[초동시각]삼성전자 노조의 파업 도돌이표]]></title>
+        <id>https://v.daum.net/v/20230510085057901</id>
+        <link href="https://v.daum.net/v/20230510085057901"/>
+        <updated>2023-05-10T01:11:14.141Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">08:50</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[시론]3중 빚더미, 이대로 괜찮을까]]></title>
+        <id>https://v.daum.net/v/20230510084436727</id>
+        <link href="https://v.daum.net/v/20230510084436727"/>
+        <updated>2023-05-10T01:11:14.142Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">08:44</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[만화] 희망의 씨앗 [날백수인생]]]></title>
         <id>https://v.daum.net/v/20230510081501038</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230510070429863"/>
         <updated>2023-05-09T22:14:59.076Z</updated>
         <content type="html"><![CDATA[주간경향<span class="txt_bar"> · </span><span class="info_time">07:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1526호를 읽고[독자의 소리]]]></title>
-        <id>https://v.daum.net/v/20230510070214799</id>
-        <link href="https://v.daum.net/v/20230510070214799"/>
-        <updated>2023-05-09T22:14:59.076Z</updated>
-        <content type="html"><![CDATA[주간경향<span class="txt_bar"> · </span><span class="info_time">07:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내일이면 늦으리[편집실에서]]]></title>
-        <id>https://v.daum.net/v/20230510070212796</id>
-        <link href="https://v.daum.net/v/20230510070212796"/>
-        <updated>2023-05-09T22:14:59.077Z</updated>
-        <content type="html"><![CDATA[주간경향<span class="txt_bar"> · </span><span class="info_time">07:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[망했다던 해운산업 살려낸 '위기극복 DNA' 지금 필요하다 [유창근의 육필 회고]]]></title>
-        <id>https://v.daum.net/v/20230510070106747</id>
-        <link href="https://v.daum.net/v/20230510070106747"/>
-        <updated>2023-05-09T22:14:59.078Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">07:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시로 여는 수요일] 낮잠]]></title>
-        <id>https://v.daum.net/v/20230510070026729</id>
-        <link href="https://v.daum.net/v/20230510070026729"/>
-        <updated>2023-05-09T22:14:59.080Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
     </entry>
 </feed>
