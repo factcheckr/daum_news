@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/society</id>
     <title>다음 뉴스 ─ 전체기사 ─ 사회</title>
-    <updated>2023-05-10T16:24:45.063Z</updated>
+    <updated>2023-05-10T17:15:51.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[부산 부산진구 건물 정전…주변 건물도 피해]]></title>
+        <id>https://v.daum.net/v/20230511020001125</id>
+        <link href="https://v.daum.net/v/20230511020001125"/>
+        <updated>2023-05-10T17:13:59.728Z</updated>
+        <content type="html"><![CDATA[SBS<span class="txt_bar"> · </span><span class="info_time">02:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이재명 대표 '대장동·성남FC' 재판 오늘 시작]]></title>
+        <id>https://v.daum.net/v/20230511014309113</id>
+        <link href="https://v.daum.net/v/20230511014309113"/>
+        <updated>2023-05-10T17:13:59.728Z</updated>
+        <content type="html"><![CDATA[MBC<span class="txt_bar"> · </span><span class="info_time">01:43</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[청주 한우 농장 두곳에서 구제역 발생...국내에서 4년여만에]]></title>
+        <id>https://v.daum.net/v/20230511013417094</id>
+        <link href="https://v.daum.net/v/20230511013417094"/>
+        <updated>2023-05-10T17:13:59.732Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:34</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[중점] 전주영화제 보러 갔다가..."고장난 신호등 때문에 죽을 뻔"]]></title>
+        <id>https://v.daum.net/v/20230511013409093</id>
+        <link href="https://v.daum.net/v/20230511013409093"/>
+        <updated>2023-05-10T17:13:59.732Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">01:34</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 전국 대체로 맑아‥낮 최고 18∼27도]]></title>
+        <id>https://v.daum.net/v/20230511013409092</id>
+        <link href="https://v.daum.net/v/20230511013409092"/>
+        <updated>2023-05-10T17:13:59.732Z</updated>
+        <content type="html"><![CDATA[MBC<span class="txt_bar"> · </span><span class="info_time">01:34</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[佛해안마을 "기후변화 안일" 정부에 승소…온실가스 감축명령]]></title>
+        <id>https://v.daum.net/v/20230511013316091</id>
+        <link href="https://v.daum.net/v/20230511013316091"/>
+        <updated>2023-05-10T17:13:59.733Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">01:33</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주광덕 남양주시장, 다산한강초 1일 명예 학교장 체험]]></title>
+        <id>https://v.daum.net/v/20230511012314073</id>
+        <link href="https://v.daum.net/v/20230511012314073"/>
+        <updated>2023-05-10T17:13:59.733Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">01:23</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[새울원자력, 어버이날 맞아 따뜻한 나눔행사 실천 ‘눈길’]]></title>
         <id>https://v.daum.net/v/20230511011815066</id>
@@ -13,7 +62,7 @@
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">01:18</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[탄천에 출몰한 10kg짜리 ‘생태교란종’…“당근 박살내는 치악력”]]></title>
+        <title type="html"><![CDATA[탄천에 출몰한 10kg짜리 ‘생태교란종’…악어 다음 최상위 포식자]]></title>
         <id>https://v.daum.net/v/20230511011723065</id>
         <link href="https://v.daum.net/v/20230511011723065"/>
         <updated>2023-05-10T16:22:45.367Z</updated>
@@ -27,7 +76,7 @@
         <content type="html"><![CDATA[SBS<span class="txt_bar"> · </span><span class="info_time">01:00</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[속보] 청주 한우 농장 2곳에서 구제역…국내 발생 4년 4개월만]]></title>
+        <title type="html"><![CDATA[청주 한우 농장 2곳에서 구제역…국내 발생 4년 4개월만]]></title>
         <id>https://v.daum.net/v/20230511005945000</id>
         <link href="https://v.daum.net/v/20230511005945000"/>
         <updated>2023-05-10T16:22:45.368Z</updated>
@@ -60,54 +109,5 @@
         <link href="https://v.daum.net/v/20230511005108978"/>
         <updated>2023-05-10T16:22:45.375Z</updated>
         <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">00:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청주 한우 농장 두곳서 구제역...국내서 4년여만에 발생]]></title>
-        <id>https://v.daum.net/v/20230511005101977</id>
-        <link href="https://v.daum.net/v/20230511005101977"/>
-        <updated>2023-05-10T16:22:45.376Z</updated>
-        <content type="html"><![CDATA[kbc광주방송<span class="txt_bar"> · </span><span class="info_time">00:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[택시비 포항→대전 28만원 먹튀…두 여성이 기사에게 쓴 수법]]></title>
-        <id>https://v.daum.net/v/20230511004735964</id>
-        <link href="https://v.daum.net/v/20230511004735964"/>
-        <updated>2023-05-10T16:22:45.378Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[검찰 'SG발 폭락' 라덕연 구속영장...주가조작 혐의]]></title>
-        <id>https://v.daum.net/v/20230511004002939</id>
-        <link href="https://v.daum.net/v/20230511004002939"/>
-        <updated>2023-05-10T16:22:45.379Z</updated>
-        <content type="html"><![CDATA[kbc광주방송<span class="txt_bar"> · </span><span class="info_time">00:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청주 한우 농장 두곳서 구제역…국내서 4년여만에 발생]]></title>
-        <id>https://v.daum.net/v/20230511003835937</id>
-        <link href="https://v.daum.net/v/20230511003835937"/>
-        <updated>2023-05-10T16:22:45.381Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:38</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["코인 수익 30% 내라" 폭행·감금...146억 뺏은 일당 검거]]></title>
-        <id>https://v.daum.net/v/20230511003409921</id>
-        <link href="https://v.daum.net/v/20230511003409921"/>
-        <updated>2023-05-10T16:22:45.382Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[검찰 'SG발 폭락' 라덕연 구속영장···주가조작 혐의]]></title>
-        <id>https://v.daum.net/v/20230511003345920</id>
-        <link href="https://v.daum.net/v/20230511003345920"/>
-        <updated>2023-05-10T16:22:45.383Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">00:33</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미 하원서 미 기업의 핵심 산업 대중국 투자 심사법 발의]]></title>
-        <id>https://v.daum.net/v/20230511003001895</id>
-        <link href="https://v.daum.net/v/20230511003001895"/>
-        <updated>2023-05-10T16:22:45.385Z</updated>
-        <content type="html"><![CDATA[SBS<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
     </entry>
 </feed>
