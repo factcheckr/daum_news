@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-05-10T04:19:11.543Z</updated>
+    <updated>2023-05-10T05:15:04.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기업의 사외이사는 무엇을 하는 자리인가]]></title>
+        <id>https://v.daum.net/v/20230510131949474</id>
+        <link href="https://v.daum.net/v/20230510131949474"/>
+        <updated>2023-05-10T05:14:46.023Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">13:19</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[논단]부담 커지는 자녀교육비‥한국형 주니어 ISA 도입해야]]></title>
         <id>https://v.daum.net/v/20230510125305891</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230510110253757"/>
         <updated>2023-05-10T02:32:25.380Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">11:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[짠돌이 커밍아웃한 그가 코인에 몰빵한 까닭은 [핫이슈]]]></title>
-        <id>https://v.daum.net/v/20230510091817943</id>
-        <link href="https://v.daum.net/v/20230510091817943"/>
-        <updated>2023-05-10T01:11:14.138Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">09:18</span>]]></content>
     </entry>
 </feed>
