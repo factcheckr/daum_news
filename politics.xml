@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2023-05-11T16:20:25.390Z</updated>
+    <updated>2023-05-11T17:15:13.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인사하는 尹·김관진 전 장관]]></title>
+        <id>https://v.daum.net/v/20230512013716684</id>
+        <link href="https://v.daum.net/v/20230512013716684"/>
+        <updated>2023-05-11T17:13:43.032Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:37</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한일 오늘 서울서 국장급 협의…‘오염수 시찰단 역할’ 놓고 진통 예상]]></title>
         <id>https://v.daum.net/v/20230512010005575</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230512000459295"/>
         <updated>2023-05-11T15:15:51.028Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤 대통령, 아소 일본 전 총리와 관저만찬]]></title>
-        <id>https://v.daum.net/v/20230512000334251</id>
-        <link href="https://v.daum.net/v/20230512000334251"/>
-        <updated>2023-05-11T15:15:51.029Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
     </entry>
 </feed>
