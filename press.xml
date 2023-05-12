@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-05-12T11:13:54.607Z</updated>
+    <updated>2023-05-12T12:31:05.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Xinhua Silk Road "중국 우시, 한국과 경제 및 무역 협력 심화"]]></title>
+        <id>https://v.daum.net/v/20230512212116682</id>
+        <link href="https://v.daum.net/v/20230512212116682"/>
+        <updated>2023-05-12T12:30:55.641Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">21:21</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신안군, '철원의 섬 신의도' 선포 및 조형물 제막식 열려]]></title>
         <id>https://v.daum.net/v/20230512191345882</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230512171756434"/>
         <updated>2023-05-12T08:22:24.549Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">17:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[AsiaNet] 중국 푸젠성 대표단, 인도네시아 방문]]></title>
-        <id>https://v.daum.net/v/20230512170815150</id>
-        <link href="https://v.daum.net/v/20230512170815150"/>
-        <updated>2023-05-12T08:22:24.554Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:08</span>]]></content>
     </entry>
 </feed>
