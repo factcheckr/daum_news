@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-05-12T03:16:52.902Z</updated>
+    <updated>2023-05-12T04:18:41.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[논단]세련된 中 산업정책, 계속 밀리는 韓]]></title>
+        <id>https://v.daum.net/v/20230512124505210</id>
+        <link href="https://v.daum.net/v/20230512124505210"/>
+        <updated>2023-05-12T04:18:21.107Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">12:45</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국정치평론가협회 공식 출범]]></title>
         <id>https://v.daum.net/v/20230512120716653</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230512111618840"/>
         <updated>2023-05-12T02:31:13.892Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[헤럴드광장] 다시 부는 서울시 창의시정 바람]]></title>
-        <id>https://v.daum.net/v/20230512111514800</id>
-        <link href="https://v.daum.net/v/20230512111514800"/>
-        <updated>2023-05-12T02:31:13.893Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:15</span>]]></content>
     </entry>
 </feed>
