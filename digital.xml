@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-05-12T13:19:41.061Z</updated>
+    <updated>2023-05-12T14:16:06.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독]사임하는 백상엽 카카오엔터 대표 "자사주 전량 매각 안 한다"]]></title>
+        <id>https://v.daum.net/v/20230512223704865</id>
+        <link href="https://v.daum.net/v/20230512223704865"/>
+        <updated>2023-05-12T14:15:34.367Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">22:37</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“60만원 할인해도 안 사?” 박은빈까지 자랑하던 ‘제품’ 어쩌다]]></title>
         <id>https://v.daum.net/v/20230512211316586</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230512200547679"/>
         <updated>2023-05-12T11:13:20.955Z</updated>
         <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">20:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카카오엔터프라이즈, 사업 재편···새 대표에 이경진 클라우드 부문장]]></title>
-        <id>https://v.daum.net/v/20230512194915471</id>
-        <link href="https://v.daum.net/v/20230512194915471"/>
-        <updated>2023-05-12T11:13:20.956Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">19:49</span>]]></content>
     </entry>
 </feed>
