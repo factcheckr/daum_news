@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-05-12T20:16:38.339Z</updated>
+    <updated>2023-05-12T21:14:03.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[변연배의 이야기와 함께하는 와인] 천사가 나팔을 불면 사자가 술을 뿜네]]></title>
+        <id>https://v.daum.net/v/20230513060034170</id>
+        <link href="https://v.daum.net/v/20230513060034170"/>
+        <updated>2023-05-12T21:13:39.999Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 여전히 미흡한 한전 자구안…이행·진전 감독해야]]></title>
         <id>https://v.daum.net/v/20230513043227583</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230513032522495"/>
         <updated>2023-05-12T19:13:18.304Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 44조 적자 한전의 ‘밑 빠진 독’ 한전공대, 통폐합 외 답 없어]]></title>
-        <id>https://v.daum.net/v/20230513032213488</id>
-        <link href="https://v.daum.net/v/20230513032213488"/>
-        <updated>2023-05-12T19:13:18.305Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:22</span>]]></content>
     </entry>
 </feed>
