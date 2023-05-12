@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-05-12T04:18:41.532Z</updated>
+    <updated>2023-05-12T05:16:47.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[동맹의 확장 : 사이버안보 협력 프레임워크(SCCF) 체결의 의의]]></title>
+        <id>https://v.daum.net/v/20230512135004580</id>
+        <link href="https://v.daum.net/v/20230512135004580"/>
+        <updated>2023-05-12T05:16:26.445Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">13:50</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[양경미의 영화로 보는 세상] 우애로 맞서는 난민 남매의 희망 메시지]]></title>
+        <id>https://v.daum.net/v/20230512134040283</id>
+        <link href="https://v.daum.net/v/20230512134040283"/>
+        <updated>2023-05-12T05:16:26.445Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">13:40</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[논단]세련된 中 산업정책, 계속 밀리는 韓]]></title>
         <id>https://v.daum.net/v/20230512124505210</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230512113522587"/>
         <updated>2023-05-12T03:16:34.659Z</updated>
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[만평] 3년 4개월 만에 되찾은 일상]]></title>
-        <id>https://v.daum.net/v/20230512112034993</id>
-        <link href="https://v.daum.net/v/20230512112034993"/>
-        <updated>2023-05-12T02:31:13.891Z</updated>
-        <content type="html"><![CDATA[대구MBC<span class="txt_bar"> · </span><span class="info_time">11:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 한전 ‘5조원 더’ 자구안...다음 스텝은 전기요금 정상화]]></title>
-        <id>https://v.daum.net/v/20230512111618840</id>
-        <link href="https://v.daum.net/v/20230512111618840"/>
-        <updated>2023-05-12T02:31:13.892Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:16</span>]]></content>
     </entry>
 </feed>
