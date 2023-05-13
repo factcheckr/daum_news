@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-05-13T07:14:47.991Z</updated>
+    <updated>2023-05-13T08:21:17.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Yadea의 고성능 e-모빌리티, 여러 부문에서 수상]]></title>
+        <id>https://v.daum.net/v/20230513164614532</id>
+        <link href="https://v.daum.net/v/20230513164614532"/>
+        <updated>2023-05-13T08:21:04.802Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:46</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Xinhua Silk Road "중국, 브랜드 강국 부상 위한 최적기 맞이해"]]></title>
+        <id>https://v.daum.net/v/20230513162639325</id>
+        <link href="https://v.daum.net/v/20230513162639325"/>
+        <updated>2023-05-13T08:21:04.815Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:26</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] Taimei Technology, CRM Trial Connect 2023 참가]]></title>
         <id>https://v.daum.net/v/20230513160323114</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230513090116548"/>
         <updated>2023-05-13T01:09:32.590Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">09:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“캠핑 라인업 확장”…주식회사 쾌청, ‘텐트 맞춤 루프플라이’ 출시]]></title>
-        <id>https://v.daum.net/v/20230513090006492</id>
-        <link href="https://v.daum.net/v/20230513090006492"/>
-        <updated>2023-05-13T01:09:32.592Z</updated>
-        <content type="html"><![CDATA[월간 아웃도어<span class="txt_bar"> · </span><span class="info_time">09:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제천시, 고암정수장 수돗물 생산 증설…부족걱정 '뚝']]></title>
-        <id>https://v.daum.net/v/20230513060116210</id>
-        <link href="https://v.daum.net/v/20230513060116210"/>
-        <updated>2023-05-12T21:13:49.650Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">06:01</span>]]></content>
     </entry>
 </feed>
