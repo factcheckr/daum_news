@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-05-13T08:21:17.201Z</updated>
+    <updated>2023-05-13T09:15:27.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전남 신의도 '철원군 명예의 섬' 됐다]]></title>
+        <id>https://v.daum.net/v/20230513175643280</id>
+        <link href="https://v.daum.net/v/20230513175643280"/>
+        <updated>2023-05-13T09:15:17.246Z</updated>
+        <content type="html"><![CDATA[투어코리아<span class="txt_bar"> · </span><span class="info_time">17:56</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] Yadea의 고성능 e-모빌리티, 여러 부문에서 수상]]></title>
         <id>https://v.daum.net/v/20230513164614532</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230513090703691"/>
         <updated>2023-05-13T01:09:32.588Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">09:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방세환 광주시장, 제69회 경기도체육대회 개회식 참석]]></title>
-        <id>https://v.daum.net/v/20230513090116548</id>
-        <link href="https://v.daum.net/v/20230513090116548"/>
-        <updated>2023-05-13T01:09:32.590Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">09:01</span>]]></content>
     </entry>
 </feed>

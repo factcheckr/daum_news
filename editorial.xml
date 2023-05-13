@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-05-13T08:21:17.116Z</updated>
+    <updated>2023-05-13T09:15:27.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[부고] 최태진(미래에셋자산운용 선임매니저)씨 장인상]]></title>
+        <id>https://v.daum.net/v/20230513172523839</id>
+        <link href="https://v.daum.net/v/20230513172523839"/>
+        <updated>2023-05-13T09:15:08.926Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">17:25</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이 좋은 봄날에 구원타령하는 이들을 보니]]></title>
         <id>https://v.daum.net/v/20230513171502754</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230513070130441"/>
         <updated>2023-05-12T22:15:12.280Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정여울의 언어정담]  끝없는 외로움으로부터의 해방]]></title>
-        <id>https://v.daum.net/v/20230513070049408</id>
-        <link href="https://v.daum.net/v/20230513070049408"/>
-        <updated>2023-05-12T22:15:12.291Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
     </entry>
 </feed>
