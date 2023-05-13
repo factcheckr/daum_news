@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-05-13T09:15:27.776Z</updated>
+    <updated>2023-05-13T10:15:54.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수원 영통동 영통신나무실주공5단지 59㎡ 3억5000만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230513183041731</id>
+        <link href="https://v.daum.net/v/20230513183041731"/>
+        <updated>2023-05-13T10:15:53.546Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[용인 구갈동 기흥역센트럴푸르지오 84㎡ 7억3000만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230513182539677</id>
+        <link href="https://v.daum.net/v/20230513182539677"/>
+        <updated>2023-05-13T10:15:53.547Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:25</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천 논현동 논현한화에코메트로12단지 85㎡ 4억2000만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230513182049616</id>
+        <link href="https://v.daum.net/v/20230513182049616"/>
+        <updated>2023-05-13T10:15:53.548Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:20</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수원 매탄동 매탄임광 124㎡ 5억3000만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230513181538567</id>
+        <link href="https://v.daum.net/v/20230513181538567"/>
+        <updated>2023-05-13T10:15:53.550Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:15</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성남 정자동 아이파크분당 80㎡ 11억7000만원에 거래]]></title>
         <id>https://v.daum.net/v/20230513181036499</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230513172531841"/>
         <updated>2023-05-13T09:15:27.167Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 송도동 더샵송도마리나베이 84㎡ 8억5800만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230513172036797</id>
-        <link href="https://v.daum.net/v/20230513172036797"/>
-        <updated>2023-05-13T08:21:16.257Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용인 죽전동 새터마을죽전힐스테이트 85㎡ 6억3000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230513171545761</id>
-        <link href="https://v.daum.net/v/20230513171545761"/>
-        <updated>2023-05-13T08:21:16.257Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성남 창곡동 위례자연앤센트럴자이 51㎡ 9억5000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230513171035728</id>
-        <link href="https://v.daum.net/v/20230513171035728"/>
-        <updated>2023-05-13T08:21:16.257Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 옥련동 옥련현대4차 84㎡ 3억4500만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230513170532663</id>
-        <link href="https://v.daum.net/v/20230513170532663"/>
-        <updated>2023-05-13T08:21:16.257Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:05</span>]]></content>
     </entry>
 </feed>
