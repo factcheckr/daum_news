@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-05-14T06:19:19.814Z</updated>
+    <updated>2023-05-14T07:15:57.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[여명] '다윗' 네카오를 응원한다]]></title>
+        <id>https://v.daum.net/v/20230514161514022</id>
+        <link href="https://v.daum.net/v/20230514161514022"/>
+        <updated>2023-05-14T07:15:39.238Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">16:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[김옥조 칼럼]이팝나무 꽃피는 ‘5월의 광주’]]></title>
+        <id>https://v.daum.net/v/20230514161502011</id>
+        <link href="https://v.daum.net/v/20230514161502011"/>
+        <updated>2023-05-14T07:15:39.245Z</updated>
+        <content type="html"><![CDATA[kbc광주방송<span class="txt_bar"> · </span><span class="info_time">16:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ESG칼럼]지방정부가 기업에 제기하는 기후소송]]></title>
+        <id>https://v.daum.net/v/20230514160300763</id>
+        <link href="https://v.daum.net/v/20230514160300763"/>
+        <updated>2023-05-14T07:15:39.247Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">16:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사설] 위성통신 마중물 빨리 부어야]]></title>
+        <id>https://v.daum.net/v/20230514160253758</id>
+        <link href="https://v.daum.net/v/20230514160253758"/>
+        <updated>2023-05-14T07:15:39.249Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">16:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[이승현의 뉴코리아 건설]누가 구속을 감수하면서 기업하겠는가?]]></title>
+        <id>https://v.daum.net/v/20230514160251757</id>
+        <link href="https://v.daum.net/v/20230514160251757"/>
+        <updated>2023-05-14T07:15:39.251Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">16:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[불치의 ‘미토콘드리아 질환’ [유레카]]]></title>
         <id>https://v.daum.net/v/20230514141004776</id>
@@ -74,33 +109,5 @@
         <link href="https://v.daum.net/v/20230514104200422"/>
         <updated>2023-05-14T02:36:53.869Z</updated>
         <content type="html"><![CDATA[MBC<span class="txt_bar"> · </span><span class="info_time">10:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['K-코인' 폭락 권도형측 "권 씨는 범죄자 아니다...무죄 확신"]]></title>
-        <id>https://v.daum.net/v/20230514093216326</id>
-        <link href="https://v.daum.net/v/20230514093216326"/>
-        <updated>2023-05-14T01:17:03.794Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">09:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴욕다이어리]"브런치 먹었는데 30% 더 내라고?" 팁플레이션에 지쳤다]]></title>
-        <id>https://v.daum.net/v/20230514080103160</id>
-        <link href="https://v.daum.net/v/20230514080103160"/>
-        <updated>2023-05-13T23:15:46.622Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">08:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美·中, 일대일로 프로젝트’ 진검승부 펼친다 [김규환의 핸디 차이나]]]></title>
-        <id>https://v.daum.net/v/20230514060606167</id>
-        <link href="https://v.daum.net/v/20230514060606167"/>
-        <updated>2023-05-13T21:13:40.075Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">06:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나는 엔데믹화 됐지만…독감·감기 호흡기질환 유행 계속]]></title>
-        <id>https://v.daum.net/v/20230514060210089</id>
-        <link href="https://v.daum.net/v/20230514060210089"/>
-        <updated>2023-05-13T21:13:40.079Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">06:02</span>]]></content>
     </entry>
 </feed>
