@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-05-16T13:20:15.248Z</updated>
+    <updated>2023-05-16T14:16:06.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[사실상 실검 부활?…네이버·카카오 새 키워드 서비스 실체는]]></title>
+        <title type="html"><![CDATA[게이밍 능력에 얇은 두께까지, ‘HP 오멘 16 슬림’ 노트북 발표]]></title>
+        <id>https://v.daum.net/v/20230516231200497</id>
+        <link href="https://v.daum.net/v/20230516231200497"/>
+        <updated>2023-05-16T14:15:34.061Z</updated>
+        <content type="html"><![CDATA[IT동아<span class="txt_bar"> · </span><span class="info_time">23:12</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다누리, 시속 1만1500㎞ NASA 탐사선 '찰칵'…우주동맹 상징샷]]></title>
+        <id>https://v.daum.net/v/20230516223002023</id>
+        <link href="https://v.daum.net/v/20230516223002023"/>
+        <updated>2023-05-16T14:15:34.072Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">22:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['실시간 검색어' 부활?…네이버·카카오 새 서비스 실체는]]></title>
         <id>https://v.daum.net/v/20230516221401802</id>
         <link href="https://v.daum.net/v/20230516221401802"/>
         <updated>2023-05-16T13:19:46.149Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230516205344677"/>
         <updated>2023-05-16T13:19:46.169Z</updated>
         <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">20:53</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쟁글, 7월 어돕션 콘퍼런스…스타벅스·아디다스 웹3 사례 공유"]]></title>
-        <id>https://v.daum.net/v/20230516202815209</id>
-        <link href="https://v.daum.net/v/20230516202815209"/>
-        <updated>2023-05-16T13:19:46.171Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">20:28</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“유명 연예인 총동원보다 훨씬 강력” 삼성 천하에서 제대로 터졌다]]></title>
-        <id>https://v.daum.net/v/20230516202714194</id>
-        <link href="https://v.daum.net/v/20230516202714194"/>
-        <updated>2023-05-16T13:19:46.172Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">20:27</span>]]></content>
     </entry>
 </feed>
