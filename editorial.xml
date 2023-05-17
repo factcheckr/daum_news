@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-05-17T16:21:17.038Z</updated>
+    <updated>2023-05-17T17:14:31.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]금융데이터 규제혁신 서둘러야]]></title>
+        <id>https://v.daum.net/v/20230518020302754</id>
+        <link href="https://v.daum.net/v/20230518020302754"/>
+        <updated>2023-05-17T17:14:15.134Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[진중권 칼럼] 탈진실 이후는 탈윤리?]]></title>
         <id>https://v.daum.net/v/20230518005828582</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230518003226450"/>
         <updated>2023-05-17T16:20:58.048Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 민주당 김남국 윤리특위 제소, 시간 끌기용 아닌가]]></title>
-        <id>https://v.daum.net/v/20230518003116438</id>
-        <link href="https://v.daum.net/v/20230518003116438"/>
-        <updated>2023-05-17T16:20:58.049Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">00:31</span>]]></content>
     </entry>
 </feed>
