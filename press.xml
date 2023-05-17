@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-05-17T10:17:01.481Z</updated>
+    <updated>2023-05-17T11:13:59.199Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[밀양 관광지 여행하고 스탬프 모아 선물도 받자!]]></title>
+        <id>https://v.daum.net/v/20230517195748398</id>
+        <link href="https://v.daum.net/v/20230517195748398"/>
+        <updated>2023-05-17T11:13:49.577Z</updated>
+        <content type="html"><![CDATA[투어코리아<span class="txt_bar"> · </span><span class="info_time">19:57</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대전 서부농협, 하나로마트 변동점 개점…농축산물 판매 ‘박차’]]></title>
         <id>https://v.daum.net/v/20230517185510732</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230517172020663"/>
         <updated>2023-05-17T08:21:44.752Z</updated>
         <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">17:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['꽃선비 열애사' 인교진, 마지막까지 따뜻한 인간미+유쾌한 매력 발산]]></title>
-        <id>https://v.daum.net/v/20230517171026296</id>
-        <link href="https://v.daum.net/v/20230517171026296"/>
-        <updated>2023-05-17T08:21:44.753Z</updated>
-        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">17:10</span>]]></content>
     </entry>
 </feed>
