@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-05-18T03:17:15.418Z</updated>
+    <updated>2023-05-18T04:19:03.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[논단]기회 쏠림사회서 개성사회로]]></title>
+        <id>https://v.daum.net/v/20230518131650662</id>
+        <link href="https://v.daum.net/v/20230518131650662"/>
+        <updated>2023-05-18T04:18:43.855Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">13:16</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부고] 박용성 미디어오늘 경영기획실장 형제상]]></title>
         <id>https://v.daum.net/v/20230518120315389</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230518110122454"/>
         <updated>2023-05-18T02:36:12.773Z</updated>
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기자수첩] 공짜요금제 빛본 알뜰폰, 질적 성장 고민해야]]></title>
-        <id>https://v.daum.net/v/20230518104539578</id>
-        <link href="https://v.daum.net/v/20230518104539578"/>
-        <updated>2023-05-18T02:36:12.781Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">10:45</span>]]></content>
     </entry>
 </feed>
