@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-05-18T16:21:01.713Z</updated>
+    <updated>2023-05-18T17:15:57.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]진실 외면하고 이익만 쫓는 '빌런들']]></title>
+        <id>https://v.daum.net/v/20230519020503045</id>
+        <link href="https://v.daum.net/v/20230519020503045"/>
+        <updated>2023-05-18T17:15:36.717Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투에이 窓]전지적 어린이 시점 카페의 교훈]]></title>
+        <id>https://v.daum.net/v/20230519020302037</id>
+        <link href="https://v.daum.net/v/20230519020302037"/>
+        <updated>2023-05-18T17:15:36.720Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중앙시평] 웰빙, 소셜 피트니스에 의한 ‘사회적 관계’가 열쇠]]></title>
         <id>https://v.daum.net/v/20230519010028787</id>
@@ -55,6 +69,13 @@
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:48</span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[글로벌 아이] ‘즉시 핵보복’과 ‘핵공유’, 워싱턴 선언 복기해보니…]]></title>
+        <id>https://v.daum.net/v/20230519004625739</id>
+        <link href="https://v.daum.net/v/20230519004625739"/>
+        <updated>2023-05-18T17:15:36.735Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:46</span>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[박한슬의 숫자읽기] 비응급환자가 앗은 삶]]></title>
         <id>https://v.daum.net/v/20230519004424733</id>
         <link href="https://v.daum.net/v/20230519004424733"/>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230519003614703"/>
         <updated>2023-05-18T16:20:42.625Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[조원경의 돈의 세계] 사랑과 돈의 순도]]></title>
-        <id>https://v.daum.net/v/20230519003413697</id>
-        <link href="https://v.daum.net/v/20230519003413697"/>
-        <updated>2023-05-18T16:20:42.626Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[아침 묵상] “생각의 폭풍에서 벗어나라”]]></title>
-        <id>https://v.daum.net/v/20230519003213693</id>
-        <link href="https://v.daum.net/v/20230519003213693"/>
-        <updated>2023-05-18T16:20:42.627Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 톡픽(TalkPick)] “뇌를 되찾은 것 같았고, 심박수도 안정됐다”]]></title>
-        <id>https://v.daum.net/v/20230519003013684</id>
-        <link href="https://v.daum.net/v/20230519003013684"/>
-        <updated>2023-05-18T16:20:42.628Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
     </entry>
 </feed>
