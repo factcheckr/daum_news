@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-05-18T11:13:43.091Z</updated>
+    <updated>2023-05-18T12:33:22.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Xinhua Silk Road "Zoomlion, 지능형 제품 및 디지털화 성과 전시"]]></title>
+        <id>https://v.daum.net/v/20230518211117470</id>
+        <link href="https://v.daum.net/v/20230518211117470"/>
+        <updated>2023-05-18T12:33:13.497Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">21:11</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Ethara, #ABUDHABIGP 2023 위한 새로운 체험 발표]]></title>
+        <id>https://v.daum.net/v/20230518210815416</id>
+        <link href="https://v.daum.net/v/20230518210815416"/>
+        <updated>2023-05-18T12:33:13.498Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">21:08</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전국대도시시장협의회, 두바이 시장 만나 교류·협력 논의]]></title>
         <id>https://v.daum.net/v/20230518200836491</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230518175512537"/>
         <updated>2023-05-18T09:15:22.709Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">17:55</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“오랜만이다 친구야” 숙명여대, 졸업 50주년 홈커밍데이 개최]]></title>
-        <id>https://v.daum.net/v/20230518175310479</id>
-        <link href="https://v.daum.net/v/20230518175310479"/>
-        <updated>2023-05-18T09:15:22.711Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">17:53</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세종사이버대학교 자산관리학부, ‘부동산경매 낙찰(매각)가격 맞추기’ 전국 공모전 성료]]></title>
-        <id>https://v.daum.net/v/20230518175211453</id>
-        <link href="https://v.daum.net/v/20230518175211453"/>
-        <updated>2023-05-18T09:15:22.712Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">17:52</span>]]></content>
     </entry>
 </feed>
