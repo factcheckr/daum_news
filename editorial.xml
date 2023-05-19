@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-05-19T09:20:32.680Z</updated>
+    <updated>2023-05-19T10:16:30.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노(老)의사선생님을 위한 세레나데 [안태환 리포트]]]></title>
+        <id>https://v.daum.net/v/20230519185901232</id>
+        <link href="https://v.daum.net/v/20230519185901232"/>
+        <updated>2023-05-19T10:16:11.559Z</updated>
+        <content type="html"><![CDATA[쿠키뉴스<span class="txt_bar"> · </span><span class="info_time">18:59</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] ‘분신 배후’ 보도 맞장구·경찰 물대포, 제정신인가]]></title>
         <id>https://v.daum.net/v/20230519182001564</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230519170600711"/>
         <updated>2023-05-19T08:19:55.483Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부고] 한성숙(네이버 유럽사업개발 대표)씨 부친상]]></title>
-        <id>https://v.daum.net/v/20230519163902888</id>
-        <link href="https://v.daum.net/v/20230519163902888"/>
-        <updated>2023-05-19T08:19:55.484Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">16:39</span>]]></content>
     </entry>
 </feed>
