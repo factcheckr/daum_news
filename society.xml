@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/society</id>
     <title>다음 뉴스 ─ 전체기사 ─ 사회</title>
-    <updated>2023-05-20T16:19:10.369Z</updated>
+    <updated>2023-05-20T17:13:56.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[자막뉴스] 청주시 "어쩔 수 없는 결정"...시민 불만 ↑]]></title>
+        <id>https://v.daum.net/v/20230521020114862</id>
+        <link href="https://v.daum.net/v/20230521020114862"/>
+        <updated>2023-05-20T17:12:26.332Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">02:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[첫 조사부터 혐의 전면 부인...현직 의원 소환 이번주 본격화]]></title>
         <id>https://v.daum.net/v/20230521011034818</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230521000146561"/>
         <updated>2023-05-20T15:13:24.180Z</updated>
         <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[농장 외국인女에 마수뻗은 농민..'곁에 있어, 일안해도 돈줄게']]></title>
-        <id>https://v.daum.net/v/20230521000114548</id>
-        <link href="https://v.daum.net/v/20230521000114548"/>
-        <updated>2023-05-20T15:13:24.184Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
     </entry>
 </feed>
