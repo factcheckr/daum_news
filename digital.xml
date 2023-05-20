@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-05-20T10:15:52.527Z</updated>
+    <updated>2023-05-20T11:12:55.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[“과잉처방 다 이유 있었네” 뒷돈 받은 의사들 400명이나?]]></title>
+        <title type="html"><![CDATA["오르긴 했는데…" AI챗봇 주식종목 추천 실력은]]></title>
+        <id>https://v.daum.net/v/20230520194541422</id>
+        <link href="https://v.daum.net/v/20230520194541422"/>
+        <updated>2023-05-20T11:12:27.631Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">19:45</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“과잉처방 다 이유 있었네” 뒷돈 받은 의사들 400명이나 ‘충격’]]></title>
         <id>https://v.daum.net/v/20230520185216777</id>
         <link href="https://v.daum.net/v/20230520185216777"/>
         <updated>2023-05-20T10:15:22.981Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230520160813326"/>
         <updated>2023-05-20T07:14:07.895Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">16:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코스어 30명 만장일치 "블루 아카이브 세계관 GOAT"]]></title>
-        <id>https://v.daum.net/v/20230520160315268</id>
-        <link href="https://v.daum.net/v/20230520160315268"/>
-        <updated>2023-05-20T07:14:07.908Z</updated>
-        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">16:03</span>]]></content>
     </entry>
 </feed>
