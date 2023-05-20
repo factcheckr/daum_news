@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-05-20T09:14:49.909Z</updated>
+    <updated>2023-05-20T10:15:52.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[부고] 이복우(국회 산중위 전문위원)씨 부친상]]></title>
+        <id>https://v.daum.net/v/20230520182126337</id>
+        <link href="https://v.daum.net/v/20230520182126337"/>
+        <updated>2023-05-20T10:15:31.675Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">18:21</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["조선인 구경하세요. 입장료 10전"]]></title>
         <id>https://v.daum.net/v/20230520100116995</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230520040913118</id>
         <link href="https://v.daum.net/v/20230520040913118"/>
         <updated>2023-05-19T19:12:53.012Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창] 운전을 한다는 것에 대하여]]></title>
-        <id>https://v.daum.net/v/20230520040910117</id>
-        <link href="https://v.daum.net/v/20230520040910117"/>
-        <updated>2023-05-19T19:12:53.013Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:09</span>]]></content>
     </entry>
 </feed>
