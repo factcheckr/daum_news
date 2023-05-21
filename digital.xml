@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-05-21T13:16:46.571Z</updated>
+    <updated>2023-05-21T14:13:53.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[과학 한스푼] 누리호 3차 발사...해 질 녘에 쏘는 이유는?]]></title>
+        <id>https://v.daum.net/v/20230521224915144</id>
+        <link href="https://v.daum.net/v/20230521224915144"/>
+        <updated>2023-05-21T14:13:25.497Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">22:49</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中, 마이크론 제재... 처음으로 美반도체 직접 때렸다]]></title>
+        <id>https://v.daum.net/v/20230521223045042</id>
+        <link href="https://v.daum.net/v/20230521223045042"/>
+        <updated>2023-05-21T14:13:25.498Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">22:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[교실로 들어온 ‘챗 GPT’…“한계·위험성 인지해야”]]></title>
         <id>https://v.daum.net/v/20230521220846860</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230521192918077"/>
         <updated>2023-05-21T11:12:14.825Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">19:29</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스잇(IT)쥬]누리호 3차 발사 눈앞…'김남국 코인' 불똥 튄 위메이드]]></title>
-        <id>https://v.daum.net/v/20230521190615639</id>
-        <link href="https://v.daum.net/v/20230521190615639"/>
-        <updated>2023-05-21T10:15:06.409Z</updated>
-        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">19:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그래핀-퀀텀닷으로 LED발광효율 8배 늘렸다]]></title>
-        <id>https://v.daum.net/v/20230521190215553</id>
-        <link href="https://v.daum.net/v/20230521190215553"/>
-        <updated>2023-05-21T10:15:06.424Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">19:02</span>]]></content>
     </entry>
 </feed>
