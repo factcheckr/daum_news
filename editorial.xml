@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-05-22T16:20:00.957Z</updated>
+    <updated>2023-05-22T17:14:18.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]청년은 왜 창업을 하여야 하는가?]]></title>
+        <id>https://v.daum.net/v/20230523020501818</id>
+        <link href="https://v.daum.net/v/20230523020501818"/>
+        <updated>2023-05-22T17:14:00.823Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조선일보가 앞으로 살아남을 수 있는 길]]></title>
         <id>https://v.daum.net/v/20230523010738693</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230523003632583"/>
         <updated>2023-05-22T16:19:45.166Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[진회숙의 음악으로 읽는 세상] 피아노야 고마워]]></title>
-        <id>https://v.daum.net/v/20230523003433567</id>
-        <link href="https://v.daum.net/v/20230523003433567"/>
-        <updated>2023-05-22T16:19:45.168Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:34</span>]]></content>
     </entry>
 </feed>
