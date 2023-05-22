@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-05-22T11:15:49.324Z</updated>
+    <updated>2023-05-22T12:29:36.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 챗GPT AI 챗봇, 3DFRAME에 통합돼 가상 제품 프레젠테이션 변혁시켜]]></title>
+        <id>https://v.daum.net/v/20230522204220153</id>
+        <link href="https://v.daum.net/v/20230522204220153"/>
+        <updated>2023-05-22T12:29:26.199Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:42</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[맛의 1번지 강진 알리는 '강진 불금불파' 26일 개장 개최]]></title>
         <id>https://v.daum.net/v/20230522200204531</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230522171359492"/>
         <updated>2023-05-22T08:20:10.731Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">17:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] 아토팜, 올리브영 '맘&베이비 기획전' 참여…최대 50% 할인 혜택]]></title>
-        <id>https://v.daum.net/v/20230522171032399</id>
-        <link href="https://v.daum.net/v/20230522171032399"/>
-        <updated>2023-05-22T08:20:10.732Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:10</span>]]></content>
     </entry>
 </feed>
