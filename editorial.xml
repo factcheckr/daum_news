@@ -2,9 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-05-22T21:14:20.326Z</updated>
+    <updated>2023-05-22T22:16:52.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[여백] 크라우드 펀딩]]></title>
+        <id>https://v.daum.net/v/20230523070513609</id>
+        <link href="https://v.daum.net/v/20230523070513609"/>
+        <updated>2023-05-22T22:16:35.345Z</updated>
+        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">07:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[기자수첩]  슬픈 자화상]]></title>
+        <id>https://v.daum.net/v/20230523070512607</id>
+        <link href="https://v.daum.net/v/20230523070512607"/>
+        <updated>2023-05-22T22:16:35.347Z</updated>
+        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">07:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대덕포럼]  달콤 살벌한 인공지능의 성장을 바라보며]]></title>
+        <id>https://v.daum.net/v/20230523070510604</id>
+        <link href="https://v.daum.net/v/20230523070510604"/>
+        <updated>2023-05-22T22:16:35.347Z</updated>
+        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">07:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[화요광장]  의대교수도 부담스러운 의대쏠림 현상]]></title>
+        <id>https://v.daum.net/v/20230523070509601</id>
+        <link href="https://v.daum.net/v/20230523070509601"/>
+        <updated>2023-05-22T22:16:35.349Z</updated>
+        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">07:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[숲 사랑] 그린탄소흡수원 확보를 위한'도시산림자원조사']]></title>
+        <id>https://v.daum.net/v/20230523070507599</id>
+        <link href="https://v.daum.net/v/20230523070507599"/>
+        <updated>2023-05-22T22:16:35.350Z</updated>
+        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">07:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[문화가산책] 연암 박지원, 충남의 큰 자산]]></title>
+        <id>https://v.daum.net/v/20230523070504595</id>
+        <link href="https://v.daum.net/v/20230523070504595"/>
+        <updated>2023-05-22T22:16:35.351Z</updated>
+        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">07:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[기자수첩] '오염수 10ℓ 논란'만 남긴 석학의 방한]]></title>
+        <id>https://v.daum.net/v/20230523065102343</id>
+        <link href="https://v.daum.net/v/20230523065102343"/>
+        <updated>2023-05-22T22:16:35.352Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">06:51</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[이충재의 인사이트] 윤 대통령 처가 비리 '공흥지구 의혹', 검찰 재수사할까]]></title>
+        <id>https://v.daum.net/v/20230523063001112</id>
+        <link href="https://v.daum.net/v/20230523063001112"/>
+        <updated>2023-05-22T22:16:35.353Z</updated>
+        <content type="html"><![CDATA[오마이뉴스<span class="txt_bar"> · </span><span class="info_time">06:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[목멱칼럼]'투기'라는 이름의 마약]]></title>
+        <id>https://v.daum.net/v/20230523061506997</id>
+        <link href="https://v.daum.net/v/20230523061506997"/>
+        <updated>2023-05-22T22:16:35.354Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">06:15</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박순찬의 장도리 카툰] 들립니까]]></title>
         <id>https://v.daum.net/v/20230523060900926</id>
@@ -46,68 +109,5 @@
         <link href="https://v.daum.net/v/20230523053104361"/>
         <updated>2023-05-22T21:14:01.538Z</updated>
         <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Noah Feldman] The pro-artist, anti-art ruling]]></title>
-        <id>https://v.daum.net/v/20230523053102360</id>
-        <link href="https://v.daum.net/v/20230523053102360"/>
-        <updated>2023-05-22T21:14:01.539Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Editorial] Step for future]]></title>
-        <id>https://v.daum.net/v/20230523053041357</id>
-        <link href="https://v.daum.net/v/20230523053041357"/>
-        <updated>2023-05-22T21:14:01.541Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뒤끝작렬]우리 대통령들은 왜 히로시마에 가지 않았을까]]></title>
-        <id>https://v.daum.net/v/20230523051800271</id>
-        <link href="https://v.daum.net/v/20230523051800271"/>
-        <updated>2023-05-22T21:14:01.543Z</updated>
-        <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">05:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 국격 확인한 슈퍼 외교위크, 향후 전략 더 정교해야]]></title>
-        <id>https://v.daum.net/v/20230523050406143</id>
-        <link href="https://v.daum.net/v/20230523050406143"/>
-        <updated>2023-05-22T20:16:22.058Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 시민에게 고통 안기는 집회의 자유는 없다]]></title>
-        <id>https://v.daum.net/v/20230523050405141</id>
-        <link href="https://v.daum.net/v/20230523050405141"/>
-        <updated>2023-05-22T20:16:22.059Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[씨줄날줄] 노룩(No look)/안미현 수석논설위원]]></title>
-        <id>https://v.daum.net/v/20230523050403140</id>
-        <link href="https://v.daum.net/v/20230523050403140"/>
-        <updated>2023-05-22T20:16:22.060Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[길섶에서] 박물관의 명태/이순녀 논설위원]]></title>
-        <id>https://v.daum.net/v/20230523050403139</id>
-        <link href="https://v.daum.net/v/20230523050403139"/>
-        <updated>2023-05-22T20:16:22.064Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 文정부 ‘탈원전’ 피해 47조, 누가 책임지나]]></title>
-        <id>https://v.daum.net/v/20230523050401138</id>
-        <link href="https://v.daum.net/v/20230523050401138"/>
-        <updated>2023-05-22T20:16:22.065Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서울광장] ‘고름 든 딱지’ 같은 구태는 떼내야 새 출발이다/박현갑 논설위원]]></title>
-        <id>https://v.daum.net/v/20230523050359137</id>
-        <link href="https://v.daum.net/v/20230523050359137"/>
-        <updated>2023-05-22T20:16:22.067Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
     </entry>
 </feed>
