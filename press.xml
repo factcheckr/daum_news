@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-05-23T11:13:46.699Z</updated>
+    <updated>2023-05-23T12:33:29.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Xinhua Silk Road "중국 르자오에서 제5회 시니어 스포츠 대회 개최"]]></title>
+        <id>https://v.daum.net/v/20230523202229333</id>
+        <link href="https://v.daum.net/v/20230523202229333"/>
+        <updated>2023-05-23T12:33:21.214Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:22</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Launched today: Infosys Topaz - An AI-first offering to]]></title>
+        <id>https://v.daum.net/v/20230523201828249</id>
+        <link href="https://v.daum.net/v/20230523201828249"/>
+        <updated>2023-05-23T12:33:21.216Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:18</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] Angel Yeast, Bakery China 2023에서 새로운 제품과 솔루션 선보여]]></title>
         <id>https://v.daum.net/v/20230523191755810</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230523173248921"/>
         <updated>2023-05-23T09:16:46.552Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[옹진군, 연평도·장봉도 주민 향한 무료진료 첫걸음]]></title>
-        <id>https://v.daum.net/v/20230523173226913</id>
-        <link href="https://v.daum.net/v/20230523173226913"/>
-        <updated>2023-05-23T09:16:46.552Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[의정부시, 고산지구 진입 교통 체증 획기적으로 개선]]></title>
-        <id>https://v.daum.net/v/20230523173120886</id>
-        <link href="https://v.daum.net/v/20230523173120886"/>
-        <updated>2023-05-23T09:16:46.555Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:31</span>]]></content>
     </entry>
 </feed>
