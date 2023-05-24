@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-05-24T21:13:22.965Z</updated>
+    <updated>2023-05-24T22:17:42.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[휴이, 웹툰 ‘카페 앵커리지’ OST ‘괜찮다가도’ 25일 발매…쓸쓸한 이별 감성 정점]]></title>
+        <id>https://v.daum.net/v/20230525065037218</id>
+        <link href="https://v.daum.net/v/20230525065037218"/>
+        <updated>2023-05-24T22:17:31.910Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">06:50</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[충남도, 대백제전 연계 '제9회 환황해 포럼' 용역 착수보고회]]></title>
+        <id>https://v.daum.net/v/20230525063251979</id>
+        <link href="https://v.daum.net/v/20230525063251979"/>
+        <updated>2023-05-24T22:17:31.911Z</updated>
+        <content type="html"><![CDATA[투어코리아<span class="txt_bar"> · </span><span class="info_time">06:32</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서초스마트유스센터, 청소년활동 디지털 전환의 단계적 구축 기반 강화]]></title>
         <id>https://v.daum.net/v/20230525060703715</id>
@@ -95,12 +109,5 @@
         <link href="https://v.daum.net/v/20230525000325521"/>
         <updated>2023-05-24T15:17:09.763Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남양주시와 다양한 민·관·학 상생협력 프로그램 운영]]></title>
-        <id>https://v.daum.net/v/20230525000241483</id>
-        <link href="https://v.daum.net/v/20230525000241483"/>
-        <updated>2023-05-24T15:17:09.764Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
     </entry>
 </feed>
