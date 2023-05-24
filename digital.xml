@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-05-24T18:19:32.373Z</updated>
+    <updated>2023-05-24T19:13:25.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美의회조사국 "반도체법의 지원, 경쟁국 韓·대만·中에 못미쳐"]]></title>
+        <id>https://v.daum.net/v/20230525040204642</id>
+        <link href="https://v.daum.net/v/20230525040204642"/>
+        <updated>2023-05-24T19:12:56.104Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">04:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[피자와 AI 결합… ‘1인용 피자’로 유니콘 꿈꾼다]]></title>
         <id>https://v.daum.net/v/20230525030508494</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230525011019039"/>
         <updated>2023-05-24T16:20:36.765Z</updated>
         <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">01:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘 오전까지 점검...최대한 해결해 발사 재시도]]></title>
-        <id>https://v.daum.net/v/20230525000908705</id>
-        <link href="https://v.daum.net/v/20230525000908705"/>
-        <updated>2023-05-24T15:16:51.250Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:09</span>]]></content>
     </entry>
 </feed>
