@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-05-25T15:15:51.340Z</updated>
+    <updated>2023-05-25T16:20:31.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[문화·예술, 미식의 기쁨까지…한국 대표 ‘최고 럭셔리 호텔’]]></title>
+        <id>https://v.daum.net/v/20230526010904515</id>
+        <link href="https://v.daum.net/v/20230526010904515"/>
+        <updated>2023-05-25T16:20:21.796Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">01:09</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Cooking&Food] 이색 비주얼에 달콤한 유혹 ‘디저트 전성시대’ MZ세대 마음 사로잡다]]></title>
         <id>https://v.daum.net/v/20230526000735217</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230526000628189</id>
         <link href="https://v.daum.net/v/20230526000628189"/>
         <updated>2023-05-25T15:15:41.638Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[국민의 기업] R&D 인프라 등 차별성 앞세워 이차전지 특화단지 지정에 총력]]></title>
-        <id>https://v.daum.net/v/20230526000625184</id>
-        <link href="https://v.daum.net/v/20230526000625184"/>
-        <updated>2023-05-25T15:15:41.639Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
     </entry>
 </feed>
