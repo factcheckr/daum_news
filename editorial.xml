@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-05-25T13:20:44.104Z</updated>
+    <updated>2023-05-25T14:15:30.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[세컷칼럼] 드라마 ‘아줌마’에서 차정숙까지]]></title>
+        <id>https://v.daum.net/v/20230525230157511</id>
+        <link href="https://v.daum.net/v/20230525230157511"/>
+        <updated>2023-05-25T14:15:10.830Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">23:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[맛의 재탄생, 다시 국경을 넘다  [삶과 문화]]]></title>
         <id>https://v.daum.net/v/20230525220159860</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[만물상] 발길 끊긴 영화관]]></title>
+        <title type="html"><![CDATA[1000만 감독도 100만 성적표... 발길 끊긴 영화관 [만물상]]]></title>
         <id>https://v.daum.net/v/20230525215659743</id>
         <link href="https://v.daum.net/v/20230525215659743"/>
         <updated>2023-05-25T13:20:20.520Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230525200213533"/>
         <updated>2023-05-25T11:13:45.972Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">20:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating global ‘K-liquor’? Think again]]></title>
-        <id>https://v.daum.net/v/20230525200024476</id>
-        <link href="https://v.daum.net/v/20230525200024476"/>
-        <updated>2023-05-25T11:13:45.976Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:00</span>]]></content>
     </entry>
 </feed>
