@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2023-05-25T16:20:31.714Z</updated>
+    <updated>2023-05-25T17:16:08.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[재산공개] 함진규 도공 사장, 재산 총 1억 8905만원... 2020년 대비 4000만원 줄어]]></title>
+        <id>https://v.daum.net/v/20230526014459626</id>
+        <link href="https://v.daum.net/v/20230526014459626"/>
+        <updated>2023-05-25T17:14:37.623Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">01:44</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소부장법 개정안 국회 통과…기업 제삼국 이전 지원근거 마련]]></title>
+        <id>https://v.daum.net/v/20230526013708568</id>
+        <link href="https://v.daum.net/v/20230526013708568"/>
+        <updated>2023-05-25T17:14:37.623Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">01:37</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[산업부, 한국형 통합발전소 모델 개발 나선다]]></title>
         <id>https://v.daum.net/v/20230526010108471</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230526001200243"/>
         <updated>2023-05-25T15:14:38.097Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 행사한다고 “노래 연습해라”…갑질 인정돼도 과태료 5백만원 [창업주 갑질②]]]></title>
-        <id>https://v.daum.net/v/20230526001123239</id>
-        <link href="https://v.daum.net/v/20230526001123239"/>
-        <updated>2023-05-25T15:14:38.128Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">00:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 폭언에 몽둥이까지…대형 인력업체 창업주의 괴롭힘 [창업주 갑질①]]]></title>
-        <id>https://v.daum.net/v/20230526001120238</id>
-        <link href="https://v.daum.net/v/20230526001120238"/>
-        <updated>2023-05-25T15:14:38.128Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">00:11</span>]]></content>
     </entry>
 </feed>
