@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-05-26T12:29:15.859Z</updated>
+    <updated>2023-05-26T13:21:17.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[목포시 시내버스 안정화 '안간힘']]></title>
+        <id>https://v.daum.net/v/20230526213028157</id>
+        <link href="https://v.daum.net/v/20230526213028157"/>
+        <updated>2023-05-26T13:21:08.488Z</updated>
+        <content type="html"><![CDATA[kbc광주방송<span class="txt_bar"> · </span><span class="info_time">21:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] BOE, SID 디스플레이 위크 2003에서 혁신 생태계 포럼 개최]]></title>
         <id>https://v.daum.net/v/20230526203221346</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230526183859460"/>
         <updated>2023-05-26T10:19:05.313Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">18:38</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Standard Chartered Bank rewards new customers]]></title>
-        <id>https://v.daum.net/v/20230526180258797</id>
-        <link href="https://v.daum.net/v/20230526180258797"/>
-        <updated>2023-05-26T09:15:25.991Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">18:02</span>]]></content>
     </entry>
 </feed>
