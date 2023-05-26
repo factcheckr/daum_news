@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-05-26T05:15:25.358Z</updated>
+    <updated>2023-05-26T06:19:56.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[지평선] 코인은 죄가 없나]]></title>
+        <id>https://v.daum.net/v/20230526150208798</id>
+        <link href="https://v.daum.net/v/20230526150208798"/>
+        <updated>2023-05-26T06:19:39.821Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">15:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[데일리안 시사만평] 누리호 이기는 '다누리'호 국회의원…국민 위에서 군림하다]]></title>
+        <id>https://v.daum.net/v/20230526144357147</id>
+        <link href="https://v.daum.net/v/20230526144357147"/>
+        <updated>2023-05-26T06:19:39.823Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">14:43</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설]금속노조 노숙집회 강제 해산… 법치 정상화 후퇴 없어야]]></title>
         <id>https://v.daum.net/v/20230526115116083</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230526110543501"/>
         <updated>2023-05-26T02:35:19.111Z</updated>
         <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">11:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[논단]'적법 거래 통한 기술 유출' 막으려면]]></title>
-        <id>https://v.daum.net/v/20230526104701689</id>
-        <link href="https://v.daum.net/v/20230526104701689"/>
-        <updated>2023-05-26T02:35:19.115Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">10:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[페다고지, 교사, 선생, 스승]]></title>
-        <id>https://v.daum.net/v/20230526102838760</id>
-        <link href="https://v.daum.net/v/20230526102838760"/>
-        <updated>2023-05-26T02:35:19.116Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">10:28</span>]]></content>
     </entry>
 </feed>
