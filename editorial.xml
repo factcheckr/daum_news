@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-05-26T22:15:13.442Z</updated>
+    <updated>2023-05-26T23:15:46.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[文정부땐 “영향 미미하다”더니 이제와 오염수 공포 부추기는 野의 혹세무민 [핫이슈]]]></title>
+        <id>https://v.daum.net/v/20230527074800926</id>
+        <link href="https://v.daum.net/v/20230527074800926"/>
+        <updated>2023-05-26T23:15:25.494Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">07:48</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[검은 원숭이? 정당한 분노는 의무다 [기자수첩-스포츠]]]></title>
         <id>https://v.daum.net/v/20230527070259588</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230527032615264"/>
         <updated>2023-05-26T19:14:55.812Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 빌라 이어 아파트까지, 눈앞에 다가온 최악의 역전세 공포]]></title>
-        <id>https://v.daum.net/v/20230527032558263</id>
-        <link href="https://v.daum.net/v/20230527032558263"/>
-        <updated>2023-05-26T19:14:55.814Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:25</span>]]></content>
     </entry>
 </feed>
