@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-05-26T21:14:14.506Z</updated>
+    <updated>2023-05-26T22:15:13.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[검은 원숭이? 정당한 분노는 의무다 [기자수첩-스포츠]]]></title>
+        <id>https://v.daum.net/v/20230527070259588</id>
+        <link href="https://v.daum.net/v/20230527070259588"/>
+        <updated>2023-05-26T22:14:51.305Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[신세돈의 경제통감] 8개월 연속 수출 감소를 우려하는 이유]]></title>
+        <id>https://v.daum.net/v/20230527070216584</id>
+        <link href="https://v.daum.net/v/20230527070216584"/>
+        <updated>2023-05-26T22:14:51.317Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">07:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['新권위주의' 윤석열 정부, '스핀 독재' 시대가 도래했다]]></title>
         <id>https://v.daum.net/v/20230527055258753</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230527032558263"/>
         <updated>2023-05-26T19:14:55.814Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] ‘김원웅 악몽’에 허물어진 광복회, 뼈대 완전히 갈아 끼워야]]></title>
-        <id>https://v.daum.net/v/20230527032357262</id>
-        <link href="https://v.daum.net/v/20230527032357262"/>
-        <updated>2023-05-26T19:14:55.817Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:23</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박정훈 칼럼] 시대 잘못 읽은 죄, 민주당은 어떻게 몰락하나]]></title>
-        <id>https://v.daum.net/v/20230527032012259</id>
-        <link href="https://v.daum.net/v/20230527032012259"/>
-        <updated>2023-05-26T19:14:55.818Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:20</span>]]></content>
     </entry>
 </feed>
