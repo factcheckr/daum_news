@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/society</id>
     <title>다음 뉴스 ─ 전체기사 ─ 사회</title>
-    <updated>2023-05-26T16:20:05.877Z</updated>
+    <updated>2023-05-26T17:15:13.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['달걀 알레르기' 2세 아이에 달걀죽 먹인 교사…무죄 받은 까닭]]></title>
+        <id>https://v.daum.net/v/20230527015557058</id>
+        <link href="https://v.daum.net/v/20230527015557058"/>
+        <updated>2023-05-26T17:13:27.525Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">01:55</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['데이트 폭력' 조사 직후 동거녀 살해 사건 재구성해보니 [사건인사이드]]]></title>
+        <id>https://v.daum.net/v/20230527011957956</id>
+        <link href="https://v.daum.net/v/20230527011957956"/>
+        <updated>2023-05-26T17:13:27.527Z</updated>
+        <content type="html"><![CDATA[MBN<span class="txt_bar"> · </span><span class="info_time">01:19</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이런 경찰도..."자녀 사건 해결해줬으니" 성관계 요구하고 추행]]></title>
         <id>https://v.daum.net/v/20230527011510947</id>
@@ -20,7 +34,7 @@
         <content type="html"><![CDATA[중앙SUNDAY<span class="txt_bar"> · </span><span class="info_time">01:13</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘반·디·배’ 이어 바이오도 첨단전략기술 지정, 550조+ 투자]]></title>
+        <title type="html"><![CDATA[‘반·디·배’ 이어 바이오도 첨단전략기술 지정, 550조+α 투자]]></title>
         <id>https://v.daum.net/v/20230527011059942</id>
         <link href="https://v.daum.net/v/20230527011059942"/>
         <updated>2023-05-26T16:18:45.651Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230527005259885"/>
         <updated>2023-05-26T16:18:45.691Z</updated>
         <content type="html"><![CDATA[중앙SUNDAY<span class="txt_bar"> · </span><span class="info_time">00:52</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[식당 테라스에서 '노상방뇨'한 건장한 男···여사장은 두려워 말도 못 꺼냈다]]></title>
-        <id>https://v.daum.net/v/20230527005207884</id>
-        <link href="https://v.daum.net/v/20230527005207884"/>
-        <updated>2023-05-26T16:18:45.692Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">00:52</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["취했을 땐 지하철 엘리베이터를"…넘어지면 타인도 피해]]></title>
-        <id>https://v.daum.net/v/20230527005100880</id>
-        <link href="https://v.daum.net/v/20230527005100880"/>
-        <updated>2023-05-26T16:18:45.693Z</updated>
-        <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">00:51</span>]]></content>
     </entry>
 </feed>

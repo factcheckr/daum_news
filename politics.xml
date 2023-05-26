@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2023-05-26T16:20:05.888Z</updated>
+    <updated>2023-05-26T17:15:13.194Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[의원외교는 무산됐지만…韓·中 무역수장 오늘 美서 만난다]]></title>
+        <id>https://v.daum.net/v/20230527012758971</id>
+        <link href="https://v.daum.net/v/20230527012758971"/>
+        <updated>2023-05-26T17:13:39.866Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">01:27</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안민석 “김남국, 곧 돌아올 듯…위메이드 명단 공개 후 목소리 좋아져”]]></title>
         <id>https://v.daum.net/v/20230527011308944</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230527000601687"/>
         <updated>2023-05-26T15:14:26.945Z</updated>
         <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 국민의힘 의원 54명, 2년 전 '후쿠시마 오염수' 반대했다?]]></title>
-        <id>https://v.daum.net/v/20230527000508681</id>
-        <link href="https://v.daum.net/v/20230527000508681"/>
-        <updated>2023-05-26T15:14:26.945Z</updated>
-        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
     </entry>
 </feed>
