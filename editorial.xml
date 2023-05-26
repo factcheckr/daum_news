@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-05-26T09:15:36.297Z</updated>
+    <updated>2023-05-26T10:19:14.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[사설] 보수언론 무리한 ‘일제강제동원시민모임’ 때리기에 맞장구치는 집권여당]]></title>
+        <title type="html"><![CDATA[[기고] 미래 농업과 교육]]></title>
+        <id>https://v.daum.net/v/20230526181751117</id>
+        <link href="https://v.daum.net/v/20230526181751117"/>
+        <updated>2023-05-26T10:18:57.000Z</updated>
+        <content type="html"><![CDATA[농민신문<span class="txt_bar"> · </span><span class="info_time">18:17</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사설] 보수언론 무리한 ‘강제동원시민모임’ 때리기에 맞장구치는 여당]]></title>
         <id>https://v.daum.net/v/20230526181205007</id>
         <link href="https://v.daum.net/v/20230526181205007"/>
         <updated>2023-05-26T09:15:17.843Z</updated>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230526170006256</id>
         <link href="https://v.daum.net/v/20230526170006256"/>
         <updated>2023-05-26T08:19:25.436Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[장은수의 책과 미래] 흔들리는 미국, 과연 부활할까?]]></title>
-        <id>https://v.daum.net/v/20230526170005254</id>
-        <link href="https://v.daum.net/v/20230526170005254"/>
-        <updated>2023-05-26T08:19:25.438Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:00</span>]]></content>
     </entry>
 </feed>
