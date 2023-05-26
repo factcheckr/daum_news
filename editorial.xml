@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-05-26T10:19:14.449Z</updated>
+    <updated>2023-05-26T11:16:26.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사설] 벨라루스에 러 전술핵 첫 배치, 커지는 핵 확산 우려]]></title>
+        <id>https://v.daum.net/v/20230526201600091</id>
+        <link href="https://v.daum.net/v/20230526201600091"/>
+        <updated>2023-05-26T11:16:08.968Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:16</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[여적] ‘한의 민족’이라는 말]]></title>
+        <id>https://v.daum.net/v/20230526201059025</id>
+        <link href="https://v.daum.net/v/20230526201059025"/>
+        <updated>2023-05-26T11:16:08.969Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[시론] 스포츠는 당신들만의 잔치가 아니다]]></title>
+        <id>https://v.daum.net/v/20230526192504248</id>
+        <link href="https://v.daum.net/v/20230526192504248"/>
+        <updated>2023-05-26T11:16:08.971Z</updated>
+        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">19:25</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[기고] 미래 농업과 교육]]></title>
         <id>https://v.daum.net/v/20230526181751117</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230526170206331"/>
         <updated>2023-05-26T08:19:25.431Z</updated>
         <content type="html"><![CDATA[대구MBC<span class="txt_bar"> · </span><span class="info_time">17:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이디]]></title>
-        <id>https://v.daum.net/v/20230526170010268</id>
-        <link href="https://v.daum.net/v/20230526170010268"/>
-        <updated>2023-05-26T08:19:25.433Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박대의의 쉼표]  소중한 것이 뿌옇게 가리지 않도록]]></title>
-        <id>https://v.daum.net/v/20230526170008262</id>
-        <link href="https://v.daum.net/v/20230526170008262"/>
-        <updated>2023-05-26T08:19:25.435Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정지우의 밀레니얼 시각] 러닝머신에서 배운 삶의 법칙]]></title>
-        <id>https://v.daum.net/v/20230526170006256</id>
-        <link href="https://v.daum.net/v/20230526170006256"/>
-        <updated>2023-05-26T08:19:25.436Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:00</span>]]></content>
     </entry>
 </feed>
