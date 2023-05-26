@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-05-26T13:21:17.234Z</updated>
+    <updated>2023-05-26T14:19:23.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가상화폐 비트코인(-0.32%), 아비트럼(+5.05%)]]></title>
+        <id>https://v.daum.net/v/20230526223128967</id>
+        <link href="https://v.daum.net/v/20230526223128967"/>
+        <updated>2023-05-26T14:19:23.028Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">22:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가상화폐 폴리곤 상승세... 전일대비 +4.2%]]></title>
         <id>https://v.daum.net/v/20230526213305196</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230526173658223"/>
         <updated>2023-05-26T09:15:35.674Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2023년 05월 26일)]]></title>
-        <id>https://v.daum.net/v/20230526173323165</id>
-        <link href="https://v.daum.net/v/20230526173323165"/>
-        <updated>2023-05-26T09:15:35.676Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:33</span>]]></content>
     </entry>
 </feed>
