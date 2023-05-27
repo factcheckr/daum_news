@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-05-27T08:18:18.101Z</updated>
+    <updated>2023-05-27T09:16:40.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] CAA Wang Dongling 교수, 'Ink. Space. Time.' 전시 개최]]></title>
+        <id>https://v.daum.net/v/20230527174444113</id>
+        <link href="https://v.daum.net/v/20230527174444113"/>
+        <updated>2023-05-27T09:16:31.643Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:44</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Antaisolar와 Jinko Technology, 글로벌 전략적 협력 개시]]></title>
+        <id>https://v.daum.net/v/20230527174309093</id>
+        <link href="https://v.daum.net/v/20230527174309093"/>
+        <updated>2023-05-27T09:16:31.645Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:43</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] 화웨이, 요타바이트 시대에 스토리지의 진화 방법 제시]]></title>
         <id>https://v.daum.net/v/20230527162909269</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230527120312630"/>
         <updated>2023-05-27T03:16:24.038Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">12:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] 알울라의 Jabal Ikmah, 기록유산으로 인정받아]]></title>
-        <id>https://v.daum.net/v/20230527115908561</id>
-        <link href="https://v.daum.net/v/20230527115908561"/>
-        <updated>2023-05-27T03:16:24.045Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:59</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] Sonata Software, Microsoft Fabric 출시 위해 마이크로소프트와 협업]]></title>
-        <id>https://v.daum.net/v/20230527115508541</id>
-        <link href="https://v.daum.net/v/20230527115508541"/>
-        <updated>2023-05-27T03:16:24.045Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:55</span>]]></content>
     </entry>
 </feed>
