@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-05-27T07:13:59.364Z</updated>
+    <updated>2023-05-27T08:18:18.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[부고] 최진영(코리아헤럴드 대표이사)씨 모친상]]></title>
+        <title type="html"><![CDATA[네이버 커넥트재단, 웹·모바일 8기 교육생 모집]]></title>
+        <id>https://v.daum.net/v/20230527170309612</id>
+        <link href="https://v.daum.net/v/20230527170309612"/>
+        <updated>2023-05-27T08:17:48.819Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">17:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“1만→7천원…이래도 안 봐?” ‘넷플릭스 반값’에도 외면 어쩌나]]></title>
+        <id>https://v.daum.net/v/20230527165308502</id>
+        <link href="https://v.daum.net/v/20230527165308502"/>
+        <updated>2023-05-27T08:17:48.820Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">16:53</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부음] 최진영(코리아헤럴드 대표이사)씨 모친상]]></title>
         <id>https://v.daum.net/v/20230527160708956</id>
         <link href="https://v.daum.net/v/20230527160708956"/>
         <updated>2023-05-27T07:13:30.511Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230527144108082"/>
         <updated>2023-05-27T06:19:34.144Z</updated>
         <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">14:41</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성병균이 왜 여기에?…광합성하는 동물 산호의 비밀 [와우! 과학]]]></title>
-        <id>https://v.daum.net/v/20230527143308988</id>
-        <link href="https://v.daum.net/v/20230527143308988"/>
-        <updated>2023-05-27T06:19:34.144Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">14:33</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차세대소형위성 2호, 영상레이다(SAR) 안테나 펼쳤다]]></title>
-        <id>https://v.daum.net/v/20230527142508884</id>
-        <link href="https://v.daum.net/v/20230527142508884"/>
-        <updated>2023-05-27T06:19:34.144Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">14:25</span>]]></content>
     </entry>
 </feed>
