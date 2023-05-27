@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2023-05-27T18:17:59.848Z</updated>
+    <updated>2023-05-27T19:13:47.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['UFC 파이터' 김동현, 승부욕 대폭발한 이유?]]></title>
+        <id>https://v.daum.net/v/20230528032505195</id>
+        <link href="https://v.daum.net/v/20230528032505195"/>
+        <updated>2023-05-27T19:13:07.070Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">03:25</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가수 영탁, ‘멜론의 전당’ 브론즈클럽 스트리밍수 누적 12억 달성]]></title>
         <id>https://v.daum.net/v/20230528015858127</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230528011852028"/>
         <updated>2023-05-27T17:13:48.074Z</updated>
         <content type="html"><![CDATA[뉴스엔<span class="txt_bar"> · </span><span class="info_time">01:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔믹스 지우, 깨알같은 매력 [포토엔HD]]]></title>
-        <id>https://v.daum.net/v/20230528011759026</id>
-        <link href="https://v.daum.net/v/20230528011759026"/>
-        <updated>2023-05-27T16:18:17.070Z</updated>
-        <content type="html"><![CDATA[뉴스엔<span class="txt_bar"> · </span><span class="info_time">01:17</span>]]></content>
     </entry>
 </feed>
