@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-05-27T06:20:00.100Z</updated>
+    <updated>2023-05-27T07:13:59.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[후쿠시마 오염수 시찰단 놓고 국힘-민주 서로 원색 비난 쏟아내]]></title>
+        <id>https://v.daum.net/v/20230527160908989</id>
+        <link href="https://v.daum.net/v/20230527160908989"/>
+        <updated>2023-05-27T07:13:41.090Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">16:09</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부고] 유철현(BGF리테일 홍보팀 책임)씨 부친상]]></title>
         <id>https://v.daum.net/v/20230527123858897</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230527070216584"/>
         <updated>2023-05-26T22:14:51.317Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">07:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['新권위주의' 윤석열 정부, '스핀 독재' 시대가 도래했다]]></title>
-        <id>https://v.daum.net/v/20230527055258753</id>
-        <link href="https://v.daum.net/v/20230527055258753"/>
-        <updated>2023-05-26T21:13:53.726Z</updated>
-        <content type="html"><![CDATA[프레시안<span class="txt_bar"> · </span><span class="info_time">05:52</span>]]></content>
     </entry>
 </feed>
