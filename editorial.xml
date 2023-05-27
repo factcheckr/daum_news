@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-05-27T09:16:40.057Z</updated>
+    <updated>2023-05-27T10:15:14.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['주어지는' 가족이 아니라 '구성하는' 가족이 필요하다]]></title>
+        <id>https://v.daum.net/v/20230527185552644</id>
+        <link href="https://v.daum.net/v/20230527185552644"/>
+        <updated>2023-05-27T10:14:56.287Z</updated>
+        <content type="html"><![CDATA[프레시안<span class="txt_bar"> · </span><span class="info_time">18:55</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인니-아르헨티나전 성사가 반가운 신태용 감독, "인니 회장님 감사합니다"]]></title>
         <id>https://v.daum.net/v/20230527175908246</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230527074800926"/>
         <updated>2023-05-26T23:15:25.494Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">07:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[검은 원숭이? 정당한 분노는 의무다 [기자수첩-스포츠]]]></title>
-        <id>https://v.daum.net/v/20230527070259588</id>
-        <link href="https://v.daum.net/v/20230527070259588"/>
-        <updated>2023-05-26T22:14:51.305Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:02</span>]]></content>
     </entry>
 </feed>
