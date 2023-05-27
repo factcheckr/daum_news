@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-05-27T12:29:13.838Z</updated>
+    <updated>2023-05-27T13:16:57.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[도요샛 4호기 신호 확인…도요샛 3호기, 큐브위성 교신 시도]]></title>
+        <id>https://v.daum.net/v/20230527220101012</id>
+        <link href="https://v.daum.net/v/20230527220101012"/>
+        <updated>2023-05-27T13:16:29.336Z</updated>
+        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“눈썹까지 사슴벌레 뿔?” 곤충에 미친 괴짜 사장님]]></title>
         <id>https://v.daum.net/v/20230527195134065</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230527160004864"/>
         <updated>2023-05-27T07:13:30.514Z</updated>
         <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">16:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NC문화재단, 청소년 창의활동 공간 ‘프로젝토리’ 운영]]></title>
-        <id>https://v.daum.net/v/20230527155508810</id>
-        <link href="https://v.daum.net/v/20230527155508810"/>
-        <updated>2023-05-27T07:13:30.516Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">15:55</span>]]></content>
     </entry>
 </feed>
