@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2023-05-28T16:18:28.893Z</updated>
+    <updated>2023-05-28T17:13:29.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전국 휘발유 가격 1601.19원…경유와 격차 더 커져]]></title>
+        <id>https://v.daum.net/v/20230529014502642</id>
+        <link href="https://v.daum.net/v/20230529014502642"/>
+        <updated>2023-05-28T17:12:13.048Z</updated>
+        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">01:45</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["아이폰만 가능해요"…'챗GPT 앱' 이제 한국서도 쓸 수 있다]]></title>
+        <id>https://v.daum.net/v/20230529014259630</id>
+        <link href="https://v.daum.net/v/20230529014259630"/>
+        <updated>2023-05-28T17:12:13.053Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">01:42</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한은 금융안정 강조…"기준금리 인상 제약 요인"]]></title>
         <id>https://v.daum.net/v/20230529000407194</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230529000200150"/>
         <updated>2023-05-28T15:14:30.396Z</updated>
         <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대환대출 플랫폼 출격 D-2…빅테크 3사 경쟁 '불꽃']]></title>
-        <id>https://v.daum.net/v/20230529000157146</id>
-        <link href="https://v.daum.net/v/20230529000157146"/>
-        <updated>2023-05-28T15:14:30.397Z</updated>
-        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[알림] 연합뉴스 콘텐츠 저작권 고지]]></title>
-        <id>https://v.daum.net/v/20230529000003113</id>
-        <link href="https://v.daum.net/v/20230529000003113"/>
-        <updated>2023-05-28T15:14:30.398Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>

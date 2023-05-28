@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2023-05-28T16:18:28.915Z</updated>
+    <updated>2023-05-28T17:13:29.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[순천향대 부천병원 심장혈관흉부외과·심장내과, 중증심장질환 환자 성공적으로 치료]]></title>
+        <id>https://v.daum.net/v/20230529013259571</id>
+        <link href="https://v.daum.net/v/20230529013259571"/>
+        <updated>2023-05-28T17:12:33.298Z</updated>
+        <content type="html"><![CDATA[스포츠경향<span class="txt_bar"> · </span><span class="info_time">01:32</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[순천향대 부천병원 문종호 교수팀, 담도암 조기 진단 위해 ‘협대역 내시경 기술 적용한 담도내시경 분류법’ 세계 최초 개발]]></title>
+        <id>https://v.daum.net/v/20230529012358539</id>
+        <link href="https://v.daum.net/v/20230529012358539"/>
+        <updated>2023-05-28T17:12:33.298Z</updated>
+        <content type="html"><![CDATA[스포츠경향<span class="txt_bar"> · </span><span class="info_time">01:23</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오늘의 운세] 5월 29일 월요일 (음력 4월 10일 /丁亥) 띠별 / 생년월일 운세]]></title>
         <id>https://v.daum.net/v/20230529010110480</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230529000509214"/>
         <updated>2023-05-28T15:14:48.060Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 운세] 5월 29일]]></title>
-        <id>https://v.daum.net/v/20230529000425206</id>
-        <link href="https://v.daum.net/v/20230529000425206"/>
-        <updated>2023-05-28T15:14:48.061Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 날씨] 5월 29일]]></title>
-        <id>https://v.daum.net/v/20230529000421203</id>
-        <link href="https://v.daum.net/v/20230529000421203"/>
-        <updated>2023-05-28T15:14:48.062Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
     </entry>
 </feed>
