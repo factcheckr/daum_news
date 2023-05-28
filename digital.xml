@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-05-28T02:43:42.150Z</updated>
+    <updated>2023-05-28T03:18:04.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[글로벌 바이오워치]FDA, 성인용 먹는 코로나 치료제 첫 승인]]></title>
+        <id>https://v.daum.net/v/20230528120003570</id>
+        <link href="https://v.daum.net/v/20230528120003570"/>
+        <updated>2023-05-28T03:17:40.087Z</updated>
+        <content type="html"><![CDATA[비즈워치<span class="txt_bar"> · </span><span class="info_time">12:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[닌텐도, 밸브에 '스팀 에뮬레이터' 게시 중단 통지]]></title>
         <id>https://v.daum.net/v/20230528114207378</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230528102211149"/>
         <updated>2023-05-28T02:43:15.054Z</updated>
         <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">10:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“전지현 얼마나 비싼대?” 모텔 대실 신화 야놀자 100억 베팅 화제]]></title>
-        <id>https://v.daum.net/v/20230528101007973</id>
-        <link href="https://v.daum.net/v/20230528101007973"/>
-        <updated>2023-05-28T02:43:15.056Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">10:10</span>]]></content>
     </entry>
 </feed>
