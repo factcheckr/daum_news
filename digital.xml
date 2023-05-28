@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-05-28T11:13:56.957Z</updated>
+    <updated>2023-05-28T12:30:07.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[LG, 청년 AI 전문가 공개 모집...‘최고 강연 무료 수강’]]></title>
+        <id>https://v.daum.net/v/20230528212708293</id>
+        <link href="https://v.daum.net/v/20230528212708293"/>
+        <updated>2023-05-28T12:29:39.199Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">21:27</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“제발 저희 회사로 와주세요”...몸값 더 뛰었다는 ‘경력’ 개발자]]></title>
+        <id>https://v.daum.net/v/20230528210900103</id>
+        <link href="https://v.daum.net/v/20230528210900103"/>
+        <updated>2023-05-28T12:29:39.200Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">21:09</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어디 있니···도요샛 3호기 ‘다솔’, 누리호서 못 내렸나]]></title>
+        <id>https://v.daum.net/v/20230528205902993</id>
+        <link href="https://v.daum.net/v/20230528205902993"/>
+        <updated>2023-05-28T12:29:39.203Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:59</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오픈AI, 한국도 챗GPT 아이폰용 무료 앱 출시]]></title>
+        <id>https://v.daum.net/v/20230528204449883</id>
+        <link href="https://v.daum.net/v/20230528204449883"/>
+        <updated>2023-05-28T12:29:39.203Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">20:44</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["통화·카톡 후 사라지는 업무내용, AI 데이터로 활용했죠" [fn 이사람]]]></title>
         <id>https://v.daum.net/v/20230528194854369</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230528182410435"/>
         <updated>2023-05-28T10:16:31.819Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">18:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위성 도요샛 3호기 교신 아직... 연락 두절된 '다솔' 어디 있나]]></title>
-        <id>https://v.daum.net/v/20230528182409432</id>
-        <link href="https://v.daum.net/v/20230528182409432"/>
-        <updated>2023-05-28T10:16:31.821Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">18:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["AI 그림은 도둑질" vs "시대의 흐름"]]></title>
-        <id>https://v.daum.net/v/20230528182408431</id>
-        <link href="https://v.daum.net/v/20230528182408431"/>
-        <updated>2023-05-28T10:16:31.822Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">18:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[함기호 AWS코리아 대표 "아마존 DX파트너 한국 기업서 찾겠다"]]></title>
-        <id>https://v.daum.net/v/20230528180507238</id>
-        <link href="https://v.daum.net/v/20230528180507238"/>
-        <updated>2023-05-28T09:17:31.266Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">18:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구성철 유선사업담당 "LGU+, 양자보안 기술로 해킹 차단"]]></title>
-        <id>https://v.daum.net/v/20230528180500236</id>
-        <link href="https://v.daum.net/v/20230528180500236"/>
-        <updated>2023-05-28T09:17:31.271Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">18:05</span>]]></content>
     </entry>
 </feed>
