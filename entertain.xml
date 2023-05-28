@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2023-05-28T17:13:29.325Z</updated>
+    <updated>2023-05-28T18:18:05.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘의 채널A]출처 불명 문자에 발칵 뒤집힌 네 친구]]></title>
+        <id>https://v.daum.net/v/20230529030238909</id>
+        <link href="https://v.daum.net/v/20230529030238909"/>
+        <updated>2023-05-28T18:17:24.877Z</updated>
+        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">03:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[샤이니, "여러분과 함께 한 15년, 매일이 빛났다" 15주년 팬미팅 성료 [스한:현장](종합)]]></title>
+        <id>https://v.daum.net/v/20230529030157864</id>
+        <link href="https://v.daum.net/v/20230529030157864"/>
+        <updated>2023-05-28T18:17:24.878Z</updated>
+        <content type="html"><![CDATA[스포츠한국<span class="txt_bar"> · </span><span class="info_time">03:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['범죄도시 3' 마동석, 하트장인 '마블리']]></title>
         <id>https://v.daum.net/v/20230529014002611</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230529010158484"/>
         <updated>2023-05-28T16:17:49.246Z</updated>
         <content type="html"><![CDATA[뉴스엔<span class="txt_bar"> · </span><span class="info_time">01:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정동원, 파워총동원 [포토엔HD]]]></title>
-        <id>https://v.daum.net/v/20230529010059479</id>
-        <link href="https://v.daum.net/v/20230529010059479"/>
-        <updated>2023-05-28T16:17:49.247Z</updated>
-        <content type="html"><![CDATA[뉴스엔<span class="txt_bar"> · </span><span class="info_time">01:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성리-강혜연, 두근거림 [포토엔HD]]]></title>
-        <id>https://v.daum.net/v/20230529005857469</id>
-        <link href="https://v.daum.net/v/20230529005857469"/>
-        <updated>2023-05-28T16:17:49.247Z</updated>
-        <content type="html"><![CDATA[뉴스엔<span class="txt_bar"> · </span><span class="info_time">00:58</span>]]></content>
     </entry>
 </feed>
