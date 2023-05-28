@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-05-28T22:14:38.338Z</updated>
+    <updated>2023-05-28T23:15:30.732Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안산인재육성재단, 563명에 장학증서 수여]]></title>
+        <id>https://v.daum.net/v/20230529072458623</id>
+        <link href="https://v.daum.net/v/20230529072458623"/>
+        <updated>2023-05-28T23:15:22.348Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:24</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[광주시, 어린이놀이시설 등 토양오염 실태조사 실시]]></title>
         <id>https://v.daum.net/v/20230529060210909</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230529000510215</id>
         <link href="https://v.daum.net/v/20230529000510215"/>
         <updated>2023-05-28T15:15:33.688Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[건강한 가족] “미래 의료 이끄는 삼성서울병원, 디지털 헬스 분야 전 세계 표준 될 것”]]></title>
-        <id>https://v.daum.net/v/20230529000508212</id>
-        <link href="https://v.daum.net/v/20230529000508212"/>
-        <updated>2023-05-28T15:15:33.690Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
     </entry>
 </feed>
