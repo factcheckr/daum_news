@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-05-28T12:30:07.815Z</updated>
+    <updated>2023-05-28T13:16:36.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] CGTN "중국·민주콩고, 포괄적이고 심층적인 성장 모색]]></title>
+        <id>https://v.daum.net/v/20230528215407486</id>
+        <link href="https://v.daum.net/v/20230528215407486"/>
+        <updated>2023-05-28T13:16:28.441Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">21:54</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] BOE, 혁신적인 AMQLED 기술 개발]]></title>
+        <id>https://v.daum.net/v/20230528215108468</id>
+        <link href="https://v.daum.net/v/20230528215108468"/>
+        <updated>2023-05-28T13:16:28.446Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">21:51</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한경대 '2023 경기도 평생배움대학' 수강생 모집]]></title>
         <id>https://v.daum.net/v/20230528174758023</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230528102108126"/>
         <updated>2023-05-28T02:43:32.270Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">10:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[속보] 병원마다 '콜록콜록'…마스크 해제 영향(?) ‘역대급’ 봄 독감 유행]]></title>
-        <id>https://v.daum.net/v/20230528100708934</id>
-        <link href="https://v.daum.net/v/20230528100708934"/>
-        <updated>2023-05-28T02:43:32.271Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">10:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주광덕 남양주시장, 김동연 경기도지사와 함께 봉선사 봉축 법요식 참석]]></title>
-        <id>https://v.daum.net/v/20230528000459777</id>
-        <link href="https://v.daum.net/v/20230528000459777"/>
-        <updated>2023-05-27T15:15:04.369Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
     </entry>
 </feed>
