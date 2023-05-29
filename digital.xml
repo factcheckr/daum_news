@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-05-29T11:17:42.899Z</updated>
+    <updated>2023-05-29T12:29:26.587Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AI로 폭발한 GPU 수요 "美 코로나 때 화장지만큼 구하기 힘들어"]]></title>
+        <id>https://v.daum.net/v/20230529212009161</id>
+        <link href="https://v.daum.net/v/20230529212009161"/>
+        <updated>2023-05-29T12:28:56.344Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">21:20</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국형 ‘중이온 가속기’ 시운전 성공…신약 개발 등 전천후 활용]]></title>
+        <id>https://v.daum.net/v/20230529210357044</id>
+        <link href="https://v.daum.net/v/20230529210357044"/>
+        <updated>2023-05-29T12:28:56.348Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">21:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빅테크 감원 칼바람… AWS코리아도 권고사직]]></title>
+        <id>https://v.daum.net/v/20230529205957984</id>
+        <link href="https://v.daum.net/v/20230529205957984"/>
+        <updated>2023-05-29T12:28:56.348Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">20:59</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[차세대 소형 위성 2호 임무 채비…소형 위성 2기 '미확인']]></title>
+        <id>https://v.daum.net/v/20230529201859669</id>
+        <link href="https://v.daum.net/v/20230529201859669"/>
+        <updated>2023-05-29T12:28:56.349Z</updated>
+        <content type="html"><![CDATA[EBS<span class="txt_bar"> · </span><span class="info_time">20:18</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LG유플러스, 놀면서 하는 워크샵 공간 U+토피아, 업무성과 ‘UP’]]></title>
         <id>https://v.daum.net/v/20230529201303617</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230529184605833"/>
         <updated>2023-05-29T10:16:46.560Z</updated>
         <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">18:46</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[모십니다] 한경·INF컨설팅 산업플랫폼 혁신포럼]]></title>
-        <id>https://v.daum.net/v/20230529184102777</id>
-        <link href="https://v.daum.net/v/20230529184102777"/>
-        <updated>2023-05-29T10:16:46.560Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">18:41</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우주 경제 시대 주도하는 '스페이스X와 일곱 난쟁이']]></title>
-        <id>https://v.daum.net/v/20230529183803754</id>
-        <link href="https://v.daum.net/v/20230529183803754"/>
-        <updated>2023-05-29T10:16:46.565Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">18:38</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[휴대용 게임 PC '스팀 덱' 일렉트로마트서 판매]]></title>
-        <id>https://v.daum.net/v/20230529183547739</id>
-        <link href="https://v.daum.net/v/20230529183547739"/>
-        <updated>2023-05-29T10:16:46.566Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">18:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LGU+ 개방형 무선접속망 생태계 조성 속도]]></title>
-        <id>https://v.daum.net/v/20230529183540737</id>
-        <link href="https://v.daum.net/v/20230529183540737"/>
-        <updated>2023-05-29T10:16:46.566Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">18:35</span>]]></content>
     </entry>
 </feed>
