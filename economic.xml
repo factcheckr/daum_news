@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2023-05-29T15:16:30.796Z</updated>
+    <updated>2023-05-29T16:19:55.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“배터리·양극재 6종목 오를 것”…3가지 포인트]]></title>
+        <id>https://v.daum.net/v/20230530001708435</id>
+        <link href="https://v.daum.net/v/20230530001708435"/>
+        <updated>2023-05-29T16:18:43.275Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">00:17</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[view] 작년 쏟아진 감세법 때문에…재정부담 5년간 92조 늘었다]]></title>
         <id>https://v.daum.net/v/20230530001359425</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230530000426258</id>
         <link href="https://v.daum.net/v/20230530000426258"/>
         <updated>2023-05-29T15:15:21.596Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Biz & Now] 한국형 중이온 가속기 ‘라온’ 시운전 성공…내년 하반기 운영]]></title>
-        <id>https://v.daum.net/v/20230530000423256</id>
-        <link href="https://v.daum.net/v/20230530000423256"/>
-        <updated>2023-05-29T15:15:21.598Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
     </entry>
 </feed>
