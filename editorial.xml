@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-05-29T02:39:02.011Z</updated>
+    <updated>2023-05-29T03:18:45.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[김옥조 칼럼]지도자의 덕목]]></title>
+        <id>https://v.daum.net/v/20230529120102726</id>
+        <link href="https://v.daum.net/v/20230529120102726"/>
+        <updated>2023-05-29T03:18:26.519Z</updated>
+        <content type="html"><![CDATA[kbc광주방송<span class="txt_bar"> · </span><span class="info_time">12:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지난 5년 메이저 제약사 최고 성장세, 휴온스 비결[류성의 제약국부론]]]></title>
         <id>https://v.daum.net/v/20230529103007128</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230529050411532</id>
         <link href="https://v.daum.net/v/20230529050411532"/>
         <updated>2023-05-28T20:15:13.507Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 얼렁뚱땅 만든 ‘김남국 방지법’ 제대로 보완하라]]></title>
-        <id>https://v.daum.net/v/20230529050409531</id>
-        <link href="https://v.daum.net/v/20230529050409531"/>
-        <updated>2023-05-28T20:15:13.508Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:04</span>]]></content>
     </entry>
 </feed>
