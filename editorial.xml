@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-05-30T05:15:02.153Z</updated>
+    <updated>2023-05-30T06:19:48.729Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[저출생 책임을 비혼 여성에게만 묻는 무책임함[플랫]]]></title>
+        <id>https://v.daum.net/v/20230530151158345</id>
+        <link href="https://v.daum.net/v/20230530151158345"/>
+        <updated>2023-05-30T06:19:29.194Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">15:11</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팀장 칼럼] 김남국 코인이 증권이었다면]]></title>
+        <id>https://v.daum.net/v/20230530144958052</id>
+        <link href="https://v.daum.net/v/20230530144958052"/>
+        <updated>2023-05-30T06:19:29.195Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:49</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인사] 공정거래위원회]]></title>
         <id>https://v.daum.net/v/20230530141201372</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230530113934226"/>
         <updated>2023-05-30T02:40:47.375Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스와 시각]퇴출 시급한 의원 부적격자]]></title>
-        <id>https://v.daum.net/v/20230530113932225</id>
-        <link href="https://v.daum.net/v/20230530113932225"/>
-        <updated>2023-05-30T02:40:47.375Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오후여담]비주류의 기적 ‘엔비디아’]]></title>
-        <id>https://v.daum.net/v/20230530113608103</id>
-        <link href="https://v.daum.net/v/20230530113608103"/>
-        <updated>2023-05-30T02:40:47.375Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:36</span>]]></content>
     </entry>
 </feed>
