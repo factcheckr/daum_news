@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-05-31T09:32:53.917Z</updated>
+    <updated>2023-05-31T10:21:25.905Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[용인 신갈동 신흥덕 롯데캐슬레이시티 59㎡ 4억8500만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230531183800289</id>
+        <link href="https://v.daum.net/v/20230531183800289"/>
+        <updated>2023-05-31T10:21:25.099Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:38</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인천 구월동 구월 힐스테이트&롯데캐슬골드 115㎡ 5억8000만원에 거래]]></title>
         <id>https://v.daum.net/v/20230531183115124</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230531173044341"/>
         <updated>2023-05-31T09:32:53.276Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 송도동 롯데캐슬캠퍼스타운아파트 101㎡ 8억3000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230531172543141</id>
-        <link href="https://v.daum.net/v/20230531172543141"/>
-        <updated>2023-05-31T09:32:53.278Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:25</span>]]></content>
     </entry>
 </feed>
