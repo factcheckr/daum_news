@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-05-31T12:33:32.789Z</updated>
+    <updated>2023-05-31T13:21:28.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사주·MBTI 말고 나를 아는 법 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20230531220258805</id>
+        <link href="https://v.daum.net/v/20230531220258805"/>
+        <updated>2023-05-31T13:21:07.849Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美 대학진학률 ‘뚝’… “일자리 많은데 뭐 하러 가?”[횡설수설/이정은]]]></title>
         <id>https://v.daum.net/v/20230531213010336</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230531201213839"/>
         <updated>2023-05-31T11:15:35.473Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Upgrading public diplomacy to the next level]]></title>
-        <id>https://v.daum.net/v/20230531200953767</id>
-        <link href="https://v.daum.net/v/20230531200953767"/>
-        <updated>2023-05-31T11:15:35.477Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:09</span>]]></content>
     </entry>
 </feed>
