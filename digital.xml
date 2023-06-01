@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-06-01T19:13:57.756Z</updated>
+    <updated>2023-06-01T20:17:21.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남은 건 카카오 94% 독식…타다 합법까지 4년, 혁신 망가졌다 [팩플]]]></title>
+        <id>https://v.daum.net/v/20230602050214870</id>
+        <link href="https://v.daum.net/v/20230602050214870"/>
+        <updated>2023-06-01T20:16:49.123Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">05:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“자꾸 이러면 페북서 뉴스 뺀다"... 테크 본진은 ‘뉴스 유료화’ 전쟁중]]></title>
+        <id>https://v.daum.net/v/20230602043314713</id>
+        <link href="https://v.daum.net/v/20230602043314713"/>
+        <updated>2023-06-01T20:16:49.123Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:33</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[메타, 애플에 '견제구'...차세대 헤드셋 공개]]></title>
+        <id>https://v.daum.net/v/20230602043000687</id>
+        <link href="https://v.daum.net/v/20230602043000687"/>
+        <updated>2023-06-01T20:16:49.124Z</updated>
+        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["디아블로4 솔로보다 파티가 훨씬 유리하다"]]></title>
         <id>https://v.daum.net/v/20230602041008629</id>
@@ -88,12 +109,5 @@
         <link href="https://v.daum.net/v/20230602000500682"/>
         <updated>2023-06-01T15:17:23.921Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팝스타 할시와 방탄소년단 슈가의 만남, 디아블로4 테마곡 '릴리트' 함께 작업]]></title>
-        <id>https://v.daum.net/v/20230602000409652</id>
-        <link href="https://v.daum.net/v/20230602000409652"/>
-        <updated>2023-06-01T15:17:23.923Z</updated>
-        <content type="html"><![CDATA[OSEN<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
     </entry>
 </feed>
