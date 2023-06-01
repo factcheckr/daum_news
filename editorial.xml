@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-06-01T04:23:49.668Z</updated>
+    <updated>2023-06-01T05:15:43.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인사] IBK투자증권]]></title>
+        <id>https://v.daum.net/v/20230601135703181</id>
+        <link href="https://v.daum.net/v/20230601135703181"/>
+        <updated>2023-06-01T05:15:23.870Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">13:57</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[초동시각]논란만 키운 키움증권의 CFD사태 대응]]></title>
+        <id>https://v.daum.net/v/20230601135000976</id>
+        <link href="https://v.daum.net/v/20230601135000976"/>
+        <updated>2023-06-01T05:15:23.883Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">13:50</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아시아르포]속도 내지만 갈길 먼 인니의 新수도 프로젝트]]></title>
         <id>https://v.daum.net/v/20230601131308027</id>
@@ -13,7 +27,7 @@
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">13:13</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[밀회 즐긴 아내…파렴치한 니코틴 살인사건의 전말[법의학 생활]]]></title>
+        <title type="html"><![CDATA[해외서 만난 男과 밀회 즐긴 아내…니코틴 살인사건의 전말[법의학 생활]]]></title>
         <id>https://v.daum.net/v/20230601130524848</id>
         <link href="https://v.daum.net/v/20230601130524848"/>
         <updated>2023-06-01T04:23:30.987Z</updated>
@@ -27,7 +41,7 @@
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">13:02</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘유기농데이’, 친환경농업 가치 확산 마중물 됐으면]]></title>
+        <title type="html"><![CDATA[6월2일 ‘유기농데이’, 친환경농업 가치 확산 마중물 됐으면]]></title>
         <id>https://v.daum.net/v/20230601125245493</id>
         <link href="https://v.daum.net/v/20230601125245493"/>
         <updated>2023-06-01T04:23:30.998Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230601112910956"/>
         <updated>2023-06-01T04:23:31.007Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:29</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 무역적자 15개월째...중국 의존 줄이고 새 판 짤 때]]></title>
-        <id>https://v.daum.net/v/20230601112755858</id>
-        <link href="https://v.daum.net/v/20230601112755858"/>
-        <updated>2023-06-01T04:23:31.008Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[헤럴드비즈] 유럽국가들의 노동개혁 시사점]]></title>
-        <id>https://v.daum.net/v/20230601112615788</id>
-        <link href="https://v.daum.net/v/20230601112615788"/>
-        <updated>2023-06-01T04:23:31.009Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:26</span>]]></content>
     </entry>
 </feed>
