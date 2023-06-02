@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-06-02T09:15:33.684Z</updated>
+    <updated>2023-06-02T10:17:35.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘로켓맨’ 7년 만의 귀환]]></title>
+        <id>https://v.daum.net/v/20230602190505912</id>
+        <link href="https://v.daum.net/v/20230602190505912"/>
+        <updated>2023-06-02T10:17:07.455Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사설] 무리한 표적감사 판명된 감사원, 이성을 찾길 바란다]]></title>
+        <id>https://v.daum.net/v/20230602185007660</id>
+        <link href="https://v.daum.net/v/20230602185007660"/>
+        <updated>2023-06-02T10:17:07.459Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">18:50</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘푸른태평양대륙’에서 펼쳐질 한국의 인태전략]]></title>
+        <id>https://v.daum.net/v/20230602183010384</id>
+        <link href="https://v.daum.net/v/20230602183010384"/>
+        <updated>2023-06-02T10:17:07.460Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">18:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] ‘수사 편의’와 ‘기본권 보호’ 균형 위해 압수수색 제도 정비해야]]></title>
         <id>https://v.daum.net/v/20230602181002029</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230602170605432"/>
         <updated>2023-06-02T08:20:13.162Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김세완의 주말경제산책] 펀드 매니저님 죄송합니다!]]></title>
-        <id>https://v.daum.net/v/20230602170600429</id>
-        <link href="https://v.daum.net/v/20230602170600429"/>
-        <updated>2023-06-02T08:20:13.163Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['민간단체' 보조금 횡령 의혹, 언론은 왜 '시민단체'로 싸잡아 비난할까]]></title>
-        <id>https://v.daum.net/v/20230602170507414</id>
-        <link href="https://v.daum.net/v/20230602170507414"/>
-        <updated>2023-06-02T08:20:13.165Z</updated>
-        <content type="html"><![CDATA[미디어오늘<span class="txt_bar"> · </span><span class="info_time">17:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[의대 정원을 300명 늘릴 때 생기는 일 [메아리]]]></title>
-        <id>https://v.daum.net/v/20230602170208235</id>
-        <link href="https://v.daum.net/v/20230602170208235"/>
-        <updated>2023-06-02T08:20:13.166Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">17:02</span>]]></content>
     </entry>
 </feed>
