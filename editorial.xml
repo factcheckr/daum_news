@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-06-02T22:16:31.661Z</updated>
+    <updated>2023-06-02T23:18:14.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박진영의 사회심리학] 마음에도 굳은살이 생긴다]]></title>
+        <id>https://v.daum.net/v/20230603080232945</id>
+        <link href="https://v.daum.net/v/20230603080232945"/>
+        <updated>2023-06-02T23:17:56.567Z</updated>
+        <content type="html"><![CDATA[동아사이언스<span class="txt_bar"> · </span><span class="info_time">08:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[더 한장] 전쟁이 일상이 된 도시의 시민들]]></title>
         <id>https://v.daum.net/v/20230603070158405</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230603040411328"/>
         <updated>2023-06-02T19:13:06.685Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 감사 거부한 선관위, 개혁 의지 의심스럽다]]></title>
-        <id>https://v.daum.net/v/20230603040212323</id>
-        <link href="https://v.daum.net/v/20230603040212323"/>
-        <updated>2023-06-02T19:13:06.686Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:02</span>]]></content>
     </entry>
 </feed>
