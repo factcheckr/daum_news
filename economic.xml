@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2023-06-02T16:19:53.152Z</updated>
+    <updated>2023-06-02T17:14:37.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[현장르포] 팝업스토어의 성지, 성수동에 가다]]></title>
+        <id>https://v.daum.net/v/20230603014413020</id>
+        <link href="https://v.daum.net/v/20230603014413020"/>
+        <updated>2023-06-02T17:13:15.916Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">01:44</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에너지공단, 드론 활용한 발전소 안전검사 보급 확대 모색]]></title>
         <id>https://v.daum.net/v/20230603010708939</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230603000026573</id>
         <link href="https://v.daum.net/v/20230603000026573"/>
         <updated>2023-06-02T15:14:54.014Z</updated>
-        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[엔터Biz] '날마다 경신' JYP, 뜨거웠던 5월 엔터주…6월은 YG?]]></title>
-        <id>https://v.daum.net/v/20230603000015571</id>
-        <link href="https://v.daum.net/v/20230603000015571"/>
-        <updated>2023-06-02T15:14:54.017Z</updated>
         <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
