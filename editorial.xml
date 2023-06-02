@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-06-02T08:20:41.554Z</updated>
+    <updated>2023-06-02T09:15:33.684Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사설] ‘수사 편의’와 ‘기본권 보호’ 균형 위해 압수수색 제도 정비해야]]></title>
+        <id>https://v.daum.net/v/20230602181002029</id>
+        <link href="https://v.daum.net/v/20230602181002029"/>
+        <updated>2023-06-02T09:15:12.476Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">18:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[허연의 책과 지성] "장벽은 중국의 나약함을 보여주는 증거다"]]></title>
+        <id>https://v.daum.net/v/20230602180900010</id>
+        <link href="https://v.daum.net/v/20230602180900010"/>
+        <updated>2023-06-02T09:15:12.476Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">18:09</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[동십자각] CFD와 한탕주의]]></title>
+        <id>https://v.daum.net/v/20230602180116819</id>
+        <link href="https://v.daum.net/v/20230602180116819"/>
+        <updated>2023-06-02T09:15:12.477Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">18:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필동정담] 빌리 그레이엄]]></title>
         <id>https://v.daum.net/v/20230602171507692</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230602170208235"/>
         <updated>2023-06-02T08:20:13.166Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">17:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[매경춘추] 진정성 있는 고객만족]]></title>
-        <id>https://v.daum.net/v/20230602165700049</id>
-        <link href="https://v.daum.net/v/20230602165700049"/>
-        <updated>2023-06-02T08:20:13.168Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">16:57</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부고] 진현수(부국증권 PS센터장)씨 모친상]]></title>
-        <id>https://v.daum.net/v/20230602164959866</id>
-        <link href="https://v.daum.net/v/20230602164959866"/>
-        <updated>2023-06-02T08:20:13.170Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">16:49</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[돌발영상] 야만의 시대]]></title>
-        <id>https://v.daum.net/v/20230602161317924</id>
-        <link href="https://v.daum.net/v/20230602161317924"/>
-        <updated>2023-06-02T07:14:45.582Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">16:13</span>]]></content>
     </entry>
 </feed>
