@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-06-03T08:22:24.749Z</updated>
+    <updated>2023-06-03T09:14:59.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2023년 06월 03일)]]></title>
+        <id>https://v.daum.net/v/20230603173108423</id>
+        <link href="https://v.daum.net/v/20230603173108423"/>
+        <updated>2023-06-03T09:14:58.849Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:31</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[용인 하갈동 청명호수마을신안인스빌1,2단지 84㎡ 3억8000만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230603172532368</id>
+        <link href="https://v.daum.net/v/20230603172532368"/>
+        <updated>2023-06-03T09:14:58.854Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:25</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수원 정자동 정자동신1차 56㎡ 2억5500만원에 거래]]></title>
         <id>https://v.daum.net/v/20230603172033330</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230603162047820"/>
         <updated>2023-06-03T08:22:23.916Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">16:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성남 정자동 정자한솔마을주공5차 41㎡ 5억8000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230603161658791</id>
-        <link href="https://v.daum.net/v/20230603161658791"/>
-        <updated>2023-06-03T07:17:50.003Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">16:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용인 영덕동 용인기흥 효성해링턴플레이스아파트 73㎡ 5억원에 거래]]></title>
-        <id>https://v.daum.net/v/20230603161158725</id>
-        <link href="https://v.daum.net/v/20230603161158725"/>
-        <updated>2023-06-03T07:17:50.005Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">16:11</span>]]></content>
     </entry>
 </feed>
