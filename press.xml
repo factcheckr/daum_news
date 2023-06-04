@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-06-04T04:19:01.092Z</updated>
+    <updated>2023-06-04T05:16:59.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안랩, 기업지배구조보고서 자율 공개로 투명 경영 강화]]></title>
+        <id>https://v.daum.net/v/20230604132857805</id>
+        <link href="https://v.daum.net/v/20230604132857805"/>
+        <updated>2023-06-04T05:16:44.118Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">13:28</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노관규 순천시장 "여름 정원은 완성도와의 싸움"]]></title>
         <id>https://v.daum.net/v/20230604111531896</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230604094703424</id>
         <link href="https://v.daum.net/v/20230604094703424"/>
         <updated>2023-06-04T01:44:54.922Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">09:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지민, 케이돌 5월 월간 랭킹 투표 1위… 27번째 월간 1위]]></title>
-        <id>https://v.daum.net/v/20230604094702423</id>
-        <link href="https://v.daum.net/v/20230604094702423"/>
-        <updated>2023-06-04T01:44:54.924Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">09:47</span>]]></content>
     </entry>
 </feed>
