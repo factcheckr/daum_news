@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-06-04T11:13:02.665Z</updated>
+    <updated>2023-06-04T12:27:48.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스페이스 기어즈 "정식 버전 기대되는 신개념 RTS"]]></title>
+        <id>https://v.daum.net/v/20230604211307132</id>
+        <link href="https://v.daum.net/v/20230604211307132"/>
+        <updated>2023-06-04T12:27:17.977Z</updated>
+        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">21:13</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[깎아주는거 맞아?...최대 55% 할인 TV·인터넷 “우린 진짜입니다”]]></title>
+        <id>https://v.daum.net/v/20230604202400642</id>
+        <link href="https://v.daum.net/v/20230604202400642"/>
+        <updated>2023-06-04T12:27:17.989Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">20:24</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전직 정보당국자 "美 정부 UFO 잔해 확보 의혹 설명해야"]]></title>
         <id>https://v.daum.net/v/20230604193509046</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230604184814437"/>
         <updated>2023-06-04T11:12:31.360Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">18:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["폴더블 종주국은 韓"···퍼스트 무버 위상 과시]]></title>
-        <id>https://v.daum.net/v/20230604184507393</id>
-        <link href="https://v.daum.net/v/20230604184507393"/>
-        <updated>2023-06-04T11:12:31.361Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">18:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LG헬로비전, 인터넷 등 반값 할인]]></title>
-        <id>https://v.daum.net/v/20230604184337353</id>
-        <link href="https://v.daum.net/v/20230604184337353"/>
-        <updated>2023-06-04T11:12:31.363Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">18:43</span>]]></content>
     </entry>
 </feed>
