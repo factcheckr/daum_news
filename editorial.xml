@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-06-06T04:18:16.833Z</updated>
+    <updated>2023-06-06T05:15:40.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘미운오리’에서 ‘자우림’이 된 사연 [유레카]]]></title>
+        <id>https://v.daum.net/v/20230606134503462</id>
+        <link href="https://v.daum.net/v/20230606134503462"/>
+        <updated>2023-06-06T05:15:24.413Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">13:45</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아침햇발] ‘기시다 광폭외교’에서 윤 대통령이 배워야 할 것]]></title>
         <id>https://v.daum.net/v/20230606115015953</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230606050415896</id>
         <link href="https://v.daum.net/v/20230606050415896"/>
         <updated>2023-06-05T20:16:50.392Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[씨줄날줄] 대통령의 소품/황비웅 논설위원]]></title>
-        <id>https://v.daum.net/v/20230606050413894</id>
-        <link href="https://v.daum.net/v/20230606050413894"/>
-        <updated>2023-06-05T20:16:50.403Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:04</span>]]></content>
     </entry>
 </feed>
