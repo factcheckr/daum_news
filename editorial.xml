@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-06-06T01:26:10.702Z</updated>
+    <updated>2023-06-06T02:56:36.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[아침햇발] ‘기시다 광폭외교’에서 윤 대통령이 배워야 할 것]]></title>
+        <id>https://v.daum.net/v/20230606115015953</id>
+        <link href="https://v.daum.net/v/20230606115015953"/>
+        <updated>2023-06-06T02:56:17.684Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">11:50</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나는 퇴근 후 ‘야학’으로 다시 출근한다]]></title>
         <id>https://v.daum.net/v/20230606100304094</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230606050413894</id>
         <link href="https://v.daum.net/v/20230606050413894"/>
         <updated>2023-06-05T20:16:50.403Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[길섶에서] 초여름 앵두/임창용 논설위원]]></title>
-        <id>https://v.daum.net/v/20230606050413893</id>
-        <link href="https://v.daum.net/v/20230606050413893"/>
-        <updated>2023-06-05T20:16:50.404Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:04</span>]]></content>
     </entry>
 </feed>
