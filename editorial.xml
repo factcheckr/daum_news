@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-06-06T06:21:57.562Z</updated>
+    <updated>2023-06-06T07:17:41.935Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[김경환 변호사의 디지털법]〈11〉인공‘지능’은 가상‘인격’으로 진화 중]]></title>
+        <id>https://v.daum.net/v/20230606160218142</id>
+        <link href="https://v.daum.net/v/20230606160218142"/>
+        <updated>2023-06-06T07:17:24.349Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">16:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[기고]RPA로 가치를 더하는 ESG 경영]]></title>
+        <id>https://v.daum.net/v/20230606160212137</id>
+        <link href="https://v.daum.net/v/20230606160212137"/>
+        <updated>2023-06-06T07:17:24.354Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">16:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사설] 커넥티드카 기술 비교우위 확대해야]]></title>
+        <id>https://v.daum.net/v/20230606160208132</id>
+        <link href="https://v.daum.net/v/20230606160208132"/>
+        <updated>2023-06-06T07:17:24.354Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">16:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘미운오리’에서 ‘자우림’이 된 사연 [유레카]]]></title>
         <id>https://v.daum.net/v/20230606134503462</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230606053458977"/>
         <updated>2023-06-05T21:13:42.217Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">05:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Joseph E. Stiglitz] Western industrial policy and international law]]></title>
-        <id>https://v.daum.net/v/20230606053058951</id>
-        <link href="https://v.daum.net/v/20230606053058951"/>
-        <updated>2023-06-05T21:13:42.218Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Editorial] Trilateral cooperation]]></title>
-        <id>https://v.daum.net/v/20230606053040950</id>
-        <link href="https://v.daum.net/v/20230606053040950"/>
-        <updated>2023-06-05T21:13:42.219Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[최광숙 칼럼] 거짓말하는 정치인, 귀가 조치해라/대기자]]></title>
-        <id>https://v.daum.net/v/20230606050415896</id>
-        <link href="https://v.daum.net/v/20230606050415896"/>
-        <updated>2023-06-05T20:16:50.392Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:04</span>]]></content>
     </entry>
 </feed>
