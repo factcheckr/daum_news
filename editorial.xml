@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-06-07T16:20:50.434Z</updated>
+    <updated>2023-06-07T17:16:55.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]부활하는 일본]]></title>
+        <id>https://v.daum.net/v/20230608020304187</id>
+        <link href="https://v.daum.net/v/20230608020304187"/>
+        <updated>2023-06-07T17:16:37.984Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]챗GPT와 일자리]]></title>
+        <id>https://v.daum.net/v/20230608020302186</id>
+        <link href="https://v.daum.net/v/20230608020302186"/>
+        <updated>2023-06-07T17:16:37.986Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[유홍준의 문화의 창] 김지하는 뛰어난 현대 문인화가였다]]></title>
         <id>https://v.daum.net/v/20230608010359976</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230608004158888"/>
         <updated>2023-06-07T16:20:34.097Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:41</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정재훈의 음식과 약] 어디에서 봤을까]]></title>
-        <id>https://v.daum.net/v/20230608003958880</id>
-        <link href="https://v.daum.net/v/20230608003958880"/>
-        <updated>2023-06-07T16:20:34.099Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노트북을 열며] BTS처럼…금융허브 구축 대신 해외 진출]]></title>
-        <id>https://v.daum.net/v/20230608003759872</id>
-        <link href="https://v.daum.net/v/20230608003759872"/>
-        <updated>2023-06-07T16:20:34.101Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:37</span>]]></content>
     </entry>
 </feed>
