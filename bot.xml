@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-06-07T06:25:15.865Z</updated>
+    <updated>2023-06-07T07:18:25.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[fnRASSI]장마감, 코스닥 상승 종목(유니슨 30.0% ↑)]]></title>
+        <id>https://v.daum.net/v/20230607154721873</id>
+        <link href="https://v.daum.net/v/20230607154721873"/>
+        <updated>2023-06-07T07:18:24.547Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:47</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[fnRASSI]장마감, 거래소 상승 종목(이수스페셜티케미컬 29.7% ↑)]]></title>
+        <id>https://v.daum.net/v/20230607154715869</id>
+        <link href="https://v.daum.net/v/20230607154715869"/>
+        <updated>2023-06-07T07:18:24.548Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:47</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[fnRASSI]프로텍, 이수스페셜티케미컬 등 40종목 52주 신고가 경신]]></title>
+        <id>https://v.daum.net/v/20230607154708865</id>
+        <link href="https://v.daum.net/v/20230607154708865"/>
+        <updated>2023-06-07T07:18:24.549Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:47</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[fnRASSI]오늘의 상한가, 유니슨 30.0% ↑]]></title>
+        <id>https://v.daum.net/v/20230607154617838</id>
+        <link href="https://v.daum.net/v/20230607154617838"/>
+        <updated>2023-06-07T07:18:24.550Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:46</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인천 원당동 검단호반써밋1차 72㎡ 5억9000만원... 역대 최고가]]></title>
         <id>https://v.daum.net/v/20230607133759502</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230607124658419"/>
         <updated>2023-06-07T04:19:09.612Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:46</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 청라동 한양수자인레이크블루 아파트 84㎡ 7억원에 거래]]></title>
-        <id>https://v.daum.net/v/20230607124159340</id>
-        <link href="https://v.daum.net/v/20230607124159340"/>
-        <updated>2023-06-07T04:19:09.614Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:41</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 청라동 청라제일풍경채 115㎡ 6억5000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230607123532260</id>
-        <link href="https://v.daum.net/v/20230607123532260"/>
-        <updated>2023-06-07T04:19:09.615Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 만수동 포레시안 아파트 84㎡ 4억1500만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230607123059211</id>
-        <link href="https://v.daum.net/v/20230607123059211"/>
-        <updated>2023-06-07T04:19:09.616Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고양 식사동 위시티일산자이1단지 134㎡ 7억500만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230607122553087</id>
-        <link href="https://v.daum.net/v/20230607122553087"/>
-        <updated>2023-06-07T04:19:09.616Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:25</span>]]></content>
     </entry>
 </feed>
