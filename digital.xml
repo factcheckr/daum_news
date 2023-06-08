@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-06-08T13:21:45.813Z</updated>
+    <updated>2023-06-08T14:15:14.956Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴스 댓글 얼마나 험했길래…악플러 꼬리표 달고 24시간뒤 삭제]]></title>
+        <id>https://v.daum.net/v/20230608225100050</id>
+        <link href="https://v.daum.net/v/20230608225100050"/>
+        <updated>2023-06-08T14:14:45.121Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">22:51</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시놀로지, PC-스마트폰 사진 빠르게 담는 ‘비드라이브’ 출시]]></title>
+        <id>https://v.daum.net/v/20230608224701028</id>
+        <link href="https://v.daum.net/v/20230608224701028"/>
+        <updated>2023-06-08T14:14:45.121Z</updated>
+        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">22:47</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“너의 이름은”…한국어로 불리게 된 ‘저 하늘의 별’]]></title>
+        <id>https://v.daum.net/v/20230608224507021</id>
+        <link href="https://v.daum.net/v/20230608224507021"/>
+        <updated>2023-06-08T14:14:45.123Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">22:45</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[생명의 고향, 깊고 깊은 바닷속엔365일 ‘눈꽃’이 내린다[전문가의 세계 - 김응빈의 미생물 ‘수다’]]]></title>
+        <id>https://v.daum.net/v/20230608223457975</id>
+        <link href="https://v.daum.net/v/20230608223457975"/>
+        <updated>2023-06-08T14:14:45.124Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:34</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["중국식 통제?"…24시간 뒤 삭제되는 뉴스 댓글에 '원성 폭발']]></title>
         <id>https://v.daum.net/v/20230608220102572</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230608205208434"/>
         <updated>2023-06-08T12:28:19.246Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">20:52</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[WWDC23] 애플의 기술 집대성했다…'애플 비전 프로' 공개]]></title>
-        <id>https://v.daum.net/v/20230608203905271</id>
-        <link href="https://v.daum.net/v/20230608203905271"/>
-        <updated>2023-06-08T12:28:19.250Z</updated>
-        <content type="html"><![CDATA[IT동아<span class="txt_bar"> · </span><span class="info_time">20:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[456만원 애플 비전 프로, 부품원가는 196만원?]]></title>
-        <id>https://v.daum.net/v/20230608203009090</id>
-        <link href="https://v.daum.net/v/20230608203009090"/>
-        <updated>2023-06-08T12:28:19.250Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">20:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에미레이트 항공, 환경의 날 맞아 '클로즈드 루프' 재활용 이니셔티브 론칭]]></title>
-        <id>https://v.daum.net/v/20230608202043927</id>
-        <link href="https://v.daum.net/v/20230608202043927"/>
-        <updated>2023-06-08T12:28:19.250Z</updated>
-        <content type="html"><![CDATA[투어코리아<span class="txt_bar"> · </span><span class="info_time">20:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탄소중립 향해 달리는 세계, ‘수소경제’가 마지막 퍼즐?[K비즈니스 가이드]]]></title>
-        <id>https://v.daum.net/v/20230608200900782</id>
-        <link href="https://v.daum.net/v/20230608200900782"/>
-        <updated>2023-06-08T11:17:38.219Z</updated>
-        <content type="html"><![CDATA[IT동아<span class="txt_bar"> · </span><span class="info_time">20:09</span>]]></content>
     </entry>
 </feed>
