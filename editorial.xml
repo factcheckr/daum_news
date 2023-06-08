@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-06-08T22:15:52.089Z</updated>
+    <updated>2023-06-08T23:16:30.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[전국 주요 신문 톱뉴스](9일 조간)]]></title>
+        <id>https://v.daum.net/v/20230609080126745</id>
+        <link href="https://v.daum.net/v/20230609080126745"/>
+        <updated>2023-06-08T23:16:11.079Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[춘추칼럼]  나는 뭔가를 찾고 있는 것이 틀림없어요]]></title>
         <id>https://v.daum.net/v/20230609070707930</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230609062707392</id>
         <link href="https://v.daum.net/v/20230609062707392"/>
         <updated>2023-06-08T22:15:28.738Z</updated>
-        <content type="html"><![CDATA[농민신문<span class="txt_bar"> · </span><span class="info_time">06:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시인의 詩 읽기] 오래된 기도는 새로운 기도다]]></title>
-        <id>https://v.daum.net/v/20230609062704391</id>
-        <link href="https://v.daum.net/v/20230609062704391"/>
-        <updated>2023-06-08T22:15:28.740Z</updated>
         <content type="html"><![CDATA[농민신문<span class="txt_bar"> · </span><span class="info_time">06:27</span>]]></content>
     </entry>
 </feed>
