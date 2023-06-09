@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2023-06-09T18:19:30.321Z</updated>
+    <updated>2023-06-09T19:13:13.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이경규, 시민에 '음식 솜씨' 적나라하게 평가받는다 ('웃는 사장')]]></title>
+        <id>https://v.daum.net/v/20230610040209054</id>
+        <link href="https://v.daum.net/v/20230610040209054"/>
+        <updated>2023-06-09T19:12:25.386Z</updated>
+        <content type="html"><![CDATA[TV리포트<span class="txt_bar"> · </span><span class="info_time">04:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김선아, 오지호 향한 프러포즈 성공할까? (가면의 여왕)]]></title>
+        <id>https://v.daum.net/v/20230610040007048</id>
+        <link href="https://v.daum.net/v/20230610040007048"/>
+        <updated>2023-06-09T19:12:25.386Z</updated>
+        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오늘의 채널A]농사일 도맡다 무릎 망가진 귀농 아내]]></title>
         <id>https://v.daum.net/v/20230610030059875</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230610010301597"/>
         <updated>2023-06-09T16:20:26.037Z</updated>
         <content type="html"><![CDATA[스타투데이<span class="txt_bar"> · </span><span class="info_time">01:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘나쁜엄마’ 홍비라 “완전히 무너진 하영이, 비로소 자신을 찾았죠” [인터뷰]]]></title>
-        <id>https://v.daum.net/v/20230610010209593</id>
-        <link href="https://v.daum.net/v/20230610010209593"/>
-        <updated>2023-06-09T16:20:26.038Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">01:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연정훈·김종민, 2% 부족한 가창력→브레이크 댄스 ‘웃음’ (1박2일)]]></title>
-        <id>https://v.daum.net/v/20230610010208592</id>
-        <link href="https://v.daum.net/v/20230610010208592"/>
-        <updated>2023-06-09T16:20:26.040Z</updated>
-        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">01:02</span>]]></content>
     </entry>
 </feed>
