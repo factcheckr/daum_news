@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-06-09T22:15:29.354Z</updated>
+    <updated>2023-06-09T23:16:55.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[김회룡의 시사 TOON]]]></title>
+        <id>https://v.daum.net/v/20230610080804643</id>
+        <link href="https://v.daum.net/v/20230610080804643"/>
+        <updated>2023-06-09T23:16:32.460Z</updated>
+        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">08:08</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[박진영의 사회심리학] 낯선 칭찬의 소중함]]></title>
+        <id>https://v.daum.net/v/20230610080014501</id>
+        <link href="https://v.daum.net/v/20230610080014501"/>
+        <updated>2023-06-09T23:16:32.466Z</updated>
+        <content type="html"><![CDATA[동아사이언스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[배충식의 모빌토피아]친환경 에너지 ‘메탄올’에 거는 기대]]></title>
         <id>https://v.daum.net/v/20230610060054638</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230610040306061"/>
         <updated>2023-06-09T19:12:56.472Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데스크 칼럼] 무섭게 진화하는 AI, 인류에게 재앙일까]]></title>
-        <id>https://v.daum.net/v/20230610040258056</id>
-        <link href="https://v.daum.net/v/20230610040258056"/>
-        <updated>2023-06-09T19:12:56.472Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">04:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 국장급 중국대사 옆에서 시진핑 우상화 들러리 된 이 대표]]></title>
-        <id>https://v.daum.net/v/20230610032759002</id>
-        <link href="https://v.daum.net/v/20230610032759002"/>
-        <updated>2023-06-09T19:12:56.472Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:27</span>]]></content>
     </entry>
 </feed>
