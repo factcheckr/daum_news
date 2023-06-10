@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-06-10T12:26:50.101Z</updated>
+    <updated>2023-06-10T13:17:36.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박성필의 인공지능 거버넌스] 인공지능, 혁신과 규제의 기로에 서다![수담활론]]]></title>
+        <id>https://v.daum.net/v/20230610213909528</id>
+        <link href="https://v.daum.net/v/20230610213909528"/>
+        <updated>2023-06-10T13:17:13.540Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">21:39</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[자갈마당에서 경산 코발트 광산까지···지역작가 공모 지원 전시회]]></title>
         <id>https://v.daum.net/v/20230610203627062</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230610090009039"/>
         <updated>2023-06-10T01:18:36.948Z</updated>
         <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">09:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김회룡의 시사 TOON]]]></title>
-        <id>https://v.daum.net/v/20230610080804643</id>
-        <link href="https://v.daum.net/v/20230610080804643"/>
-        <updated>2023-06-09T23:16:32.460Z</updated>
-        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">08:08</span>]]></content>
     </entry>
 </feed>
