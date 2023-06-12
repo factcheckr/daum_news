@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-06-12T05:18:36.343Z</updated>
+    <updated>2023-06-12T06:22:20.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[데일리안 시사만평] 중국 외교부장, 문재인 어깨 툭툭했는데…싱하이밍, 이재명이야 껌이지?]]></title>
+        <id>https://v.daum.net/v/20230612144600924</id>
+        <link href="https://v.daum.net/v/20230612144600924"/>
+        <updated>2023-06-12T06:22:04.479Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">14:46</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나쁜 역사가 반복되지만, 우리에겐 책무가 있습니다 [ESC]]]></title>
+        <id>https://v.daum.net/v/20230612144512908</id>
+        <link href="https://v.daum.net/v/20230612144512908"/>
+        <updated>2023-06-12T06:22:04.484Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">14:45</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부고] 김정훈(휴온스글로벌 커뮤니케이션실장)씨 빙조모상]]></title>
         <id>https://v.daum.net/v/20230612140402265</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230612111815186"/>
         <updated>2023-06-12T02:55:15.387Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[헤럴드시사] 방위산업도 전용차로가 만들어진다]]></title>
-        <id>https://v.daum.net/v/20230612111620047</id>
-        <link href="https://v.daum.net/v/20230612111620047"/>
-        <updated>2023-06-12T02:55:15.388Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[헤럴드포럼] AI 시대, 결국 사람이 만든다]]></title>
-        <id>https://v.daum.net/v/20230612111608024</id>
-        <link href="https://v.daum.net/v/20230612111608024"/>
-        <updated>2023-06-12T02:55:15.389Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:16</span>]]></content>
     </entry>
 </feed>
