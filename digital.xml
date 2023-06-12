@@ -2,11 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-06-12T11:14:17.973Z</updated>
+    <updated>2023-06-12T12:29:30.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[삼성전자, 부분적 '주 4일제'…사측이 먼저 제안한 파격]]></title>
+        <title type="html"><![CDATA[손정의 만난 샘 올트먼 "사업 협력 모색"]]></title>
+        <id>https://v.daum.net/v/20230612212359912</id>
+        <link href="https://v.daum.net/v/20230612212359912"/>
+        <updated>2023-06-12T12:29:02.846Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">21:23</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“이러니 다들 아이폰 타령만” 삼성폰 쓰면 왕따?, 설마했는데 실화였다]]></title>
+        <id>https://v.daum.net/v/20230612210410703</id>
+        <link href="https://v.daum.net/v/20230612210410703"/>
+        <updated>2023-06-12T12:29:02.849Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">21:04</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방통위, 14일 전체회의서 KBS 수신료 분리 징수 논의]]></title>
+        <id>https://v.daum.net/v/20230612210200660</id>
+        <link href="https://v.daum.net/v/20230612210200660"/>
+        <updated>2023-06-12T12:29:02.849Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">21:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["계정 공유 유료화 후 구독자 급증"…넷플릭스 노림수 통했나]]></title>
+        <id>https://v.daum.net/v/20230612203002289</id>
+        <link href="https://v.daum.net/v/20230612203002289"/>
+        <updated>2023-06-12T12:29:02.850Z</updated>
+        <content type="html"><![CDATA[IT동아<span class="txt_bar"> · </span><span class="info_time">20:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삼성전자, 월 1회 연차 안쓰고 쉰다]]></title>
         <id>https://v.daum.net/v/20230612200411037</id>
         <link href="https://v.daum.net/v/20230612200411037"/>
         <updated>2023-06-12T11:13:45.551Z</updated>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230612191037248"/>
         <updated>2023-06-12T10:18:35.615Z</updated>
         <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">19:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘게임 내 경품제공·불법게임광고’ 정책 방향 논의]]></title>
-        <id>https://v.daum.net/v/20230612190811225</id>
-        <link href="https://v.daum.net/v/20230612190811225"/>
-        <updated>2023-06-12T10:18:35.616Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">19:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SKC, 폴리우레탄 원료 자회사 SK피유코어 매각]]></title>
-        <id>https://v.daum.net/v/20230612190507185</id>
-        <link href="https://v.daum.net/v/20230612190507185"/>
-        <updated>2023-06-12T10:18:35.617Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">19:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버클라우드, 신임 CIO에 이상준 전 센터장 선임]]></title>
-        <id>https://v.daum.net/v/20230612185507057</id>
-        <link href="https://v.daum.net/v/20230612185507057"/>
-        <updated>2023-06-12T10:18:35.619Z</updated>
-        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">18:55</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“2억화소 카메라폰인데 고작 90만원 ‘헐값’?” 삼성도 놀란 대만폰]]></title>
-        <id>https://v.daum.net/v/20230612185307036</id>
-        <link href="https://v.daum.net/v/20230612185307036"/>
-        <updated>2023-06-12T10:18:35.620Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">18:53</span>]]></content>
     </entry>
 </feed>
