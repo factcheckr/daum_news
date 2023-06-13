@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2023-06-13T16:20:04.128Z</updated>
+    <updated>2023-06-13T17:14:37.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[북한 '생명선' 러시아, 한국 향해선 '으름장']]></title>
+        <id>https://v.daum.net/v/20230614020158368</id>
+        <link href="https://v.daum.net/v/20230614020158368"/>
+        <updated>2023-06-13T17:13:02.269Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">02:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘尹 전용기 추락 기도’ 김규돈 신부, 또 ‘저주’ 퍼부어 “잠자다 ‘심장마비’로…”]]></title>
+        <id>https://v.daum.net/v/20230614013808330</id>
+        <link href="https://v.daum.net/v/20230614013808330"/>
+        <updated>2023-06-13T17:13:02.269Z</updated>
+        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">01:38</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尹, ‘체포안 부결’ 얘기에 “앞으로 나올사람 많은 모양”]]></title>
         <id>https://v.daum.net/v/20230614011409271</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230614001203999"/>
         <updated>2023-06-13T15:15:18.019Z</updated>
         <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조태용, 오늘 한미일 안보실장 회의 참석 위해 방일]]></title>
-        <id>https://v.daum.net/v/20230614001201997</id>
-        <link href="https://v.daum.net/v/20230614001201997"/>
-        <updated>2023-06-13T15:15:18.021Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이경 “尹정부 들어 ‘자유’ 사라지고 있어…지금은 ‘전두환 시대’ 아냐”]]></title>
-        <id>https://v.daum.net/v/20230614000908978</id>
-        <link href="https://v.daum.net/v/20230614000908978"/>
-        <updated>2023-06-13T15:15:18.023Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">00:09</span>]]></content>
     </entry>
 </feed>
