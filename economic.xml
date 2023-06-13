@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2023-06-13T15:16:54.235Z</updated>
+    <updated>2023-06-13T16:20:04.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[5월 인플레 2년래 최저…'매파적 금리동결' 보인다]]></title>
+        <id>https://v.daum.net/v/20230614001518042</id>
+        <link href="https://v.daum.net/v/20230614001518042"/>
+        <updated>2023-06-13T16:18:55.243Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">00:15</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[불황 끝보이는 반도체…대중 통제 유예 희소식]]></title>
         <id>https://v.daum.net/v/20230614001058987</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230614000456840</id>
         <link href="https://v.daum.net/v/20230614000456840"/>
         <updated>2023-06-13T15:15:26.089Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윙크하는 LG전자, 정주영 정신 강조한 HD현대…‘브랜드 리모델링’ 바람]]></title>
-        <id>https://v.daum.net/v/20230614000455839</id>
-        <link href="https://v.daum.net/v/20230614000455839"/>
-        <updated>2023-06-13T15:15:26.090Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
     </entry>
 </feed>
