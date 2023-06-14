@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-06-14T16:21:42.884Z</updated>
+    <updated>2023-06-14T17:15:51.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]바이오 클러스터 성공조건, 신속한 규제 확인부터]]></title>
+        <id>https://v.daum.net/v/20230615020609346</id>
+        <link href="https://v.daum.net/v/20230615020609346"/>
+        <updated>2023-06-14T17:15:33.508Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:06</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]'동일노동·동일임금'이 저출산 해법]]></title>
+        <id>https://v.daum.net/v/20230615020308343</id>
+        <link href="https://v.daum.net/v/20230615020308343"/>
+        <updated>2023-06-14T17:15:33.509Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[진중권 칼럼] 선거가 세탁기인가]]></title>
         <id>https://v.daum.net/v/20230615010357259</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230615003958211"/>
         <updated>2023-06-14T16:21:23.202Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[분수대] 생존본능과 저출산]]></title>
-        <id>https://v.daum.net/v/20230615003757208</id>
-        <link href="https://v.daum.net/v/20230615003757208"/>
-        <updated>2023-06-14T16:21:23.203Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안현실 칼럼] 동맹조차 'GPT 독립' 외치는 이유]]></title>
-        <id>https://v.daum.net/v/20230615003659203</id>
-        <link href="https://v.daum.net/v/20230615003659203"/>
-        <updated>2023-06-14T16:21:23.207Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:36</span>]]></content>
     </entry>
 </feed>
