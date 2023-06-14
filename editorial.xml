@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-06-14T05:16:12.326Z</updated>
+    <updated>2023-06-14T06:22:17.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["보도가 먼저냐, 신고가 먼저냐" JTBC 주가조작 단독보도의 전말]]></title>
+        <id>https://v.daum.net/v/20230614151159597</id>
+        <link href="https://v.daum.net/v/20230614151159597"/>
+        <updated>2023-06-14T06:21:54.404Z</updated>
+        <content type="html"><![CDATA[미디어오늘<span class="txt_bar"> · </span><span class="info_time">15:11</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[권성동 “상호주의 원칙, 국내 중국인 투표권 제한해야”… 싱하이밍 대사 발언 비판]]></title>
+        <id>https://v.daum.net/v/20230614145307682</id>
+        <link href="https://v.daum.net/v/20230614145307682"/>
+        <updated>2023-06-14T06:21:54.409Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">14:53</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[청와대에서 역대 대통령의 손때 묻은 생활 소품을 만나다]]></title>
         <id>https://v.daum.net/v/20230614141023657</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230614113409928"/>
         <updated>2023-06-14T02:42:32.041Z</updated>
         <content type="html"><![CDATA[베스트일레븐<span class="txt_bar"> · </span><span class="info_time">11:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예잇수다]K-클래식, 영재는 있지만 무대는 없다]]></title>
-        <id>https://v.daum.net/v/20230614112458412</id>
-        <link href="https://v.daum.net/v/20230614112458412"/>
-        <updated>2023-06-14T02:42:32.042Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[헤럴드포럼] 제임스 케이 리의 비행사면허증]]></title>
-        <id>https://v.daum.net/v/20230614112410364</id>
-        <link href="https://v.daum.net/v/20230614112410364"/>
-        <updated>2023-06-14T02:42:32.043Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:24</span>]]></content>
     </entry>
 </feed>
