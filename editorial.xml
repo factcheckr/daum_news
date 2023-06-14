@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-06-14T03:18:30.743Z</updated>
+    <updated>2023-06-14T04:21:55.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[논단]베이비붐 세대, 다시 험한 세상 다리가 되어]]></title>
+        <id>https://v.daum.net/v/20230614125243342</id>
+        <link href="https://v.daum.net/v/20230614125243342"/>
+        <updated>2023-06-14T04:21:27.791Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">12:52</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[시시비비]中 '전랑외교', 박진 장관이 나설때]]></title>
+        <id>https://v.daum.net/v/20230614124559235</id>
+        <link href="https://v.daum.net/v/20230614124559235"/>
+        <updated>2023-06-14T04:21:27.793Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">12:45</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설]집요한 방해 뚫은 포스코노조의 민노총 탈퇴 의미 크다]]></title>
         <id>https://v.daum.net/v/20230614115015739</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230614110617483"/>
         <updated>2023-06-14T02:42:32.047Z</updated>
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[100세시대 건강]술 한잔은 건강에 이롭다?]]></title>
-        <id>https://v.daum.net/v/20230614110056109</id>
-        <link href="https://v.daum.net/v/20230614110056109"/>
-        <updated>2023-06-14T02:42:32.049Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가볍게, 걷다]]></title>
-        <id>https://v.daum.net/v/20230614102023142</id>
-        <link href="https://v.daum.net/v/20230614102023142"/>
-        <updated>2023-06-14T01:25:19.099Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">10:20</span>]]></content>
     </entry>
 </feed>
