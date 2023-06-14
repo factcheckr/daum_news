@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-06-14T10:18:11.458Z</updated>
+    <updated>2023-06-14T11:14:11.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] BRI, 인도네시아에서 가장 가치 있는 브랜드로 선정돼]]></title>
+        <id>https://v.daum.net/v/20230614201001837</id>
+        <link href="https://v.daum.net/v/20230614201001837"/>
+        <updated>2023-06-14T11:14:01.157Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:10</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안리쓰, Rubidium™ 고성능 아날로그 신호 발생기 제품군 주파수 확장]]></title>
         <id>https://v.daum.net/v/20230614182704318</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230614173401731"/>
         <updated>2023-06-14T09:15:28.030Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">17:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세종사이버대학교 호텔관광경영학과, 여행사 창의학습 특강 진행]]></title>
-        <id>https://v.daum.net/v/20230614173159654</id>
-        <link href="https://v.daum.net/v/20230614173159654"/>
-        <updated>2023-06-14T09:15:28.030Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">17:31</span>]]></content>
     </entry>
 </feed>
