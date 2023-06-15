@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-06-15T11:16:49.497Z</updated>
+    <updated>2023-06-15T12:30:23.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[해남 솔라시도에 수산양식 기자개 클러스터 조성]]></title>
+        <id>https://v.daum.net/v/20230615212833137</id>
+        <link href="https://v.daum.net/v/20230615212833137"/>
+        <updated>2023-06-15T12:30:14.156Z</updated>
+        <content type="html"><![CDATA[kbc광주방송<span class="txt_bar"> · </span><span class="info_time">21:28</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대통령실 브리핑 (23. 06. 15. 16시)]]></title>
         <id>https://v.daum.net/v/20230615194005875</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230615172215837"/>
         <updated>2023-06-15T09:17:54.743Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울시립대, 근로복지공단과 빅데이터 역량강화 교육을 위한 업무협약 체결]]></title>
-        <id>https://v.daum.net/v/20230615172059769</id>
-        <link href="https://v.daum.net/v/20230615172059769"/>
-        <updated>2023-06-15T09:17:54.744Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">17:20</span>]]></content>
     </entry>
 </feed>
