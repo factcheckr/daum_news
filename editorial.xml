@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-06-15T02:43:45.956Z</updated>
+    <updated>2023-06-15T03:17:50.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[힐튼과 메리어트, 나란히 장기 숙박 브랜드 내놓는다]]></title>
+        <id>https://v.daum.net/v/20230615120158801</id>
+        <link href="https://v.daum.net/v/20230615120158801"/>
+        <updated>2023-06-15T03:17:22.955Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">12:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설]개성사무소 손배소 만시지탄…다른 법적 책임도 물어야]]></title>
         <id>https://v.daum.net/v/20230615114230943</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230615101059604"/>
         <updated>2023-06-15T01:20:02.274Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">10:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스+] "안전하게 수산물 먹자는 게 그렇게 큰 욕심인가요?"]]></title>
-        <id>https://v.daum.net/v/20230615100207168</id>
-        <link href="https://v.daum.net/v/20230615100207168"/>
-        <updated>2023-06-15T01:20:02.280Z</updated>
-        <content type="html"><![CDATA[대구MBC<span class="txt_bar"> · </span><span class="info_time">10:02</span>]]></content>
     </entry>
 </feed>
