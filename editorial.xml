@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-06-16T09:16:30.928Z</updated>
+    <updated>2023-06-16T10:22:21.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사설] 민주당 혁신위원장, 계파·당원 넘어 국민 바라봐야]]></title>
+        <id>https://v.daum.net/v/20230616182503088</id>
+        <link href="https://v.daum.net/v/20230616182503088"/>
+        <updated>2023-06-16T10:22:00.888Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">18:25</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 윤 대통령 수능 난이도 발언, ‘불쑥 지시’는 혼란만 키운다]]></title>
         <id>https://v.daum.net/v/20230616181006824</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230616165400932"/>
         <updated>2023-06-16T08:19:22.974Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">16:54</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데일리안 시사만평] 대법원은 민주당 2중대, 노조 기살리는 판결 기업은 답답]]></title>
-        <id>https://v.daum.net/v/20230616164657743</id>
-        <link href="https://v.daum.net/v/20230616164657743"/>
-        <updated>2023-06-16T08:19:22.975Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">16:46</span>]]></content>
     </entry>
 </feed>
