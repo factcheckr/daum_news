@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-06-16T12:30:21.267Z</updated>
+    <updated>2023-06-16T13:19:11.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엄마는 언제나 나를 이긴다 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20230616220209334</id>
+        <link href="https://v.daum.net/v/20230616220209334"/>
+        <updated>2023-06-16T13:18:53.927Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 대법원 판결에 대한 여당의 과도한 비판, 사법부 모독 아닌가]]></title>
         <id>https://v.daum.net/v/20230616203900623</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230616172104622"/>
         <updated>2023-06-16T09:16:07.704Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부고] 허필석(KB증권 Equity운용본부장 전무)씨 부친상]]></title>
-        <id>https://v.daum.net/v/20230616171659535</id>
-        <link href="https://v.daum.net/v/20230616171659535"/>
-        <updated>2023-06-16T08:19:22.957Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">17:16</span>]]></content>
     </entry>
 </feed>
