@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-06-16T05:15:38.656Z</updated>
+    <updated>2023-06-16T06:20:59.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[메아리] 20년 전 그때 수도를 이전했다면···]]></title>
+        <id>https://v.daum.net/v/20230616145217226</id>
+        <link href="https://v.daum.net/v/20230616145217226"/>
+        <updated>2023-06-16T06:20:33.829Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">14:52</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[홍종선의 명대사㊹] 어떤 진실은 끝내 도착하게 되어있다 ‘어쩌다 마주친 그대’]]></title>
         <id>https://v.daum.net/v/20230616141359054</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230616114825948"/>
         <updated>2023-06-16T03:17:11.238Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기자수첩]협회장도 불참…韓·유럽 관심 밖 K배터리 유럽전시회]]></title>
-        <id>https://v.daum.net/v/20230616114559839</id>
-        <link href="https://v.daum.net/v/20230616114559839"/>
-        <updated>2023-06-16T05:15:14.080Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:45</span>]]></content>
     </entry>
 </feed>
