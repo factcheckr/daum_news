@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-06-16T03:17:36.488Z</updated>
+    <updated>2023-06-16T04:18:54.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[시사컬처]책값, 왜 오르나 했더니…]]></title>
+        <id>https://v.daum.net/v/20230616123558026</id>
+        <link href="https://v.daum.net/v/20230616123558026"/>
+        <updated>2023-06-16T04:18:31.817Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">12:35</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[논단]혁신지수 1, 2위라지만 '개방형 혁신' 더 필요]]></title>
+        <id>https://v.daum.net/v/20230616123159951</id>
+        <link href="https://v.daum.net/v/20230616123159951"/>
+        <updated>2023-06-16T04:18:31.826Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">12:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설]‘한국 바다도 오염’ 어민 死地 몰면서 지원법 내놓은 野]]></title>
         <id>https://v.daum.net/v/20230616120313469</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230616112509069"/>
         <updated>2023-06-16T02:43:18.219Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 불법 파업 만성화 불러올 대법원의 탁상 판결]]></title>
-        <id>https://v.daum.net/v/20230616112508064</id>
-        <link href="https://v.daum.net/v/20230616112508064"/>
-        <updated>2023-06-16T02:43:18.220Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세상읽기] 진정한 춘풍추상(春風秋霜)의 모습을 보고 싶다]]></title>
-        <id>https://v.daum.net/v/20230616112331001</id>
-        <link href="https://v.daum.net/v/20230616112331001"/>
-        <updated>2023-06-16T02:43:18.220Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:23</span>]]></content>
     </entry>
 </feed>
