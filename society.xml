@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/society</id>
     <title>다음 뉴스 ─ 전체기사 ─ 사회</title>
-    <updated>2023-06-17T18:17:53.033Z</updated>
+    <updated>2023-06-17T19:12:44.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인천 기온 더 올라 무더위 지속…"큰 일교차 주의"]]></title>
+        <id>https://v.daum.net/v/20230618040202884</id>
+        <link href="https://v.daum.net/v/20230618040202884"/>
+        <updated>2023-06-17T19:11:11.782Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">04:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[무더위 시작…중부 내륙 폭염특보 '주의'[오늘날씨]]]></title>
+        <id>https://v.daum.net/v/20230618040016880</id>
+        <link href="https://v.daum.net/v/20230618040016880"/>
+        <updated>2023-06-17T19:11:11.784Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[밤하늘 수놓은 BTS 불꽃...더 빛난건 쓰레기 하나 안 남긴 팬문화였다]]></title>
         <id>https://v.daum.net/v/20230618011008797</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230618000232676"/>
         <updated>2023-06-17T15:13:34.218Z</updated>
         <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[폴리스스토리] 다시 태어나도 경찰로…34년차 '범죄사냥꾼']]></title>
-        <id>https://v.daum.net/v/20230618000225675</id>
-        <link href="https://v.daum.net/v/20230618000225675"/>
-        <updated>2023-06-17T15:13:34.228Z</updated>
-        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[교사 체벌에 한없이 관대했던 그 시절 법원[그해 오늘]]]></title>
-        <id>https://v.daum.net/v/20230618000214672</id>
-        <link href="https://v.daum.net/v/20230618000214672"/>
-        <updated>2023-06-17T15:13:34.228Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
     </entry>
 </feed>
