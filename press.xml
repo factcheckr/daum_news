@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-06-17T12:26:54.575Z</updated>
+    <updated>2023-06-17T13:20:04.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] SHEIN, Anitta와 첫 협력 제품 출시]]></title>
+        <id>https://v.daum.net/v/20230617221105187</id>
+        <link href="https://v.daum.net/v/20230617221105187"/>
+        <updated>2023-06-17T13:19:55.239Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">22:11</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 하이센스, Chinese Global Brand Builders 2023 10위권에 안착]]></title>
+        <id>https://v.daum.net/v/20230617220551149</id>
+        <link href="https://v.daum.net/v/20230617220551149"/>
+        <updated>2023-06-17T13:19:55.239Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">22:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전남도 서남권 8개 기업과 2,784억 원 규모 투자협약 체결]]></title>
         <id>https://v.daum.net/v/20230617211343655</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230617091853493"/>
         <updated>2023-06-17T01:16:05.768Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">09:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“사랑으로 가꿔 행복을 나눠요”…전북 군산농협 13년째 ‘사랑의 감자 나눔’]]></title>
-        <id>https://v.daum.net/v/20230617084025070</id>
-        <link href="https://v.daum.net/v/20230617084025070"/>
-        <updated>2023-06-17T01:16:05.771Z</updated>
-        <content type="html"><![CDATA[농민신문<span class="txt_bar"> · </span><span class="info_time">08:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남양주시, 주류제조업체와 손잡고 ‘딸기맥주’ 개발]]></title>
-        <id>https://v.daum.net/v/20230617061559736</id>
-        <link href="https://v.daum.net/v/20230617061559736"/>
-        <updated>2023-06-16T22:15:18.265Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">06:15</span>]]></content>
     </entry>
 </feed>
