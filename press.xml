@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-06-18T06:20:51.056Z</updated>
+    <updated>2023-06-18T07:18:03.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[황병우 DGB대구은행장, 첫 해외출장…글로벌 행보 본격화]]></title>
+        <id>https://v.daum.net/v/20230618152507855</id>
+        <link href="https://v.daum.net/v/20230618152507855"/>
+        <updated>2023-06-18T07:17:54.964Z</updated>
+        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">15:25</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다케다와 허치메드, 란셋에 3상 FRESCO-2 결과 게재 발표]]></title>
         <id>https://v.daum.net/v/20230618140859323</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230618100703810"/>
         <updated>2023-06-18T01:29:56.986Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">10:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SKT ‘AI 대전환’ 속도 낸다… 미국 실리콘밸리서 K-AI 동맹 확대·강화 선언]]></title>
-        <id>https://v.daum.net/v/20230618094859502</id>
-        <link href="https://v.daum.net/v/20230618094859502"/>
-        <updated>2023-06-18T01:29:56.988Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">09:48</span>]]></content>
     </entry>
 </feed>
