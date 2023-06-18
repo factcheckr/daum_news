@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-06-18T13:17:32.540Z</updated>
+    <updated>2023-06-18T14:14:09.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[세컷칼럼] ‘범죄도시3’ 나 홀로 선전…무너진 한국영화]]></title>
+        <id>https://v.daum.net/v/20230618230158115</id>
+        <link href="https://v.daum.net/v/20230618230158115"/>
+        <updated>2023-06-18T14:13:49.737Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">23:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[국민만평-서민호 화백] 2023년 6월 19일]]></title>
+        <id>https://v.daum.net/v/20230618222208892</id>
+        <link href="https://v.daum.net/v/20230618222208892"/>
+        <updated>2023-06-18T14:13:49.745Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">22:22</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1급 발암물질, 술 권하는 세상 [삶과 문화]]]></title>
         <id>https://v.daum.net/v/20230618220108769</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230618193159159"/>
         <updated>2023-06-18T11:12:48.713Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">19:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6월 19일 한겨레 그림판]]></title>
-        <id>https://v.daum.net/v/20230618193018146</id>
-        <link href="https://v.daum.net/v/20230618193018146"/>
-        <updated>2023-06-18T11:12:48.714Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[fn사설] 美 인플레 추가 비용에 허리휘는 韓 기업들]]></title>
-        <id>https://v.daum.net/v/20230618192843114</id>
-        <link href="https://v.daum.net/v/20230618192843114"/>
-        <updated>2023-06-18T11:12:48.716Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">19:28</span>]]></content>
     </entry>
 </feed>
