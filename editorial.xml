@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-06-18T12:27:39.070Z</updated>
+    <updated>2023-06-18T13:17:32.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1급 발암물질, 술 권하는 세상 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20230618220108769</id>
+        <link href="https://v.daum.net/v/20230618220108769"/>
+        <updated>2023-06-18T13:17:12.399Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사설] 반복되는 국정원 인사 파동, 정보기관 본연 모습 언제 보나]]></title>
+        <id>https://v.daum.net/v/20230618213309538</id>
+        <link href="https://v.daum.net/v/20230618213309538"/>
+        <updated>2023-06-18T13:17:12.400Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">21:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 5년 만의 미 국무장관 방중을 주목하는 이유]]></title>
         <id>https://v.daum.net/v/20230618204803139</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20230618192843114</id>
         <link href="https://v.daum.net/v/20230618192843114"/>
         <updated>2023-06-18T11:12:48.716Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">19:28</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기자수첩] 기술유출 양형기준 대폭 상향해야]]></title>
-        <id>https://v.daum.net/v/20230618192840113</id>
-        <link href="https://v.daum.net/v/20230618192840113"/>
-        <updated>2023-06-18T11:12:48.718Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">19:28</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[차관칼럼] 최고의 상용 수소차를 향해]]></title>
-        <id>https://v.daum.net/v/20230618192834111</id>
-        <link href="https://v.daum.net/v/20230618192834111"/>
-        <updated>2023-06-18T11:12:48.719Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">19:28</span>]]></content>
     </entry>
 </feed>
