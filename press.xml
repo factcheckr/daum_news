@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-06-18T11:13:09.368Z</updated>
+    <updated>2023-06-18T12:27:39.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[한국, 유엔세계관광기구 8선 집행이사국이 됐다]]></title>
+        <title type="html"><![CDATA[음성군, '여름방학엔 VR로 가상여행 즐겨요']]></title>
+        <id>https://v.daum.net/v/20230618204301063</id>
+        <link href="https://v.daum.net/v/20230618204301063"/>
+        <updated>2023-06-18T12:27:29.063Z</updated>
+        <content type="html"><![CDATA[투어코리아<span class="txt_bar"> · </span><span class="info_time">20:43</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대전 중구, 민선8기 '중구 10대 뉴스' 선정 투표 진행]]></title>
+        <id>https://v.daum.net/v/20230618204257060</id>
+        <link href="https://v.daum.net/v/20230618204257060"/>
+        <updated>2023-06-18T12:27:29.065Z</updated>
+        <content type="html"><![CDATA[투어코리아<span class="txt_bar"> · </span><span class="info_time">20:42</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국, 유엔세계관광기구 8선 집행이사국 됐다]]></title>
         <id>https://v.daum.net/v/20230618174416137</id>
         <link href="https://v.daum.net/v/20230618174416137"/>
         <updated>2023-06-18T09:15:11.998Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230618113703154"/>
         <updated>2023-06-18T02:55:32.726Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">11:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현대엘리베이터, 창사 이래 최대 규모 승강기 수주]]></title>
-        <id>https://v.daum.net/v/20230618110859758</id>
-        <link href="https://v.daum.net/v/20230618110859758"/>
-        <updated>2023-06-18T02:55:32.727Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">11:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현대자동차그룹 전용 전기차, 파리서 ‘부산’ 새기고 달린다]]></title>
-        <id>https://v.daum.net/v/20230618105900552</id>
-        <link href="https://v.daum.net/v/20230618105900552"/>
-        <updated>2023-06-18T02:55:32.729Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">10:59</span>]]></content>
     </entry>
 </feed>
