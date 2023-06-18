@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-06-18T21:13:43.344Z</updated>
+    <updated>2023-06-18T22:15:07.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남양주시 ‘펀그라운드 진접’, 개관 1주년 기념행사 개최]]></title>
+        <id>https://v.daum.net/v/20230619065358686</id>
+        <link href="https://v.daum.net/v/20230619065358686"/>
+        <updated>2023-06-18T22:14:58.610Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">06:53</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넷스카우트, 새로운 VWB(Visibility Without Borders) 플랫폼 출시]]></title>
         <id>https://v.daum.net/v/20230619060859274</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230619000514399</id>
         <link href="https://v.daum.net/v/20230619000514399"/>
         <updated>2023-06-18T15:15:37.423Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[건강한 가족] 헬스 신간]]></title>
-        <id>https://v.daum.net/v/20230619000511398</id>
-        <link href="https://v.daum.net/v/20230619000511398"/>
-        <updated>2023-06-18T15:15:37.425Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
     </entry>
 </feed>
