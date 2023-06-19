@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-06-19T16:20:02.486Z</updated>
+    <updated>2023-06-19T17:14:11.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]도심의 이산화탄소를 먹는 착한 자판기]]></title>
+        <id>https://v.daum.net/v/20230620020203063</id>
+        <link href="https://v.daum.net/v/20230620020203063"/>
+        <updated>2023-06-19T17:13:53.609Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[고현곤 칼럼] 일본 경제 낙관할 수 없는 이유]]></title>
         <id>https://v.daum.net/v/20230620011012981</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230620005610909"/>
         <updated>2023-06-19T16:19:44.744Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:56</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아침의 문장]]></title>
-        <id>https://v.daum.net/v/20230620005459906</id>
-        <link href="https://v.daum.net/v/20230620005459906"/>
-        <updated>2023-06-19T16:19:44.745Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:54</span>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2023-06-19T16:20:02.496Z</updated>
+    <updated>2023-06-19T17:14:11.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국내 캐릭터 기업, 美 라이선싱 엑스포 수출 상담 두 배 늘어]]></title>
+        <id>https://v.daum.net/v/20230620015033051</id>
+        <link href="https://v.daum.net/v/20230620015033051"/>
+        <updated>2023-06-19T17:13:17.359Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">01:50</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[창립 170주년 독일 1위 프리미엄 주방용품 브랜드 WMF 네이버 '리빙 슈퍼세일위크' 프로모션 진행]]></title>
         <id>https://v.daum.net/v/20230620011006979</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230620002807788"/>
         <updated>2023-06-19T16:19:12.784Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:28</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유채훈의 단독 콘서트가 제공하는 선물]]></title>
-        <id>https://v.daum.net/v/20230620002348763</id>
-        <link href="https://v.daum.net/v/20230620002348763"/>
-        <updated>2023-06-19T16:19:12.785Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">00:23</span>]]></content>
     </entry>
 </feed>
