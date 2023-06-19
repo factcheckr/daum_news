@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-06-19T12:32:42.549Z</updated>
+    <updated>2023-06-19T13:20:17.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나를 뚫어지게 바라보는 ‘모나리자’ [편집장 레터]]]></title>
+        <id>https://v.daum.net/v/20230619220301688</id>
+        <link href="https://v.daum.net/v/20230619220301688"/>
+        <updated>2023-06-19T13:20:01.280Z</updated>
+        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">22:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[늙어감을 사랑하게 만드는 사람들 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20230619220041655</id>
+        <link href="https://v.daum.net/v/20230619220041655"/>
+        <updated>2023-06-19T13:20:01.280Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 조심스럽게 시동 건 미·중 해빙, 한국에도 안긴 과제 많다]]></title>
         <id>https://v.daum.net/v/20230619205559973</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230619193225670"/>
         <updated>2023-06-19T11:14:16.347Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박용석 만평] 6월 20일]]></title>
-        <id>https://v.daum.net/v/20230619193159661</id>
-        <link href="https://v.daum.net/v/20230619193159661"/>
-        <updated>2023-06-19T11:14:16.348Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">19:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A novel strain of salt phobia sweeping Korea]]></title>
-        <id>https://v.daum.net/v/20230619193055642</id>
-        <link href="https://v.daum.net/v/20230619193055642"/>
-        <updated>2023-06-19T11:14:16.348Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:30</span>]]></content>
     </entry>
 </feed>
