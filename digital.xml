@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-06-19T11:14:33.461Z</updated>
+    <updated>2023-06-19T12:32:42.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SK바사 코로나 백신, WHO 긴급사용목록 올랐다]]></title>
+        <id>https://v.daum.net/v/20230619212629317</id>
+        <link href="https://v.daum.net/v/20230619212629317"/>
+        <updated>2023-06-19T12:32:15.730Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">21:26</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한자연, 군수사령부와 국방 모빌리티 기술 협력]]></title>
+        <id>https://v.daum.net/v/20230619212003246</id>
+        <link href="https://v.daum.net/v/20230619212003246"/>
+        <updated>2023-06-19T12:32:15.739Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">21:20</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영상 이미지로 생생한 아바타 제작기술 개발]]></title>
+        <id>https://v.daum.net/v/20230619211008155</id>
+        <link href="https://v.daum.net/v/20230619211008155"/>
+        <updated>2023-06-19T12:32:15.742Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">21:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['게임하려면 SSD 필수'…HDD 지원 중단하는 게임사들]]></title>
+        <id>https://v.daum.net/v/20230619204203816</id>
+        <link href="https://v.daum.net/v/20230619204203816"/>
+        <updated>2023-06-19T12:32:15.743Z</updated>
+        <content type="html"><![CDATA[IT동아<span class="txt_bar"> · </span><span class="info_time">20:42</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘┐H새끼’ ‘GR하는’도 걸린다...변형 욕설까지 필터링]]></title>
         <id>https://v.daum.net/v/20230619201009391</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230619192601557"/>
         <updated>2023-06-19T11:14:07.743Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">19:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["AI모델 완벽하지 않아… 윤리문제, 재학습으로 조정할 수 있어"]]></title>
-        <id>https://v.daum.net/v/20230619192557552</id>
-        <link href="https://v.daum.net/v/20230619192557552"/>
-        <updated>2023-06-19T11:14:07.745Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">19:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이경무 서울대 석좌교수 "챗GPT는 언어, LG AI는 시각정보에 특화… 차별화가 경쟁력" [LG '캡셔닝 AI' 최초 공개]]]></title>
-        <id>https://v.daum.net/v/20230619192549551</id>
-        <link href="https://v.daum.net/v/20230619192549551"/>
-        <updated>2023-06-19T11:14:07.746Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">19:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이미지에 딱맞는 언어 만들려면… 환각 줄이고 맥락 파악해야" [LG '캡셔닝 AI' 최초 공개]]]></title>
-        <id>https://v.daum.net/v/20230619192542550</id>
-        <link href="https://v.daum.net/v/20230619192542550"/>
-        <updated>2023-06-19T11:14:07.748Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">19:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[청론직설] “미·중 우발 충돌 배제 못해···육해공 국방우주 합동성 강화해야”]]></title>
-        <id>https://v.daum.net/v/20230619192044478</id>
-        <link href="https://v.daum.net/v/20230619192044478"/>
-        <updated>2023-06-19T11:14:07.749Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">19:20</span>]]></content>
     </entry>
 </feed>
