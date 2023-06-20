@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-06-20T03:17:07.273Z</updated>
+    <updated>2023-06-20T04:18:50.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[데일리안 시사만평] 윤석열 '킬러문항' 배제 사과하라…이재명 대선공약이었는데 '무조건 반대'라니]]></title>
+        <id>https://v.daum.net/v/20230620130639960</id>
+        <link href="https://v.daum.net/v/20230620130639960"/>
+        <updated>2023-06-20T04:18:33.142Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">13:06</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[WEEKLY BIZ LETTER] 5%대 고금리에도 미국 경제가 버티는 3가지 이유]]></title>
+        <id>https://v.daum.net/v/20230620125326721</id>
+        <link href="https://v.daum.net/v/20230620125326721"/>
+        <updated>2023-06-20T04:18:33.144Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">12:53</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[시시비비]공공 산후조리원, 필요하나 필수는 아니다]]></title>
         <id>https://v.daum.net/v/20230620120203516</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230620112108308"/>
         <updated>2023-06-20T02:37:30.976Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">11:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[발언대]'졸속' 비대면진료 시범사업, 함께 고쳐나가자]]></title>
-        <id>https://v.daum.net/v/20230620110058363</id>
-        <link href="https://v.daum.net/v/20230620110058363"/>
-        <updated>2023-06-20T02:37:30.977Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[호국보훈의 달, 위대한 헌신 잊지 않겠습니다]]></title>
-        <id>https://v.daum.net/v/20230620110025293</id>
-        <link href="https://v.daum.net/v/20230620110025293"/>
-        <updated>2023-06-20T02:37:30.979Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">11:00</span>]]></content>
     </entry>
 </feed>
