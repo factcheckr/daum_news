@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-06-21T11:14:53.979Z</updated>
+    <updated>2023-06-21T12:29:31.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] AMAZFIT LAUNCHES NEW AMAZFIT CHEETAH SERIES: SMARTWATCHES]]></title>
+        <id>https://v.daum.net/v/20230621210953533</id>
+        <link href="https://v.daum.net/v/20230621210953533"/>
+        <updated>2023-06-21T12:29:23.049Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">21:09</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] 사우디아라비아 인적자원·사회개발부, 제네바에서 대화 세션 진행]]></title>
         <id>https://v.daum.net/v/20230621191609246</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230621175703180"/>
         <updated>2023-06-21T09:16:07.208Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:57</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빈티지하우스 ‘매출 최소화 이익 최대화’ 출간]]></title>
-        <id>https://v.daum.net/v/20230621174703877</id>
-        <link href="https://v.daum.net/v/20230621174703877"/>
-        <updated>2023-06-21T09:16:07.210Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:47</span>]]></content>
     </entry>
 </feed>
