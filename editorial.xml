@@ -2,11 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-06-21T05:16:18.946Z</updated>
+    <updated>2023-06-21T06:23:22.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[김영희 칼럼] 대통령 한마디에 시스템이 무너지는 나라]]></title>
+        <title type="html"><![CDATA[[논단]전기차와 삼성전자의 미래]]></title>
+        <id>https://v.daum.net/v/20230621144821606</id>
+        <link href="https://v.daum.net/v/20230621144821606"/>
+        <updated>2023-06-21T06:23:04.137Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">14:48</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[자막뉴스] "건초더미에서 바늘 찾는 격"... 타이탄 발견 가능할까]]></title>
+        <id>https://v.daum.net/v/20230621144622524</id>
+        <link href="https://v.daum.net/v/20230621144622524"/>
+        <updated>2023-06-21T06:23:04.141Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">14:46</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[로봇판이구나]]></title>
+        <id>https://v.daum.net/v/20230621143604086</id>
+        <link href="https://v.daum.net/v/20230621143604086"/>
+        <updated>2023-06-21T06:23:04.145Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">14:36</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[데일리안 시사만평] 민주당 혁신위는 결국 이재명 '수렴청정?'…김은경의 '아바타' 놀음 언제까지 갈까?]]></title>
+        <id>https://v.daum.net/v/20230621142857777</id>
+        <link href="https://v.daum.net/v/20230621142857777"/>
+        <updated>2023-06-21T06:23:04.145Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">14:28</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대통령 한마디에 시스템이 무너지는 나라 [김영희 칼럼]]]></title>
         <id>https://v.daum.net/v/20230621141505192</id>
         <link href="https://v.daum.net/v/20230621141505192"/>
         <updated>2023-06-21T05:16:02.003Z</updated>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230621115146815"/>
         <updated>2023-06-21T03:16:41.591Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김충남의 시론]인구 위기 대응이 근원적 개혁이다]]></title>
-        <id>https://v.daum.net/v/20230621115143813</id>
-        <link href="https://v.daum.net/v/20230621115143813"/>
-        <updated>2023-06-21T03:16:41.591Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포럼]‘기업 여건 53위’ 개선 위한 특단 대책]]></title>
-        <id>https://v.daum.net/v/20230621114847678</id>
-        <link href="https://v.daum.net/v/20230621114847678"/>
-        <updated>2023-06-21T03:16:41.592Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포럼]행정대집행 범위 종합 검토 필요하다]]></title>
-        <id>https://v.daum.net/v/20230621114520538</id>
-        <link href="https://v.daum.net/v/20230621114520538"/>
-        <updated>2023-06-21T03:16:41.595Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KBS사장, 퇴진성명 하루 전 “수신료 분리돼도 고용·임금 차질없다”]]></title>
-        <id>https://v.daum.net/v/20230621114440501</id>
-        <link href="https://v.daum.net/v/20230621114440501"/>
-        <updated>2023-06-21T03:16:41.597Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">11:44</span>]]></content>
     </entry>
 </feed>
