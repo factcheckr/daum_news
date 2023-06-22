@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-06-22T20:18:29.987Z</updated>
+    <updated>2023-06-22T21:16:28.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[언더독스, 올 1분기 역대 최대 수주액 달성… 전년 동기 대비 250% 성장]]></title>
+        <id>https://v.daum.net/v/20230623060703292</id>
+        <link href="https://v.daum.net/v/20230623060703292"/>
+        <updated>2023-06-22T21:16:15.647Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">06:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[동해안 어업인 “일 오염수 방류 대응 수산물 소비촉진 대책을”]]></title>
         <id>https://v.daum.net/v/20230623000638309</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230623000452221</id>
         <link href="https://v.daum.net/v/20230623000452221"/>
         <updated>2023-06-22T15:16:01.486Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[분양 포커스] 반도체 클러스터 미래가치 품은 단지 2회차 분양]]></title>
-        <id>https://v.daum.net/v/20230623000449220</id>
-        <link href="https://v.daum.net/v/20230623000449220"/>
-        <updated>2023-06-22T15:16:01.488Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
     </entry>
 </feed>
