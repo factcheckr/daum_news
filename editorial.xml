@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-06-23T10:19:57.806Z</updated>
+    <updated>2023-06-23T11:15:58.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[촌철살인] 34회 尹 수능 발언 논란·이재명 불체포특권 포기 선언]]></title>
+        <id>https://v.daum.net/v/20230623195102609</id>
+        <link href="https://v.daum.net/v/20230623195102609"/>
+        <updated>2023-06-23T11:15:39.393Z</updated>
+        <content type="html"><![CDATA[kbc광주방송<span class="txt_bar"> · </span><span class="info_time">19:51</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 불투명 발표 뒤 사드 반대에 ‘괴담’ 딱지, 정치공세 활용 안돼]]></title>
         <id>https://v.daum.net/v/20230623184515393</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230623170010504</id>
         <link href="https://v.daum.net/v/20230623170010504"/>
         <updated>2023-06-23T08:21:32.369Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">17:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그 자리에 있으면 안 되는 사람들 [메아리]]]></title>
-        <id>https://v.daum.net/v/20230623170004493</id>
-        <link href="https://v.daum.net/v/20230623170004493"/>
-        <updated>2023-06-23T08:21:32.370Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">17:00</span>]]></content>
     </entry>
 </feed>
