@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-06-23T12:37:40.152Z</updated>
+    <updated>2023-06-23T13:28:55.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[온전한 애도를 위하여 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20230623220017665</id>
+        <link href="https://v.daum.net/v/20230623220017665"/>
+        <updated>2023-06-23T13:28:37.481Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[골프가 아내를 과부로 만들었다고? [정현권의 감성골프]]]></title>
         <id>https://v.daum.net/v/20230623204801499</id>
@@ -62,6 +69,13 @@
         <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">18:30</span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[VIEW POINT] 공장 온다고 12조원 지원한 美…손놓고 있는 韓]]></title>
+        <id>https://v.daum.net/v/20230623173622635</id>
+        <link href="https://v.daum.net/v/20230623173622635"/>
+        <updated>2023-06-23T13:28:37.504Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:36</span>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[아이디]]></title>
         <id>https://v.daum.net/v/20230623172712344</id>
         <link href="https://v.daum.net/v/20230623172712344"/>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230623172700332"/>
         <updated>2023-06-23T09:17:51.280Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조계종 한마디에 티베트 인권 사과, 민주당의 '참을 수 없는 가벼움' [사설]]]></title>
-        <id>https://v.daum.net/v/20230623170918859</id>
-        <link href="https://v.daum.net/v/20230623170918859"/>
-        <updated>2023-06-23T08:21:32.363Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[15년째 MSCI 선진국 지수 문턱 못넘은 매력없는 한국 증시 [사설]]]></title>
-        <id>https://v.daum.net/v/20230623170918858</id>
-        <link href="https://v.daum.net/v/20230623170918858"/>
-        <updated>2023-06-23T08:21:32.363Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:09</span>]]></content>
     </entry>
 </feed>
