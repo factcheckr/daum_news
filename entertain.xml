@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2023-06-23T17:16:55.909Z</updated>
+    <updated>2023-06-23T18:21:13.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘의 채널A]허리 건강 무너진 외딴섬 朴할머니]]></title>
+        <id>https://v.daum.net/v/20230624030141287</id>
+        <link href="https://v.daum.net/v/20230624030141287"/>
+        <updated>2023-06-23T18:20:30.208Z</updated>
+        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">03:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['엘리멘탈' 빠른 입소문에 흥행 역주행...6월 개봉작 박스오피스 1위]]></title>
+        <id>https://v.daum.net/v/20230624030031248</id>
+        <link href="https://v.daum.net/v/20230624030031248"/>
+        <updated>2023-06-23T18:20:30.212Z</updated>
+        <content type="html"><![CDATA[TV리포트<span class="txt_bar"> · </span><span class="info_time">03:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김시아, K-드라마 미래는 밝음 [화보]]]></title>
+        <id>https://v.daum.net/v/20230624030006240</id>
+        <link href="https://v.daum.net/v/20230624030006240"/>
+        <updated>2023-06-23T18:20:30.212Z</updated>
+        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">03:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['악귀' 진선규, 자신과 똑같이 생긴 악귀에 '살해'…손목에 남은 '피멍' 눈길]]></title>
+        <id>https://v.daum.net/v/20230624024801224</id>
+        <link href="https://v.daum.net/v/20230624024801224"/>
+        <updated>2023-06-23T18:20:30.213Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스<span class="txt_bar"> · </span><span class="info_time">02:48</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[설경구 주연 '더 문', K무비 최초 돌비 시네마로 기대감 증폭]]></title>
         <id>https://v.daum.net/v/20230624020030193</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230624011800071"/>
         <updated>2023-06-23T16:21:52.705Z</updated>
         <content type="html"><![CDATA[스타투데이<span class="txt_bar"> · </span><span class="info_time">01:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안유진 “나에게 이미지란… 예능 열심히 해야겠다” 은갈치 의상에 체념 [지락실2]]]></title>
-        <id>https://v.daum.net/v/20230624011431061</id>
-        <link href="https://v.daum.net/v/20230624011431061"/>
-        <updated>2023-06-23T16:21:52.708Z</updated>
-        <content type="html"><![CDATA[마이데일리<span class="txt_bar"> · </span><span class="info_time">01:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미미·이영지 "'지락실' 촬영, 매니저도 안 따라가…그래서 상태 이렇다"]]></title>
-        <id>https://v.daum.net/v/20230624011002053</id>
-        <link href="https://v.daum.net/v/20230624011002053"/>
-        <updated>2023-06-23T16:21:52.710Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스<span class="txt_bar"> · </span><span class="info_time">01:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나혼산' 전현무 '대세' 기안84 견제 "대상 후보라고 요구?" [★밤TView]]]></title>
-        <id>https://v.daum.net/v/20230624010939051</id>
-        <link href="https://v.daum.net/v/20230624010939051"/>
-        <updated>2023-06-23T16:21:52.712Z</updated>
-        <content type="html"><![CDATA[스타뉴스<span class="txt_bar"> · </span><span class="info_time">01:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비공식작전' 하정우X주지훈 믿고 보는 조합 완성]]></title>
-        <id>https://v.daum.net/v/20230624010030013</id>
-        <link href="https://v.daum.net/v/20230624010030013"/>
-        <updated>2023-06-23T16:21:52.713Z</updated>
-        <content type="html"><![CDATA[TV리포트<span class="txt_bar"> · </span><span class="info_time">01:00</span>]]></content>
     </entry>
 </feed>
