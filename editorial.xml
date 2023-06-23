@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-06-23T09:18:13.910Z</updated>
+    <updated>2023-06-23T10:19:57.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[VIEW POINT] 공장 온다고 12조원 지원한 美…손놓고 있는 韓]]></title>
-        <id>https://v.daum.net/v/20230623173622635</id>
-        <link href="https://v.daum.net/v/20230623173622635"/>
-        <updated>2023-06-23T09:17:51.272Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:36</span>]]></content>
+        <title type="html"><![CDATA[[사설] 불투명 발표 뒤 사드 반대에 ‘괴담’ 딱지, 정치공세 활용 안돼]]></title>
+        <id>https://v.daum.net/v/20230623184515393</id>
+        <link href="https://v.daum.net/v/20230623184515393"/>
+        <updated>2023-06-23T10:19:36.933Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">18:45</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사설] ‘저출생’ 수백조 쓰며 ‘미신고’ 아동 방치, 출생통보제 서둘러야]]></title>
+        <id>https://v.daum.net/v/20230623183006119</id>
+        <link href="https://v.daum.net/v/20230623183006119"/>
+        <updated>2023-06-23T10:19:36.933Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">18:30</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아이디]]></title>
@@ -20,7 +27,7 @@
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:27</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[리더의 소통] 돈키호테와 퍼거슨 감독의 리더십]]></title>
+        <title type="html"><![CDATA[[손관승의 리더의 소통] 돈키호테와 퍼거슨 감독의 리더십]]></title>
         <id>https://v.daum.net/v/20230623172711343</id>
         <link href="https://v.daum.net/v/20230623172711343"/>
         <updated>2023-06-23T09:17:51.275Z</updated>
@@ -41,7 +48,7 @@
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:27</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[도시 발견] '주민'과 '집']]></title>
+        <title type="html"><![CDATA[[김시덕의 도시 발견] '주민'과 '집']]></title>
         <id>https://v.daum.net/v/20230623172700332</id>
         <link href="https://v.daum.net/v/20230623172700332"/>
         <updated>2023-06-23T09:17:51.280Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230623170004493"/>
         <updated>2023-06-23T08:21:32.370Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">17:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[허연의 책과 지성] "아무리 좋은 이상도 카리스마 없으면 신기루"]]></title>
-        <id>https://v.daum.net/v/20230623164517992</id>
-        <link href="https://v.daum.net/v/20230623164517992"/>
-        <updated>2023-06-23T08:21:32.370Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">16:45</span>]]></content>
     </entry>
 </feed>
