@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/society</id>
     <title>다음 뉴스 ─ 전체기사 ─ 사회</title>
-    <updated>2023-06-24T16:21:27.914Z</updated>
+    <updated>2023-06-24T17:15:06.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['정준영 황금폰' 포렌식업자, 부당 포상 의혹에…권익위 "정당 절차"]]></title>
+        <id>https://v.daum.net/v/20230625021327947</id>
+        <link href="https://v.daum.net/v/20230625021327947"/>
+        <updated>2023-06-24T17:13:39.852Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">02:13</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이정식 "베트남과 노동허가 요건 완화 적극 협의"]]></title>
         <id>https://v.daum.net/v/20230625011914912</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230625001152810"/>
         <updated>2023-06-24T15:15:33.390Z</updated>
         <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">00:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[창원시설공단, 전국 심폐소생술 대회 ‘질병관리청장상’ 수상]]></title>
-        <id>https://v.daum.net/v/20230625001119806</id>
-        <link href="https://v.daum.net/v/20230625001119806"/>
-        <updated>2023-06-24T15:15:33.390Z</updated>
-        <content type="html"><![CDATA[프레시안<span class="txt_bar"> · </span><span class="info_time">00:11</span>]]></content>
     </entry>
 </feed>
