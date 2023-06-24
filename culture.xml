@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2023-06-24T17:15:06.522Z</updated>
+    <updated>2023-06-24T18:20:41.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[가정예배 365-6월 25일] 이들은 우리의 형제로다]]></title>
+        <id>https://v.daum.net/v/20230625030208995</id>
+        <link href="https://v.daum.net/v/20230625030208995"/>
+        <updated>2023-06-24T18:19:49.978Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">03:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오늘의 운세] 6월 25일 일요일 (음력 5월 8일 /甲寅) 띠별 / 생년월일 운세]]></title>
         <id>https://v.daum.net/v/20230625010135893</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230625000202763"/>
         <updated>2023-06-24T15:16:01.698Z</updated>
         <content type="html"><![CDATA[bnt뉴스<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당신의 애창곡]]></title>
-        <id>https://v.daum.net/v/20230625000132761</id>
-        <link href="https://v.daum.net/v/20230625000132761"/>
-        <updated>2023-06-24T15:16:01.701Z</updated>
-        <content type="html"><![CDATA[엘르<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
     </entry>
 </feed>
