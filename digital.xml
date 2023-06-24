@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-06-24T08:21:02.559Z</updated>
+    <updated>2023-06-24T09:16:53.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중기부 "베트남 하노이에 9월 스타트업센터 개소"]]></title>
+        <id>https://v.daum.net/v/20230624181300816</id>
+        <link href="https://v.daum.net/v/20230624181300816"/>
+        <updated>2023-06-24T09:16:29.092Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">18:13</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[`머스크 vs 저커버그 맞짱` 부른 메타 새 SNS 얼마나 강력하길래]]></title>
+        <id>https://v.daum.net/v/20230624181016775</id>
+        <link href="https://v.daum.net/v/20230624181016775"/>
+        <updated>2023-06-24T09:16:29.092Z</updated>
+        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">18:10</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서머너즈 워 "신규 룬 나와도 기존 룬 가치 훼손 없다"]]></title>
         <id>https://v.daum.net/v/20230624171335921</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230624150653122"/>
         <updated>2023-06-24T06:21:35.868Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스<span class="txt_bar"> · </span><span class="info_time">15:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['켈린' 김형규, 어떤 챔피언이 좋을까[포토]]]></title>
-        <id>https://v.daum.net/v/20230624150517086</id>
-        <link href="https://v.daum.net/v/20230624150517086"/>
-        <updated>2023-06-24T06:21:35.870Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스<span class="txt_bar"> · </span><span class="info_time">15:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['칸나' 김창동, 승리가 필요해[포토]]]></title>
-        <id>https://v.daum.net/v/20230624150441075</id>
-        <link href="https://v.daum.net/v/20230624150441075"/>
-        <updated>2023-06-24T06:21:35.871Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스<span class="txt_bar"> · </span><span class="info_time">15:04</span>]]></content>
     </entry>
 </feed>
