@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-06-25T12:32:13.066Z</updated>
+    <updated>2023-06-25T13:23:30.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[군산 `도심 속 피서지` 야외수영장 내달 7일 개장]]></title>
+        <id>https://v.daum.net/v/20230625215004730</id>
+        <link href="https://v.daum.net/v/20230625215004730"/>
+        <updated>2023-06-25T13:23:21.125Z</updated>
+        <content type="html"><![CDATA[투어코리아<span class="txt_bar"> · </span><span class="info_time">21:50</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4만㎡에 펼쳐진 '꽃의 향연' 양구 파로호 꽃섬 장관]]></title>
         <id>https://v.daum.net/v/20230625180050219</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230625115701617"/>
         <updated>2023-06-25T03:13:11.329Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">11:57</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이온큐-퀀텀바젤, 유럽에서 2세대 아이온큐 퀀텀 시스템 배포로 미래의 퀀텀 이점을 달성하기 위해 협력]]></title>
-        <id>https://v.daum.net/v/20230625114703527</id>
-        <link href="https://v.daum.net/v/20230625114703527"/>
-        <updated>2023-06-25T03:13:11.330Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">11:47</span>]]></content>
     </entry>
 </feed>
