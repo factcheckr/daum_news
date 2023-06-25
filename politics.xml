@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2023-06-25T16:21:20.523Z</updated>
+    <updated>2023-06-25T17:15:27.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이래진씨, 文·민주 겨냥 “재임 중 ‘종전 선언’ 헛짓거리…‘간첩’ 뒤집어씌워”]]></title>
+        <id>https://v.daum.net/v/20230626015511803</id>
+        <link href="https://v.daum.net/v/20230626015511803"/>
+        <updated>2023-06-25T17:14:16.126Z</updated>
+        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">01:55</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[날 세운 이언주 “尹정권·국민의힘, 대중 갈라치기…‘내로남불’ 文정권보다 더 해”]]></title>
         <id>https://v.daum.net/v/20230626004909682</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230626000139381"/>
         <updated>2023-06-25T15:16:14.812Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김동연 경기도지사 취임 1주년 “기초공사 끝, ‘제대로된 집’ 지을 것” [인터뷰]]]></title>
-        <id>https://v.daum.net/v/20230626000130379</id>
-        <link href="https://v.daum.net/v/20230626000130379"/>
-        <updated>2023-06-25T15:16:14.814Z</updated>
-        <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
     </entry>
 </feed>
