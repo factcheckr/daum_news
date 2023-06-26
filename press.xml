@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-06-26T13:27:32.072Z</updated>
+    <updated>2023-06-26T14:16:56.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[AsiaNet] Polyplastics, 의료 산업용 PM 시리즈 DURACON (R) POM의 상용화 발표]]></title>
+        <id>https://v.daum.net/v/20230626223522146</id>
+        <link href="https://v.daum.net/v/20230626223522146"/>
+        <updated>2023-06-26T14:16:47.454Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">22:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] Xinhua Silk Road: SW. China's Chongqing Yubei District committed]]></title>
         <id>https://v.daum.net/v/20230626204505072</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230626175253113"/>
         <updated>2023-06-26T09:19:22.041Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:52</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울 학교급식에 담양 친환경 쌀 연간 100톤 공급된다]]></title>
-        <id>https://v.daum.net/v/20230626173353508</id>
-        <link href="https://v.daum.net/v/20230626173353508"/>
-        <updated>2023-06-26T09:19:22.041Z</updated>
-        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">17:33</span>]]></content>
     </entry>
 </feed>
