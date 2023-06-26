@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-06-26T12:33:40.727Z</updated>
+    <updated>2023-06-26T13:27:32.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[현수막 정치와 공자의 정치[삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20230626220010888</id>
+        <link href="https://v.daum.net/v/20230626220010888"/>
+        <updated>2023-06-26T13:27:10.798Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[광화문] 관료주의에 갇힌 혁신]]></title>
+        <id>https://v.daum.net/v/20230626220002880</id>
+        <link href="https://v.daum.net/v/20230626220002880"/>
+        <updated>2023-06-26T13:27:10.799Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[국민만평-서민호 화백] 2023년 6월 27일]]></title>
+        <id>https://v.daum.net/v/20230626213526601</id>
+        <link href="https://v.daum.net/v/20230626213526601"/>
+        <updated>2023-06-26T13:27:10.800Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">21:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[만물상] 일본의 반도체 반격]]></title>
         <id>https://v.daum.net/v/20230626213308580</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230626193743356"/>
         <updated>2023-06-26T11:15:04.304Z</updated>
         <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">19:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 與지도부, 충청 대선 국정과제 각별히 챙겨야]]></title>
-        <id>https://v.daum.net/v/20230626193741355</id>
-        <link href="https://v.daum.net/v/20230626193741355"/>
-        <updated>2023-06-26T11:15:04.305Z</updated>
-        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">19:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박용석 만평] 6월 27일]]></title>
-        <id>https://v.daum.net/v/20230626193028239</id>
-        <link href="https://v.daum.net/v/20230626193028239"/>
-        <updated>2023-06-26T11:15:04.306Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">19:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뜨거운 대륙 아프리카의 미래 밝히는 풍부한 재생에너지 [무지갯빛 아프리카]]]></title>
-        <id>https://v.daum.net/v/20230626190101818</id>
-        <link href="https://v.daum.net/v/20230626190101818"/>
-        <updated>2023-06-26T10:19:31.907Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">19:01</span>]]></content>
     </entry>
 </feed>
