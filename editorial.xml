@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-06-26T22:18:06.320Z</updated>
+    <updated>2023-06-26T23:18:31.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[기고]노인성 난청, 골든타임이 중요하다]]></title>
+        <id>https://v.daum.net/v/20230627080808696</id>
+        <link href="https://v.daum.net/v/20230627080808696"/>
+        <updated>2023-06-26T23:18:13.884Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">08:08</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[82년 만에 문 닫는 서울백병원 [기자들의 시선]]]></title>
         <id>https://v.daum.net/v/20230627070813832</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230627060059930"/>
         <updated>2023-06-26T21:15:35.706Z</updated>
         <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기자수첩] 소비자 우롱하는 보험 절판 마케팅, 확실하게 채찍 들어야]]></title>
-        <id>https://v.daum.net/v/20230627060055923</id>
-        <link href="https://v.daum.net/v/20230627060055923"/>
-        <updated>2023-06-26T21:15:35.706Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
     </entry>
 </feed>
