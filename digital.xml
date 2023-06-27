@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-06-27T13:26:12.337Z</updated>
+    <updated>2023-06-27T14:16:07.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삼성 플립5 실물 추정 사진 유출···"넓은 화면, 평평한 힌지" 예상 다 맞다]]></title>
+        <id>https://v.daum.net/v/20230627231152168</id>
+        <link href="https://v.daum.net/v/20230627231152168"/>
+        <updated>2023-06-27T14:15:38.232Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">23:11</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임무 2년 연장된 다누리…배터리 방전 가능성은 변수]]></title>
+        <id>https://v.daum.net/v/20230627223649954</id>
+        <link href="https://v.daum.net/v/20230627223649954"/>
+        <updated>2023-06-27T14:15:38.232Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV<span class="txt_bar"> · </span><span class="info_time">22:36</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신한울 3·4호기 건설 본격화…“지역 경제 활성화 기대”]]></title>
         <id>https://v.daum.net/v/20230627221424741</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230627210102487"/>
         <updated>2023-06-27T12:33:38.480Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">21:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["양자 기술 연구 적기…한국 반도체 공정기술 큰 도움 줄 것"]]></title>
-        <id>https://v.daum.net/v/20230627205943452</id>
-        <link href="https://v.daum.net/v/20230627205943452"/>
-        <updated>2023-06-27T12:33:38.480Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">20:59</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[글로벌 양자 석학들 “반도체 경험 살리면 양자기술도 선도국 추격 가능”]]></title>
-        <id>https://v.daum.net/v/20230627204946260</id>
-        <link href="https://v.daum.net/v/20230627204946260"/>
-        <updated>2023-06-27T12:33:38.481Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">20:49</span>]]></content>
     </entry>
 </feed>
