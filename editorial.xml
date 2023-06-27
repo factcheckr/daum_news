@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-06-27T16:22:54.966Z</updated>
+    <updated>2023-06-27T17:16:34.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]이 세상은 무대, 우리는 배우]]></title>
+        <id>https://v.daum.net/v/20230628020502131</id>
+        <link href="https://v.daum.net/v/20230628020502131"/>
+        <updated>2023-06-27T17:16:13.693Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정운찬 칼럼] 한국 경제의 카지노화를 경계한다]]></title>
         <id>https://v.daum.net/v/20230628005829936</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230628004228852"/>
         <updated>2023-06-27T16:22:35.396Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[WT논평] Did Lockdowns Work? (3)]]></title>
-        <id>https://v.daum.net/v/20230628004220851</id>
-        <link href="https://v.daum.net/v/20230628004220851"/>
-        <updated>2023-06-27T16:22:35.399Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">00:42</span>]]></content>
     </entry>
 </feed>
