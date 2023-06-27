@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-06-27T10:19:35.423Z</updated>
+    <updated>2023-06-27T11:15:03.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정종복 기장군수 “기장-장안 송전선로 원점서 재검토 요청”]]></title>
+        <id>https://v.daum.net/v/20230627192230485</id>
+        <link href="https://v.daum.net/v/20230627192230485"/>
+        <updated>2023-06-27T11:14:55.319Z</updated>
+        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">19:22</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세종사이버대 한국어학과, ‘AI시대, 한국어교사 위한 챗GPT의 이해와 활용’ 공개 특강 개최]]></title>
         <id>https://v.daum.net/v/20230627184108425</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230627171930607"/>
         <updated>2023-06-27T08:21:51.133Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:19</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[충북 시·장군수협의회 정례회 보은서 개최]]></title>
-        <id>https://v.daum.net/v/20230627171526476</id>
-        <link href="https://v.daum.net/v/20230627171526476"/>
-        <updated>2023-06-27T08:21:51.134Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:15</span>]]></content>
     </entry>
 </feed>
