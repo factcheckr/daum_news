@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-06-28T12:35:05.689Z</updated>
+    <updated>2023-06-28T13:26:44.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[맥아더 동상에 미군추방 낙서…반미단체 회원들 유죄]]></title>
+        <id>https://v.daum.net/v/20230628222211882</id>
+        <link href="https://v.daum.net/v/20230628222211882"/>
+        <updated>2023-06-28T13:26:23.185Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV<span class="txt_bar"> · </span><span class="info_time">22:22</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[평범한 문장, 그러나 가슴에 콕 박힌 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20230628220036545</id>
+        <link href="https://v.daum.net/v/20230628220036545"/>
+        <updated>2023-06-28T13:26:23.188Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[만물상] 한 기업인의 ‘통 큰 선심’]]></title>
         <id>https://v.daum.net/v/20230628204409158</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230628193013537"/>
         <updated>2023-06-28T11:14:45.619Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">19:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이권 카르텔 낙인찍기 해괴한 굿판 [성한용 칼럼]]]></title>
-        <id>https://v.daum.net/v/20230628191503113</id>
-        <link href="https://v.daum.net/v/20230628191503113"/>
-        <updated>2023-06-28T10:18:43.871Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[진리의 샘] 인공지능과 거짓 예언자를 구분하라]]></title>
-        <id>https://v.daum.net/v/20230628191218023</id>
-        <link href="https://v.daum.net/v/20230628191218023"/>
-        <updated>2023-06-28T10:18:43.872Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">19:12</span>]]></content>
     </entry>
 </feed>
