@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-06-28T16:30:32.566Z</updated>
+    <updated>2023-06-28T17:15:38.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[세계타워] ‘코이 물고기’ 이야기 다시 들을 수 있을까]]></title>
+        <id>https://v.daum.net/v/20230629021502492</id>
+        <link href="https://v.daum.net/v/20230629021502492"/>
+        <updated>2023-06-28T17:15:22.093Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">02:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[한국에살며] 가면을 쓰고 사는 사람들]]></title>
+        <id>https://v.daum.net/v/20230629021449490</id>
+        <link href="https://v.daum.net/v/20230629021449490"/>
+        <updated>2023-06-28T17:15:22.093Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">02:14</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사이언스프리즘] ‘소년’이 온다]]></title>
+        <id>https://v.daum.net/v/20230629021437489</id>
+        <link href="https://v.daum.net/v/20230629021437489"/>
+        <updated>2023-06-28T17:15:22.095Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">02:14</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]좋은 고독, 나쁜 고독]]></title>
+        <id>https://v.daum.net/v/20230629020505481</id>
+        <link href="https://v.daum.net/v/20230629020505481"/>
+        <updated>2023-06-28T17:15:22.095Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]수능, 킬러 문항, 그리고 대입 혁신]]></title>
+        <id>https://v.daum.net/v/20230629020502480</id>
+        <link href="https://v.daum.net/v/20230629020502480"/>
+        <updated>2023-06-28T17:15:22.097Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중앙시평] 대한민국 조롱하는 벌처펀드]]></title>
         <id>https://v.daum.net/v/20230629010338297</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20230629004601227"/>
         <updated>2023-06-28T16:30:13.811Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:46</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[권혁재의 사람사진] ‘우영우’ ‘이산’ 등 299편 밑그림/ 콘티계의 '시조새' 강숙 작가]]></title>
-        <id>https://v.daum.net/v/20230629004425222</id>
-        <link href="https://v.daum.net/v/20230629004425222"/>
-        <updated>2023-06-28T16:30:13.811Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:44</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[천자칼럼] 화이트(white)라는 단어의 마력]]></title>
-        <id>https://v.daum.net/v/20230629004407218</id>
-        <link href="https://v.daum.net/v/20230629004407218"/>
-        <updated>2023-06-28T16:30:13.811Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:44</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데스크 칼럼] 의대 정원 확대 더 늦출 수 없다]]></title>
-        <id>https://v.daum.net/v/20230629004302216</id>
-        <link href="https://v.daum.net/v/20230629004302216"/>
-        <updated>2023-06-28T16:30:13.811Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김병기 ‘필향만리’] 祿在其中矣(녹재기중의)]]></title>
-        <id>https://v.daum.net/v/20230629004225214</id>
-        <link href="https://v.daum.net/v/20230629004225214"/>
-        <updated>2023-06-28T16:30:13.812Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[취재수첩] '찜통 교실' 이미 해결됐는데…학교까지 찾아가 숟가락 얹은 여당]]></title>
-        <id>https://v.daum.net/v/20230629004101205</id>
-        <link href="https://v.daum.net/v/20230629004101205"/>
-        <updated>2023-06-28T16:30:13.813Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:41</span>]]></content>
     </entry>
 </feed>
