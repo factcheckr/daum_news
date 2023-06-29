@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-06-29T12:36:40.611Z</updated>
+    <updated>2023-06-29T13:29:53.713Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[딸을 키운 8할은 믿음이었다 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20230629220016675</id>
+        <link href="https://v.daum.net/v/20230629220016675"/>
+        <updated>2023-06-29T13:29:35.471Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[만물상] 차관 장미란]]></title>
         <id>https://v.daum.net/v/20230629205212592</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230629194209967</id>
         <link href="https://v.daum.net/v/20230629194209967"/>
         <updated>2023-06-29T11:15:01.534Z</updated>
-        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">19:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 하계U대회 '재창립', 성공 개최 차질 없도록]]></title>
-        <id>https://v.daum.net/v/20230629194205960</id>
-        <link href="https://v.daum.net/v/20230629194205960"/>
-        <updated>2023-06-29T11:15:01.535Z</updated>
         <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">19:42</span>]]></content>
     </entry>
 </feed>
