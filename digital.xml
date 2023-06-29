@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-06-29T13:29:53.724Z</updated>
+    <updated>2023-06-29T14:17:22.961Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[브라운더스트2 "반복 피로감 줄이고, 과금 효율 높인다"]]></title>
+        <id>https://v.daum.net/v/20230629224959144</id>
+        <link href="https://v.daum.net/v/20230629224959144"/>
+        <updated>2023-06-29T14:16:52.203Z</updated>
+        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">22:49</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["내 개인정보 훔쳤다"…챗GPT, 4조원 규모 집단소송 당해]]></title>
         <id>https://v.daum.net/v/20230629221526911</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230629210034757"/>
         <updated>2023-06-29T12:36:10.057Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">21:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내 연구진, 세계 최초 ‘액체 정전기 현상’ 정립]]></title>
-        <id>https://v.daum.net/v/20230629204406440</id>
-        <link href="https://v.daum.net/v/20230629204406440"/>
-        <updated>2023-06-29T12:36:10.062Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">20:44</span>]]></content>
     </entry>
 </feed>
