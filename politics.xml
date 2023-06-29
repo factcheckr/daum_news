@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2023-06-29T16:25:23.951Z</updated>
+    <updated>2023-06-29T17:15:54.085Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김영호 통일부 장관 지명자 "원칙 갖고 북핵·남북관계 노력"]]></title>
+        <id>https://v.daum.net/v/20230630020410262</id>
+        <link href="https://v.daum.net/v/20230630020410262"/>
+        <updated>2023-06-29T17:14:34.687Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">02:04</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주가조작 이득 환수법 법사위 통과...최대 2배 과징금]]></title>
         <id>https://v.daum.net/v/20230630011310122</id>
@@ -41,7 +48,7 @@
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:58</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[속보]‘50억 클럽’ 박영수 前특검 구속영장 기각… 檢 수사차질 불가피]]></title>
+        <title type="html"><![CDATA[‘50억 클럽’ 박영수 前특검 구속영장 기각… 檢 수사차질 불가피]]></title>
         <id>https://v.daum.net/v/20230630005016007</id>
         <link href="https://v.daum.net/v/20230630005016007"/>
         <updated>2023-06-29T16:24:11.685Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230630001134838"/>
         <updated>2023-06-29T15:16:15.441Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허영 주거취약층 민원 속출 지적에 정부 “지원책 신속 마련”]]></title>
-        <id>https://v.daum.net/v/20230630000637803</id>
-        <link href="https://v.daum.net/v/20230630000637803"/>
-        <updated>2023-06-29T15:16:15.442Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
     </entry>
 </feed>
