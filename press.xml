@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-06-30T11:14:55.200Z</updated>
+    <updated>2023-06-30T12:31:32.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Showcasing Chengdu to the world! The 2023 East Asia Culture]]></title>
+        <id>https://v.daum.net/v/20230630211914102</id>
+        <link href="https://v.daum.net/v/20230630211914102"/>
+        <updated>2023-06-30T12:31:21.538Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">21:19</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] 화웨이, 2024년에 완전한 상용 5.5G 네트워크 장비 세트 출시 예정]]></title>
         <id>https://v.daum.net/v/20230630191513255</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230630175227398"/>
         <updated>2023-06-30T09:17:20.281Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">17:52</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서경대학교 GKS사업단, 동북아역사재단과 함께 정부초청외국인장학생(GKS) 대상 외국인 역사 문화 탐방 프로그램 진행]]></title>
-        <id>https://v.daum.net/v/20230630174952288</id>
-        <link href="https://v.daum.net/v/20230630174952288"/>
-        <updated>2023-06-30T09:17:20.282Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">17:49</span>]]></content>
     </entry>
 </feed>
