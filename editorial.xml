@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-06-30T03:22:53.573Z</updated>
+    <updated>2023-06-30T04:20:22.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[시사컬처]'매일 글 쓰는 삶'을 위한 전제조건]]></title>
+        <id>https://v.daum.net/v/20230630123232954</id>
+        <link href="https://v.daum.net/v/20230630123232954"/>
+        <updated>2023-06-30T04:20:04.849Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">12:32</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조선·중앙·TV조선·채널A, 무보도로 '이태원 특별법' 철저히 외면]]></title>
         <id>https://v.daum.net/v/20230630122007710</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230630111003953"/>
         <updated>2023-06-30T02:52:49.746Z</updated>
         <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">11:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[조용준의만리여담]"이 돈이면 차라리 동남아를 가지"]]></title>
-        <id>https://v.daum.net/v/20230630110016589</id>
-        <link href="https://v.daum.net/v/20230630110016589"/>
-        <updated>2023-06-30T02:52:49.746Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:00</span>]]></content>
     </entry>
 </feed>
