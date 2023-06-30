@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-06-30T06:22:32.043Z</updated>
+    <updated>2023-06-30T07:15:45.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[fn 사설] 미국 '공정 교육' 논란에서 한국 '공정 수능'이 배울 점]]></title>
+        <id>https://v.daum.net/v/20230630154637523</id>
+        <link href="https://v.daum.net/v/20230630154637523"/>
+        <updated>2023-06-30T07:15:26.898Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:46</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[속보] 법원 “정부·서울시, 론스타에 1682억 반환” 판결]]></title>
+        <id>https://v.daum.net/v/20230630154137319</id>
+        <link href="https://v.daum.net/v/20230630154137319"/>
+        <updated>2023-06-30T07:15:26.904Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">15:41</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인사] 국립공원공단]]></title>
         <id>https://v.daum.net/v/20230630150615076</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230630115433940"/>
         <updated>2023-06-30T03:22:36.625Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:54</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포럼]‘빚내서 35조 추경’은 자녀세대 약탈]]></title>
-        <id>https://v.daum.net/v/20230630115138832</id>
-        <link href="https://v.daum.net/v/20230630115138832"/>
-        <updated>2023-06-30T02:52:49.730Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포럼]전방위 韓日협력 강화는 시대적 요구]]></title>
-        <id>https://v.daum.net/v/20230630115136831</id>
-        <link href="https://v.daum.net/v/20230630115136831"/>
-        <updated>2023-06-30T02:52:49.731Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:51</span>]]></content>
     </entry>
 </feed>
