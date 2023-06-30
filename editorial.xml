@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-06-30T22:17:50.808Z</updated>
+    <updated>2023-06-30T23:16:50.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[김회룡의 시사 TOON]]]></title>
+        <id>https://v.daum.net/v/20230701080803310</id>
+        <link href="https://v.daum.net/v/20230701080803310"/>
+        <updated>2023-06-30T23:16:33.448Z</updated>
+        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">08:08</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[민주당 ‘오염수 장외집회’ 전국 동원령, 어민 절규와 국민 걱정은 안보이나 [핫이슈]]]></title>
+        <id>https://v.daum.net/v/20230701072100884</id>
+        <link href="https://v.daum.net/v/20230701072100884"/>
+        <updated>2023-06-30T23:16:33.449Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">07:21</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[황의조 관련 논란이 드러낸 것 [하재근의 이슈분석]]]></title>
         <id>https://v.daum.net/v/20230701070707786</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230701040419386"/>
         <updated>2023-06-30T19:13:57.738Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토 카페] 사랑 가득한 세상]]></title>
-        <id>https://v.daum.net/v/20230701040418385</id>
-        <link href="https://v.daum.net/v/20230701040418385"/>
-        <updated>2023-06-30T19:13:57.739Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 박영수 전 특검 영장 기각, 봐주기인가]]></title>
-        <id>https://v.daum.net/v/20230701040322378</id>
-        <link href="https://v.daum.net/v/20230701040322378"/>
-        <updated>2023-06-30T19:13:57.741Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:03</span>]]></content>
     </entry>
 </feed>
