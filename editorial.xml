@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-06-30T12:31:32.204Z</updated>
+    <updated>2023-06-30T13:23:13.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[쉼도 갓생 살기로 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20230630220054756</id>
+        <link href="https://v.daum.net/v/20230630220054756"/>
+        <updated>2023-06-30T13:22:57.830Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[머스크와 저커버그의 결투 [만물상]]]></title>
         <id>https://v.daum.net/v/20230630210216815</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230630171203300</id>
         <link href="https://v.daum.net/v/20230630171203300"/>
         <updated>2023-06-30T08:21:06.123Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韓 실손 빼먹기 비법 공유하는 중국인 … 먹튀 방지책 서둘러야 [사설]]]></title>
-        <id>https://v.daum.net/v/20230630171203298</id>
-        <link href="https://v.daum.net/v/20230630171203298"/>
-        <updated>2023-06-30T08:21:06.125Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:12</span>]]></content>
     </entry>
 </feed>
