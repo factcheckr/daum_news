@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-07-01T12:31:50.759Z</updated>
+    <updated>2023-07-01T13:21:49.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[검은사막 "찐 혜자 선물, 모두에게 '환상마' 준다"]]></title>
+        <id>https://v.daum.net/v/20230701215129286</id>
+        <link href="https://v.daum.net/v/20230701215129286"/>
+        <updated>2023-07-01T13:21:21.756Z</updated>
+        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">21:51</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“동네 배달 아저씨까지 카톡 친구” 30대 주부 피로감 하소연]]></title>
         <id>https://v.daum.net/v/20230701211942920</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230701175040840"/>
         <updated>2023-07-01T09:15:50.559Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">17:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인도서 1조 추징 당한 中 샤오미, 현지 직원 30% 해고]]></title>
-        <id>https://v.daum.net/v/20230701174255792</id>
-        <link href="https://v.daum.net/v/20230701174255792"/>
-        <updated>2023-07-01T09:15:50.559Z</updated>
-        <content type="html"><![CDATA[머니S<span class="txt_bar"> · </span><span class="info_time">17:42</span>]]></content>
     </entry>
 </feed>
