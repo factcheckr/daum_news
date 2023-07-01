@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-07-01T13:21:49.735Z</updated>
+    <updated>2023-07-01T14:14:43.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[호주, 우울증·PTSD 환자에 환각버섯·엑스터시 성분 의약품 처방 허용]]></title>
+        <id>https://v.daum.net/v/20230701222812510</id>
+        <link href="https://v.daum.net/v/20230701222812510"/>
+        <updated>2023-07-01T14:14:16.882Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">22:28</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[검은사막 "찐 혜자 선물, 모두에게 '환상마' 준다"]]></title>
         <id>https://v.daum.net/v/20230701215129286</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230701175536880"/>
         <updated>2023-07-01T09:15:50.559Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:55</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“65만원→1억3천만원...안 버리길 천만다행” 이 ‘고물폰’, 로또됐다]]></title>
-        <id>https://v.daum.net/v/20230701175040840</id>
-        <link href="https://v.daum.net/v/20230701175040840"/>
-        <updated>2023-07-01T09:15:50.559Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">17:50</span>]]></content>
     </entry>
 </feed>
