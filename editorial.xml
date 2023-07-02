@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-07-02T07:18:41.939Z</updated>
+    <updated>2023-07-02T08:20:36.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘이권 카르텔’에 관한 난이도 미상의 문제 [아침햇발]]]></title>
+        <id>https://v.daum.net/v/20230702170009659</id>
+        <link href="https://v.daum.net/v/20230702170009659"/>
+        <updated>2023-07-02T08:20:17.165Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">17:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설]무역수지 흑자, 안심하긴 이르다]]></title>
         <id>https://v.daum.net/v/20230702160129771</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230702080021484"/>
         <updated>2023-07-01T23:16:40.511Z</updated>
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태국서 전자담배 피우면 1800만원 벌금?…미리 알고 해외여행 가세요!]]></title>
-        <id>https://v.daum.net/v/20230702055102486</id>
-        <link href="https://v.daum.net/v/20230702055102486"/>
-        <updated>2023-07-01T21:14:14.459Z</updated>
-        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">05:51</span>]]></content>
     </entry>
 </feed>
