@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-07-02T12:30:36.330Z</updated>
+    <updated>2023-07-02T13:21:49.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주 4일 근무제, 나흘만 일해도 되나요? [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20230702220003901</id>
+        <link href="https://v.daum.net/v/20230702220003901"/>
+        <updated>2023-07-02T13:21:31.556Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 양평고속도로 노선 변경 추진 ‘김건희 라인’ 때문인가]]></title>
         <id>https://v.daum.net/v/20230702204122056</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230702200506454"/>
         <updated>2023-07-02T11:13:51.629Z</updated>
         <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">20:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내리라는 영화 관람비는 안 내리고 주가만… [편집장 레터]]]></title>
-        <id>https://v.daum.net/v/20230702195132226</id>
-        <link href="https://v.daum.net/v/20230702195132226"/>
-        <updated>2023-07-02T11:13:51.629Z</updated>
-        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">19:51</span>]]></content>
     </entry>
 </feed>
