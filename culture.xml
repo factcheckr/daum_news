@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2023-07-03T16:21:53.902Z</updated>
+    <updated>2023-07-03T17:15:58.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 서울 올 최고 34.9℃...오늘 수도권 150mm 장맛비]]></title>
+        <id>https://v.daum.net/v/20230704012816126</id>
+        <link href="https://v.daum.net/v/20230704012816126"/>
+        <updated>2023-07-03T17:14:57.173Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">01:28</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['임영웅 신기할 정도 팬덤’ 왜?…7월 서점가 '또 임영웅']]></title>
         <id>https://v.daum.net/v/20230704011506109</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230704000540714</id>
         <link href="https://v.daum.net/v/20230704000540714"/>
         <updated>2023-07-03T15:17:30.479Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내달까지 고성군 벼 병해충 드론 공동방제]]></title>
-        <id>https://v.daum.net/v/20230704000522696</id>
-        <link href="https://v.daum.net/v/20230704000522696"/>
-        <updated>2023-07-03T15:17:30.481Z</updated>
         <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
     </entry>
 </feed>
