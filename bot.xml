@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-07-03T06:22:37.087Z</updated>
+    <updated>2023-07-03T07:18:00.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[fnRASSI]장마감, 코스닥 상승 종목(코드네이처 30.0% ↑)]]></title>
+        <id>https://v.daum.net/v/20230703153833812</id>
+        <link href="https://v.daum.net/v/20230703153833812"/>
+        <updated>2023-07-03T07:17:59.492Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:38</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[fnRASSI]장마감, 거래소 하락 종목(동일산업 -30.0% ↓)]]></title>
+        <id>https://v.daum.net/v/20230703153809802</id>
+        <link href="https://v.daum.net/v/20230703153809802"/>
+        <updated>2023-07-03T07:17:59.492Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:38</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[fnRASSI]장마감, 거래소 상승 종목(신성이엔지 26.5% ↑)]]></title>
+        <id>https://v.daum.net/v/20230703153805798</id>
+        <link href="https://v.daum.net/v/20230703153805798"/>
+        <updated>2023-07-03T07:17:59.493Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:38</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[fnRASSI]코드네이처, 포시에스 등 40종목 52주 신고가 경신]]></title>
+        <id>https://v.daum.net/v/20230703153757790</id>
+        <link href="https://v.daum.net/v/20230703153757790"/>
+        <updated>2023-07-03T07:17:59.497Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:37</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[fnRASSI]오늘의 상한가, 코드네이처 30.0% ↑]]></title>
+        <id>https://v.daum.net/v/20230703153751788</id>
+        <link href="https://v.daum.net/v/20230703153751788"/>
+        <updated>2023-07-03T07:17:59.500Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:37</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수원 천천동 화서역푸르지오더에듀포레 59㎡ 5억원에 거래]]></title>
         <id>https://v.daum.net/v/20230703123539614</id>
@@ -74,12 +109,5 @@
         <link href="https://v.daum.net/v/20230703053214111"/>
         <updated>2023-07-02T21:14:48.937Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">05:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가상화폐 비트코인 40,624,000원(-0.16%) 거래중]]></title>
-        <id>https://v.daum.net/v/20230703033121377</id>
-        <link href="https://v.daum.net/v/20230703033121377"/>
-        <updated>2023-07-02T19:13:49.815Z</updated>
-        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">03:31</span>]]></content>
     </entry>
 </feed>
