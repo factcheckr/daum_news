@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-07-04T03:36:24.285Z</updated>
+    <updated>2023-07-04T04:21:22.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[후쿠시마 핵오염수는 인류세의 중대한 부작용]]></title>
+        <id>https://v.daum.net/v/20230704131201850</id>
+        <link href="https://v.daum.net/v/20230704131201850"/>
+        <updated>2023-07-04T04:20:59.703Z</updated>
+        <content type="html"><![CDATA[쿠키뉴스<span class="txt_bar"> · </span><span class="info_time">13:12</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[유레카] ‘탄소저감’ 아마존보다 나은 갯벌…그걸 메워 공항을?]]></title>
         <id>https://v.daum.net/v/20230704121504713</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230704110552682"/>
         <updated>2023-07-04T03:00:24.333Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[만 나이 도입으로 열여덟 살 됐는데, 술 마실 수 있나요?]]></title>
-        <id>https://v.daum.net/v/20230704104028677</id>
-        <link href="https://v.daum.net/v/20230704104028677"/>
-        <updated>2023-07-04T03:00:24.334Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">10:40</span>]]></content>
     </entry>
 </feed>
