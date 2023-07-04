@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-07-04T06:23:10.512Z</updated>
+    <updated>2023-07-04T07:17:42.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[김경환 변호사의 디지털법]〈13〉결제는 자동으로 해지는 어렵고 : 다크패턴 규제와 소송]]></title>
+        <id>https://v.daum.net/v/20230704160140705</id>
+        <link href="https://v.daum.net/v/20230704160140705"/>
+        <updated>2023-07-04T07:17:26.317Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">16:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사설]국가 R&D 효율성 획기적으로 높이길]]></title>
+        <id>https://v.daum.net/v/20230704160124690</id>
+        <link href="https://v.daum.net/v/20230704160124690"/>
+        <updated>2023-07-04T07:17:26.322Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">16:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국힘 "문재인 정부 태양광 복마전에도 온갖 이권 카르텔 척결해야"]]></title>
         <id>https://v.daum.net/v/20230704144843610</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230704114544597"/>
         <updated>2023-07-04T03:00:24.315Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시평]장미란 차관 비방의 反민주 본색]]></title>
-        <id>https://v.daum.net/v/20230704114509560</id>
-        <link href="https://v.daum.net/v/20230704114509560"/>
-        <updated>2023-07-04T03:00:24.318Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포럼]전력기금 도둑질 추적 계속해야 한다]]></title>
-        <id>https://v.daum.net/v/20230704114214422</id>
-        <link href="https://v.daum.net/v/20230704114214422"/>
-        <updated>2023-07-04T03:00:24.323Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:42</span>]]></content>
     </entry>
 </feed>
