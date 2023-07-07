@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-07-07T20:18:10.563Z</updated>
+    <updated>2023-07-07T21:15:30.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[갈택이어 [ESC]]]></title>
+        <id>https://v.daum.net/v/20230708060502215</id>
+        <link href="https://v.daum.net/v/20230708060502215"/>
+        <updated>2023-07-07T21:15:14.918Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">06:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정여울의 언어정담]지구를 위해 무엇을 할 것인가]]></title>
+        <id>https://v.daum.net/v/20230708060037110</id>
+        <link href="https://v.daum.net/v/20230708060037110"/>
+        <updated>2023-07-07T21:15:14.924Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[동십자각]‘새마을금고 위기’와 정부 불신]]></title>
+        <id>https://v.daum.net/v/20230708060034103</id>
+        <link href="https://v.daum.net/v/20230708060034103"/>
+        <updated>2023-07-07T21:15:14.929Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사설] 경제 턴어라운드 가능하려면 기술 초격차·시장 다변화 절실하다]]></title>
+        <id>https://v.daum.net/v/20230708053700857</id>
+        <link href="https://v.daum.net/v/20230708053700857"/>
+        <updated>2023-07-07T21:15:14.929Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">05:37</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 정부도 오염수 문제없다지만...한일 정상 방류 불안 해소해야]]></title>
         <id>https://v.daum.net/v/20230708043156553</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230708040140452"/>
         <updated>2023-07-07T19:13:15.660Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">04:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전화성의 기술창업 Targeting]〈269〉 관광 글로벌 챌린지, 관광산업의 새로운 트렌드를 선도하는 트래블테크 스타트업 (1)]]></title>
-        <id>https://v.daum.net/v/20230708040105449</id>
-        <link href="https://v.daum.net/v/20230708040105449"/>
-        <updated>2023-07-07T19:13:15.661Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">04:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 새마을금고에서 채권시장으로, 부동산PF 부실 확산 조짐]]></title>
-        <id>https://v.daum.net/v/20230708032723410</id>
-        <link href="https://v.daum.net/v/20230708032723410"/>
-        <updated>2023-07-07T19:13:15.662Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 민주당도 주장했던 고속도로 노선, 지금 와서 김건희 특혜라니]]></title>
-        <id>https://v.daum.net/v/20230708032412401</id>
-        <link href="https://v.daum.net/v/20230708032412401"/>
-        <updated>2023-07-07T19:13:15.662Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 당 혁신한다며 김홍걸 복당, 윤리 파산 민주당 못 할 일 없어]]></title>
-        <id>https://v.daum.net/v/20230708032214398</id>
-        <link href="https://v.daum.net/v/20230708032214398"/>
-        <updated>2023-07-07T19:13:15.664Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:22</span>]]></content>
     </entry>
 </feed>
