@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-07-07T09:17:46.660Z</updated>
+    <updated>2023-07-07T10:18:54.177Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사설] 후쿠시마 오염수 정부 입장 발표, 국민 불안 해소 노력 더해야]]></title>
+        <id>https://v.daum.net/v/20230707182503202</id>
+        <link href="https://v.daum.net/v/20230707182503202"/>
+        <updated>2023-07-07T10:18:37.959Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">18:25</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 잇단 승강기 추락사망, 2인1조 필요한데도 ‘나홀로 작업’은 여전]]></title>
         <id>https://v.daum.net/v/20230707180508756</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230707170056110"/>
         <updated>2023-07-07T08:21:54.122Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">17:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전문가 칼럼] 후끈 달아오른 중국 반도체 소부장 생태계]]></title>
-        <id>https://v.daum.net/v/20230707165518942</id>
-        <link href="https://v.daum.net/v/20230707165518942"/>
-        <updated>2023-07-07T08:21:54.123Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">16:55</span>]]></content>
     </entry>
 </feed>
