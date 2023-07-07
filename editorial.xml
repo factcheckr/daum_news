@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-07-07T12:36:43.449Z</updated>
+    <updated>2023-07-07T13:25:39.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[선수가 공 2개 치며 골프 했다고? [정현권의 감성골프]]]></title>
+        <id>https://v.daum.net/v/20230707221201454</id>
+        <link href="https://v.daum.net/v/20230707221201454"/>
+        <updated>2023-07-07T13:25:20.850Z</updated>
+        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">22:12</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고사 위기의 인문학 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20230707220017220</id>
+        <link href="https://v.daum.net/v/20230707220017220"/>
+        <updated>2023-07-07T13:25:20.856Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘민중’ 작가의 성폭력 [만물상]]]></title>
         <id>https://v.daum.net/v/20230707203348136</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230707172402674"/>
         <updated>2023-07-07T09:17:27.969Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세상사는 이야기] 가스라이팅]]></title>
-        <id>https://v.daum.net/v/20230707172400671</id>
-        <link href="https://v.daum.net/v/20230707172400671"/>
-        <updated>2023-07-07T09:17:27.971Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이디]]></title>
-        <id>https://v.daum.net/v/20230707170311169</id>
-        <link href="https://v.daum.net/v/20230707170311169"/>
-        <updated>2023-07-07T08:21:54.117Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:03</span>]]></content>
     </entry>
 </feed>
