@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-07-08T09:16:05.253Z</updated>
+    <updated>2023-07-08T10:18:02.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인천 당하동 당하 탑스빌 아파트 84㎡ 2억9450만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230708183715235</id>
+        <link href="https://v.daum.net/v/20230708183715235"/>
+        <updated>2023-07-08T10:18:01.197Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:37</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천 당하동 당하 탑스빌 아파트 84㎡ 2억8000만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230708183047094</id>
+        <link href="https://v.daum.net/v/20230708183047094"/>
+        <updated>2023-07-08T10:18:01.199Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수원 원천동 원천레이크파크 49㎡ 3억1500만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230708182534999</id>
+        <link href="https://v.daum.net/v/20230708182534999"/>
+        <updated>2023-07-08T10:18:01.200Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:25</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천 송도동 e편한세상송도아파트 70㎡ 5억7900만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230708182036906</id>
+        <link href="https://v.daum.net/v/20230708182036906"/>
+        <updated>2023-07-08T10:18:01.205Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:20</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인천 연수동 연수1차시영임 26㎡ 1억3000만원에 거래]]></title>
         <id>https://v.daum.net/v/20230708181538857</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230708173042296"/>
         <updated>2023-07-08T09:16:04.440Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 동춘동 연수삼성럭키 95㎡ 3억3500만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230708172537223</id>
-        <link href="https://v.daum.net/v/20230708172537223"/>
-        <updated>2023-07-08T09:16:04.442Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용인 풍덕천동 신정마을주공1단지아파트 59㎡ 7억1000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230708172039146</id>
-        <link href="https://v.daum.net/v/20230708172039146"/>
-        <updated>2023-07-08T09:16:04.444Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 청라동 한화꿈에그린 125㎡ 9억4900만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230708171535098</id>
-        <link href="https://v.daum.net/v/20230708171535098"/>
-        <updated>2023-07-08T08:19:55.898Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 송도동 송도에듀포레 푸르지오아파트 59㎡ 5억8700만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230708171035053</id>
-        <link href="https://v.daum.net/v/20230708171035053"/>
-        <updated>2023-07-08T08:19:55.900Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:10</span>]]></content>
     </entry>
 </feed>
