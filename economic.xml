@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2023-07-09T13:21:32.658Z</updated>
+    <updated>2023-07-09T14:14:50.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“중국화 된 지금의 홍콩은 좀…“ 거부감에 홍콩 여행 꺼리는 한국인들]]></title>
+        <id>https://v.daum.net/v/20230709225701062</id>
+        <link href="https://v.daum.net/v/20230709225701062"/>
+        <updated>2023-07-09T14:13:38.518Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">22:57</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['배우 차인표 부친' 차수웅 우성해운 창업주 별세]]></title>
         <id>https://v.daum.net/v/20230709221458884</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230709213922663"/>
         <updated>2023-07-09T13:20:25.263Z</updated>
         <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">21:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오태현 써밋플레이 대표 “음원을 넘어 IP 콘텐츠 기업으로 성장 시킬 것”]]></title>
-        <id>https://v.daum.net/v/20230709213728655</id>
-        <link href="https://v.daum.net/v/20230709213728655"/>
-        <updated>2023-07-09T13:20:25.266Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">21:37</span>]]></content>
     </entry>
 </feed>
