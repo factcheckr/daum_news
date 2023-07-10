@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-07-10T22:19:43.462Z</updated>
+    <updated>2023-07-10T23:17:36.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대한스쿼시연맹 ‘2023 행복나눔 스쿼시교실’ 개최]]></title>
+        <id>https://v.daum.net/v/20230711080703966</id>
+        <link href="https://v.daum.net/v/20230711080703966"/>
+        <updated>2023-07-10T23:17:28.176Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">08:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남양주시, 호우 대비 침수방지시설 현장 점검]]></title>
         <id>https://v.daum.net/v/20230711071810271</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230711000430356</id>
         <link href="https://v.daum.net/v/20230711000430356"/>
         <updated>2023-07-10T15:18:48.240Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[라이프 트렌드&] 맞춤형 연금포트폴리오로 증권사 최초 연금자산 적립금 30조원 돌파]]></title>
-        <id>https://v.daum.net/v/20230711000428354</id>
-        <link href="https://v.daum.net/v/20230711000428354"/>
-        <updated>2023-07-10T15:18:48.241Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
     </entry>
 </feed>
