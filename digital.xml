@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-07-11T18:21:59.087Z</updated>
+    <updated>2023-07-11T19:15:24.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MS, 블리자드 인수 '청신호'...美법원, FTC 가처분신청 기각]]></title>
+        <id>https://v.daum.net/v/20230712034500108</id>
+        <link href="https://v.daum.net/v/20230712034500108"/>
+        <updated>2023-07-11T19:14:50.919Z</updated>
+        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">03:45</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘협력사 ESG경영 지원’ 대기업이 나섰다]]></title>
         <id>https://v.daum.net/v/20230712030249714</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230712010001178"/>
         <updated>2023-07-11T16:22:08.690Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">01:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고리원전 3·4호기 계속 운전 울주군민 공청회]]></title>
-        <id>https://v.daum.net/v/20230712001422919</id>
-        <link href="https://v.daum.net/v/20230712001422919"/>
-        <updated>2023-07-11T15:18:04.409Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">00:14</span>]]></content>
     </entry>
 </feed>
