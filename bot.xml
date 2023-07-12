@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-07-12T10:18:47.403Z</updated>
+    <updated>2023-07-12T12:35:45.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가상화폐 넴 4.9원 상승한 42.3원에 거래]]></title>
+        <id>https://v.daum.net/v/20230712213126769</id>
+        <link href="https://v.daum.net/v/20230712213126769"/>
+        <updated>2023-07-12T12:35:44.309Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">21:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인천 동춘동 동춘 무지개마을아파트 59㎡ 3억2500만원에 거래]]></title>
         <id>https://v.daum.net/v/20230712183533626</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230712173209690"/>
         <updated>2023-07-12T09:17:23.982Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 청라동 청라호반베르디움2차아파트 59㎡ 4억3300만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230712173042636</id>
-        <link href="https://v.daum.net/v/20230712173042636"/>
-        <updated>2023-07-12T09:17:23.983Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
     </entry>
 </feed>
