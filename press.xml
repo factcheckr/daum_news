@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-07-12T03:27:00.297Z</updated>
+    <updated>2023-07-12T04:20:41.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘행복배틀’ 이엘, 진서연X이제연X서벽준과 긴장감 넘치는 사자대면…유력 용의자 이제연의 비밀은?]]></title>
+        <id>https://v.daum.net/v/20230712130024810</id>
+        <link href="https://v.daum.net/v/20230712130024810"/>
+        <updated>2023-07-12T04:20:31.873Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">13:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트라이비, 데뷔 후 첫 미국 투어→브라질 공연 성료로 빛나는 성과]]></title>
+        <id>https://v.daum.net/v/20230712124024498</id>
+        <link href="https://v.daum.net/v/20230712124024498"/>
+        <updated>2023-07-12T04:20:31.873Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">12:40</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[르세라핌, 미국 빌보드 10주 연속 차트인…후속곡 자체 최고 순위 경신]]></title>
         <id>https://v.daum.net/v/20230712122020179</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230712114534204"/>
         <updated>2023-07-12T02:58:05.532Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">11:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울과기대, RE-UP Cycle Thon(GREEN TECH MAKER) 대회 성료]]></title>
-        <id>https://v.daum.net/v/20230712114447159</id>
-        <link href="https://v.daum.net/v/20230712114447159"/>
-        <updated>2023-07-12T02:58:05.534Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">11:44</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울시립대 기계정보공학과, RoboCup 2023 ARM Challenge 우승]]></title>
-        <id>https://v.daum.net/v/20230712113948928</id>
-        <link href="https://v.daum.net/v/20230712113948928"/>
-        <updated>2023-07-12T02:58:05.536Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">11:39</span>]]></content>
     </entry>
 </feed>
