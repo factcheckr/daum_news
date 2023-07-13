@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-07-13T22:17:05.225Z</updated>
+    <updated>2023-07-13T23:18:00.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[전국 주요 신문 톱뉴스](14일 조간)]]></title>
+        <id>https://v.daum.net/v/20230714080010501</id>
+        <link href="https://v.daum.net/v/20230714080010501"/>
+        <updated>2023-07-13T23:17:40.980Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[춘추칼럼]  농단(壟斷)과 천장부(賤丈夫)]]></title>
         <id>https://v.daum.net/v/20230714070515675</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230714053111544"/>
         <updated>2023-07-13T21:15:09.244Z</updated>
         <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Editorial] Boost nuclear energy]]></title>
-        <id>https://v.daum.net/v/20230714053052536</id>
-        <link href="https://v.daum.net/v/20230714053052536"/>
-        <updated>2023-07-13T21:15:09.246Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
     </entry>
 </feed>
