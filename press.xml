@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-07-13T03:32:28.619Z</updated>
+    <updated>2023-07-13T04:20:56.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[8가지 귀금속 중 마지막으로 소개된 오스뮴, 차세대 귀금속으로 한국 유형자산 투자시장 진출]]></title>
+        <id>https://v.daum.net/v/20230713131702383</id>
+        <link href="https://v.daum.net/v/20230713131702383"/>
+        <updated>2023-07-13T04:20:45.685Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">13:17</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[직능연 ‘산업별 인공지능 기술 충격 시나리오 분석’ 발표]]></title>
+        <id>https://v.daum.net/v/20230713130703189</id>
+        <link href="https://v.daum.net/v/20230713130703189"/>
+        <updated>2023-07-13T04:20:45.686Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">13:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[펜타곤 후이, 18일 신곡 ‘Whale’ 발매 확정…독보적 청량美로 채운 여름밤 분위기]]></title>
         <id>https://v.daum.net/v/20230713122015388</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230713113141796"/>
         <updated>2023-07-13T03:01:11.447Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[교육부 교육국제화특구 3기 지정, 부산시 4곳으로 전국 최다 선정]]></title>
-        <id>https://v.daum.net/v/20230713113101761</id>
-        <link href="https://v.daum.net/v/20230713113101761"/>
-        <updated>2023-07-13T03:01:11.450Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[후쿠시마 원전 오염수 방류 관련 일일 브리핑(7.12.)]]></title>
-        <id>https://v.daum.net/v/20230713113031740</id>
-        <link href="https://v.daum.net/v/20230713113031740"/>
-        <updated>2023-07-13T03:01:11.453Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">11:30</span>]]></content>
     </entry>
 </feed>
