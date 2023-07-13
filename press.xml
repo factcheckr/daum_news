@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-07-13T09:17:44.695Z</updated>
+    <updated>2023-07-13T10:18:46.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[화성시, 집중호우 대비 현장 점검 실시]]></title>
+        <id>https://v.daum.net/v/20230713190225914</id>
+        <link href="https://v.daum.net/v/20230713190225914"/>
+        <updated>2023-07-13T10:18:37.676Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">19:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] COP28 Presidency releases ambitious, inclusive plan to fast-track]]></title>
+        <id>https://v.daum.net/v/20230713185310604</id>
+        <link href="https://v.daum.net/v/20230713185310604"/>
+        <updated>2023-07-13T10:18:37.678Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">18:53</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] sky100 Hong Kong Observation Deck welcome all tourist with]]></title>
         <id>https://v.daum.net/v/20230713181348596</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230713171612460"/>
         <updated>2023-07-13T08:22:03.481Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">17:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한샘, 김유진 신임 대표집행임원 선임 공시]]></title>
-        <id>https://v.daum.net/v/20230713170704087</id>
-        <link href="https://v.daum.net/v/20230713170704087"/>
-        <updated>2023-07-13T08:22:03.481Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[의대생, 지역사회 재활의료시스템을 체험하다]]></title>
-        <id>https://v.daum.net/v/20230713170702082</id>
-        <link href="https://v.daum.net/v/20230713170702082"/>
-        <updated>2023-07-13T08:22:03.483Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:07</span>]]></content>
     </entry>
 </feed>
