@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-07-13T05:17:25.415Z</updated>
+    <updated>2023-07-13T06:22:21.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제주에서 즐기는 우리들의 여름 블루스]]></title>
+        <id>https://v.daum.net/v/20230713150504509</id>
+        <link href="https://v.daum.net/v/20230713150504509"/>
+        <updated>2023-07-13T06:22:03.946Z</updated>
+        <content type="html"><![CDATA[베이비뉴스<span class="txt_bar"> · </span><span class="info_time">15:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[데일리안 시사만평] 韓 GDP, TOP10에서 밀려났다…인구·생산성 감소탓에 13위로 하락]]></title>
+        <id>https://v.daum.net/v/20230713145833141</id>
+        <link href="https://v.daum.net/v/20230713145833141"/>
+        <updated>2023-07-13T06:22:03.949Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">14:58</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[아시아 르포]세계 커피 문화의 新 중심지]]></title>
+        <id>https://v.daum.net/v/20230713142639863</id>
+        <link href="https://v.daum.net/v/20230713142639863"/>
+        <updated>2023-07-13T06:22:03.955Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">14:26</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[경제읽기] 한은 4연속 기준금리 동결…물가보다 성장 방점]]></title>
         <id>https://v.daum.net/v/20230713140525029</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230713115708750"/>
         <updated>2023-07-13T03:01:03.773Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:57</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[특권처럼 된 민폐시위, 제한 필요하다[포럼]]]></title>
-        <id>https://v.daum.net/v/20230713115427661</id>
-        <link href="https://v.daum.net/v/20230713115427661"/>
-        <updated>2023-07-13T03:01:03.774Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:54</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나토와의 연대 강화는 불가피한 선택[포럼]]]></title>
-        <id>https://v.daum.net/v/20230713115153561</id>
-        <link href="https://v.daum.net/v/20230713115153561"/>
-        <updated>2023-07-13T03:01:03.774Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TV 수신료 흑역사[오후여담]]]></title>
-        <id>https://v.daum.net/v/20230713115110529</id>
-        <link href="https://v.daum.net/v/20230713115110529"/>
-        <updated>2023-07-13T03:01:03.778Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:51</span>]]></content>
     </entry>
 </feed>
