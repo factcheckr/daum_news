@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-07-14T12:33:44.528Z</updated>
+    <updated>2023-07-14T13:24:29.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['잘 죽을 권리'를 생각한다 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20230714220056033</id>
+        <link href="https://v.daum.net/v/20230714220056033"/>
+        <updated>2023-07-14T13:24:12.073Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[만물상] 우크라이나 전쟁터에서 돌아온 남편]]></title>
         <id>https://v.daum.net/v/20230714213206723</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230714173633167</id>
         <link href="https://v.daum.net/v/20230714173633167"/>
         <updated>2023-07-14T09:17:29.598Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[실업급여 본질 안보고 '시럽급여' 말꼬리 잡기; 見指忘月 [사설]]]></title>
-        <id>https://v.daum.net/v/20230714173632166</id>
-        <link href="https://v.daum.net/v/20230714173632166"/>
-        <updated>2023-07-14T09:17:29.600Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:36</span>]]></content>
     </entry>
 </feed>
