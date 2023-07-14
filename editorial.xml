@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-07-14T22:16:11.073Z</updated>
+    <updated>2023-07-14T23:17:21.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘이재명 민주당’  혁신위 1호 쇄신안 퇴짜, 기어이 ‘망하는 길’로 가려 하나 [핫이슈]]]></title>
+        <id>https://v.daum.net/v/20230715081500696</id>
+        <link href="https://v.daum.net/v/20230715081500696"/>
+        <updated>2023-07-14T23:17:04.425Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">08:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[김회룡의 시사 TOON]]]></title>
+        <id>https://v.daum.net/v/20230715080802646</id>
+        <link href="https://v.daum.net/v/20230715080802646"/>
+        <updated>2023-07-14T23:17:04.427Z</updated>
+        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">08:08</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[데스크 칼럼] 대법원 앞 정의의 여신이 눈을 뜨고 있는 이유]]></title>
         <id>https://v.daum.net/v/20230715061018766</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230715031741066"/>
         <updated>2023-07-14T18:21:06.601Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 6월까지 광화문 일대 길 막은 시위 500건, 법원이 한번만 나와보길]]></title>
-        <id>https://v.daum.net/v/20230715031521063</id>
-        <link href="https://v.daum.net/v/20230715031521063"/>
-        <updated>2023-07-14T18:21:06.601Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] “중국 특수에 취해 구조 개혁 않고 10년 허송세월”]]></title>
-        <id>https://v.daum.net/v/20230715031321060</id>
-        <link href="https://v.daum.net/v/20230715031321060"/>
-        <updated>2023-07-14T18:21:06.601Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:13</span>]]></content>
     </entry>
 </feed>
