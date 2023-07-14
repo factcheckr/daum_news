@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-07-14T13:24:29.598Z</updated>
+    <updated>2023-07-14T14:16:41.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[INDIA ISRO MOON MISSION]]></title>
+        <id>https://v.daum.net/v/20230714231151988</id>
+        <link href="https://v.daum.net/v/20230714231151988"/>
+        <updated>2023-07-14T14:16:07.587Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">23:11</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘발암가능물질’된 아스파탐, 적당히 먹는 건 괜찮다지만…]]></title>
+        <id>https://v.daum.net/v/20230714230300902</id>
+        <link href="https://v.daum.net/v/20230714230300902"/>
+        <updated>2023-07-14T14:16:07.588Z</updated>
+        <content type="html"><![CDATA[IT동아<span class="txt_bar"> · </span><span class="info_time">23:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[로스트아크 "엔드 콘텐츠는 풀 악셀, 피로도는 브레이크"]]></title>
+        <id>https://v.daum.net/v/20230714222934451</id>
+        <link href="https://v.daum.net/v/20230714222934451"/>
+        <updated>2023-07-14T14:16:07.593Z</updated>
+        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">22:29</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로봇산업協, 폴란드 로봇협회와 협력 MOU 체결]]></title>
         <id>https://v.daum.net/v/20230714220705128</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230714205316158"/>
         <updated>2023-07-14T12:33:13.674Z</updated>
         <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">20:53</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ISRO INDIA]]></title>
-        <id>https://v.daum.net/v/20230714205312157</id>
-        <link href="https://v.daum.net/v/20230714205312157"/>
-        <updated>2023-07-14T12:33:13.677Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">20:53</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美 “허위정보 피해 조사”... 챗GPT 규제 칼 빼들었다]]></title>
-        <id>https://v.daum.net/v/20230714204223990</id>
-        <link href="https://v.daum.net/v/20230714204223990"/>
-        <updated>2023-07-14T12:33:13.679Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">20:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스라운지] 양날의 검으로 떠오른 'AI'...현주소와 향후 과제는?]]></title>
-        <id>https://v.daum.net/v/20230714195811219</id>
-        <link href="https://v.daum.net/v/20230714195811219"/>
-        <updated>2023-07-14T11:14:44.129Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">19:58</span>]]></content>
     </entry>
 </feed>
