@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2023-07-15T18:21:17.920Z</updated>
+    <updated>2023-07-15T19:14:34.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 호우경보, 충청·남부 전체로 확대...최대 250mm 더 온다]]></title>
+        <id>https://v.daum.net/v/20230716040713123</id>
+        <link href="https://v.daum.net/v/20230716040713123"/>
+        <updated>2023-07-15T19:13:23.635Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">04:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[오늘 날씨] 충청권에 비 200mm 더 온다… '폭포 비' 주의해야]]></title>
+        <id>https://v.daum.net/v/20230716040106112</id>
+        <link href="https://v.daum.net/v/20230716040106112"/>
+        <updated>2023-07-15T19:13:23.642Z</updated>
+        <content type="html"><![CDATA[머니S<span class="txt_bar"> · </span><span class="info_time">04:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘발리댁’ 가희가 알려주는 발리 여행 Tip]]></title>
+        <id>https://v.daum.net/v/20230716040040111</id>
+        <link href="https://v.daum.net/v/20230716040040111"/>
+        <updated>2023-07-15T19:13:23.644Z</updated>
+        <content type="html"><![CDATA[엘르<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 오늘도 곳곳 강한 비...앞으로 250mm 이상의 큰비 예고]]></title>
+        <id>https://v.daum.net/v/20230716033412074</id>
+        <link href="https://v.daum.net/v/20230716033412074"/>
+        <updated>2023-07-15T19:13:23.646Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">03:34</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[가정예배 365-7월 16일]  하나님의 사람들 (4) 브리스길라와 아굴라의 온전히 섬기는 믿음]]></title>
         <id>https://v.daum.net/v/20230716030218040</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230716021302013"/>
         <updated>2023-07-15T17:14:04.474Z</updated>
         <content type="html"><![CDATA[bnt뉴스<span class="txt_bar"> · </span><span class="info_time">02:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[bnt포토] 김정아 '대한민국 베스트브랜드 어워즈에서 뷰티크리에이터 대상 받았어요']]></title>
-        <id>https://v.daum.net/v/20230716021102008</id>
-        <link href="https://v.daum.net/v/20230716021102008"/>
-        <updated>2023-07-15T17:14:04.476Z</updated>
-        <content type="html"><![CDATA[bnt뉴스<span class="txt_bar"> · </span><span class="info_time">02:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[bnt포토] '수상 후 기념촬영하는 김정아'(대한민국 베스트브랜드 어워즈)]]></title>
-        <id>https://v.daum.net/v/20230716020702003</id>
-        <link href="https://v.daum.net/v/20230716020702003"/>
-        <updated>2023-07-15T17:14:04.476Z</updated>
-        <content type="html"><![CDATA[bnt뉴스<span class="txt_bar"> · </span><span class="info_time">02:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[날씨] 남부 곳곳 강한 비…최고 200㎜ 더 온다]]></title>
-        <id>https://v.daum.net/v/20230716012104945</id>
-        <link href="https://v.daum.net/v/20230716012104945"/>
-        <updated>2023-07-15T17:14:04.476Z</updated>
-        <content type="html"><![CDATA[SBS<span class="txt_bar"> · </span><span class="info_time">01:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 운세] 7월 16일 일요일 (음력 5월 29일 /乙亥) 띠별 / 생년월일 운세]]></title>
-        <id>https://v.daum.net/v/20230716010110912</id>
-        <link href="https://v.daum.net/v/20230716010110912"/>
-        <updated>2023-07-15T16:20:48.053Z</updated>
-        <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">01:01</span>]]></content>
     </entry>
 </feed>
