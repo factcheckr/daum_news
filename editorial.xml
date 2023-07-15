@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-07-15T13:24:04.199Z</updated>
+    <updated>2023-07-15T14:15:35.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[세컷칼럼] 케타민 등 신종마약 극성…무직 청년들 ‘운반책’으로]]></title>
+        <id>https://v.daum.net/v/20230715230025301</id>
+        <link href="https://v.daum.net/v/20230715230025301"/>
+        <updated>2023-07-15T14:15:15.467Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스+] 홍준표 "경남 창녕 살리려면? 대구로 붙으면 되지"]]></title>
         <id>https://v.daum.net/v/20230715102410337</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230715043045164"/>
         <updated>2023-07-14T20:18:38.437Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한마당] 두 개의 한국(Two Koreas)]]></title>
-        <id>https://v.daum.net/v/20230715041211136</id>
-        <link href="https://v.daum.net/v/20230715041211136"/>
-        <updated>2023-07-14T19:15:02.242Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:12</span>]]></content>
     </entry>
 </feed>
