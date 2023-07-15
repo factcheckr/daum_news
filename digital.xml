@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-07-15T12:30:55.140Z</updated>
+    <updated>2023-07-15T13:24:04.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["인권침해" vs "일부가 물 흐려" 아이돌 팬들 수난사 '설왕설래'[초점S]]]></title>
+        <id>https://v.daum.net/v/20230715220006706</id>
+        <link href="https://v.daum.net/v/20230715220006706"/>
+        <updated>2023-07-15T13:23:36.941Z</updated>
+        <content type="html"><![CDATA[스포티비뉴스<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기후위기 증거? '6월' 관측기록상 가장 더웠다[우주이야기]]]></title>
         <id>https://v.daum.net/v/20230715205435543</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230715155804072"/>
         <updated>2023-07-15T07:15:24.011Z</updated>
         <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">15:58</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[던파모바일 "70렙 찍고 9월부터 안톤레이드 뛰세요"]]></title>
-        <id>https://v.daum.net/v/20230715155255009</id>
-        <link href="https://v.daum.net/v/20230715155255009"/>
-        <updated>2023-07-15T07:15:24.014Z</updated>
-        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">15:52</span>]]></content>
     </entry>
 </feed>
