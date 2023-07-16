@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-07-16T16:20:37.323Z</updated>
+    <updated>2023-07-16T17:14:47.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[청계광장]시시한 공자님?]]></title>
+        <id>https://v.daum.net/v/20230717020502802</id>
+        <link href="https://v.daum.net/v/20230717020502802"/>
+        <updated>2023-07-16T17:14:29.527Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[최훈 칼럼] 이민 자석 국가로의 시작 ‘웰컴 투 코리아’]]></title>
         <id>https://v.daum.net/v/20230717010031645</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230717003430537"/>
         <updated>2023-07-16T16:20:22.023Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 톡픽(TalkPick)] “나의 AI는 수학 난제와 우주의 비밀 탐구할 것”]]></title>
-        <id>https://v.daum.net/v/20230717003229529</id>
-        <link href="https://v.daum.net/v/20230717003229529"/>
-        <updated>2023-07-16T16:20:22.025Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:32</span>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2023-07-16T16:20:37.295Z</updated>
+    <updated>2023-07-16T17:14:47.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["허리케인 안온다" 美연착륙 자신하는 금융시장]]></title>
+        <id>https://v.daum.net/v/20230717015554779</id>
+        <link href="https://v.daum.net/v/20230717015554779"/>
+        <updated>2023-07-16T17:13:36.793Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">01:55</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“이런 날씨에는 반바지 입고 일합시다”...삼성전자도 ‘복장 자율화’]]></title>
         <id>https://v.daum.net/v/20230717003300531</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230717000258266</id>
         <link href="https://v.daum.net/v/20230717000258266"/>
         <updated>2023-07-16T15:16:16.524Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“저출산시대에도 럭셔리 육아용품 수요는 꾸준”]]></title>
-        <id>https://v.daum.net/v/20230717000257265</id>
-        <link href="https://v.daum.net/v/20230717000257265"/>
-        <updated>2023-07-16T15:16:16.527Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
     </entry>
 </feed>
