@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-07-16T13:21:20.592Z</updated>
+    <updated>2023-07-16T14:14:54.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[bnt포토] 'K-브랜드대상 미용의료기기 부문에 선정된 텐텍 텐써마']]></title>
+        <id>https://v.daum.net/v/20230716231401921</id>
+        <link href="https://v.daum.net/v/20230716231401921"/>
+        <updated>2023-07-16T14:14:44.308Z</updated>
+        <content type="html"><![CDATA[bnt뉴스<span class="txt_bar"> · </span><span class="info_time">23:14</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고흥군-코레일, 우주과학열차 특별여행상품 출시]]></title>
         <id>https://v.daum.net/v/20230716171250944</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230716101854618"/>
         <updated>2023-07-16T01:48:21.403Z</updated>
         <content type="html"><![CDATA[대구MBC<span class="txt_bar"> · </span><span class="info_time">10:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뜨거운 여름에는 실버를 차세요! 여름날의 타임피스]]></title>
-        <id>https://v.daum.net/v/20230716090115145</id>
-        <link href="https://v.daum.net/v/20230716090115145"/>
-        <updated>2023-07-16T01:48:21.405Z</updated>
-        <content type="html"><![CDATA[우먼센스<span class="txt_bar"> · </span><span class="info_time">09:01</span>]]></content>
     </entry>
 </feed>
