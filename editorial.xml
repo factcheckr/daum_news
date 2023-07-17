@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-07-17T13:27:55.014Z</updated>
+    <updated>2023-07-17T14:16:53.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기후변화로 '극한호우' 연례화, 과하다 싶을 정도로 대응해야 [사설]]]></title>
+        <id>https://v.daum.net/v/20230717224501621</id>
+        <link href="https://v.daum.net/v/20230717224501621"/>
+        <updated>2023-07-17T14:16:35.756Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">22:45</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[후쿠시마 오염수로 이 난리인데…고준위 방폐장은 어찌할 건가? [임상균 칼럼]]]></title>
         <id>https://v.daum.net/v/20230717221514411</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230717201633038"/>
         <updated>2023-07-17T12:38:52.183Z</updated>
         <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">20:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Help “kangaroo tribe” stand on their own]]></title>
-        <id>https://v.daum.net/v/20230717195618766</id>
-        <link href="https://v.daum.net/v/20230717195618766"/>
-        <updated>2023-07-17T11:15:48.680Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:56</span>]]></content>
     </entry>
 </feed>
