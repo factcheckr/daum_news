@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-07-18T03:01:14.969Z</updated>
+    <updated>2023-07-18T03:29:05.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[해시태그로 보는 육아맘] 출생통보제 도입, 모든 아동의 기본 권리]]></title>
+        <id>https://v.daum.net/v/20230718122830086</id>
+        <link href="https://v.daum.net/v/20230718122830086"/>
+        <updated>2023-07-18T03:28:45.858Z</updated>
+        <content type="html"><![CDATA[베이비뉴스<span class="txt_bar"> · </span><span class="info_time">12:28</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수해 대응 ‘무정부 상태’ 만든 책임 성역 없이 규명해야[사설]]]></title>
         <id>https://v.daum.net/v/20230718114843748</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230718110213302"/>
         <updated>2023-07-18T03:00:58.076Z</updated>
         <content type="html"><![CDATA[JTBC<span class="txt_bar"> · </span><span class="info_time">11:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기자수첩] 한반도 장마는 사라졌나]]></title>
-        <id>https://v.daum.net/v/20230718095906439</id>
-        <link href="https://v.daum.net/v/20230718095906439"/>
-        <updated>2023-07-18T01:50:32.310Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">09:59</span>]]></content>
     </entry>
 </feed>
