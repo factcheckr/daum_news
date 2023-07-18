@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-07-18T16:24:52.000Z</updated>
+    <updated>2023-07-18T17:17:30.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]프루던스와 국가역량]]></title>
+        <id>https://v.daum.net/v/20230719020506144</id>
+        <link href="https://v.daum.net/v/20230719020506144"/>
+        <updated>2023-07-18T17:17:10.694Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]한국판 미네르바 대학, 태재대학교에 대하여]]></title>
+        <id>https://v.daum.net/v/20230719020502143</id>
+        <link href="https://v.daum.net/v/20230719020502143"/>
+        <updated>2023-07-18T17:17:10.694Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중앙시평] 한일관계 회복, 경제에 달렸다]]></title>
         <id>https://v.daum.net/v/20230719010118982</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230719003526876"/>
         <updated>2023-07-18T16:24:25.853Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아침의 문장]]></title>
-        <id>https://v.daum.net/v/20230719003305867</id>
-        <link href="https://v.daum.net/v/20230719003305867"/>
-        <updated>2023-07-18T16:24:25.855Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:33</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 톡픽(TalkPick)] “한국은 제2의 조국, 부산에 영원히 잠들고 싶다”]]></title>
-        <id>https://v.daum.net/v/20230719003157861</id>
-        <link href="https://v.daum.net/v/20230719003157861"/>
-        <updated>2023-07-18T16:24:25.856Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:31</span>]]></content>
     </entry>
 </feed>
