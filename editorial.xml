@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-07-18T12:32:07.895Z</updated>
+    <updated>2023-07-18T13:23:29.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[국민만평-서민호 화백] 2023년 7월 19일]]></title>
+        <id>https://v.daum.net/v/20230718221905771</id>
+        <link href="https://v.daum.net/v/20230718221905771"/>
+        <updated>2023-07-18T13:23:05.408Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">22:19</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023년 7월 19일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20230718220311601</id>
+        <link href="https://v.daum.net/v/20230718220311601"/>
+        <updated>2023-07-18T13:23:05.410Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세상 하나뿐인 '암 경험자 협동조합' [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20230718220014559</id>
+        <link href="https://v.daum.net/v/20230718220014559"/>
+        <updated>2023-07-18T13:23:05.415Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[만물상] 우크라이나 아이들]]></title>
         <id>https://v.daum.net/v/20230718203521545</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230718201345253"/>
         <updated>2023-07-18T11:14:06.630Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 세종의사당 규칙 제정, 더 머뭇거릴 이유 없다]]></title>
-        <id>https://v.daum.net/v/20230718200725057</id>
-        <link href="https://v.daum.net/v/20230718200725057"/>
-        <updated>2023-07-18T11:14:06.630Z</updated>
-        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">20:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 마지못해 불체포특권 포기 결의한 민주당]]></title>
-        <id>https://v.daum.net/v/20230718200722056</id>
-        <link href="https://v.daum.net/v/20230718200722056"/>
-        <updated>2023-07-18T11:14:06.637Z</updated>
-        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">20:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인류 최고의 발명품 '두부' [이주현의 맛있는 음식 인문학]]]></title>
-        <id>https://v.daum.net/v/20230718200100924</id>
-        <link href="https://v.daum.net/v/20230718200100924"/>
-        <updated>2023-07-18T11:14:06.644Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">20:01</span>]]></content>
     </entry>
 </feed>
