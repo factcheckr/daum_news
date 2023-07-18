@@ -2,112 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-07-18T14:16:18.294Z</updated>
+    <updated>2023-07-18T15:20:00.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA['XR 업체' 버넥트, 청약 증거금 5조원 모여…경쟁률 1311대 1]]></title>
-        <id>https://v.daum.net/v/20230718231139239</id>
-        <link href="https://v.daum.net/v/20230718231139239"/>
-        <updated>2023-07-18T14:15:47.602Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">23:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넥슨, 양·질적 확장해 전 세계 게임 시장 정조준]]></title>
-        <id>https://v.daum.net/v/20230718230006173</id>
-        <link href="https://v.daum.net/v/20230718230006173"/>
-        <updated>2023-07-18T14:15:47.605Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쿠쿠전자, 음식물처리기 홈쇼핑 론칭]]></title>
-        <id>https://v.daum.net/v/20230718224115962</id>
-        <link href="https://v.daum.net/v/20230718224115962"/>
-        <updated>2023-07-18T14:15:47.607Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">22:41</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스줌인] 싱글 레일, ATX 3.0 파워서플라이는 뭐가 다르지?]]></title>
-        <id>https://v.daum.net/v/20230718223901924</id>
-        <link href="https://v.daum.net/v/20230718223901924"/>
-        <updated>2023-07-18T14:15:47.609Z</updated>
-        <content type="html"><![CDATA[IT동아<span class="txt_bar"> · </span><span class="info_time">22:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이지스, 디지털 트윈 플랫폼으로 환경부 물 관리 사업 본격 수행]]></title>
-        <id>https://v.daum.net/v/20230718222810841</id>
-        <link href="https://v.daum.net/v/20230718222810841"/>
-        <updated>2023-07-18T14:15:47.615Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">22:28</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[동영상] EA FC 24, 남여 축구 능력치가 똑같다?]]></title>
-        <id>https://v.daum.net/v/20230718222100782</id>
-        <link href="https://v.daum.net/v/20230718222100782"/>
-        <updated>2023-07-18T13:22:51.503Z</updated>
-        <content type="html"><![CDATA[게임동아<span class="txt_bar"> · </span><span class="info_time">22:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버, 집중호우 피해 복구 위해 5억 원 기부]]></title>
-        <id>https://v.daum.net/v/20230718220023564</id>
-        <link href="https://v.daum.net/v/20230718220023564"/>
-        <updated>2023-07-18T13:22:51.512Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[실수로 켜진 영상 속 소아중환자실 간호사가 건넨 말 “사랑한다”]]></title>
-        <id>https://v.daum.net/v/20230718214242407</id>
-        <link href="https://v.daum.net/v/20230718214242407"/>
-        <updated>2023-07-18T13:22:51.514Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">21:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“중국인 마음을 사로잡아라”...한국 최고기업에 내려진 특명]]></title>
-        <id>https://v.daum.net/v/20230718211200040</id>
-        <link href="https://v.daum.net/v/20230718211200040"/>
-        <updated>2023-07-18T12:31:41.376Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">21:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[epaselect CHINA AI MINING]]></title>
-        <id>https://v.daum.net/v/20230718210827997</id>
-        <link href="https://v.daum.net/v/20230718210827997"/>
-        <updated>2023-07-18T12:31:41.378Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">21:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오염수 방류 때 한국 전문가 참여 가능? 일본 “IAEA가 결정할 일” 회피성 발언]]></title>
-        <id>https://v.daum.net/v/20230718210227919</id>
-        <link href="https://v.daum.net/v/20230718210227919"/>
-        <updated>2023-07-18T12:31:41.380Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">21:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[침수·교통상황 포털·오픈채팅으로…피해지역엔 통신서비스]]></title>
-        <id>https://v.daum.net/v/20230718205843862</id>
-        <link href="https://v.daum.net/v/20230718205843862"/>
-        <updated>2023-07-18T12:31:41.382Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV<span class="txt_bar"> · </span><span class="info_time">20:58</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엑조프라이멀 "짬짜면 그릇에 담은 공룡 대환장파티"]]></title>
-        <id>https://v.daum.net/v/20230718203503544</id>
-        <link href="https://v.daum.net/v/20230718203503544"/>
-        <updated>2023-07-18T12:31:41.386Z</updated>
-        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">20:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[친구와 가족 모임, 워크숍 게임 고민 끝! ‘에브리바디 원 투 스위치’]]></title>
-        <id>https://v.daum.net/v/20230718202702424</id>
-        <link href="https://v.daum.net/v/20230718202702424"/>
-        <updated>2023-07-18T12:31:41.389Z</updated>
-        <content type="html"><![CDATA[게임동아<span class="txt_bar"> · </span><span class="info_time">20:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이터널리턴 프리뷰 쇼 "정식 버전 이렇게 변합니다"]]></title>
-        <id>https://v.daum.net/v/20230718201231236</id>
-        <link href="https://v.daum.net/v/20230718201231236"/>
-        <updated>2023-07-18T11:13:56.591Z</updated>
-        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">20:12</span>]]></content>
+        <title type="html"><![CDATA[버려진 기저귀·폐비닐이 30분 만에 합성원유로 변신]]></title>
+        <id>https://v.daum.net/v/20230719000300602</id>
+        <link href="https://v.daum.net/v/20230719000300602"/>
+        <updated>2023-07-18T15:19:27.825Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
     </entry>
 </feed>
