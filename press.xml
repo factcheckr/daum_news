@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-07-18T11:14:24.208Z</updated>
+    <updated>2023-07-18T12:32:07.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이병선 속초시장 재해 우려 지역 현장 점검]]></title>
+        <id>https://v.daum.net/v/20230718211503080</id>
+        <link href="https://v.daum.net/v/20230718211503080"/>
+        <updated>2023-07-18T12:31:58.448Z</updated>
+        <content type="html"><![CDATA[투어코리아<span class="txt_bar"> · </span><span class="info_time">21:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시흥시, '시흥 거북섬 해양축제' 잠정 연기]]></title>
+        <id>https://v.daum.net/v/20230718210645968</id>
+        <link href="https://v.daum.net/v/20230718210645968"/>
+        <updated>2023-07-18T12:31:58.449Z</updated>
+        <content type="html"><![CDATA[투어코리아<span class="txt_bar"> · </span><span class="info_time">21:06</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[의왕시, 여성청소년 생리용품 구매비 지역화폐로 지원]]></title>
         <id>https://v.daum.net/v/20230718195252785</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230718173703295"/>
         <updated>2023-07-18T09:17:00.740Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헨리 여권 지수 집계 결과 전 세계 여권 파워 랭킹에 큰 변동]]></title>
-        <id>https://v.daum.net/v/20230718173702291</id>
-        <link href="https://v.daum.net/v/20230718173702291"/>
-        <updated>2023-07-18T09:17:00.741Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] 세계 여권 파워 순위, 대대적인 변동 발생]]></title>
-        <id>https://v.daum.net/v/20230718173058096</id>
-        <link href="https://v.daum.net/v/20230718173058096"/>
-        <updated>2023-07-18T09:17:00.743Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
     </entry>
 </feed>
