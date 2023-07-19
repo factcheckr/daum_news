@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-07-19T05:16:03.241Z</updated>
+    <updated>2023-07-19T06:20:57.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[100세 시대 재테크]노후자금만큼 중요한 부부 화목]]></title>
+        <id>https://v.daum.net/v/20230719143124104</id>
+        <link href="https://v.daum.net/v/20230719143124104"/>
+        <updated>2023-07-19T06:20:36.346Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">14:31</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예잇수다]인플루언서의 허상]]></title>
+        <id>https://v.daum.net/v/20230719141722457</id>
+        <link href="https://v.daum.net/v/20230719141722457"/>
+        <updated>2023-07-19T06:20:36.349Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">14:17</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[칼럼]'한식에 죽으나 청명에 죽으나' 마찬가지인 민주당 혁신]]></title>
         <id>https://v.daum.net/v/20230719134204274</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230719113339035"/>
         <updated>2023-07-19T02:39:08.702Z</updated>
         <content type="html"><![CDATA[대구MBC<span class="txt_bar"> · </span><span class="info_time">11:33</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 한미 핵협의 첫발, 잦은 북핵 도발에 실효성 더 높여야]]></title>
-        <id>https://v.daum.net/v/20230719113040881</id>
-        <link href="https://v.daum.net/v/20230719113040881"/>
-        <updated>2023-07-19T02:39:08.702Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 최저임금 2.5% 인상, 소상공인은 이 정도로도 허리 휜다]]></title>
-        <id>https://v.daum.net/v/20230719113038879</id>
-        <link href="https://v.daum.net/v/20230719113038879"/>
-        <updated>2023-07-19T02:39:08.703Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:30</span>]]></content>
     </entry>
 </feed>
