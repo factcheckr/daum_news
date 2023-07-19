@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-07-19T18:19:49.902Z</updated>
+    <updated>2023-07-19T19:13:30.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스, 美서 '광고 없는' 기본요금제 없애]]></title>
+        <id>https://v.daum.net/v/20230720035700748</id>
+        <link href="https://v.daum.net/v/20230720035700748"/>
+        <updated>2023-07-19T19:13:00.579Z</updated>
+        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">03:57</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MS, 블리자드 인수 '파란불'...인수 기한 3개월 연장]]></title>
+        <id>https://v.daum.net/v/20230720034200742</id>
+        <link href="https://v.daum.net/v/20230720034200742"/>
+        <updated>2023-07-19T19:13:00.579Z</updated>
+        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">03:42</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세계 가장 힙한 도시의 추락… 마약에 취해 차량 털고 권총 탕탕]]></title>
         <id>https://v.daum.net/v/20230720030553691</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230720030101438"/>
         <updated>2023-07-19T18:19:23.562Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["만월? 그믐?" 초심자 위한 '소울이터' 세팅 꿀팁]]></title>
-        <id>https://v.daum.net/v/20230720020039310</id>
-        <link href="https://v.daum.net/v/20230720020039310"/>
-        <updated>2023-07-19T17:14:40.759Z</updated>
-        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">02:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이제 항공기도 로봇이 조종한다...세계 첫 파일럿 로봇 개발]]></title>
-        <id>https://v.daum.net/v/20230720013117250</id>
-        <link href="https://v.daum.net/v/20230720013117250"/>
-        <updated>2023-07-19T17:14:40.759Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">01:31</span>]]></content>
     </entry>
 </feed>
