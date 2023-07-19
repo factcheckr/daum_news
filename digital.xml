@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-07-19T13:21:24.713Z</updated>
+    <updated>2023-07-19T14:16:30.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중기부, IBM과 함께 양자기업 5곳 내외 선정 지원]]></title>
+        <id>https://v.daum.net/v/20230719231228835</id>
+        <link href="https://v.daum.net/v/20230719231228835"/>
+        <updated>2023-07-19T14:16:02.646Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">23:12</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“한국도 더 이상 안전지대 아니야”...동해서 대형 지진대 존재 가능성]]></title>
+        <id>https://v.daum.net/v/20230719225700644</id>
+        <link href="https://v.daum.net/v/20230719225700644"/>
+        <updated>2023-07-19T14:16:02.649Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">22:57</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세계 최고기업에 밀린 ‘네카오’…선두싸움 뒤쳐졌지만 AI 포기는 없다]]></title>
         <id>https://v.daum.net/v/20230719220000707</id>
@@ -83,7 +97,7 @@
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">21:03</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20대 '아이폰 사랑'에 삼성도 긴장…1년 새 사용률 13% 뛰었다]]></title>
+        <title type="html"><![CDATA["못 말리는 애플 사랑"…20대 아이폰 이용자가 갤럭시 2배]]></title>
         <id>https://v.daum.net/v/20230719210102392</id>
         <link href="https://v.daum.net/v/20230719210102392"/>
         <updated>2023-07-19T12:29:25.154Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230719210015378"/>
         <updated>2023-07-19T12:29:25.156Z</updated>
         <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">21:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“한국서 가장 싸게 팔겠다?” 삼성 역대급 ‘제품’…뜻밖에 충격 가격]]></title>
-        <id>https://v.daum.net/v/20230719205058163</id>
-        <link href="https://v.daum.net/v/20230719205058163"/>
-        <updated>2023-07-19T12:29:25.157Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">20:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[bnt포토] 츄 '완전 신났츄'(청룡시리즈어워즈)]]></title>
-        <id>https://v.daum.net/v/20230719204903133</id>
-        <link href="https://v.daum.net/v/20230719204903133"/>
-        <updated>2023-07-19T12:29:25.159Z</updated>
-        <content type="html"><![CDATA[bnt뉴스<span class="txt_bar"> · </span><span class="info_time">20:49</span>]]></content>
     </entry>
 </feed>
