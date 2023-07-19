@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-07-19T04:24:00.338Z</updated>
+    <updated>2023-07-19T05:16:03.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[칼럼]'한식에 죽으나 청명에 죽으나' 마찬가지인 민주당 혁신]]></title>
+        <id>https://v.daum.net/v/20230719134204274</id>
+        <link href="https://v.daum.net/v/20230719134204274"/>
+        <updated>2023-07-19T05:15:45.022Z</updated>
+        <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">13:42</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[논단]갈팡질팡 정책홍보‥'시럽급여' 역풍 성찰해야]]></title>
         <id>https://v.daum.net/v/20230719124709896</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230719113038879"/>
         <updated>2023-07-19T02:39:08.703Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[문건汶楗 풍수유람] 35. 호남성 풍수, 증국번과 좌종당]]></title>
-        <id>https://v.daum.net/v/20230719112427596</id>
-        <link href="https://v.daum.net/v/20230719112427596"/>
-        <updated>2023-07-19T02:39:08.704Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">11:24</span>]]></content>
     </entry>
 </feed>
