@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-07-20T13:20:56.714Z</updated>
+    <updated>2023-07-20T14:15:45.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤홍근 BBQ 회장, 친환경 유니폼 도입·반려해변 입양으로 ESG 경영 앞장]]></title>
+        <id>https://v.daum.net/v/20230720230019560</id>
+        <link href="https://v.daum.net/v/20230720230019560"/>
+        <updated>2023-07-20T14:15:35.580Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하나로마트, 외식 물가 안정위해 박차 가한다!]]></title>
+        <id>https://v.daum.net/v/20230720224558453</id>
+        <link href="https://v.daum.net/v/20230720224558453"/>
+        <updated>2023-07-20T14:15:35.582Z</updated>
+        <content type="html"><![CDATA[로피시엘 코리아<span class="txt_bar"> · </span><span class="info_time">22:45</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[물 타지 않는 맥주 발효원액 ‘클라우드 생 드래프트’]]></title>
         <id>https://v.daum.net/v/20230720215733925</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230720214958797"/>
         <updated>2023-07-20T13:20:46.604Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">21:49</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KB국민카드, '농·산·어촌 청소년' 디지털 교육 지원]]></title>
-        <id>https://v.daum.net/v/20230720205312729</id>
-        <link href="https://v.daum.net/v/20230720205312729"/>
-        <updated>2023-07-20T12:31:13.147Z</updated>
-        <content type="html"><![CDATA[투어코리아<span class="txt_bar"> · </span><span class="info_time">20:53</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] Wanhua Chemical, 2022 ESG 보고서 발표]]></title>
-        <id>https://v.daum.net/v/20230720203028238</id>
-        <link href="https://v.daum.net/v/20230720203028238"/>
-        <updated>2023-07-20T12:31:13.148Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:30</span>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-07-20T13:20:56.704Z</updated>
+    <updated>2023-07-20T14:15:45.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우크라 전장에 등장한 `집속탄`, 책임은 누가 질 텐가[박영서의 글로벌 아이]]]></title>
+        <id>https://v.daum.net/v/20230720230609611</id>
+        <link href="https://v.daum.net/v/20230720230609611"/>
+        <updated>2023-07-20T14:15:25.218Z</updated>
+        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">23:06</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[세컷칼럼] '대통령 말고 헌법에 충성'해야 하는 이유]]></title>
+        <id>https://v.daum.net/v/20230720230025564</id>
+        <link href="https://v.daum.net/v/20230720230025564"/>
+        <updated>2023-07-20T14:15:25.219Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['죽음의 도시' 베르가모에서 보낸 하루 [삶과 문화]]]></title>
         <id>https://v.daum.net/v/20230720220036983</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230720201119859"/>
         <updated>2023-07-20T11:14:05.451Z</updated>
         <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">20:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Time to change the wage-fixing system]]></title>
-        <id>https://v.daum.net/v/20230720201045846</id>
-        <link href="https://v.daum.net/v/20230720201045846"/>
-        <updated>2023-07-20T11:14:05.451Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two weird peas in a pod]]></title>
-        <id>https://v.daum.net/v/20230720200924824</id>
-        <link href="https://v.daum.net/v/20230720200924824"/>
-        <updated>2023-07-20T11:14:05.451Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:09</span>]]></content>
     </entry>
 </feed>
