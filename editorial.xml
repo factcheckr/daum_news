@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-07-20T01:16:46.849Z</updated>
+    <updated>2023-07-20T02:34:58.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[논단] 부양책이 끝난다면 봄일까 겨울일까]]></title>
+        <id>https://v.daum.net/v/20230720113109634</id>
+        <link href="https://v.daum.net/v/20230720113109634"/>
+        <updated>2023-07-20T02:34:36.863Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:31</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[기자수첩] 영락없는 책임 공방과 적극행정의 요원함]]></title>
+        <id>https://v.daum.net/v/20230720110031960</id>
+        <link href="https://v.daum.net/v/20230720110031960"/>
+        <updated>2023-07-20T02:34:36.907Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">11:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부고] 최익훈(HDC현대산업개발 대표이사)씨 부친상]]></title>
+        <id>https://v.daum.net/v/20230720104356191</id>
+        <link href="https://v.daum.net/v/20230720104356191"/>
+        <updated>2023-07-20T02:34:36.907Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">10:43</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[실종 해병대원, 전우들 경례 받으며 태극기에 덮여 하늘로]]></title>
+        <id>https://v.daum.net/v/20230720101945152</id>
+        <link href="https://v.daum.net/v/20230720101945152"/>
+        <updated>2023-07-20T02:34:36.907Z</updated>
+        <content type="html"><![CDATA[JTBC<span class="txt_bar"> · </span><span class="info_time">10:19</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인사] 산림청]]></title>
         <id>https://v.daum.net/v/20230720093150889</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230720070506596"/>
         <updated>2023-07-19T22:15:18.138Z</updated>
         <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">07:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그 많은 댓글 누가 다는 걸까 [취재 뒷담화]]]></title>
-        <id>https://v.daum.net/v/20230720070156527</id>
-        <link href="https://v.daum.net/v/20230720070156527"/>
-        <updated>2023-07-19T22:15:18.139Z</updated>
-        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">07:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[휴전 70년 [굽시니스트 시사 만화]]]></title>
-        <id>https://v.daum.net/v/20230720070150521</id>
-        <link href="https://v.daum.net/v/20230720070150521"/>
-        <updated>2023-07-19T22:15:18.140Z</updated>
-        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">07:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[역사 속 하루]실패로 끝난 발키리 작전]]></title>
-        <id>https://v.daum.net/v/20230720070031463</id>
-        <link href="https://v.daum.net/v/20230720070031463"/>
-        <updated>2023-07-19T22:15:18.141Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기고] 한국 외교의 전환점이 된 대통령의 우크라 방문]]></title>
-        <id>https://v.daum.net/v/20230720070014429</id>
-        <link href="https://v.daum.net/v/20230720070014429"/>
-        <updated>2023-07-19T22:15:18.142Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
     </entry>
 </feed>
