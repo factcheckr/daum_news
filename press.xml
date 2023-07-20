@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-07-20T19:13:09.891Z</updated>
+    <updated>2023-07-20T20:17:30.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[광주농협·고향주부모임·남광주농협, 취약층에 ‘이심점심 중식지원’]]></title>
+        <id>https://v.daum.net/v/20230721050129320</id>
+        <link href="https://v.daum.net/v/20230721050129320"/>
+        <updated>2023-07-20T20:17:18.219Z</updated>
+        <content type="html"><![CDATA[농민신문<span class="txt_bar"> · </span><span class="info_time">05:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] 차이나 매터스 특집: 청두는 어떻게 다양한 요리의 근원이 되었을까?]]></title>
         <id>https://v.daum.net/v/20230721002559314</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230721000414100</id>
         <link href="https://v.daum.net/v/20230721000414100"/>
         <updated>2023-07-20T15:16:47.729Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[분양 포커스] 상계주공 재건축 설명회, 삼성물산 등 참여]]></title>
-        <id>https://v.daum.net/v/20230721000412098</id>
-        <link href="https://v.daum.net/v/20230721000412098"/>
-        <updated>2023-07-20T15:16:47.731Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
     </entry>
 </feed>
