@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-07-19T23:15:43.318Z</updated>
+    <updated>2023-07-20T01:16:46.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인사] 산림청]]></title>
+        <id>https://v.daum.net/v/20230720093150889</id>
+        <link href="https://v.daum.net/v/20230720093150889"/>
+        <updated>2023-07-20T01:16:20.571Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">09:31</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“이럴 줄 몰랐다” 지하차도·해병대 참사에 나온 똑 같은 변명 [핫이슈]]]></title>
+        <id>https://v.daum.net/v/20230720091800383</id>
+        <link href="https://v.daum.net/v/20230720091800383"/>
+        <updated>2023-07-20T01:16:20.575Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">09:18</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[피서철 멀미 예방법, 아이 있는 집이라면 꼭 알아두세요]]></title>
+        <id>https://v.daum.net/v/20230720091723370</id>
+        <link href="https://v.daum.net/v/20230720091723370"/>
+        <updated>2023-07-20T01:16:20.576Z</updated>
+        <content type="html"><![CDATA[베이비뉴스<span class="txt_bar"> · </span><span class="info_time">09:17</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주요 신문 사설](20일 조간)]]></title>
         <id>https://v.daum.net/v/20230720080003395</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230720070014429"/>
         <updated>2023-07-19T22:15:18.142Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[로터리]연금에도 '넛지'가 필요하다]]></title>
-        <id>https://v.daum.net/v/20230720063028134</id>
-        <link href="https://v.daum.net/v/20230720063028134"/>
-        <updated>2023-07-19T22:15:18.143Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">06:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정덕현의 끄덕끄덕]킹더랜드, 그 '슬픔의 삼각형']]></title>
-        <id>https://v.daum.net/v/20230720061542999</id>
-        <link href="https://v.daum.net/v/20230720061542999"/>
-        <updated>2023-07-19T22:15:18.145Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">06:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기고]한류가 끌고 정부가 미는 소비재 수출]]></title>
-        <id>https://v.daum.net/v/20230720060029703</id>
-        <link href="https://v.daum.net/v/20230720060029703"/>
-        <updated>2023-07-19T21:14:26.302Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
     </entry>
 </feed>
