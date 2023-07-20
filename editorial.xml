@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-07-20T12:31:21.584Z</updated>
+    <updated>2023-07-20T13:20:56.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['죽음의 도시' 베르가모에서 보낸 하루 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20230720220036983</id>
+        <link href="https://v.daum.net/v/20230720220036983"/>
+        <updated>2023-07-20T13:20:36.226Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[심현 [SUMMER GALLERY]]]></title>
+        <id>https://v.daum.net/v/20230720220001957</id>
+        <link href="https://v.daum.net/v/20230720220001957"/>
+        <updated>2023-07-20T13:20:36.226Z</updated>
+        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[편집자 레터] ‘파파’의 빨간 가방]]></title>
         <id>https://v.daum.net/v/20230720213013494</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230720200924824"/>
         <updated>2023-07-20T11:14:05.451Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인사] 보건복지부]]></title>
-        <id>https://v.daum.net/v/20230720200909815</id>
-        <link href="https://v.daum.net/v/20230720200909815"/>
-        <updated>2023-07-20T11:14:05.454Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">20:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loud chants, but poor substance remains]]></title>
-        <id>https://v.daum.net/v/20230720200607740</id>
-        <link href="https://v.daum.net/v/20230720200607740"/>
-        <updated>2023-07-20T11:14:05.454Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:06</span>]]></content>
     </entry>
 </feed>
