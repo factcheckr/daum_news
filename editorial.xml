@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-07-21T04:21:31.091Z</updated>
+    <updated>2023-07-21T05:15:36.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[과학을읽다]금연 돕는 과학기술]]></title>
+        <id>https://v.daum.net/v/20230721140426241</id>
+        <link href="https://v.daum.net/v/20230721140426241"/>
+        <updated>2023-07-21T05:15:15.933Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">14:04</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나만 힘들다고 믿는 이들에게 바치는 이른 꽃의 편지]]></title>
         <id>https://v.daum.net/v/20230721130511816</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230721112957411"/>
         <updated>2023-07-21T02:36:20.685Z</updated>
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:29</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 특화산단 7곳 614조 투자, 글로벌 산업 대전 승부수]]></title>
-        <id>https://v.daum.net/v/20230721112119091</id>
-        <link href="https://v.daum.net/v/20230721112119091"/>
-        <updated>2023-07-21T02:36:20.685Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:21</span>]]></content>
     </entry>
 </feed>
