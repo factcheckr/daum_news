@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-07-21T09:15:55.242Z</updated>
+    <updated>2023-07-21T10:16:44.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[검찰 ‘기소편의주의’의 결말은?]]></title>
+        <id>https://v.daum.net/v/20230721190505996</id>
+        <link href="https://v.daum.net/v/20230721190505996"/>
+        <updated>2023-07-21T10:16:26.001Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사설] ‘오송 지하차도 참사’, 꼬리 자르기 말고 윗선 처벌해야]]></title>
+        <id>https://v.daum.net/v/20230721183508489</id>
+        <link href="https://v.daum.net/v/20230721183508489"/>
+        <updated>2023-07-21T10:16:26.003Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">18:35</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사설] ‘교육활동 침해’ 분노한 교사들, ‘안전하게’ 가르칠 권리 있어야]]></title>
+        <id>https://v.daum.net/v/20230721182008203</id>
+        <link href="https://v.daum.net/v/20230721182008203"/>
+        <updated>2023-07-21T10:16:26.014Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">18:20</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전쟁을 부추기는 행보에 맞서]]></title>
         <id>https://v.daum.net/v/20230721180603946</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230721170310138"/>
         <updated>2023-07-21T08:19:39.099Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[도시 발견] 화성·평택의 두 얼굴]]></title>
-        <id>https://v.daum.net/v/20230721170300122</id>
-        <link href="https://v.daum.net/v/20230721170300122"/>
-        <updated>2023-07-21T08:19:39.101Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[언스타그램] 과거를 보는 망원경]]></title>
-        <id>https://v.daum.net/v/20230721170023017</id>
-        <link href="https://v.daum.net/v/20230721170023017"/>
-        <updated>2023-07-21T09:15:37.854Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">17:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[허연의 책과지성] "인간은 결코 상황을 뛰어넘지 못한다" 교도소 실험으로 세상 놀라게 한 심리학자]]></title>
-        <id>https://v.daum.net/v/20230721163922331</id>
-        <link href="https://v.daum.net/v/20230721163922331"/>
-        <updated>2023-07-21T08:19:39.103Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">16:39</span>]]></content>
     </entry>
 </feed>
