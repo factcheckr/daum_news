@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-07-21T03:17:54.056Z</updated>
+    <updated>2023-07-21T04:21:31.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나만 힘들다고 믿는 이들에게 바치는 이른 꽃의 편지]]></title>
+        <id>https://v.daum.net/v/20230721130511816</id>
+        <link href="https://v.daum.net/v/20230721130511816"/>
+        <updated>2023-07-21T04:21:05.747Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">13:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[시사컬처]‘국뽕’에 담긴 섬뜩한 의미]]></title>
+        <id>https://v.daum.net/v/20230721130118735</id>
+        <link href="https://v.daum.net/v/20230721130118735"/>
+        <updated>2023-07-21T04:21:05.747Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">13:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“생각 없는 국민은 ‘말 되네’ 할 것” 이게 文정부 본색[사설]]]></title>
         <id>https://v.daum.net/v/20230721120013589</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230721112119091"/>
         <updated>2023-07-21T02:36:20.685Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[헤럴드광장] 괴담을 ‘괴담’이라 부를 분별력]]></title>
-        <id>https://v.daum.net/v/20230721112043056</id>
-        <link href="https://v.daum.net/v/20230721112043056"/>
-        <updated>2023-07-21T02:36:20.706Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 교권 보호도, 수해방지법도 일 터져야 움직이는 국회]]></title>
-        <id>https://v.daum.net/v/20230721112042055</id>
-        <link href="https://v.daum.net/v/20230721112042055"/>
-        <updated>2023-07-21T02:36:20.710Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:20</span>]]></content>
     </entry>
 </feed>
