@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-07-21T13:20:09.923Z</updated>
+    <updated>2023-07-21T14:15:04.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[앤드류 응 "네카오 등 韓기업 AI 세계 1등 가능"(종합)]]></title>
+        <id>https://v.daum.net/v/20230721223810115</id>
+        <link href="https://v.daum.net/v/20230721223810115"/>
+        <updated>2023-07-21T14:14:37.136Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">22:38</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[앤드류 응 "1.7억달러 AI 펀드, 한국 참여 가능…협력 원한다"(종합)]]></title>
         <id>https://v.daum.net/v/20230721221323914</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230721204506576"/>
         <updated>2023-07-21T12:29:15.075Z</updated>
         <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">20:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[글로벌 AI석학 앤드류 응 교수 강연]]></title>
-        <id>https://v.daum.net/v/20230721204457572</id>
-        <link href="https://v.daum.net/v/20230721204457572"/>
-        <updated>2023-07-21T12:29:15.077Z</updated>
-        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">20:44</span>]]></content>
     </entry>
 </feed>
