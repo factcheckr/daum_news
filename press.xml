@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-07-22T12:26:58.250Z</updated>
+    <updated>2023-07-22T13:16:48.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남양주시, 22일 오후 9시 기해 오남리 위험지역 일원에 주민대피 명령 발령]]></title>
+        <id>https://v.daum.net/v/20230722220214982</id>
+        <link href="https://v.daum.net/v/20230722220214982"/>
+        <updated>2023-07-22T13:16:40.308Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">22:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[AsiaNet] 산둥성 루산 - 맥주 축제로 은빛 해변의 열정에 불 지펴]]></title>
         <id>https://v.daum.net/v/20230722200101024</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230722083827427"/>
         <updated>2023-07-22T01:16:21.889Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">08:38</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화성시, 배달앱 등록된 배달음식점 대상 위생관리 실태조사 실시]]></title>
-        <id>https://v.daum.net/v/20230722063354401</id>
-        <link href="https://v.daum.net/v/20230722063354401"/>
-        <updated>2023-07-21T22:15:21.994Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">06:33</span>]]></content>
     </entry>
 </feed>
