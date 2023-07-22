@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-07-22T11:13:28.343Z</updated>
+    <updated>2023-07-22T12:26:58.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[선생님들! 미카 공주 뽑을 준비되셨나요?]]></title>
+        <id>https://v.daum.net/v/20230722212447652</id>
+        <link href="https://v.daum.net/v/20230722212447652"/>
+        <updated>2023-07-22T12:26:34.707Z</updated>
+        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">21:24</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네이버, SME 성장 위한 산·학 협력 확대... 디지털 창업가 위한 상생 기획전 열어]]></title>
+        <id>https://v.daum.net/v/20230722210117457</id>
+        <link href="https://v.daum.net/v/20230722210117457"/>
+        <updated>2023-07-22T12:26:34.709Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">21:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넷마블 북미 자회사 잼시티, ‘DC 히어로즈 앤 빌런즈’ 출시]]></title>
         <id>https://v.daum.net/v/20230722195406966</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230722164611281"/>
         <updated>2023-07-22T08:17:23.193Z</updated>
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">16:46</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부음] 이선호 한국IPTV방송협회 국장 모친상]]></title>
-        <id>https://v.daum.net/v/20230722162526031</id>
-        <link href="https://v.daum.net/v/20230722162526031"/>
-        <updated>2023-07-22T08:17:23.195Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">16:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차단된다더니...잘 나가는 틱톡, 계속 생존할 수 있을까 [더테크웨이브]]]></title>
-        <id>https://v.daum.net/v/20230722162400020</id>
-        <link href="https://v.daum.net/v/20230722162400020"/>
-        <updated>2023-07-22T08:17:23.204Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">16:24</span>]]></content>
     </entry>
 </feed>
