@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-07-23T20:16:02.143Z</updated>
+    <updated>2023-07-23T21:14:50.956Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이든티앤에스의 ‘웍트로닉스 RPA’ 기업 디지털 전환 가속화에 큰 역할]]></title>
+        <id>https://v.daum.net/v/20230724060703521</id>
+        <link href="https://v.daum.net/v/20230724060703521"/>
+        <updated>2023-07-23T21:14:39.113Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">06:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[북광주농협, 하나로마트 신축 개장]]></title>
         <id>https://v.daum.net/v/20230724050241565</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230724000406400</id>
         <link href="https://v.daum.net/v/20230724000406400"/>
         <updated>2023-07-23T15:14:38.754Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시선집중] 오로라 성지, 옐로스톤, 마추픽추 … 남북 아메리카 명소만 골라 담았다]]></title>
-        <id>https://v.daum.net/v/20230724000404399</id>
-        <link href="https://v.daum.net/v/20230724000404399"/>
-        <updated>2023-07-23T15:14:38.756Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
     </entry>
 </feed>
