@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-07-23T10:15:26.116Z</updated>
+    <updated>2023-07-23T11:12:43.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[땅·자회사 팔고, 제품군 정리… `선택과 집중`해 수익성 높인다]]></title>
+        <title type="html"><![CDATA[네이버웹툰 '로어 올림푸스', '만화계 오스카상' 2년 연속 받았다]]></title>
+        <id>https://v.daum.net/v/20230723200225546</id>
+        <link href="https://v.daum.net/v/20230723200225546"/>
+        <updated>2023-07-23T11:12:18.573Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">20:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트위터 로고 바뀐다…일론 머스크 "파랑새 작별"]]></title>
+        <id>https://v.daum.net/v/20230723194616289</id>
+        <link href="https://v.daum.net/v/20230723194616289"/>
+        <updated>2023-07-23T11:12:18.581Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">19:46</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[땅·자회사 팔고, 제품군 정리… 수익성 중심 `선택과 집중`]]></title>
         <id>https://v.daum.net/v/20230723183521679</id>
         <link href="https://v.daum.net/v/20230723183521679"/>
         <updated>2023-07-23T10:14:59.162Z</updated>
@@ -62,7 +76,7 @@
         <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">18:24</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이통사 "5G 중저대역도 달라" vs 정부 "28㎓ 안착 먼저"]]></title>
+        <title type="html"><![CDATA[통신업계 "5G 중저대역도 달라" vs 정부 "28㎓ 안착 먼저"]]></title>
         <id>https://v.daum.net/v/20230723182440551</id>
         <link href="https://v.daum.net/v/20230723182440551"/>
         <updated>2023-07-23T10:14:59.175Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230723181701461"/>
         <updated>2023-07-23T10:14:59.178Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">18:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10·12월에도 시험 있어요…재도전자는 응시료 20% 할인]]></title>
-        <id>https://v.daum.net/v/20230723181001361</id>
-        <link href="https://v.daum.net/v/20230723181001361"/>
-        <updated>2023-07-23T09:13:57.830Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">18:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메타 사장 한국기업과 AI동맹 예고...“놀라운 혁신 보게 될 것”]]></title>
-        <id>https://v.daum.net/v/20230723180305274</id>
-        <link href="https://v.daum.net/v/20230723180305274"/>
-        <updated>2023-07-23T09:13:57.830Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">18:03</span>]]></content>
     </entry>
 </feed>
