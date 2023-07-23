@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2023-07-23T15:14:48.020Z</updated>
+    <updated>2023-07-23T16:18:31.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘의 운세] 7월 24일 월요일 (음력 6월 7일 /癸未) 띠별 / 생년월일 운세]]></title>
+        <id>https://v.daum.net/v/20230724010125680</id>
+        <link href="https://v.daum.net/v/20230724010125680"/>
+        <updated>2023-07-23T16:17:37.804Z</updated>
+        <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">01:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일산백병원-㈜위뉴, ‘올바른 건강 콘텐츠 제작’ 업무 협약]]></title>
+        <id>https://v.daum.net/v/20230724005323618</id>
+        <link href="https://v.daum.net/v/20230724005323618"/>
+        <updated>2023-07-23T16:17:37.809Z</updated>
+        <content type="html"><![CDATA[스포츠경향<span class="txt_bar"> · </span><span class="info_time">00:53</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[26일까지 정체전선 영향 다시 장마]]></title>
         <id>https://v.daum.net/v/20230724000633487</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230724000359398"/>
         <updated>2023-07-23T15:13:56.318Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 운세] 2023년 07월 24일 별자리 운세]]></title>
-        <id>https://v.daum.net/v/20230724000301375</id>
-        <link href="https://v.daum.net/v/20230724000301375"/>
-        <updated>2023-07-23T15:13:56.320Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 운세] 2023년 07월 24일 띠별 운세]]></title>
-        <id>https://v.daum.net/v/20230724000300373</id>
-        <link href="https://v.daum.net/v/20230724000300373"/>
-        <updated>2023-07-23T15:13:56.322Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
     </entry>
 </feed>
