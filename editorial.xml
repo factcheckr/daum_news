@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-07-23T22:14:38.095Z</updated>
+    <updated>2023-07-23T23:15:30.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](24일 조간)]]></title>
+        <id>https://v.daum.net/v/20230724080002709</id>
+        <link href="https://v.daum.net/v/20230724080002709"/>
+        <updated>2023-07-23T23:15:13.839Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美 지방은행 실적 '어닝 서프라이즈'…사고 잦은 한국 금융사에 주는 시사점은? [국제경제읽기 한상춘]]]></title>
+        <id>https://v.daum.net/v/20230724074110452</id>
+        <link href="https://v.daum.net/v/20230724074110452"/>
+        <updated>2023-07-23T23:15:13.841Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">07:41</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[생활속 과학이야기]  측우기와 양자센서]]></title>
         <id>https://v.daum.net/v/20230724070518069</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230724064202807"/>
         <updated>2023-07-23T22:14:17.944Z</updated>
         <content type="html"><![CDATA[쿠키뉴스<span class="txt_bar"> · </span><span class="info_time">06:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이충재의 인사이트] 대통령실, 풍수지리가 존재 왜 숨겼을까]]></title>
-        <id>https://v.daum.net/v/20230724063900774</id>
-        <link href="https://v.daum.net/v/20230724063900774"/>
-        <updated>2023-07-23T22:14:17.947Z</updated>
-        <content type="html"><![CDATA[오마이뉴스<span class="txt_bar"> · </span><span class="info_time">06:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[백상논단]'글로벌 국가'라는 미래 비전]]></title>
-        <id>https://v.daum.net/v/20230724060120387</id>
-        <link href="https://v.daum.net/v/20230724060120387"/>
-        <updated>2023-07-23T21:14:27.421Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">06:01</span>]]></content>
     </entry>
 </feed>
