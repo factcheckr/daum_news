@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2023-07-23T16:18:31.916Z</updated>
+    <updated>2023-07-23T17:13:59.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[충청·남부 또 '최고 200mm' 물 폭탄...추가 피해 우려]]></title>
+        <id>https://v.daum.net/v/20230724015808765</id>
+        <link href="https://v.daum.net/v/20230724015808765"/>
+        <updated>2023-07-23T17:13:06.071Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">01:58</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오늘의 운세] 7월 24일 월요일 (음력 6월 7일 /癸未) 띠별 / 생년월일 운세]]></title>
         <id>https://v.daum.net/v/20230724010125680</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230724000410402"/>
         <updated>2023-07-23T15:13:56.318Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[건강한 가족] 프로바이오틱스도 효능 다 달라…장내 생존력 높인 EPS균주]]></title>
-        <id>https://v.daum.net/v/20230724000359398</id>
-        <link href="https://v.daum.net/v/20230724000359398"/>
-        <updated>2023-07-23T15:13:56.318Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
     </entry>
 </feed>
