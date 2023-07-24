@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-07-24T16:20:32.025Z</updated>
+    <updated>2023-07-24T17:14:56.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]대전환의 시대, 규제개혁이 필요하다]]></title>
+        <id>https://v.daum.net/v/20230725020502579</id>
+        <link href="https://v.daum.net/v/20230725020502579"/>
+        <updated>2023-07-24T17:14:35.873Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]전문가 의견이 '위협·무시' 잘 당하는 방사선]]></title>
+        <id>https://v.daum.net/v/20230725020204570</id>
+        <link href="https://v.daum.net/v/20230725020204570"/>
+        <updated>2023-07-24T17:14:35.874Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중앙시평] 새로운 유령이 출현해야 한다]]></title>
         <id>https://v.daum.net/v/20230725010028378</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230725003626309"/>
         <updated>2023-07-24T16:20:11.578Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[진회숙의 음악으로 읽는 세상] 세상에서 가장 긴 음악]]></title>
-        <id>https://v.daum.net/v/20230725003425291</id>
-        <link href="https://v.daum.net/v/20230725003425291"/>
-        <updated>2023-07-24T16:20:11.580Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아침의 문장]]></title>
-        <id>https://v.daum.net/v/20230725003225272</id>
-        <link href="https://v.daum.net/v/20230725003225272"/>
-        <updated>2023-07-24T16:20:11.582Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:32</span>]]></content>
     </entry>
 </feed>
