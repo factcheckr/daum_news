@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-07-24T22:15:57.726Z</updated>
+    <updated>2023-07-24T23:16:08.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](25일 조간)]]></title>
+        <id>https://v.daum.net/v/20230725080007630</id>
+        <link href="https://v.daum.net/v/20230725080007630"/>
+        <updated>2023-07-24T23:15:42.184Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[명경대] ‘농심(農心)’과 수해]]></title>
+        <id>https://v.daum.net/v/20230725074343390</id>
+        <link href="https://v.daum.net/v/20230725074343390"/>
+        <updated>2023-07-24T23:15:42.189Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">07:43</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김민재, 이탈리아에서 독일로 [기자들의 시선]]]></title>
         <id>https://v.daum.net/v/20230725071345025</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230725060901256"/>
         <updated>2023-07-24T21:15:40.099Z</updated>
         <content type="html"><![CDATA[오마이뉴스<span class="txt_bar"> · </span><span class="info_time">06:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시론]정치인 홍준표의 존재 이유]]></title>
-        <id>https://v.daum.net/v/20230725060147153</id>
-        <link href="https://v.daum.net/v/20230725060147153"/>
-        <updated>2023-07-24T21:15:40.111Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">06:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기고] AI전쟁, 협업이 성패 좌우한다]]></title>
-        <id>https://v.daum.net/v/20230725060031039</id>
-        <link href="https://v.daum.net/v/20230725060031039"/>
-        <updated>2023-07-24T21:15:40.111Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
     </entry>
 </feed>
