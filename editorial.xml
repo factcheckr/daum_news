@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-07-25T04:19:13.150Z</updated>
+    <updated>2023-07-25T05:15:56.214Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[논단]뉴욕 타임스의 '좋아요'‥정말 좋은 걸까?]]></title>
+        <id>https://v.daum.net/v/20230725140505455</id>
+        <link href="https://v.daum.net/v/20230725140505455"/>
+        <updated>2023-07-25T05:15:37.088Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">14:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[의학사로 보는 세상] '과학적'이라고 해서 모두 '진리'는 아니다]]></title>
+        <id>https://v.daum.net/v/20230725135230009</id>
+        <link href="https://v.daum.net/v/20230725135230009"/>
+        <updated>2023-07-25T05:15:37.088Z</updated>
+        <content type="html"><![CDATA[동아사이언스<span class="txt_bar"> · </span><span class="info_time">13:52</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[민주 "김건희 일가 의혹 돌리려 '양평고속도 백지화' 충격요법? 경악스러워"]]></title>
         <id>https://v.daum.net/v/20230725131031917</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230725104011082"/>
         <updated>2023-07-25T02:46:57.792Z</updated>
         <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">10:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외신으로 본 나토 정상회의 참석 의미와 성과]]></title>
-        <id>https://v.daum.net/v/20230725102020228</id>
-        <link href="https://v.daum.net/v/20230725102020228"/>
-        <updated>2023-07-25T01:23:45.091Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">10:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No confidence, no job (KOR)]]></title>
-        <id>https://v.daum.net/v/20230725101012807</id>
-        <link href="https://v.daum.net/v/20230725101012807"/>
-        <updated>2023-07-25T01:23:45.091Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">10:10</span>]]></content>
     </entry>
 </feed>
