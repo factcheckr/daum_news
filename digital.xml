@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-07-25T12:31:28.934Z</updated>
+    <updated>2023-07-25T13:22:26.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“쌍성 궤도운동서 뉴턴 역학 붕괴 증거 발견”]]></title>
+        <id>https://v.daum.net/v/20230725213431912</id>
+        <link href="https://v.daum.net/v/20230725213431912"/>
+        <updated>2023-07-25T13:21:52.982Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">21:34</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[진정한 인간성은 자연으로 ‘회귀’가 아니라 ‘탈피’함으로써 발휘된다[최정균의 유전자 천태만상]]]></title>
         <id>https://v.daum.net/v/20230725205822213</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230725184652154"/>
         <updated>2023-07-25T10:16:54.346Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">18:46</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CJ바이오사이언스 “15개 마이크로바이옴 신약 파이프라인 확보”]]></title>
-        <id>https://v.daum.net/v/20230725184503121</id>
-        <link href="https://v.daum.net/v/20230725184503121"/>
-        <updated>2023-07-25T10:16:54.347Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">18:45</span>]]></content>
     </entry>
 </feed>

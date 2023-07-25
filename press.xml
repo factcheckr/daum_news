@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-07-25T12:31:28.948Z</updated>
+    <updated>2023-07-25T13:22:26.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[건강TALK] ‘노인 의료·돌봄 통합지원’ 시범 사업…향후 전국으로 확대]]></title>
+        <id>https://v.daum.net/v/20230725215141153</id>
+        <link href="https://v.daum.net/v/20230725215141153"/>
+        <updated>2023-07-25T13:22:15.353Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">21:51</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thales to Create a World-class Global Cybersecurity Leader, Acquiring US-based Cyber Champion Imperva from Thoma Bravo]]></title>
         <id>https://v.daum.net/v/20230725185703369</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230725165026927"/>
         <updated>2023-07-25T08:20:05.386Z</updated>
         <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">16:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[울산 북구-울산문화예술회관, 실경 뮤지컬 '고헌 박상진' 공연 개최 업무 협약]]></title>
-        <id>https://v.daum.net/v/20230725165007914</id>
-        <link href="https://v.daum.net/v/20230725165007914"/>
-        <updated>2023-07-25T08:20:05.388Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:50</span>]]></content>
     </entry>
 </feed>
