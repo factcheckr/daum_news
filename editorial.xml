@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-07-25T16:21:14.389Z</updated>
+    <updated>2023-07-25T17:14:33.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]환율, 있는 그대로 바라보면 괜찮을 텐데]]></title>
+        <id>https://v.daum.net/v/20230726020307145</id>
+        <link href="https://v.daum.net/v/20230726020307145"/>
+        <updated>2023-07-25T17:14:13.710Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]블록체인이 적용될 자발적 탄소시장의 미래]]></title>
+        <id>https://v.daum.net/v/20230726020303144</id>
+        <link href="https://v.daum.net/v/20230726020303144"/>
+        <updated>2023-07-25T17:14:13.712Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정운찬 칼럼] 호연지기 교육으로 기본을 다지자]]></title>
         <id>https://v.daum.net/v/20230726005821011</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230726003420935"/>
         <updated>2023-07-25T16:20:51.779Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아침의 문장]]></title>
-        <id>https://v.daum.net/v/20230726003219918</id>
-        <link href="https://v.daum.net/v/20230726003219918"/>
-        <updated>2023-07-25T16:20:51.782Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 이상민 탄핵안 기각… 野, 국정 혼란·행정 공백 사과하라]]></title>
-        <id>https://v.daum.net/v/20230726003032910</id>
-        <link href="https://v.daum.net/v/20230726003032910"/>
-        <updated>2023-07-25T16:20:51.785Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
     </entry>
 </feed>
