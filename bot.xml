@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-07-25T09:16:19.225Z</updated>
+    <updated>2023-07-25T10:17:27.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하남 망월동 미사강변골든센트로 59㎡ 7억9000만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230725183536971</id>
+        <link href="https://v.daum.net/v/20230725183536971"/>
+        <updated>2023-07-25T10:17:26.471Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:35</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천 논현동 논현한화에코메트로5단지 84㎡ 5억2500만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230725183032870</id>
+        <link href="https://v.daum.net/v/20230725183032870"/>
+        <updated>2023-07-25T10:17:26.471Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천 송도동 더샵센트럴시티아파트 59㎡ 6억원에 거래]]></title>
+        <id>https://v.daum.net/v/20230725182536722</id>
+        <link href="https://v.daum.net/v/20230725182536722"/>
+        <updated>2023-07-25T10:17:26.473Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:25</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천 송도동 송도더샵퍼스트월드 101㎡ 7억3500만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230725182040596</id>
+        <link href="https://v.daum.net/v/20230725182040596"/>
+        <updated>2023-07-25T10:17:26.477Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:20</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인천 당하동 당하 탑스빌 아파트 60㎡ 2억4000만원에 거래]]></title>
         <id>https://v.daum.net/v/20230725181534401</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230725173106804"/>
         <updated>2023-07-25T09:16:18.446Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 영통동 영통황골주공1차 49㎡ 3억1500만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230725172538587</id>
-        <link href="https://v.daum.net/v/20230725172538587"/>
-        <updated>2023-07-25T09:16:18.447Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 동춘동 연수1차 현대 아파트 84㎡ 4억5500만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230725172111401</id>
-        <link href="https://v.daum.net/v/20230725172111401"/>
-        <updated>2023-07-25T09:16:18.448Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하남 선동 미사강변센트리버 84㎡ 8억5000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230725171626135</id>
-        <link href="https://v.daum.net/v/20230725171626135"/>
-        <updated>2023-07-25T08:20:14.351Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 율전동 율전밤꽃마을뜨란채 84㎡ 4억1600만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230725171032828</id>
-        <link href="https://v.daum.net/v/20230725171032828"/>
-        <updated>2023-07-25T08:20:14.353Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:10</span>]]></content>
     </entry>
 </feed>
