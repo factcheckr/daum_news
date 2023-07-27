@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-07-27T09:15:57.251Z</updated>
+    <updated>2023-07-27T10:16:31.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인천 송도동 송도글로벌파크베르디움 63㎡ 6억9500만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230727183543728</id>
+        <link href="https://v.daum.net/v/20230727183543728"/>
+        <updated>2023-07-27T10:16:30.627Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:35</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천 가좌동 가좌 한신휴플러스아파트 84㎡ 4억5500만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230727183053653</id>
+        <link href="https://v.daum.net/v/20230727183053653"/>
+        <updated>2023-07-27T10:16:30.627Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천 만수동 만수 담방마을 아파트 45㎡ 1억3700만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230727182536513</id>
+        <link href="https://v.daum.net/v/20230727182536513"/>
+        <updated>2023-07-27T10:16:30.627Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:25</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수원 망포동 동수원자이1차 84㎡ 4억9000만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230727182033391</id>
+        <link href="https://v.daum.net/v/20230727182033391"/>
+        <updated>2023-07-27T10:16:30.629Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:20</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인천 송도동 송도 SK VIEW 아파트 84㎡ 7억3000만원에 거래]]></title>
         <id>https://v.daum.net/v/20230727181536289</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230727173050897"/>
         <updated>2023-07-27T09:15:56.350Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 영통동 영통신나무실주공5단지 59㎡ 3억9100만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230727172539749</id>
-        <link href="https://v.daum.net/v/20230727172539749"/>
-        <updated>2023-07-27T09:15:56.351Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 동춘동 연수1차 현대 아파트 84㎡ 4억6000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230727172034560</id>
-        <link href="https://v.daum.net/v/20230727172034560"/>
-        <updated>2023-07-27T09:15:56.355Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 송도동 송도캐슬&해모로 84㎡ 4억5000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230727171549437</id>
-        <link href="https://v.daum.net/v/20230727171549437"/>
-        <updated>2023-07-27T08:19:21.032Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 만수동 만수주공8단지아파트 44㎡ 1억8500만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230727171039249</id>
-        <link href="https://v.daum.net/v/20230727171039249"/>
-        <updated>2023-07-27T08:19:21.033Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:10</span>]]></content>
     </entry>
 </feed>
