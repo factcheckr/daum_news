@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-07-27T13:19:06.149Z</updated>
+    <updated>2023-07-27T14:14:31.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[세컷칼럼] K규제 참 끈질기다]]></title>
+        <id>https://v.daum.net/v/20230727230024334</id>
+        <link href="https://v.daum.net/v/20230727230024334"/>
+        <updated>2023-07-27T14:14:13.378Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중년이후 행복 1순위를 꼽는다면 [삶과 문화]]]></title>
         <id>https://v.daum.net/v/20230727220045187</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230727200830067"/>
         <updated>2023-07-27T11:12:55.752Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The truth about aspartame]]></title>
-        <id>https://v.daum.net/v/20230727200711030</id>
-        <link href="https://v.daum.net/v/20230727200711030"/>
-        <updated>2023-07-27T11:12:55.754Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:07</span>]]></content>
     </entry>
 </feed>
