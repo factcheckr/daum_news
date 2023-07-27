@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-07-27T12:30:10.934Z</updated>
+    <updated>2023-07-27T13:19:06.153Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가상화폐 비트코인 274,000원 상승한 38,192,000원에 거래]]></title>
+        <id>https://v.daum.net/v/20230727213118452</id>
+        <link href="https://v.daum.net/v/20230727213118452"/>
+        <updated>2023-07-27T13:19:05.418Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">21:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인천 송도동 송도글로벌파크베르디움 63㎡ 6억9500만원에 거래]]></title>
         <id>https://v.daum.net/v/20230727183543728</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230727173313975"/>
         <updated>2023-07-27T09:15:56.349Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:33</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 송도동 송도더샵퍼스트월드 105㎡ 8억7000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230727173050897</id>
-        <link href="https://v.daum.net/v/20230727173050897"/>
-        <updated>2023-07-27T09:15:56.350Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
     </entry>
 </feed>
