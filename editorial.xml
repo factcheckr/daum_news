@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-07-28T21:13:48.360Z</updated>
+    <updated>2023-07-28T22:14:29.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[귀정사 서어나무숲에 윤종광을 묻었네]]></title>
+        <id>https://v.daum.net/v/20230729070504407</id>
+        <link href="https://v.daum.net/v/20230729070504407"/>
+        <updated>2023-07-28T22:14:12.458Z</updated>
+        <content type="html"><![CDATA[미디어오늘<span class="txt_bar"> · </span><span class="info_time">07:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[이한주의 테크오디세이]AI 시대의 '파괴적 혁신' 리더십]]></title>
+        <id>https://v.daum.net/v/20230729070122366</id>
+        <link href="https://v.daum.net/v/20230729070122366"/>
+        <updated>2023-07-28T22:14:12.459Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">07:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 논란의 인사 강행 언제까지... 우려되는 정국 급랭]]></title>
         <id>https://v.daum.net/v/20230729043159375</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230729032723262"/>
         <updated>2023-07-28T19:13:06.169Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 수많은 신고, 제보, 경고 다 무시한 공무원들, 존재 이유 뭔가]]></title>
-        <id>https://v.daum.net/v/20230729032413253</id>
-        <link href="https://v.daum.net/v/20230729032413253"/>
-        <updated>2023-07-28T19:13:06.171Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 인터넷서 잇따르는 ‘추가 살인’ 예고, 모방 범죄 막아야]]></title>
-        <id>https://v.daum.net/v/20230729032214251</id>
-        <link href="https://v.daum.net/v/20230729032214251"/>
-        <updated>2023-07-28T19:13:06.174Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:22</span>]]></content>
     </entry>
 </feed>
