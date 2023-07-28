@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-07-28T12:29:36.826Z</updated>
+    <updated>2023-07-28T13:19:33.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다정한 말이 다정한 마음을 만든다 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20230728220025773</id>
+        <link href="https://v.daum.net/v/20230728220025773"/>
+        <updated>2023-07-28T13:19:14.137Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[동십자각]속 타는 기업, 눈 감은 국회]]></title>
         <id>https://v.daum.net/v/20230728211442105</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230728172429202</id>
         <link href="https://v.daum.net/v/20230728172429202"/>
         <updated>2023-07-28T09:14:52.690Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이동관 방통위원장 지명, 불신 커진 공영방송 정상화 시급하다 [사설]]]></title>
-        <id>https://v.daum.net/v/20230728172428201</id>
-        <link href="https://v.daum.net/v/20230728172428201"/>
-        <updated>2023-07-28T09:14:52.693Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:24</span>]]></content>
     </entry>
 </feed>
