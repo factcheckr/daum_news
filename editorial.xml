@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-07-28T10:16:09.820Z</updated>
+    <updated>2023-07-28T11:13:34.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사설] 이동관 방통위원장 밀어붙인 윤 대통령, ‘MB식 언론장악 시즌2’ 시작되나]]></title>
+        <id>https://v.daum.net/v/20230728200506249</id>
+        <link href="https://v.daum.net/v/20230728200506249"/>
+        <updated>2023-07-28T11:13:14.047Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">20:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 양평고속도로 재추진, 가장 큰 걸림돌은 원희룡 장관이다]]></title>
         <id>https://v.daum.net/v/20230728180510226</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230728171512931</id>
         <link href="https://v.daum.net/v/20230728171512931"/>
         <updated>2023-07-28T08:18:49.789Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[송경은의 시선] 소금 사재기보다 중요한 것]]></title>
-        <id>https://v.daum.net/v/20230728171509929</id>
-        <link href="https://v.daum.net/v/20230728171509929"/>
-        <updated>2023-07-28T08:18:49.790Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:15</span>]]></content>
     </entry>
 </feed>
