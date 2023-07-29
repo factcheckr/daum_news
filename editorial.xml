@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-07-29T02:27:33.678Z</updated>
+    <updated>2023-07-29T03:15:19.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AI시대, 한국 배우와 작가는 파업할 수도 없다 [라제기의 슛 & 숏]]]></title>
+        <id>https://v.daum.net/v/20230729120102077</id>
+        <link href="https://v.daum.net/v/20230729120102077"/>
+        <updated>2023-07-29T03:15:02.076Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">12:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[참전용사 새커리, 제2호 명예보훈장관 위촉]]></title>
         <id>https://v.daum.net/v/20230729100126982</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230729043137371</id>
         <link href="https://v.daum.net/v/20230729043137371"/>
         <updated>2023-07-28T20:18:21.322Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 오송참사 36명 수사의뢰... 윗선 책임도 명확히 가려야]]></title>
-        <id>https://v.daum.net/v/20230729043134370</id>
-        <link href="https://v.daum.net/v/20230729043134370"/>
-        <updated>2023-07-28T20:18:21.337Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:31</span>]]></content>
     </entry>
 </feed>
