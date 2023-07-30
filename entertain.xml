@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2023-07-30T17:13:29.913Z</updated>
+    <updated>2023-07-30T18:17:25.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘의 채널A]한밤중 복통으로 병원 실려간 사린]]></title>
+        <id>https://v.daum.net/v/20230731030138135</id>
+        <link href="https://v.daum.net/v/20230731030138135"/>
+        <updated>2023-07-30T18:16:37.365Z</updated>
+        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">03:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[복층남, 모델 아내와 관계 거부 심경 “의무적으로 하지마” (쉬는 부부)]]></title>
+        <id>https://v.daum.net/v/20230731030011088</id>
+        <link href="https://v.daum.net/v/20230731030011088"/>
+        <updated>2023-07-30T18:16:37.365Z</updated>
+        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">03:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전혜진, 안재욱과 민망한 재회…서늘 눈빛 장착 (남남)]]></title>
         <id>https://v.daum.net/v/20230731020013003</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230731004730894"/>
         <updated>2023-07-30T16:17:24.330Z</updated>
         <content type="html"><![CDATA[TV리포트<span class="txt_bar"> · </span><span class="info_time">00:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대도서관·윰댕, 결혼 8년만에 이혼]]></title>
-        <id>https://v.daum.net/v/20230731004504890</id>
-        <link href="https://v.daum.net/v/20230731004504890"/>
-        <updated>2023-07-30T16:17:24.339Z</updated>
-        <content type="html"><![CDATA[스포츠경향<span class="txt_bar"> · </span><span class="info_time">00:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[스브스夜] '미우새' 김건우, "빨간 팬티 케이트는 처음"…김희철-딘딘, 김건우 '그날들' 첫 공연 축하]]></title>
-        <id>https://v.daum.net/v/20230731003301872</id>
-        <link href="https://v.daum.net/v/20230731003301872"/>
-        <updated>2023-07-30T16:17:24.347Z</updated>
-        <content type="html"><![CDATA[SBS연예뉴스<span class="txt_bar"> · </span><span class="info_time">00:33</span>]]></content>
     </entry>
 </feed>
