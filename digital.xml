@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-07-30T11:12:47.848Z</updated>
+    <updated>2023-07-30T12:26:40.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독] LG이노텍, 中카메라모듈 공장 단계적 축소]]></title>
+        <id>https://v.daum.net/v/20230730203000704</id>
+        <link href="https://v.daum.net/v/20230730203000704"/>
+        <updated>2023-07-30T12:26:14.476Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">20:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이동관 "부인 인사청탁 의혹 사실무근...법적 대응 등 조치 강구"]]></title>
+        <id>https://v.daum.net/v/20230730202552668</id>
+        <link href="https://v.daum.net/v/20230730202552668"/>
+        <updated>2023-07-30T12:26:14.478Z</updated>
+        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">20:25</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SKT, 가족로밍 출시 한달만 가입자 7만 돌파…"3천원 추가하면 온 가족 혜택"]]></title>
+        <id>https://v.daum.net/v/20230730201541559</id>
+        <link href="https://v.daum.net/v/20230730201541559"/>
+        <updated>2023-07-30T12:26:14.479Z</updated>
+        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">20:15</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[기고] `제로 트러스트` 도입은 지상명령이다]]></title>
         <id>https://v.daum.net/v/20230730200046309</id>
@@ -20,7 +41,7 @@
         <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">19:52</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[`넥스트 차이나` 인도서 삼성·애플 스마트폰 격돌]]></title>
+        <title type="html"><![CDATA[[기획] `넥스트 차이나` 인도서 삼성·애플 스마트폰 격돌]]></title>
         <id>https://v.daum.net/v/20230730195213240</id>
         <link href="https://v.daum.net/v/20230730195213240"/>
         <updated>2023-07-30T11:12:20.654Z</updated>
@@ -69,7 +90,7 @@
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">18:52</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[15만→5만원, 말이 돼?…“15만원 간다더니, 대체 언제 올라“ 카카오 무슨일이]]></title>
+        <title type="html"><![CDATA[15만→5만원, 말이 돼?…“15만원 간다더니, 대체 언제” 카카오 무슨일이]]></title>
         <id>https://v.daum.net/v/20230730185054541</id>
         <link href="https://v.daum.net/v/20230730185054541"/>
         <updated>2023-07-30T10:14:25.255Z</updated>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230730184200459"/>
         <updated>2023-07-30T10:14:25.255Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">18:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PC교체 예산으로 DX?… "후려치기 안돼"]]></title>
-        <id>https://v.daum.net/v/20230730183037333</id>
-        <link href="https://v.daum.net/v/20230730183037333"/>
-        <updated>2023-07-30T10:14:25.255Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">18:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[테크&포커스] JY 리더십·인맥 힘얻은 삼성… 1·2위 이통사에 5G 장비 공급]]></title>
-        <id>https://v.daum.net/v/20230730183035332</id>
-        <link href="https://v.daum.net/v/20230730183035332"/>
-        <updated>2023-07-30T10:14:25.255Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">18:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MS “AI 반도체 부족, 클라우드 서비스 중단 위험” 첫 경고]]></title>
-        <id>https://v.daum.net/v/20230730183033330</id>
-        <link href="https://v.daum.net/v/20230730183033330"/>
-        <updated>2023-07-30T10:14:25.255Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">18:30</span>]]></content>
     </entry>
 </feed>
