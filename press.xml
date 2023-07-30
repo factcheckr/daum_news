@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-07-30T19:12:48.921Z</updated>
+    <updated>2023-07-30T20:16:49.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고품질 대학찰옥수수 매취, 농가소득 안정 견인]]></title>
+        <id>https://v.daum.net/v/20230731050206687</id>
+        <link href="https://v.daum.net/v/20230731050206687"/>
+        <updated>2023-07-30T20:16:40.436Z</updated>
+        <content type="html"><![CDATA[농민신문<span class="txt_bar"> · </span><span class="info_time">05:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원주 옛 캠프롱 부지에 강원전문과학관 내달 28일 착공]]></title>
         <id>https://v.daum.net/v/20230731000557691</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230731000515640</id>
         <link href="https://v.daum.net/v/20230731000515640"/>
         <updated>2023-07-30T15:15:47.428Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[R&D 경영] 전계열사 특성별 맞춤 친환경 사업]]></title>
-        <id>https://v.daum.net/v/20230731000513639</id>
-        <link href="https://v.daum.net/v/20230731000513639"/>
-        <updated>2023-07-30T15:15:47.429Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
     </entry>
 </feed>
