@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-07-30T20:16:49.734Z</updated>
+    <updated>2023-07-30T21:13:02.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에어뉴질랜드, 누워서 가는 이코노미 ‘스카이카우치’ - 천원의 행복 이벤트]]></title>
+        <id>https://v.daum.net/v/20230731060704141</id>
+        <link href="https://v.daum.net/v/20230731060704141"/>
+        <updated>2023-07-30T21:12:53.505Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">06:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고품질 대학찰옥수수 매취, 농가소득 안정 견인]]></title>
         <id>https://v.daum.net/v/20230731050206687</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230731000516641"/>
         <updated>2023-07-30T15:15:47.426Z</updated>
         <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[R&D 경영] ‘엑사원’등 AI 분야 3조6000억 투자]]></title>
-        <id>https://v.daum.net/v/20230731000515640</id>
-        <link href="https://v.daum.net/v/20230731000515640"/>
-        <updated>2023-07-30T15:15:47.428Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
     </entry>
 </feed>
