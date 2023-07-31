@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-07-31T08:23:53.719Z</updated>
+    <updated>2023-07-31T09:16:46.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안리쓰, 완전 자동화 모바일 장치 테스트 위해 COMPRION의 SIMplifier 선택]]></title>
+        <id>https://v.daum.net/v/20230731174702803</id>
+        <link href="https://v.daum.net/v/20230731174702803"/>
+        <updated>2023-07-31T09:16:35.073Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:47</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안리쓰, FR1용 5G RF Conformance 테스트 시스템 ME7834NR Lite 버전으로 확장]]></title>
+        <id>https://v.daum.net/v/20230731173703530</id>
+        <link href="https://v.daum.net/v/20230731173703530"/>
+        <updated>2023-07-31T09:16:35.074Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:37</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울여자대학교박물관, 노원구청과 함께 노원어린이역사문화학교 진행]]></title>
         <id>https://v.daum.net/v/20230731172252008</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230731165926152"/>
         <updated>2023-07-31T08:23:42.180Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:59</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경희사이버대학교 문화예술경영학과 강윤주 교수, 구루미를 활용한 다양한 시민예술 프로그램 실험 운영]]></title>
-        <id>https://v.daum.net/v/20230731165848131</id>
-        <link href="https://v.daum.net/v/20230731165848131"/>
-        <updated>2023-07-31T08:23:42.183Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">16:58</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세종사이버대학교 상담심리센터, 2023년 상반기 ‘공동체 치안 으뜸파트너’ 시상]]></title>
-        <id>https://v.daum.net/v/20230731165758102</id>
-        <link href="https://v.daum.net/v/20230731165758102"/>
-        <updated>2023-07-31T08:23:42.185Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">16:57</span>]]></content>
     </entry>
 </feed>
