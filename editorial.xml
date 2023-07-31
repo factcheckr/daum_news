@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-07-31T22:16:44.446Z</updated>
+    <updated>2023-07-31T23:16:38.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[WEEKLY BIZ LETTER] BoA 글로벌 대표 “내년 초 미국 금리 인하 없을 가능성 70%”]]></title>
+        <id>https://v.daum.net/v/20230801081017825</id>
+        <link href="https://v.daum.net/v/20230801081017825"/>
+        <updated>2023-07-31T23:16:21.054Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">08:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이스라엘 사법부 무력화될까 [기자들의 시선]]]></title>
+        <id>https://v.daum.net/v/20230801072015161</id>
+        <link href="https://v.daum.net/v/20230801072015161"/>
+        <updated>2023-07-31T23:16:21.057Z</updated>
+        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">07:20</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대덕포럼]  소중한 것 먼저 하기]]></title>
         <id>https://v.daum.net/v/20230801070518994</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230801060015181"/>
         <updated>2023-07-31T21:14:06.608Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Ana Palacio] Politicians impede practical climate solutions]]></title>
-        <id>https://v.daum.net/v/20230801053131015</id>
-        <link href="https://v.daum.net/v/20230801053131015"/>
-        <updated>2023-07-31T21:14:06.611Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Martin Schram] Truth shatters a Big Lie]]></title>
-        <id>https://v.daum.net/v/20230801053128014</id>
-        <link href="https://v.daum.net/v/20230801053128014"/>
-        <updated>2023-07-31T21:14:06.613Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:31</span>]]></content>
     </entry>
 </feed>
