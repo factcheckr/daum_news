@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-01T12:30:26.477Z</updated>
+    <updated>2023-08-01T13:19:36.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 8월 2일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20230801220121894</id>
+        <link href="https://v.daum.net/v/20230801220121894"/>
+        <updated>2023-08-01T13:19:17.099Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조직 병들게 하는 순응 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20230801220035874</id>
+        <link href="https://v.daum.net/v/20230801220035874"/>
+        <updated>2023-08-01T13:19:17.101Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 철근 보강하면서 ‘도색공사’로 은폐한 LH, 공기관 맞나]]></title>
         <id>https://v.daum.net/v/20230801203157212</id>
@@ -48,7 +62,7 @@
         <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">20:30</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[만물상] “시에스타 도입하자” 폭염이 낮잠을 경멸한 독일도 바꿔놨다]]></title>
+        <title type="html"><![CDATA[[만물상] 독일인의 낮잠]]></title>
         <id>https://v.daum.net/v/20230801202937153</id>
         <link href="https://v.daum.net/v/20230801202937153"/>
         <updated>2023-08-01T12:30:08.103Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230801202552097"/>
         <updated>2023-08-01T12:30:08.115Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[국제칼럼] ‘제2 아랍의 봄’과 기후위기]]></title>
-        <id>https://v.daum.net/v/20230801202542094</id>
-        <link href="https://v.daum.net/v/20230801202542094"/>
-        <updated>2023-08-01T12:30:08.117Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Going beyond the boundaries of two cultures]]></title>
-        <id>https://v.daum.net/v/20230801202521090</id>
-        <link href="https://v.daum.net/v/20230801202521090"/>
-        <updated>2023-08-01T12:30:08.119Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:25</span>]]></content>
     </entry>
 </feed>
