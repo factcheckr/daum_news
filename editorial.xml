@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-01T03:17:08.608Z</updated>
+    <updated>2023-08-01T04:18:37.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[이덕환의 과학세상] 위험 커뮤니케이션의 핵심은 ‘과학’]]></title>
+        <id>https://v.daum.net/v/20230801130014478</id>
+        <link href="https://v.daum.net/v/20230801130014478"/>
+        <updated>2023-08-01T04:18:18.484Z</updated>
+        <content type="html"><![CDATA[동아사이언스<span class="txt_bar"> · </span><span class="info_time">13:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[논단]심각한 남북간 인구 격차, 질 향상 위한 지원 고민해야]]></title>
         <id>https://v.daum.net/v/20230801121336846</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230801110047314"/>
         <updated>2023-08-01T02:37:58.363Z</updated>
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예산‧인력 부족에 ‘의료정보’ 위험 노출…사용자 경유한 사이버 공격 증가]]></title>
-        <id>https://v.daum.net/v/20230801110019279</id>
-        <link href="https://v.daum.net/v/20230801110019279"/>
-        <updated>2023-08-01T02:37:58.366Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">11:00</span>]]></content>
     </entry>
 </feed>
