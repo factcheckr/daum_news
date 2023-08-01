@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-01T22:15:05.241Z</updated>
+    <updated>2023-08-01T23:15:53.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[시로 여는 수요일] 행렬]]></title>
+        <id>https://v.daum.net/v/20230802073045916</id>
+        <link href="https://v.daum.net/v/20230802073045916"/>
+        <updated>2023-08-01T23:15:33.700Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">07:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“함께 살아야 살 수 있다”[오늘을 생각한다]]]></title>
+        <id>https://v.daum.net/v/20230802071812758</id>
+        <link href="https://v.daum.net/v/20230802071812758"/>
+        <updated>2023-08-01T23:15:33.704Z</updated>
+        <content type="html"><![CDATA[주간경향<span class="txt_bar"> · </span><span class="info_time">07:18</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[물의 길 [굽시니스트 시사 만화]]]></title>
+        <id>https://v.daum.net/v/20230802071613735</id>
+        <link href="https://v.daum.net/v/20230802071613735"/>
+        <updated>2023-08-01T23:15:33.705Z</updated>
+        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">07:16</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[509호 재판정에 평화는 올까 [프리스타일]]]></title>
+        <id>https://v.daum.net/v/20230802071609733</id>
+        <link href="https://v.daum.net/v/20230802071609733"/>
+        <updated>2023-08-01T23:15:33.707Z</updated>
+        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">07:16</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1538호를 읽고[독자의 소리]]]></title>
         <id>https://v.daum.net/v/20230802071401707</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230802060121882"/>
         <updated>2023-08-01T21:14:08.020Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">06:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Kim Seong-kon] 'Unmanned': Living with AI]]></title>
-        <id>https://v.daum.net/v/20230802053052561</id>
-        <link href="https://v.daum.net/v/20230802053052561"/>
-        <updated>2023-08-01T21:14:08.024Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Editorial] Stay vigilant]]></title>
-        <id>https://v.daum.net/v/20230802053031557</id>
-        <link href="https://v.daum.net/v/20230802053031557"/>
-        <updated>2023-08-01T21:14:08.027Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[씨줄날줄] 다크패턴(dark pattern)/박현갑 논설위원]]></title>
-        <id>https://v.daum.net/v/20230802050345132</id>
-        <link href="https://v.daum.net/v/20230802050345132"/>
-        <updated>2023-08-01T20:16:03.590Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[길섶에서] 회춘/이동구 논설위원]]></title>
-        <id>https://v.daum.net/v/20230802050345131</id>
-        <link href="https://v.daum.net/v/20230802050345131"/>
-        <updated>2023-08-01T20:16:03.592Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
     </entry>
 </feed>
