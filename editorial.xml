@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-01T20:16:25.614Z</updated>
+    <updated>2023-08-01T21:14:27.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[시론]탄소중립으로 가는 지름길, 도시숲]]></title>
+        <id>https://v.daum.net/v/20230802060121882</id>
+        <link href="https://v.daum.net/v/20230802060121882"/>
+        <updated>2023-08-01T21:14:08.020Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">06:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Kim Seong-kon] 'Unmanned': Living with AI]]></title>
+        <id>https://v.daum.net/v/20230802053052561</id>
+        <link href="https://v.daum.net/v/20230802053052561"/>
+        <updated>2023-08-01T21:14:08.024Z</updated>
+        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Editorial] Stay vigilant]]></title>
+        <id>https://v.daum.net/v/20230802053031557</id>
+        <link href="https://v.daum.net/v/20230802053031557"/>
+        <updated>2023-08-01T21:14:08.027Z</updated>
+        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[씨줄날줄] 다크패턴(dark pattern)/박현갑 논설위원]]></title>
         <id>https://v.daum.net/v/20230802050345132</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230802050252090"/>
         <updated>2023-08-01T20:16:03.611Z</updated>
         <content type="html"><![CDATA[프레시안<span class="txt_bar"> · </span><span class="info_time">05:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[탐방 선도농협] 상호금융자산 3조 시대…고객 우선주의 통했다]]></title>
-        <id>https://v.daum.net/v/20230802050235068</id>
-        <link href="https://v.daum.net/v/20230802050235068"/>
-        <updated>2023-08-01T20:16:03.613Z</updated>
-        <content type="html"><![CDATA[농민신문<span class="txt_bar"> · </span><span class="info_time">05:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김진호의 농민만평] 2023년 8월2일]]></title>
-        <id>https://v.daum.net/v/20230802050206027</id>
-        <link href="https://v.daum.net/v/20230802050206027"/>
-        <updated>2023-08-01T20:16:03.615Z</updated>
-        <content type="html"><![CDATA[농민신문<span class="txt_bar"> · </span><span class="info_time">05:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[문화 읽기] 재난영화와 재난현실의 평행이론]]></title>
-        <id>https://v.daum.net/v/20230802050143009</id>
-        <link href="https://v.daum.net/v/20230802050143009"/>
-        <updated>2023-08-01T20:16:03.617Z</updated>
-        <content type="html"><![CDATA[농민신문<span class="txt_bar"> · </span><span class="info_time">05:01</span>]]></content>
     </entry>
 </feed>
