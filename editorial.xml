@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-02T12:30:08.805Z</updated>
+    <updated>2023-08-02T13:19:28.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[외로움은 디지털 노마드의 숙명 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20230802220043652</id>
+        <link href="https://v.daum.net/v/20230802220043652"/>
+        <updated>2023-08-02T13:19:08.197Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023년 8월 3일[김용민의 그림마당]]]></title>
         <id>https://v.daum.net/v/20230802205642620</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230802202029011"/>
         <updated>2023-08-02T12:29:49.466Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[책 속의 풍경, 책 밖의 이야기] 나를 일깨운 ‘책으로 비즈니스’]]></title>
-        <id>https://v.daum.net/v/20230802201945003</id>
-        <link href="https://v.daum.net/v/20230802201945003"/>
-        <updated>2023-08-02T12:29:49.468Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:19</span>]]></content>
     </entry>
 </feed>
