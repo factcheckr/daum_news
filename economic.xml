@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2023-08-02T16:32:22.746Z</updated>
+    <updated>2023-08-02T17:14:36.043Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["워싱턴에 대한 경고일 뿐" 월가서 본 美신용등급 강등 여파]]></title>
+        <id>https://v.daum.net/v/20230803013146166</id>
+        <link href="https://v.daum.net/v/20230803013146166"/>
+        <updated>2023-08-02T17:13:15.823Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">01:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LS그룹, 새만금산단에 이차전지 소재 시설 투자…1조8402억원 규모]]></title>
         <id>https://v.daum.net/v/20230803010205089</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230803000240670</id>
         <link href="https://v.daum.net/v/20230803000240670"/>
         <updated>2023-08-02T15:14:20.520Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재정 악화·나랏빚 증가·정치싸움…한국도 미국과 닮은꼴]]></title>
-        <id>https://v.daum.net/v/20230803000227666</id>
-        <link href="https://v.daum.net/v/20230803000227666"/>
-        <updated>2023-08-02T15:14:20.527Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
     </entry>
 </feed>
