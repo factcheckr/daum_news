@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-02T13:19:28.734Z</updated>
+    <updated>2023-08-02T14:17:30.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[국민만평-서민호 화백] 2023년 8월 3일]]></title>
+        <id>https://v.daum.net/v/20230802222015899</id>
+        <link href="https://v.daum.net/v/20230802222015899"/>
+        <updated>2023-08-02T14:17:11.860Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">22:20</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[외로움은 디지털 노마드의 숙명 [삶과 문화]]]></title>
         <id>https://v.daum.net/v/20230802220043652</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230802202342055"/>
         <updated>2023-08-02T12:29:49.463Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:23</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The eventual collapse of rash desires]]></title>
-        <id>https://v.daum.net/v/20230802202029011</id>
-        <link href="https://v.daum.net/v/20230802202029011"/>
-        <updated>2023-08-02T12:29:49.466Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:20</span>]]></content>
     </entry>
 </feed>
