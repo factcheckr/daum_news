@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-08-02T09:15:42.073Z</updated>
+    <updated>2023-08-02T10:16:45.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[동해·제주해역서 해양생물 신종 15종 발견...세계 최초]]></title>
+        <id>https://v.daum.net/v/20230802191515651</id>
+        <link href="https://v.daum.net/v/20230802191515651"/>
+        <updated>2023-08-02T10:16:36.438Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">19:15</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[8월의 시작, 찜통더위 날려줄 좋은 미술전시 소개]]></title>
         <id>https://v.daum.net/v/20230802181205328</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230802173627243"/>
         <updated>2023-08-02T09:15:31.321Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">17:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인터랙티브 브로커스, 캐나다 주식 및 ETF의 소수점 주식 거래 도입]]></title>
-        <id>https://v.daum.net/v/20230802172702945</id>
-        <link href="https://v.daum.net/v/20230802172702945"/>
-        <updated>2023-08-02T09:15:31.323Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:27</span>]]></content>
     </entry>
 </feed>
