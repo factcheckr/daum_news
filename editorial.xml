@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-02T07:14:52.394Z</updated>
+    <updated>2023-08-02T08:24:12.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[그래도, 참사 현장에 달려가야 하는 이유 [메아리]]]></title>
+        <id>https://v.daum.net/v/20230802170045105</id>
+        <link href="https://v.daum.net/v/20230802170045105"/>
+        <updated>2023-08-02T08:23:53.139Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">17:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[자막뉴스] 수출 규제 맞불 놓은 中... 전 세계 반도체 '비상']]></title>
+        <id>https://v.daum.net/v/20230802162816843</id>
+        <link href="https://v.daum.net/v/20230802162816843"/>
+        <updated>2023-08-02T08:23:53.139Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">16:28</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[ET대학포럼]〈133〉다같이 어우러져야 하는 복잡계]]></title>
         <id>https://v.daum.net/v/20230802160138731</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230802142006322"/>
         <updated>2023-08-02T06:19:15.394Z</updated>
         <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">14:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘책의 죽음’을 재촉하는 나라 [김영희 칼럼]]]></title>
-        <id>https://v.daum.net/v/20230802141510135</id>
-        <link href="https://v.daum.net/v/20230802141510135"/>
-        <updated>2023-08-02T06:19:15.396Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">14:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[51도 폭염 닥친 이란, 이틀간 공휴일 선포]]></title>
-        <id>https://v.daum.net/v/20230802133920997</id>
-        <link href="https://v.daum.net/v/20230802133920997"/>
-        <updated>2023-08-02T05:14:52.072Z</updated>
-        <content type="html"><![CDATA[EBS<span class="txt_bar"> · </span><span class="info_time">13:39</span>]]></content>
     </entry>
 </feed>
