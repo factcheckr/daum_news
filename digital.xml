@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-08-03T13:19:23.671Z</updated>
+    <updated>2023-08-03T14:15:07.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[상온 초전도체 국내서 개발?…전 세계서 검증 활발]]></title>
+        <id>https://v.daum.net/v/20230803224155852</id>
+        <link href="https://v.daum.net/v/20230803224155852"/>
+        <updated>2023-08-03T14:14:40.449Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV<span class="txt_bar"> · </span><span class="info_time">22:41</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인도, ‘노트북·PC·태블릿’ 수입 제한…"자국 생산 장려"]]></title>
+        <id>https://v.daum.net/v/20230803223730830</id>
+        <link href="https://v.daum.net/v/20230803223730830"/>
+        <updated>2023-08-03T14:14:40.461Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">22:37</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[변방 벗어나 이제는 대세 노리는 'SRPG']]></title>
         <id>https://v.daum.net/v/20230803220207385</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230803191304776"/>
         <updated>2023-08-03T11:15:51.038Z</updated>
         <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">19:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["GDC는 자연스러운 흐름…가격보다 변화에 주목해야"]]></title>
-        <id>https://v.daum.net/v/20230803191114749</id>
-        <link href="https://v.daum.net/v/20230803191114749"/>
-        <updated>2023-08-03T11:15:51.040Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">19:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개발자 인력난, 돌파구는 GDC…베트남을 주목하는 이유]]></title>
-        <id>https://v.daum.net/v/20230803190927703</id>
-        <link href="https://v.daum.net/v/20230803190927703"/>
-        <updated>2023-08-03T11:15:51.043Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">19:09</span>]]></content>
     </entry>
 </feed>

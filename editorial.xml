@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-03T13:19:23.672Z</updated>
+    <updated>2023-08-03T14:15:07.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[새 드라이버 맡겼더니 흠집 수두룩 [정현권의 감성골프]]]></title>
-        <id>https://v.daum.net/v/20230803220320414</id>
-        <link href="https://v.daum.net/v/20230803220320414"/>
-        <updated>2023-08-03T13:19:03.770Z</updated>
-        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">22:03</span>]]></content>
+        <title type="html"><![CDATA[[세컷칼럼] “못 본 척하라는 못난 조언, 동료에게 건네야 하는 현실”]]></title>
+        <id>https://v.daum.net/v/20230803230025033</id>
+        <link href="https://v.daum.net/v/20230803230025033"/>
+        <updated>2023-08-03T14:14:50.057Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[국민만평-서민호 화백] 2023년 8월 4일]]></title>
+        <id>https://v.daum.net/v/20230803224716930</id>
+        <link href="https://v.daum.net/v/20230803224716930"/>
+        <updated>2023-08-03T14:14:50.057Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">22:47</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[잼버리 탈진환자 속출에…여야 "철저한 대책 세워야"]]></title>
+        <id>https://v.daum.net/v/20230803222214670</id>
+        <link href="https://v.daum.net/v/20230803222214670"/>
+        <updated>2023-08-03T14:14:50.059Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV<span class="txt_bar"> · </span><span class="info_time">22:22</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뭉클하기까지한 무해한 웃음 [삶과 문화]]]></title>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230803201805525"/>
         <updated>2023-08-03T12:30:27.875Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정동칼럼] 탄핵 기각이 면죄부일까?]]></title>
-        <id>https://v.daum.net/v/20230803201758520</id>
-        <link href="https://v.daum.net/v/20230803201758520"/>
-        <updated>2023-08-03T12:30:27.877Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[여적] 꿈의 상온 초전도체]]></title>
-        <id>https://v.daum.net/v/20230803201755519</id>
-        <link href="https://v.daum.net/v/20230803201755519"/>
-        <updated>2023-08-03T12:30:27.880Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:17</span>]]></content>
     </entry>
 </feed>
