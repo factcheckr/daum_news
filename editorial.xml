@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-04T10:16:27.186Z</updated>
+    <updated>2023-08-04T11:13:10.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신용등급 강등, 한국이었다면… [임상균 칼럼]]]></title>
+        <id>https://v.daum.net/v/20230804200310465</id>
+        <link href="https://v.daum.net/v/20230804200310465"/>
+        <updated>2023-08-04T11:12:52.823Z</updated>
+        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">20:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[끓는 지구, 끊이지 않는 신기록]]></title>
         <id>https://v.daum.net/v/20230804190508511</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:05</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[사설] 잇따른 ‘흉기 난동’, 치안강화 함께 다각도 예방책 강구해야]]></title>
+        <title type="html"><![CDATA[[사설] 잇따른 ‘흉기 난동’, 치안강화 함께 다각도 예방책 시급하다]]></title>
         <id>https://v.daum.net/v/20230804185502330</id>
         <link href="https://v.daum.net/v/20230804185502330"/>
         <updated>2023-08-04T10:16:09.692Z</updated>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230804171214805</id>
         <link href="https://v.daum.net/v/20230804171214805"/>
         <updated>2023-08-04T08:18:41.944Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김유신의 공짜점심] 로또 아파트는 없었다]]></title>
-        <id>https://v.daum.net/v/20230804171212799</id>
-        <link href="https://v.daum.net/v/20230804171212799"/>
-        <updated>2023-08-04T08:18:41.947Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:12</span>]]></content>
     </entry>
 </feed>
