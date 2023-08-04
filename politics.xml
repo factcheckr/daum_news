@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2023-08-04T17:13:55.869Z</updated>
+    <updated>2023-08-04T18:20:58.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[與 "해체 수준 구조조정해서라도 LH 바로잡을 것"]]></title>
+        <id>https://v.daum.net/v/20230805021907808</id>
+        <link href="https://v.daum.net/v/20230805021907808"/>
+        <updated>2023-08-04T18:19:28.142Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">02:19</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[민주, 붕괴 아파트 공사현장 찾아 "'철근 누락' TF 구성"]]></title>
+        <id>https://v.daum.net/v/20230805021617805</id>
+        <link href="https://v.daum.net/v/20230805021617805"/>
+        <updated>2023-08-04T18:19:28.142Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">02:16</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中, 한국인 마약사범 1명 사형 집행]]></title>
         <id>https://v.daum.net/v/20230805014232725</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230805004223525"/>
         <updated>2023-08-04T16:17:57.900Z</updated>
         <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">00:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영장 기각된 이성만]]></title>
-        <id>https://v.daum.net/v/20230805004059517</id>
-        <link href="https://v.daum.net/v/20230805004059517"/>
-        <updated>2023-08-04T16:17:57.902Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">00:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영장 기각, 서울구치소 나서는 이성만]]></title>
-        <id>https://v.daum.net/v/20230805004041516</id>
-        <link href="https://v.daum.net/v/20230805004041516"/>
-        <updated>2023-08-04T16:17:57.905Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">00:40</span>]]></content>
     </entry>
 </feed>
