@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-08-04T12:36:00.395Z</updated>
+    <updated>2023-08-04T13:19:12.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대전 로봇융합 페스티벌 개막]]></title>
+        <id>https://v.daum.net/v/20230804220022104</id>
+        <link href="https://v.daum.net/v/20230804220022104"/>
+        <updated>2023-08-04T13:18:43.116Z</updated>
+        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LK-99 검증위 "현재로서는 상온 초전도체 확정 못해"]]></title>
+        <id>https://v.daum.net/v/20230804214302819</id>
+        <link href="https://v.daum.net/v/20230804214302819"/>
+        <updated>2023-08-04T13:18:43.118Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">21:43</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[57회 논의 뒤 결정한 ‘4대강 보 해체·개방’…보름 동안 2번 회의하고 “취소”]]></title>
         <id>https://v.daum.net/v/20230804210657345</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230804190610523"/>
         <updated>2023-08-04T10:16:02.280Z</updated>
         <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">19:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인스웨이브, 일본 UI뱅크 웹표준 금융 단말솔루션 공급]]></title>
-        <id>https://v.daum.net/v/20230804185457325</id>
-        <link href="https://v.daum.net/v/20230804185457325"/>
-        <updated>2023-08-04T10:16:02.280Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">18:54</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“연봉 8억 유튜버 안 부럽네” 15일만에 10억 ‘대박’ 알고 보니]]></title>
-        <id>https://v.daum.net/v/20230804185133292</id>
-        <link href="https://v.daum.net/v/20230804185133292"/>
-        <updated>2023-08-04T10:16:02.280Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">18:51</span>]]></content>
     </entry>
 </feed>
