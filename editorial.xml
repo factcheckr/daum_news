@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-04T21:15:28.876Z</updated>
+    <updated>2023-08-04T22:14:34.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뉴스 즉설]이재명 사퇴설 총정리…9월 또는 10월, 아니면 연말?]]></title>
+        <id>https://v.daum.net/v/20230805064401641</id>
+        <link href="https://v.daum.net/v/20230805064401641"/>
+        <updated>2023-08-04T22:14:13.966Z</updated>
+        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">06:44</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아르누보의 교훈 [ESC]]]></title>
         <id>https://v.daum.net/v/20230805060501440</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230805040200945"/>
         <updated>2023-08-04T19:12:51.579Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">04:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전화성의 기술창업 Targeting]〈273〉스마트건설 혁신의 중심, 스마트건설지원센터]]></title>
-        <id>https://v.daum.net/v/20230805040109942</id>
-        <link href="https://v.daum.net/v/20230805040109942"/>
-        <updated>2023-08-04T19:12:51.582Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">04:01</span>]]></content>
     </entry>
 </feed>
