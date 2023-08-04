@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-04T20:21:50.383Z</updated>
+    <updated>2023-08-04T21:15:28.876Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아르누보의 교훈 [ESC]]]></title>
+        <id>https://v.daum.net/v/20230805060501440</id>
+        <link href="https://v.daum.net/v/20230805060501440"/>
+        <updated>2023-08-04T21:15:07.390Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">06:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[배충식의 모빌토피아]국제협력으로 이루는 탄소중립]]></title>
+        <id>https://v.daum.net/v/20230805060147403</id>
+        <link href="https://v.daum.net/v/20230805060147403"/>
+        <updated>2023-08-04T21:15:07.398Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">06:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 무량판 민간 아파트, 안전조사마저 졸속 우려]]></title>
         <id>https://v.daum.net/v/20230805043124047</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230805040109942"/>
         <updated>2023-08-04T19:12:51.582Z</updated>
         <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">04:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[文때 해체·개방한 4대강 보, 다시 원상복구]]></title>
-        <id>https://v.daum.net/v/20230805032617903</id>
-        <link href="https://v.daum.net/v/20230805032617903"/>
-        <updated>2023-08-04T19:12:51.586Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 잇따르는 묻지마 칼부림과 모방 범죄, 테러로 보고 대응해야]]></title>
-        <id>https://v.daum.net/v/20230805032612902</id>
-        <link href="https://v.daum.net/v/20230805032612902"/>
-        <updated>2023-08-04T19:12:51.591Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:26</span>]]></content>
     </entry>
 </feed>
