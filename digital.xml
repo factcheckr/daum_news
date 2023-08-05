@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-08-05T10:15:40.666Z</updated>
+    <updated>2023-08-05T11:12:13.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“에어팟도 이렇게 돌돌 만다” 신기한 ‘애플팔찌’ 진짜 나오나?]]></title>
+        <id>https://v.daum.net/v/20230805195042020</id>
+        <link href="https://v.daum.net/v/20230805195042020"/>
+        <updated>2023-08-05T11:11:49.735Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">19:50</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Z플립5 직접 접었다 폈다 테스트…이번엔 몇 시간 갈까]]></title>
+        <id>https://v.daum.net/v/20230805191804579</id>
+        <link href="https://v.daum.net/v/20230805191804579"/>
+        <updated>2023-08-05T11:11:49.735Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">19:18</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“우리 아이 살려줬는데” 그 아이는 하늘나라…엄마는 웃지 못 했다]]></title>
         <id>https://v.daum.net/v/20230805185042175</id>
@@ -34,7 +48,7 @@
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:26</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[삼성 갤럭시탭S9…물에 빠져도 된다, 방수·방진기능↑[써보니]]]></title>
+        <title type="html"><![CDATA[[써보니]삼성 갤럭시탭S9…물에 빠져도 된다, 방수·방진기능↑]]></title>
         <id>https://v.daum.net/v/20230805172322602</id>
         <link href="https://v.daum.net/v/20230805172322602"/>
         <updated>2023-08-05T09:13:04.717Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230805143023343"/>
         <updated>2023-08-05T06:18:01.145Z</updated>
         <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">14:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['AI에 게시물 이용' 네이버 약관 불공정성 검토]]></title>
-        <id>https://v.daum.net/v/20230805140512081</id>
-        <link href="https://v.daum.net/v/20230805140512081"/>
-        <updated>2023-08-05T05:14:05.808Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV<span class="txt_bar"> · </span><span class="info_time">14:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“더 이상 못 참아”…인공지능(AI)에 뿔난 미 할리우드 '장외투쟁']]></title>
-        <id>https://v.daum.net/v/20230805140004015</id>
-        <link href="https://v.daum.net/v/20230805140004015"/>
-        <updated>2023-08-05T05:14:05.814Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
     </entry>
 </feed>

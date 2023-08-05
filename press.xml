@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-08-05T10:15:40.669Z</updated>
+    <updated>2023-08-05T11:12:13.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Nexteer, 2023년 상반기 재무성과 콘퍼런스 콜 일시 발표]]></title>
+        <id>https://v.daum.net/v/20230805192735684</id>
+        <link href="https://v.daum.net/v/20230805192735684"/>
+        <updated>2023-08-05T11:12:04.342Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">19:27</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Nexteer to Hold Financial Results Conference Call]]></title>
+        <id>https://v.daum.net/v/20230805192705680</id>
+        <link href="https://v.daum.net/v/20230805192705680"/>
+        <updated>2023-08-05T11:12:04.343Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">19:27</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] Huion Launches Back to School Campaign]]></title>
         <id>https://v.daum.net/v/20230805181257552</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230805100537620"/>
         <updated>2023-08-05T01:19:37.715Z</updated>
         <content type="html"><![CDATA[대구MBC<span class="txt_bar"> · </span><span class="info_time">10:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성전자, 갤럭시 Z 플립5·폴드5 출시 앞두고 전 세계 주요 도시에 ‘갤럭시 익스피리언스 스페이스’ 오픈]]></title>
-        <id>https://v.daum.net/v/20230805090704959</id>
-        <link href="https://v.daum.net/v/20230805090704959"/>
-        <updated>2023-08-05T01:19:37.716Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">09:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] 주한영국대사관, 어린이들과 해상풍력 터빈 만들기 체험 행사 마무리]]></title>
-        <id>https://v.daum.net/v/20230805003347489</id>
-        <link href="https://v.daum.net/v/20230805003347489"/>
-        <updated>2023-08-04T16:19:04.371Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">00:33</span>]]></content>
     </entry>
 </feed>

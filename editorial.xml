@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-05T10:15:40.673Z</updated>
+    <updated>2023-08-05T11:12:13.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[성큼 다가온 초고령화 사회…숙제로 떠오른 ‘난청’ [헬스]]]></title>
+        <id>https://v.daum.net/v/20230805200319172</id>
+        <link href="https://v.daum.net/v/20230805200319172"/>
+        <updated>2023-08-05T11:11:57.028Z</updated>
+        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">20:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[숲에 둘러싸인, 뉴질랜드 최초 유기농 와인 [고재윤의 스토리가 있는 와인]]]></title>
+        <id>https://v.daum.net/v/20230805200315170</id>
+        <link href="https://v.daum.net/v/20230805200315170"/>
+        <updated>2023-08-05T11:11:57.030Z</updated>
+        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">20:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[잇따르는 흉기 난동에 여권 "사형 집행" 잇따라]]></title>
         <id>https://v.daum.net/v/20230805164554911</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230805043121046"/>
         <updated>2023-08-04T20:21:28.267Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['누명을 쓰다'와 '벌쓰다' [우리말 톺아보기]]]></title>
-        <id>https://v.daum.net/v/20230805043111043</id>
-        <link href="https://v.daum.net/v/20230805043111043"/>
-        <updated>2023-08-04T20:21:28.269Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원신의 약진과 한국 게임산업의 위기 [최연진의 IT 프리즘]]]></title>
-        <id>https://v.daum.net/v/20230805043038038</id>
-        <link href="https://v.daum.net/v/20230805043038038"/>
-        <updated>2023-08-04T20:21:28.271Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
     </entry>
 </feed>
