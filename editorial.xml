@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-05T03:15:33.944Z</updated>
+    <updated>2023-08-05T04:18:27.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘지역 보존’과 ‘개발’ 사이…고도 제한 완화의 경제학 [경제칼럼]]]></title>
+        <id>https://v.daum.net/v/20230805130308374</id>
+        <link href="https://v.daum.net/v/20230805130308374"/>
+        <updated>2023-08-05T04:18:00.358Z</updated>
+        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">13:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주요 신문 사설](5일 조간)]]></title>
         <id>https://v.daum.net/v/20230805100005516</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230805043007033"/>
         <updated>2023-08-04T20:21:28.276Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한마당] 아키하바라 예고 살인 사건]]></title>
-        <id>https://v.daum.net/v/20230805041207998</id>
-        <link href="https://v.daum.net/v/20230805041207998"/>
-        <updated>2023-08-04T19:12:51.559Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:12</span>]]></content>
     </entry>
 </feed>
