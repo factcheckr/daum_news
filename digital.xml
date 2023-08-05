@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-08-05T12:26:32.692Z</updated>
+    <updated>2023-08-05T13:22:03.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“요즘 20대는 이걸 30만원 주고 산다고?” 삼성도 놀랐다]]></title>
+        <id>https://v.daum.net/v/20230805221127574</id>
+        <link href="https://v.daum.net/v/20230805221127574"/>
+        <updated>2023-08-05T13:21:39.500Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">22:11</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수자원공사, 잼버리 싱가포르 대표단에 숙식·교통 ‘전폭 지원’]]></title>
         <id>https://v.daum.net/v/20230805212021107</id>
@@ -69,7 +76,7 @@
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">17:23</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“유명 여배우 손에 든 삼성 ‘접는폰’ 알고보니” 1000원짜리 때아닌 열풍]]></title>
+        <title type="html"><![CDATA[“고작 1000원짜리라니?” 유명 여배우 손에 든 ‘접는폰’ 알고보니]]></title>
         <id>https://v.daum.net/v/20230805165039966</id>
         <link href="https://v.daum.net/v/20230805165039966"/>
         <updated>2023-08-05T08:18:18.768Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230805150033724"/>
         <updated>2023-08-05T06:18:01.138Z</updated>
         <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">15:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넥슨 신작 ‘퍼스트 디센던트’, 내달 오픈베타 테스트]]></title>
-        <id>https://v.daum.net/v/20230805144501525</id>
-        <link href="https://v.daum.net/v/20230805144501525"/>
-        <updated>2023-08-05T06:18:01.140Z</updated>
-        <content type="html"><![CDATA[매경게임진<span class="txt_bar"> · </span><span class="info_time">14:45</span>]]></content>
     </entry>
 </feed>
