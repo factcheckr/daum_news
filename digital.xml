@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-08-05T09:13:32.216Z</updated>
+    <updated>2023-08-05T10:15:40.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“우리 아이 살려줬는데” 그 아이는 하늘나라…엄마는 웃지 못 했다]]></title>
+        <id>https://v.daum.net/v/20230805185042175</id>
+        <link href="https://v.daum.net/v/20230805185042175"/>
+        <updated>2023-08-05T10:15:14.441Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">18:50</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[상온초전도체 'LK-99' 에 회의론 커져]]></title>
+        <id>https://v.daum.net/v/20230805181856644</id>
+        <link href="https://v.daum.net/v/20230805181856644"/>
+        <updated>2023-08-05T10:15:14.442Z</updated>
+        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">18:18</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['출시 100일' 나이트크로우 매출 상위권...위메이드 "장기 흥행 노린다"]]></title>
         <id>https://v.daum.net/v/20230805180032297</id>
@@ -20,7 +34,7 @@
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:26</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[써보니]삼성 갤럭시탭S9…물에 빠져도 된다, 방수·방진기능↑]]></title>
+        <title type="html"><![CDATA[삼성 갤럭시탭S9…물에 빠져도 된다, 방수·방진기능↑[써보니]]]></title>
         <id>https://v.daum.net/v/20230805172322602</id>
         <link href="https://v.daum.net/v/20230805172322602"/>
         <updated>2023-08-05T09:13:04.717Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230805140004015"/>
         <updated>2023-08-05T05:14:05.814Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“이게 제주도 바닷속이라니” 아무도 몰랐던 쓰레기판…이 정도일줄은 [지구, 뭐래?]]]></title>
-        <id>https://v.daum.net/v/20230805135039915</id>
-        <link href="https://v.daum.net/v/20230805135039915"/>
-        <updated>2023-08-05T05:14:05.814Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">13:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코난, 보고서 생성 특화 13B 언어AI '코난 LLM' 17일 출시]]></title>
-        <id>https://v.daum.net/v/20230805134707821</id>
-        <link href="https://v.daum.net/v/20230805134707821"/>
-        <updated>2023-08-05T05:14:05.826Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">13:47</span>]]></content>
     </entry>
 </feed>
