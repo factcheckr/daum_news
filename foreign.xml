@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/foreign</id>
     <title>다음 뉴스 ─ 전체기사 ─ 국제</title>
-    <updated>2023-08-05T18:18:32.815Z</updated>
+    <updated>2023-08-05T19:12:06.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미-캐나다, 디지털세 도입 갈등…미국, 보복 조치도 거론]]></title>
+        <id>https://v.daum.net/v/20230806040900342</id>
+        <link href="https://v.daum.net/v/20230806040900342"/>
+        <updated>2023-08-05T19:11:04.000Z</updated>
+        <content type="html"><![CDATA[SBS<span class="txt_bar"> · </span><span class="info_time">04:09</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["니제르 군부, ECOWAS 군사개입 경고에 바그너그룹에 지원 요청"]]></title>
+        <id>https://v.daum.net/v/20230806040656339</id>
+        <link href="https://v.daum.net/v/20230806040656339"/>
+        <updated>2023-08-05T19:11:04.003Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">04:06</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중국 산둥성 더저우시 남쪽서 규모 5.5 지진 발생]]></title>
+        <id>https://v.daum.net/v/20230806040631338</id>
+        <link href="https://v.daum.net/v/20230806040631338"/>
+        <updated>2023-08-05T19:11:04.005Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">04:06</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NYT “각국 친중단체 돈줄 찾아보니 ‘미국인 갑부’”]]></title>
+        <id>https://v.daum.net/v/20230806032323323</id>
+        <link href="https://v.daum.net/v/20230806032323323"/>
+        <updated>2023-08-05T19:11:04.007Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:23</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["'중국산 키위' 한번 드셔보세요"···뉴질랜드 회사, 中 상대 소송]]></title>
         <id>https://v.daum.net/v/20230806031028311</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230806011040238"/>
         <updated>2023-08-05T16:17:14.495Z</updated>
         <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">01:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GERMANY MEXICO MISSING PERSON]]></title>
-        <id>https://v.daum.net/v/20230806010923237</id>
-        <link href="https://v.daum.net/v/20230806010923237"/>
-        <updated>2023-08-05T16:17:14.497Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">01:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UKRAINE RUSSIA CONFLICT]]></title>
-        <id>https://v.daum.net/v/20230806010753236</id>
-        <link href="https://v.daum.net/v/20230806010753236"/>
-        <updated>2023-08-05T16:17:14.497Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">01:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UKRAINE RUSSIA CONFLICT]]></title>
-        <id>https://v.daum.net/v/20230806010734235</id>
-        <link href="https://v.daum.net/v/20230806010734235"/>
-        <updated>2023-08-05T16:17:14.499Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">01:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UKRAINE RUSSIA CONFLICT]]></title>
-        <id>https://v.daum.net/v/20230806010701233</id>
-        <link href="https://v.daum.net/v/20230806010701233"/>
-        <updated>2023-08-05T16:17:14.515Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">01:07</span>]]></content>
     </entry>
 </feed>
