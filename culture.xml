@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2023-08-05T15:14:23.861Z</updated>
+    <updated>2023-08-05T16:18:15.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘의 운세] 8월 6일 일요일 (음력 6월 20일 /丙申) 띠별 / 생년월일 운세]]></title>
+        <id>https://v.daum.net/v/20230806010125225</id>
+        <link href="https://v.daum.net/v/20230806010125225"/>
+        <updated>2023-08-05T16:17:23.606Z</updated>
+        <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">01:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조계종, 폭염 속 잼버리 대원에 170여 개 사찰 개방]]></title>
+        <id>https://v.daum.net/v/20230806005400219</id>
+        <link href="https://v.daum.net/v/20230806005400219"/>
+        <updated>2023-08-05T16:17:23.606Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:54</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[카드뉴스]2023년 8월 둘째 주 ‘별자리 운세’]]></title>
         <id>https://v.daum.net/v/20230806000715145</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230806000047097"/>
         <updated>2023-08-05T15:13:24.298Z</updated>
         <content type="html"><![CDATA[코스모폴리탄<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 운세] 2023년 8월6일 띠별‧별자리]]></title>
-        <id>https://v.daum.net/v/20230806000040094</id>
-        <link href="https://v.daum.net/v/20230806000040094"/>
-        <updated>2023-08-05T15:13:24.299Z</updated>
-        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지금 서울로 모이고 있는 미국 스트리트 브랜드]]></title>
-        <id>https://v.daum.net/v/20230806000040093</id>
-        <link href="https://v.daum.net/v/20230806000040093"/>
-        <updated>2023-08-05T15:13:24.300Z</updated>
-        <content type="html"><![CDATA[엘르<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
