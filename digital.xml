@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-08-05T04:18:27.870Z</updated>
+    <updated>2023-08-05T05:14:34.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['AI에 게시물 이용' 네이버 약관 불공정성 검토]]></title>
+        <id>https://v.daum.net/v/20230805140512081</id>
+        <link href="https://v.daum.net/v/20230805140512081"/>
+        <updated>2023-08-05T05:14:05.808Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV<span class="txt_bar"> · </span><span class="info_time">14:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“더 이상 못 참아”…인공지능(AI)에 뿔난 미 할리우드 '장외투쟁']]></title>
+        <id>https://v.daum.net/v/20230805140004015</id>
+        <link href="https://v.daum.net/v/20230805140004015"/>
+        <updated>2023-08-05T05:14:05.814Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“이게 제주도 바닷속이라니” 아무도 몰랐던 쓰레기판…이 정도일줄은 [지구, 뭐래?]]]></title>
+        <id>https://v.daum.net/v/20230805135039915</id>
+        <link href="https://v.daum.net/v/20230805135039915"/>
+        <updated>2023-08-05T05:14:05.814Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">13:50</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코난, 13B 언어AI '코난 LLM' 17일 출시]]></title>
+        <id>https://v.daum.net/v/20230805134707821</id>
+        <link href="https://v.daum.net/v/20230805134707821"/>
+        <updated>2023-08-05T05:14:05.826Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">13:47</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[네이버파이낸셜, 전국 11만3000여 공인중개사와 상생]]></title>
         <id>https://v.daum.net/v/20230805130147349</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230805104553034"/>
         <updated>2023-08-05T02:26:56.538Z</updated>
         <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">10:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[애플 쇼크웨이브](25)인도, 아이폰 용 칩 생산 '희망 고문']]></title>
-        <id>https://v.daum.net/v/20230805104218005</id>
-        <link href="https://v.daum.net/v/20230805104218005"/>
-        <updated>2023-08-05T02:26:56.546Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">10:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LK-99 검증위 "현재까지 해외 검증서 초전도성 확인 못 해"]]></title>
-        <id>https://v.daum.net/v/20230805104016984</id>
-        <link href="https://v.daum.net/v/20230805104016984"/>
-        <updated>2023-08-05T02:26:56.546Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">10:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[상온 초전도체 검증위 “현재까지 해외 검증 결과, 초전도성 입증 못 해”]]></title>
-        <id>https://v.daum.net/v/20230805103522937</id>
-        <link href="https://v.daum.net/v/20230805103522937"/>
-        <updated>2023-08-05T02:26:56.547Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">10:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[펄어비스, 게임 내 ‘괴롭힘’도 막는다]]></title>
-        <id>https://v.daum.net/v/20230805103302912</id>
-        <link href="https://v.daum.net/v/20230805103302912"/>
-        <updated>2023-08-05T02:26:56.547Z</updated>
-        <content type="html"><![CDATA[매경게임진<span class="txt_bar"> · </span><span class="info_time">10:33</span>]]></content>
     </entry>
 </feed>
