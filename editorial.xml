@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-06T22:14:07.179Z</updated>
+    <updated>2023-08-06T23:14:48.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](7일 조간)]]></title>
+        <id>https://v.daum.net/v/20230807080005254</id>
+        <link href="https://v.daum.net/v/20230807080005254"/>
+        <updated>2023-08-06T23:14:26.747Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美 경제 왜 이렇게 강해지나?…결국 ‘사람’이다 [국제경제읽기 한상춘]]]></title>
+        <id>https://v.daum.net/v/20230807073353903</id>
+        <link href="https://v.daum.net/v/20230807073353903"/>
+        <updated>2023-08-06T23:14:26.749Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">07:33</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이것은 분명한 인재다 [기자들의 시선]]]></title>
+        <id>https://v.daum.net/v/20230807071453708</id>
+        <link href="https://v.daum.net/v/20230807071453708"/>
+        <updated>2023-08-06T23:14:26.751Z</updated>
+        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">07:14</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대일논단] 다리를 놓는 사람]]></title>
         <id>https://v.daum.net/v/20230807070519612</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230807053019500"/>
         <updated>2023-08-06T21:12:49.733Z</updated>
         <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[길섶에서] 돌아가는 車 좌석/안미현 수석논설위원]]></title>
-        <id>https://v.daum.net/v/20230807050340251</id>
-        <link href="https://v.daum.net/v/20230807050340251"/>
-        <updated>2023-08-06T20:14:26.361Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[씨줄날줄] 새만금 대외 교류사/서동철 논설위원]]></title>
-        <id>https://v.daum.net/v/20230807050338250</id>
-        <link href="https://v.daum.net/v/20230807050338250"/>
-        <updated>2023-08-06T20:14:26.361Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김균미 칼럼] ‘신림동 사건’이 불러낸 악몽/논설고문]]></title>
-        <id>https://v.daum.net/v/20230807050336249</id>
-        <link href="https://v.daum.net/v/20230807050336249"/>
-        <updated>2023-08-06T20:14:26.361Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
     </entry>
 </feed>
