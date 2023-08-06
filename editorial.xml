@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-06T07:14:02.752Z</updated>
+    <updated>2023-08-06T08:21:35.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[류성의 제약국부론] '기울어진 운동장'과 2백년 제약 서구패권]]></title>
+        <id>https://v.daum.net/v/20230806162036489</id>
+        <link href="https://v.daum.net/v/20230806162036489"/>
+        <updated>2023-08-06T08:21:16.652Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">16:20</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[K콘텐츠, 디지털 한류 첨병]<4회>K콘텐츠의 새로운 글로벌 유통 플랫폼 'CTV']]></title>
+        <id>https://v.daum.net/v/20230806162011482</id>
+        <link href="https://v.daum.net/v/20230806162011482"/>
+        <updated>2023-08-06T08:21:16.654Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">16:20</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[ET시론]UAM, 도시에 지도를 다시 그린다!]]></title>
         <id>https://v.daum.net/v/20230806160212208</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230806130303882"/>
         <updated>2023-08-06T04:19:51.592Z</updated>
         <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">13:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박정호의 미리 가 본 미래]<83>이차전지는 정해진 미래, 가장 유망한 산업 중 하나다]]></title>
-        <id>https://v.daum.net/v/20230806120127187</id>
-        <link href="https://v.daum.net/v/20230806120127187"/>
-        <updated>2023-08-06T03:15:05.163Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">12:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[행복은 존재할까? [기민석의 호크마 샬롬]]]></title>
-        <id>https://v.daum.net/v/20230806120007066</id>
-        <link href="https://v.daum.net/v/20230806120007066"/>
-        <updated>2023-08-06T03:15:05.165Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">12:00</span>]]></content>
     </entry>
 </feed>
