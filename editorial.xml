@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-06T16:19:19.357Z</updated>
+    <updated>2023-08-06T17:12:50.761Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[김남국의 아포리아]위대한 미국 시대의 황혼]]></title>
+        <id>https://v.daum.net/v/20230807020303567</id>
+        <link href="https://v.daum.net/v/20230807020303567"/>
+        <updated>2023-08-06T17:12:30.434Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[청계광장]디지털시대 표현의 자유와 관용]]></title>
+        <id>https://v.daum.net/v/20230807020203565</id>
+        <link href="https://v.daum.net/v/20230807020203565"/>
+        <updated>2023-08-06T17:12:30.436Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[최훈 칼럼] 유리 천장 깨부순 두 여성 …“남은 한계 하늘뿐이길”]]></title>
         <id>https://v.daum.net/v/20230807010020470</id>
@@ -90,24 +104,10 @@
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:38</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[김승중의 아메리카 편지] 모든 길은로마로 통한다]]></title>
+        <title type="html"><![CDATA[[김승중의 아메리카 편지] 모든 길은 로마로 통한다]]></title>
         <id>https://v.daum.net/v/20230807003627394</id>
         <link href="https://v.daum.net/v/20230807003627394"/>
         <updated>2023-08-06T16:19:01.601Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아침의 문장]]></title>
-        <id>https://v.daum.net/v/20230807003428384</id>
-        <link href="https://v.daum.net/v/20230807003428384"/>
-        <updated>2023-08-06T16:19:01.601Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 톡픽(TalkPick)] “화석 연료 연관 기업 후원 행사에 못 가”]]></title>
-        <id>https://v.daum.net/v/20230807003227374</id>
-        <link href="https://v.daum.net/v/20230807003227374"/>
-        <updated>2023-08-06T16:19:01.601Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:32</span>]]></content>
     </entry>
 </feed>
