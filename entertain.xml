@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2023-08-06T17:12:50.764Z</updated>
+    <updated>2023-08-06T18:17:20.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘의 채널A]사린은 자연분만 힘들다는 얘기 듣고…]]></title>
+        <id>https://v.daum.net/v/20230807030213677</id>
+        <link href="https://v.daum.net/v/20230807030213677"/>
+        <updated>2023-08-06T18:16:31.531Z</updated>
+        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">03:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이준호, 임윤아 호텔 면접서 프러포즈 “평생 함께하고 싶어… 나랑 결혼하자”(킹더랜드)]]></title>
         <id>https://v.daum.net/v/20230807011858500</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230807002101345"/>
         <updated>2023-08-06T16:18:34.037Z</updated>
         <content type="html"><![CDATA[마이데일리<span class="txt_bar"> · </span><span class="info_time">00:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준호♥임윤아, 화려한 결혼식…일+사랑 다 잡은 해피엔딩 [킹더랜드](종합)]]></title>
-        <id>https://v.daum.net/v/20230807000852292</id>
-        <link href="https://v.daum.net/v/20230807000852292"/>
-        <updated>2023-08-06T15:14:08.706Z</updated>
-        <content type="html"><![CDATA[마이데일리<span class="txt_bar"> · </span><span class="info_time">00:08</span>]]></content>
     </entry>
 </feed>
