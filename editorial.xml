@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-07T16:19:21.550Z</updated>
+    <updated>2023-08-07T17:14:00.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]역성장 위기, 3대 규제개혁과 외국인재 확보로 풀어가야]]></title>
+        <id>https://v.daum.net/v/20230808020306759</id>
+        <link href="https://v.daum.net/v/20230808020306759"/>
+        <updated>2023-08-07T17:13:40.165Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]농업의 기후 온난화 대응]]></title>
+        <id>https://v.daum.net/v/20230808020301758</id>
+        <link href="https://v.daum.net/v/20230808020301758"/>
+        <updated>2023-08-07T17:13:40.166Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[송호근의 세사필담] 사막에 줄긋기]]></title>
         <id>https://v.daum.net/v/20230808005829584</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230808003416516"/>
         <updated>2023-08-07T16:19:02.447Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 미·중 경쟁보다 더 치열한 반도체 동맹국 간 인력 전쟁]]></title>
-        <id>https://v.daum.net/v/20230808003407514</id>
-        <link href="https://v.daum.net/v/20230808003407514"/>
-        <updated>2023-08-07T16:19:02.449Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 7월 미수거래 역대 최대…또다시 '폭탄 돌리기'로 가는 건가]]></title>
-        <id>https://v.daum.net/v/20230808003406513</id>
-        <link href="https://v.daum.net/v/20230808003406513"/>
-        <updated>2023-08-07T16:19:02.451Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:34</span>]]></content>
     </entry>
 </feed>
