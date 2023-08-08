@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-08-08T11:15:39.602Z</updated>
+    <updated>2023-08-08T12:30:24.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가상화폐 비트코인(+0.94%), 알고랜드(+6.04%)]]></title>
+        <id>https://v.daum.net/v/20230808203116584</id>
+        <link href="https://v.daum.net/v/20230808203116584"/>
+        <updated>2023-08-08T12:30:23.750Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">20:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인천 구월동 구월롯데캐슬골드아파트 83㎡ 4억4200만원에 거래]]></title>
         <id>https://v.daum.net/v/20230808183641060</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230808173321212"/>
         <updated>2023-08-08T09:15:27.205Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:33</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 하동 광교마을40단지 101㎡ 7억8500만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230808173114139</id>
-        <link href="https://v.daum.net/v/20230808173114139"/>
-        <updated>2023-08-08T09:15:27.206Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:31</span>]]></content>
     </entry>
 </feed>

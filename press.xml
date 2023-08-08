@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-08-08T11:15:39.631Z</updated>
+    <updated>2023-08-08T12:30:24.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] AUSTIN BUTLER, YSL BEAUTY의 새로운 글로벌 브랜드 대사로 임명]]></title>
+        <id>https://v.daum.net/v/20230808211254404</id>
+        <link href="https://v.daum.net/v/20230808211254404"/>
+        <updated>2023-08-08T12:30:14.692Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">21:12</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Automation®, Gartner 자동화 부문 선정]]></title>
+        <id>https://v.daum.net/v/20230808202412463</id>
+        <link href="https://v.daum.net/v/20230808202412463"/>
+        <updated>2023-08-08T12:30:14.694Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:24</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인천 중구, 인천 개항장 ‘촉각 모형’ 설치]]></title>
         <id>https://v.daum.net/v/20230808181842605</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230808172703969"/>
         <updated>2023-08-08T09:15:17.178Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스포츠윤리센터, 체육계 비리·학폭 관리 징계정보시스템 시범운영]]></title>
-        <id>https://v.daum.net/v/20230808172408883</id>
-        <link href="https://v.daum.net/v/20230808172408883"/>
-        <updated>2023-08-08T09:15:17.180Z</updated>
-        <content type="html"><![CDATA[쿠키뉴스<span class="txt_bar"> · </span><span class="info_time">17:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김해문화의전당 아람배움터 문화예술아카데미 2023년 가을학기 수강생 모집]]></title>
-        <id>https://v.daum.net/v/20230808171318556</id>
-        <link href="https://v.daum.net/v/20230808171318556"/>
-        <updated>2023-08-08T08:19:26.617Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:13</span>]]></content>
     </entry>
 </feed>
