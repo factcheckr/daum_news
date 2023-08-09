@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-08-09T09:17:41.808Z</updated>
+    <updated>2023-08-09T10:17:44.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수원 영통동 영통황골주공1차 49㎡ 3억1000만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230809183629418</id>
+        <link href="https://v.daum.net/v/20230809183629418"/>
+        <updated>2023-08-09T10:17:43.225Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:36</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수원 영통동 영통황골주공1차 59㎡ 3억7000만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230809183058303</id>
+        <link href="https://v.daum.net/v/20230809183058303"/>
+        <updated>2023-08-09T10:17:43.227Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[용인 동천동 동천디이스트 84㎡ 7억9000만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230809182614206</id>
+        <link href="https://v.daum.net/v/20230809182614206"/>
+        <updated>2023-08-09T10:17:43.229Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:26</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수원 영통동 영통황골주공1차 59㎡ 3억6700만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230809182152105</id>
+        <link href="https://v.daum.net/v/20230809182152105"/>
+        <updated>2023-08-09T10:17:43.241Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:21</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고양 식사동 위시티블루밍3단지 122㎡ 6억3000만원에 거래]]></title>
         <id>https://v.daum.net/v/20230809181557951</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230809173129435"/>
         <updated>2023-08-09T09:17:40.772Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용인 풍덕천동 현대성우 59㎡ 6억4000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230809172530193</id>
-        <link href="https://v.daum.net/v/20230809172530193"/>
-        <updated>2023-08-09T09:17:40.772Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용인 풍덕천동 현대성우 59㎡ 6억4800만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230809172053982</id>
-        <link href="https://v.daum.net/v/20230809172053982"/>
-        <updated>2023-08-09T08:22:11.382Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용인 성복동 수지LG빌리지1차 219㎡ 7억4000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230809171608806</id>
-        <link href="https://v.daum.net/v/20230809171608806"/>
-        <updated>2023-08-09T08:22:11.382Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 영통동 영통신나무실신성신안쌍용진흥 59㎡ 4억4200만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230809171033568</id>
-        <link href="https://v.daum.net/v/20230809171033568"/>
-        <updated>2023-08-09T08:22:11.382Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:10</span>]]></content>
     </entry>
 </feed>
