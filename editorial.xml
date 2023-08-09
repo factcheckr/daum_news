@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-09T16:22:22.142Z</updated>
+    <updated>2023-08-09T17:14:57.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[청계광장]대한민국, 여행으로 꽤나 괜찮은 나라]]></title>
+        <id>https://v.daum.net/v/20230810020502606</id>
+        <link href="https://v.daum.net/v/20230810020502606"/>
+        <updated>2023-08-09T17:14:40.296Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]아마존고의 최후에서 보는 인공지능의 미래]]></title>
+        <id>https://v.daum.net/v/20230810020309605</id>
+        <link href="https://v.daum.net/v/20230810020309605"/>
+        <updated>2023-08-09T17:14:40.301Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]긴축 종료 이후의 통화정책]]></title>
+        <id>https://v.daum.net/v/20230810020304603</id>
+        <link href="https://v.daum.net/v/20230810020304603"/>
+        <updated>2023-08-09T17:14:40.304Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[진중권 칼럼] 모든 책임은 여기에서 멈춘다]]></title>
         <id>https://v.daum.net/v/20230810010237451</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230810004035370"/>
         <updated>2023-08-09T16:22:05.444Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[황원묵의 과학 산책] 쇠옥성]]></title>
-        <id>https://v.daum.net/v/20230810003824364</id>
-        <link href="https://v.daum.net/v/20230810003824364"/>
-        <updated>2023-08-09T16:22:05.446Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:38</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[분수대] 다크 브랜든]]></title>
-        <id>https://v.daum.net/v/20230810003624358</id>
-        <link href="https://v.daum.net/v/20230810003624358"/>
-        <updated>2023-08-09T16:22:05.447Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[신복룡의 신 영웅전] 김옥균의 야망과 좌절]]></title>
-        <id>https://v.daum.net/v/20230810003424351</id>
-        <link href="https://v.daum.net/v/20230810003424351"/>
-        <updated>2023-08-09T16:22:05.450Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:34</span>]]></content>
     </entry>
 </feed>
