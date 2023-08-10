@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-10T03:16:21.309Z</updated>
+    <updated>2023-08-10T04:20:03.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[아시아 르포]싱가포르 새 시대 정치 실험‥인도계 대통령 뽑을까]]></title>
+        <id>https://v.daum.net/v/20230810123455459</id>
+        <link href="https://v.daum.net/v/20230810123455459"/>
+        <updated>2023-08-10T04:19:44.330Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">12:34</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[논단]양평고속도로 논란부른 건 결국 관행]]></title>
+        <id>https://v.daum.net/v/20230810122235252</id>
+        <link href="https://v.daum.net/v/20230810122235252"/>
+        <updated>2023-08-10T04:19:44.333Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">12:22</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[잼버리 미끼로 천문학적 예산 뜯어낸 ‘전북道 사기극’[사설]]]></title>
         <id>https://v.daum.net/v/20230810114558163</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230810110603171"/>
         <updated>2023-08-10T02:35:51.524Z</updated>
         <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">11:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기후변화 자연재난에 문화유산 지킬 중장기 보호대책 마련 필요]]></title>
-        <id>https://v.daum.net/v/20230810110024738</id>
-        <link href="https://v.daum.net/v/20230810110024738"/>
-        <updated>2023-08-10T02:35:51.526Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">11:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사사건건]무심코 누르면 끝나는 스미싱…지인 문자도 일단 의심해야]]></title>
-        <id>https://v.daum.net/v/20230810102129055</id>
-        <link href="https://v.daum.net/v/20230810102129055"/>
-        <updated>2023-08-10T02:35:51.528Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">10:21</span>]]></content>
     </entry>
 </feed>
