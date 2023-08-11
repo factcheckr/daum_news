@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-08-11T13:17:37.515Z</updated>
+    <updated>2023-08-11T14:14:01.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[알지티, 서빙로봇 층간 이동 서비스 선봬]]></title>
+        <id>https://v.daum.net/v/20230811224852547</id>
+        <link href="https://v.daum.net/v/20230811224852547"/>
+        <updated>2023-08-11T14:13:32.512Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">22:48</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["소음 줄이고 밥맛 높여"…쿠쿠전자, IH압력밥솥 신제품 출시]]></title>
+        <id>https://v.daum.net/v/20230811223411353</id>
+        <link href="https://v.daum.net/v/20230811223411353"/>
+        <updated>2023-08-11T14:13:32.515Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">22:34</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전자랜드, 에어컨 청소 서비스 판매 전년比 96%↑]]></title>
         <id>https://v.daum.net/v/20230811221457146</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230811195810634"/>
         <updated>2023-08-11T11:12:37.370Z</updated>
         <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">19:58</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“이러면 다들 아이폰 산다?” 이어폰까지 끼워넣는 신기한 아이폰 사진 등장]]></title>
-        <id>https://v.daum.net/v/20230811195028483</id>
-        <link href="https://v.daum.net/v/20230811195028483"/>
-        <updated>2023-08-11T11:12:37.370Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">19:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쿠쿠전자, 미생물 음식물처리기 판매량 전월比 65%↑]]></title>
-        <id>https://v.daum.net/v/20230811194509391</id>
-        <link href="https://v.daum.net/v/20230811194509391"/>
-        <updated>2023-08-11T11:12:37.370Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">19:45</span>]]></content>
     </entry>
 </feed>
