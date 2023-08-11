@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-11T06:19:11.376Z</updated>
+    <updated>2023-08-11T07:14:46.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[부고] 최진영(NH투자증권 천안아산WM센터장)씨 모친상]]></title>
+        <id>https://v.daum.net/v/20230811160750122</id>
+        <link href="https://v.daum.net/v/20230811160750122"/>
+        <updated>2023-08-11T07:14:25.961Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">16:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[헤럴드포럼] 문해력과 어휘력 신장의 비법]]></title>
+        <id>https://v.daum.net/v/20230811155031547</id>
+        <link href="https://v.daum.net/v/20230811155031547"/>
+        <updated>2023-08-11T07:14:25.962Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">15:50</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[양경미의 영화로 보는 세상] 순수하고 풋풋한 중년 로맨스]]></title>
         <id>https://v.daum.net/v/20230811150134975</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230811115408630"/>
         <updated>2023-08-11T03:15:22.066Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:54</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中 디플레 우려와 글로벌 脫중국 러시[포럼]]]></title>
-        <id>https://v.daum.net/v/20230811115200589</id>
-        <link href="https://v.daum.net/v/20230811115200589"/>
-        <updated>2023-08-11T03:15:22.068Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재정 파탄 낸 야당의 ‘적반하장 추경’[포럼]]]></title>
-        <id>https://v.daum.net/v/20230811115157587</id>
-        <link href="https://v.daum.net/v/20230811115157587"/>
-        <updated>2023-08-11T03:15:22.070Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:51</span>]]></content>
     </entry>
 </feed>
