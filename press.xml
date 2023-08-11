@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-08-11T09:14:46.284Z</updated>
+    <updated>2023-08-11T10:18:15.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대만 잼버리 대원들, ‘빛의 시어터’ 찾아 몰입형 예술 전시 관람]]></title>
+        <id>https://v.daum.net/v/20230811184703345</id>
+        <link href="https://v.daum.net/v/20230811184703345"/>
+        <updated>2023-08-11T10:18:05.496Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">18:47</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[줄기세포화장품 브랜드 셀티아라, 공식 홈페이지 리뉴얼]]></title>
+        <id>https://v.daum.net/v/20230811183704165</id>
+        <link href="https://v.daum.net/v/20230811183704165"/>
+        <updated>2023-08-11T10:18:05.497Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">18:37</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삼육대, 16개국 대학과 ‘MOOC 기반 공유대학’ 설립 추진]]></title>
         <id>https://v.daum.net/v/20230811181107693</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230811172702504"/>
         <updated>2023-08-11T09:14:34.941Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] Xinhua Silk Road: RV production maintains momentum in Rongcheng]]></title>
-        <id>https://v.daum.net/v/20230811171642221</id>
-        <link href="https://v.daum.net/v/20230811171642221"/>
-        <updated>2023-08-11T08:21:43.570Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] Xinhua Silk Road: RV 산업 급성장 중인 중국 룽청]]></title>
-        <id>https://v.daum.net/v/20230811171118051</id>
-        <link href="https://v.daum.net/v/20230811171118051"/>
-        <updated>2023-08-11T08:21:43.573Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:11</span>]]></content>
     </entry>
 </feed>
