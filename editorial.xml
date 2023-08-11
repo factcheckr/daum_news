@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-11T22:14:53.604Z</updated>
+    <updated>2023-08-11T23:16:24.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[김회룡의 시사 TOON]]]></title>
+        <id>https://v.daum.net/v/20230812080802745</id>
+        <link href="https://v.daum.net/v/20230812080802745"/>
+        <updated>2023-08-11T23:15:57.488Z</updated>
+        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">08:08</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[박진영의 사회심리학] 금연·다이어트, 의지력만으로 안되는 이유]]></title>
+        <id>https://v.daum.net/v/20230812080101662</id>
+        <link href="https://v.daum.net/v/20230812080101662"/>
+        <updated>2023-08-11T23:15:57.494Z</updated>
+        <content type="html"><![CDATA[동아사이언스<span class="txt_bar"> · </span><span class="info_time">08:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[촉목상심의 시대 [ESC]]]></title>
         <id>https://v.daum.net/v/20230812070501233</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230812040217874"/>
         <updated>2023-08-11T19:12:57.103Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">04:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 축소·외압 의혹 불거진 채수근 상병 사건]]></title>
-        <id>https://v.daum.net/v/20230812040217873</id>
-        <link href="https://v.daum.net/v/20230812040217873"/>
-        <updated>2023-08-11T19:12:57.105Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 위선 내로남불 놔둔 채 ‘이재명 민주당’ 강화하고 끝난 혁신위]]></title>
-        <id>https://v.daum.net/v/20230812032735836</id>
-        <link href="https://v.daum.net/v/20230812032735836"/>
-        <updated>2023-08-11T19:12:57.106Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:27</span>]]></content>
     </entry>
 </feed>
