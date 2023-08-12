@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-08-12T07:13:57.864Z</updated>
+    <updated>2023-08-12T08:17:42.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[AI가 되살린 샌프란시스코] "AI 인재는 연봉 두 배..." 삼고초려 하는 국내 기업들]]></title>
+        <id>https://v.daum.net/v/20230812170004150</id>
+        <link href="https://v.daum.net/v/20230812170004150"/>
+        <updated>2023-08-12T08:17:13.101Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">17:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["트림·방귀 줄일께요"…`착한 송아지` 내년봄 태어난다]]></title>
+        <id>https://v.daum.net/v/20230812163110878</id>
+        <link href="https://v.daum.net/v/20230812163110878"/>
+        <updated>2023-08-12T08:17:13.102Z</updated>
+        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">16:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[머스크가 "훌륭하다" 칭찬한 이 게임…이용자 반응은]]></title>
         <id>https://v.daum.net/v/20230812160016544</id>
@@ -20,7 +34,7 @@
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">15:50</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['개발자들의 꿈의 직장' 하이퍼케넥트, 인공지능-머신러닝 직군 집중 채용 [Oh!쎈 초점]]]></title>
+        <title type="html"><![CDATA['개발자들의 꿈의 직장' 하이퍼커넥트, 인공지능-머신러닝 직군 집중 채용 [Oh!쎈 초점]]]></title>
         <id>https://v.daum.net/v/20230812153329229</id>
         <link href="https://v.daum.net/v/20230812153329229"/>
         <updated>2023-08-12T07:13:23.109Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230812123541437"/>
         <updated>2023-08-12T04:18:38.086Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">12:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["잠깐 외출할 땐 끄지 마세요" 삼성 개발자가 알려주는 에어컨 사용 꿀팁]]></title>
-        <id>https://v.daum.net/v/20230812121002252</id>
-        <link href="https://v.daum.net/v/20230812121002252"/>
-        <updated>2023-08-12T03:14:45.034Z</updated>
-        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">12:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['선택과 집중' 택한 카페24…수익성 개선]]></title>
-        <id>https://v.daum.net/v/20230812120004152</id>
-        <link href="https://v.daum.net/v/20230812120004152"/>
-        <updated>2023-08-12T03:14:45.036Z</updated>
-        <content type="html"><![CDATA[비즈워치<span class="txt_bar"> · </span><span class="info_time">12:00</span>]]></content>
     </entry>
 </feed>
