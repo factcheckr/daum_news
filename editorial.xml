@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-13T12:24:26.867Z</updated>
+    <updated>2023-08-13T13:18:13.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 8월 14일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20230813220255461</id>
+        <link href="https://v.daum.net/v/20230813220255461"/>
+        <updated>2023-08-13T13:17:53.263Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[통영에서 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20230813220003408</id>
+        <link href="https://v.daum.net/v/20230813220003408"/>
+        <updated>2023-08-13T13:17:53.264Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[만물상] ‘태평양 지상 낙원’의 재난]]></title>
         <id>https://v.daum.net/v/20230813205841874</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230813200942417"/>
         <updated>2023-08-13T11:13:55.562Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노래와 세상] 쿨]]></title>
-        <id>https://v.daum.net/v/20230813200906413</id>
-        <link href="https://v.daum.net/v/20230813200906413"/>
-        <updated>2023-08-13T11:13:55.569Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[우리말 산책] 야채·감사는 일본말 찌꺼기가 아니다]]></title>
-        <id>https://v.daum.net/v/20230813200856408</id>
-        <link href="https://v.daum.net/v/20230813200856408"/>
-        <updated>2023-08-13T11:13:55.571Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:08</span>]]></content>
     </entry>
 </feed>
