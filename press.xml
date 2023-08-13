@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-08-13T06:20:30.776Z</updated>
+    <updated>2023-08-13T07:14:30.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2025년 개교 100돌 앞두고 화천 사내초 교가 되찾기 프로젝트]]></title>
+        <id>https://v.daum.net/v/20230813161035755</id>
+        <link href="https://v.daum.net/v/20230813161035755"/>
+        <updated>2023-08-13T07:14:19.508Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">16:10</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기아 ‘스포티지’, 독일 유력 자동차 전문지 준중형 SUV 비교평가에서 경쟁 모델 압도]]></title>
         <id>https://v.daum.net/v/20230813141704905</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230813102136647"/>
         <updated>2023-08-13T01:55:29.618Z</updated>
         <content type="html"><![CDATA[투어코리아<span class="txt_bar"> · </span><span class="info_time">10:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엑셀드라이어, 모든 핸드 드라이어 모델에 업그레이드된 정전식 HEPA 필터 장착해 업계 선도]]></title>
-        <id>https://v.daum.net/v/20230813095705204</id>
-        <link href="https://v.daum.net/v/20230813095705204"/>
-        <updated>2023-08-13T01:02:14.932Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">09:57</span>]]></content>
     </entry>
 </feed>
