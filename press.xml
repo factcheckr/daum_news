@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-08-13T05:14:19.135Z</updated>
+    <updated>2023-08-13T06:20:30.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기아 ‘스포티지’, 독일 유력 자동차 전문지 준중형 SUV 비교평가에서 경쟁 모델 압도]]></title>
+        <id>https://v.daum.net/v/20230813141704905</id>
+        <link href="https://v.daum.net/v/20230813141704905"/>
+        <updated>2023-08-13T06:20:16.741Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">14:17</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SK텔레콤, 미국 앤트로픽에 1억달러 투자]]></title>
         <id>https://v.daum.net/v/20230813140701749</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">14:07</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[농경지·굴다리·전통시장 침수 피해 동해시 피해 복구 총력]]></title>
+        <title type="html"><![CDATA[동해시 농경지·굴다리·전통시장 침수 피해 복구 총력]]></title>
         <id>https://v.daum.net/v/20230813140657746</id>
         <link href="https://v.daum.net/v/20230813140657746"/>
         <updated>2023-08-13T05:14:08.835Z</updated>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230813095705204</id>
         <link href="https://v.daum.net/v/20230813095705204"/>
         <updated>2023-08-13T01:02:14.932Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">09:57</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Excel Dryer Leads the Charge With Upgraded Electrostatic HEPA Filtration in All Hand Dryer Models]]></title>
-        <id>https://v.daum.net/v/20230813095703203</id>
-        <link href="https://v.daum.net/v/20230813095703203"/>
-        <updated>2023-08-13T01:02:14.938Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">09:57</span>]]></content>
     </entry>
 </feed>
