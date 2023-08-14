@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-14T12:27:59.739Z</updated>
+    <updated>2023-08-14T13:18:30.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 8월 15일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20230814220139564</id>
+        <link href="https://v.daum.net/v/20230814220139564"/>
+        <updated>2023-08-14T13:18:08.851Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공룡조직 노인회를 향한 불편한 시선 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20230814220057550</id>
+        <link href="https://v.daum.net/v/20230814220057550"/>
+        <updated>2023-08-14T13:18:08.860Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[세상읽기] 당신들의 연금개혁, 당신들의 연금정치]]></title>
         <id>https://v.daum.net/v/20230814203229670</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230814201104446"/>
         <updated>2023-08-14T11:13:22.475Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seven keys to upgrading trilateral relations]]></title>
-        <id>https://v.daum.net/v/20230814200834414</id>
-        <link href="https://v.daum.net/v/20230814200834414"/>
-        <updated>2023-08-14T11:13:22.479Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It's your fault]]></title>
-        <id>https://v.daum.net/v/20230814200613386</id>
-        <link href="https://v.daum.net/v/20230814200613386"/>
-        <updated>2023-08-14T11:13:22.511Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:06</span>]]></content>
     </entry>
 </feed>
