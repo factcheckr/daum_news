@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-15T01:00:22.768Z</updated>
+    <updated>2023-08-15T01:51:21.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[시선집중] "비리 경제인 줄사면과 전경련 부활.. 尹정부의 권력주도형 新정경유착"]]></title>
+        <id>https://v.daum.net/v/20230815095239815</id>
+        <link href="https://v.daum.net/v/20230815095239815"/>
+        <updated>2023-08-15T01:51:01.450Z</updated>
+        <content type="html"><![CDATA[MBC<span class="txt_bar"> · </span><span class="info_time">09:52</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[기자수첩] K팝 위상 떨어뜨리는 음반 끼워팔기]]></title>
         <id>https://v.daum.net/v/20230815093314584</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230815050330261</id>
         <link href="https://v.daum.net/v/20230815050330261"/>
         <updated>2023-08-14T20:15:53.426Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[길섶에서] 습관/이순녀 논설위원]]></title>
-        <id>https://v.daum.net/v/20230815050330260</id>
-        <link href="https://v.daum.net/v/20230815050330260"/>
-        <updated>2023-08-14T20:15:53.427Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
     </entry>
 </feed>
