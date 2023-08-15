@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-08-15T20:16:18.387Z</updated>
+    <updated>2023-08-15T21:14:21.684Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스프링샤인, 세계한민족여성재단과 발달장애인 예술가 후원 협약 체결]]></title>
+        <id>https://v.daum.net/v/20230816060703455</id>
+        <link href="https://v.daum.net/v/20230816060703455"/>
+        <updated>2023-08-15T21:14:10.952Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">06:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강릉시 광복절 경축식, 유공자 후손에 표창]]></title>
         <id>https://v.daum.net/v/20230816000526595</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230816000337553</id>
         <link href="https://v.daum.net/v/20230816000337553"/>
         <updated>2023-08-15T15:15:27.092Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[라이프 트렌드&] 손상된 피부에 필수 아미노산·비타민 공급, 모닝·나이트 세럼으로 보습·항산화 효과까지]]></title>
-        <id>https://v.daum.net/v/20230816000335552</id>
-        <link href="https://v.daum.net/v/20230816000335552"/>
-        <updated>2023-08-15T15:15:27.095Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
     </entry>
 </feed>
