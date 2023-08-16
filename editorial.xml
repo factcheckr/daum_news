@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-16T16:18:51.113Z</updated>
+    <updated>2023-08-16T17:14:13.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[청계광장]꿈속의 꿈]]></title>
+        <id>https://v.daum.net/v/20230817020305423</id>
+        <link href="https://v.daum.net/v/20230817020305423"/>
+        <updated>2023-08-16T17:13:56.645Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]블렌딩(blending)한 쌀 브랜드(brand)의 놀라운 도약]]></title>
+        <id>https://v.daum.net/v/20230817020301422</id>
+        <link href="https://v.daum.net/v/20230817020301422"/>
+        <updated>2023-08-16T17:13:56.648Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중앙시평] 각목·노끈·헝겊]]></title>
         <id>https://v.daum.net/v/20230817010026293</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230817003902232"/>
         <updated>2023-08-16T16:18:32.742Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노트북을 열며] 여권의 헛된 ‘이재명 믿음’]]></title>
-        <id>https://v.daum.net/v/20230817003825231</id>
-        <link href="https://v.daum.net/v/20230817003825231"/>
-        <updated>2023-08-16T16:18:32.744Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:38</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데스크 칼럼] '부의 대물림'이라는 낙인]]></title>
-        <id>https://v.daum.net/v/20230817003802229</id>
-        <link href="https://v.daum.net/v/20230817003802229"/>
-        <updated>2023-08-16T16:18:32.746Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:38</span>]]></content>
     </entry>
 </feed>
