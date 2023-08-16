@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-16T03:16:59.799Z</updated>
+    <updated>2023-08-16T04:19:27.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[이덕환의 과학세상] '카르텔' 지적에 눈감고 입닫은 과학계]]></title>
+        <id>https://v.daum.net/v/20230816121805352</id>
+        <link href="https://v.daum.net/v/20230816121805352"/>
+        <updated>2023-08-16T04:18:58.311Z</updated>
+        <content type="html"><![CDATA[동아사이언스<span class="txt_bar"> · </span><span class="info_time">12:18</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[과거사 언급 않은 尹 광복절 경축사와 新한일관계 과제[사설]]]></title>
         <id>https://v.daum.net/v/20230816114213937</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230816105728655"/>
         <updated>2023-08-16T02:19:24.940Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">10:57</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시시비비]국민 신뢰 잃은 LH, 존재 이유 있나]]></title>
-        <id>https://v.daum.net/v/20230816104158956</id>
-        <link href="https://v.daum.net/v/20230816104158956"/>
-        <updated>2023-08-16T01:52:40.564Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">10:41</span>]]></content>
     </entry>
 </feed>
