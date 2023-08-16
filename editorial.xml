@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-16T13:18:55.253Z</updated>
+    <updated>2023-08-16T14:17:29.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[국민만평-서민호 화백] 2023년 8월 17일]]></title>
+        <id>https://v.daum.net/v/20230816222412263</id>
+        <link href="https://v.daum.net/v/20230816222412263"/>
+        <updated>2023-08-16T14:17:01.342Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">22:24</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[두번째 이름, 삶에 비타민 되다 [삶과 문화]]]></title>
         <id>https://v.daum.net/v/20230816220008933</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230816202210366"/>
         <updated>2023-08-16T12:28:09.096Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">20:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[백승찬의 우회도로] ‘콘크리트 유토피아’와 악의 스펙트럼]]></title>
-        <id>https://v.daum.net/v/20230816202048343</id>
-        <link href="https://v.daum.net/v/20230816202048343"/>
-        <updated>2023-08-16T12:28:09.098Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:20</span>]]></content>
     </entry>
 </feed>
