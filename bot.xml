@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-08-17T12:27:23.303Z</updated>
+    <updated>2023-08-17T13:18:10.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가상화폐 비트코인(-0.73%), 그로스톨코인(+17.31%)]]></title>
+        <id>https://v.daum.net/v/20230817213119954</id>
+        <link href="https://v.daum.net/v/20230817213119954"/>
+        <updated>2023-08-17T13:18:09.271Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">21:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인천 구월동 구월롯데캐슬골드아파트 83㎡ 4억5000만원에 거래]]></title>
         <id>https://v.daum.net/v/20230817183552588</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230817173311737"/>
         <updated>2023-08-17T09:17:55.581Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:33</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용인 성복동 성복역 롯데캐슬 골드타운 85㎡ 12억6000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230817173057662</id>
-        <link href="https://v.daum.net/v/20230817173057662"/>
-        <updated>2023-08-17T09:17:55.582Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
     </entry>
 </feed>
