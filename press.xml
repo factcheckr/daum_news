@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-08-17T10:16:28.472Z</updated>
+    <updated>2023-08-17T11:13:37.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 게토레이, 토트넘 훗스퍼 주장 손흥민 브랜드 앰배서더로 임명]]></title>
+        <id>https://v.daum.net/v/20230817195726366</id>
+        <link href="https://v.daum.net/v/20230817195726366"/>
+        <updated>2023-08-17T11:13:23.252Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">19:57</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안성시, ‘안성맞춤 배’ 미국 기업과 수출 MOU]]></title>
         <id>https://v.daum.net/v/20230817190713253</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230817165303461"/>
         <updated>2023-08-17T08:19:19.739Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:53</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무안군, 2023년 전남 서부권 일자리 박람회 참여기업 모집]]></title>
-        <id>https://v.daum.net/v/20230817164909345</id>
-        <link href="https://v.daum.net/v/20230817164909345"/>
-        <updated>2023-08-17T08:19:19.741Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:49</span>]]></content>
     </entry>
 </feed>
