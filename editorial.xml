@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-17T13:18:10.384Z</updated>
+    <updated>2023-08-17T14:14:48.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[세컷칼럼]원희룡 장관의 불편한 처신]]></title>
+        <id>https://v.daum.net/v/20230817230024031</id>
+        <link href="https://v.daum.net/v/20230817230024031"/>
+        <updated>2023-08-17T14:14:22.957Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오펜하이머, 다시 원자폭탄을 이야기하다[박영서의 글로벌 아이]]]></title>
+        <id>https://v.daum.net/v/20230817230020029</id>
+        <link href="https://v.daum.net/v/20230817230020029"/>
+        <updated>2023-08-17T14:14:22.961Z</updated>
+        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중국 없이도 오르는 유가…골디락스, 포기해야 하나 [임상균 칼럼]]]></title>
         <id>https://v.daum.net/v/20230817220312430</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230817201303708"/>
         <updated>2023-08-17T12:26:56.317Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[녹색세상] 쉽게 사고 버리는 세상, 수리하죠]]></title>
-        <id>https://v.daum.net/v/20230817201257705</id>
-        <link href="https://v.daum.net/v/20230817201257705"/>
-        <updated>2023-08-17T11:13:09.917Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don't worry!]]></title>
-        <id>https://v.daum.net/v/20230817201104677</id>
-        <link href="https://v.daum.net/v/20230817201104677"/>
-        <updated>2023-08-17T11:13:09.917Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:11</span>]]></content>
     </entry>
 </feed>
