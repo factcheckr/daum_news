@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-18T21:13:03.599Z</updated>
+    <updated>2023-08-18T22:13:59.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[피프티 피프티가 살아날 길은 [하재근의 이슈분석]]]></title>
+        <id>https://v.daum.net/v/20230819070708491</id>
+        <link href="https://v.daum.net/v/20230819070708491"/>
+        <updated>2023-08-18T22:13:42.293Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[평화를 위한 기원 [ESC]]]></title>
         <id>https://v.daum.net/v/20230819060502022</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230819050550511"/>
         <updated>2023-08-18T20:15:27.717Z</updated>
         <content type="html"><![CDATA[중앙SUNDAY<span class="txt_bar"> · </span><span class="info_time">05:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국의 대북 군사전략-유엔 헌장 짓밟는 한반도 집단학살 계획]]></title>
-        <id>https://v.daum.net/v/20230819050504499</id>
-        <link href="https://v.daum.net/v/20230819050504499"/>
-        <updated>2023-08-18T20:15:27.722Z</updated>
-        <content type="html"><![CDATA[미디어오늘<span class="txt_bar"> · </span><span class="info_time">05:05</span>]]></content>
     </entry>
 </feed>
