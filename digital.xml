@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-08-19T12:24:24.763Z</updated>
+    <updated>2023-08-19T13:17:37.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“유명 연예인 아이폰 타령, 설마했는데” 불안한 삼성 ‘충격’ 사태 결국 터진다?]]></title>
+        <id>https://v.daum.net/v/20230819215210587</id>
+        <link href="https://v.daum.net/v/20230819215210587"/>
+        <updated>2023-08-19T13:17:11.363Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">21:52</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[T1 "다시 만난 젠지, 이번엔 자기객관화 끝냈다"]]></title>
         <id>https://v.daum.net/v/20230819211227263</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230819180003679"/>
         <updated>2023-08-19T09:13:18.138Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">18:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“하루 아침에 329억원 날아갈 판” 20년된 ‘이 회사’ 무슨 일?]]></title>
-        <id>https://v.daum.net/v/20230819175103607</id>
-        <link href="https://v.daum.net/v/20230819175103607"/>
-        <updated>2023-08-19T09:13:18.140Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">17:51</span>]]></content>
     </entry>
 </feed>
