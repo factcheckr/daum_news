@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-08-20T02:19:22.914Z</updated>
+    <updated>2023-08-20T03:17:27.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“손흥민, 차 9800대 수출해 2700억원 번 효과 가져와”…현대경제硏 분석]]></title>
+        <id>https://v.daum.net/v/20230820112615308</id>
+        <link href="https://v.daum.net/v/20230820112615308"/>
+        <updated>2023-08-20T03:17:16.736Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">11:26</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SKT AI가 우리 강아지 숨은 질환까지 잡아낸다]]></title>
         <id>https://v.daum.net/v/20230820104703668</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230820093702698"/>
         <updated>2023-08-20T01:01:52.954Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">09:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용산구, 2023 지방재정 공시... 살림규모 1조 677억원]]></title>
-        <id>https://v.daum.net/v/20230820092113509</id>
-        <link href="https://v.daum.net/v/20230820092113509"/>
-        <updated>2023-08-20T01:01:52.955Z</updated>
-        <content type="html"><![CDATA[투어코리아<span class="txt_bar"> · </span><span class="info_time">09:21</span>]]></content>
     </entry>
 </feed>
