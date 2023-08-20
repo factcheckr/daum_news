@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-20T12:24:51.211Z</updated>
+    <updated>2023-08-20T13:16:48.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 8월 21일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20230820220213700</id>
+        <link href="https://v.daum.net/v/20230820220213700"/>
+        <updated>2023-08-20T13:16:25.601Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아름다운 세상을 위하여 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20230820220003680</id>
+        <link href="https://v.daum.net/v/20230820220003680"/>
+        <updated>2023-08-20T13:16:25.601Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[미디어세상] 이동관 방통위원장 후보 지명 철회가 답이다]]></title>
         <id>https://v.daum.net/v/20230820205414008</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230820203724745"/>
         <updated>2023-08-20T12:24:34.103Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">20:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 국민 동의 없이 ‘대중 봉쇄’ 최일선에 선 윤 정부의 위험한 외교]]></title>
-        <id>https://v.daum.net/v/20230820202908567</id>
-        <link href="https://v.daum.net/v/20230820202908567"/>
-        <updated>2023-08-20T12:24:34.106Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:29</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설]이번엔 ‘너클’ 동원한 대낮 강간살인, 안전 무너진 한국 사회]]></title>
-        <id>https://v.daum.net/v/20230820201938479</id>
-        <link href="https://v.daum.net/v/20230820201938479"/>
-        <updated>2023-08-20T12:24:34.110Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:19</span>]]></content>
     </entry>
 </feed>
