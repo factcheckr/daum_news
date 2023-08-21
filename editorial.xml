@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-21T13:18:41.726Z</updated>
+    <updated>2023-08-21T14:17:11.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[국민만평-서민호 화백] 2023년 8월 22일]]></title>
+        <id>https://v.daum.net/v/20230821224606556</id>
+        <link href="https://v.daum.net/v/20230821224606556"/>
+        <updated>2023-08-21T14:16:50.372Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">22:46</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023년 8월 22일[김용민의 그림마당]]]></title>
         <id>https://v.daum.net/v/20230821220109205</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230821201457079"/>
         <updated>2023-08-21T12:27:55.317Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A reconstruction of the restroom fiasco]]></title>
-        <id>https://v.daum.net/v/20230821201348071</id>
-        <link href="https://v.daum.net/v/20230821201348071"/>
-        <updated>2023-08-21T12:27:55.320Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:13</span>]]></content>
     </entry>
 </feed>
