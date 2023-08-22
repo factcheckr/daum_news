@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-08-22T11:13:39.017Z</updated>
+    <updated>2023-08-22T12:27:45.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[건강TALK] 소득 대비 과도한 의료비 ‘본인부담상한제’ 통해 환급]]></title>
+        <id>https://v.daum.net/v/20230822204655035</id>
+        <link href="https://v.daum.net/v/20230822204655035"/>
+        <updated>2023-08-22T12:27:33.932Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:46</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 새로운 연구 결과, 데이터 관리가 AI 혁명의 최고 과제임을 밝히다]]></title>
+        <id>https://v.daum.net/v/20230822202308699</id>
+        <link href="https://v.daum.net/v/20230822202308699"/>
+        <updated>2023-08-22T12:27:33.936Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:23</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] Digital Realty, 녹색 혁신으로 제24회 싱가포르 환경 공로상 수상]]></title>
         <id>https://v.daum.net/v/20230822200708404</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230822175105430"/>
         <updated>2023-08-22T09:18:08.410Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">17:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경희사이버대학교, 사이버대 최초 상담심리학과 부설 ‘코칭리더 교육센터’ 설립]]></title>
-        <id>https://v.daum.net/v/20230822174944392</id>
-        <link href="https://v.daum.net/v/20230822174944392"/>
-        <updated>2023-08-22T09:18:08.411Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">17:49</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[광운대 이종철 교수 (전자융합공학과) 연구팀, 광경화형 히드로겔(Hydrogel)을 활용한 무선형 플렉서블 웨어러블 압력센서 개발]]></title>
-        <id>https://v.daum.net/v/20230822174825361</id>
-        <link href="https://v.daum.net/v/20230822174825361"/>
-        <updated>2023-08-22T09:18:08.412Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">17:48</span>]]></content>
     </entry>
 </feed>
