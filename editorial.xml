@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-22T16:18:43.806Z</updated>
+    <updated>2023-08-22T17:14:16.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]극장은 객석이다]]></title>
+        <id>https://v.daum.net/v/20230823020504406</id>
+        <link href="https://v.daum.net/v/20230823020504406"/>
+        <updated>2023-08-22T17:13:58.764Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[박준영의 트렌드&브랜드]조직문화가 브랜딩이 되는 시대]]></title>
+        <id>https://v.daum.net/v/20230823020502405</id>
+        <link href="https://v.daum.net/v/20230823020502405"/>
+        <updated>2023-08-22T17:13:58.765Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정운찬 칼럼] 새만금 세계잼버리 대회의 교훈]]></title>
         <id>https://v.daum.net/v/20230823005629266</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230823003227217"/>
         <updated>2023-08-22T16:18:28.202Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아침의 문장]]></title>
-        <id>https://v.daum.net/v/20230823003027212</id>
-        <link href="https://v.daum.net/v/20230823003027212"/>
-        <updated>2023-08-22T16:18:28.203Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 새 대법원장, ‘김명수 체제’가 무너뜨린 사법 신뢰 되찾길]]></title>
-        <id>https://v.daum.net/v/20230823002200186</id>
-        <link href="https://v.daum.net/v/20230823002200186"/>
-        <updated>2023-08-22T16:18:28.205Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">00:22</span>]]></content>
     </entry>
 </feed>
