@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-22T03:15:39.958Z</updated>
+    <updated>2023-08-22T04:20:42.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[ET톡]제2 오펜하이머의 순간]]></title>
+        <id>https://v.daum.net/v/20230822131812299</id>
+        <link href="https://v.daum.net/v/20230822131812299"/>
+        <updated>2023-08-22T04:20:21.962Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">13:18</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 현실로 드러난 교사·사교육 결탁, 갈길 먼 공교육 정상화]]></title>
         <id>https://v.daum.net/v/20230822120145632</id>
@@ -69,6 +76,13 @@
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:36</span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[일본 경제, 과연 부활할 것인가[시라이 사유리의 세계 경제정책 인사이트]]]></title>
+        <id>https://v.daum.net/v/20230822112613888</id>
+        <link href="https://v.daum.net/v/20230822112613888"/>
+        <updated>2023-08-22T04:20:21.969Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:26</span>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Sustainability matters at Camp David (KOR)]]></title>
         <id>https://v.daum.net/v/20230822112108659</id>
         <link href="https://v.daum.net/v/20230822112108659"/>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230822110156670"/>
         <updated>2023-08-22T02:20:34.535Z</updated>
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시론]준법위 권고는 권력을 향한 경고다]]></title>
-        <id>https://v.daum.net/v/20230822110103630</id>
-        <link href="https://v.daum.net/v/20230822110103630"/>
-        <updated>2023-08-22T02:20:34.535Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[초동시각]은행장이 책임져야 하는 이유]]></title>
-        <id>https://v.daum.net/v/20230822095623973</id>
-        <link href="https://v.daum.net/v/20230822095623973"/>
-        <updated>2023-08-22T01:00:04.126Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">09:56</span>]]></content>
     </entry>
 </feed>
