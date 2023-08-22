@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-22T22:14:46.600Z</updated>
+    <updated>2023-08-22T23:15:02.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[웹툰] 요즘 세상이 너무 흉흉해져서 긴장된다!]]></title>
+        <id>https://v.daum.net/v/20230823080131640</id>
+        <link href="https://v.daum.net/v/20230823080131640"/>
+        <updated>2023-08-22T23:14:46.191Z</updated>
+        <content type="html"><![CDATA[베이비뉴스<span class="txt_bar"> · </span><span class="info_time">08:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[김대호 박사의 오늘 기업·사람] S&P·피치·무디스·삼성·SK·현대차·LG·풍산·모더나·노바백스·화이자]]></title>
+        <id>https://v.daum.net/v/20230823075517536</id>
+        <link href="https://v.daum.net/v/20230823075517536"/>
+        <updated>2023-08-22T23:14:46.204Z</updated>
+        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">07:55</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘가해자 서사’라는 곤란함[오늘을 생각한다]]]></title>
         <id>https://v.daum.net/v/20230823071300015</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230823065402737"/>
         <updated>2023-08-22T22:14:27.187Z</updated>
         <content type="html"><![CDATA[오마이뉴스<span class="txt_bar"> · </span><span class="info_time">06:54</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여자라서 죽었다 [뉴스룸에서]]]></title>
-        <id>https://v.daum.net/v/20230823063036528</id>
-        <link href="https://v.daum.net/v/20230823063036528"/>
-        <updated>2023-08-22T22:14:27.189Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">06:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘악귀’, 김은희 월드의 씻김굿 [K콘텐츠의 순간들]]]></title>
-        <id>https://v.daum.net/v/20230823063008504</id>
-        <link href="https://v.daum.net/v/20230823063008504"/>
-        <updated>2023-08-22T22:14:27.191Z</updated>
-        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">06:30</span>]]></content>
     </entry>
 </feed>
