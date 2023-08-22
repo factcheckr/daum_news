@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-22T12:27:44.998Z</updated>
+    <updated>2023-08-22T13:21:47.905Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 8월 23일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20230822220157095</id>
+        <link href="https://v.daum.net/v/20230822220157095"/>
+        <updated>2023-08-22T13:21:23.039Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안녕! 딩동댕 유치원의 별아 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20230822220026077</id>
+        <link href="https://v.daum.net/v/20230822220026077"/>
+        <updated>2023-08-22T13:21:23.045Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공감] 일어나 앉으면 달라지는 것들]]></title>
         <id>https://v.daum.net/v/20230822203346811</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230822200024282"/>
         <updated>2023-08-22T11:13:15.640Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A novel idea to protect Lee]]></title>
-        <id>https://v.daum.net/v/20230822195822242</id>
-        <link href="https://v.daum.net/v/20230822195822242"/>
-        <updated>2023-08-22T11:13:15.641Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:58</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The return of an independence fighter]]></title>
-        <id>https://v.daum.net/v/20230822195636220</id>
-        <link href="https://v.daum.net/v/20230822195636220"/>
-        <updated>2023-08-22T11:13:15.642Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:56</span>]]></content>
     </entry>
 </feed>

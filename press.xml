@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-08-22T12:27:45.226Z</updated>
+    <updated>2023-08-22T13:21:47.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신한카드x부산시, 유럽 최대 해커톤대회 '정션 아시아' 성황리 마무리]]></title>
+        <id>https://v.daum.net/v/20230822214137815</id>
+        <link href="https://v.daum.net/v/20230822214137815"/>
+        <updated>2023-08-22T13:21:36.944Z</updated>
+        <content type="html"><![CDATA[투어코리아<span class="txt_bar"> · </span><span class="info_time">21:41</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[건강TALK] 소득 대비 과도한 의료비 ‘본인부담상한제’ 통해 환급]]></title>
         <id>https://v.daum.net/v/20230822204655035</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230822175205465"/>
         <updated>2023-08-22T09:18:08.408Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">17:52</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[덕성여대, 2022학년도 후기 학위수여식 개최]]></title>
-        <id>https://v.daum.net/v/20230822175105430</id>
-        <link href="https://v.daum.net/v/20230822175105430"/>
-        <updated>2023-08-22T09:18:08.410Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">17:51</span>]]></content>
     </entry>
 </feed>
