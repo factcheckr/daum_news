@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-08-22T09:18:21.908Z</updated>
+    <updated>2023-08-22T10:16:28.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수원 망포동 동수원자이1차 84㎡ 5억1000만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230822183548757</id>
+        <link href="https://v.daum.net/v/20230822183548757"/>
+        <updated>2023-08-22T10:16:27.267Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:35</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수원 천천동 화서역푸르지오더에듀포레 84㎡ 6억3900만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230822183038642</id>
+        <link href="https://v.daum.net/v/20230822183038642"/>
+        <updated>2023-08-22T10:16:27.273Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천 간석동 간석 래미안자이아파트 84㎡ 5억3200만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230822182539503</id>
+        <link href="https://v.daum.net/v/20230822182539503"/>
+        <updated>2023-08-22T10:16:27.274Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:25</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천 구월동 구월롯데캐슬골드아파트 83㎡ 4억4200만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230822182037367</id>
+        <link href="https://v.daum.net/v/20230822182037367"/>
+        <updated>2023-08-22T10:16:27.276Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:20</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인천 구월동 구월 힐스테이트&롯데캐슬골드 83㎡ 5억1500만원에 거래]]></title>
         <id>https://v.daum.net/v/20230822181535202</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230822173037842"/>
         <updated>2023-08-22T09:18:21.150Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성남 정자동 정자한솔마을주공5차 42㎡ 6억7000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230822172538675</id>
-        <link href="https://v.daum.net/v/20230822172538675"/>
-        <updated>2023-08-22T09:18:21.151Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 망포동 힐스테이트 영통아파트 62㎡ 7억3900만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230822172047513</id>
-        <link href="https://v.daum.net/v/20230822172047513"/>
-        <updated>2023-08-22T09:18:21.154Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 만수동 만수주공2단지아파트 61㎡ 2억7900만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230822171533375</id>
-        <link href="https://v.daum.net/v/20230822171533375"/>
-        <updated>2023-08-22T09:18:21.154Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 신현동 루원e편한세상하늘채 84㎡ 5억2000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230822171033245</id>
-        <link href="https://v.daum.net/v/20230822171033245"/>
-        <updated>2023-08-22T09:18:21.156Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:10</span>]]></content>
     </entry>
 </feed>
