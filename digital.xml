@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-08-22T13:21:47.913Z</updated>
+    <updated>2023-08-22T14:14:59.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[부진한 108개 R&D 통·폐합…예산 3.4조 감축]]></title>
+        <id>https://v.daum.net/v/20230822224021419</id>
+        <link href="https://v.daum.net/v/20230822224021419"/>
+        <updated>2023-08-22T14:14:28.441Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV<span class="txt_bar"> · </span><span class="info_time">22:40</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[리뷰] 100% 수동조작 K 좀비 소울 ‘킹덤: 왕가의 피’ CBT 해보니]]></title>
+        <id>https://v.daum.net/v/20230822223301385</id>
+        <link href="https://v.daum.net/v/20230822223301385"/>
+        <updated>2023-08-22T14:14:28.443Z</updated>
+        <content type="html"><![CDATA[게임동아<span class="txt_bar"> · </span><span class="info_time">22:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경상남도, ‘소형 용융염 원자로’ 협력 논의]]></title>
         <id>https://v.daum.net/v/20230822220834211</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230822201800596"/>
         <updated>2023-08-22T12:27:09.608Z</updated>
         <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">20:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[INDIA MOON MISSION]]></title>
-        <id>https://v.daum.net/v/20230822201756594</id>
-        <link href="https://v.daum.net/v/20230822201756594"/>
-        <updated>2023-08-22T12:27:09.610Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">20:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[INDIA MOON MISSION]]></title>
-        <id>https://v.daum.net/v/20230822201752593</id>
-        <link href="https://v.daum.net/v/20230822201752593"/>
-        <updated>2023-08-22T12:27:09.615Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">20:17</span>]]></content>
     </entry>
 </feed>
