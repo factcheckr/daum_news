@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-23T12:27:35.188Z</updated>
+    <updated>2023-08-23T13:18:32.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[필연은 우연의 집합일 뿐 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20230823220053747</id>
+        <link href="https://v.daum.net/v/20230823220053747"/>
+        <updated>2023-08-23T13:18:13.045Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[만물상] 핵 개발에 24조원 썼다, 북한 경제 말아 먹은 분]]></title>
         <id>https://v.daum.net/v/20230823204519725</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230823201610222"/>
         <updated>2023-08-23T12:27:16.703Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이희경의 한뼘 양생] 사순이가 남긴 질문]]></title>
-        <id>https://v.daum.net/v/20230823201223153</id>
-        <link href="https://v.daum.net/v/20230823201223153"/>
-        <updated>2023-08-23T12:27:16.705Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:12</span>]]></content>
     </entry>
 </feed>
