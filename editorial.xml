@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-23T22:14:47.571Z</updated>
+    <updated>2023-08-23T23:16:00.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](24일 조간)]]></title>
+        <id>https://v.daum.net/v/20230824080007626</id>
+        <link href="https://v.daum.net/v/20230824080007626"/>
+        <updated>2023-08-23T23:15:34.766Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연합뉴스 이 시각 헤드라인] - 07:30]]></title>
+        <id>https://v.daum.net/v/20230824073004131</id>
+        <link href="https://v.daum.net/v/20230824073004131"/>
+        <updated>2023-08-23T23:15:34.766Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">07:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘편집자의 일’에 관심 있나요? [사람IN]]]></title>
+        <id>https://v.daum.net/v/20230824072645089</id>
+        <link href="https://v.daum.net/v/20230824072645089"/>
+        <updated>2023-08-23T23:15:34.769Z</updated>
+        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">07:26</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새만금 잼버리를 ‘있는 그대로’ 기억하기 [취재 뒷담화]]]></title>
+        <id>https://v.daum.net/v/20230824072632084</id>
+        <link href="https://v.daum.net/v/20230824072632084"/>
+        <updated>2023-08-23T23:15:34.772Z</updated>
+        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">07:26</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간 파이낸셜] 더욱 유용하게 바뀌는 연금계좌 세제 혜택]]></title>
         <id>https://v.daum.net/v/20230824070013732</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230824053043508"/>
         <updated>2023-08-23T21:13:36.142Z</updated>
         <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Editorial] Fukushima water release]]></title>
-        <id>https://v.daum.net/v/20230824053022501</id>
-        <link href="https://v.daum.net/v/20230824053022501"/>
-        <updated>2023-08-23T21:13:36.143Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기고]오징어는 과연 빛을 좋아할까?]]></title>
-        <id>https://v.daum.net/v/20230824052501448</id>
-        <link href="https://v.daum.net/v/20230824052501448"/>
-        <updated>2023-08-23T21:13:36.144Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">05:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[씨줄날줄] 민방위의 힘/황비웅 논설위원]]></title>
-        <id>https://v.daum.net/v/20230824050407309</id>
-        <link href="https://v.daum.net/v/20230824050407309"/>
-        <updated>2023-08-23T20:17:57.250Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[길섶에서] 건강검진/황성기 논설위원]]></title>
-        <id>https://v.daum.net/v/20230824050406308</id>
-        <link href="https://v.daum.net/v/20230824050406308"/>
-        <updated>2023-08-23T20:17:57.250Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:04</span>]]></content>
     </entry>
 </feed>
