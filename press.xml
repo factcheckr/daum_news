@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-08-23T17:13:47.484Z</updated>
+    <updated>2023-08-23T18:17:26.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공공기관 평가위원 절반, 평가할 기관서 돈받아]]></title>
+        <id>https://v.daum.net/v/20230824030547584</id>
+        <link href="https://v.daum.net/v/20230824030547584"/>
+        <updated>2023-08-23T18:17:15.438Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[디지털 헬스케어 직무 역량 강화]]></title>
         <id>https://v.daum.net/v/20230824000629894</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230824000345786</id>
         <link href="https://v.daum.net/v/20230824000345786"/>
         <updated>2023-08-23T15:15:52.299Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시선집중] “오늘도 못 자면 어쩌지” 수면 부족 지속되면 뇌에 치매 단백질 쌓인다]]></title>
-        <id>https://v.daum.net/v/20230824000342785</id>
-        <link href="https://v.daum.net/v/20230824000342785"/>
-        <updated>2023-08-23T15:15:52.301Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
     </entry>
 </feed>
