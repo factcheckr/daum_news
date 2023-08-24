@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-24T03:17:12.317Z</updated>
+    <updated>2023-08-24T04:18:16.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[속보] 일본, 후쿠시마 제1원전 오염수 해양 방류 개시]]></title>
+        <id>https://v.daum.net/v/20230824131728639</id>
+        <link href="https://v.daum.net/v/20230824131728639"/>
+        <updated>2023-08-24T04:17:52.086Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">13:17</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[논단]초전도체 열풍과 과학자의 꿈]]></title>
         <id>https://v.daum.net/v/20230824115523590</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230824105830519"/>
         <updated>2023-08-24T02:22:30.280Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">10:58</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여름철 잔뜩 달아오른 여드름 피부 다스리는 비결은?]]></title>
-        <id>https://v.daum.net/v/20230824105425367</id>
-        <link href="https://v.daum.net/v/20230824105425367"/>
-        <updated>2023-08-24T02:22:30.283Z</updated>
-        <content type="html"><![CDATA[베이비뉴스<span class="txt_bar"> · </span><span class="info_time">10:54</span>]]></content>
     </entry>
 </feed>
