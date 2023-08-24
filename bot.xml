@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-08-24T09:16:22.860Z</updated>
+    <updated>2023-08-24T10:17:17.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수원 조원동 조원주공뉴타운2단지 59㎡ 2억7800만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230824183538883</id>
+        <link href="https://v.daum.net/v/20230824183538883"/>
+        <updated>2023-08-24T10:17:16.263Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:35</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천 가정동 루원시티프라디움아파트 85㎡ 5억9000만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230824183043763</id>
+        <link href="https://v.daum.net/v/20230824183043763"/>
+        <updated>2023-08-24T10:17:16.266Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[성남 단대동 성남단대푸르지오 59㎡ 8억1000만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230824182541619</id>
+        <link href="https://v.daum.net/v/20230824182541619"/>
+        <updated>2023-08-24T10:17:16.267Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:25</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[성남 야탑동 야탑탑마을타워빌 131㎡ 11억5000만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230824182031463</id>
+        <link href="https://v.daum.net/v/20230824182031463"/>
+        <updated>2023-08-24T10:17:16.268Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:20</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수원 매탄동 매탄현대힐스테이트 59㎡ 4억4800만원에 거래]]></title>
         <id>https://v.daum.net/v/20230824181532333</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230824173049604"/>
         <updated>2023-08-24T09:16:21.888Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 매탄동 매탄위브하늘채 84㎡ 6억9500만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230824172549381</id>
-        <link href="https://v.daum.net/v/20230824172549381"/>
-        <updated>2023-08-24T09:16:21.891Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고양 백석동 일산와이시티 84㎡ 10억원에 거래]]></title>
-        <id>https://v.daum.net/v/20230824172037182</id>
-        <link href="https://v.daum.net/v/20230824172037182"/>
-        <updated>2023-08-24T09:16:21.894Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 불로동 불로월드 84㎡ 2억7350만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230824171538991</id>
-        <link href="https://v.daum.net/v/20230824171538991"/>
-        <updated>2023-08-24T08:19:25.422Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용인 동천동 동천마을현대2차홈타운 84㎡ 7억5300만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230824171029821</id>
-        <link href="https://v.daum.net/v/20230824171029821"/>
-        <updated>2023-08-24T08:19:25.426Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:10</span>]]></content>
     </entry>
 </feed>
