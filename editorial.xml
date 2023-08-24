@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-24T12:28:39.331Z</updated>
+    <updated>2023-08-24T13:22:13.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['방안의 코끼리'를 모른척 한다면 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20230824220048803</id>
+        <link href="https://v.daum.net/v/20230824220048803"/>
+        <updated>2023-08-24T13:21:46.678Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오염수 방류 시름 깊어진 수산업계…시민들도 걱정]]></title>
         <id>https://v.daum.net/v/20230824211626217</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230824200849084"/>
         <updated>2023-08-24T11:13:34.800Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Careful approach needed for R&D budget]]></title>
-        <id>https://v.daum.net/v/20230824200751069</id>
-        <link href="https://v.daum.net/v/20230824200751069"/>
-        <updated>2023-08-24T11:13:34.804Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:07</span>]]></content>
     </entry>
 </feed>
