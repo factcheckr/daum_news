@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-08-24T21:13:25.955Z</updated>
+    <updated>2023-08-24T22:14:42.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세이브더칠드런-유니온픽처스가 함께 만드는 문화기부 시작]]></title>
+        <id>https://v.daum.net/v/20230825070704150</id>
+        <link href="https://v.daum.net/v/20230825070704150"/>
+        <updated>2023-08-24T22:14:32.869Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">07:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하남시 신장2동 지역사회보장협의체, 취약계층 5가구에 방충망 교체]]></title>
+        <id>https://v.daum.net/v/20230825063749833</id>
+        <link href="https://v.daum.net/v/20230825063749833"/>
+        <updated>2023-08-24T22:14:32.871Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">06:37</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[그들은 말한다, 용기를 키워라...잘파세대에 먹힌 '성공의 비밀' [Cooking&Food]]]></title>
         <id>https://v.daum.net/v/20230825050028446</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230825000503993"/>
         <updated>2023-08-24T15:16:12.555Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[분양 포커스] 동탄2신도시 희소성 큰 브랜드단지  전용면적 85㎡ 이하 70% 특별공급]]></title>
-        <id>https://v.daum.net/v/20230825000501992</id>
-        <link href="https://v.daum.net/v/20230825000501992"/>
-        <updated>2023-08-24T15:16:12.557Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[분양 포커스] GTX-A 연신내역 바로 앞 입지, 4베이 특화설계 눈에 띄네]]></title>
-        <id>https://v.daum.net/v/20230825000458990</id>
-        <link href="https://v.daum.net/v/20230825000458990"/>
-        <updated>2023-08-24T15:16:12.559Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
     </entry>
 </feed>
