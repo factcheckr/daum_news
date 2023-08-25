@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-25T06:19:58.385Z</updated>
+    <updated>2023-08-25T07:16:10.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기아 "짐바브웨·모잠비크 지역사회 자립 지원"]]></title>
+        <id>https://v.daum.net/v/20230825160010944</id>
+        <link href="https://v.daum.net/v/20230825160010944"/>
+        <updated>2023-08-25T07:15:44.190Z</updated>
+        <content type="html"><![CDATA[스포츠한국<span class="txt_bar"> · </span><span class="info_time">16:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[K가 가진 마법의 힘, 저작권 보호에 달려있어]]></title>
+        <id>https://v.daum.net/v/20230825155005617</id>
+        <link href="https://v.daum.net/v/20230825155005617"/>
+        <updated>2023-08-25T07:15:44.191Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">15:50</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부고] 박성원(KB증권 IB영업총괄 부사장)씨 부친상]]></title>
         <id>https://v.daum.net/v/20230825150251093</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230825125420670"/>
         <updated>2023-08-25T04:21:48.581Z</updated>
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">12:54</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인사] 보건복지부]]></title>
-        <id>https://v.daum.net/v/20230825124857581</id>
-        <link href="https://v.daum.net/v/20230825124857581"/>
-        <updated>2023-08-25T04:21:48.583Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">12:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한전 빚 200조, 한달 이자만 2000억…누가 이렇게 만들었나 [기자수첩-경제정책]]]></title>
-        <id>https://v.daum.net/v/20230825124318522</id>
-        <link href="https://v.daum.net/v/20230825124318522"/>
-        <updated>2023-08-25T04:21:48.585Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">12:43</span>]]></content>
     </entry>
 </feed>
