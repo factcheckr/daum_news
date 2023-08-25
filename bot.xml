@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-08-25T09:15:27.238Z</updated>
+    <updated>2023-08-25T10:16:42.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가상화폐 비트코인(-0.4%), 하이파이(+10.0%)]]></title>
+        <id>https://v.daum.net/v/20230825183131818</id>
+        <link href="https://v.daum.net/v/20230825183131818"/>
+        <updated>2023-08-25T10:16:41.300Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">18:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울 장위동 래미안퍼스트하이 84㎡ 9억9500만원... 역대 최고가]]></title>
         <id>https://v.daum.net/v/20230825175030998</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230825165031331"/>
         <updated>2023-08-25T08:18:59.803Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">16:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성남 창곡동 위례 자연&래미안e편한세상 75㎡ 11억8000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230825164534217</id>
-        <link href="https://v.daum.net/v/20230825164534217"/>
-        <updated>2023-08-25T08:18:59.803Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">16:45</span>]]></content>
     </entry>
 </feed>
