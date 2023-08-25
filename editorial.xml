@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-25T10:16:42.328Z</updated>
+    <updated>2023-08-25T11:13:28.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사설]육사서 홍범도·김좌진 동상 철거, ‘독립영웅 역사’도 지우나]]></title>
+        <id>https://v.daum.net/v/20230825195308187</id>
+        <link href="https://v.daum.net/v/20230825195308187"/>
+        <updated>2023-08-25T11:13:00.373Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">19:53</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설]윤 대통령의 이동관 임명 강행, 기어코 ‘방송장악’할 텐가]]></title>
         <id>https://v.daum.net/v/20230825185849341</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230825172118136</id>
         <link href="https://v.daum.net/v/20230825172118136"/>
         <updated>2023-08-25T09:15:06.143Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[책과 미래] 쾌활함의 힘]]></title>
-        <id>https://v.daum.net/v/20230825172116134</id>
-        <link href="https://v.daum.net/v/20230825172116134"/>
-        <updated>2023-08-25T09:15:06.145Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:21</span>]]></content>
     </entry>
 </feed>
