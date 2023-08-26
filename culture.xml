@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2023-08-26T18:17:56.968Z</updated>
+    <updated>2023-08-26T19:13:23.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여름 영화대전 '밀수'·'콘크리트 유토피아'만 웃었다]]></title>
+        <id>https://v.daum.net/v/20230827033412019</id>
+        <link href="https://v.daum.net/v/20230827033412019"/>
+        <updated>2023-08-26T19:12:07.991Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">03:34</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[가정예배 365-8월 27일] 연결되어야 삽니다]]></title>
         <id>https://v.daum.net/v/20230827030213993</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230827000300612"/>
         <updated>2023-08-26T15:13:46.582Z</updated>
         <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인플루언서 프리즘] "'키덜트' 모여라"…아이돌 인기 뺨치는 인형탈 캐릭터]]></title>
-        <id>https://v.daum.net/v/20230827000110600</id>
-        <link href="https://v.daum.net/v/20230827000110600"/>
-        <updated>2023-08-26T15:13:46.583Z</updated>
-        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
     </entry>
 </feed>
