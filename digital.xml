@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-08-26T10:15:14.087Z</updated>
+    <updated>2023-08-26T11:12:42.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[화웨이, 에릭슨과 5G 특허 상호 라이선스 계약]]></title>
+        <id>https://v.daum.net/v/20230826200301000</id>
+        <link href="https://v.daum.net/v/20230826200301000"/>
+        <updated>2023-08-26T11:12:11.432Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">20:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["클라우드 철통보안, 'VM웨어 NSX+'로 쉽고 빠르게"]]></title>
+        <id>https://v.daum.net/v/20230826195837945</id>
+        <link href="https://v.daum.net/v/20230826195837945"/>
+        <updated>2023-08-26T11:12:11.434Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">19:58</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일론 머스크의 '스페이스X', 4명 태운 우주선 발사 성공]]></title>
+        <id>https://v.daum.net/v/20230826195019863</id>
+        <link href="https://v.daum.net/v/20230826195019863"/>
+        <updated>2023-08-26T11:12:11.437Z</updated>
+        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">19:50</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경기창경센터, 판교 창업존서 '제15회 스타트업 815 IR-연합' 개최]]></title>
+        <id>https://v.daum.net/v/20230826195010862</id>
+        <link href="https://v.daum.net/v/20230826195010862"/>
+        <updated>2023-08-26T11:12:11.438Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">19:50</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[epaselect USA SPACE PROGRAMS NASA]]></title>
         <id>https://v.daum.net/v/20230826190408528</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230826175553973"/>
         <updated>2023-08-26T09:14:49.510Z</updated>
         <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">17:55</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘스페이스X’ 4명 태운 우주선 발사 성공]]></title>
-        <id>https://v.daum.net/v/20230826175522969</id>
-        <link href="https://v.daum.net/v/20230826175522969"/>
-        <updated>2023-08-26T09:14:49.512Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">17:55</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“12화 빨리 공개해…전세계 난리” 넷플릭스 대항마…결국 ‘역대급’ 터졌다]]></title>
-        <id>https://v.daum.net/v/20230826175128903</id>
-        <link href="https://v.daum.net/v/20230826175128903"/>
-        <updated>2023-08-26T09:14:49.519Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">17:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USA SPACE PROGRAMS NASA]]></title>
-        <id>https://v.daum.net/v/20230826173621698</id>
-        <link href="https://v.daum.net/v/20230826173621698"/>
-        <updated>2023-08-26T09:14:49.520Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">17:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USA SPACE PROGRAMS NASA]]></title>
-        <id>https://v.daum.net/v/20230826173408652</id>
-        <link href="https://v.daum.net/v/20230826173408652"/>
-        <updated>2023-08-26T09:14:49.521Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">17:34</span>]]></content>
     </entry>
 </feed>
