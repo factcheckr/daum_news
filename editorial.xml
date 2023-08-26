@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-26T13:19:20.592Z</updated>
+    <updated>2023-08-26T14:13:17.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[세컷칼럼]불편하고 부당한 판사]]></title>
+        <id>https://v.daum.net/v/20230826230023328</id>
+        <link href="https://v.daum.net/v/20230826230023328"/>
+        <updated>2023-08-26T14:12:56.460Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[간암 일으키는 간염은 A형 아닌 B·C형 [헬스]]]></title>
         <id>https://v.daum.net/v/20230826201217087</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230826080802240"/>
         <updated>2023-08-25T23:16:19.371Z</updated>
         <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">08:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일어나지 않은 재난에서 우리의 민낯을 본다 [비장의 무비]]]></title>
-        <id>https://v.daum.net/v/20230826073744868</id>
-        <link href="https://v.daum.net/v/20230826073744868"/>
-        <updated>2023-08-25T23:16:19.374Z</updated>
-        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">07:37</span>]]></content>
     </entry>
 </feed>
