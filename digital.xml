@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-08-26T01:45:21.571Z</updated>
+    <updated>2023-08-26T02:18:52.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['월드 오브 워페어: 배틀쉽' 밀리터리 팬과 캐주얼 이용자 가교 될 것]]></title>
+        <id>https://v.daum.net/v/20230826111504974</id>
+        <link href="https://v.daum.net/v/20230826111504974"/>
+        <updated>2023-08-26T02:18:19.918Z</updated>
+        <content type="html"><![CDATA[게임동아<span class="txt_bar"> · </span><span class="info_time">11:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[게임위드인] '멀티플랫폼·중국·서브컬처' 게임스컴이 던진 세 가지 질문]]></title>
+        <id>https://v.daum.net/v/20230826110008853</id>
+        <link href="https://v.daum.net/v/20230826110008853"/>
+        <updated>2023-08-26T02:18:19.921Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">11:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['상장 재수' 밀리의 서재, 몸값·물량 다 낮췄다]]></title>
+        <id>https://v.daum.net/v/20230826110004848</id>
+        <link href="https://v.daum.net/v/20230826110004848"/>
+        <updated>2023-08-26T02:18:19.923Z</updated>
+        <content type="html"><![CDATA[비즈워치<span class="txt_bar"> · </span><span class="info_time">11:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[애플 쇼크웨이브](28)"우리가 삼성에 뒤졌다" TSMC 모리스 창의 탄식]]></title>
         <id>https://v.daum.net/v/20230826104008694</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230826090001628"/>
         <updated>2023-08-26T00:59:50.918Z</updated>
         <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">09:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인터뷰하는 장한진 모어펀 스튜디오 대표]]></title>
-        <id>https://v.daum.net/v/20230826085737610</id>
-        <link href="https://v.daum.net/v/20230826085737610"/>
-        <updated>2023-08-26T00:59:50.921Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:57</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["아레나 브레이크아웃, 쉬우면서도 깊은 게임성이 성공 열쇠"]]></title>
-        <id>https://v.daum.net/v/20230826084133494</id>
-        <link href="https://v.daum.net/v/20230826084133494"/>
-        <updated>2023-08-26T00:59:50.924Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:41</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카이스트 대학생부 전세계 해킹방어 1등 쾌거]]></title>
-        <id>https://v.daum.net/v/20230826084000477</id>
-        <link href="https://v.daum.net/v/20230826084000477"/>
-        <updated>2023-08-26T00:59:50.928Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">08:40</span>]]></content>
     </entry>
 </feed>
