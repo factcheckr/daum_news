@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-26T03:16:41.325Z</updated>
+    <updated>2023-08-26T04:17:50.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[관습과 제도가 국가 존망을 결정한다는데 [홍기훈의 ‘세계를 바꾼 경제학 고전’] (12)]]></title>
+        <id>https://v.daum.net/v/20230826130314805</id>
+        <link href="https://v.daum.net/v/20230826130314805"/>
+        <updated>2023-08-26T04:17:31.326Z</updated>
+        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">13:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신임 KT CEO의 숙제 [최연진의 IT 프리즘]]]></title>
         <id>https://v.daum.net/v/20230826100054321</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230826050016252"/>
         <updated>2023-08-25T20:17:32.617Z</updated>
         <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">05:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 이 방통위원장, 진영 넘는 '진짜 공정방송' 추구해야]]></title>
-        <id>https://v.daum.net/v/20230826043137108</id>
-        <link href="https://v.daum.net/v/20230826043137108"/>
-        <updated>2023-08-25T20:17:32.617Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:31</span>]]></content>
     </entry>
 </feed>
