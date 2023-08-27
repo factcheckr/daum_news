@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-27T12:25:29.113Z</updated>
+    <updated>2023-08-27T13:19:33.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 8월 28일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20230827220015499</id>
+        <link href="https://v.daum.net/v/20230827220015499"/>
+        <updated>2023-08-27T13:19:08.312Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[파친코, 그리고 자이니치 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20230827220007496</id>
+        <link href="https://v.daum.net/v/20230827220007496"/>
+        <updated>2023-08-27T13:19:08.314Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[데스크의 눈]트럼프도 찍은 머그샷, 韓은 흉악범에 선택권]]></title>
         <id>https://v.daum.net/v/20230827210004783</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230827202238405"/>
         <updated>2023-08-27T12:25:07.936Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[우리말 산책] 푸르른 하늘 아래 누르른 들판은 없다]]></title>
-        <id>https://v.daum.net/v/20230827201703342</id>
-        <link href="https://v.daum.net/v/20230827201703342"/>
-        <updated>2023-08-27T12:25:07.938Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노래와 세상] 다시 광야에서]]></title>
-        <id>https://v.daum.net/v/20230827201655338</id>
-        <link href="https://v.daum.net/v/20230827201655338"/>
-        <updated>2023-08-27T12:25:07.939Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:16</span>]]></content>
     </entry>
 </feed>
