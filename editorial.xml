@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-27T16:17:33.623Z</updated>
+    <updated>2023-08-27T17:14:06.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]400년만에 국산 가스터빈으로 돌아온 조선의 도자기 기술]]></title>
+        <id>https://v.daum.net/v/20230828020303562</id>
+        <link href="https://v.daum.net/v/20230828020303562"/>
+        <updated>2023-08-27T17:13:45.192Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[장훈 칼럼] 대통령의 두 얼굴]]></title>
         <id>https://v.daum.net/v/20230828004308425</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230828001957350</id>
         <link href="https://v.daum.net/v/20230828001957350"/>
         <updated>2023-08-27T16:17:12.454Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:19</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시선2035] 나의 축구대회 해방일지]]></title>
-        <id>https://v.daum.net/v/20230828001917348</id>
-        <link href="https://v.daum.net/v/20230828001917348"/>
-        <updated>2023-08-27T16:17:12.456Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:19</span>]]></content>
     </entry>
 </feed>
