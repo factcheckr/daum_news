@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-08-28T16:20:39.226Z</updated>
+    <updated>2023-08-28T17:14:53.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[에듀플러스-진학 정했니?]진로·학과 가이드 ⑥부동산학과, “부동산 경제·경영·법 등 공부…국어·지리·경제 과목 중요”]]></title>
+        <id>https://v.daum.net/v/20230829020105487</id>
+        <link href="https://v.daum.net/v/20230829020105487"/>
+        <updated>2023-08-28T17:14:17.304Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">02:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오류 없는 양자컴퓨터 구현에 `한 발짝`…삼각 격자 구조 자성물질서 양자상태 발견]]></title>
         <id>https://v.daum.net/v/20230829010111387</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230829004413304"/>
         <updated>2023-08-28T16:19:52.824Z</updated>
         <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">00:44</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BGM 맛집 메이플스토리, 전국투어 펼친다]]></title>
-        <id>https://v.daum.net/v/20230829000504040</id>
-        <link href="https://v.daum.net/v/20230829000504040"/>
-        <updated>2023-08-28T15:16:16.221Z</updated>
-        <content type="html"><![CDATA[MHN스포츠<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
     </entry>
 </feed>
