@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-08-28T21:14:22.804Z</updated>
+    <updated>2023-08-28T22:15:06.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤디자인그룹 ‘한 번에 끝내는 영상 창작 패키지’ 상품 출시]]></title>
+        <id>https://v.daum.net/v/20230829070704779</id>
+        <link href="https://v.daum.net/v/20230829070704779"/>
+        <updated>2023-08-28T22:14:55.446Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">07:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[남양주시, 스마트폰 걷기 앱 활용해 누구나 기부에 참여 가능]]></title>
+        <id>https://v.daum.net/v/20230829064933527</id>
+        <link href="https://v.daum.net/v/20230829064933527"/>
+        <updated>2023-08-28T22:14:55.448Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">06:49</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“엄마가 생선 먹지 말래요” 학교급식 수산물 퇴출(?)]]></title>
         <id>https://v.daum.net/v/20230829000630125</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230829000500034"/>
         <updated>2023-08-28T15:16:37.544Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세계로 뻗는 대학] 보건·안전·외식 분야 강화 위해 학과 개편]]></title>
-        <id>https://v.daum.net/v/20230829000457033</id>
-        <link href="https://v.daum.net/v/20230829000457033"/>
-        <updated>2023-08-28T15:16:37.548Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세계로 뻗는 대학] 교과중점전형, 내신성적·출결상황만 반영]]></title>
-        <id>https://v.daum.net/v/20230829000454031</id>
-        <link href="https://v.daum.net/v/20230829000454031"/>
-        <updated>2023-08-28T15:16:37.552Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
     </entry>
 </feed>
