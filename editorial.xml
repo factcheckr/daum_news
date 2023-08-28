@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-28T12:29:06.831Z</updated>
+    <updated>2023-08-28T13:19:13.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 8월 29일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20230828220040233</id>
+        <link href="https://v.daum.net/v/20230828220040233"/>
+        <updated>2023-08-28T13:18:55.316Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마지막은 기어코 온다 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20230828220032231</id>
+        <link href="https://v.daum.net/v/20230828220032231"/>
+        <updated>2023-08-28T13:18:55.318Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[국민만평-서민호 화백] 2023년 8월 29일]]></title>
+        <id>https://v.daum.net/v/20230828213515964</id>
+        <link href="https://v.daum.net/v/20230828213515964"/>
+        <updated>2023-08-28T13:18:55.318Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">21:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[만물상] “꾸준히 하면 언젠가 뜻깊은 날이 온다”]]></title>
         <id>https://v.daum.net/v/20230828205536513</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230828201054882"/>
         <updated>2023-08-28T11:16:01.811Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Removing heroes’ statutes on a whim]]></title>
-        <id>https://v.daum.net/v/20230828200944841</id>
-        <link href="https://v.daum.net/v/20230828200944841"/>
-        <updated>2023-08-28T11:16:01.811Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to institutionalize the tripartite cooperation]]></title>
-        <id>https://v.daum.net/v/20230828200854820</id>
-        <link href="https://v.daum.net/v/20230828200854820"/>
-        <updated>2023-08-28T11:16:01.811Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Augmenting cybersecurity after Camp David]]></title>
-        <id>https://v.daum.net/v/20230828200555764</id>
-        <link href="https://v.daum.net/v/20230828200555764"/>
-        <updated>2023-08-28T11:16:01.813Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:05</span>]]></content>
     </entry>
 </feed>
