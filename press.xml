@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-08-28T11:16:23.636Z</updated>
+    <updated>2023-08-28T12:29:06.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] China Overseas Entrepreneurs Conference Held in Wenzhou, Zhejiang]]></title>
+        <id>https://v.daum.net/v/20230828211543729</id>
+        <link href="https://v.daum.net/v/20230828211543729"/>
+        <updated>2023-08-28T12:28:58.164Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">21:15</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] Vantage Unveils Copy Trading Upgrade]]></title>
         <id>https://v.daum.net/v/20230828181253605</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230828164215721</id>
         <link href="https://v.daum.net/v/20230828164215721"/>
         <updated>2023-08-28T08:20:41.877Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부산 대표 스타트업 행사 '바운스 2023' 내달 7∼8일 개최]]></title>
-        <id>https://v.daum.net/v/20230828164212717</id>
-        <link href="https://v.daum.net/v/20230828164212717"/>
-        <updated>2023-08-28T08:20:41.879Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:42</span>]]></content>
     </entry>
 </feed>
