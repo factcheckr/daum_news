@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-29T13:20:59.866Z</updated>
+    <updated>2023-08-29T14:15:03.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[묻지마 흉악 범죄, 과감한 대책 필요하다[내 생각은/이재석]]]></title>
+        <id>https://v.daum.net/v/20230829231309014</id>
+        <link href="https://v.daum.net/v/20230829231309014"/>
+        <updated>2023-08-29T14:14:45.645Z</updated>
+        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">23:13</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[너무 오른 음식값, 낮추는 방법 찾자[내 생각은/우윤숙]]]></title>
+        <id>https://v.daum.net/v/20230829231010001</id>
+        <link href="https://v.daum.net/v/20230829231010001"/>
+        <updated>2023-08-29T14:14:45.645Z</updated>
+        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">23:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[세컷칼럼]피크 차이나, 피크 코리아]]></title>
+        <id>https://v.daum.net/v/20230829230024948</id>
+        <link href="https://v.daum.net/v/20230829230024948"/>
+        <updated>2023-08-29T14:14:45.645Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023년 8월 30일[김용민의 그림마당]]]></title>
         <id>https://v.daum.net/v/20230829220050457</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230829204003546"/>
         <updated>2023-08-29T12:30:03.715Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The big play at Camp David]]></title>
-        <id>https://v.daum.net/v/20230829203814529</id>
-        <link href="https://v.daum.net/v/20230829203814529"/>
-        <updated>2023-08-29T12:30:03.718Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:38</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[United we stand, divided we fall]]></title>
-        <id>https://v.daum.net/v/20230829203454491</id>
-        <link href="https://v.daum.net/v/20230829203454491"/>
-        <updated>2023-08-29T12:30:03.721Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where will China go in the next five years?]]></title>
-        <id>https://v.daum.net/v/20230829203323478</id>
-        <link href="https://v.daum.net/v/20230829203323478"/>
-        <updated>2023-08-29T12:30:03.723Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:33</span>]]></content>
     </entry>
 </feed>

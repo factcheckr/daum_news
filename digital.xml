@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-08-29T13:20:59.879Z</updated>
+    <updated>2023-08-29T14:15:03.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[누리호 타고 우주 간 국산 위성, 한라산 찍어 보냈다]]></title>
+        <id>https://v.daum.net/v/20230829224018845</id>
+        <link href="https://v.daum.net/v/20230829224018845"/>
+        <updated>2023-08-29T14:14:33.816Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV<span class="txt_bar"> · </span><span class="info_time">22:40</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[복지부 “비대면진료 재진 기준·초진 허용지역 지침 보완 검토”]]></title>
+        <id>https://v.daum.net/v/20230829223103768</id>
+        <link href="https://v.daum.net/v/20230829223103768"/>
+        <updated>2023-08-29T14:14:33.828Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">22:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[광주시교육청, 모든 중·고교생에 ‘학생용 스마트기기’ 보급]]></title>
         <id>https://v.daum.net/v/20230829221802643</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230829203005435"/>
         <updated>2023-08-29T12:29:55.198Z</updated>
         <content type="html"><![CDATA[MHN스포츠<span class="txt_bar"> · </span><span class="info_time">20:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[스타트업-ing] 루이테크놀로지 “폰으로 관광 가이드와 통역 서비스 동시 구현”]]></title>
-        <id>https://v.daum.net/v/20230829202702391</id>
-        <link href="https://v.daum.net/v/20230829202702391"/>
-        <updated>2023-08-29T12:29:55.205Z</updated>
-        <content type="html"><![CDATA[IT동아<span class="txt_bar"> · </span><span class="info_time">20:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서구권 ‘겜심’ 잡아라… 게임스컴 대거 출격한 K-게임사들]]></title>
-        <id>https://v.daum.net/v/20230829202413356</id>
-        <link href="https://v.daum.net/v/20230829202413356"/>
-        <updated>2023-08-29T12:29:55.210Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">20:24</span>]]></content>
     </entry>
 </feed>
