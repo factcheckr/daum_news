@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2023-08-29T16:20:19.643Z</updated>
+    <updated>2023-08-29T17:16:10.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['마스크걸' 안재홍, 제대로 터졌다...인생작 살펴보니]]></title>
+        <id>https://v.daum.net/v/20230830020030829</id>
+        <link href="https://v.daum.net/v/20230830020030829"/>
+        <updated>2023-08-29T17:15:10.346Z</updated>
+        <content type="html"><![CDATA[TV리포트<span class="txt_bar"> · </span><span class="info_time">02:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['숙대 퀸카' 문희경, 가짜뉴스 차단 "김흥국 좋아한 적 없다"]]></title>
         <id>https://v.daum.net/v/20230830011104716</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230830002401579"/>
         <updated>2023-08-29T16:19:27.219Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">00:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이브 장원영, 만화 속 공주 같은 상큼美]]></title>
-        <id>https://v.daum.net/v/20230830002252576</id>
-        <link href="https://v.daum.net/v/20230830002252576"/>
-        <updated>2023-08-29T16:19:27.221Z</updated>
-        <content type="html"><![CDATA[MBC연예<span class="txt_bar"> · </span><span class="info_time">00:22</span>]]></content>
     </entry>
 </feed>
