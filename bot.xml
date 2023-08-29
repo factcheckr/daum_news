@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-08-29T09:16:17.773Z</updated>
+    <updated>2023-08-29T10:17:08.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하남 학암동 위례롯데캐슬아파트 84㎡ 11억4000만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230829183533681</id>
+        <link href="https://v.daum.net/v/20230829183533681"/>
+        <updated>2023-08-29T10:17:07.806Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:35</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천 구월동 구월 힐스테이트&롯데캐슬골드 59㎡ 3억9500만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230829183057612</id>
+        <link href="https://v.daum.net/v/20230829183057612"/>
+        <updated>2023-08-29T10:17:07.808Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수원 영통동 영통벽적골롯데 38㎡ 3억2000만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230829182537480</id>
+        <link href="https://v.daum.net/v/20230829182537480"/>
+        <updated>2023-08-29T10:17:07.813Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:25</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천 구월동 구월롯데캐슬골드아파트 83㎡ 4억4000만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230829182032328</id>
+        <link href="https://v.daum.net/v/20230829182032328"/>
+        <updated>2023-08-29T10:17:07.816Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:20</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인천 당하동 당하 탑스빌 아파트 60㎡ 2억6000만원에 거래]]></title>
         <id>https://v.daum.net/v/20230829181557217</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230829173036701"/>
         <updated>2023-08-29T09:16:16.871Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 송도동 e편한세상송도아파트 84㎡ 6억8800만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230829172536534</id>
-        <link href="https://v.daum.net/v/20230829172536534"/>
-        <updated>2023-08-29T09:16:16.872Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 매탄동 매탄주공5단지 46㎡ 6억5000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230829172030354</id>
-        <link href="https://v.daum.net/v/20230829172030354"/>
-        <updated>2023-08-29T08:21:36.575Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 청라동 청라힐데스하임 59㎡ 4억8900만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230829171539180</id>
-        <link href="https://v.daum.net/v/20230829171539180"/>
-        <updated>2023-08-29T08:21:36.577Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용인 보라동 민속마을쌍용 84㎡ 4억900만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230829171038990</id>
-        <link href="https://v.daum.net/v/20230829171038990"/>
-        <updated>2023-08-29T08:21:36.579Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:10</span>]]></content>
     </entry>
 </feed>
