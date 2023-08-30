@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-30T07:15:19.329Z</updated>
+    <updated>2023-08-30T08:19:44.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[매경춘추] 지방시대]]></title>
+        <id>https://v.daum.net/v/20230830170900355</id>
+        <link href="https://v.daum.net/v/20230830170900355"/>
+        <updated>2023-08-30T08:19:20.695Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:09</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사설] 규제에 좌절된 비대면 진료, 누가 도전하겠나]]></title>
+        <id>https://v.daum.net/v/20230830170120032</id>
+        <link href="https://v.daum.net/v/20230830170120032"/>
+        <updated>2023-08-30T08:19:20.696Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">17:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[메아리] 나라는 안 망하나, 사람들은 죽는다]]></title>
+        <id>https://v.daum.net/v/20230830170021957</id>
+        <link href="https://v.daum.net/v/20230830170021957"/>
+        <updated>2023-08-30T08:19:20.697Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">17:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팀장 칼럼] ‘마스크걸’에는 회귀·빙의·환생이 없다]]></title>
+        <id>https://v.daum.net/v/20230830161733233</id>
+        <link href="https://v.daum.net/v/20230830161733233"/>
+        <updated>2023-08-30T08:19:20.698Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">16:17</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[자막뉴스] 어수선한 상황 틈탄 영양제 상술... '오염수 마케팅' 기승]]></title>
         <id>https://v.daum.net/v/20230830160415669</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230830150512201"/>
         <updated>2023-08-30T06:19:24.218Z</updated>
         <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">15:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한·미·일 정상회의 의의] 전례없는 복합위기, 3국이 강력히 연대해 대응합니다]]></title>
-        <id>https://v.daum.net/v/20230830145024562</id>
-        <link href="https://v.daum.net/v/20230830145024562"/>
-        <updated>2023-08-30T06:19:24.221Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">14:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기고] ‘노인장기요양 수난시대?’…요양원 옆 축사 허가로  어르신 서비스 향상 노력 물거품]]></title>
-        <id>https://v.daum.net/v/20230830134405187</id>
-        <link href="https://v.daum.net/v/20230830134405187"/>
-        <updated>2023-08-30T05:15:06.786Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">13:44</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤 대통령 "스타트업도 민간 중심, 시장 중심으로"]]></title>
-        <id>https://v.daum.net/v/20230830133653931</id>
-        <link href="https://v.daum.net/v/20230830133653931"/>
-        <updated>2023-08-30T05:15:06.786Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">13:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전기차 보조금 100만원 싹뚝…예산 칼바람]]></title>
-        <id>https://v.daum.net/v/20230830133604894</id>
-        <link href="https://v.daum.net/v/20230830133604894"/>
-        <updated>2023-08-30T05:15:06.789Z</updated>
-        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">13:36</span>]]></content>
     </entry>
 </feed>
