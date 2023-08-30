@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-30T22:14:43.213Z</updated>
+    <updated>2023-08-30T23:18:43.823Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](31일 조간)]]></title>
+        <id>https://v.daum.net/v/20230831080006477</id>
+        <link href="https://v.daum.net/v/20230831080006477"/>
+        <updated>2023-08-30T23:18:24.044Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘코로나 폴더’는 더 늘어난다 [취재 뒷담화]]]></title>
+        <id>https://v.daum.net/v/20230831071941848</id>
+        <link href="https://v.daum.net/v/20230831071941848"/>
+        <updated>2023-08-30T23:18:24.047Z</updated>
+        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">07:19</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[소비자칼럼]  소비자 수리권 보장을 위한 한걸음, '수리가능성 지수']]></title>
         <id>https://v.daum.net/v/20230831070012490</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20230831050335775</id>
         <link href="https://v.daum.net/v/20230831050335775"/>
         <updated>2023-08-30T20:16:24.477Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 균형발전과 미래세대 위한 새만금 ‘빅픽처’ 세우길]]></title>
-        <id>https://v.daum.net/v/20230831050334773</id>
-        <link href="https://v.daum.net/v/20230831050334773"/>
-        <updated>2023-08-30T20:16:24.479Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 대통령에 ‘용산총독부’ 운운 野, 금도 넘었다]]></title>
-        <id>https://v.daum.net/v/20230831050332772</id>
-        <link href="https://v.daum.net/v/20230831050332772"/>
-        <updated>2023-08-30T20:16:24.481Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
     </entry>
 </feed>
