@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-08-30T10:16:32.132Z</updated>
+    <updated>2023-08-30T11:14:01.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[의정부시시설관리공단, 현장 찾아가는 CEO 시민 소통 간담회 실시..올 두번째]]></title>
+        <id>https://v.daum.net/v/20230830195812502</id>
+        <link href="https://v.daum.net/v/20230830195812502"/>
+        <updated>2023-08-30T11:13:45.787Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">19:58</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[곡성군, 제2회 섬진강마을영화제 9월 1일 개막]]></title>
+        <id>https://v.daum.net/v/20230830192951051</id>
+        <link href="https://v.daum.net/v/20230830192951051"/>
+        <updated>2023-08-30T11:13:45.789Z</updated>
+        <content type="html"><![CDATA[투어코리아<span class="txt_bar"> · </span><span class="info_time">19:29</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김기영 충남도 행정부지사, 공주시 '대백제전' 현장 점검]]></title>
         <id>https://v.daum.net/v/20230830190428640</id>
@@ -41,7 +55,7 @@
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">18:20</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사이버한국외대 ‘KF 글로벌 e-스쿨’ 한국어 교육 사업, 베트남 휴텍대, 인도 네루대 등 신규 참여]]></title>
+        <title type="html"><![CDATA[사이버한국외대 한국어 교육 사업에 베트남 휴텍대, 인도 네루대 등 참여]]></title>
         <id>https://v.daum.net/v/20230830181849606</id>
         <link href="https://v.daum.net/v/20230830181849606"/>
         <updated>2023-08-30T10:16:19.808Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230830173704363"/>
         <updated>2023-08-30T09:15:58.448Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[평택시 체육발전 힘 보탠다...후원금 전달]]></title>
-        <id>https://v.daum.net/v/20230830173627345</id>
-        <link href="https://v.daum.net/v/20230830173627345"/>
-        <updated>2023-08-30T09:15:58.451Z</updated>
-        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">17:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2학기 초교 주변 위해요인 단속…700여 관계기관 합동 점검]]></title>
-        <id>https://v.daum.net/v/20230830173032119</id>
-        <link href="https://v.daum.net/v/20230830173032119"/>
-        <updated>2023-08-30T09:15:58.453Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
     </entry>
 </feed>
