@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-08-31T13:20:28.429Z</updated>
+    <updated>2023-08-31T14:15:37.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스탯, 가상자산 음성뉴스속보 서비스 'STAT LIVE' 오픈 베타 론칭]]></title>
+        <id>https://v.daum.net/v/20230831231202139</id>
+        <link href="https://v.daum.net/v/20230831231202139"/>
+        <updated>2023-08-31T14:15:06.227Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">23:12</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[IT애정남] 1440p/144Hz와 4K/60Hz 모니터, 어느 쪽이 더 좋나요?]]></title>
+        <id>https://v.daum.net/v/20230831223300852</id>
+        <link href="https://v.daum.net/v/20230831223300852"/>
+        <updated>2023-08-31T14:15:06.227Z</updated>
+        <content type="html"><![CDATA[IT동아<span class="txt_bar"> · </span><span class="info_time">22:33</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[현장컷] ‘슈퍼블루문’ 뜬 강원특별자치도의 밤하늘]]></title>
+        <id>https://v.daum.net/v/20230831222940808</id>
+        <link href="https://v.daum.net/v/20230831222940808"/>
+        <updated>2023-08-31T14:15:06.228Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">22:29</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카카오페이, ‘코리아 핀테크 위크 2023’서 ‘태그 결제∙해외 결제∙내 주변 송금’ 소개]]></title>
         <id>https://v.daum.net/v/20230831220123372</id>
@@ -87,27 +108,6 @@
         <id>https://v.daum.net/v/20230831213714044</id>
         <link href="https://v.daum.net/v/20230831213714044"/>
         <updated>2023-08-31T13:19:55.530Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">21:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[현장컷] 슈퍼블루문 둥실]]></title>
-        <id>https://v.daum.net/v/20230831213712043</id>
-        <link href="https://v.daum.net/v/20230831213712043"/>
-        <updated>2023-08-31T13:19:55.534Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">21:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[광주 하늘에 뜬 '슈퍼 블루문']]></title>
-        <id>https://v.daum.net/v/20230831213711041</id>
-        <link href="https://v.daum.net/v/20230831213711041"/>
-        <updated>2023-08-31T13:19:55.536Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">21:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동쪽 하늘에 뜬 '슈퍼 블루문']]></title>
-        <id>https://v.daum.net/v/20230831213707040</id>
-        <link href="https://v.daum.net/v/20230831213707040"/>
-        <updated>2023-08-31T13:19:55.538Z</updated>
         <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">21:37</span>]]></content>
     </entry>
 </feed>
