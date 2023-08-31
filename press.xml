@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-08-31T03:16:23.490Z</updated>
+    <updated>2023-08-31T04:18:46.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마우저 일렉트로닉스, 2023 KSAE 대학생 자작자동차 대회 후원사로 참여]]></title>
+        <id>https://v.daum.net/v/20230831131703634</id>
+        <link href="https://v.daum.net/v/20230831131703634"/>
+        <updated>2023-08-31T04:18:32.640Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">13:17</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 일본에서 주목받고 있는 Cell Impact Forming]]></title>
+        <id>https://v.daum.net/v/20230831130638363</id>
+        <link href="https://v.daum.net/v/20230831130638363"/>
+        <updated>2023-08-31T04:18:32.642Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">13:06</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[녹십자수의약품, 백신 배송에 ‘친환경 대체소재 아이스팩 사용’ 탄소중립 실천한다]]></title>
         <id>https://v.daum.net/v/20230831120711025</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230831114703100"/>
         <updated>2023-08-31T03:16:11.685Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">11:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울시 "급식 수산물 방사능 검사, 아직까지 적발 사례 없어"]]></title>
-        <id>https://v.daum.net/v/20230831114451993</id>
-        <link href="https://v.daum.net/v/20230831114451993"/>
-        <updated>2023-08-31T03:16:11.690Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:44</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[벨킨 인터내셔널, 올해의 지속가능성 이니셔티브 상 수상]]></title>
-        <id>https://v.daum.net/v/20230831113710598</id>
-        <link href="https://v.daum.net/v/20230831113710598"/>
-        <updated>2023-08-31T03:16:11.694Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">11:37</span>]]></content>
     </entry>
 </feed>
