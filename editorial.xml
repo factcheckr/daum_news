@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-31T12:28:29.065Z</updated>
+    <updated>2023-08-31T13:20:28.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[멀고도 가까운 타인 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20230831220057368</id>
+        <link href="https://v.daum.net/v/20230831220057368"/>
+        <updated>2023-08-31T13:20:05.528Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 제1 야당 대표 ‘무기한 단식’ 선언, 여야 정치 복구하라]]></title>
         <id>https://v.daum.net/v/20230831211007557</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230831203214940"/>
         <updated>2023-08-31T12:28:03.271Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nonsensical strike by the opposition leader]]></title>
-        <id>https://v.daum.net/v/20230831202856896</id>
-        <link href="https://v.daum.net/v/20230831202856896"/>
-        <updated>2023-08-31T12:28:03.273Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:28</span>]]></content>
     </entry>
 </feed>
