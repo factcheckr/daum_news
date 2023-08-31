@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-08-31T09:19:46.335Z</updated>
+    <updated>2023-08-31T10:18:21.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[용인 풍덕천동 수지현대아파트 84㎡ 7억9500만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230831183537654</id>
+        <link href="https://v.daum.net/v/20230831183537654"/>
+        <updated>2023-08-31T10:18:20.282Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:35</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[용인 성복동 성복역 롯데캐슬 골드타운 84㎡ 11억4500만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230831183101539</id>
+        <link href="https://v.daum.net/v/20230831183101539"/>
+        <updated>2023-08-31T10:18:20.284Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:31</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[용인 동천동 동천마을현대2차홈타운 84㎡ 8억3200만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230831182546412</id>
+        <link href="https://v.daum.net/v/20230831182546412"/>
+        <updated>2023-08-31T10:18:20.285Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:25</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[용인 지곡동 자봉마을써니밸리 114㎡ 3억6900만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230831182040276</id>
+        <link href="https://v.daum.net/v/20230831182040276"/>
+        <updated>2023-08-31T10:18:20.287Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:20</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성남 신흥동 산성역 포레스티아 아파트  74㎡ 10억5000만원에 거래]]></title>
         <id>https://v.daum.net/v/20230831181535145</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230831173117641"/>
         <updated>2023-08-31T09:19:45.543Z</updated>
         <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">17:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용인 신갈동 신흥덕 롯데캐슬레이시티 59㎡ 5억2800만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230831173040617</id>
-        <link href="https://v.daum.net/v/20230831173040617"/>
-        <updated>2023-08-31T09:19:45.546Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성남 정자동 정자한솔마을주공5차 41㎡ 7억5000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230831172538404</id>
-        <link href="https://v.daum.net/v/20230831172538404"/>
-        <updated>2023-08-31T09:19:45.554Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하남 망월동 하남미사강변부영아파트 84㎡ 8억9000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230831172115295</id>
-        <link href="https://v.daum.net/v/20230831172115295"/>
-        <updated>2023-08-31T09:19:45.556Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용인 성복동 성동마을 엘지빌리지3차 204㎡ 9억원에 거래]]></title>
-        <id>https://v.daum.net/v/20230831171544097</id>
-        <link href="https://v.daum.net/v/20230831171544097"/>
-        <updated>2023-08-31T08:20:51.917Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:15</span>]]></content>
     </entry>
 </feed>
