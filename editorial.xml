@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-31T04:18:46.307Z</updated>
+    <updated>2023-08-31T05:15:11.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1일/[WEEKLY BIZ] 2면, 골드만삭스 인턴 되기가 하버드 입학보다 어렵다?]]></title>
+        <id>https://v.daum.net/v/20230831140040160</id>
+        <link href="https://v.daum.net/v/20230831140040160"/>
+        <updated>2023-08-31T05:14:47.657Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[만평] 오토리버스]]></title>
+        <id>https://v.daum.net/v/20230831140007105</id>
+        <link href="https://v.daum.net/v/20230831140007105"/>
+        <updated>2023-08-31T05:14:47.657Z</updated>
+        <content type="html"><![CDATA[오마이뉴스<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부고] 김대돈(KB증권 전략기획부 이사대우)씨 모친상]]></title>
         <id>https://v.daum.net/v/20230831131444518</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230831112749046"/>
         <updated>2023-08-31T03:16:00.596Z</updated>
         <content type="html"><![CDATA[대구MBC<span class="txt_bar"> · </span><span class="info_time">11:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국을 겨냥한 미국의 경제전쟁 [제프리 삭스의 The New World Economy]]]></title>
-        <id>https://v.daum.net/v/20230831112742037</id>
-        <link href="https://v.daum.net/v/20230831112742037"/>
-        <updated>2023-08-31T03:16:00.599Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데일리안 시사만평] 지금이 이럴때인가?…홍범도 독립군에 공산당 '논란속' 흉상 이전?]]></title>
-        <id>https://v.daum.net/v/20230831111251061</id>
-        <link href="https://v.daum.net/v/20230831111251061"/>
-        <updated>2023-08-31T02:22:09.364Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">11:12</span>]]></content>
     </entry>
 </feed>
