@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-08-31T22:14:23.782Z</updated>
+    <updated>2023-08-31T23:16:59.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[시시비비]새만금 토지는 사라지지 않는다]]></title>
+        <title type="html"><![CDATA[[김대호 박사의 오늘의 키워드] PCE 역주행·시진핑 G20 불참·브릭스 R5·택시 기본요금·간토대지진]]></title>
+        <id>https://v.daum.net/v/20230901072222155</id>
+        <link href="https://v.daum.net/v/20230901072222155"/>
+        <updated>2023-08-31T23:16:35.029Z</updated>
+        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">07:22</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[시시비비]새만금, 어쩌면 그냥 두는 것이 '빅 픽처']]></title>
         <id>https://v.daum.net/v/20230901070156942</id>
         <link href="https://v.daum.net/v/20230901070156942"/>
         <updated>2023-08-31T22:14:00.019Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230901060038086"/>
         <updated>2023-08-31T21:13:54.045Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Robert J. Fouser] S. Korea and Japan after Camp David]]></title>
-        <id>https://v.daum.net/v/20230901053114558</id>
-        <link href="https://v.daum.net/v/20230901053114558"/>
-        <updated>2023-08-31T21:13:54.047Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:31</span>]]></content>
     </entry>
 </feed>
