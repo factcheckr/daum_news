@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/sports</id>
     <title>다음 뉴스 ─ 전체기사 ─ 스포츠</title>
-    <updated>2023-09-01T17:15:09.058Z</updated>
+    <updated>2023-09-01T18:18:11.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[토트넘, ATM 제안 거절...호이비에르, '잔류' 유력]]></title>
+        <id>https://v.daum.net/v/20230902030002549</id>
+        <link href="https://v.daum.net/v/20230902030002549"/>
+        <updated>2023-09-01T18:17:19.438Z</updated>
+        <content type="html"><![CDATA[포포투<span class="txt_bar"> · </span><span class="info_time">03:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[의형제 재결합? 프로파, 샌디에이고와 마이너 계약]]></title>
+        <id>https://v.daum.net/v/20230902021500527</id>
+        <link href="https://v.daum.net/v/20230902021500527"/>
+        <updated>2023-09-01T18:17:19.459Z</updated>
+        <content type="html"><![CDATA[MK스포츠<span class="txt_bar"> · </span><span class="info_time">02:15</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['황당' 팔리냐, 바이에른 메디컬 테스트까지 마쳤는데 영입 무산으로 풀럼 복귀]]></title>
         <id>https://v.daum.net/v/20230902020707518</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230902012204318"/>
         <updated>2023-09-01T17:14:15.612Z</updated>
         <content type="html"><![CDATA[스포티비뉴스<span class="txt_bar"> · </span><span class="info_time">01:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Ms포토] 유경민 '칩 인 버디를 노린다']]></title>
-        <id>https://v.daum.net/v/20230902012003312</id>
-        <link href="https://v.daum.net/v/20230902012003312"/>
-        <updated>2023-09-01T17:14:15.614Z</updated>
-        <content type="html"><![CDATA[MHN스포츠<span class="txt_bar"> · </span><span class="info_time">01:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘장딴지 경련’ 팀 훈련 불참한 김민재, 투헬은 묀헨글라트바흐전 출전 기대 “의료팀이 파란불 신호줄 것”]]></title>
-        <id>https://v.daum.net/v/20230902011800308</id>
-        <link href="https://v.daum.net/v/20230902011800308"/>
-        <updated>2023-09-01T16:19:26.504Z</updated>
-        <content type="html"><![CDATA[MK스포츠<span class="txt_bar"> · </span><span class="info_time">01:18</span>]]></content>
     </entry>
 </feed>
