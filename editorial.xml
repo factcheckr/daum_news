@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-09-01T04:19:07.629Z</updated>
+    <updated>2023-09-01T05:15:28.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[양경미의 영화로 보는 세상] 외모지상주의에 대한 경종]]></title>
+        <id>https://v.daum.net/v/20230901140159100</id>
+        <link href="https://v.daum.net/v/20230901140159100"/>
+        <updated>2023-09-01T05:15:01.975Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">14:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](1일 석간)]]></title>
+        <id>https://v.daum.net/v/20230901140006042</id>
+        <link href="https://v.daum.net/v/20230901140006042"/>
+        <updated>2023-09-01T05:15:01.975Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[기고] 중기 공급망 관리 '법률 준수'에서 출발]]></title>
+        <id>https://v.daum.net/v/20230901132741124</id>
+        <link href="https://v.daum.net/v/20230901132741124"/>
+        <updated>2023-09-01T05:15:01.975Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">13:27</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[논단]AI의 창의력, 견제 말고 활용하자]]></title>
         <id>https://v.daum.net/v/20230901131039798</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230901113615702"/>
         <updated>2023-09-01T03:16:38.022Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9월은 모두를 위한 ‘직업능력의 달’[문화논단]]]></title>
-        <id>https://v.daum.net/v/20230901113012423</id>
-        <link href="https://v.daum.net/v/20230901113012423"/>
-        <updated>2023-09-01T03:16:38.023Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 취임 1년 성찰 대신 단식카드 이재명, 국민공감 얻겠나]]></title>
-        <id>https://v.daum.net/v/20230901112158044</id>
-        <link href="https://v.daum.net/v/20230901112158044"/>
-        <updated>2023-09-01T02:25:40.839Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 추석 연휴 6일 확정, 내수 경기 진작 기폭제 되도록]]></title>
-        <id>https://v.daum.net/v/20230901112101995</id>
-        <link href="https://v.daum.net/v/20230901112101995"/>
-        <updated>2023-09-01T02:25:40.845Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:21</span>]]></content>
     </entry>
 </feed>
