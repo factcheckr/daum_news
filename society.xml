@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/society</id>
     <title>다음 뉴스 ─ 전체기사 ─ 사회</title>
-    <updated>2023-09-02T18:17:31.793Z</updated>
+    <updated>2023-09-02T19:12:02.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘의 날씨] 부산·경남(3일, 일)…비 최대 120㎜, 낮 최고 31도]]></title>
+        <id>https://v.daum.net/v/20230903040101651</id>
+        <link href="https://v.daum.net/v/20230903040101651"/>
+        <updated>2023-09-02T19:10:31.507Z</updated>
+        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">04:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전국 흐리고 제주·남부엔 빗줄기…낮 최고 31도[오늘날씨]]]></title>
+        <id>https://v.daum.net/v/20230903040013649</id>
+        <link href="https://v.daum.net/v/20230903040013649"/>
+        <updated>2023-09-02T19:10:31.508Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천 흐리고 가끔 비…낮 최고 29도 '늦더위' 지속]]></title>
+        <id>https://v.daum.net/v/20230903040012648</id>
+        <link href="https://v.daum.net/v/20230903040012648"/>
+        <updated>2023-09-02T19:10:31.510Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["왜 시끄럽게 해"…70대 환자 입에 테이프 붙인 간병인, 징역 6개월]]></title>
         <id>https://v.daum.net/v/20230903031040620</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230903013408447"/>
         <updated>2023-09-02T17:11:32.389Z</updated>
         <content type="html"><![CDATA[MBC<span class="txt_bar"> · </span><span class="info_time">01:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무주반딧불축제]]></title>
-        <id>https://v.daum.net/v/20230903005233314</id>
-        <link href="https://v.daum.net/v/20230903005233314"/>
-        <updated>2023-09-02T16:16:16.980Z</updated>
-        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">00:52</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무주반딧불축제]]></title>
-        <id>https://v.daum.net/v/20230903005225313</id>
-        <link href="https://v.daum.net/v/20230903005225313"/>
-        <updated>2023-09-02T16:16:16.986Z</updated>
-        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">00:52</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금천구 독산동 5층 다세대주택 불‥ 70대 여성 심정지 이송]]></title>
-        <id>https://v.daum.net/v/20230903005208312</id>
-        <link href="https://v.daum.net/v/20230903005208312"/>
-        <updated>2023-09-02T16:16:16.990Z</updated>
-        <content type="html"><![CDATA[MBC<span class="txt_bar"> · </span><span class="info_time">00:52</span>]]></content>
     </entry>
 </feed>
