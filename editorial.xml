@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-09-02T11:13:03.210Z</updated>
+    <updated>2023-09-02T12:25:39.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주간 돌발영상] 9월 첫째 주]]></title>
+        <id>https://v.daum.net/v/20230902205218060</id>
+        <link href="https://v.daum.net/v/20230902205218060"/>
+        <updated>2023-09-02T12:25:14.453Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">20:52</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[IFA 2023] IFA에서도 '러브 디지털, 체인지 코리아']]></title>
         <id>https://v.daum.net/v/20230902185403095</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230902070010948"/>
         <updated>2023-09-01T22:14:30.867Z</updated>
         <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정여울의 언어정담]교사에게도 교사가 필요하다]]></title>
-        <id>https://v.daum.net/v/20230902060056283</id>
-        <link href="https://v.daum.net/v/20230902060056283"/>
-        <updated>2023-09-01T21:14:05.077Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
     </entry>
 </feed>
