@@ -2,11 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-09-02T04:17:32.857Z</updated>
+    <updated>2023-09-02T05:14:18.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[인턴 H가 간다]로봇 주방장이 만드는 햄버거]]></title>
+        <title type="html"><![CDATA[‘살인면허’까지 탑재되나…‘인공지능(AI) 전투 드론’ 떴다]]></title>
+        <id>https://v.daum.net/v/20230902140012171</id>
+        <link href="https://v.daum.net/v/20230902140012171"/>
+        <updated>2023-09-02T05:13:50.094Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 조향사·요리사까지 나올까…수십가지 냄새 정확히 구별[사이언스 PICK]]]></title>
+        <id>https://v.daum.net/v/20230902140011170</id>
+        <link href="https://v.daum.net/v/20230902140011170"/>
+        <updated>2023-09-02T05:13:50.095Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“‘묻지마 살인’도 미리 막을 수 있다니” 깜짝 놀랄 신기술이 나왔다]]></title>
+        <id>https://v.daum.net/v/20230902135037072</id>
+        <link href="https://v.daum.net/v/20230902135037072"/>
+        <updated>2023-09-02T05:13:50.105Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">13:50</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['블록체인 대가' 위메이드, 싱가포르 개발사 모주(MOZOO)와 게임 2종 온보딩 계약 체결]]></title>
+        <id>https://v.daum.net/v/20230902133005928</id>
+        <link href="https://v.daum.net/v/20230902133005928"/>
+        <updated>2023-09-02T05:13:50.106Z</updated>
+        <content type="html"><![CDATA[MHN스포츠<span class="txt_bar"> · </span><span class="info_time">13:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삼성폰 뜬금 저격한 中아너…"갤럭시보다 얇고 가볍다"]]></title>
+        <id>https://v.daum.net/v/20230902132323873</id>
+        <link href="https://v.daum.net/v/20230902132323873"/>
+        <updated>2023-09-02T05:13:50.112Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">13:23</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[광고 없는 페북·인스타? 유럽서 출시 검토]]></title>
+        <id>https://v.daum.net/v/20230902131811845</id>
+        <link href="https://v.daum.net/v/20230902131811845"/>
+        <updated>2023-09-02T05:13:50.114Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">13:18</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인턴 H가 간다] 로봇 주방장이 만드는 햄버거]]></title>
         <id>https://v.daum.net/v/20230902130005607</id>
         <link href="https://v.daum.net/v/20230902130005607"/>
         <updated>2023-09-02T04:17:03.837Z</updated>
@@ -67,47 +109,5 @@
         <link href="https://v.daum.net/v/20230902105921402"/>
         <updated>2023-09-02T02:18:05.444Z</updated>
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">10:59</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글, 뉴스 사용료 1천억원 이상 낼 판...페북은 '버티기']]></title>
-        <id>https://v.daum.net/v/20230902103045137</id>
-        <link href="https://v.daum.net/v/20230902103045137"/>
-        <updated>2023-09-02T01:45:36.162Z</updated>
-        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">10:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['유저 제공용' 넥슨캐시 4억원치 횡령 넥슨, 유사 범죄만 '4년 새 3회']]></title>
-        <id>https://v.daum.net/v/20230902103008120</id>
-        <link href="https://v.daum.net/v/20230902103008120"/>
-        <updated>2023-09-02T01:45:36.166Z</updated>
-        <content type="html"><![CDATA[MHN스포츠<span class="txt_bar"> · </span><span class="info_time">10:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[챗GPT로 매출 35배 ↑···수익화 시동 거는 오픈AI[AI토피아]]]></title>
-        <id>https://v.daum.net/v/20230902102252026</id>
-        <link href="https://v.daum.net/v/20230902102252026"/>
-        <updated>2023-09-02T01:45:36.176Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">10:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유럽선 광고 없는 페북·인스타 보나···WP “메타, 유료 버전 고려”]]></title>
-        <id>https://v.daum.net/v/20230902100435833</id>
-        <link href="https://v.daum.net/v/20230902100435833"/>
-        <updated>2023-09-02T01:45:36.179Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">10:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['유료 구독' 페북·인스타 나올까...유럽서 검토 중]]></title>
-        <id>https://v.daum.net/v/20230902095820724</id>
-        <link href="https://v.daum.net/v/20230902095820724"/>
-        <updated>2023-09-02T00:58:42.405Z</updated>
-        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">09:58</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英 arm IPO에 삼성전자·애플 등 참여…"최대 1억달러 투자"]]></title>
-        <id>https://v.daum.net/v/20230902092014359</id>
-        <link href="https://v.daum.net/v/20230902092014359"/>
-        <updated>2023-09-02T00:58:42.407Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">09:20</span>]]></content>
     </entry>
 </feed>
