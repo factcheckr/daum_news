@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-09-02T05:14:18.249Z</updated>
+    <updated>2023-09-02T06:17:53.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서로 핵공격을 공언하는 남·북, 미래 후손들은 어떻게 생각할까]]></title>
+        <id>https://v.daum.net/v/20230902150504744</id>
+        <link href="https://v.daum.net/v/20230902150504744"/>
+        <updated>2023-09-02T06:17:34.644Z</updated>
+        <content type="html"><![CDATA[미디어오늘<span class="txt_bar"> · </span><span class="info_time">15:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아리아 디 카이아로사, 최고급 올리브유 생산지에서 와이너리로 [고재윤의 스토리가 있는 와인]]]></title>
         <id>https://v.daum.net/v/20230902130308667</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230902043211793"/>
         <updated>2023-09-01T20:15:51.089Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 선거 기득권 또 짬짜미 하려는 거대 양당]]></title>
-        <id>https://v.daum.net/v/20230902043148788</id>
-        <link href="https://v.daum.net/v/20230902043148788"/>
-        <updated>2023-09-01T20:15:51.090Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:31</span>]]></content>
     </entry>
 </feed>
