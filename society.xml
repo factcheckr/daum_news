@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/society</id>
     <title>다음 뉴스 ─ 전체기사 ─ 사회</title>
-    <updated>2023-09-03T16:19:22.328Z</updated>
+    <updated>2023-09-03T17:14:24.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[GH, 'GH 공공건축가' 위촉…설계자문회의 개최]]></title>
+        <id>https://v.daum.net/v/20230904015607699</id>
+        <link href="https://v.daum.net/v/20230904015607699"/>
+        <updated>2023-09-03T17:12:45.639Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">01:56</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공정위, 제주 LPG 충전사업자 담합 행위 적발... 과징금, 고발조치]]></title>
+        <id>https://v.daum.net/v/20230904015552698</id>
+        <link href="https://v.daum.net/v/20230904015552698"/>
+        <updated>2023-09-03T17:12:45.644Z</updated>
+        <content type="html"><![CDATA[프레시안<span class="txt_bar"> · </span><span class="info_time">01:55</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“환전하겠다”… 1억2000만원 들고 달아난 중국인 구속]]></title>
         <id>https://v.daum.net/v/20230904010729641</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230904010203615"/>
         <updated>2023-09-03T16:17:59.682Z</updated>
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[게임·응급구조 등 유망학과 6개 신설 [수시특집]]]></title>
-        <id>https://v.daum.net/v/20230904010202614</id>
-        <link href="https://v.daum.net/v/20230904010202614"/>
-        <updated>2023-09-03T16:17:59.684Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[학교추천·학업우수 중복지원 불가… 모두 대면 면접 [수시특집]]]></title>
-        <id>https://v.daum.net/v/20230904010158613</id>
-        <link href="https://v.daum.net/v/20230904010158613"/>
-        <updated>2023-09-03T16:17:59.687Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:01</span>]]></content>
     </entry>
 </feed>
