@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-09-03T22:13:46.232Z</updated>
+    <updated>2023-09-03T23:14:41.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이窓]기후테크 육성·탄소중립 실현을 위한 선결조건]]></title>
+        <id>https://v.daum.net/v/20230904073002078</id>
+        <link href="https://v.daum.net/v/20230904073002078"/>
+        <updated>2023-09-03T23:14:23.876Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">07:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[데스크의 눈]서동요의 불순한 의도]]></title>
         <id>https://v.daum.net/v/20230904070649858</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230904060023007"/>
         <updated>2023-09-03T21:14:28.071Z</updated>
         <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[우보세]전기차 보조금 삭감이 아쉬운 이유]]></title>
-        <id>https://v.daum.net/v/20230904055003916</id>
-        <link href="https://v.daum.net/v/20230904055003916"/>
-        <updated>2023-09-03T21:14:28.076Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">05:50</span>]]></content>
     </entry>
 </feed>
