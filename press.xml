@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-09-03T18:17:19.546Z</updated>
+    <updated>2023-09-03T19:12:13.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[대입 내비게이션 2024 수시 특집] 모든 전형에서 학생부 교과와 비교과 반영]]></title>
+        <id>https://v.daum.net/v/20230904040430177</id>
+        <link href="https://v.daum.net/v/20230904040430177"/>
+        <updated>2023-09-03T19:12:04.712Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">04:04</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[건강한 가족] “채소 덜 먹는 젊은층, 세포 활성화하는 미량 영양소 보충 필요”]]></title>
         <id>https://v.daum.net/v/20230904001019442</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230904000941422</id>
         <link href="https://v.daum.net/v/20230904000941422"/>
         <updated>2023-09-03T15:14:41.801Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대입 내비게이션] 모든 전형에서 수능최저학력기준 완화…자연계열은 과탐 반영 시 중복 선택 가능]]></title>
-        <id>https://v.daum.net/v/20230904000937421</id>
-        <link href="https://v.daum.net/v/20230904000937421"/>
-        <updated>2023-09-03T15:14:41.803Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:09</span>]]></content>
     </entry>
 </feed>
