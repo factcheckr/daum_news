@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-09-04T13:19:35.705Z</updated>
+    <updated>2023-09-04T14:16:29.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[위험관리·보안평가 최신 동향 공유···정보보호학회 행사 21일 열려]]></title>
+        <id>https://v.daum.net/v/20230904223615017</id>
+        <link href="https://v.daum.net/v/20230904223615017"/>
+        <updated>2023-09-04T14:16:02.995Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">22:36</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[달 우주 환경 모니터 ‘루셈(LUSEM)’ 미국으로 이송]]></title>
         <id>https://v.daum.net/v/20230904220927797</id>
@@ -34,7 +41,7 @@
         <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">22:02</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["넷플릭스였다면 '오겜'급"…입소문 탄 '무빙' 원작자 속내는]]></title>
+        <title type="html"><![CDATA["넷플릭스였다면 '오겜'급인데…" 입소문 타더니 '탄식' 쏟아졌다]]></title>
         <id>https://v.daum.net/v/20230904220102687</id>
         <link href="https://v.daum.net/v/20230904220102687"/>
         <updated>2023-09-04T13:19:08.200Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230904203900724"/>
         <updated>2023-09-04T12:29:44.244Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">20:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[발전 눈부신 기계번역…지나친 의존에 역효과도]]></title>
-        <id>https://v.daum.net/v/20230904202701577</id>
-        <link href="https://v.daum.net/v/20230904202701577"/>
-        <updated>2023-09-04T12:29:44.246Z</updated>
-        <content type="html"><![CDATA[IT동아<span class="txt_bar"> · </span><span class="info_time">20:27</span>]]></content>
     </entry>
 </feed>
