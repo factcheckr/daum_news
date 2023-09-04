@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-09-04T03:18:21.675Z</updated>
+    <updated>2023-09-04T04:18:59.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[기고]경유 승용차 퇴출해야]]></title>
+        <id>https://v.daum.net/v/20230904122309494</id>
+        <link href="https://v.daum.net/v/20230904122309494"/>
+        <updated>2023-09-04T04:18:33.920Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">12:23</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[논단]중국의 경제위기를 보는 시각]]></title>
         <id>https://v.daum.net/v/20230904121723406</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230904111324404</id>
         <link href="https://v.daum.net/v/20230904111324404"/>
         <updated>2023-09-04T02:21:57.496Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 中 의존·고령화로 역성장 獨...닮은꼴 韓에 반면교사]]></title>
-        <id>https://v.daum.net/v/20230904111301376</id>
-        <link href="https://v.daum.net/v/20230904111301376"/>
-        <updated>2023-09-04T02:21:57.498Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:13</span>]]></content>
     </entry>
 </feed>
