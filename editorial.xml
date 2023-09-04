@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-09-04T12:30:14.440Z</updated>
+    <updated>2023-09-04T13:19:35.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 9월 5일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20230904220203699</id>
+        <link href="https://v.daum.net/v/20230904220203699"/>
+        <updated>2023-09-04T13:19:17.157Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[국민만평-서민호 화백] 2023년 9월 5일]]></title>
         <id>https://v.daum.net/v/20230904210906117</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230904202209529"/>
         <updated>2023-09-04T12:29:54.215Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A strange war of nerves]]></title>
-        <id>https://v.daum.net/v/20230904202050498</id>
-        <link href="https://v.daum.net/v/20230904202050498"/>
-        <updated>2023-09-04T12:29:54.217Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:20</span>]]></content>
     </entry>
 </feed>
