@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-09-06T12:28:36.842Z</updated>
+    <updated>2023-09-06T13:20:17.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[솔유, Eviation의 전기항공기 엘리스 25대 구매 계약]]></title>
+        <id>https://v.daum.net/v/20230906220704110</id>
+        <link href="https://v.daum.net/v/20230906220704110"/>
+        <updated>2023-09-06T13:20:08.981Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">22:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['테러 공포' 지하철 연일 대피 소동…대응법은?]]></title>
+        <id>https://v.daum.net/v/20230906214946684</id>
+        <link href="https://v.daum.net/v/20230906214946684"/>
+        <updated>2023-09-06T13:20:08.982Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">21:49</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] APPIIT held in the city of Zhumadian, Henan, China]]></title>
         <id>https://v.daum.net/v/20230906205243745</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230906175205768"/>
         <updated>2023-09-06T09:15:29.837Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">17:52</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[㈜엘유엘코리아, 에이치앤씨모빌리티(주) 사업 합작 체결]]></title>
-        <id>https://v.daum.net/v/20230906175044695</id>
-        <link href="https://v.daum.net/v/20230906175044695"/>
-        <updated>2023-09-06T09:15:29.838Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">17:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] Xinhua Silk Road: Quanzhou injects new vitality to World Heritage]]></title>
-        <id>https://v.daum.net/v/20230906174952672</id>
-        <link href="https://v.daum.net/v/20230906174952672"/>
-        <updated>2023-09-06T09:15:29.840Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:49</span>]]></content>
     </entry>
 </feed>
