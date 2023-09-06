@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2023-09-06T18:19:43.385Z</updated>
+    <updated>2023-09-06T19:13:03.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[프리즈·키아프 손잡은 아시아 최대 아트페어 두 번째 막 올라]]></title>
+        <id>https://v.daum.net/v/20230907040439709</id>
+        <link href="https://v.daum.net/v/20230907040439709"/>
+        <updated>2023-09-06T19:12:08.135Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:04</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[가정예배 365-9월 7일] 제자를 부르심]]></title>
         <id>https://v.daum.net/v/20230907030912611</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230907030413543"/>
         <updated>2023-09-06T18:18:32.795Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">03:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[발달장애 화가가 그린 세상 전시… 광림교회 뜻깊은 70돌]]></title>
-        <id>https://v.daum.net/v/20230907030322497</id>
-        <link href="https://v.daum.net/v/20230907030322497"/>
-        <updated>2023-09-06T18:18:32.797Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">03:03</span>]]></content>
     </entry>
 </feed>
