@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-09-06T01:57:35.175Z</updated>
+    <updated>2023-09-06T02:21:11.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[논단]저출산 문제, 보이지 않는 해결책]]></title>
+        <id>https://v.daum.net/v/20230906110126739</id>
+        <link href="https://v.daum.net/v/20230906110126739"/>
+        <updated>2023-09-06T02:20:55.718Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[칼럼]국방부 장관의 내로남불]]></title>
+        <id>https://v.daum.net/v/20230906110001584</id>
+        <link href="https://v.daum.net/v/20230906110001584"/>
+        <updated>2023-09-06T02:20:55.724Z</updated>
+        <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">11:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[초동시각]종투사 10년, 여전히 먼 글로벌 IB]]></title>
         <id>https://v.daum.net/v/20230906103102284</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20230906070011239</id>
         <link href="https://v.daum.net/v/20230906070011239"/>
         <updated>2023-09-05T22:14:02.584Z</updated>
-        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전문인칼럼] 사전증여의 역습]]></title>
-        <id>https://v.daum.net/v/20230906070009234</id>
-        <link href="https://v.daum.net/v/20230906070009234"/>
-        <updated>2023-09-05T22:14:02.593Z</updated>
-        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한밭춘추] 몽골, 올 여름 나의 커렌시아]]></title>
-        <id>https://v.daum.net/v/20230906070008230</id>
-        <link href="https://v.daum.net/v/20230906070008230"/>
-        <updated>2023-09-05T22:14:02.593Z</updated>
         <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
     </entry>
 </feed>
