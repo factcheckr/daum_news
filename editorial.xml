@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-09-07T12:29:06.693Z</updated>
+    <updated>2023-09-07T13:19:32.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기후위기와 일상의 '밀당' [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20230907220008686</id>
+        <link href="https://v.daum.net/v/20230907220008686"/>
+        <updated>2023-09-07T13:19:10.535Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023년 9월 8일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20230907213751274</id>
+        <link href="https://v.daum.net/v/20230907213751274"/>
+        <updated>2023-09-07T13:19:10.535Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">21:37</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설]‘사형·폐간’ 겁박하며 언론 옥죄는 당정, 지금 유신 때인가]]></title>
         <id>https://v.daum.net/v/20230907205926533</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230907200820186"/>
         <updated>2023-09-07T11:14:20.477Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[녹색세상] ‘기후고통’ 해소할 마법은 없다]]></title>
-        <id>https://v.daum.net/v/20230907200817184</id>
-        <link href="https://v.daum.net/v/20230907200817184"/>
-        <updated>2023-09-07T11:14:20.479Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이광표의 근대를 건너는 법] 책 향기도, 시위학생도 품던 종로서적]]></title>
-        <id>https://v.daum.net/v/20230907200503100</id>
-        <link href="https://v.daum.net/v/20230907200503100"/>
-        <updated>2023-09-07T11:14:20.483Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:05</span>]]></content>
     </entry>
 </feed>
