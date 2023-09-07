@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-09-07T10:19:06.738Z</updated>
+    <updated>2023-09-07T11:14:45.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Infosys Research Unveiled Important Finding]]></title>
+        <id>https://v.daum.net/v/20230907194823600</id>
+        <link href="https://v.daum.net/v/20230907194823600"/>
+        <updated>2023-09-07T11:14:32.753Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">19:48</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] COP28 UAE Will Host BPCF]]></title>
+        <id>https://v.daum.net/v/20230907194357509</id>
+        <link href="https://v.daum.net/v/20230907194357509"/>
+        <updated>2023-09-07T11:14:32.753Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">19:43</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['중대재해 제로' 김진태 지사 안전보건관리책임자 직무교육 청강]]></title>
         <id>https://v.daum.net/v/20230907190223471</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230907173546808"/>
         <updated>2023-09-07T09:15:56.438Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">17:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울여자대학교 승현우 총장, 마약예방 ‘NO EXIT’ 캠페인 동참]]></title>
-        <id>https://v.daum.net/v/20230907173423778</id>
-        <link href="https://v.daum.net/v/20230907173423778"/>
-        <updated>2023-09-07T09:15:56.441Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">17:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동덕여대 무용전공 학생들, ‘2023 춤&판 고무신춤축제’ 참가]]></title>
-        <id>https://v.daum.net/v/20230907173344757</id>
-        <link href="https://v.daum.net/v/20230907173344757"/>
-        <updated>2023-09-07T09:15:56.442Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">17:33</span>]]></content>
     </entry>
 </feed>
