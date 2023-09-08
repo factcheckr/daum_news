@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-09-08T12:28:46.883Z</updated>
+    <updated>2023-09-08T13:19:19.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가상화폐 비트코인(-0.98%), 히포크랏(+9.8%)]]></title>
+        <id>https://v.daum.net/v/20230908213117934</id>
+        <link href="https://v.daum.net/v/20230908213117934"/>
+        <updated>2023-09-08T13:19:18.721Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">21:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성남 서현동 서현시범한양 35㎡ 7억2700만원에 거래]]></title>
         <id>https://v.daum.net/v/20230908183533972</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230908173314312"/>
         <updated>2023-09-08T09:15:54.422Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:33</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 원천동 광교호반베르디움 59㎡ 7억8000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230908173044229</id>
-        <link href="https://v.daum.net/v/20230908173044229"/>
-        <updated>2023-09-08T09:15:54.424Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
     </entry>
 </feed>
