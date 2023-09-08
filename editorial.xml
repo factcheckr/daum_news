@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-09-08T20:16:08.102Z</updated>
+    <updated>2023-09-08T21:14:26.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우리가 지켜야 할 행복 [ESC]]]></title>
+        <id>https://v.daum.net/v/20230909060502633</id>
+        <link href="https://v.daum.net/v/20230909060502633"/>
+        <updated>2023-09-08T21:14:03.911Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">06:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[신율의 정치난타]민주당 탄핵 주장 제 발등 찍을 것]]></title>
+        <id>https://v.daum.net/v/20230909060032560</id>
+        <link href="https://v.daum.net/v/20230909060032560"/>
+        <updated>2023-09-08T21:14:03.915Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[커피의 참맛, 찬 커피[休·味·樂(휴·미·락)]]]></title>
         <id>https://v.daum.net/v/20230909043202182</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230909031411979"/>
         <updated>2023-09-08T18:18:46.368Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] ‘킬러 문항’ 없이도 변별력 확보, 할 수 있는 일을 왜 안 했나]]></title>
-        <id>https://v.daum.net/v/20230909031214978</id>
-        <link href="https://v.daum.net/v/20230909031214978"/>
-        <updated>2023-09-08T18:18:46.371Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[강천석 칼럼] ‘윤석열 保有 정당’과 ‘이재명 보유 정당’]]></title>
-        <id>https://v.daum.net/v/20230909031125976</id>
-        <link href="https://v.daum.net/v/20230909031125976"/>
-        <updated>2023-09-08T18:18:46.376Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:11</span>]]></content>
     </entry>
 </feed>
