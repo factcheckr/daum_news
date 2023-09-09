@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-09-09T09:14:01.155Z</updated>
+    <updated>2023-09-09T10:15:00.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다리도 못 건너던 공황장애…이젠 해외여행 간다, 의외의 비결]]></title>
+        <id>https://v.daum.net/v/20230909190034026</id>
+        <link href="https://v.daum.net/v/20230909190034026"/>
+        <updated>2023-09-09T10:14:34.749Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">19:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“17만→4만원, 결국 못 버티고 떠난다” ‘국민메신저’ 카카오의 추락]]></title>
+        <id>https://v.daum.net/v/20230909185112927</id>
+        <link href="https://v.daum.net/v/20230909185112927"/>
+        <updated>2023-09-09T10:14:34.751Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">18:51</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안랩, 통합 보안전략 컨퍼런스 ‘안랩 ISF 2023’ 성료]]></title>
         <id>https://v.daum.net/v/20230909181019592</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230909152847421"/>
         <updated>2023-09-09T07:13:17.005Z</updated>
         <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">15:28</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강남 삼성스토어 점령한 메이플 다섯 귀염둥이]]></title>
-        <id>https://v.daum.net/v/20230909152215362</id>
-        <link href="https://v.daum.net/v/20230909152215362"/>
-        <updated>2023-09-09T07:13:17.007Z</updated>
-        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">15:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김경희 시장, SK하이닉스와 동반성장 위한 소통 행보]]></title>
-        <id>https://v.daum.net/v/20230909152212361</id>
-        <link href="https://v.daum.net/v/20230909152212361"/>
-        <updated>2023-09-09T07:13:17.009Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">15:22</span>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-09-09T09:14:01.147Z</updated>
+    <updated>2023-09-09T10:15:00.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[성남 수내동 수내양지마을한양1단지 35㎡ 7억3000만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230909183537799</id>
+        <link href="https://v.daum.net/v/20230909183537799"/>
+        <updated>2023-09-09T10:14:59.618Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:35</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수원 망포동 동수원자이1차 84㎡ 4억9300만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230909183050759</id>
+        <link href="https://v.daum.net/v/20230909183050759"/>
+        <updated>2023-09-09T10:14:59.619Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천 연수동 연수1차시영임 44㎡ 2억800만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230909182547730</id>
+        <link href="https://v.daum.net/v/20230909182547730"/>
+        <updated>2023-09-09T10:14:59.622Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:25</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수원 망포동 동수원자이1차 84㎡ 5억원에 거래]]></title>
+        <id>https://v.daum.net/v/20230909182041688</id>
+        <link href="https://v.daum.net/v/20230909182041688"/>
+        <updated>2023-09-09T10:14:59.627Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:20</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고양 백석동 일산와이시티 59㎡ 7억1000만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230909181535635</id>
+        <link href="https://v.daum.net/v/20230909181535635"/>
+        <updated>2023-09-09T10:14:59.627Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:15</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고양 식사동 위시티일산자이2단지 130㎡ 6억9500만원에 거래]]></title>
         <id>https://v.daum.net/v/20230909181047598</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20230909173041079"/>
         <updated>2023-09-09T09:14:00.418Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하남 학암동 힐스테이트센트럴위례 98㎡ 12억6000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230909172531028</id>
-        <link href="https://v.daum.net/v/20230909172531028"/>
-        <updated>2023-09-09T09:14:00.420Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 동춘동 연수 대우삼환 아파트 90㎡ 3억6200만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230909172045980</id>
-        <link href="https://v.daum.net/v/20230909172045980"/>
-        <updated>2023-09-09T09:14:00.422Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 연수동 연수우성1차 101㎡ 4억5000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230909171535926</id>
-        <link href="https://v.daum.net/v/20230909171535926"/>
-        <updated>2023-09-09T08:17:23.388Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 불로동 불로월드 84㎡ 2억7300만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230909171035855</id>
-        <link href="https://v.daum.net/v/20230909171035855"/>
-        <updated>2023-09-09T08:17:23.388Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 영통동 영통신나무실주공5단지 49㎡ 3억2000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230909170536758</id>
-        <link href="https://v.daum.net/v/20230909170536758"/>
-        <updated>2023-09-09T08:17:23.388Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:05</span>]]></content>
     </entry>
 </feed>
