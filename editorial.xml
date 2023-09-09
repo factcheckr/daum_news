@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-09-09T05:14:05.825Z</updated>
+    <updated>2023-09-09T06:18:17.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미디어 생태계 21가지 질문]]></title>
+        <id>https://v.daum.net/v/20230909150504124</id>
+        <link href="https://v.daum.net/v/20230909150504124"/>
+        <updated>2023-09-09T06:17:56.403Z</updated>
+        <content type="html"><![CDATA[미디어오늘<span class="txt_bar"> · </span><span class="info_time">15:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이재명 출석에 여 "민주투사 코스프레" 야 "정치 수사"]]></title>
         <id>https://v.daum.net/v/20230909132140010</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230909060502633"/>
         <updated>2023-09-08T21:14:03.911Z</updated>
         <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">06:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[신율의 정치난타]민주당 탄핵 주장 제 발등 찍을 것]]></title>
-        <id>https://v.daum.net/v/20230909060032560</id>
-        <link href="https://v.daum.net/v/20230909060032560"/>
-        <updated>2023-09-08T21:14:03.915Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
     </entry>
 </feed>
