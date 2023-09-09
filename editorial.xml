@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-09-08T23:15:51.062Z</updated>
+    <updated>2023-09-09T01:01:41.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](9일 조간)]]></title>
+        <id>https://v.daum.net/v/20230909100004660</id>
+        <link href="https://v.daum.net/v/20230909100004660"/>
+        <updated>2023-09-09T01:01:25.435Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">10:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[몽골 제국의 주자학(朱子學), 한국 문화를 어떻게 바꿨나?]]></title>
+        <id>https://v.daum.net/v/20230909093014339</id>
+        <link href="https://v.daum.net/v/20230909093014339"/>
+        <updated>2023-09-09T01:01:25.438Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">09:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[진실의 '목소리'가 커진다 [D:쇼트 시네마]㊺]]></title>
+        <id>https://v.daum.net/v/20230909090555055</id>
+        <link href="https://v.daum.net/v/20230909090555055"/>
+        <updated>2023-09-09T01:01:25.441Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">09:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[데스크 칼럼] 부동산, 언제까지 통화정책 발목 잡을 건가]]></title>
+        <id>https://v.daum.net/v/20230909082042638</id>
+        <link href="https://v.daum.net/v/20230909082042638"/>
+        <updated>2023-09-09T01:01:25.444Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">08:20</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[김회룡의 시사 TOON]]]></title>
         <id>https://v.daum.net/v/20230909080803549</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230909041205113"/>
         <updated>2023-09-08T19:12:38.103Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[빛과 소금] 기독교 신앙과 이념]]></title>
-        <id>https://v.daum.net/v/20230909040927102</id>
-        <link href="https://v.daum.net/v/20230909040927102"/>
-        <updated>2023-09-08T19:12:38.105Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창] 나의 선생님]]></title>
-        <id>https://v.daum.net/v/20230909040915098</id>
-        <link href="https://v.daum.net/v/20230909040915098"/>
-        <updated>2023-09-08T19:12:38.111Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오후 3시의 헌책방] 책 도둑 천태만상]]></title>
-        <id>https://v.daum.net/v/20230909040417065</id>
-        <link href="https://v.daum.net/v/20230909040417065"/>
-        <updated>2023-09-08T19:12:38.114Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 北 해상 핵 위협 현실화, 철저히 대비해야]]></title>
-        <id>https://v.daum.net/v/20230909040215051</id>
-        <link href="https://v.daum.net/v/20230909040215051"/>
-        <updated>2023-09-08T19:12:38.116Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:02</span>]]></content>
     </entry>
 </feed>
