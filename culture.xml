@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2023-09-10T15:15:29.910Z</updated>
+    <updated>2023-09-10T16:18:34.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘의 운세] 9월 11일 월요일 (음력 7월 27일 /壬申) 띠별 / 생년월일 운세]]></title>
+        <id>https://v.daum.net/v/20230911010130143</id>
+        <link href="https://v.daum.net/v/20230911010130143"/>
+        <updated>2023-09-10T16:17:32.243Z</updated>
+        <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">01:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제니, WWWD ‘올해 영향력 있는 여상 50인’ 선정 [연예뉴스 HOT]]]></title>
+        <id>https://v.daum.net/v/20230911003008048</id>
+        <link href="https://v.daum.net/v/20230911003008048"/>
+        <updated>2023-09-10T16:17:32.244Z</updated>
+        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이 가을의 미스트]]></title>
         <id>https://v.daum.net/v/20230911001005960</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230911000353849"/>
         <updated>2023-09-10T15:14:33.941Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 운세] 2023년 09월 11일 별자리 운세]]></title>
-        <id>https://v.daum.net/v/20230911000302823</id>
-        <link href="https://v.daum.net/v/20230911000302823"/>
-        <updated>2023-09-10T15:14:33.943Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 운세] 2023년 09월 11일 띠별 운세]]></title>
-        <id>https://v.daum.net/v/20230911000300820</id>
-        <link href="https://v.daum.net/v/20230911000300820"/>
-        <updated>2023-09-10T15:14:33.945Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
     </entry>
 </feed>
