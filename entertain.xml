@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2023-09-10T17:13:07.043Z</updated>
+    <updated>2023-09-10T18:18:09.961Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘의 채널A]이영자와 최유라의 특별한 인연]]></title>
+        <id>https://v.daum.net/v/20230911030137313</id>
+        <link href="https://v.daum.net/v/20230911030137313"/>
+        <updated>2023-09-10T18:17:28.035Z</updated>
+        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">03:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['미우새' 김준호, "이 집을 서울로 옮길까요?"…예비 장모 마음 사로잡기 위해 '의욕 과다']]></title>
+        <id>https://v.daum.net/v/20230911022400227</id>
+        <link href="https://v.daum.net/v/20230911022400227"/>
+        <updated>2023-09-10T18:17:28.040Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스<span class="txt_bar"> · </span><span class="info_time">02:24</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미우새' 권오중, "발달 장애 아들 위해 사회복지사 자격증 땄다" 고백]]></title>
         <id>https://v.daum.net/v/20230911020300210</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230911001417992"/>
         <updated>2023-09-10T15:14:43.810Z</updated>
         <content type="html"><![CDATA[OSEN<span class="txt_bar"> · </span><span class="info_time">00:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤계상 "3년 전 뇌동맥류 수술, 이게 내 마지막일 수 있겠다 생각"]]></title>
-        <id>https://v.daum.net/v/20230911000906955</id>
-        <link href="https://v.daum.net/v/20230911000906955"/>
-        <updated>2023-09-10T15:14:43.812Z</updated>
-        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">00:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한혜진, 2주만 체지방 8㎏대 감량 비법…"배고플때 콩물 먹어"]]></title>
-        <id>https://v.daum.net/v/20230911000709941</id>
-        <link href="https://v.daum.net/v/20230911000709941"/>
-        <updated>2023-09-10T15:14:43.813Z</updated>
-        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">00:07</span>]]></content>
     </entry>
 </feed>
