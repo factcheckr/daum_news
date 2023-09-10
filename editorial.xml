@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-09-10T16:18:34.572Z</updated>
+    <updated>2023-09-10T17:13:07.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]카네기의 '남다른 오늘']]></title>
+        <id>https://v.daum.net/v/20230911020503215</id>
+        <link href="https://v.daum.net/v/20230911020503215"/>
+        <updated>2023-09-10T17:12:47.420Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[청계광장]만보걷기 행복학]]></title>
+        <id>https://v.daum.net/v/20230911020303212</id>
+        <link href="https://v.daum.net/v/20230911020303212"/>
+        <updated>2023-09-10T17:12:47.426Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중앙시평] 무당파를 위한 정치]]></title>
         <id>https://v.daum.net/v/20230911004646117</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230911002814041"/>
         <updated>2023-09-10T16:18:16.817Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:28</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아침의 문장]]></title>
-        <id>https://v.daum.net/v/20230911002524034</id>
-        <link href="https://v.daum.net/v/20230911002524034"/>
-        <updated>2023-09-10T16:18:16.819Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시선2035] 생각이 귀해진 시대]]></title>
-        <id>https://v.daum.net/v/20230911002434031</id>
-        <link href="https://v.daum.net/v/20230911002434031"/>
-        <updated>2023-09-10T16:18:16.821Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:24</span>]]></content>
     </entry>
 </feed>
