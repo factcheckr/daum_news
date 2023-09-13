@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-09-13T22:16:26.571Z</updated>
+    <updated>2023-09-13T23:15:23.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국가에 ‘강제’ 종속돼 온 케이팝의 역사 [존중 못받는 케이팝①]]]></title>
+        <id>https://v.daum.net/v/20230914072839842</id>
+        <link href="https://v.daum.net/v/20230914072839842"/>
+        <updated>2023-09-13T23:15:02.396Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:28</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이충재의 인사이트] 유인촌과 이동관, 왜 '최악의 조합'인가]]></title>
         <id>https://v.daum.net/v/20230914071502723</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230914055002645"/>
         <updated>2023-09-13T21:11:54.868Z</updated>
         <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">05:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Lee Kyong-hee] Yoon’s misinformed Red Scare politics]]></title>
-        <id>https://v.daum.net/v/20230914053054550</id>
-        <link href="https://v.daum.net/v/20230914053054550"/>
-        <updated>2023-09-13T21:11:54.869Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
     </entry>
 </feed>
