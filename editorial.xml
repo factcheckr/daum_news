@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-09-13T13:20:17.653Z</updated>
+    <updated>2023-09-13T14:15:56.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[국민만평-서민호 화백] 2023년 9월 14일]]></title>
+        <id>https://v.daum.net/v/20230913222414121</id>
+        <link href="https://v.daum.net/v/20230913222414121"/>
+        <updated>2023-09-13T14:15:28.828Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">22:24</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[K드라마 영어 제목 어떻게 정해질까?]]></title>
         <id>https://v.daum.net/v/20230913214851731</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230913201403537"/>
         <updated>2023-09-13T12:29:15.447Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[역사와 현실] 권력의 횡포 대하는 그들의 방법]]></title>
-        <id>https://v.daum.net/v/20230913201339533</id>
-        <link href="https://v.daum.net/v/20230913201339533"/>
-        <updated>2023-09-13T11:14:05.937Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:13</span>]]></content>
     </entry>
 </feed>
