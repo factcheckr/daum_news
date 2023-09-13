@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2023-09-13T16:19:33.438Z</updated>
+    <updated>2023-09-13T17:14:52.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가을밤 '창덕궁 달빛기행'...외국인 예매 20일부터 온라인 선착순]]></title>
+        <id>https://v.daum.net/v/20230914020605397</id>
+        <link href="https://v.daum.net/v/20230914020605397"/>
+        <updated>2023-09-13T17:13:37.799Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">02:06</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여름인데 냉면보다 마라탕 더 찾았다… 배달앱도 ‘마라탕후루’ 열풍]]></title>
         <id>https://v.daum.net/v/20230914011400340</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230914001102000"/>
         <updated>2023-09-13T15:16:27.968Z</updated>
         <content type="html"><![CDATA[스포츠경향<span class="txt_bar"> · </span><span class="info_time">00:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김지호의 위스키디아] 나 위스키 좋아하네?]]></title>
-        <id>https://v.daum.net/v/20230914000624947</id>
-        <link href="https://v.daum.net/v/20230914000624947"/>
-        <updated>2023-09-13T15:16:27.969Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
     </entry>
 </feed>
