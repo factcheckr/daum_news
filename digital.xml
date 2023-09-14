@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-09-14T13:20:12.385Z</updated>
+    <updated>2023-09-14T14:17:39.238Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["모아 놓은 건 쓰레기, 모이는 게 데이터"]]></title>
+        <id>https://v.daum.net/v/20230914230612549</id>
+        <link href="https://v.daum.net/v/20230914230612549"/>
+        <updated>2023-09-14T14:17:04.011Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">23:06</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[던파 선계 "눈과 귀가 즐거운 신규 스토리"]]></title>
+        <id>https://v.daum.net/v/20230914230332534</id>
+        <link href="https://v.daum.net/v/20230914230332534"/>
+        <updated>2023-09-14T14:17:04.011Z</updated>
+        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">23:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넥슨 ‘퍼스트 디센던트’, 달라진 첫인상과 속도감]]></title>
         <id>https://v.daum.net/v/20230914221200162</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230914202054372"/>
         <updated>2023-09-14T12:28:44.295Z</updated>
         <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">20:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김창섭 디렉터 "리부트, 일반 월드 서로 싸우지 않길 바란다"]]></title>
-        <id>https://v.daum.net/v/20230914202053370</id>
-        <link href="https://v.daum.net/v/20230914202053370"/>
-        <updated>2023-09-14T12:28:44.295Z</updated>
-        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">20:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김기홍 샌즈랩 대표 뉴시스 인터뷰]]></title>
-        <id>https://v.daum.net/v/20230914201828313</id>
-        <link href="https://v.daum.net/v/20230914201828313"/>
-        <updated>2023-09-14T12:28:44.297Z</updated>
-        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">20:18</span>]]></content>
     </entry>
 </feed>
