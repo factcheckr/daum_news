@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-09-15T03:16:56.260Z</updated>
+    <updated>2023-09-15T04:18:27.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[시사컬처]'마스크 걸'이 벗긴 우리 사회의 가면]]></title>
+        <id>https://v.daum.net/v/20230915125747124</id>
+        <link href="https://v.daum.net/v/20230915125747124"/>
+        <updated>2023-09-15T04:18:06.031Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">12:57</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[전문가 칼럼] 우리 바다에는 ‘새끼’ 낳는 물고기가 산다]]></title>
         <id>https://v.daum.net/v/20230915120019898</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230915112629622"/>
         <updated>2023-09-15T02:27:54.374Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기자수첩]금융범죄 미꾸라지 계속 놓치는 검찰]]></title>
-        <id>https://v.daum.net/v/20230915111041041</id>
-        <link href="https://v.daum.net/v/20230915111041041"/>
-        <updated>2023-09-15T02:27:54.374Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:10</span>]]></content>
     </entry>
 </feed>
