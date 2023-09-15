@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-09-15T18:21:12.117Z</updated>
+    <updated>2023-09-15T19:13:06.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['토너먼트 대신 리그로' 대통령배 아마추어 이스포츠 대회, 16일 재개]]></title>
+        <id>https://v.daum.net/v/20230916033004254</id>
+        <link href="https://v.daum.net/v/20230916033004254"/>
+        <updated>2023-09-15T19:12:43.383Z</updated>
+        <content type="html"><![CDATA[MHN스포츠<span class="txt_bar"> · </span><span class="info_time">03:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[롱코비드 원인 규명, 코로나 변이 대응 연구 최전선의 실험동물들]]></title>
         <id>https://v.daum.net/v/20230916031957238</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230916011519975"/>
         <updated>2023-09-15T16:20:30.726Z</updated>
         <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">01:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[항문지문 읽는 변기·시체 코털 세기…기발한 `2023 이그노벨상`]]></title>
-        <id>https://v.daum.net/v/20230916011509974</id>
-        <link href="https://v.daum.net/v/20230916011509974"/>
-        <updated>2023-09-15T16:20:30.729Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">01:15</span>]]></content>
     </entry>
 </feed>
