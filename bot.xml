@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-09-15T09:16:00.616Z</updated>
+    <updated>2023-09-15T10:17:20.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인천 만수동 포레시안 아파트 59㎡ 3억1800만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230915183536810</id>
+        <link href="https://v.daum.net/v/20230915183536810"/>
+        <updated>2023-09-15T10:17:19.765Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:35</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천 송도동 송도글로벌캠퍼스푸르지오 134㎡ 10억3500만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230915183031715</id>
+        <link href="https://v.daum.net/v/20230915183031715"/>
+        <updated>2023-09-15T10:17:19.765Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천 동춘동 연수2차 한양 아파트 84㎡ 3억8400만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230915182536628</id>
+        <link href="https://v.daum.net/v/20230915182536628"/>
+        <updated>2023-09-15T10:17:19.767Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:25</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[용인 상현동 진산마을성원상떼빌아파트 59㎡ 5억3500만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230915182035567</id>
+        <link href="https://v.daum.net/v/20230915182035567"/>
+        <updated>2023-09-15T10:17:19.767Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:20</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[용인 신갈동 신흥덕 롯데캐슬레이시티 59㎡ 5억1040만원에 거래]]></title>
         <id>https://v.daum.net/v/20230915181534480</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230915173046432"/>
         <updated>2023-09-15T09:15:59.561Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 송도동 송도글로벌파크베르디움 74㎡ 7억4500만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230915172539311</id>
-        <link href="https://v.daum.net/v/20230915172539311"/>
-        <updated>2023-09-15T09:15:59.566Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 매탄동 매탄위브하늘채 84㎡ 6억7000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230915172038170</id>
-        <link href="https://v.daum.net/v/20230915172038170"/>
-        <updated>2023-09-15T09:15:59.573Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 송도동 송도 SK VIEW 아파트 84㎡ 7억2000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230915171531048</id>
-        <link href="https://v.daum.net/v/20230915171531048"/>
-        <updated>2023-09-15T08:19:55.802Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 당하동 당하 KCC스위첸 아파트 73㎡ 2억9300만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230915171034922</id>
-        <link href="https://v.daum.net/v/20230915171034922"/>
-        <updated>2023-09-15T08:19:55.804Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:10</span>]]></content>
     </entry>
 </feed>
