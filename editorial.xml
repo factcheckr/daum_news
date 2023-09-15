@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-09-15T05:16:53.374Z</updated>
+    <updated>2023-09-15T06:21:12.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[소득성장 실패 감추려... 文정부, 최소 94차례 통계 조작했다]]></title>
+        <title type="html"><![CDATA["올 여름이 가장 시원한" 시대, 지속가능한 세계는 가능한가?]]></title>
+        <id>https://v.daum.net/v/20230915142714616</id>
+        <link href="https://v.daum.net/v/20230915142714616"/>
+        <updated>2023-09-15T06:20:49.527Z</updated>
+        <content type="html"><![CDATA[프레시안<span class="txt_bar"> · </span><span class="info_time">14:27</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[집값 통계 94차례 조작...장하성·김현미 등 文정부 22명 수사 요청]]></title>
         <id>https://v.daum.net/v/20230915140021777</id>
         <link href="https://v.daum.net/v/20230915140021777"/>
         <updated>2023-09-15T05:16:29.376Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230915113609025"/>
         <updated>2023-09-15T03:16:29.397Z</updated>
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정율성·홍범도 논란과 국가 정체성 위기[문화논단]]]></title>
-        <id>https://v.daum.net/v/20230915113606020</id>
-        <link href="https://v.daum.net/v/20230915113606020"/>
-        <updated>2023-09-15T03:16:29.399Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:36</span>]]></content>
     </entry>
 </feed>
