@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2023-09-15T17:14:34.027Z</updated>
+    <updated>2023-09-15T18:21:12.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김신록, 무빙→유괴의 날까지 맹활약]]></title>
+        <id>https://v.daum.net/v/20230916030030153</id>
+        <link href="https://v.daum.net/v/20230916030030153"/>
+        <updated>2023-09-15T18:20:29.650Z</updated>
+        <content type="html"><![CDATA[TV리포트<span class="txt_bar"> · </span><span class="info_time">03:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘몸짱 스타’ 조은숙 “매일 운동, 몸매 관리 목적은 아냐”[화보]]]></title>
+        <id>https://v.daum.net/v/20230916030010150</id>
+        <link href="https://v.daum.net/v/20230916030010150"/>
+        <updated>2023-09-15T18:20:29.661Z</updated>
+        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">03:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['D.P.2' 배나라, 데뷔 10주년 콘서트 개최...직접 기획·구성·제작]]></title>
         <id>https://v.daum.net/v/20230916020230120</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230916010730937"/>
         <updated>2023-09-15T16:20:11.563Z</updated>
         <content type="html"><![CDATA[MBC연예<span class="txt_bar"> · </span><span class="info_time">01:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['7인의탈출' 황정음, 친딸 정라엘과 서울행…그의 진짜 목적은?]]></title>
-        <id>https://v.daum.net/v/20230916010600936</id>
-        <link href="https://v.daum.net/v/20230916010600936"/>
-        <updated>2023-09-15T16:20:11.565Z</updated>
-        <content type="html"><![CDATA[SBS연예뉴스<span class="txt_bar"> · </span><span class="info_time">01:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인피니트 성규, 건강 전도사 변신 "30대 중반, 체력 한계 실감" ('나혼산')[종합]]]></title>
-        <id>https://v.daum.net/v/20230916010423932</id>
-        <link href="https://v.daum.net/v/20230916010423932"/>
-        <updated>2023-09-15T16:20:11.567Z</updated>
-        <content type="html"><![CDATA[스포츠조선<span class="txt_bar"> · </span><span class="info_time">01:04</span>]]></content>
     </entry>
 </feed>
