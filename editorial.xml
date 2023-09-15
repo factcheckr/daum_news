@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-09-15T20:16:08.478Z</updated>
+    <updated>2023-09-15T21:14:03.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공존의 시대 [ESC]]]></title>
+        <id>https://v.daum.net/v/20230916060501812</id>
+        <link href="https://v.daum.net/v/20230916060501812"/>
+        <updated>2023-09-15T21:13:40.253Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">06:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[데스크 칼럼] ‘K-무리뉴’의 경기를 보며 자본시장 생각하기]]></title>
+        <id>https://v.daum.net/v/20230916060131752</id>
+        <link href="https://v.daum.net/v/20230916060131752"/>
+        <updated>2023-09-15T21:13:40.255Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">06:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[신세돈의 경제통감]민간기업이 이끄는 지방시대]]></title>
+        <id>https://v.daum.net/v/20230916060029705</id>
+        <link href="https://v.daum.net/v/20230916060029705"/>
+        <updated>2023-09-15T21:13:40.257Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[성수동이 로봇 스타트업의 메카 된 이유 [최연진의 IT 프리즘]]]></title>
+        <id>https://v.daum.net/v/20230916060004658</id>
+        <link href="https://v.daum.net/v/20230916060004658"/>
+        <updated>2023-09-15T21:13:40.259Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 감사로 드러난 문 정부 국가통계 왜곡, 엄중히 문책해야]]></title>
         <id>https://v.daum.net/v/20230916043218395</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230916040317304"/>
         <updated>2023-09-15T19:12:51.009Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[文정부 인사들 “시장 더 정확히 보려고, 통계 추가로 더 받아봐”]]></title>
-        <id>https://v.daum.net/v/20230916035727281</id>
-        <link href="https://v.daum.net/v/20230916035727281"/>
-        <updated>2023-09-15T19:12:51.010Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:57</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전화성의 기술창업 Targeting]〈279〉전통문화산업 진흥의 출발지, 오늘전통창업 (1)]]></title>
-        <id>https://v.daum.net/v/20230916033103256</id>
-        <link href="https://v.daum.net/v/20230916033103256"/>
-        <updated>2023-09-15T19:12:51.011Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">03:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 전무후무할 경제 통계 조작 정권, 그 사령탑은 文 청와대였다]]></title>
-        <id>https://v.daum.net/v/20230916032727253</id>
-        <link href="https://v.daum.net/v/20230916032727253"/>
-        <updated>2023-09-15T19:12:51.013Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 결국 국회 유혈 난동까지 벌인 ‘개딸’]]></title>
-        <id>https://v.daum.net/v/20230916032410249</id>
-        <link href="https://v.daum.net/v/20230916032410249"/>
-        <updated>2023-09-15T19:12:51.014Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:24</span>]]></content>
     </entry>
 </feed>
