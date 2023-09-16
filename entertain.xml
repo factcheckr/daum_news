@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2023-09-16T17:13:37.845Z</updated>
+    <updated>2023-09-16T18:18:07.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘마스크걸’ 이한별, 흑백 뚫는 독특 카리스마 [화보]]]></title>
+        <id>https://v.daum.net/v/20230917030007240</id>
+        <link href="https://v.daum.net/v/20230917030007240"/>
+        <updated>2023-09-16T18:17:12.537Z</updated>
+        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">03:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[王문세윤, 상소문 집어 던져…연정훈은 금쪽이가 됐다 (1박2일)]]></title>
         <id>https://v.daum.net/v/20230917020007190</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230917003427024"/>
         <updated>2023-09-16T16:17:33.741Z</updated>
         <content type="html"><![CDATA[OSEN<span class="txt_bar"> · </span><span class="info_time">00:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이상이 "정소민과 연인 아닌 남매 연기하고파"]]></title>
-        <id>https://v.daum.net/v/20230917003330016</id>
-        <link href="https://v.daum.net/v/20230917003330016"/>
-        <updated>2023-09-16T16:17:33.743Z</updated>
-        <content type="html"><![CDATA[TV리포트<span class="txt_bar"> · </span><span class="info_time">00:33</span>]]></content>
     </entry>
 </feed>
