@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-09-16T05:16:01.428Z</updated>
+    <updated>2023-09-16T06:18:33.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[보령 "고혈압·이상지질혈증 신약 임상 3상 승인"]]></title>
+        <id>https://v.daum.net/v/20230916142101904</id>
+        <link href="https://v.daum.net/v/20230916142101904"/>
+        <updated>2023-09-16T06:18:12.753Z</updated>
+        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">14:21</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[애플 쇼크웨이브](31)'칩 여신'이 中 반도체의 빛?]]></title>
         <id>https://v.daum.net/v/20230916111436366</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230916060029705"/>
         <updated>2023-09-15T21:13:40.257Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성수동이 로봇 스타트업의 메카 된 이유 [최연진의 IT 프리즘]]]></title>
-        <id>https://v.daum.net/v/20230916060004658</id>
-        <link href="https://v.daum.net/v/20230916060004658"/>
-        <updated>2023-09-15T21:13:40.259Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
     </entry>
 </feed>
