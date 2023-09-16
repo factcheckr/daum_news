@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-09-16T01:51:14.160Z</updated>
+    <updated>2023-09-16T02:20:45.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[애플 쇼크웨이브](31)'칩 여신'이 中 반도체의 빛?]]></title>
+        <id>https://v.daum.net/v/20230916111436366</id>
+        <link href="https://v.daum.net/v/20230916111436366"/>
+        <updated>2023-09-16T02:20:27.045Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:14</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[홍범도가 본 송평인 칼럼]]></title>
+        <id>https://v.daum.net/v/20230916110520245</id>
+        <link href="https://v.daum.net/v/20230916110520245"/>
+        <updated>2023-09-16T02:20:27.045Z</updated>
+        <content type="html"><![CDATA[미디어오늘<span class="txt_bar"> · </span><span class="info_time">11:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[전국 주요 신문 톱뉴스](16일 조간)]]></title>
         <id>https://v.daum.net/v/20230916100003311</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230916060004658"/>
         <updated>2023-09-15T21:13:40.259Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 감사로 드러난 문 정부 국가통계 왜곡, 엄중히 문책해야]]></title>
-        <id>https://v.daum.net/v/20230916043218395</id>
-        <link href="https://v.daum.net/v/20230916043218395"/>
-        <updated>2023-09-15T20:15:52.186Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] ‘강제노역’ 왜곡 군함도 유네스코 용인… 우리 정부는 뭐했나]]></title>
-        <id>https://v.daum.net/v/20230916043104380</id>
-        <link href="https://v.daum.net/v/20230916043104380"/>
-        <updated>2023-09-15T20:15:52.190Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:31</span>]]></content>
     </entry>
 </feed>
