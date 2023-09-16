@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-09-16T13:17:10.556Z</updated>
+    <updated>2023-09-16T14:13:49.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다시, 4대강 수문 닫는 정부]]></title>
+        <id>https://v.daum.net/v/20230916230147716</id>
+        <link href="https://v.daum.net/v/20230916230147716"/>
+        <updated>2023-09-16T14:13:26.678Z</updated>
+        <content type="html"><![CDATA[프레시안<span class="txt_bar"> · </span><span class="info_time">23:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[운동하다 무릎 ‘뚝’…십자인대 파열 치료법 알려드립니다 [헬스]]]></title>
         <id>https://v.daum.net/v/20230916210312984</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230916060501812"/>
         <updated>2023-09-15T21:13:40.253Z</updated>
         <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">06:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데스크 칼럼] ‘K-무리뉴’의 경기를 보며 자본시장 생각하기]]></title>
-        <id>https://v.daum.net/v/20230916060131752</id>
-        <link href="https://v.daum.net/v/20230916060131752"/>
-        <updated>2023-09-15T21:13:40.255Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">06:01</span>]]></content>
     </entry>
 </feed>
