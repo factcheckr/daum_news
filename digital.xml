@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-09-19T16:20:51.591Z</updated>
+    <updated>2023-09-19T17:15:15.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오산시, 관내 중소기업 대상 '2024년 기업환경 개선사업' 접수]]></title>
+        <id>https://v.daum.net/v/20230920014804507</id>
+        <link href="https://v.daum.net/v/20230920014804507"/>
+        <updated>2023-09-19T17:14:41.301Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">01:48</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['로봇 근간' 부품사 한자리…경쟁력 제고 방안 논의]]></title>
+        <id>https://v.daum.net/v/20230920012211446</id>
+        <link href="https://v.daum.net/v/20230920012211446"/>
+        <updated>2023-09-19T17:14:41.302Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">01:22</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[디즈니 “10년간 놀이공원·크루즈 사업에 80조원 투자”]]></title>
         <id>https://v.daum.net/v/20230920010401397</id>
@@ -95,12 +109,5 @@
         <link href="https://v.daum.net/v/20230920000339911"/>
         <updated>2023-09-19T15:19:10.191Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넌 어느 별에서 왔니?]]></title>
-        <id>https://v.daum.net/v/20230920000117858</id>
-        <link href="https://v.daum.net/v/20230920000117858"/>
-        <updated>2023-09-19T15:19:10.194Z</updated>
-        <content type="html"><![CDATA[엘르<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
     </entry>
 </feed>

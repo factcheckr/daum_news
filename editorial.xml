@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-09-19T16:20:51.589Z</updated>
+    <updated>2023-09-19T17:15:15.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]무대미술가의 눈으로 본 새 민방위복]]></title>
+        <id>https://v.daum.net/v/20230920020202531</id>
+        <link href="https://v.daum.net/v/20230920020202531"/>
+        <updated>2023-09-19T17:14:53.186Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정운찬 칼럼] ‘작은 정부’와 재정준칙에 갇혀서는 안 된다]]></title>
         <id>https://v.daum.net/v/20230920004924339</id>
@@ -34,7 +41,7 @@
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:46</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[임장혁의 시선] ‘엘리트 이균용’에 기대하는 대반전]]></title>
+        <title type="html"><![CDATA[[임장혁의 시선] ‘엘리트 이균용’에 기대하는 반전]]></title>
         <id>https://v.daum.net/v/20230920004423315</id>
         <link href="https://v.daum.net/v/20230920004423315"/>
         <updated>2023-09-19T16:20:31.204Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230920002953164"/>
         <updated>2023-09-19T16:20:31.218Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:29</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[비하인드컷] 봉준호의 심야 문자…‘영화 아버지’ 변희봉]]></title>
-        <id>https://v.daum.net/v/20230920002742157</id>
-        <link href="https://v.daum.net/v/20230920002742157"/>
-        <updated>2023-09-19T16:20:31.220Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:27</span>]]></content>
     </entry>
 </feed>
