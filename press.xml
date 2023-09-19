@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-09-19T11:14:27.109Z</updated>
+    <updated>2023-09-19T13:22:56.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[건강 TALK] 고혈압·당뇨·폐결핵 의심 땐 확진검사 본인부담금 면제]]></title>
+        <id>https://v.daum.net/v/20230919215239418</id>
+        <link href="https://v.daum.net/v/20230919215239418"/>
+        <updated>2023-09-19T13:22:42.983Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">21:52</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남양주시, 예술인 기회소득 신청 접수 시작]]></title>
         <id>https://v.daum.net/v/20230919191333932</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230919173616873"/>
         <updated>2023-09-19T09:16:22.951Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">17:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] TrinaTracker, 스마트 태양광 추적 시스템 수주]]></title>
-        <id>https://v.daum.net/v/20230919173549852</id>
-        <link href="https://v.daum.net/v/20230919173549852"/>
-        <updated>2023-09-19T09:16:22.952Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:35</span>]]></content>
     </entry>
 </feed>
