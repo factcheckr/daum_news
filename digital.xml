@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-09-20T13:20:39.080Z</updated>
+    <updated>2023-09-20T14:16:20.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["항공·방산서 3D 프린터 활용법"…스트라타시스, 내달 포럼 개최]]></title>
+        <id>https://v.daum.net/v/20230920223432318</id>
+        <link href="https://v.daum.net/v/20230920223432318"/>
+        <updated>2023-09-20T14:15:53.015Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">22:34</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전 세계 석학 120여 명 중이온가속기 ‘라온’ 방문]]></title>
         <id>https://v.daum.net/v/20230920220905046</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230920203005305"/>
         <updated>2023-09-20T12:29:27.239Z</updated>
         <content type="html"><![CDATA[MHN스포츠<span class="txt_bar"> · </span><span class="info_time">20:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[음란물·성매매 정보 넘쳐나는 페이스북 인스타그램…모니터링 예산·인력 되레 줄어]]></title>
-        <id>https://v.daum.net/v/20230920202700246</id>
-        <link href="https://v.daum.net/v/20230920202700246"/>
-        <updated>2023-09-20T12:29:27.242Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">20:27</span>]]></content>
     </entry>
 </feed>
