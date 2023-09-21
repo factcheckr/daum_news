@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-09-21T13:20:43.187Z</updated>
+    <updated>2023-09-21T14:15:49.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[세컷칼럼] 특허 받은건 사실이었다..."특허받은 로또 예측" 그 업체의 민낯]]></title>
+        <id>https://v.daum.net/v/20230921230028120</id>
+        <link href="https://v.daum.net/v/20230921230028120"/>
+        <updated>2023-09-21T14:15:26.697Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[벌써 5년이라니! 앞으로 10년은? [삶과 문화]]]></title>
         <id>https://v.daum.net/v/20230921220036293</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230921202448059</id>
         <link href="https://v.daum.net/v/20230921202448059"/>
         <updated>2023-09-21T12:29:20.612Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김학균의 쓰고 달콤한 경제] 미국의 독주가 불안하다]]></title>
-        <id>https://v.daum.net/v/20230921202441056</id>
-        <link href="https://v.daum.net/v/20230921202441056"/>
-        <updated>2023-09-21T12:29:20.614Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:24</span>]]></content>
     </entry>
 </feed>

@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-09-21T13:20:43.131Z</updated>
+    <updated>2023-09-21T14:15:49.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[“2개 사진, 뭐가 낫나요?” 삼성, 새 아이폰 카메라 비교 떴다…충격 결과]]></title>
+        <title type="html"><![CDATA[[겜덕연구소] 또 죽었어?! 극악의 난도로 유저를 빡치게 만드는 회사 '프롬 소프트웨어']]></title>
+        <id>https://v.daum.net/v/20230921222101633</id>
+        <link href="https://v.daum.net/v/20230921222101633"/>
+        <updated>2023-09-21T14:15:14.267Z</updated>
+        <content type="html"><![CDATA[게임동아<span class="txt_bar"> · </span><span class="info_time">22:21</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유명 연예인 ‘아이폰 사진’ 사랑…삼성과 비교 떴다, 충격 결과]]></title>
         <id>https://v.daum.net/v/20230921221628584</id>
         <link href="https://v.daum.net/v/20230921221628584"/>
         <updated>2023-09-21T13:20:06.852Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230921211957451"/>
         <updated>2023-09-21T12:29:09.190Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">21:19</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퍼스트 디센던트 "글로벌 흥행 청신호 켜졌다"]]></title>
-        <id>https://v.daum.net/v/20230921211528307</id>
-        <link href="https://v.daum.net/v/20230921211528307"/>
-        <updated>2023-09-21T12:29:09.191Z</updated>
-        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">21:15</span>]]></content>
     </entry>
 </feed>
