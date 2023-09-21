@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-09-21T07:18:21.758Z</updated>
+    <updated>2023-09-21T08:20:17.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[LG의 오래된 미래]]></title>
+        <id>https://v.daum.net/v/20230921171937131</id>
+        <link href="https://v.daum.net/v/20230921171937131"/>
+        <updated>2023-09-21T08:19:57.875Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">17:19</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[추석 연휴 여기 어때? 숨겨진 제주 가을 탐방길]]></title>
+        <id>https://v.daum.net/v/20230921171301733</id>
+        <link href="https://v.daum.net/v/20230921171301733"/>
+        <updated>2023-09-21T08:19:57.877Z</updated>
+        <content type="html"><![CDATA[베이비뉴스<span class="txt_bar"> · </span><span class="info_time">17:13</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[기고] 노인요양시설의 임차 허용과 문제점]]></title>
+        <id>https://v.daum.net/v/20230921164401244</id>
+        <link href="https://v.daum.net/v/20230921164401244"/>
+        <updated>2023-09-21T08:19:57.878Z</updated>
+        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">16:44</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[GEF 스타트업이야기]스타트업의 참여보상 시스템 '리워드']]></title>
         <id>https://v.daum.net/v/20230921160216378</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230921143836364"/>
         <updated>2023-09-21T06:20:01.820Z</updated>
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">14:38</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남들 6일 쉬는데…추석연휴 7일 쉬겠다는 LH [기업 백브리핑]]]></title>
-        <id>https://v.daum.net/v/20230921140023593</id>
-        <link href="https://v.daum.net/v/20230921140023593"/>
-        <updated>2023-09-21T05:14:47.540Z</updated>
-        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[의학칼럼] 추석 부모님 건강 살필 때, '허리병'부터 관찰해야]]></title>
-        <id>https://v.daum.net/v/20230921135426295</id>
-        <link href="https://v.daum.net/v/20230921135426295"/>
-        <updated>2023-09-21T05:14:47.540Z</updated>
-        <content type="html"><![CDATA[헬스조선<span class="txt_bar"> · </span><span class="info_time">13:54</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[강수돌 칼럼] 자본주의 교육의 낙인효과]]></title>
-        <id>https://v.daum.net/v/20230921135023134</id>
-        <link href="https://v.daum.net/v/20230921135023134"/>
-        <updated>2023-09-21T05:14:47.540Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">13:50</span>]]></content>
     </entry>
 </feed>
