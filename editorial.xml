@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-09-21T16:19:41.577Z</updated>
+    <updated>2023-09-21T17:15:24.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]철학이 시장으로 내려와 즐거움이 되다]]></title>
+        <id>https://v.daum.net/v/20230922020504772</id>
+        <link href="https://v.daum.net/v/20230922020504772"/>
+        <updated>2023-09-21T17:14:58.303Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]블록체인이 이끄는 환경보호 실천운동의 미래]]></title>
+        <id>https://v.daum.net/v/20230922020501771</id>
+        <link href="https://v.daum.net/v/20230922020501771"/>
+        <updated>2023-09-21T17:14:58.306Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중앙시평] 경쟁에서 협력으로]]></title>
         <id>https://v.daum.net/v/20230922005040491</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230922003003370"/>
         <updated>2023-09-21T16:19:22.043Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[글로벌 아이] 내게 불리하면 ‘가짜뉴스’?]]></title>
-        <id>https://v.daum.net/v/20230922002939366</id>
-        <link href="https://v.daum.net/v/20230922002939366"/>
-        <updated>2023-09-21T16:19:22.046Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:29</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 29명 반란표에 무너진 李 '방탄 리더십'…상식의 정치로 돌아갈 때]]></title>
-        <id>https://v.daum.net/v/20230922002804358</id>
-        <link href="https://v.daum.net/v/20230922002804358"/>
-        <updated>2023-09-21T16:19:22.049Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:28</span>]]></content>
     </entry>
 </feed>
