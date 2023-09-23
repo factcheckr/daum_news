@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-09-23T12:26:04.993Z</updated>
+    <updated>2023-09-23T13:16:14.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[네이버 D2SF, 생성형 보컬 AI 스타트업 ‘오드아이’에 신규 투자]]></title>
+        <id>https://v.daum.net/v/20230923220124621</id>
+        <link href="https://v.daum.net/v/20230923220124621"/>
+        <updated>2023-09-23T13:15:45.721Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['로아사랑단' 카멘 레이드 최초 정복]]></title>
+        <id>https://v.daum.net/v/20230923215406485</id>
+        <link href="https://v.daum.net/v/20230923215406485"/>
+        <updated>2023-09-23T13:15:45.722Z</updated>
+        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">21:54</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간 돌발영상] 9월 넷째 주]]></title>
         <id>https://v.daum.net/v/20230923204915912</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230923174754042"/>
         <updated>2023-09-23T09:14:19.763Z</updated>
         <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">17:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인사] 산업통상자원부]]></title>
-        <id>https://v.daum.net/v/20230923174118949</id>
-        <link href="https://v.daum.net/v/20230923174118949"/>
-        <updated>2023-09-23T09:14:19.766Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">17:41</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버페이, 중국 내 모든 알리페이 가맹점서 QR결제 제공]]></title>
-        <id>https://v.daum.net/v/20230923170132265</id>
-        <link href="https://v.daum.net/v/20230923170132265"/>
-        <updated>2023-09-23T08:17:25.120Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">17:01</span>]]></content>
     </entry>
 </feed>
