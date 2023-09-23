@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-09-23T10:17:11.587Z</updated>
+    <updated>2023-09-23T11:17:33.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[네이버 어학사전, 예술경영지원센터와 협업… ‘한국미술 다국어 용어사전’ 탑재]]></title>
+        <id>https://v.daum.net/v/20230923200132495</id>
+        <link href="https://v.daum.net/v/20230923200132495"/>
+        <updated>2023-09-23T11:16:59.889Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">20:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“이 사진, 실화냐?” 강한 티타늄 믿었는데…새 아이폰 떨어뜨렸다가]]></title>
+        <id>https://v.daum.net/v/20230923195106417</id>
+        <link href="https://v.daum.net/v/20230923195106417"/>
+        <updated>2023-09-23T11:16:59.892Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">19:51</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["방심위 인터넷 언론 콘텐츠 심의는 위법행위”]]></title>
         <id>https://v.daum.net/v/20230923190728038</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230923162110674"/>
         <updated>2023-09-23T08:17:25.122Z</updated>
         <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">16:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[굽네 플레이타운, 한가위 '보름닭이 떴습니다' 이벤트 진행]]></title>
-        <id>https://v.daum.net/v/20230923160630451</id>
-        <link href="https://v.daum.net/v/20230923160630451"/>
-        <updated>2023-09-23T07:13:37.873Z</updated>
-        <content type="html"><![CDATA[로피시엘 코리아<span class="txt_bar"> · </span><span class="info_time">16:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘영하 100도’ 달의 밤 견디지 못해...인도 달 착륙선, 영원히 잠들다]]></title>
-        <id>https://v.daum.net/v/20230923160237401</id>
-        <link href="https://v.daum.net/v/20230923160237401"/>
-        <updated>2023-09-23T07:13:37.875Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">16:02</span>]]></content>
     </entry>
 </feed>
