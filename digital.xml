@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-09-23T11:17:33.686Z</updated>
+    <updated>2023-09-23T12:26:04.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주간 돌발영상] 9월 넷째 주]]></title>
+        <id>https://v.daum.net/v/20230923204915912</id>
+        <link href="https://v.daum.net/v/20230923204915912"/>
+        <updated>2023-09-23T12:25:35.731Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">20:49</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[총알보다 15배 빠르게…250g짜리 `우주선물`에 뭐가 담겼을까]]></title>
+        <id>https://v.daum.net/v/20230923203016749</id>
+        <link href="https://v.daum.net/v/20230923203016749"/>
+        <updated>2023-09-23T12:25:35.731Z</updated>
+        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">20:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[네이버 어학사전, 예술경영지원센터와 협업… ‘한국미술 다국어 용어사전’ 탑재]]></title>
         <id>https://v.daum.net/v/20230923200132495</id>
@@ -34,7 +48,7 @@
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">19:05</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[월 4천원 인상 뿔났다…역대급 끝나자 “더 이상 볼 게 없어, 떠난다?”]]></title>
+        <title type="html"><![CDATA[“이러면 차라리 안봐?” 역대급 터지자, 월 4천원 인상…‘탄식’ 쏟아진다]]></title>
         <id>https://v.daum.net/v/20230923185107862</id>
         <link href="https://v.daum.net/v/20230923185107862"/>
         <updated>2023-09-23T10:16:46.385Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230923170132265"/>
         <updated>2023-09-23T08:17:25.120Z</updated>
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">17:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“CCTV 설치하면 수술 못 한다” 의사들 난리치더니… 결국 유명무실]]></title>
-        <id>https://v.daum.net/v/20230923165107021</id>
-        <link href="https://v.daum.net/v/20230923165107021"/>
-        <updated>2023-09-23T08:17:25.121Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">16:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[착륙선도 버티지 못한 `달 남극의 길고 추운 밤`...찬드라얀 3호, 영원히 잠들다]]></title>
-        <id>https://v.daum.net/v/20230923162110674</id>
-        <link href="https://v.daum.net/v/20230923162110674"/>
-        <updated>2023-09-23T08:17:25.122Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">16:21</span>]]></content>
     </entry>
 </feed>

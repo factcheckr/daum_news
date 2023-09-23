@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-09-23T11:17:33.667Z</updated>
+    <updated>2023-09-23T12:26:04.997Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[걷기 힘들고 기억력 저하…치매 오인 빈번 [헬스]]]></title>
+        <id>https://v.daum.net/v/20230923210309036</id>
+        <link href="https://v.daum.net/v/20230923210309036"/>
+        <updated>2023-09-23T12:25:44.225Z</updated>
+        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">21:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사회주의에서 인류는 ‘노예’가 될 수밖에 [홍기훈의 ‘세계를 바꾼 경제학 고전’] (14)]]></title>
+        <id>https://v.daum.net/v/20230923210304033</id>
+        <link href="https://v.daum.net/v/20230923210304033"/>
+        <updated>2023-09-23T12:25:44.229Z</updated>
+        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">21:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[언스타그램] 도시의 지붕과 사진의 바깥]]></title>
         <id>https://v.daum.net/v/20230923194429374</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230923073134492"/>
         <updated>2023-09-22T23:14:54.975Z</updated>
         <content type="html"><![CDATA[마이데일리<span class="txt_bar"> · </span><span class="info_time">07:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘퇴행적 감수성’ 대법원장 후보 이균용의 운명은?]]></title>
-        <id>https://v.daum.net/v/20230923070502333</id>
-        <link href="https://v.daum.net/v/20230923070502333"/>
-        <updated>2023-09-22T22:14:51.093Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">07:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어.거.주 [빛으로 그린 이야기]]]></title>
-        <id>https://v.daum.net/v/20230923060501889</id>
-        <link href="https://v.daum.net/v/20230923060501889"/>
-        <updated>2023-09-22T21:13:53.501Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">06:05</span>]]></content>
     </entry>
 </feed>
