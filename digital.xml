@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-09-23T05:14:51.948Z</updated>
+    <updated>2023-09-23T06:18:18.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[구글에 왜 그러는데?…친기업 나라인 줄 알았더니 ‘반전’ 있었네 [홍키자의 빅테크]]]></title>
+        <id>https://v.daum.net/v/20230923145405583</id>
+        <link href="https://v.daum.net/v/20230923145405583"/>
+        <updated>2023-09-23T06:17:56.559Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">14:54</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“2만원→7만원, 한달 전에만 샀어도” 설마 했는데…결국 일냈다]]></title>
+        <id>https://v.daum.net/v/20230923145105565</id>
+        <link href="https://v.daum.net/v/20230923145105565"/>
+        <updated>2023-09-23T06:17:56.561Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">14:51</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[목성 얼음위성 유로파에서 탄소 발견]]></title>
         <id>https://v.daum.net/v/20230923141001239</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230923114918093"/>
         <updated>2023-09-23T03:14:48.539Z</updated>
         <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">11:49</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["'설치당 과금' 대폭 수정"···한 발 물러선 유니티]]></title>
-        <id>https://v.daum.net/v/20230923110353640</id>
-        <link href="https://v.daum.net/v/20230923110353640"/>
-        <updated>2023-09-23T02:19:14.105Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">11:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중진공-디지털혁신협회, 중기·소상공인 디지털 지원 협력]]></title>
-        <id>https://v.daum.net/v/20230923110337639</id>
-        <link href="https://v.daum.net/v/20230923110337639"/>
-        <updated>2023-09-23T02:19:14.107Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">11:03</span>]]></content>
     </entry>
 </feed>
