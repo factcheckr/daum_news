@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-09-23T07:14:05.183Z</updated>
+    <updated>2023-09-23T08:17:56.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[네이버페이, 중국 내 모든 알리페이 가맹점서 QR결제 제공]]></title>
+        <id>https://v.daum.net/v/20230923170132265</id>
+        <link href="https://v.daum.net/v/20230923170132265"/>
+        <updated>2023-09-23T08:17:25.120Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">17:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“CCTV 설치하면 수술 못 한다” 의사들 난리치더니… 결국 유명무실]]></title>
+        <id>https://v.daum.net/v/20230923165107021</id>
+        <link href="https://v.daum.net/v/20230923165107021"/>
+        <updated>2023-09-23T08:17:25.121Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">16:51</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[착륙선도 버티지 못한 `달 남극의 길고 추운 밤`...찬드라얀 3호, 영원히 잠들다]]></title>
+        <id>https://v.daum.net/v/20230923162110674</id>
+        <link href="https://v.daum.net/v/20230923162110674"/>
+        <updated>2023-09-23T08:17:25.122Z</updated>
+        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">16:21</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[굽네 플레이타운, 한가위 '보름닭이 떴습니다' 이벤트 진행]]></title>
         <id>https://v.daum.net/v/20230923160630451</id>
@@ -20,7 +41,7 @@
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">16:02</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Korean chipmakers breathe sigh of relief over U.S. 'guardrails']]></title>
+        <title type="html"><![CDATA[Korean chipmakers sigh in relief over U.S. CHIPS Act 'guardrails']]></title>
         <id>https://v.daum.net/v/20230923152923993</id>
         <link href="https://v.daum.net/v/20230923152923993"/>
         <updated>2023-09-23T07:13:37.878Z</updated>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230923133726971"/>
         <updated>2023-09-23T05:14:24.275Z</updated>
         <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">13:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모든 것을 바꿨다…인텔 메테오 레이크에서 보여준 타일 아키텍처의 혁신[고든 정의 TECH+]]]></title>
-        <id>https://v.daum.net/v/20230923132404879</id>
-        <link href="https://v.daum.net/v/20230923132404879"/>
-        <updated>2023-09-23T05:14:24.277Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">13:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미군 가슴팍에 달린 물건, 자세히 보니…"갤럭시 아냐?"]]></title>
-        <id>https://v.daum.net/v/20230923132402877</id>
-        <link href="https://v.daum.net/v/20230923132402877"/>
-        <updated>2023-09-23T05:14:24.279Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">13:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성·SK도 타격…美반도체 보조금 받으면 中생산 제한]]></title>
-        <id>https://v.daum.net/v/20230923130002660</id>
-        <link href="https://v.daum.net/v/20230923130002660"/>
-        <updated>2023-09-23T04:18:53.120Z</updated>
-        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">13:00</span>]]></content>
     </entry>
 </feed>
