@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-09-24T10:15:52.329Z</updated>
+    <updated>2023-09-24T11:12:31.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[기상관측 풍선·이송용 헬기…`소행성 선물맞이` 대작전]]></title>
+        <title type="html"><![CDATA[“매월 9900원 공짜 쿠폰 주더니” SKT, 하루아침에 혜택 줄이자 ‘아우성’]]></title>
+        <id>https://v.daum.net/v/20230924195130735</id>
+        <link href="https://v.daum.net/v/20230924195130735"/>
+        <updated>2023-09-24T11:12:01.264Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">19:51</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['저작권 갑질'에 과징금… 카카오엔터 "공정위 제재 부당, 항소할 것"]]></title>
+        <id>https://v.daum.net/v/20230924193829546</id>
+        <link href="https://v.daum.net/v/20230924193829546"/>
+        <updated>2023-09-24T11:12:01.266Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">19:38</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이송용 헬기·임시 클린룸…`소행성 선물맞이` 대작전]]></title>
         <id>https://v.daum.net/v/20230924191214092</id>
         <link href="https://v.daum.net/v/20230924191214092"/>
         <updated>2023-09-24T10:15:18.104Z</updated>
@@ -48,7 +62,7 @@
         <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">18:43</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[데이터 빠진 `무늬만 ESG` 발 못 붙인다 [ESG성패, 데이터에 달렸다]]]></title>
+        <title type="html"><![CDATA[[기획] 데이터 빠진 `무늬만 ESG` 발 못 붙인다]]></title>
         <id>https://v.daum.net/v/20230924184019368</id>
         <link href="https://v.daum.net/v/20230924184019368"/>
         <updated>2023-09-24T10:15:18.120Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230924175435249"/>
         <updated>2023-09-24T09:14:13.541Z</updated>
         <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">17:54</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플페이는 규제 프리패스…핀테크도 ‘역차별’ 덫 걸려]]></title>
-        <id>https://v.daum.net/v/20230924175217211</id>
-        <link href="https://v.daum.net/v/20230924175217211"/>
-        <updated>2023-09-24T09:14:13.543Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">17:52</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“이걸 현실에서 보게 될 줄이야” 한국서 재미 본 넷플릭스 60억 걸었다]]></title>
-        <id>https://v.daum.net/v/20230924175137195</id>
-        <link href="https://v.daum.net/v/20230924175137195"/>
-        <updated>2023-09-24T09:14:13.545Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">17:51</span>]]></content>
     </entry>
 </feed>
