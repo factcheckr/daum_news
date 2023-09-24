@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-09-24T16:18:29.935Z</updated>
+    <updated>2023-09-24T17:13:56.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[청계광장]세상에서 가장 아름다운 공식 E=mc²]]></title>
+        <id>https://v.daum.net/v/20230925020309252</id>
+        <link href="https://v.daum.net/v/20230925020309252"/>
+        <updated>2023-09-24T17:13:33.510Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]돈은 내연녀가 챙겨도 상속세는 본처가 내야 한다?]]></title>
+        <id>https://v.daum.net/v/20230925020304251</id>
+        <link href="https://v.daum.net/v/20230925020304251"/>
+        <updated>2023-09-24T17:13:33.514Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이하경 칼럼] 여기서 대선 연장전을 끝내자]]></title>
         <id>https://v.daum.net/v/20230925004451034</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230925002621947"/>
         <updated>2023-09-24T16:18:09.467Z</updated>
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">00:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[최완규의한·미동맹사] 이승만·아이젠하워 갈등과 ‘한·미 합의의사록’ 체결]]></title>
-        <id>https://v.daum.net/v/20230925002608946</id>
-        <link href="https://v.daum.net/v/20230925002608946"/>
-        <updated>2023-09-24T16:18:09.469Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">00:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김승중의 아메리카 편지] 영웅과 죽음]]></title>
-        <id>https://v.daum.net/v/20230925002450938</id>
-        <link href="https://v.daum.net/v/20230925002450938"/>
-        <updated>2023-09-24T16:18:09.471Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:24</span>]]></content>
     </entry>
 </feed>
