@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-09-24T21:13:11.806Z</updated>
+    <updated>2023-09-24T22:14:42.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고소한 토요포차 & 로컬마켓 프로그램, 안동 찾는 관광객에 인기]]></title>
+        <id>https://v.daum.net/v/20230925070704455</id>
+        <link href="https://v.daum.net/v/20230925070704455"/>
+        <updated>2023-09-24T22:14:34.019Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">07:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[golf&] 전통적인 골프 브랜드를 넘어 새로운 시각으로 차별화한 골프웨어]]></title>
         <id>https://v.daum.net/v/20230925000710818</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230925000620794</id>
         <link href="https://v.daum.net/v/20230925000620794"/>
         <updated>2023-09-24T15:15:17.646Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[건강한 가족] 한국형 다이어트 건기식 ‘슬림에스’]]></title>
-        <id>https://v.daum.net/v/20230925000618792</id>
-        <link href="https://v.daum.net/v/20230925000618792"/>
-        <updated>2023-09-24T15:15:17.660Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
     </entry>
 </feed>
