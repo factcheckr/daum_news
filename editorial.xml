@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-09-24T13:16:41.336Z</updated>
+    <updated>2023-09-24T14:13:04.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[세컷칼럼] 통계 조작과 '그들만의 나라']]></title>
+        <id>https://v.daum.net/v/20230924230020967</id>
+        <link href="https://v.daum.net/v/20230924230020967"/>
+        <updated>2023-09-24T14:12:47.113Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023년 9월 25일[김용민의 그림마당]]]></title>
         <id>https://v.daum.net/v/20230924220113103</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230924202013076</id>
         <link href="https://v.daum.net/v/20230924202013076"/>
         <updated>2023-09-24T13:16:22.061Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정인진의 청안백안靑眼白眼] 대통령의 언어]]></title>
-        <id>https://v.daum.net/v/20230924202006073</id>
-        <link href="https://v.daum.net/v/20230924202006073"/>
-        <updated>2023-09-24T13:16:22.063Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:20</span>]]></content>
     </entry>
 </feed>
