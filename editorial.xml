@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-09-25T22:15:45.606Z</updated>
+    <updated>2023-09-25T23:16:26.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박순찬의 장도리 카툰] 진짜뉴스로 광명찾자]]></title>
+        <id>https://v.daum.net/v/20230926080305525</id>
+        <link href="https://v.daum.net/v/20230926080305525"/>
+        <updated>2023-09-25T23:16:03.128Z</updated>
+        <content type="html"><![CDATA[오마이뉴스<span class="txt_bar"> · </span><span class="info_time">08:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아마추어 골퍼라면 연습장에선 공 80개만 치기]]></title>
+        <id>https://v.daum.net/v/20230926071515871</id>
+        <link href="https://v.daum.net/v/20230926071515871"/>
+        <updated>2023-09-25T23:16:03.129Z</updated>
+        <content type="html"><![CDATA[헬스조선<span class="txt_bar"> · </span><span class="info_time">07:15</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인권위가 흔들린다 [기자들의 시선]]]></title>
         <id>https://v.daum.net/v/20230926071416856</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230926060022836"/>
         <updated>2023-09-25T21:14:39.840Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[함영준의 마음PT] ‘BTS’ 한국이 ‘자살률’ 최고, ‘출산율’ 최저인 진짜 이유]]></title>
-        <id>https://v.daum.net/v/20230926055010752</id>
-        <link href="https://v.daum.net/v/20230926055010752"/>
-        <updated>2023-09-25T21:14:39.841Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">05:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Editorial] Right to live in quiet]]></title>
-        <id>https://v.daum.net/v/20230926053046586</id>
-        <link href="https://v.daum.net/v/20230926053046586"/>
-        <updated>2023-09-25T21:14:39.842Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
     </entry>
 </feed>
