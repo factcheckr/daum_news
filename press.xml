@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-09-25T11:13:46.117Z</updated>
+    <updated>2023-09-25T12:34:54.255Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[AsiaNet] Hangzhou: an emerging brand-new "paradise"]]></title>
+        <id>https://v.daum.net/v/20230925203352315</id>
+        <link href="https://v.daum.net/v/20230925203352315"/>
+        <updated>2023-09-25T12:34:44.802Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] Huawei Upgrades the CloudWAN 3.0 Solution]]></title>
         <id>https://v.daum.net/v/20230925195639744</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230925175042682"/>
         <updated>2023-09-25T09:17:00.439Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">17:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울시립대 기계정보공학과 황면중 교수, 2023 젊은공학교육자상 수상]]></title>
-        <id>https://v.daum.net/v/20230925174942642</id>
-        <link href="https://v.daum.net/v/20230925174942642"/>
-        <updated>2023-09-25T09:17:00.441Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">17:49</span>]]></content>
     </entry>
 </feed>
