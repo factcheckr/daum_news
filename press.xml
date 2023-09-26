@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-09-26T17:15:30.334Z</updated>
+    <updated>2023-09-26T18:20:42.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[생명 존중·안내견 사업… 삼성 금융사, 20년간 1200억 지원]]></title>
+        <id>https://v.daum.net/v/20230927030246874</id>
+        <link href="https://v.daum.net/v/20230927030246874"/>
+        <updated>2023-09-26T18:20:29.917Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[평창군 혁신도시특별법 개정촉구]]></title>
         <id>https://v.daum.net/v/20230927000601143</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230927000536104</id>
         <link href="https://v.daum.net/v/20230927000536104"/>
         <updated>2023-09-26T15:16:38.861Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[issue&] 소이 푸드 마스터, 미국 최대 식용콩 생산지 오하이오주에 가다]]></title>
-        <id>https://v.daum.net/v/20230927000531103</id>
-        <link href="https://v.daum.net/v/20230927000531103"/>
-        <updated>2023-09-26T15:16:38.863Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
     </entry>
 </feed>
