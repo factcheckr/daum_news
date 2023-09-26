@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2023-09-26T16:21:09.529Z</updated>
+    <updated>2023-09-26T17:15:30.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소비자원, 8개 아웃도어 재킷 시험·평가..."제품별 기능 차이"]]></title>
+        <id>https://v.daum.net/v/20230927013418520</id>
+        <link href="https://v.daum.net/v/20230927013418520"/>
+        <updated>2023-09-26T17:13:48.436Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">01:34</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴욕증시, 국채금리 상승 우려에 하락 출발]]></title>
+        <id>https://v.daum.net/v/20230927013118510</id>
+        <link href="https://v.daum.net/v/20230927013118510"/>
+        <updated>2023-09-26T17:13:48.445Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">01:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삼양그룹 故 김상홍 명예회장… 탄생 100주년 기념식 열어]]></title>
         <id>https://v.daum.net/v/20230927010233423</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20230927000341049</id>
         <link href="https://v.daum.net/v/20230927000341049"/>
         <updated>2023-09-26T15:15:30.327Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일하는 노인 10명 중 8명 “자녀와 같이 살기 싫어”]]></title>
-        <id>https://v.daum.net/v/20230927000334045</id>
-        <link href="https://v.daum.net/v/20230927000334045"/>
-        <updated>2023-09-26T15:15:30.330Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[또 D램 혁신…삼성전자 새 메모리 모듈 ‘게임 체인저’ 예고]]></title>
-        <id>https://v.daum.net/v/20230927000329043</id>
-        <link href="https://v.daum.net/v/20230927000329043"/>
-        <updated>2023-09-26T15:15:30.332Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
     </entry>
 </feed>
