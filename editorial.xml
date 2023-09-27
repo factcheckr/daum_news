@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-09-27T21:15:09.007Z</updated>
+    <updated>2023-09-27T22:14:39.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인사청문회 서류 더미를 앞에 둔 기자의 자세 [취재 뒷담화]]]></title>
+        <id>https://v.daum.net/v/20230928064548400</id>
+        <link href="https://v.daum.net/v/20230928064548400"/>
+        <updated>2023-09-27T22:14:21.962Z</updated>
+        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">06:45</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[팀장 칼럼] 이재명 불구속과 추석 민심]]></title>
         <id>https://v.daum.net/v/20230928060207998</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230928050619628"/>
         <updated>2023-09-27T20:18:27.601Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 극우·친일 신원식 후보자가 우리 군 이끌면 안 된다]]></title>
-        <id>https://v.daum.net/v/20230928050502608</id>
-        <link href="https://v.daum.net/v/20230928050502608"/>
-        <updated>2023-09-27T20:18:27.604Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">05:05</span>]]></content>
     </entry>
 </feed>
