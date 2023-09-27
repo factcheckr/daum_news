@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-09-27T02:23:17.634Z</updated>
+    <updated>2023-09-27T03:17:06.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[칼럼]이원석 검찰총장은 '투명 인간' 인가]]></title>
+        <id>https://v.daum.net/v/20230927115708809</id>
+        <link href="https://v.daum.net/v/20230927115708809"/>
+        <updated>2023-09-27T03:16:40.341Z</updated>
+        <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">11:57</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제1야당 대표여서 증거인멸 염려 없다는 해괴한 판단[사설]]]></title>
         <id>https://v.daum.net/v/20230927112123536</id>
@@ -39,6 +46,13 @@
         <link href="https://v.daum.net/v/20230927111536182"/>
         <updated>2023-09-27T02:22:51.332Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[기고] 대한민국 행정서비스에 감동한 날]]></title>
+        <id>https://v.daum.net/v/20230927111529168</id>
+        <link href="https://v.daum.net/v/20230927111529168"/>
+        <updated>2023-09-27T03:16:40.347Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">11:15</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 공공주택 5.5만채 추가, 속도내서 집값불안 없애야]]></title>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230927100504999"/>
         <updated>2023-09-27T01:56:59.663Z</updated>
         <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">10:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명 구속영장 기각, 민주당 환호할 때 아니다 [핫이슈]]]></title>
-        <id>https://v.daum.net/v/20230927100303926</id>
-        <link href="https://v.daum.net/v/20230927100303926"/>
-        <updated>2023-09-27T01:56:59.668Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">10:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기자수첩]지금 고금리는 '소나기' 아니다]]></title>
-        <id>https://v.daum.net/v/20230927100135861</id>
-        <link href="https://v.daum.net/v/20230927100135861"/>
-        <updated>2023-09-27T01:02:45.589Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">10:01</span>]]></content>
     </entry>
 </feed>
