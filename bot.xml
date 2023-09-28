@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-09-28T09:16:40.548Z</updated>
+    <updated>2023-09-28T10:17:03.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[용인 보라동 민속마을쌍용 84㎡ 3억4600만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230928183603476</id>
+        <link href="https://v.daum.net/v/20230928183603476"/>
+        <updated>2023-09-28T10:17:02.966Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:36</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[용인 중동 신동백롯데캐슬에코1단지 84㎡ 5억4800만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230928183037417</id>
+        <link href="https://v.daum.net/v/20230928183037417"/>
+        <updated>2023-09-28T10:17:02.966Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수원 인계동 신반포수원 42㎡ 2억3190만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230928182548382</id>
+        <link href="https://v.daum.net/v/20230928182548382"/>
+        <updated>2023-09-28T10:17:02.966Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:25</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수원 우만동 우만주공4단지 36㎡ 2억3000만원에 거래]]></title>
+        <id>https://v.daum.net/v/20230928182041340</id>
+        <link href="https://v.daum.net/v/20230928182041340"/>
+        <updated>2023-09-28T10:17:02.967Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:20</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인천 마전동 마전동아 84㎡ 2억5000만원에 거래]]></title>
         <id>https://v.daum.net/v/20230928181545282</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20230928173039730"/>
         <updated>2023-09-28T09:16:39.719Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용인 성복동 성복역 롯데캐슬 골드타운 84㎡ 11억9000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230928172548666</id>
-        <link href="https://v.daum.net/v/20230928172548666"/>
-        <updated>2023-09-28T09:16:39.721Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 우만동 우만주공4단지 41㎡ 2억7500만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230928172039591</id>
-        <link href="https://v.daum.net/v/20230928172039591"/>
-        <updated>2023-09-28T09:16:39.722Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 연수동 연수승기마을 49㎡ 2억원에 거래]]></title>
-        <id>https://v.daum.net/v/20230928171539496</id>
-        <link href="https://v.daum.net/v/20230928171539496"/>
-        <updated>2023-09-28T08:20:09.897Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 송도동 베르디움더퍼스트아파트 74㎡ 6억4900만원에 거래]]></title>
-        <id>https://v.daum.net/v/20230928171038441</id>
-        <link href="https://v.daum.net/v/20230928171038441"/>
-        <updated>2023-09-28T08:20:09.899Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:10</span>]]></content>
     </entry>
 </feed>
