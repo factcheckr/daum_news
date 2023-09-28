@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-09-28T12:29:27.595Z</updated>
+    <updated>2023-09-28T13:19:51.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[템프라니요 고향에 자리 잡은 ‘와인의 사원’ [고재윤의 스토리가 있는 와인]]]></title>
+        <id>https://v.daum.net/v/20230928220317631</id>
+        <link href="https://v.daum.net/v/20230928220317631"/>
+        <updated>2023-09-28T13:19:32.787Z</updated>
+        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">22:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트럼프, 바이든 방문 다음 날 미시간 찾아…전기차 정책 비판]]></title>
         <id>https://v.daum.net/v/20230928174317927</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230928053055706</id>
         <link href="https://v.daum.net/v/20230928053055706"/>
         <updated>2023-09-27T21:14:48.518Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Editorial] Right choice eventually prevails]]></title>
-        <id>https://v.daum.net/v/20230928053034704</id>
-        <link href="https://v.daum.net/v/20230928053034704"/>
-        <updated>2023-09-27T21:14:48.520Z</updated>
         <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
     </entry>
 </feed>
