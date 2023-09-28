@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-09-28T06:21:28.236Z</updated>
+    <updated>2023-09-28T07:15:21.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] OKX Ventures, Web 2.0 와 Web 3 데이터 분석의 미래를 구축하기 위해]]></title>
+        <id>https://v.daum.net/v/20230928161457704</id>
+        <link href="https://v.daum.net/v/20230928161457704"/>
+        <updated>2023-09-28T07:15:10.351Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:14</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[충북청주, 세광중학교에서 신한은행과 함께하는 '스쿨어택' 진행]]></title>
         <id>https://v.daum.net/v/20230928150539871</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230928103013230"/>
         <updated>2023-09-28T02:01:11.387Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">10:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[AsiaNet] 산둥성 란링, 우엉으로 다채로운 풍미와 제품 창출]]></title>
-        <id>https://v.daum.net/v/20230928094921613</id>
-        <link href="https://v.daum.net/v/20230928094921613"/>
-        <updated>2023-09-28T01:01:59.601Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">09:49</span>]]></content>
     </entry>
 </feed>
