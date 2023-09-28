@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-09-28T10:17:03.993Z</updated>
+    <updated>2023-09-28T11:14:50.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰] 라구라구람 VM웨어 CEO "韓기업, 클라우드 수요 높지만..."]]></title>
+        <id>https://v.daum.net/v/20230928200036353</id>
+        <link href="https://v.daum.net/v/20230928200036353"/>
+        <updated>2023-09-28T11:14:19.712Z</updated>
+        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">20:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“80만원이나 더 싸다” 삼성 고심 끝 ‘반값’ 제품 결단]]></title>
+        <id>https://v.daum.net/v/20230928195101275</id>
+        <link href="https://v.daum.net/v/20230928195101275"/>
+        <updated>2023-09-28T11:14:19.714Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">19:51</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UBS, 듀오링고 ‘매수’해야…목표주가 195달러]]></title>
+        <id>https://v.daum.net/v/20230928193527116</id>
+        <link href="https://v.daum.net/v/20230928193527116"/>
+        <updated>2023-09-28T11:14:19.717Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">19:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SKT, ‘항저우 AG LoL 결승전’ 입중계·뷰잉 파티 29일 개최]]></title>
         <id>https://v.daum.net/v/20230928191608927</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20230928183122426"/>
         <updated>2023-09-28T10:16:37.177Z</updated>
         <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">18:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코지마, 유튜브 운동 콘텐츠 '코지 핏' 론칭]]></title>
-        <id>https://v.daum.net/v/20230928182028338</id>
-        <link href="https://v.daum.net/v/20230928182028338"/>
-        <updated>2023-09-28T10:16:37.180Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">18:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TJ미디어, '2023 퍼펙트 엔젤싱어 오디션' 지원]]></title>
-        <id>https://v.daum.net/v/20230928180752220</id>
-        <link href="https://v.daum.net/v/20230928180752220"/>
-        <updated>2023-09-28T09:16:15.336Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">18:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['플랫폼' 변신하는 VM웨어…전인호 지사장 "프라이빗 AI 생태계 구축"]]></title>
-        <id>https://v.daum.net/v/20230928180749219</id>
-        <link href="https://v.daum.net/v/20230928180749219"/>
-        <updated>2023-09-28T09:16:15.338Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">18:07</span>]]></content>
     </entry>
 </feed>
