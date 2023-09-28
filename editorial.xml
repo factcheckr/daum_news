@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-09-28T13:19:51.714Z</updated>
+    <updated>2023-09-28T14:15:04.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[세컷칼럼] 디케의 칼]]></title>
+        <id>https://v.daum.net/v/20230928230031314</id>
+        <link href="https://v.daum.net/v/20230928230031314"/>
+        <updated>2023-09-28T14:14:46.799Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[템프라니요 고향에 자리 잡은 ‘와인의 사원’ [고재윤의 스토리가 있는 와인]]]></title>
         <id>https://v.daum.net/v/20230928220317631</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20230928053057707</id>
         <link href="https://v.daum.net/v/20230928053057707"/>
         <updated>2023-09-27T21:14:48.517Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Lee Kyong-hee] Kishida’s summit overture to Pyongyang]]></title>
-        <id>https://v.daum.net/v/20230928053055706</id>
-        <link href="https://v.daum.net/v/20230928053055706"/>
-        <updated>2023-09-27T21:14:48.518Z</updated>
         <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
     </entry>
 </feed>
