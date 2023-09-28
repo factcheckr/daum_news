@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2023-09-28T17:14:24.519Z</updated>
+    <updated>2023-09-28T18:20:00.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['13남매 장녀' 남보라, 추석 앞두고 눈물 '왈칵']]></title>
+        <id>https://v.daum.net/v/20230929030526992</id>
+        <link href="https://v.daum.net/v/20230929030526992"/>
+        <updated>2023-09-28T18:19:09.329Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">03:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[변우석 '첫 악역' 도전...'괴력女' 이유미와 맞붙는다 ('강남순')]]></title>
         <id>https://v.daum.net/v/20230929020201944</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230929004003789"/>
         <updated>2023-09-28T16:19:36.410Z</updated>
         <content type="html"><![CDATA[스포츠조선<span class="txt_bar"> · </span><span class="info_time">00:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김대호 ‘퀴즈’ 단번에 맞춘 장동민 “제발 못맞힐 문제 내봐” ‘홈즈!’]]></title>
-        <id>https://v.daum.net/v/20230929003851785</id>
-        <link href="https://v.daum.net/v/20230929003851785"/>
-        <updated>2023-09-28T16:19:36.412Z</updated>
-        <content type="html"><![CDATA[MBC연예<span class="txt_bar"> · </span><span class="info_time">00:38</span>]]></content>
     </entry>
 </feed>
