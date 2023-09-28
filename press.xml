@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-09-28T02:01:23.287Z</updated>
+    <updated>2023-09-28T02:24:26.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[목포시, 신안군과 통합 공감대 구축 홍보 강화]]></title>
+        <id>https://v.daum.net/v/20230928112102993</id>
+        <link href="https://v.daum.net/v/20230928112102993"/>
+        <updated>2023-09-28T02:24:15.162Z</updated>
+        <content type="html"><![CDATA[kbc광주방송<span class="txt_bar"> · </span><span class="info_time">11:21</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국민권익위 “국민콜110, 추석연휴 병원·약국·교통정보 24시간 제공”]]></title>
         <id>https://v.daum.net/v/20230928105410623</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230928083343608"/>
         <updated>2023-09-28T01:01:59.620Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">08:33</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[AsiaNet] 공동 번영을 이룬 10년간 천 년의 우정이 꽃핀 실크로드]]></title>
-        <id>https://v.daum.net/v/20230928083147596</id>
-        <link href="https://v.daum.net/v/20230928083147596"/>
-        <updated>2023-09-28T01:01:59.622Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">08:31</span>]]></content>
     </entry>
 </feed>
