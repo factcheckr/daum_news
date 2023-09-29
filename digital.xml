@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-09-29T08:19:40.135Z</updated>
+    <updated>2023-09-29T09:15:59.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수십억 떼돈 벌더니…침착맨, 돌연 방송 중단 선언]]></title>
+        <id>https://v.daum.net/v/20230929174924067</id>
+        <link href="https://v.daum.net/v/20230929174924067"/>
+        <updated>2023-09-29T09:15:31.887Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">17:49</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[달의 ‘이용 가치’ 찾는 인류…한국 최초의 달 착륙선은 어디로? [이슈+]]]></title>
         <id>https://v.daum.net/v/20230929170155544</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230929140105422"/>
         <updated>2023-09-29T05:14:30.483Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">14:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쇼츠 바람 분 웹툰···충성고객 확보?]]></title>
-        <id>https://v.daum.net/v/20230929140035409</id>
-        <link href="https://v.daum.net/v/20230929140035409"/>
-        <updated>2023-09-29T05:14:30.488Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
     </entry>
 </feed>
