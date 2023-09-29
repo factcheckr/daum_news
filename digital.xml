@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-09-29T10:16:44.037Z</updated>
+    <updated>2023-09-29T11:13:39.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“4명 영화관 가면 6만원…넷플릭스나 보자” 이러다 영화관 다 죽는다?]]></title>
+        <id>https://v.daum.net/v/20230929195122349</id>
+        <link href="https://v.daum.net/v/20230929195122349"/>
+        <updated>2023-09-29T11:13:09.619Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">19:51</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간 돌발영상] 9월 다섯째 주]]></title>
+        <id>https://v.daum.net/v/20230929194911329</id>
+        <link href="https://v.daum.net/v/20230929194911329"/>
+        <updated>2023-09-29T11:13:09.621Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">19:49</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“제발 응급실 좀 오지 마세요!” 명절 때마다 뒷목 잡는 의사들…무슨일이]]></title>
         <id>https://v.daum.net/v/20230929185118765</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20230929153219423"/>
         <updated>2023-09-29T07:14:32.299Z</updated>
         <content type="html"><![CDATA[데일리e스포츠<span class="txt_bar"> · </span><span class="info_time">15:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[통신품질은 엉망인데 요금만 줄인상...속 터지는 英 소비자들]]></title>
-        <id>https://v.daum.net/v/20230929151408243</id>
-        <link href="https://v.daum.net/v/20230929151408243"/>
-        <updated>2023-09-29T06:20:03.306Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">15:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오락실 간다고 혼났던' 44살 스트리트 파이터…'금메달 축하' 엄마 문자에 눈물 펑펑 [항저우 현장]]]></title>
-        <id>https://v.daum.net/v/20230929145640042</id>
-        <link href="https://v.daum.net/v/20230929145640042"/>
-        <updated>2023-09-29T06:20:03.309Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스<span class="txt_bar"> · </span><span class="info_time">14:56</span>]]></content>
     </entry>
 </feed>
