@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-09-30T08:17:50.540Z</updated>
+    <updated>2023-09-30T09:13:34.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[네이버클라우드, 현대IT&E와 ‘하이퍼클로바X’ 기반 비즈니스 협력 구축]]></title>
+        <id>https://v.daum.net/v/20230930180119411</id>
+        <link href="https://v.daum.net/v/20230930180119411"/>
+        <updated>2023-09-30T09:13:09.324Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">18:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“많이 삭았네요?” 낯익은 ‘얼굴’ 공감폭발…다들 ‘빵’ 터졌다]]></title>
         <id>https://v.daum.net/v/20230930165040324</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20230930141602580"/>
         <updated>2023-09-30T06:18:59.408Z</updated>
         <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">14:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[`갤`·`아이폰`, 디자인 정체 심각... `갤S24`도 AP만 바뀔듯]]></title>
-        <id>https://v.daum.net/v/20230930141309522</id>
-        <link href="https://v.daum.net/v/20230930141309522"/>
-        <updated>2023-09-30T05:14:08.563Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">14:13</span>]]></content>
     </entry>
 </feed>
