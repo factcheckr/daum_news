@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-10-01T08:17:56.259Z</updated>
+    <updated>2023-10-01T09:14:45.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“정말 실화냐?” 부모·자식 '막장드라마'…가족 싸움 유명 회사, 알고보니]]></title>
+        <id>https://v.daum.net/v/20231001175203764</id>
+        <link href="https://v.daum.net/v/20231001175203764"/>
+        <updated>2023-10-01T09:14:15.805Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">17:52</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] 디즈니가 한국에서 쏘아올린 ‘계정 공유 단속’ 신호탄]]></title>
+        <id>https://v.daum.net/v/20231001173215520</id>
+        <link href="https://v.daum.net/v/20231001173215520"/>
+        <updated>2023-10-01T09:14:15.809Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:32</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[개발진과 내기했다가…韓 게이머들 5000만원 내놨다 '깜짝']]></title>
         <id>https://v.daum.net/v/20231001170502161</id>
@@ -48,7 +62,7 @@
         <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">16:00</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["광고 안 보려면 돈 더 내라"…'무빙' 뜨자 돌변한 디즈니+ [김소연의 엔터비즈]]]></title>
+        <title type="html"><![CDATA['무빙' 뜨자 돌변한 디즈니+…"광고 안 보려면 돈 더 내라" [김소연의 엔터비즈]]]></title>
         <id>https://v.daum.net/v/20231001154001043</id>
         <link href="https://v.daum.net/v/20231001154001043"/>
         <updated>2023-10-01T07:14:20.224Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231001145303390"/>
         <updated>2023-10-01T06:18:53.293Z</updated>
         <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">14:53</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["차원이 다른 수준…해외에서 난리 났다" 공연장서 진가 발휘한 '갤럭시폰']]></title>
-        <id>https://v.daum.net/v/20231001143634144</id>
-        <link href="https://v.daum.net/v/20231001143634144"/>
-        <updated>2023-10-01T06:18:53.295Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">14:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[反독점 재판 스타트 … 구글·아마존 '고난의 겨울' 온다]]></title>
-        <id>https://v.daum.net/v/20231001143607136</id>
-        <link href="https://v.daum.net/v/20231001143607136"/>
-        <updated>2023-10-01T06:18:53.301Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">14:36</span>]]></content>
     </entry>
 </feed>
