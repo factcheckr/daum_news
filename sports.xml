@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/sports</id>
     <title>다음 뉴스 ─ 전체기사 ─ 스포츠</title>
-    <updated>2023-10-01T18:20:08.796Z</updated>
+    <updated>2023-10-01T19:12:17.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[한국 축구, 만리장성 넘어 4강…3연속 우승 향해 순항 [항저우AG]]]></title>
+        <title type="html"><![CDATA['中에 2-0 완승' 황선홍의 '이유 있는 이강인 벤치 스타트' [오!쎈 현장]]]></title>
+        <id>https://v.daum.net/v/20231002032025700</id>
+        <link href="https://v.daum.net/v/20231002032025700"/>
+        <updated>2023-10-01T19:11:46.674Z</updated>
+        <content type="html"><![CDATA[OSEN<span class="txt_bar"> · </span><span class="info_time">03:20</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국 축구, 만리장성 넘어 4강…3연속 우승 향해 순항 [항저우 AG]]]></title>
         <id>https://v.daum.net/v/20231002031201694</id>
         <link href="https://v.daum.net/v/20231002031201694"/>
         <updated>2023-10-01T18:19:37.557Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231002012104646"/>
         <updated>2023-10-01T17:13:52.124Z</updated>
         <content type="html"><![CDATA[스포츠조선<span class="txt_bar"> · </span><span class="info_time">01:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국 5만 관중 잠재운 한국 축구…우즈벡과 4강전]]></title>
-        <id>https://v.daum.net/v/20231002011849644</id>
-        <link href="https://v.daum.net/v/20231002011849644"/>
-        <updated>2023-10-01T17:13:52.127Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV<span class="txt_bar"> · </span><span class="info_time">01:18</span>]]></content>
     </entry>
 </feed>
