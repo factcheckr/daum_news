@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2023-10-02T18:20:48.967Z</updated>
+    <updated>2023-10-02T19:13:53.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강하늘 "정소민 첫인상, 하얗고 예뻐…지금은 그냥 예뻐" 칭찬 (보그)]]></title>
+        <id>https://v.daum.net/v/20231003040001784</id>
+        <link href="https://v.daum.net/v/20231003040001784"/>
+        <updated>2023-10-02T19:12:49.722Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인정할 수 밖에 없는 '팀 코리아'...'최강야구' 약속의 8회 말 "찢었다"[종합]]]></title>
+        <id>https://v.daum.net/v/20231003035930783</id>
+        <link href="https://v.daum.net/v/20231003035930783"/>
+        <updated>2023-10-02T19:12:49.724Z</updated>
+        <content type="html"><![CDATA[TV리포트<span class="txt_bar"> · </span><span class="info_time">03:59</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오늘의 채널A]사교육 마케팅이 부른 선행학습의 문제점]]></title>
         <id>https://v.daum.net/v/20231003030222684</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231003005139492"/>
         <updated>2023-10-02T16:19:09.582Z</updated>
         <content type="html"><![CDATA[뉴스엔<span class="txt_bar"> · </span><span class="info_time">00:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보이넥스트도어 성호 ‘여자보다 더 투명한 피부 미남’[포토엔HD]]]></title>
-        <id>https://v.daum.net/v/20231003005010490</id>
-        <link href="https://v.daum.net/v/20231003005010490"/>
-        <updated>2023-10-02T16:19:09.584Z</updated>
-        <content type="html"><![CDATA[뉴스엔<span class="txt_bar"> · </span><span class="info_time">00:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['도적:칼의소리' 한규원, 야성美 마적 변신…김남길과 대립]]></title>
-        <id>https://v.daum.net/v/20231003004943487</id>
-        <link href="https://v.daum.net/v/20231003004943487"/>
-        <updated>2023-10-02T16:19:09.586Z</updated>
-        <content type="html"><![CDATA[JTBC<span class="txt_bar"> · </span><span class="info_time">00:49</span>]]></content>
     </entry>
 </feed>
