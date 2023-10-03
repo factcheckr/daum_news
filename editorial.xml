@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-10-03T03:16:33.916Z</updated>
+    <updated>2023-10-03T04:18:56.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[7NEWS] “중국 축구팀 응원 89%” 다음 클릭 응원, 결국 서비스 중단]]></title>
+        <id>https://v.daum.net/v/20231003130516477</id>
+        <link href="https://v.daum.net/v/20231003130516477"/>
+        <updated>2023-10-03T04:18:32.249Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">13:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부고] 신경식 (중흥그룹 전무이사)씨 부친상]]></title>
+        <id>https://v.daum.net/v/20231003122020059</id>
+        <link href="https://v.daum.net/v/20231003122020059"/>
+        <updated>2023-10-03T04:18:32.250Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">12:20</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우체국 보이스피싱 3년 만에 다시 급증…올해 피해액 111억 달해]]></title>
         <id>https://v.daum.net/v/20231003114803623</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20231003043018809</id>
         <link href="https://v.daum.net/v/20231003043018809"/>
         <updated>2023-10-02T20:16:49.887Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 핵무력 헌법화한 김정은... 한미동맹 지속적 강화해야]]></title>
-        <id>https://v.daum.net/v/20231003043015808</id>
-        <link href="https://v.daum.net/v/20231003043015808"/>
-        <updated>2023-10-02T20:16:49.889Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사할린의 늪에 빠진 일본 [오늘, 세계]]]></title>
-        <id>https://v.daum.net/v/20231003043007806</id>
-        <link href="https://v.daum.net/v/20231003043007806"/>
-        <updated>2023-10-02T20:16:49.890Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
     </entry>
 </feed>
