@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-10-03T10:17:08.357Z</updated>
+    <updated>2023-10-03T11:16:16.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 슈퍼마이크로, X13 서버에 5세대 제온 인텔 프로세서 지원 발표]]></title>
+        <id>https://v.daum.net/v/20231003194259927</id>
+        <link href="https://v.daum.net/v/20231003194259927"/>
+        <updated>2023-10-03T11:16:05.631Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">19:42</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경기도농업기술원, ‘제19회 선인장 페스티벌’ 개최]]></title>
         <id>https://v.daum.net/v/20231003172611154</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231003131702687"/>
         <updated>2023-10-03T04:18:46.140Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">13:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] 600W 이상 대형 고출력 모듈, 태양광 업계 대세로 부상]]></title>
-        <id>https://v.daum.net/v/20231003131542651</id>
-        <link href="https://v.daum.net/v/20231003131542651"/>
-        <updated>2023-10-03T04:18:46.145Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">13:15</span>]]></content>
     </entry>
 </feed>
