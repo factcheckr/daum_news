@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-10-03T12:29:35.810Z</updated>
+    <updated>2023-10-03T13:20:09.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[본질에 투자하는 진짜들 [취재수첩]]]></title>
+        <id>https://v.daum.net/v/20231003220337290</id>
+        <link href="https://v.daum.net/v/20231003220337290"/>
+        <updated>2023-10-03T13:19:52.385Z</updated>
+        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">22:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[국민만평-서민호 화백] 2023년 10월 4일]]></title>
         <id>https://v.daum.net/v/20231003205802603</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231003200500135"/>
         <updated>2023-10-03T11:15:56.866Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">20:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Treat Korea just like Japan and Australia]]></title>
-        <id>https://v.daum.net/v/20231003200344128</id>
-        <link href="https://v.daum.net/v/20231003200344128"/>
-        <updated>2023-10-03T11:15:56.868Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:03</span>]]></content>
     </entry>
 </feed>
