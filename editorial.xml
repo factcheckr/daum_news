@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-10-04T22:16:37.133Z</updated>
+    <updated>2023-10-04T23:16:08.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[팀장 칼럼] 리딩방에서 뭐하세요?]]></title>
+        <id>https://v.daum.net/v/20231005081435807</id>
+        <link href="https://v.daum.net/v/20231005081435807"/>
+        <updated>2023-10-04T23:15:43.187Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">08:14</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 블랙리스트 반성은커녕 ‘연예인 발언’ 제동 건 유인촌]]></title>
         <id>https://v.daum.net/v/20231005070504717</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20231005050315222</id>
         <link href="https://v.daum.net/v/20231005050315222"/>
         <updated>2023-10-04T20:17:52.151Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[길섶에서] 또 다른 주인공/서동철 논설위원]]></title>
-        <id>https://v.daum.net/v/20231005050315221</id>
-        <link href="https://v.daum.net/v/20231005050315221"/>
-        <updated>2023-10-04T20:17:52.153Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
     </entry>
 </feed>
