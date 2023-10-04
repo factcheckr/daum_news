@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-10-04T12:31:59.838Z</updated>
+    <updated>2023-10-04T13:20:57.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["봐? 말아?" 넷플·디즈니+, 구독료 인상에 계정공유 차단까지]]></title>
+        <id>https://v.daum.net/v/20231004215531059</id>
+        <link href="https://v.daum.net/v/20231004215531059"/>
+        <updated>2023-10-04T13:20:30.371Z</updated>
+        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">21:55</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해외 IP 2개가 1989만번 클릭…‘암호화’ 사용자 추적 어려워]]></title>
+        <id>https://v.daum.net/v/20231004213538423</id>
+        <link href="https://v.daum.net/v/20231004213538423"/>
+        <updated>2023-10-04T13:20:30.372Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">21:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘로톡 vs 변협’ 8년간 공방 사실상 마침표…혁신의 문 열리나]]></title>
         <id>https://v.daum.net/v/20231004212701239</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231004201213194"/>
         <updated>2023-10-04T11:13:16.710Z</updated>
         <content type="html"><![CDATA[동아사이언스<span class="txt_bar"> · </span><span class="info_time">20:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['자연색 구현' 양자점 발견 … 디스플레이 게임체인저]]></title>
-        <id>https://v.daum.net/v/20231004200902104</id>
-        <link href="https://v.daum.net/v/20231004200902104"/>
-        <updated>2023-10-04T11:13:16.712Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">20:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노벨화학상에 ‘양자점 연구’ 3인…유출명단과 동일]]></title>
-        <id>https://v.daum.net/v/20231004200806075</id>
-        <link href="https://v.daum.net/v/20231004200806075"/>
-        <updated>2023-10-04T11:13:16.714Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">20:08</span>]]></content>
     </entry>
 </feed>
