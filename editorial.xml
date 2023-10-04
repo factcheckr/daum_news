@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-10-04T01:04:21.361Z</updated>
+    <updated>2023-10-04T02:24:07.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘소록도’의 천사 할매, 마가렛 피사렉 [플랫]]]></title>
+        <id>https://v.daum.net/v/20231004104451502</id>
+        <link href="https://v.daum.net/v/20231004104451502"/>
+        <updated>2023-10-04T02:23:45.086Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">10:44</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Tech & Law] 데이터의 집중과 공유·개방의 과제]]></title>
+        <id>https://v.daum.net/v/20231004104439498</id>
+        <link href="https://v.daum.net/v/20231004104439498"/>
+        <updated>2023-10-04T02:23:45.089Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">10:44</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[기자수첩]급성장 유니콘 기업의 그늘]]></title>
+        <id>https://v.daum.net/v/20231004103808224</id>
+        <link href="https://v.daum.net/v/20231004103808224"/>
+        <updated>2023-10-04T02:23:45.092Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">10:38</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[백투더투데이] "경주로 출발" 1983년 수학여행]]></title>
+        <id>https://v.daum.net/v/20231004100504968</id>
+        <link href="https://v.daum.net/v/20231004100504968"/>
+        <updated>2023-10-04T02:23:45.093Z</updated>
+        <content type="html"><![CDATA[대구MBC<span class="txt_bar"> · </span><span class="info_time">10:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['공연하러(?)오는 관객'이 실제 있는 나라]]></title>
         <id>https://v.daum.net/v/20231004093802964</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20231004085400378"/>
         <updated>2023-10-04T01:03:58.057Z</updated>
         <content type="html"><![CDATA[베이비뉴스<span class="txt_bar"> · </span><span class="info_time">08:54</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한미동맹 70주년…정치·군사 동맹 넘어 ‘문화 동반자’로]]></title>
-        <id>https://v.daum.net/v/20231004083018821</id>
-        <link href="https://v.daum.net/v/20231004083018821"/>
-        <updated>2023-10-04T01:03:58.065Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">08:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 대학, 글로벌 저임금 2류직장[시시비비]]]></title>
-        <id>https://v.daum.net/v/20231004082905787</id>
-        <link href="https://v.daum.net/v/20231004082905787"/>
-        <updated>2023-10-04T01:03:58.066Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">08:29</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[만화] 뜻밖의 부작용 [날백수인생]]]></title>
-        <id>https://v.daum.net/v/20231004080901446</id>
-        <link href="https://v.daum.net/v/20231004080901446"/>
-        <updated>2023-10-03T23:15:22.686Z</updated>
-        <content type="html"><![CDATA[오마이뉴스<span class="txt_bar"> · </span><span class="info_time">08:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[THINK ENGLISH] 미국 정부, 온라인 유통 독점 혐의로 아마존 고소]]></title>
-        <id>https://v.daum.net/v/20231004070016553</id>
-        <link href="https://v.daum.net/v/20231004070016553"/>
-        <updated>2023-10-03T22:14:59.675Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
     </entry>
 </feed>
