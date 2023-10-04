@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-10-04T16:20:50.527Z</updated>
+    <updated>2023-10-04T17:17:34.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[청계광장]우리에게 내일이 없다면]]></title>
+        <id>https://v.daum.net/v/20231005020501327</id>
+        <link href="https://v.daum.net/v/20231005020501327"/>
+        <updated>2023-10-04T17:17:15.272Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]도구 예찬, 도구가 문명을 이루었다]]></title>
+        <id>https://v.daum.net/v/20231005020305322</id>
+        <link href="https://v.daum.net/v/20231005020305322"/>
+        <updated>2023-10-04T17:17:15.272Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]변화하는 전통과 추석]]></title>
+        <id>https://v.daum.net/v/20231005020302321</id>
+        <link href="https://v.daum.net/v/20231005020302321"/>
+        <updated>2023-10-04T17:17:15.274Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[진중권 칼럼] 무권유죄 유권무죄]]></title>
         <id>https://v.daum.net/v/20231005003324980</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20231005001801867"/>
         <updated>2023-10-04T16:20:31.236Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[권혁재의 사람사진] 인형극으로 성·인권 교육]]></title>
-        <id>https://v.daum.net/v/20231005001713861</id>
-        <link href="https://v.daum.net/v/20231005001713861"/>
-        <updated>2023-10-04T16:20:31.237Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김병기 ‘필향만리’] 患所以立(환소이립)]]></title>
-        <id>https://v.daum.net/v/20231005001641859</id>
-        <link href="https://v.daum.net/v/20231005001641859"/>
-        <updated>2023-10-04T16:20:31.238Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[취재수첩] 금감원도 황당하다는 은행의 중도해지 이자 셈법]]></title>
-        <id>https://v.daum.net/v/20231005001601854</id>
-        <link href="https://v.daum.net/v/20231005001601854"/>
-        <updated>2023-10-04T15:16:43.191Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:16</span>]]></content>
     </entry>
 </feed>
