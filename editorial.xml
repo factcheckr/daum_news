@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-10-05T16:21:20.771Z</updated>
+    <updated>2023-10-05T17:15:35.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]비건산업의 실패]]></title>
+        <id>https://v.daum.net/v/20231006020301371</id>
+        <link href="https://v.daum.net/v/20231006020301371"/>
+        <updated>2023-10-05T17:15:13.706Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]인공지능이 촉발한 기술전쟁의 '폭풍전야']]></title>
+        <id>https://v.daum.net/v/20231006020201369</id>
+        <link href="https://v.daum.net/v/20231006020201369"/>
+        <updated>2023-10-05T17:15:13.707Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중앙시평] 동성결합 법적 편입, 법원에 맡길 것인가?]]></title>
         <id>https://v.daum.net/v/20231006005137168</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231006002215056"/>
         <updated>2023-10-05T16:20:55.551Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[조원경의 돈의 세계] 10년물 국채금리와시장 불안]]></title>
-        <id>https://v.daum.net/v/20231006002117039</id>
-        <link href="https://v.daum.net/v/20231006002117039"/>
-        <updated>2023-10-05T16:20:55.553Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[아침 묵상] “통하면 안 아프고, 안 통하면 아프다”]]></title>
-        <id>https://v.daum.net/v/20231006001954004</id>
-        <link href="https://v.daum.net/v/20231006001954004"/>
-        <updated>2023-10-05T16:20:55.556Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:19</span>]]></content>
     </entry>
 </feed>
