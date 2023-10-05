@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-10-05T13:20:17.190Z</updated>
+    <updated>2023-10-05T14:15:08.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일본 오염수 2차 방류...IAEA “삼중수소 농도 기준치보다 낮아”]]></title>
+        <id>https://v.daum.net/v/20231005222132685</id>
+        <link href="https://v.daum.net/v/20231005222132685"/>
+        <updated>2023-10-05T14:14:41.368Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">22:21</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가을바람에 발그레해진 댑싸리[포토뉴스]]]></title>
         <id>https://v.daum.net/v/20231005220039401</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231005205128197"/>
         <updated>2023-10-05T12:30:08.114Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">20:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["5G 3만원부터" 요금전쟁 신호탄 쏜 LGU+]]></title>
-        <id>https://v.daum.net/v/20231005204916147</id>
-        <link href="https://v.daum.net/v/20231005204916147"/>
-        <updated>2023-10-05T12:30:08.120Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">20:49</span>]]></content>
     </entry>
 </feed>
