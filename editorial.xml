@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-10-05T22:15:34.059Z</updated>
+    <updated>2023-10-05T23:16:37.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](6일 조간)]]></title>
+        <id>https://v.daum.net/v/20231006080007633</id>
+        <link href="https://v.daum.net/v/20231006080007633"/>
+        <updated>2023-10-05T23:16:11.587Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사람은 어떻게 각성하는가… 7g짜리 ‘작은 기관’의 비밀]]></title>
+        <id>https://v.daum.net/v/20231006071516114</id>
+        <link href="https://v.daum.net/v/20231006071516114"/>
+        <updated>2023-10-05T23:16:11.588Z</updated>
+        <content type="html"><![CDATA[헬스조선<span class="txt_bar"> · </span><span class="info_time">07:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[박순찬 장도리 카툰] 신중한 장관후보]]></title>
+        <id>https://v.daum.net/v/20231006071502109</id>
+        <link href="https://v.daum.net/v/20231006071502109"/>
+        <updated>2023-10-05T23:16:11.595Z</updated>
+        <content type="html"><![CDATA[오마이뉴스<span class="txt_bar"> · </span><span class="info_time">07:15</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이충재 칼럼] '국기문란' 남발하는 나라, 정상 아니다]]></title>
         <id>https://v.daum.net/v/20231006070602997</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20231006061508404"/>
         <updated>2023-10-05T22:15:09.325Z</updated>
         <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">06:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[슬기로운 기자생활] 가짜 사인볼과 잠실야구장]]></title>
-        <id>https://v.daum.net/v/20231006060502297</id>
-        <link href="https://v.daum.net/v/20231006060502297"/>
-        <updated>2023-10-05T21:14:31.764Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">06:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데스크 칼럼] 비가역적인 탈통신]]></title>
-        <id>https://v.daum.net/v/20231006060041142</id>
-        <link href="https://v.daum.net/v/20231006060041142"/>
-        <updated>2023-10-05T21:14:31.764Z</updated>
-        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Robert J. Fouser] ‘Global English’ in 2023]]></title>
-        <id>https://v.daum.net/v/20231006053040580</id>
-        <link href="https://v.daum.net/v/20231006053040580"/>
-        <updated>2023-10-05T21:14:31.766Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
     </entry>
 </feed>
