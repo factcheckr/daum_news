@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-10-05T09:17:26.659Z</updated>
+    <updated>2023-10-05T10:20:12.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인천 만수동 햇빛마을벽산아파트 84㎡ 3억2000만원에 거래]]></title>
+        <id>https://v.daum.net/v/20231005183531731</id>
+        <link href="https://v.daum.net/v/20231005183531731"/>
+        <updated>2023-10-05T10:20:11.334Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:35</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수원 매탄동 매탄현대힐스테이트 84㎡ 5억7500만원에 거래]]></title>
+        <id>https://v.daum.net/v/20231005183031580</id>
+        <link href="https://v.daum.net/v/20231005183031580"/>
+        <updated>2023-10-05T10:20:11.334Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천 연수동 연수1차시영임 49㎡ 2억1500만원에 거래]]></title>
+        <id>https://v.daum.net/v/20231005182539430</id>
+        <link href="https://v.daum.net/v/20231005182539430"/>
+        <updated>2023-10-05T10:20:11.335Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:25</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천 논현동 논현한화에코메트로12단지 85㎡ 4억6500만원에 거래]]></title>
+        <id>https://v.daum.net/v/20231005182035236</id>
+        <link href="https://v.daum.net/v/20231005182035236"/>
+        <updated>2023-10-05T10:20:11.342Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:20</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인천 송도동 송도 SK VIEW 아파트 84㎡ 7억2000만원에 거래]]></title>
         <id>https://v.daum.net/v/20231005181543095</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20231005173126154"/>
         <updated>2023-10-05T09:17:25.776Z</updated>
         <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">17:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 논현동 논현주공1단지 59㎡ 2억3800만원에 거래]]></title>
-        <id>https://v.daum.net/v/20231005173056137</id>
-        <link href="https://v.daum.net/v/20231005173056137"/>
-        <updated>2023-10-05T09:17:25.778Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 천천동 화서역푸르지오더에듀포레 84㎡ 6억6000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20231005172532809</id>
-        <link href="https://v.daum.net/v/20231005172532809"/>
-        <updated>2023-10-05T09:17:25.780Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 인계동 신반포수원 60㎡ 3억2900만원에 거래]]></title>
-        <id>https://v.daum.net/v/20231005172108594</id>
-        <link href="https://v.daum.net/v/20231005172108594"/>
-        <updated>2023-10-05T08:21:51.817Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 천천동 화서역푸르지오더에듀포레 84㎡ 6억9000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20231005171611419</id>
-        <link href="https://v.daum.net/v/20231005171611419"/>
-        <updated>2023-10-05T08:21:51.819Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:16</span>]]></content>
     </entry>
 </feed>
