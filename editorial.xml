@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-10-06T04:19:15.743Z</updated>
+    <updated>2023-10-06T05:15:07.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인사] 공정거래위원회]]></title>
+        <id>https://v.daum.net/v/20231006140604138</id>
+        <link href="https://v.daum.net/v/20231006140604138"/>
+        <updated>2023-10-06T05:14:48.676Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">14:06</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[기자수첩]정치혐오에 급증한 무당층…총선 앞둔 여야 '민생 챙기기' 급선무]]></title>
+        <id>https://v.daum.net/v/20231006132842726</id>
+        <link href="https://v.daum.net/v/20231006132842726"/>
+        <updated>2023-10-06T05:14:48.679Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">13:28</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[채권 대폭락, 빚의 대폭발…이대로면 경제위기, 한국은 무방비 [홍길용의 화식열전]]]></title>
         <id>https://v.daum.net/v/20231006131352310</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231006113032530"/>
         <updated>2023-10-06T03:16:13.086Z</updated>
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 車 세계 1위 도요타 뚫은 LG엔솔, ‘초격차’의 힘]]></title>
-        <id>https://v.daum.net/v/20231006112425222</id>
-        <link href="https://v.daum.net/v/20231006112425222"/>
-        <updated>2023-10-06T03:16:13.087Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 반도체 공장에 농지까지 푼 日, 한국은 “규제혁파” 말뿐]]></title>
-        <id>https://v.daum.net/v/20231006112327176</id>
-        <link href="https://v.daum.net/v/20231006112327176"/>
-        <updated>2023-10-06T03:16:13.089Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:23</span>]]></content>
     </entry>
 </feed>
