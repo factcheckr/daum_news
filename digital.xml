@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-10-06T11:14:37.417Z</updated>
+    <updated>2023-10-06T12:29:47.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NHN에듀, 서울대와 인니서 한국어 교육 프로그램 출시]]></title>
+        <id>https://v.daum.net/v/20231006212748109</id>
+        <link href="https://v.daum.net/v/20231006212748109"/>
+        <updated>2023-10-06T12:29:22.559Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">21:27</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[환경공단 광주전남제주환경본부, 전통시장 활성화 공로 국무총리 포상]]></title>
+        <id>https://v.daum.net/v/20231006205605560</id>
+        <link href="https://v.daum.net/v/20231006205605560"/>
+        <updated>2023-10-06T12:29:22.560Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">20:56</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[글로벌 게임팬 사로잡은 ‘P의 거짓’...이유 있는 흥행]]></title>
         <id>https://v.daum.net/v/20231006200906483</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231006185127121"/>
         <updated>2023-10-06T10:17:18.966Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">18:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“카톡 이모티콘 값 올린 주범”…구글·애플 갑질에 600억 과징금]]></title>
-        <id>https://v.daum.net/v/20231006184800038</id>
-        <link href="https://v.daum.net/v/20231006184800038"/>
-        <updated>2023-10-06T10:17:18.968Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">18:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국민 85% 스마트폰 기기 비싸…합리적인 가격 '80만원 미만']]></title>
-        <id>https://v.daum.net/v/20231006184200913</id>
-        <link href="https://v.daum.net/v/20231006184200913"/>
-        <updated>2023-10-06T10:17:18.972Z</updated>
-        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">18:42</span>]]></content>
     </entry>
 </feed>
