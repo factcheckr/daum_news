@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-10-07T03:17:35.479Z</updated>
+    <updated>2023-10-07T04:17:50.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아마존도 우주인터넷망 구축 시동…시험위성 2기 발사]]></title>
+        <id>https://v.daum.net/v/20231007131001481</id>
+        <link href="https://v.daum.net/v/20231007131001481"/>
+        <updated>2023-10-07T04:17:20.140Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">13:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김종인-尹대통령이 투자권유?…유명인 사칭 '가짜광고' 안막나 못막나]]></title>
+        <id>https://v.daum.net/v/20231007123011151</id>
+        <link href="https://v.daum.net/v/20231007123011151"/>
+        <updated>2023-10-07T04:17:20.140Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">12:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["포켓몬 잡고 서울 구경도 하고" 일석이조 이벤트]]></title>
         <id>https://v.daum.net/v/20231007121042865</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231007090004741"/>
         <updated>2023-10-07T01:00:53.298Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">09:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[갤럭시S24 두뇌, 엑시노스 2400·스냅드래곤8 3 비교했더니]]></title>
-        <id>https://v.daum.net/v/20231007085803724</id>
-        <link href="https://v.daum.net/v/20231007085803724"/>
-        <updated>2023-10-07T01:00:53.299Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">08:58</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[존리 장하준 황현희가 주식투자 권유? 페이스북 사칭 광고 기승]]></title>
-        <id>https://v.daum.net/v/20231007085504708</id>
-        <link href="https://v.daum.net/v/20231007085504708"/>
-        <updated>2023-10-07T01:00:53.299Z</updated>
-        <content type="html"><![CDATA[미디어오늘<span class="txt_bar"> · </span><span class="info_time">08:55</span>]]></content>
     </entry>
 </feed>
