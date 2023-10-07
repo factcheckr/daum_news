@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-10-07T01:01:16.248Z</updated>
+    <updated>2023-10-07T01:55:14.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지식 주입하면 알아서 척척? 일장춘몽 ‘전문가시스템’]]></title>
+        <id>https://v.daum.net/v/20231007100504518</id>
+        <link href="https://v.daum.net/v/20231007100504518"/>
+        <updated>2023-10-07T01:54:48.172Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">10:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[르포]눈 앞에 펼쳐진 메이플스토리…'메덕' 모였다]]></title>
         <id>https://v.daum.net/v/20231007100005397</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20231007080057331</id>
         <link href="https://v.daum.net/v/20231007080057331"/>
         <updated>2023-10-06T23:15:01.096Z</updated>
-        <content type="html"><![CDATA[동아사이언스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지구 생물 절반 이상이 토양에 산다]]></title>
-        <id>https://v.daum.net/v/20231007080041325</id>
-        <link href="https://v.daum.net/v/20231007080041325"/>
-        <updated>2023-10-06T23:15:01.110Z</updated>
         <content type="html"><![CDATA[동아사이언스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
     </entry>
 </feed>
