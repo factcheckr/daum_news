@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2023-10-07T16:18:33.439Z</updated>
+    <updated>2023-10-07T17:13:00.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사전투표율 22.64%...지방선거·재보선 통틀어 최고치]]></title>
+        <id>https://v.daum.net/v/20231008012809272</id>
+        <link href="https://v.daum.net/v/20231008012809272"/>
+        <updated>2023-10-07T17:11:49.735Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">01:28</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘물류취약지역 개선 시동’ 법률개정안 국회 통과]]></title>
         <id>https://v.daum.net/v/20231008011435187</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231008001309548"/>
         <updated>2023-10-07T16:16:57.657Z</updated>
         <content type="html"><![CDATA[MBC<span class="txt_bar"> · </span><span class="info_time">00:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김태우, 이재명 유세 취소에 “범죄 피의자가 뭔 낯짝으로 나서겠나”]]></title>
-        <id>https://v.daum.net/v/20231008001044528</id>
-        <link href="https://v.daum.net/v/20231008001044528"/>
-        <updated>2023-10-07T16:16:57.659Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
     </entry>
 </feed>
