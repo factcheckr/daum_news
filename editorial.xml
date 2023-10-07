@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-10-07T11:13:44.506Z</updated>
+    <updated>2023-10-07T12:26:58.954Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“현실의 당신을 만나보고 싶어요” [편집장 레터]]]></title>
+        <id>https://v.daum.net/v/20231007210317877</id>
+        <link href="https://v.daum.net/v/20231007210317877"/>
+        <updated>2023-10-07T12:26:32.617Z</updated>
+        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">21:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문재인 "부동산 정책 2019년까지 선방, 코로나 이후 실책·실기"]]></title>
         <id>https://v.daum.net/v/20231007153154400</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231007050304656"/>
         <updated>2023-10-06T22:14:25.190Z</updated>
         <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 정치 공방 접고 '대법원장 공백' 서둘러 해소하라]]></title>
-        <id>https://v.daum.net/v/20231007043155528</id>
-        <link href="https://v.daum.net/v/20231007043155528"/>
-        <updated>2023-10-06T20:15:54.259Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:31</span>]]></content>
     </entry>
 </feed>
