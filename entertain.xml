@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2023-10-07T18:18:35.100Z</updated>
+    <updated>2023-10-07T19:12:52.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박나래 "서장훈, 국대 이후 저렇게 움직이는 건 처음"]]></title>
+        <id>https://v.daum.net/v/20231008034208718</id>
+        <link href="https://v.daum.net/v/20231008034208718"/>
+        <updated>2023-10-07T19:12:04.468Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">03:42</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연정훈, 김종민 '꼼수'에 응징…어떻게]]></title>
         <id>https://v.daum.net/v/20231008030710691</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231008012901277"/>
         <updated>2023-10-07T17:12:20.884Z</updated>
         <content type="html"><![CDATA[bnt뉴스<span class="txt_bar"> · </span><span class="info_time">01:29</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 배우 최성희 '시크한 섹시미'(커스텀어스 패션쇼)]]></title>
-        <id>https://v.daum.net/v/20231008012702264</id>
-        <link href="https://v.daum.net/v/20231008012702264"/>
-        <updated>2023-10-07T17:12:20.886Z</updated>
-        <content type="html"><![CDATA[bnt뉴스<span class="txt_bar"> · </span><span class="info_time">01:27</span>]]></content>
     </entry>
 </feed>
