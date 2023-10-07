@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-10-07T04:17:50.808Z</updated>
+    <updated>2023-10-07T05:14:18.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[아마존도 우주인터넷망 구축 시동…시험위성 2기 발사]]></title>
+        <title type="html"><![CDATA[조작된 AI 딥페이크 ‘활개’…미 할리우드 ‘셧다운’ 장기화 조짐]]></title>
+        <id>https://v.daum.net/v/20231007140007183</id>
+        <link href="https://v.daum.net/v/20231007140007183"/>
+        <updated>2023-10-07T05:13:52.257Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이종호 장관 "K-OTT 및 콘텐츠, 세계로 뻗어나가도록 체계적 지원"]]></title>
+        <id>https://v.daum.net/v/20231007140003169</id>
+        <link href="https://v.daum.net/v/20231007140003169"/>
+        <updated>2023-10-07T05:13:52.272Z</updated>
+        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['오직 힘 뿐' 웹젠 'R2M', 신규 서버 '타나토스2' 오픈 기념 이벤트 시작]]></title>
+        <id>https://v.daum.net/v/20231007135607107</id>
+        <link href="https://v.daum.net/v/20231007135607107"/>
+        <updated>2023-10-07T05:13:52.273Z</updated>
+        <content type="html"><![CDATA[MHN스포츠<span class="txt_bar"> · </span><span class="info_time">13:56</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[베이조스, 우주인터넷망 구축 시동…머스크 추격 시작]]></title>
         <id>https://v.daum.net/v/20231007131001481</id>
         <link href="https://v.daum.net/v/20231007131001481"/>
         <updated>2023-10-07T04:17:20.140Z</updated>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20231007094038216"/>
         <updated>2023-10-07T01:00:53.283Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">09:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주요 게임사, 4분기 야심작 쏟아낸다]]></title>
-        <id>https://v.daum.net/v/20231007090941933</id>
-        <link href="https://v.daum.net/v/20231007090941933"/>
-        <updated>2023-10-07T01:00:53.285Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">09:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유튜브의 '튜브'의 정체는 추억의 브라운관[아무Tech]]]></title>
-        <id>https://v.daum.net/v/20231007090013768</id>
-        <link href="https://v.daum.net/v/20231007090013768"/>
-        <updated>2023-10-07T01:00:53.296Z</updated>
-        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">09:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["말 안 들으면 앱 등록 거부"…방통위, '플랫폼 갑질' 구글·애플에 680억 내게 한다]]></title>
-        <id>https://v.daum.net/v/20231007090004741</id>
-        <link href="https://v.daum.net/v/20231007090004741"/>
-        <updated>2023-10-07T01:00:53.298Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">09:00</span>]]></content>
     </entry>
 </feed>
