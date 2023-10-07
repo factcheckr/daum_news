@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2023-10-07T17:13:00.263Z</updated>
+    <updated>2023-10-07T18:18:35.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연정훈, 김종민 '꼼수'에 응징…어떻게]]></title>
+        <id>https://v.daum.net/v/20231008030710691</id>
+        <link href="https://v.daum.net/v/20231008030710691"/>
+        <updated>2023-10-07T18:17:50.880Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">03:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['발레리나' 박유림, 발레코어 룩 완벽 소화 [화보]]]></title>
+        <id>https://v.daum.net/v/20231008030331688</id>
+        <link href="https://v.daum.net/v/20231008030331688"/>
+        <updated>2023-10-07T18:17:50.892Z</updated>
+        <content type="html"><![CDATA[TV리포트<span class="txt_bar"> · </span><span class="info_time">03:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[첫방 '랜선육아왕' 신현준, 딸바보 등극 "딸 결혼까지 살아야···90살 장수 소원, 술담배 끊었다"[Oh!쎈 종합]]]></title>
         <id>https://v.daum.net/v/20231008020907458</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231008012702264"/>
         <updated>2023-10-07T17:12:20.886Z</updated>
         <content type="html"><![CDATA[bnt뉴스<span class="txt_bar"> · </span><span class="info_time">01:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 아나운서 조유나 '레드의 러블리함'(커스텀어스 패션쇼)]]></title>
-        <id>https://v.daum.net/v/20231008012003236</id>
-        <link href="https://v.daum.net/v/20231008012003236"/>
-        <updated>2023-10-07T17:12:20.888Z</updated>
-        <content type="html"><![CDATA[bnt뉴스<span class="txt_bar"> · </span><span class="info_time">01:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 쇼호스트 이혜진 '커스텀어스 패션쇼 보러 왔어요']]></title>
-        <id>https://v.daum.net/v/20231008011902231</id>
-        <link href="https://v.daum.net/v/20231008011902231"/>
-        <updated>2023-10-07T17:12:20.891Z</updated>
-        <content type="html"><![CDATA[bnt뉴스<span class="txt_bar"> · </span><span class="info_time">01:19</span>]]></content>
     </entry>
 </feed>

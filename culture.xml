@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2023-10-07T17:13:00.250Z</updated>
+    <updated>2023-10-07T18:18:35.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[가정예배 365-10월 8일] 우리의 존재]]></title>
+        <id>https://v.daum.net/v/20231008030319687</id>
+        <link href="https://v.daum.net/v/20231008030319687"/>
+        <updated>2023-10-07T18:17:40.336Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">03:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 황금 연휴 '완연한 가을'...곳곳 가을 축제 본격화]]></title>
+        <id>https://v.daum.net/v/20231008021609511</id>
+        <link href="https://v.daum.net/v/20231008021609511"/>
+        <updated>2023-10-07T18:17:40.336Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">02:16</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[포토] 모델 박재이 '안녕'(커스텀어스 패션쇼)]]></title>
         <id>https://v.daum.net/v/20231008012402258</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231008003336819"/>
         <updated>2023-10-07T16:17:29.933Z</updated>
         <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">00:33</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한글날 앞두고 제주말 한마당…“지꺼지게 놀게마씀!”]]></title>
-        <id>https://v.daum.net/v/20231008003019774</id>
-        <link href="https://v.daum.net/v/20231008003019774"/>
-        <updated>2023-10-07T17:12:12.836Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[문화가K] ‘칼로 새긴 장준하’ 특별기획전…독립·민주화 정신 판화 속으로]]></title>
-        <id>https://v.daum.net/v/20231008003013771</id>
-        <link href="https://v.daum.net/v/20231008003013771"/>
-        <updated>2023-10-07T16:17:29.935Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
     </entry>
 </feed>
