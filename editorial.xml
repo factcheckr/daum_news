@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-10-08T22:14:58.354Z</updated>
+    <updated>2023-10-08T23:15:45.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“어떤 변화는 누군가의 희생에 빚지고 있더라” [사람IN]]]></title>
+        <id>https://v.daum.net/v/20231009081201013</id>
+        <link href="https://v.daum.net/v/20231009081201013"/>
+        <updated>2023-10-08T23:15:22.437Z</updated>
+        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">08:12</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[팬데믹 때 헌신한 ‘덕분에’ 망하게 생겼다 [편집국장의 편지]]]></title>
+        <id>https://v.daum.net/v/20231009081155011</id>
+        <link href="https://v.daum.net/v/20231009081155011"/>
+        <updated>2023-10-08T23:15:22.442Z</updated>
+        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">08:11</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“나이는 숫자일 뿐이다.” [기자들의 시선]]]></title>
+        <id>https://v.daum.net/v/20231009081153009</id>
+        <link href="https://v.daum.net/v/20231009081153009"/>
+        <updated>2023-10-08T23:15:22.445Z</updated>
+        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">08:11</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이충재의 인사이트] '김행 줄행랑 방지법', 왜 필요한가]]></title>
         <id>https://v.daum.net/v/20231009070002319</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20231009050256588"/>
         <updated>2023-10-08T20:15:45.439Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데스크 시각] 이제 소를 돌볼 시간이다/박상숙 산업부장]]></title>
-        <id>https://v.daum.net/v/20231009050255587</id>
-        <link href="https://v.daum.net/v/20231009050255587"/>
-        <updated>2023-10-08T20:15:45.441Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한국국방연구원(KIDA)의 연친알국] 한반도 평화유지의 핵심 축… 종전선언 앞세운 ‘유엔사 흔들기’ 안 돼/강석율 한국국방연구원 현안연구팀장]]></title>
-        <id>https://v.daum.net/v/20231009050252586</id>
-        <link href="https://v.daum.net/v/20231009050252586"/>
-        <updated>2023-10-08T20:15:45.442Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스룸에서] 무병장수의 특급 비결, 투표였다]]></title>
-        <id>https://v.daum.net/v/20231009043155456</id>
-        <link href="https://v.daum.net/v/20231009043155456"/>
-        <updated>2023-10-08T20:15:45.444Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:31</span>]]></content>
     </entry>
 </feed>
