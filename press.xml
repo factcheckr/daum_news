@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-10-09T02:23:58.650Z</updated>
+    <updated>2023-10-09T03:16:50.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정선 고한 구공탄시장 구이축제 성황]]></title>
+        <id>https://v.daum.net/v/20231009115339320</id>
+        <link href="https://v.daum.net/v/20231009115339320"/>
+        <updated>2023-10-09T03:16:37.536Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">11:53</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Xinhua Silk Road: 신화-헝산 황기 시장 지수 공개]]></title>
+        <id>https://v.daum.net/v/20231009113347038</id>
+        <link href="https://v.daum.net/v/20231009113347038"/>
+        <updated>2023-10-09T03:16:37.537Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경상북도 '전통시장 활성화' 국무총리 표창 수상]]></title>
         <id>https://v.daum.net/v/20231009112141855</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231009094704169"/>
         <updated>2023-10-09T01:02:42.191Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">09:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘 금값시세, 순금1돈(24K) 금시세 0.498%↑]]></title>
-        <id>https://v.daum.net/v/20231009091902760</id>
-        <link href="https://v.daum.net/v/20231009091902760"/>
-        <updated>2023-10-09T01:02:42.193Z</updated>
-        <content type="html"><![CDATA[bnt뉴스<span class="txt_bar"> · </span><span class="info_time">09:19</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리은행 ‘내 문서함’ 서비스 출시]]></title>
-        <id>https://v.daum.net/v/20231009090703625</id>
-        <link href="https://v.daum.net/v/20231009090703625"/>
-        <updated>2023-10-09T01:02:42.195Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">09:07</span>]]></content>
     </entry>
 </feed>

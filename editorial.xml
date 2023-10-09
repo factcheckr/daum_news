@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-10-09T02:23:58.663Z</updated>
+    <updated>2023-10-09T03:16:50.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[부고] 임상준(환경부 차관)씨 모친상]]></title>
+        <id>https://v.daum.net/v/20231009120237559</id>
+        <link href="https://v.daum.net/v/20231009120237559"/>
+        <updated>2023-10-09T03:16:24.998Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">12:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주 48시간 근무제, 저출산의 대책이 될 수 있을까?]]></title>
         <id>https://v.daum.net/v/20231009090104511</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231009050300590"/>
         <updated>2023-10-08T20:15:45.436Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특파원 칼럼] 몸통을 흔드는 꼬리/이재연 워싱턴 특파원]]></title>
-        <id>https://v.daum.net/v/20231009050258589</id>
-        <link href="https://v.daum.net/v/20231009050258589"/>
-        <updated>2023-10-08T20:15:45.438Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:02</span>]]></content>
     </entry>
 </feed>
