@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/society</id>
     <title>다음 뉴스 ─ 전체기사 ─ 사회</title>
-    <updated>2023-10-09T16:21:12.936Z</updated>
+    <updated>2023-10-09T17:16:07.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신림역 인근 건물 할론가스 누출...한때 무정차 통과에 대피 소동]]></title>
+        <id>https://v.daum.net/v/20231010011911344</id>
+        <link href="https://v.daum.net/v/20231010011911344"/>
+        <updated>2023-10-09T17:13:48.492Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">01:19</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KTX에 남성 치여 숨져...고속·일반열차 줄줄이 지연]]></title>
         <id>https://v.daum.net/v/20231010011611339</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231010005104275"/>
         <updated>2023-10-09T16:19:20.602Z</updated>
         <content type="html"><![CDATA[SBS<span class="txt_bar"> · </span><span class="info_time">00:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[축제 현장 '낙하산' 침투…100명 이상 인질로]]></title>
-        <id>https://v.daum.net/v/20231010004804272</id>
-        <link href="https://v.daum.net/v/20231010004804272"/>
-        <updated>2023-10-09T16:19:20.604Z</updated>
-        <content type="html"><![CDATA[SBS<span class="txt_bar"> · </span><span class="info_time">00:48</span>]]></content>
     </entry>
 </feed>
