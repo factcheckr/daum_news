@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-10-09T22:15:32.006Z</updated>
+    <updated>2023-10-09T23:16:20.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국티소믈리에연구원, 온라인 티베리에이션 전문가 자격증 과정 오픈]]></title>
+        <id>https://v.daum.net/v/20231010080705190</id>
+        <link href="https://v.daum.net/v/20231010080705190"/>
+        <updated>2023-10-09T23:16:07.360Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">08:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박현수 몰림 대표, 바이오나노메디신 쌀롱서 ‘신약 개발 고속화 서비스’ 소개]]></title>
+        <id>https://v.daum.net/v/20231010080703189</id>
+        <link href="https://v.daum.net/v/20231010080703189"/>
+        <updated>2023-10-09T23:16:07.363Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">08:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하남시, “훼손된 시설물 발견하면 ‘찰칵’ 신고하세요”]]></title>
         <id>https://v.daum.net/v/20231010071030454</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231010000402025"/>
         <updated>2023-10-09T15:17:31.191Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MBA로 가는 길] 국내 100대 기업 여성임원 최다 배출, 직장인 위한 융합수업·주말수업 확대]]></title>
-        <id>https://v.daum.net/v/20231010000359024</id>
-        <link href="https://v.daum.net/v/20231010000359024"/>
-        <updated>2023-10-09T15:17:31.193Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[건강한 가족]  중동 사로잡은 K의료 바람 … 수준 높은 한술 시스템 이식 성공]]></title>
-        <id>https://v.daum.net/v/20231010000357023</id>
-        <link href="https://v.daum.net/v/20231010000357023"/>
-        <updated>2023-10-09T15:17:31.196Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
     </entry>
 </feed>
