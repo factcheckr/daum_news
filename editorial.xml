@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-10-09T04:19:27.420Z</updated>
+    <updated>2023-10-09T05:16:07.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[상속세 죽이기]]></title>
+        <id>https://v.daum.net/v/20231009141007267</id>
+        <link href="https://v.daum.net/v/20231009141007267"/>
+        <updated>2023-10-09T05:15:46.606Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">14:10</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부고] 임상준(환경부 차관)씨 모친상]]></title>
         <id>https://v.daum.net/v/20231009120237559</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20231009050301592</id>
         <link href="https://v.daum.net/v/20231009050301592"/>
         <updated>2023-10-08T20:15:45.434Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] ‘답정너’ 인사청문회, 이대로는 안 된다]]></title>
-        <id>https://v.daum.net/v/20231009050300590</id>
-        <link href="https://v.daum.net/v/20231009050300590"/>
-        <updated>2023-10-08T20:15:45.436Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
     </entry>
 </feed>
