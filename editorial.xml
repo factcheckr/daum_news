@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-10-10T16:21:08.083Z</updated>
+    <updated>2023-10-10T17:14:51.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]한국 주식시장 저평가, 복수의결권으로 해결해야]]></title>
+        <id>https://v.daum.net/v/20231011020304421</id>
+        <link href="https://v.daum.net/v/20231011020304421"/>
+        <updated>2023-10-10T17:14:29.878Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]수요위기 대 공급위기]]></title>
+        <id>https://v.daum.net/v/20231011020302420</id>
+        <link href="https://v.daum.net/v/20231011020302420"/>
+        <updated>2023-10-10T17:14:29.884Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중앙시평] 북한의 보이지 않는 전쟁]]></title>
         <id>https://v.daum.net/v/20231011010401323</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231011003709202"/>
         <updated>2023-10-10T16:20:46.129Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아침의 문장]]></title>
-        <id>https://v.daum.net/v/20231011002859154</id>
-        <link href="https://v.daum.net/v/20231011002859154"/>
-        <updated>2023-10-10T16:20:46.131Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:28</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수능 선택과목 없앤 새 대입안, 고교학점제 취지에 맞나 [사설]]]></title>
-        <id>https://v.daum.net/v/20231011002107126</id>
-        <link href="https://v.daum.net/v/20231011002107126"/>
-        <updated>2023-10-10T16:20:46.133Z</updated>
-        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">00:21</span>]]></content>
     </entry>
 </feed>
