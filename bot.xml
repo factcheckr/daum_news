@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-10-11T09:16:34.621Z</updated>
+    <updated>2023-10-11T10:17:31.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수원 정자동 정자동신1차 56㎡ 2억6500만원에 거래]]></title>
+        <id>https://v.daum.net/v/20231011183539992</id>
+        <link href="https://v.daum.net/v/20231011183539992"/>
+        <updated>2023-10-11T10:17:30.511Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:35</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가상화폐 비트코인(-0.97%), 코박토큰(+8.88%)]]></title>
+        <id>https://v.daum.net/v/20231011183120890</id>
+        <link href="https://v.daum.net/v/20231011183120890"/>
+        <updated>2023-10-11T10:17:30.513Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">18:31</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고양 식사동 위시티일산자이1단지 134㎡ 7억3000만원에 거래]]></title>
+        <id>https://v.daum.net/v/20231011183103880</id>
+        <link href="https://v.daum.net/v/20231011183103880"/>
+        <updated>2023-10-11T10:17:30.514Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:31</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수원 영통동 영통에듀파크 84㎡ 7억1500만원에 거래]]></title>
+        <id>https://v.daum.net/v/20231011182537727</id>
+        <link href="https://v.daum.net/v/20231011182537727"/>
+        <updated>2023-10-11T10:17:30.530Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:25</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인천 연수동 연수1차시영임 26㎡ 1억1900만원에 거래]]></title>
         <id>https://v.daum.net/v/20231011181531441</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20231011173048871"/>
         <updated>2023-10-11T09:16:33.859Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 구월동 구월롯데캐슬골드아파트 115㎡ 5억9000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20231011172544645</id>
-        <link href="https://v.daum.net/v/20231011172544645"/>
-        <updated>2023-10-11T09:16:33.861Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 옥련동 옥련현대4차 84㎡ 3억4500만원에 거래]]></title>
-        <id>https://v.daum.net/v/20231011172037472</id>
-        <link href="https://v.daum.net/v/20231011172037472"/>
-        <updated>2023-10-11T09:16:33.863Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 청라동 청라호반베르디움2차아파트 59㎡ 4억6300만원에 거래]]></title>
-        <id>https://v.daum.net/v/20231011171534252</id>
-        <link href="https://v.daum.net/v/20231011171534252"/>
-        <updated>2023-10-11T08:20:45.297Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 망포동 동수원자이1차 84㎡ 5억800만원에 거래]]></title>
-        <id>https://v.daum.net/v/20231011171040048</id>
-        <link href="https://v.daum.net/v/20231011171040048"/>
-        <updated>2023-10-11T08:20:45.297Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:10</span>]]></content>
     </entry>
 </feed>
