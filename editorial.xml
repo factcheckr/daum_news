@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-10-11T01:02:49.379Z</updated>
+    <updated>2023-10-11T01:56:29.761Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[명절증후군, 자칫 잘못하면 화병 된다 [이한별의 골때리는 한의학]]]></title>
+        <id>https://v.daum.net/v/20231011101517167</id>
+        <link href="https://v.daum.net/v/20231011101517167"/>
+        <updated>2023-10-11T01:56:11.262Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">10:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[백투더투데이] "새벽종이 울렸다" 1970년대 취로사업]]></title>
+        <id>https://v.daum.net/v/20231011100722860</id>
+        <link href="https://v.daum.net/v/20231011100722860"/>
+        <updated>2023-10-11T01:56:11.280Z</updated>
+        <content type="html"><![CDATA[대구MBC<span class="txt_bar"> · </span><span class="info_time">10:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Too early to be relieved, too much homework to do (KOR)]]></title>
         <id>https://v.daum.net/v/20231011100011504</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231011072706080"/>
         <updated>2023-10-11T01:02:23.810Z</updated>
         <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">07:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[교단일기] 오늘도 힘껏 예뻐하자]]></title>
-        <id>https://v.daum.net/v/20231011070014746</id>
-        <link href="https://v.daum.net/v/20231011070014746"/>
-        <updated>2023-10-10T22:15:17.348Z</updated>
-        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[아름다운 건축] 대전의 명품 공공건축물 건립에 대한 우려와 기대]]></title>
-        <id>https://v.daum.net/v/20231011070011741</id>
-        <link href="https://v.daum.net/v/20231011070011741"/>
-        <updated>2023-10-10T22:15:17.350Z</updated>
-        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
     </entry>
 </feed>
