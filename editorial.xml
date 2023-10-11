@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-10-11T12:30:18.556Z</updated>
+    <updated>2023-10-11T13:20:44.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어쌔신 크리드: 미라지, 매너리즘 가득한 재탕 사골국]]></title>
+        <id>https://v.daum.net/v/20231011220405474</id>
+        <link href="https://v.daum.net/v/20231011220405474"/>
+        <updated>2023-10-11T13:20:24.027Z</updated>
+        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">22:04</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023년 10월 12일[김용민의 그림마당]]]></title>
         <id>https://v.daum.net/v/20231011211856744</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231011204004054"/>
         <updated>2023-10-11T12:29:58.431Z</updated>
         <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">20:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시론] 윤 정부의 대입제도 개편안, 유감이다]]></title>
-        <id>https://v.daum.net/v/20231011203833017</id>
-        <link href="https://v.daum.net/v/20231011203833017"/>
-        <updated>2023-10-11T12:29:58.434Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:38</span>]]></content>
     </entry>
 </feed>
