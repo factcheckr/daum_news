@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-10-11T11:13:51.282Z</updated>
+    <updated>2023-10-11T12:30:18.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 레코디드 퓨처, 전문 인텔리전스 분석가의 정밀도ㆍ정확성 제공]]></title>
+        <id>https://v.daum.net/v/20231011211057605</id>
+        <link href="https://v.daum.net/v/20231011211057605"/>
+        <updated>2023-10-11T12:30:08.372Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">21:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['금산세계인삼축제 국제인삼교역전', 400만 달러 수출 업무협약 성과 거둬]]></title>
+        <id>https://v.daum.net/v/20231011201502608</id>
+        <link href="https://v.daum.net/v/20231011201502608"/>
+        <updated>2023-10-11T12:30:08.379Z</updated>
+        <content type="html"><![CDATA[투어코리아<span class="txt_bar"> · </span><span class="info_time">20:15</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김한영 철도공단 이사장, 익산시 관내 철도소음 피해 현장 방문]]></title>
         <id>https://v.daum.net/v/20231011182142627</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231011174303322"/>
         <updated>2023-10-11T09:16:25.098Z</updated>
         <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">17:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] Xinhua Silk Road: 국제패션활력지수보고서 발표]]></title>
-        <id>https://v.daum.net/v/20231011172752753</id>
-        <link href="https://v.daum.net/v/20231011172752753"/>
-        <updated>2023-10-11T09:16:25.100Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] Xinhua Silk Road: Report on global fashion vitality index]]></title>
-        <id>https://v.daum.net/v/20231011172729740</id>
-        <link href="https://v.daum.net/v/20231011172729740"/>
-        <updated>2023-10-11T09:16:25.101Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:27</span>]]></content>
     </entry>
 </feed>
