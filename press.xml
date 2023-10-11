@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-10-11T03:16:53.662Z</updated>
+    <updated>2023-10-11T04:19:44.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안성시 지방세 감소에 따른 '예산 긴축 구조조정' 돌입]]></title>
+        <id>https://v.daum.net/v/20231011130615582</id>
+        <link href="https://v.daum.net/v/20231011130615582"/>
+        <updated>2023-10-11T04:19:32.072Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">13:06</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[통영시, 야간관광 활성화 도보투어 프로그램 ‘투나잇 통영! 도보음악단’ 개최]]></title>
         <id>https://v.daum.net/v/20231011120703478</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231011114702642"/>
         <updated>2023-10-11T03:16:45.713Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">11:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원시, 수원도시건축문화제 토크콘서트 개최]]></title>
-        <id>https://v.daum.net/v/20231011114403546</id>
-        <link href="https://v.daum.net/v/20231011114403546"/>
-        <updated>2023-10-11T03:16:45.715Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:44</span>]]></content>
     </entry>
 </feed>

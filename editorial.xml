@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-10-11T03:16:53.660Z</updated>
+    <updated>2023-10-11T04:19:44.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이상민 행안부장관, 방일 지방소멸 대응방안 견학한다]]></title>
+        <id>https://v.daum.net/v/20231011130906657</id>
+        <link href="https://v.daum.net/v/20231011130906657"/>
+        <updated>2023-10-11T04:19:18.084Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">13:09</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[만평] '동에 번쩍 서에 번쩍' 멧돼지···만나면 어떻게?]]></title>
         <id>https://v.daum.net/v/20231011115844121</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231011110131488"/>
         <updated>2023-10-11T02:25:35.208Z</updated>
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[명절증후군, 자칫 잘못하면 화병 된다 [이한별의 골때리는 한의학]]]></title>
-        <id>https://v.daum.net/v/20231011101517167</id>
-        <link href="https://v.daum.net/v/20231011101517167"/>
-        <updated>2023-10-11T01:56:11.262Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">10:15</span>]]></content>
     </entry>
 </feed>
