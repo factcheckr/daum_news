@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-10-12T22:15:50.443Z</updated>
+    <updated>2023-10-12T23:16:39.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[기자수첩] 보안 기본원칙도 안 지킨 선관위]]></title>
+        <id>https://v.daum.net/v/20231013080014615</id>
+        <link href="https://v.daum.net/v/20231013080014615"/>
+        <updated>2023-10-12T23:16:13.222Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](13일 조간)]]></title>
+        <id>https://v.daum.net/v/20231013080008608</id>
+        <link href="https://v.daum.net/v/20231013080008608"/>
+        <updated>2023-10-12T23:16:13.224Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유전자-세포-조직의 긴밀한 공조… 생명 '시스템'이라고 부르는 까닭]]></title>
+        <id>https://v.daum.net/v/20231013071518012</id>
+        <link href="https://v.daum.net/v/20231013071518012"/>
+        <updated>2023-10-12T23:16:13.225Z</updated>
+        <content type="html"><![CDATA[헬스조선<span class="txt_bar"> · </span><span class="info_time">07:15</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[나는 왜 NGO] 나의 활동이 너의 일상을 지킬 수 있다면]]></title>
         <id>https://v.daum.net/v/20231013070521935</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20231013063006457"/>
         <updated>2023-10-12T22:15:25.489Z</updated>
         <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">06:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이충재 칼럼] 윤 대통령 권력, 쇠퇴하는 징후들]]></title>
-        <id>https://v.daum.net/v/20231013062101379</id>
-        <link href="https://v.daum.net/v/20231013062101379"/>
-        <updated>2023-10-12T22:15:25.492Z</updated>
-        <content type="html"><![CDATA[오마이뉴스<span class="txt_bar"> · </span><span class="info_time">06:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고해 [굽시니스트 시사 만화]]]></title>
-        <id>https://v.daum.net/v/20231013061718349</id>
-        <link href="https://v.daum.net/v/20231013061718349"/>
-        <updated>2023-10-12T22:15:25.498Z</updated>
-        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">06:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박순찬의 장도리 카툰] 민심의 손]]></title>
-        <id>https://v.daum.net/v/20231013060901251</id>
-        <link href="https://v.daum.net/v/20231013060901251"/>
-        <updated>2023-10-12T21:14:21.002Z</updated>
-        <content type="html"><![CDATA[오마이뉴스<span class="txt_bar"> · </span><span class="info_time">06:09</span>]]></content>
     </entry>
 </feed>
