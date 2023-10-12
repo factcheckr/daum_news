@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-10-12T11:14:56.489Z</updated>
+    <updated>2023-10-12T12:29:34.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Vantage Foundation 출시: 새 자선 레이싱]]></title>
+        <id>https://v.daum.net/v/20231012201832463</id>
+        <link href="https://v.daum.net/v/20231012201832463"/>
+        <updated>2023-10-12T12:29:22.753Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:18</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울장애인종합복지관 ‘최중증 발달장애인 지원, 어떻게 시작할 것인가? 시작을 앞둔 동료에게 나누는 좌충우돌 이야기’ 세미나 개최]]></title>
         <id>https://v.daum.net/v/20231012194703735</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231012172708939"/>
         <updated>2023-10-12T09:16:23.818Z</updated>
         <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">17:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼육대 글로벌한국학과, 제5회 한류 페스티벌 개최]]></title>
-        <id>https://v.daum.net/v/20231012172523871</id>
-        <link href="https://v.daum.net/v/20231012172523871"/>
-        <updated>2023-10-12T09:16:23.821Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">17:25</span>]]></content>
     </entry>
 </feed>
