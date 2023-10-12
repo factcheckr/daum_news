@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-10-12T03:16:45.709Z</updated>
+    <updated>2023-10-12T04:19:20.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에쓰-오일, 서울 마포 지역 저소득 가정 후원…1억원 전달]]></title>
+        <id>https://v.daum.net/v/20231012123203005</id>
+        <link href="https://v.daum.net/v/20231012123203005"/>
+        <updated>2023-10-12T04:19:07.615Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">12:32</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지역아동센터경기남부지원단, 나답게 크는 아이 지원사업 창작물 대회 개최]]></title>
         <id>https://v.daum.net/v/20231012120703574</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20231012113711514</id>
         <link href="https://v.daum.net/v/20231012113711514"/>
         <updated>2023-10-12T03:16:32.774Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">11:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MOOxMOO 플랫폼, 취급 누적량 400억원 돌파]]></title>
-        <id>https://v.daum.net/v/20231012113708511</id>
-        <link href="https://v.daum.net/v/20231012113708511"/>
-        <updated>2023-10-12T03:16:32.776Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">11:37</span>]]></content>
     </entry>
 </feed>
