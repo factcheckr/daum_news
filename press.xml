@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-10-13T09:17:10.012Z</updated>
+    <updated>2023-10-13T10:17:47.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일본 인기 록 밴드 I Don’t Like Mondays., 10월 첫 내한]]></title>
+        <id>https://v.daum.net/v/20231013183703355</id>
+        <link href="https://v.daum.net/v/20231013183703355"/>
+        <updated>2023-10-13T10:17:34.307Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">18:37</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[AsiaNet] Opening Ceremony of the Fourth Qingdao Multinationals Summit]]></title>
         <id>https://v.daum.net/v/20231013181042830</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231013171655226"/>
         <updated>2023-10-13T08:20:39.874Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LG화학-GS칼텍스, 세계 최초 3HP 상용화 속도 낸다]]></title>
-        <id>https://v.daum.net/v/20231013170706966</id>
-        <link href="https://v.daum.net/v/20231013170706966"/>
-        <updated>2023-10-13T08:20:39.876Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:07</span>]]></content>
     </entry>
 </feed>
