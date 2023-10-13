@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-10-13T19:14:00.813Z</updated>
+    <updated>2023-10-13T20:18:15.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[반도체 보릿고개, 올해 안 끝난다…삼성도, TSMC도 '휘청휘청']]></title>
+        <id>https://v.daum.net/v/20231014050902213</id>
+        <link href="https://v.daum.net/v/20231014050902213"/>
+        <updated>2023-10-13T20:17:42.940Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">05:09</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[목숨까지 앗아가는 뇌수막염...영유아에 취약한 이유 찾았다!]]></title>
+        <id>https://v.daum.net/v/20231014043425077</id>
+        <link href="https://v.daum.net/v/20231014043425077"/>
+        <updated>2023-10-13T20:17:42.940Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">04:34</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[epaselect USA NASA PSYCHE MISSION]]></title>
         <id>https://v.daum.net/v/20231014033331876</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231014003228303"/>
         <updated>2023-10-13T16:20:07.857Z</updated>
         <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">00:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[벨킨, 아이폰15 호환 액세서리 선봬]]></title>
-        <id>https://v.daum.net/v/20231014002346265</id>
-        <link href="https://v.daum.net/v/20231014002346265"/>
-        <updated>2023-10-13T16:20:07.858Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">00:23</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USA NASA PSYCHE MISSION]]></title>
-        <id>https://v.daum.net/v/20231014001131214</id>
-        <link href="https://v.daum.net/v/20231014001131214"/>
-        <updated>2023-10-13T15:16:39.345Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">00:11</span>]]></content>
     </entry>
 </feed>
