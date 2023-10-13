@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-10-13T06:22:21.398Z</updated>
+    <updated>2023-10-13T07:16:30.732Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[지평선] 피카레스크와 순옥적 허용]]></title>
+        <id>https://v.daum.net/v/20231013160003582</id>
+        <link href="https://v.daum.net/v/20231013160003582"/>
+        <updated>2023-10-13T07:16:08.501Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">16:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[기고] 지방소멸과 의료인프라]]></title>
+        <id>https://v.daum.net/v/20231013154036924</id>
+        <link href="https://v.daum.net/v/20231013154036924"/>
+        <updated>2023-10-13T07:16:08.504Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:40</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[fn사설] 건강권 확보 위해 의대 정원 확대 더 미룰 수 없다]]></title>
+        <id>https://v.daum.net/v/20231013153726831</id>
+        <link href="https://v.daum.net/v/20231013153726831"/>
+        <updated>2023-10-13T07:16:08.504Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:37</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[의학칼럼] 목 디스크, 언제 수술이 필요한 걸까?]]></title>
         <id>https://v.daum.net/v/20231013143337670</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20231013115430911"/>
         <updated>2023-10-13T03:17:14.475Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:54</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘혁신 비대위’로 체질 바꿔야 할 여당[포럼]]]></title>
-        <id>https://v.daum.net/v/20231013114836692</id>
-        <link href="https://v.daum.net/v/20231013114836692"/>
-        <updated>2023-10-13T03:17:14.477Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[병역특례 ‘전방위 재검토’ 시급하다[포럼]]]></title>
-        <id>https://v.daum.net/v/20231013114835691</id>
-        <link href="https://v.daum.net/v/20231013114835691"/>
-        <updated>2023-10-13T03:17:14.478Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이젠 중국과의 전략적 소통 복원할 때다[문화논단]]]></title>
-        <id>https://v.daum.net/v/20231013114511539</id>
-        <link href="https://v.daum.net/v/20231013114511539"/>
-        <updated>2023-10-13T03:17:14.479Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:45</span>]]></content>
     </entry>
 </feed>
