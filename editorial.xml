@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-10-13T20:18:15.574Z</updated>
+    <updated>2023-10-13T21:14:59.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어느 별에서 왔을까? [ESC]]]></title>
+        <id>https://v.daum.net/v/20231014060502513</id>
+        <link href="https://v.daum.net/v/20231014060502513"/>
+        <updated>2023-10-13T21:14:36.740Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">06:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[홍성걸의 정치나침반]국정감사를 통해 본 위기의 본질]]></title>
+        <id>https://v.daum.net/v/20231014060017403</id>
+        <link href="https://v.daum.net/v/20231014060017403"/>
+        <updated>2023-10-13T21:14:36.740Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[싱가포르로 옮기는 스타트업들 [최연진의 IT 프리즘]]]></title>
         <id>https://v.daum.net/v/20231014050003137</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231014031614865"/>
         <updated>2023-10-13T18:20:30.166Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 국감 간다며 재판 안 나가고 국감장에 불출석, 사법 농락 李 대표]]></title>
-        <id>https://v.daum.net/v/20231014031525864</id>
-        <link href="https://v.daum.net/v/20231014031525864"/>
-        <updated>2023-10-13T18:20:30.168Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 자리 다툼에 1년 넘게 휴업 지방의회, 없어져야 하지 않나]]></title>
-        <id>https://v.daum.net/v/20231014031216862</id>
-        <link href="https://v.daum.net/v/20231014031216862"/>
-        <updated>2023-10-13T18:20:30.171Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:12</span>]]></content>
     </entry>
 </feed>
