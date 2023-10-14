@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-10-14T04:19:07.323Z</updated>
+    <updated>2023-10-14T05:15:03.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엔키, 이노비즈 AA 등급 획득]]></title>
+        <id>https://v.daum.net/v/20231014140746798</id>
+        <link href="https://v.daum.net/v/20231014140746798"/>
+        <updated>2023-10-14T05:14:24.624Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">14:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KOSA, SW기술자 경력관리시스템 클라우드 전환]]></title>
+        <id>https://v.daum.net/v/20231014140134741</id>
+        <link href="https://v.daum.net/v/20231014140134741"/>
+        <updated>2023-10-14T05:14:24.629Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">14:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이스라엘과 팔레스타인이 휴전했다고?...황당한 생성형 AI]]></title>
+        <id>https://v.daum.net/v/20231014140002718</id>
+        <link href="https://v.daum.net/v/20231014140002718"/>
+        <updated>2023-10-14T05:14:24.632Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[날씨쏙 과학쏙] 입으면 빨라진다…현실이 된 아이언맨 '로봇 슈트']]></title>
+        <id>https://v.daum.net/v/20231014135650673</id>
+        <link href="https://v.daum.net/v/20231014135650673"/>
+        <updated>2023-10-14T05:14:24.634Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV<span class="txt_bar"> · </span><span class="info_time">13:56</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[슈나이더 일렉트릭, 마이크로그리드 통합 리더보드 1위]]></title>
+        <id>https://v.daum.net/v/20231014135637670</id>
+        <link href="https://v.daum.net/v/20231014135637670"/>
+        <updated>2023-10-14T05:14:24.635Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">13:56</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[꼭 같은 것보다 다 다른 것이 나은 이유]]></title>
         <id>https://v.daum.net/v/20231014130501287</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20231014111802552"/>
         <updated>2023-10-14T02:20:33.670Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">11:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나온웍스, 네트워크 완벽 보안…“물리적 일방향 전송장비로 사이버전 완비”]]></title>
-        <id>https://v.daum.net/v/20231014111103493</id>
-        <link href="https://v.daum.net/v/20231014111103493"/>
-        <updated>2023-10-14T02:20:33.670Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">11:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KT, 노사 임단협 극적 타결… 임금 3%↑·일시금 500만원]]></title>
-        <id>https://v.daum.net/v/20231014110814454</id>
-        <link href="https://v.daum.net/v/20231014110814454"/>
-        <updated>2023-10-14T02:20:33.677Z</updated>
-        <content type="html"><![CDATA[머니S<span class="txt_bar"> · </span><span class="info_time">11:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이가 코로나19 걸리면 어른보다 덜 아픈 이유 밝혀졌다]]></title>
-        <id>https://v.daum.net/v/20231014110126394</id>
-        <link href="https://v.daum.net/v/20231014110126394"/>
-        <updated>2023-10-14T02:20:33.677Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">11:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["곧 출시되는 아이패드 미니7, '젤리 스크롤' 현상 수정된다”]]></title>
-        <id>https://v.daum.net/v/20231014110018378</id>
-        <link href="https://v.daum.net/v/20231014110018378"/>
-        <updated>2023-10-14T02:20:33.677Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">11:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[게임위드인] 작년과 사뭇 다른 '대한민국 게임대상'…대상 경쟁 치열]]></title>
-        <id>https://v.daum.net/v/20231014110007370</id>
-        <link href="https://v.daum.net/v/20231014110007370"/>
-        <updated>2023-10-14T02:20:33.677Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">11:00</span>]]></content>
     </entry>
 </feed>
