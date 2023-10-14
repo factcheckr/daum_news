@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-10-14T09:16:17.212Z</updated>
+    <updated>2023-10-14T10:15:16.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[퇴근하니 “나 살쪘어?” 묻는 아내… 뭐라 답해야 할까?]]></title>
+        <id>https://v.daum.net/v/20231014190016203</id>
+        <link href="https://v.daum.net/v/20231014190016203"/>
+        <updated>2023-10-14T10:14:56.791Z</updated>
+        <content type="html"><![CDATA[헬스조선<span class="txt_bar"> · </span><span class="info_time">19:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박수홍 부모, 분쟁 사안 벗어난 차남 사생활까지…선 넘은 주장]]></title>
         <id>https://v.daum.net/v/20231014171549026</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231014060017403"/>
         <updated>2023-10-13T21:14:36.740Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싱가포르로 옮기는 스타트업들 [최연진의 IT 프리즘]]]></title>
-        <id>https://v.daum.net/v/20231014050003137</id>
-        <link href="https://v.daum.net/v/20231014050003137"/>
-        <updated>2023-10-13T20:17:51.700Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">05:00</span>]]></content>
     </entry>
 </feed>
