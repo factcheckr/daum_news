@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2023-10-14T18:19:38.322Z</updated>
+    <updated>2023-10-14T19:12:58.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[10대도 공개 처형하는 북한···처형 지켜보던 北주민 불면증 시달려]]></title>
+        <id>https://v.daum.net/v/20231015040018477</id>
+        <link href="https://v.daum.net/v/20231015040018477"/>
+        <updated>2023-10-14T19:11:13.665Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이스라엘에서 서울로 무사히 도착]]></title>
         <id>https://v.daum.net/v/20231015014420385</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231015010013273"/>
         <updated>2023-10-14T16:16:46.627Z</updated>
         <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">01:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무사히 한국까지]]></title>
-        <id>https://v.daum.net/v/20231015005607256</id>
-        <link href="https://v.daum.net/v/20231015005607256"/>
-        <updated>2023-10-14T16:16:46.631Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">00:56</span>]]></content>
     </entry>
 </feed>

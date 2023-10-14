@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2023-10-14T18:19:38.330Z</updated>
+    <updated>2023-10-14T19:12:58.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안정환 아냐? 이혜원, '父 붕어빵' 아들 리환 공개 "리허설"]]></title>
+        <id>https://v.daum.net/v/20231015041003483</id>
+        <link href="https://v.daum.net/v/20231015041003483"/>
+        <updated>2023-10-14T19:12:02.246Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스<span class="txt_bar"> · </span><span class="info_time">04:10</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아르바이트 면접 유도한 뒤 성폭행...강간 혐의 왜 적용 안되나(그알)[종합]]]></title>
         <id>https://v.daum.net/v/20231015025530431</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231015011310295"/>
         <updated>2023-10-14T16:17:30.541Z</updated>
         <content type="html"><![CDATA[마이데일리<span class="txt_bar"> · </span><span class="info_time">01:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안은진 잠자리 포로로 잡혀가자...지승현, 남궁민 의심(연인)[종합]]]></title>
-        <id>https://v.daum.net/v/20231015011100291</id>
-        <link href="https://v.daum.net/v/20231015011100291"/>
-        <updated>2023-10-14T16:17:30.541Z</updated>
-        <content type="html"><![CDATA[TV리포트<span class="txt_bar"> · </span><span class="info_time">01:11</span>]]></content>
     </entry>
 </feed>
