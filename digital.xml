@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-10-15T13:17:04.576Z</updated>
+    <updated>2023-10-15T14:15:14.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인공지능은 바벨탑 재건을 꿈꾸는가]]></title>
+        <id>https://v.daum.net/v/20231015224501122</id>
+        <link href="https://v.daum.net/v/20231015224501122"/>
+        <updated>2023-10-15T14:14:46.604Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">22:45</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CHINA SATELLITE LAUNCH]]></title>
         <id>https://v.daum.net/v/20231015221243958</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231015204404218"/>
         <updated>2023-10-15T12:27:02.080Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:44</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[항우연, 2025년 누리호 4차 발사 준비 본격화]]></title>
-        <id>https://v.daum.net/v/20231015203018089</id>
-        <link href="https://v.daum.net/v/20231015203018089"/>
-        <updated>2023-10-15T12:27:02.080Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">20:30</span>]]></content>
     </entry>
 </feed>
