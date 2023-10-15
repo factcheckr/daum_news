@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-10-15T22:14:52.881Z</updated>
+    <updated>2023-10-15T23:16:03.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[시골로 내려간 둘째네를 보며]]></title>
+        <title type="html"><![CDATA[행정 대혁신이 가능해졌다 [임성은 교수의 혁신 이야기]]]></title>
+        <id>https://v.daum.net/v/20231016074603599</id>
+        <link href="https://v.daum.net/v/20231016074603599"/>
+        <updated>2023-10-15T23:15:38.547Z</updated>
+        <content type="html"><![CDATA[쿠키뉴스<span class="txt_bar"> · </span><span class="info_time">07:46</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[노벨 경제학상 수상자가 본 한국 저출생 문제 [기자들의 시선]]]></title>
+        <id>https://v.daum.net/v/20231016073445433</id>
+        <link href="https://v.daum.net/v/20231016073445433"/>
+        <updated>2023-10-15T23:15:38.547Z</updated>
+        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">07:34</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시골로 내려간 둘째네를 보며 [서울말고]]]></title>
         <id>https://v.daum.net/v/20231016070507042</id>
         <link href="https://v.daum.net/v/20231016070507042"/>
         <updated>2023-10-15T22:14:35.845Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231016060020199"/>
         <updated>2023-10-15T21:13:50.032Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설]의대 입학 정원 확대...국민 건강 위해 당연한 결정이다]]></title>
-        <id>https://v.daum.net/v/20231016060013182</id>
-        <link href="https://v.daum.net/v/20231016060013182"/>
-        <updated>2023-10-15T21:13:50.032Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Andreas Kluth] US must stand with Israel, Ukraine]]></title>
-        <id>https://v.daum.net/v/20231016053046880</id>
-        <link href="https://v.daum.net/v/20231016053046880"/>
-        <updated>2023-10-15T21:13:50.032Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
     </entry>
 </feed>
