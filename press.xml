@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-10-15T05:15:03.711Z</updated>
+    <updated>2023-10-15T06:20:46.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“영월읍 한골도시숲에 맨발걷기 코스 조성하자”]]></title>
+        <id>https://v.daum.net/v/20231015142926968</id>
+        <link href="https://v.daum.net/v/20231015142926968"/>
+        <updated>2023-10-15T06:20:32.329Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">14:29</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트랜스폼의 TOLL FET, 전력 소모 심한 AI 애플리케이션을 위한 최적의 장치로 떠올라]]></title>
         <id>https://v.daum.net/v/20231015135704331</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231015093703755"/>
         <updated>2023-10-15T01:06:47.820Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">09:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최태원 SK그룹 회장, 에스토니아·카리콤 대표단과 경제협력 방안 논의]]></title>
-        <id>https://v.daum.net/v/20231015092704651</id>
-        <link href="https://v.daum.net/v/20231015092704651"/>
-        <updated>2023-10-15T01:06:47.824Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">09:27</span>]]></content>
     </entry>
 </feed>
