@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-10-15T12:27:34.703Z</updated>
+    <updated>2023-10-15T13:17:04.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 10월 16일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20231015220149849</id>
+        <link href="https://v.daum.net/v/20231015220149849"/>
+        <updated>2023-10-15T13:16:42.103Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최고의 외교관 '서희'가 지금 있었다면   [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20231015220003826</id>
+        <link href="https://v.daum.net/v/20231015220003826"/>
+        <updated>2023-10-15T13:16:42.105Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[스트레이트] 일본에 밀린 한국, 윤석열 정부와 저성장의 늪]]></title>
         <id>https://v.daum.net/v/20231015212507580</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231015202650053"/>
         <updated>2023-10-15T12:27:13.249Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노래와 세상] 그대 있음에]]></title>
-        <id>https://v.daum.net/v/20231015202229010</id>
-        <link href="https://v.daum.net/v/20231015202229010"/>
-        <updated>2023-10-15T12:27:13.251Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[NGO 발언대] 성소수자 부모에게 다가가기]]></title>
-        <id>https://v.daum.net/v/20231015202218009</id>
-        <link href="https://v.daum.net/v/20231015202218009"/>
-        <updated>2023-10-15T12:27:13.254Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:22</span>]]></content>
     </entry>
 </feed>
