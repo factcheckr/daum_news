@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2023-10-16T16:20:59.178Z</updated>
+    <updated>2023-10-16T17:14:53.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[애플, 화웨이에 中 1위 스마트폰 자리 빼앗겼다]]></title>
+        <id>https://v.daum.net/v/20231017020715914</id>
+        <link href="https://v.daum.net/v/20231017020715914"/>
+        <updated>2023-10-16T17:13:34.144Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">02:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정몽규, '통영 LNG 발전소 비밀계약' 의혹에 "몰랐다"]]></title>
+        <id>https://v.daum.net/v/20231017015508903</id>
+        <link href="https://v.daum.net/v/20231017015508903"/>
+        <updated>2023-10-16T17:13:34.147Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">01:55</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘27억 임금체불’ 김용빈 대우조선해양건설 회장 구속영장 기각]]></title>
         <id>https://v.daum.net/v/20231017010859764</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20231017000335290</id>
         <link href="https://v.daum.net/v/20231017000335290"/>
         <updated>2023-10-16T15:15:02.691Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EU 탄소국경세 140개 기업 영향…정부 “철강 등 저탄소 전환 지원”]]></title>
-        <id>https://v.daum.net/v/20231017000334289</id>
-        <link href="https://v.daum.net/v/20231017000334289"/>
-        <updated>2023-10-16T15:15:02.691Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보증보험 안 들었다 전세사기 피해…74%가 2030]]></title>
-        <id>https://v.daum.net/v/20231017000326287</id>
-        <link href="https://v.daum.net/v/20231017000326287"/>
-        <updated>2023-10-16T15:15:02.693Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
     </entry>
 </feed>
