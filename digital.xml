@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-10-17T18:20:58.888Z</updated>
+    <updated>2023-10-17T19:13:31.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[불법행위인데도… 게이머들 ‘대리게임’ 만연]]></title>
+        <id>https://v.daum.net/v/20231018040313587</id>
+        <link href="https://v.daum.net/v/20231018040313587"/>
+        <updated>2023-10-17T19:13:02.625Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[디아블로4, 기술적 문제로 시즌2 출시 연기]]></title>
         <id>https://v.daum.net/v/20231018030604478</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231018000654582"/>
         <updated>2023-10-17T15:16:37.990Z</updated>
         <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[건보공단 춘천지사 23일부터 도청 앞으로 한시 이전]]></title>
-        <id>https://v.daum.net/v/20231018000531529</id>
-        <link href="https://v.daum.net/v/20231018000531529"/>
-        <updated>2023-10-17T15:16:37.993Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
     </entry>
 </feed>
