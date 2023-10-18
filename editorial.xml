@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-10-18T07:15:19.884Z</updated>
+    <updated>2023-10-18T08:23:32.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[부고] 정경윤(한양증권 리스크관리본부장)씨 부친상]]></title>
+        <id>https://v.daum.net/v/20231018172053491</id>
+        <link href="https://v.daum.net/v/20231018172053491"/>
+        <updated>2023-10-18T08:23:13.302Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">17:20</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인사] 보건복지부]]></title>
+        <id>https://v.daum.net/v/20231018170705986</id>
+        <link href="https://v.daum.net/v/20231018170705986"/>
+        <updated>2023-10-18T08:23:13.303Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">17:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[지평선]  가자 메트로]]></title>
+        <id>https://v.daum.net/v/20231018170034729</id>
+        <link href="https://v.daum.net/v/20231018170034729"/>
+        <updated>2023-10-18T08:23:13.303Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">17:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설]SW 영향평가, 실천이 중요]]></title>
         <id>https://v.daum.net/v/20231018160119206</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20231018144508602"/>
         <updated>2023-10-18T06:20:52.530Z</updated>
         <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">14:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[논단]R&D 예산 삭감, 尹정부 최대 실정 될수도]]></title>
-        <id>https://v.daum.net/v/20231018142825791</id>
-        <link href="https://v.daum.net/v/20231018142825791"/>
-        <updated>2023-10-18T06:20:52.532Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">14:28</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[청년인턴 체험기] 해양경찰이 지닌 책임과 매력에 푹 빠졌다]]></title>
-        <id>https://v.daum.net/v/20231018130016748</id>
-        <link href="https://v.daum.net/v/20231018130016748"/>
-        <updated>2023-10-18T04:20:48.641Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">13:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기자수첩] 증권가 사건·사고, '개인일탈' 핑계는 그만]]></title>
-        <id>https://v.daum.net/v/20231018130011739</id>
-        <link href="https://v.daum.net/v/20231018130011739"/>
-        <updated>2023-10-18T04:20:48.643Z</updated>
-        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">13:00</span>]]></content>
     </entry>
 </feed>
