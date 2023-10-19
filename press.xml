@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-10-19T12:29:57.784Z</updated>
+    <updated>2023-10-19T13:23:28.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Comviva와 Gnosys, 뱅킹용 디지털 솔루션 고도화 위한 협업 체결]]></title>
+        <id>https://v.daum.net/v/20231019213524021</id>
+        <link href="https://v.daum.net/v/20231019213524021"/>
+        <updated>2023-10-19T13:23:16.814Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">21:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] TrinaTracker System Test Center Awarded Certificate from CNAS]]></title>
         <id>https://v.daum.net/v/20231019210824602</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231019174450821"/>
         <updated>2023-10-19T09:15:51.550Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:44</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Posco goes all out to back Busan’s World Expo bid]]></title>
-        <id>https://v.daum.net/v/20231019174319766</id>
-        <link href="https://v.daum.net/v/20231019174319766"/>
-        <updated>2023-10-19T09:15:51.552Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">17:43</span>]]></content>
     </entry>
 </feed>
