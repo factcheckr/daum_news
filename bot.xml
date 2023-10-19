@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-10-19T08:21:33.922Z</updated>
+    <updated>2023-10-19T09:16:02.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2023년 10월 19일)]]></title>
+        <id>https://v.daum.net/v/20231019173209215</id>
+        <link href="https://v.daum.net/v/20231019173209215"/>
+        <updated>2023-10-19T09:16:01.508Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:32</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인천 옥련동 옥련현대4차 84㎡ 3억6300만원에 거래]]></title>
         <id>https://v.daum.net/v/20231019163537799</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231019153903006"/>
         <updated>2023-10-19T07:15:02.400Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[fnRASSI]신성에스티, 대성산업 등 9종목 52주 신고가 경신]]></title>
-        <id>https://v.daum.net/v/20231019153856993</id>
-        <link href="https://v.daum.net/v/20231019153856993"/>
-        <updated>2023-10-19T07:15:02.401Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:38</span>]]></content>
     </entry>
 </feed>
