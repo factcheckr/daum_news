@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-10-20T19:12:52.137Z</updated>
+    <updated>2023-10-20T20:17:14.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[양질 숏폼 콘텐츠에 집중하는 네이버…"일단 크리에이터 중심"]]></title>
+        <id>https://v.daum.net/v/20231021050011696</id>
+        <link href="https://v.daum.net/v/20231021050011696"/>
+        <updated>2023-10-20T20:16:34.138Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">05:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삼성전자, 차세대 AI용 HBM 공개 "메모리 혁신으로 초격차 지킨다"]]></title>
+        <id>https://v.daum.net/v/20231021043007610</id>
+        <link href="https://v.daum.net/v/20231021043007610"/>
+        <updated>2023-10-20T20:16:34.138Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[없어서 못 판다는 비만약 GLP1...돌풍, 언제까지?]]></title>
+        <id>https://v.daum.net/v/20231021042813607</id>
+        <link href="https://v.daum.net/v/20231021042813607"/>
+        <updated>2023-10-20T20:16:34.138Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">04:28</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중대한說]미국의 대만을 향한 불편한(?) 시선]]></title>
         <id>https://v.daum.net/v/20231021040604571</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20231021030005372"/>
         <updated>2023-10-20T18:18:38.268Z</updated>
         <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">03:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["AI시대 이끌 것"…삼성전자, 10나노 이하 D램 등 차세대 메모리 공개]]></title>
-        <id>https://v.daum.net/v/20231021030002368</id>
-        <link href="https://v.daum.net/v/20231021030002368"/>
-        <updated>2023-10-20T18:18:38.270Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">03:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스타트업부터 대기업까지 디지털 헬스케어 러시···경쟁력 확보 관건은 ‘데이터 활용 역량’]]></title>
-        <id>https://v.daum.net/v/20231021021910345</id>
-        <link href="https://v.daum.net/v/20231021021910345"/>
-        <updated>2023-10-20T18:18:38.271Z</updated>
-        <content type="html"><![CDATA[스포츠경향<span class="txt_bar"> · </span><span class="info_time">02:19</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[㈜소프트파워, 디지털 전환 이끄는 K-노코드기술 ‘스마트메이커’ 60만 가입자 기록]]></title>
-        <id>https://v.daum.net/v/20231021014252304</id>
-        <link href="https://v.daum.net/v/20231021014252304"/>
-        <updated>2023-10-20T17:13:27.805Z</updated>
-        <content type="html"><![CDATA[스포츠경향<span class="txt_bar"> · </span><span class="info_time">01:42</span>]]></content>
     </entry>
 </feed>
