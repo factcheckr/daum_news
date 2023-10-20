@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/sports</id>
     <title>다음 뉴스 ─ 전체기사 ─ 스포츠</title>
-    <updated>2023-10-20T17:14:04.227Z</updated>
+    <updated>2023-10-20T18:19:09.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[5타 차 선두 임희정..우승 8부 능선 넘었다]]></title>
+        <id>https://v.daum.net/v/20231021021648344</id>
+        <link href="https://v.daum.net/v/20231021021648344"/>
+        <updated>2023-10-20T18:18:29.306Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">02:16</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘리버풀 초비상’ 로버트슨, 어깨 부상으로 수술대 오른다···3개월 결장 예상]]></title>
         <id>https://v.daum.net/v/20231021015815316</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231021004200058"/>
         <updated>2023-10-20T16:19:43.164Z</updated>
         <content type="html"><![CDATA[MK스포츠<span class="txt_bar"> · </span><span class="info_time">00:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘토트넘 감독이 직접 OK사인 줬다!’ 부상회복한 손흥민-로메로, 풀럼전 출전 확정]]></title>
-        <id>https://v.daum.net/v/20231021003618030</id>
-        <link href="https://v.daum.net/v/20231021003618030"/>
-        <updated>2023-10-20T16:19:43.164Z</updated>
-        <content type="html"><![CDATA[OSEN<span class="txt_bar"> · </span><span class="info_time">00:36</span>]]></content>
     </entry>
 </feed>
