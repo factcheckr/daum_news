@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-10-20T06:22:09.185Z</updated>
+    <updated>2023-10-20T07:15:04.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서산 한우농장서 국내 첫 럼피스킨병 확진…긴급 방역 조치]]></title>
+        <id>https://v.daum.net/v/20231020160156792</id>
+        <link href="https://v.daum.net/v/20231020160156792"/>
+        <updated>2023-10-20T07:14:43.718Z</updated>
+        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">16:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘굳건한 동맹, 위대한 동행’…한미동맹 70년 오롯이 담은 전시 관람기]]></title>
+        <id>https://v.daum.net/v/20231020155018383</id>
+        <link href="https://v.daum.net/v/20231020155018383"/>
+        <updated>2023-10-20T07:14:43.718Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">15:50</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OECD 평균 의사 수 맞추려면 의대 정원 4500명 늘려야 [쓴소리 곧은 소리]]]></title>
         <id>https://v.daum.net/v/20231020150804019</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231020121232111"/>
         <updated>2023-10-20T03:15:56.631Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">12:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[언스타그램]당연한 것부터 투명해진다.]]></title>
-        <id>https://v.daum.net/v/20231020120116867</id>
-        <link href="https://v.daum.net/v/20231020120116867"/>
-        <updated>2023-10-20T03:15:56.636Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">12:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[치매여행]<37> 요양시설은 집으로 돌아가기 위한 징검다리]]></title>
-        <id>https://v.daum.net/v/20231020115159603</id>
-        <link href="https://v.daum.net/v/20231020115159603"/>
-        <updated>2023-10-20T03:15:56.638Z</updated>
-        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">11:51</span>]]></content>
     </entry>
 </feed>
