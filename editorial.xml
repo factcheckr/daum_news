@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-10-20T09:15:40.481Z</updated>
+    <updated>2023-10-20T10:16:48.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사설] ‘추경호 경제’ 책임 묻고 ‘민생 경제·비상 예산’으로 가야]]></title>
+        <id>https://v.daum.net/v/20231020190646585</id>
+        <link href="https://v.daum.net/v/20231020190646585"/>
+        <updated>2023-10-20T10:16:29.129Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">19:06</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사설]복귀하는 이재명, 민생·혁신·통합 큰 길 뚫으라]]></title>
+        <id>https://v.daum.net/v/20231020190539568</id>
+        <link href="https://v.daum.net/v/20231020190539568"/>
+        <updated>2023-10-20T10:16:29.142Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">19:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사설]또 나열식 예고한 정부 연금개혁안 무책임하다]]></title>
+        <id>https://v.daum.net/v/20231020190526564</id>
+        <link href="https://v.daum.net/v/20231020190526564"/>
+        <updated>2023-10-20T10:16:29.145Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">19:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 역대 최대 세수펑크, 말로만 송구하다고 하면 끝인가]]></title>
         <id>https://v.daum.net/v/20231020180534468</id>
@@ -34,7 +55,7 @@
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">17:28</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[김영준의 마켓관찰] 오너 경영의 지속 가능성]]></title>
+        <title type="html"><![CDATA[[마켓관찰] 오너 경영의 지속 가능성]]></title>
         <id>https://v.daum.net/v/20231020172711474</id>
         <link href="https://v.daum.net/v/20231020172711474"/>
         <updated>2023-10-20T09:15:20.980Z</updated>
@@ -48,7 +69,7 @@
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:27</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[김시덕의 도시 발견] 철도 건설과 도시의 미래]]></title>
+        <title type="html"><![CDATA[[도시 발견] 철도 건설과 도시의 미래]]></title>
         <id>https://v.daum.net/v/20231020172705468</id>
         <link href="https://v.daum.net/v/20231020172705468"/>
         <updated>2023-10-20T09:15:20.984Z</updated>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20231020172402367"/>
         <updated>2023-10-20T09:15:20.991Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미 국채금리 5% 돌파…시장불안 키우는 野 '국가부도' 선동 [사설]]]></title>
-        <id>https://v.daum.net/v/20231020172401364</id>
-        <link href="https://v.daum.net/v/20231020172401364"/>
-        <updated>2023-10-20T09:15:20.993Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공천 겨냥한 구태 '삭발 정치' 이제 멈춰라 [사설]]]></title>
-        <id>https://v.daum.net/v/20231020172400362</id>
-        <link href="https://v.daum.net/v/20231020172400362"/>
-        <updated>2023-10-20T09:15:20.994Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[매경춘추] 헬스케어와 디지털의 만남]]></title>
-        <id>https://v.daum.net/v/20231020170915945</id>
-        <link href="https://v.daum.net/v/20231020170915945"/>
-        <updated>2023-10-20T08:19:42.787Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:09</span>]]></content>
     </entry>
 </feed>
