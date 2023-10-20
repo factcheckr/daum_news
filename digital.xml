@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-10-20T13:18:58.001Z</updated>
+    <updated>2023-10-20T14:16:34.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[EU 반독점 규제 당국, 어도비의 피그마 200억 달러 입찰 조사 재개]]></title>
+        <id>https://v.daum.net/v/20231020224629386</id>
+        <link href="https://v.daum.net/v/20231020224629386"/>
+        <updated>2023-10-20T14:16:09.910Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">22:46</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[라이다로 본 벽 너머엔…4500년전 피라미드 `숨겨진 방` 찾았다]]></title>
         <id>https://v.daum.net/v/20231020221609134</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">22:16</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“내 앞에 313팀, 대기번호 실화인가?” 용산이 ‘들썩’ 난리났다, 뭐길래]]></title>
+        <title type="html"><![CDATA[“내 앞에 313팀, 대기번호 실화인가요?” 용산 ‘들썩’ 난리났다…뭐길래]]></title>
         <id>https://v.daum.net/v/20231020221419119</id>
         <link href="https://v.daum.net/v/20231020221419119"/>
         <updated>2023-10-20T13:18:31.281Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231020201330592"/>
         <updated>2023-10-20T12:28:25.038Z</updated>
         <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">20:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<뉴스브릿지> 직업계고 게임개발대회 우승…게임 산업 이끌어 갈 미래 인재]]></title>
-        <id>https://v.daum.net/v/20231020200233401</id>
-        <link href="https://v.daum.net/v/20231020200233401"/>
-        <updated>2023-10-20T11:13:18.662Z</updated>
-        <content type="html"><![CDATA[EBS<span class="txt_bar"> · </span><span class="info_time">20:02</span>]]></content>
     </entry>
 </feed>
