@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-10-20T01:02:13.390Z</updated>
+    <updated>2023-10-20T01:59:48.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[반려동물 진료비 부담 덜었어요!]]></title>
+        <id>https://v.daum.net/v/20231020103012577</id>
+        <link href="https://v.daum.net/v/20231020103012577"/>
+        <updated>2023-10-20T01:59:27.973Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">10:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[동해안 역사문화 리포트] 18. 섬 주민들을 보호하고, 왜구의 침탈을 막아라]]></title>
+        <id>https://v.daum.net/v/20231020101334019</id>
+        <link href="https://v.daum.net/v/20231020101334019"/>
+        <updated>2023-10-20T01:59:27.975Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">10:13</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[與野 일치·국민 71% 찬성한 의대 정원확대…의협은 정부안 외면만 할텐가 [핫이슈]]]></title>
         <id>https://v.daum.net/v/20231020095701449</id>
@@ -13,7 +27,7 @@
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">09:57</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[길 잃은 별들이 내는 길을 따라]]></title>
+        <title type="html"><![CDATA[이태원 참사 1주기…길 잃은 별들이 내는 길을 따라]]></title>
         <id>https://v.daum.net/v/20231020090501620</id>
         <link href="https://v.daum.net/v/20231020090501620"/>
         <updated>2023-10-20T01:01:52.665Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231020070007335"/>
         <updated>2023-10-19T22:14:44.221Z</updated>
         <content type="html"><![CDATA[마이데일리<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[여백]   한밭수목원]]></title>
-        <id>https://v.daum.net/v/20231020070006334</id>
-        <link href="https://v.daum.net/v/20231020070006334"/>
-        <updated>2023-10-19T22:14:44.222Z</updated>
-        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[춘추칼럼] 보수의 재(再)구성, 여당이 시작이다]]></title>
-        <id>https://v.daum.net/v/20231020070004328</id>
-        <link href="https://v.daum.net/v/20231020070004328"/>
-        <updated>2023-10-19T22:14:44.223Z</updated>
-        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
     </entry>
 </feed>
