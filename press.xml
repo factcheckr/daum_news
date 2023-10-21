@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-10-21T13:18:01.725Z</updated>
+    <updated>2023-10-21T14:13:17.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[AsiaNet] 2023 China Jingdezhen Int'l Ceramic Expo 개최]]></title>
+        <id>https://v.daum.net/v/20231021225334157</id>
+        <link href="https://v.daum.net/v/20231021225334157"/>
+        <updated>2023-10-21T14:13:07.423Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">22:53</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[AsiaNet] What makes 2023 China Jingdezhen Int'l Ceramic Expo different]]></title>
         <id>https://v.daum.net/v/20231021203028031</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231021114324621"/>
         <updated>2023-10-21T03:16:17.345Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[AsiaNet] A Visit to a Famous Town of the Chinese Socks Industry]]></title>
-        <id>https://v.daum.net/v/20231021114120604</id>
-        <link href="https://v.daum.net/v/20231021114120604"/>
-        <updated>2023-10-21T03:16:17.347Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:41</span>]]></content>
     </entry>
 </feed>

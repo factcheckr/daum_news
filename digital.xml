@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-10-21T13:18:01.747Z</updated>
+    <updated>2023-10-21T14:13:17.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[없어서 못 판다는 비만약 GLP1...돌풍, 언제까지?]]></title>
+        <id>https://v.daum.net/v/20231021224914138</id>
+        <link href="https://v.daum.net/v/20231021224914138"/>
+        <updated>2023-10-21T14:12:49.070Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">22:49</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘올해의 게임’ 휩쓸까?…아시아 선전 토대로 북미 시장 ‘노크’]]></title>
         <id>https://v.daum.net/v/20231021213852587</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231021161635199"/>
         <updated>2023-10-21T08:17:01.779Z</updated>
         <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">16:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“버스 공짜, 실화냐?" 요금 없앴더니 도로에 자동차 430만대가 사라졌다 [지구, 뭐래?]]]></title>
-        <id>https://v.daum.net/v/20231021155037877</id>
-        <link href="https://v.daum.net/v/20231021155037877"/>
-        <updated>2023-10-21T07:13:06.548Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">15:50</span>]]></content>
     </entry>
 </feed>
