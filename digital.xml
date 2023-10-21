@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-10-21T04:18:48.029Z</updated>
+    <updated>2023-10-21T05:14:31.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“오심은 가라”…스포츠도 ’AI 포청천’ 시대]]></title>
+        <id>https://v.daum.net/v/20231021140004828</id>
+        <link href="https://v.daum.net/v/20231021140004828"/>
+        <updated>2023-10-21T05:14:05.901Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내가 무심코 동의한 통신사 앱···대출 문자 폭탄 받는다]]></title>
+        <id>https://v.daum.net/v/20231021134723681</id>
+        <link href="https://v.daum.net/v/20231021134723681"/>
+        <updated>2023-10-21T05:14:05.903Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">13:47</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“日 키옥시아·美 WD 합병에 日 금융권이 17조원 대출로 지원”]]></title>
+        <id>https://v.daum.net/v/20231021133908601</id>
+        <link href="https://v.daum.net/v/20231021133908601"/>
+        <updated>2023-10-21T05:14:05.905Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">13:39</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스파크랩, 액셀러레이터 프로그램 22기 기업 모집]]></title>
         <id>https://v.daum.net/v/20231021131457363</id>
@@ -41,7 +62,7 @@
         <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">12:08</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인간의 감각으로 빨래 시작한 ‘퍼지 세탁기’]]></title>
+        <title type="html"><![CDATA[사람의 ‘어렴풋한 감’ 흉내낸 90년대 ‘퍼지 세탁기’ 기억하나요?]]></title>
         <id>https://v.daum.net/v/20231021120501814</id>
         <link href="https://v.daum.net/v/20231021120501814"/>
         <updated>2023-10-21T03:16:01.330Z</updated>
@@ -76,7 +97,7 @@
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:51</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["1초에 고화질영화 40편 처리"…베일 벗은 삼성 HBM]]></title>
+        <title type="html"><![CDATA[삼성 HBM, 1초에 고화질영화 40편 처리]]></title>
         <id>https://v.daum.net/v/20231021114751649</id>
         <link href="https://v.daum.net/v/20231021114751649"/>
         <updated>2023-10-21T03:16:01.341Z</updated>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20231021114401626"/>
         <updated>2023-10-21T03:16:01.343Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">11:44</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보안인증 전문기업 '옥타', 또 해킹 당해…주가 11% 폭락]]></title>
-        <id>https://v.daum.net/v/20231021114335622</id>
-        <link href="https://v.daum.net/v/20231021114335622"/>
-        <updated>2023-10-21T03:16:01.345Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">11:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방통위, 방송평가위원회 위원 위촉…위원장은 이상인]]></title>
-        <id>https://v.daum.net/v/20231021114116603</id>
-        <link href="https://v.daum.net/v/20231021114116603"/>
-        <updated>2023-10-21T03:16:01.347Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">11:41</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["넷플릭스에서 '이두나!' 보자"…차주 OTT 신작 추천 [위클리콘]]]></title>
-        <id>https://v.daum.net/v/20231021113532555</id>
-        <link href="https://v.daum.net/v/20231021113532555"/>
-        <updated>2023-10-21T03:16:01.349Z</updated>
-        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">11:35</span>]]></content>
     </entry>
 </feed>
