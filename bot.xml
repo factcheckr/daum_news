@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-10-21T08:17:27.928Z</updated>
+    <updated>2023-10-21T09:18:45.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2023년 10월 21일)]]></title>
+        <id>https://v.daum.net/v/20231021173213115</id>
+        <link href="https://v.daum.net/v/20231021173213115"/>
+        <updated>2023-10-21T09:18:45.114Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:32</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인천 주안동 주안역센트레빌아파트 47㎡ 3억2000만원... 역대 최고가]]></title>
         <id>https://v.daum.net/v/20231021170535673</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231021160033000"/>
         <updated>2023-10-21T07:13:31.051Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">16:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고양 백석동 일산와이시티 84㎡ 10억5000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20231021155537949</id>
-        <link href="https://v.daum.net/v/20231021155537949"/>
-        <updated>2023-10-21T07:13:31.051Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">15:55</span>]]></content>
     </entry>
 </feed>
