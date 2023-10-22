@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-10-22T11:15:53.406Z</updated>
+    <updated>2023-10-22T12:26:09.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['위험천만' 부분 차로 공사···전면 차단이 대안?]]></title>
+        <id>https://v.daum.net/v/20231022202831005</id>
+        <link href="https://v.daum.net/v/20231022202831005"/>
+        <updated>2023-10-22T12:25:58.997Z</updated>
+        <content type="html"><![CDATA[대구MBC<span class="txt_bar"> · </span><span class="info_time">20:28</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대통령실 브리핑 - 최상목 대통령실 경제수석 사우디 순방 관련 브리핑]]></title>
         <id>https://v.daum.net/v/20231022174101003</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231022143702359"/>
         <updated>2023-10-22T06:18:56.798Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">14:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GS25, 신개념 간편식 ‘김초밥’ 2종 출시]]></title>
-        <id>https://v.daum.net/v/20231022141704852</id>
-        <link href="https://v.daum.net/v/20231022141704852"/>
-        <updated>2023-10-22T06:18:56.800Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">14:17</span>]]></content>
     </entry>
 </feed>
