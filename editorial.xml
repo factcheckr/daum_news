@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-10-23T12:32:16.811Z</updated>
+    <updated>2023-10-23T13:23:22.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 10월 24일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20231023220237155</id>
+        <link href="https://v.daum.net/v/20231023220237155"/>
+        <updated>2023-10-23T13:23:04.947Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[국민만평-서민호 화백] 2023년 10월 24일]]></title>
+        <id>https://v.daum.net/v/20231023215106943</id>
+        <link href="https://v.daum.net/v/20231023215106943"/>
+        <updated>2023-10-23T13:23:04.949Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">21:51</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘그 길밖에 없다’던 이건희 회장 [김선걸 칼럼]]]></title>
         <id>https://v.daum.net/v/20231023210311019</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231023202405130"/>
         <updated>2023-10-23T12:31:56.246Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Start with increasing the quota by 1,000]]></title>
-        <id>https://v.daum.net/v/20231023202129096</id>
-        <link href="https://v.daum.net/v/20231023202129096"/>
-        <updated>2023-10-23T12:31:56.251Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Gaza war and the Korean Peninsula]]></title>
-        <id>https://v.daum.net/v/20231023201936057</id>
-        <link href="https://v.daum.net/v/20231023201936057"/>
-        <updated>2023-10-23T12:31:56.253Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:19</span>]]></content>
     </entry>
 </feed>
