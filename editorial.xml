@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-10-24T16:20:22.417Z</updated>
+    <updated>2023-10-24T17:14:47.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]이종장기 이식, '희망'이 살아 숨쉰다]]></title>
+        <id>https://v.daum.net/v/20231025020301544</id>
+        <link href="https://v.daum.net/v/20231025020301544"/>
+        <updated>2023-10-24T17:14:28.406Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중앙시평] 정전 70주년에 외교를 생각한다]]></title>
         <id>https://v.daum.net/v/20231025003817270</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231025002330195"/>
         <updated>2023-10-24T16:20:01.758Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:23</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘개원醫 제한’ ‘지역의사制’… 필수의료 살리는 선진국 비결[사설]]]></title>
-        <id>https://v.daum.net/v/20231025002111182</id>
-        <link href="https://v.daum.net/v/20231025002111182"/>
-        <updated>2023-10-24T16:20:01.761Z</updated>
-        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">00:21</span>]]></content>
     </entry>
 </feed>
