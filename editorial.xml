@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-10-24T13:21:22.841Z</updated>
+    <updated>2023-10-24T14:14:24.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[Kim Seong-kon] Three movies our politicians must watch]]></title>
+        <id>https://v.daum.net/v/20231024230207495</id>
+        <link href="https://v.daum.net/v/20231024230207495"/>
+        <updated>2023-10-24T14:14:06.326Z</updated>
+        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">23:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[세컷칼럼] ‘육각형 인간’의 시대]]></title>
+        <id>https://v.daum.net/v/20231024230028490</id>
+        <link href="https://v.daum.net/v/20231024230028490"/>
+        <updated>2023-10-24T14:14:06.329Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수장고에서 찾은 새 유물]]></title>
         <id>https://v.daum.net/v/20231024221411216</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231024201956572"/>
         <updated>2023-10-24T12:28:18.487Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:19</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[강준만의 화이부동] ‘양비론 혐오’가 ‘정치 개혁’을 죽인다]]></title>
-        <id>https://v.daum.net/v/20231024201938571</id>
-        <link href="https://v.daum.net/v/20231024201938571"/>
-        <updated>2023-10-24T12:28:18.488Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:19</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s your vision for the economy?]]></title>
-        <id>https://v.daum.net/v/20231024200831383</id>
-        <link href="https://v.daum.net/v/20231024200831383"/>
-        <updated>2023-10-24T11:15:29.839Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:08</span>]]></content>
     </entry>
 </feed>
