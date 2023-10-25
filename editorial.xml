@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-10-25T01:02:47.472Z</updated>
+    <updated>2023-10-25T01:57:29.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유전으로 알려진 '키' 후천적 노력으로 키울 수 있을까 [이한별의 골때리는 한의학]]]></title>
+        <id>https://v.daum.net/v/20231025104813671</id>
+        <link href="https://v.daum.net/v/20231025104813671"/>
+        <updated>2023-10-25T01:57:05.537Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">10:48</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[시시비비]달콤함에 중독된 '탕친민국']]></title>
+        <id>https://v.daum.net/v/20231025103020840</id>
+        <link href="https://v.daum.net/v/20231025103020840"/>
+        <updated>2023-10-25T01:57:05.537Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">10:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한동훈 법무장관 종로 출마?...여야, 역대급 단두대 빅매치? [핫이슈]]]></title>
         <id>https://v.daum.net/v/20231025091503777</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20231025070012044</id>
         <link href="https://v.daum.net/v/20231025070012044"/>
         <updated>2023-10-24T22:15:05.628Z</updated>
-        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전문인칼럼]  보석허가청구에 관하여]]></title>
-        <id>https://v.daum.net/v/20231025070010039</id>
-        <link href="https://v.daum.net/v/20231025070010039"/>
-        <updated>2023-10-24T22:15:05.633Z</updated>
-        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[아름다운 건축] 도시적 다양성의 모자이크, 뉴욕시 맨해튼]]></title>
-        <id>https://v.daum.net/v/20231025070009035</id>
-        <link href="https://v.daum.net/v/20231025070009035"/>
-        <updated>2023-10-24T22:15:05.640Z</updated>
         <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
     </entry>
 </feed>
