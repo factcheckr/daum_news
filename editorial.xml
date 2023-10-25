@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-10-25T13:18:54.131Z</updated>
+    <updated>2023-10-25T14:15:23.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가을 운동회와 김밥 [달곰한 우리말]]]></title>
+        <id>https://v.daum.net/v/20231025223059982</id>
+        <link href="https://v.daum.net/v/20231025223059982"/>
+        <updated>2023-10-25T14:15:02.104Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[심장보다 더 빨리 노화... 가장 빨리 늙는 장기는]]></title>
         <id>https://v.daum.net/v/20231025210039431</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231025202551638"/>
         <updated>2023-10-25T12:29:18.935Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[책 속의 풍경, 책 밖의 이야기] 편집자에게 건네는 ‘영감과 섬광’]]></title>
-        <id>https://v.daum.net/v/20231025202437616</id>
-        <link href="https://v.daum.net/v/20231025202437616"/>
-        <updated>2023-10-25T12:29:18.937Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:24</span>]]></content>
     </entry>
 </feed>
