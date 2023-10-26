@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-10-26T08:19:20.544Z</updated>
+    <updated>2023-10-26T09:16:00.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2023년 10월 26일)]]></title>
+        <id>https://v.daum.net/v/20231026173319022</id>
+        <link href="https://v.daum.net/v/20231026173319022"/>
+        <updated>2023-10-26T09:16:00.042Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세종 새롬동 새뜸마을7단지아파트 84㎡ 7억원... 역대 최고가]]></title>
         <id>https://v.daum.net/v/20231026171546302</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231026161049462"/>
         <updated>2023-10-26T07:16:59.688Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">16:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 화서동 화서역 블루밍푸른숲아파트 59㎡ 4억5250만원에 거래]]></title>
-        <id>https://v.daum.net/v/20231026160547189</id>
-        <link href="https://v.daum.net/v/20231026160547189"/>
-        <updated>2023-10-26T07:16:59.690Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">16:05</span>]]></content>
     </entry>
 </feed>
