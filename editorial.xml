@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-10-26T16:19:31.847Z</updated>
+    <updated>2023-10-26T17:14:33.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]꼬마빌딩 감정평가 문제]]></title>
+        <id>https://v.daum.net/v/20231027020304809</id>
+        <link href="https://v.daum.net/v/20231027020304809"/>
+        <updated>2023-10-26T17:14:16.162Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]중성자 공장? 그 활용과 수출]]></title>
+        <id>https://v.daum.net/v/20231027020302808</id>
+        <link href="https://v.daum.net/v/20231027020302808"/>
+        <updated>2023-10-26T17:14:16.166Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[중앙시평] 대한민국은 지금도 국가건설 중]]></title>
         <id>https://v.daum.net/v/20231027005127611</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231027002325534"/>
         <updated>2023-10-26T16:19:15.965Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:23</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이달의 예술] 누가 이 노래를 지었을까]]></title>
-        <id>https://v.daum.net/v/20231027002006523</id>
-        <link href="https://v.daum.net/v/20231027002006523"/>
-        <updated>2023-10-26T16:19:15.968Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[아침 묵상] “진정한 스승은 유리처럼 투명하다”]]></title>
-        <id>https://v.daum.net/v/20231027001905520</id>
-        <link href="https://v.daum.net/v/20231027001905520"/>
-        <updated>2023-10-26T16:19:15.970Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:19</span>]]></content>
     </entry>
 </feed>
