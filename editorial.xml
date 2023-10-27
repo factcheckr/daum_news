@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-10-27T06:21:12.706Z</updated>
+    <updated>2023-10-27T07:16:45.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[지평선] 인요한은 '메기'가 될 수 있을까]]></title>
+        <id>https://v.daum.net/v/20231027153004205</id>
+        <link href="https://v.daum.net/v/20231027153004205"/>
+        <updated>2023-10-27T07:16:25.551Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">15:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[청년인턴 체험기] 내 인생의 터닝포인트]]></title>
         <id>https://v.daum.net/v/20231027140019251</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231027114529292"/>
         <updated>2023-10-27T03:16:23.723Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘연봉 1억’ 포스코노조 파업 위협, 무책임하다[문화논단]]]></title>
-        <id>https://v.daum.net/v/20231027114221180</id>
-        <link href="https://v.daum.net/v/20231027114221180"/>
-        <updated>2023-10-27T03:16:23.726Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:42</span>]]></content>
     </entry>
 </feed>
