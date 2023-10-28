@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-10-28T11:12:45.751Z</updated>
+    <updated>2023-10-28T12:29:02.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[글로벌 퍼 베이비 붐 시대…크리스마스 기다리는 ‘펫’ [경영칼럼]]]></title>
+        <id>https://v.daum.net/v/20231028210304304</id>
+        <link href="https://v.daum.net/v/20231028210304304"/>
+        <updated>2023-10-28T12:28:44.445Z</updated>
+        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">21:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간 돌발영상] 10월 넷째 주]]></title>
+        <id>https://v.daum.net/v/20231028205821265</id>
+        <link href="https://v.daum.net/v/20231028205821265"/>
+        <updated>2023-10-28T12:28:44.450Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">20:58</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["여보, 뭐 잘못한 거 없어?"… '뇌'를 알면 싸움을 피한다]]></title>
         <id>https://v.daum.net/v/20231028190015450</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231028043233173"/>
         <updated>2023-10-27T20:15:58.375Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 이태원 참사 피의자 서울청장 유임, 이게 1주기 메시지인가]]></title>
-        <id>https://v.daum.net/v/20231028043217168</id>
-        <link href="https://v.daum.net/v/20231028043217168"/>
-        <updated>2023-10-27T20:15:58.379Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 이재명 대표, 강성지지자 난동에 특단의 조치 나서라]]></title>
-        <id>https://v.daum.net/v/20231028043141159</id>
-        <link href="https://v.daum.net/v/20231028043141159"/>
-        <updated>2023-10-27T20:15:58.387Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:31</span>]]></content>
     </entry>
 </feed>
