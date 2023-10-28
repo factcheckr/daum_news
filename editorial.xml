@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-10-28T01:00:19.992Z</updated>
+    <updated>2023-10-28T01:51:34.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[김순덕의 도발]우리나라에서 어느 정도 성공한 사람은 다 그렇다고?]]></title>
+        <id>https://v.daum.net/v/20231028100016719</id>
+        <link href="https://v.daum.net/v/20231028100016719"/>
+        <updated>2023-10-28T01:51:17.832Z</updated>
+        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">10:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](28일 조간)]]></title>
+        <id>https://v.daum.net/v/20231028100004700</id>
+        <link href="https://v.daum.net/v/20231028100004700"/>
+        <updated>2023-10-28T01:51:17.834Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">10:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[살바도르 달리의 알려지지 않은 삶 [양경미의 영화로 보는 세상]]]></title>
         <id>https://v.daum.net/v/20231028095803673</id>
@@ -32,6 +46,13 @@
         <link href="https://v.daum.net/v/20231028080804597"/>
         <updated>2023-10-27T23:14:31.418Z</updated>
         <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">08:08</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KBO 총재 불러낸 국감, 전투력 더 키우자![기자수첩-스포츠]]]></title>
+        <id>https://v.daum.net/v/20231028070119072</id>
+        <link href="https://v.daum.net/v/20231028070119072"/>
+        <updated>2023-10-28T01:51:17.848Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:01</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[민주주의를 향한 빛줄기 [ESC]]]></title>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20231028041014071"/>
         <updated>2023-10-27T19:11:35.535Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[빛과 소금] 저출산 시대 ‘세상 속으로 열린 교회’]]></title>
-        <id>https://v.daum.net/v/20231028040910066</id>
-        <link href="https://v.daum.net/v/20231028040910066"/>
-        <updated>2023-10-27T19:11:35.536Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오후 3시의 헌책방] 책 잘 읽는 법]]></title>
-        <id>https://v.daum.net/v/20231028040520048</id>
-        <link href="https://v.daum.net/v/20231028040520048"/>
-        <updated>2023-10-27T19:11:35.540Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토 카페] 더 예쁜 당신]]></title>
-        <id>https://v.daum.net/v/20231028040415041</id>
-        <link href="https://v.daum.net/v/20231028040415041"/>
-        <updated>2023-10-27T19:11:35.543Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:04</span>]]></content>
     </entry>
 </feed>
