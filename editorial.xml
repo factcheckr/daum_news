@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-10-28T13:16:07.364Z</updated>
+    <updated>2023-10-28T14:13:11.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[세컷칼럼] 김기현의 용단에 기대 거는 이유]]></title>
+        <id>https://v.daum.net/v/20231028230031025</id>
+        <link href="https://v.daum.net/v/20231028230031025"/>
+        <updated>2023-10-28T14:12:53.451Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[글로벌 퍼 베이비 붐 시대…크리스마스 기다리는 ‘펫’ [경영칼럼]]]></title>
         <id>https://v.daum.net/v/20231028210304304</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231028060501662"/>
         <updated>2023-10-27T21:13:17.869Z</updated>
         <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">06:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이태원에 가고 싶다[젠더살롱]]]></title>
-        <id>https://v.daum.net/v/20231028043233173</id>
-        <link href="https://v.daum.net/v/20231028043233173"/>
-        <updated>2023-10-27T20:15:58.375Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:32</span>]]></content>
     </entry>
 </feed>

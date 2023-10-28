@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-10-28T13:16:07.365Z</updated>
+    <updated>2023-10-28T14:13:12.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[네이버, ‘브랜드 런처’ SME와 상생기획전 진행]]></title>
+        <id>https://v.daum.net/v/20231028230124029</id>
+        <link href="https://v.daum.net/v/20231028230124029"/>
+        <updated>2023-10-28T14:12:44.316Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">23:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[붕괴 스타레일 토파즈 "미래시 보고 뽑기도 애매한 성능"]]></title>
+        <id>https://v.daum.net/v/20231028225324998</id>
+        <link href="https://v.daum.net/v/20231028225324998"/>
+        <updated>2023-10-28T14:12:44.318Z</updated>
+        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">22:53</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[네이버, 한국ESG기준원 2023 ESG 평가서 종합 A+ 등급 획득]]></title>
         <id>https://v.daum.net/v/20231028220139764</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231028173900465"/>
         <updated>2023-10-28T09:14:10.924Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SW역량 검정 '톱싯' 20회 시행···6556명 응시]]></title>
-        <id>https://v.daum.net/v/20231028173619429</id>
-        <link href="https://v.daum.net/v/20231028173619429"/>
-        <updated>2023-10-28T09:14:10.926Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">17:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소설 '모래도시 속 인형들' 등 5편, '제10회 SF어워드' 대상]]></title>
-        <id>https://v.daum.net/v/20231028170457861</id>
-        <link href="https://v.daum.net/v/20231028170457861"/>
-        <updated>2023-10-28T08:17:37.170Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">17:04</span>]]></content>
     </entry>
 </feed>
