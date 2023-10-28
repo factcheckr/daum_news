@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-10-28T06:21:05.276Z</updated>
+    <updated>2023-10-28T07:14:18.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[여행작가 신양란의 좌충우돌 해외여행 6] 루앙프라방에서의 씁쓸한 딱밧의 기억]]></title>
+        <id>https://v.daum.net/v/20231028153053587</id>
+        <link href="https://v.daum.net/v/20231028153053587"/>
+        <updated>2023-10-28T07:14:00.499Z</updated>
+        <content type="html"><![CDATA[마이데일리<span class="txt_bar"> · </span><span class="info_time">15:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이선균 출연작이 하필이면 CJ ENM 영화 [라제기의 슛 & 숏]]]></title>
         <id>https://v.daum.net/v/20231028120103897</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231028043100150"/>
         <updated>2023-10-27T20:15:58.392Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 단일안 기대 저버린 연금개혁안··· 개혁의지는 말뿐이었나]]></title>
-        <id>https://v.daum.net/v/20231028043047147</id>
-        <link href="https://v.daum.net/v/20231028043047147"/>
-        <updated>2023-10-27T20:15:58.394Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
     </entry>
 </feed>
