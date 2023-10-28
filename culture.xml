@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2023-10-28T18:17:57.081Z</updated>
+    <updated>2023-10-28T19:12:12.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[샌드위치부터 스팸 무스비까지! 초간단 주말 나들이 도시락 레서피 3]]></title>
+        <id>https://v.daum.net/v/20231029040042821</id>
+        <link href="https://v.daum.net/v/20231029040042821"/>
+        <updated>2023-10-28T19:11:19.814Z</updated>
+        <content type="html"><![CDATA[엘르<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[700만원으로 가능?…자린고비 세계여행 '김한량']]></title>
         <id>https://v.daum.net/v/20231029031041649</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231029000300336"/>
         <updated>2023-10-28T15:14:44.655Z</updated>
         <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘날씨, 새벽 내륙 중심 짙은 안개…중부내륙 '서리', 강원내륙 '살얼음' 유의]]></title>
-        <id>https://v.daum.net/v/20231029000203331</id>
-        <link href="https://v.daum.net/v/20231029000203331"/>
-        <updated>2023-10-28T15:14:44.659Z</updated>
-        <content type="html"><![CDATA[bnt뉴스<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
     </entry>
 </feed>
