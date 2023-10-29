@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2023-10-29T16:19:05.573Z</updated>
+    <updated>2023-10-29T17:13:11.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[합참의장에 해군 출신 김명수…육해공 대장 7명 전원교체]]></title>
+        <id>https://v.daum.net/v/20231030013412717</id>
+        <link href="https://v.daum.net/v/20231030013412717"/>
+        <updated>2023-10-29T17:11:56.464Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">01:34</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국민의힘 혁신위, 오늘 5·18 민주묘지 참배]]></title>
         <id>https://v.daum.net/v/20231030010006652</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231030000013261"/>
         <updated>2023-10-29T15:13:10.856Z</updated>
         <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[野, '국감' 끝나니 '국조'로 대정부 공세…예산안 전면전 예고]]></title>
-        <id>https://v.daum.net/v/20231030000002251</id>
-        <link href="https://v.daum.net/v/20231030000002251"/>
-        <updated>2023-10-29T15:13:10.856Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
