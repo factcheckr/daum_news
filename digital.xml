@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-10-29T10:15:33.067Z</updated>
+    <updated>2023-10-29T11:14:24.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[써보고서] "로봇 입으니 걸음 가볍네"…위로보틱스 'WIM']]></title>
+        <id>https://v.daum.net/v/20231029200757758</id>
+        <link href="https://v.daum.net/v/20231029200757758"/>
+        <updated>2023-10-29T11:13:54.502Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">20:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네이버 "생성형 AI로 SME·창작자 돕는다"]]></title>
+        <id>https://v.daum.net/v/20231029200636748</id>
+        <link href="https://v.daum.net/v/20231029200636748"/>
+        <updated>2023-10-29T11:13:54.502Z</updated>
+        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">20:06</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네이버·삼성, 英 AI 정상회의 참석…"국위선양할 것"]]></title>
+        <id>https://v.daum.net/v/20231029194813596</id>
+        <link href="https://v.daum.net/v/20231029194813596"/>
+        <updated>2023-10-29T11:13:54.503Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">19:48</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국회예산정책처 “R&D 예산 과도하게 삭감…적절성 검토해야”]]></title>
+        <id>https://v.daum.net/v/20231029191932317</id>
+        <link href="https://v.daum.net/v/20231029191932317"/>
+        <updated>2023-10-29T11:13:54.508Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">19:19</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[더 위험한 선택 만드는 ‘장애’ 있다고...“내 머릿 속을 도대체 어떻게 한 거야” [사이언스라운지]]]></title>
         <id>https://v.daum.net/v/20231029190600162</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20231029182202603"/>
         <updated>2023-10-29T10:15:06.180Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">18:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LGU+, 통신 맞춤형 AI ‘익시젠’ 개발… 구글·MS와 협력]]></title>
-        <id>https://v.daum.net/v/20231029181347439</id>
-        <link href="https://v.daum.net/v/20231029181347439"/>
-        <updated>2023-10-29T10:15:06.182Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">18:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버·삼성전자, 英 ‘AI 윤리 규제 회의’ 참석]]></title>
-        <id>https://v.daum.net/v/20231029181344437</id>
-        <link href="https://v.daum.net/v/20231029181344437"/>
-        <updated>2023-10-29T09:13:56.051Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">18:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KT, AI로 車소모품 관리… 운행기록도 자동 제출]]></title>
-        <id>https://v.daum.net/v/20231029181339436</id>
-        <link href="https://v.daum.net/v/20231029181339436"/>
-        <updated>2023-10-29T09:13:56.053Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">18:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KT, 청각장애인 위한 영화제 개최]]></title>
-        <id>https://v.daum.net/v/20231029181330434</id>
-        <link href="https://v.daum.net/v/20231029181330434"/>
-        <updated>2023-10-29T09:13:56.054Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">18:13</span>]]></content>
     </entry>
 </feed>
