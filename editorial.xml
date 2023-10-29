@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-10-29T13:17:43.366Z</updated>
+    <updated>2023-10-29T14:13:11.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[세컷칼럼] 집값 거품 책임자의 엉터리 반성문]]></title>
+        <id>https://v.daum.net/v/20231029230029027</id>
+        <link href="https://v.daum.net/v/20231029230029027"/>
+        <updated>2023-10-29T14:12:55.934Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023년 10월 30일[김용민의 그림마당]]]></title>
         <id>https://v.daum.net/v/20231029220451664</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231029202404875"/>
         <updated>2023-10-29T12:26:04.870Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노래와 세상] 기억의 습작]]></title>
-        <id>https://v.daum.net/v/20231029202357871</id>
-        <link href="https://v.daum.net/v/20231029202357871"/>
-        <updated>2023-10-29T12:26:04.872Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:23</span>]]></content>
     </entry>
 </feed>
