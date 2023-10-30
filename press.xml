@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-10-30T13:23:10.751Z</updated>
+    <updated>2023-10-30T14:15:23.970Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] STL, 160마이크론 섬유 개발]]></title>
+        <id>https://v.daum.net/v/20231030224142725</id>
+        <link href="https://v.daum.net/v/20231030224142725"/>
+        <updated>2023-10-30T14:15:14.690Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">22:41</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[밀알복지재단, 요람에서 무덤까지 ‘생애 주기별 장애인 복지’ 완성]]></title>
         <id>https://v.daum.net/v/20231030213836703</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20231030172653909</id>
         <link href="https://v.daum.net/v/20231030172653909"/>
         <updated>2023-10-30T09:17:01.417Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천공항, 국제공항협의회(ACI) 공중보건안전인증(PHSR) 신규 취득]]></title>
-        <id>https://v.daum.net/v/20231030172635901</id>
-        <link href="https://v.daum.net/v/20231030172635901"/>
-        <updated>2023-10-30T09:17:01.422Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:26</span>]]></content>
     </entry>
 </feed>
