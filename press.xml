@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-10-30T10:17:36.300Z</updated>
+    <updated>2023-10-30T11:14:04.154Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[경기도, 럼피스킨병 백신 전 농가에 긴급 접종 추진]]></title>
+        <id>https://v.daum.net/v/20231030192537199</id>
+        <link href="https://v.daum.net/v/20231030192537199"/>
+        <updated>2023-10-30T11:13:55.142Z</updated>
+        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">19:25</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merck Strengthens Oncology Pipeline Through Strategic Partnership with Hengrui for Next-Generation Selective PARP1 Inhibitor and Antibody-Drug Conjugate]]></title>
         <id>https://v.daum.net/v/20231030174703588</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231030171025356"/>
         <updated>2023-10-30T09:17:01.451Z</updated>
         <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">17:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태백시, 고터실 일반산업단지 계획 승인…올해 말 착공]]></title>
-        <id>https://v.daum.net/v/20231030165909800</id>
-        <link href="https://v.daum.net/v/20231030165909800"/>
-        <updated>2023-10-30T09:17:01.461Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:59</span>]]></content>
     </entry>
 </feed>
