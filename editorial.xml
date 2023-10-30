@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-10-30T16:20:34.294Z</updated>
+    <updated>2023-10-30T17:15:13.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[청계광장]같지만 다른, 다르지만 같은 이야기]]></title>
+        <id>https://v.daum.net/v/20231031020309865</id>
+        <link href="https://v.daum.net/v/20231031020309865"/>
+        <updated>2023-10-30T17:14:41.180Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]뜨거운 감자, 탄소중립과 그린워싱]]></title>
+        <id>https://v.daum.net/v/20231031020306864</id>
+        <link href="https://v.daum.net/v/20231031020306864"/>
+        <updated>2023-10-30T17:14:41.180Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]스타트업 축제가 필요한 이유]]></title>
+        <id>https://v.daum.net/v/20231031020302863</id>
+        <link href="https://v.daum.net/v/20231031020302863"/>
+        <updated>2023-10-30T17:14:41.180Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[송호근의 세사필담] ‘연 1500명 의사 증원’ 즉각 못 박아야]]></title>
         <id>https://v.daum.net/v/20231031004308727</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20231031001506580"/>
         <updated>2023-10-30T15:17:42.428Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이병훈의 마켓 나우] 미래 반도체 강국, 용기와 의지가 결정한다]]></title>
-        <id>https://v.daum.net/v/20231031001405566</id>
-        <link href="https://v.daum.net/v/20231031001405566"/>
-        <updated>2023-10-30T15:17:42.430Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[진회숙의 음악으로 읽는 세상] 무대 위의 판타지, 무대 뒤의 고통]]></title>
-        <id>https://v.daum.net/v/20231031001315562</id>
-        <link href="https://v.daum.net/v/20231031001315562"/>
-        <updated>2023-10-30T15:17:42.432Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[천자칼럼] 트럼프 '뼈 때리고' 간 펜스]]></title>
-        <id>https://v.daum.net/v/20231031001203550</id>
-        <link href="https://v.daum.net/v/20231031001203550"/>
-        <updated>2023-10-30T15:17:42.435Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:12</span>]]></content>
     </entry>
 </feed>

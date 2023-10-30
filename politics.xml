@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2023-10-30T16:20:34.287Z</updated>
+    <updated>2023-10-30T17:15:13.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[민주, 오늘 시정연설 피켓시위 강행키로…"이태원특별법·예산재편성"]]></title>
+        <id>https://v.daum.net/v/20231031014225847</id>
+        <link href="https://v.daum.net/v/20231031014225847"/>
+        <updated>2023-10-30T17:13:12.308Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">01:42</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홍익표 "대통령실 간섭하면 與와 예산 협의 안 할 것"]]></title>
         <id>https://v.daum.net/v/20231031011013799</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20231031000618488</id>
         <link href="https://v.daum.net/v/20231031000618488"/>
         <updated>2023-10-30T15:16:14.486Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘 윤석열-이재명 만남 성사…여야 소통 물꼬 트나]]></title>
-        <id>https://v.daum.net/v/20231031000617487</id>
-        <link href="https://v.daum.net/v/20231031000617487"/>
-        <updated>2023-10-30T15:16:14.489Z</updated>
         <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
     </entry>
 </feed>
