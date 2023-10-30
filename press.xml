@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-10-30T11:14:04.154Z</updated>
+    <updated>2023-10-30T12:29:59.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[AsiaNet] Fuzhou, China Honored with First Global Award]]></title>
+        <id>https://v.daum.net/v/20231030203439665</id>
+        <link href="https://v.daum.net/v/20231030203439665"/>
+        <updated>2023-10-30T12:29:48.294Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:34</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[AsiaNet] Xilingol League Held a Campaign for Launching A Project]]></title>
+        <id>https://v.daum.net/v/20231030203038565</id>
+        <link href="https://v.daum.net/v/20231030203038565"/>
+        <updated>2023-10-30T12:29:48.294Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경기도, 럼피스킨병 백신 전 농가에 긴급 접종 추진]]></title>
         <id>https://v.daum.net/v/20231030192537199</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231030172324800"/>
         <updated>2023-10-30T09:17:01.447Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:23</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장흥군, 100대 핵심과제로 미래 100년을 준비한다]]></title>
-        <id>https://v.daum.net/v/20231030172314796</id>
-        <link href="https://v.daum.net/v/20231030172314796"/>
-        <updated>2023-10-30T09:17:01.449Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:23</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전기차 폐배터리 등 7종, ‘순환자원’ 지정…폐기물 규제 면제]]></title>
-        <id>https://v.daum.net/v/20231030171025356</id>
-        <link href="https://v.daum.net/v/20231030171025356"/>
-        <updated>2023-10-30T09:17:01.451Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">17:10</span>]]></content>
     </entry>
 </feed>
