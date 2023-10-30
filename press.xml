@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-10-30T21:13:30.358Z</updated>
+    <updated>2023-10-30T22:15:53.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아트라스콥코, 한국 반도체 밸브 제조업체 인수]]></title>
+        <id>https://v.daum.net/v/20231031070703313</id>
+        <link href="https://v.daum.net/v/20231031070703313"/>
+        <updated>2023-10-30T22:15:41.058Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">07:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[남양주시, 황금산 숲체험원 재정비사업 주민설명회 개최]]></title>
+        <id>https://v.daum.net/v/20231031070444272</id>
+        <link href="https://v.daum.net/v/20231031070444272"/>
+        <updated>2023-10-30T22:15:41.076Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:04</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[issue&] 통증 없는 노인성 변비…방치하면 장폐색·뇌경색 ‘빨간불’]]></title>
         <id>https://v.daum.net/v/20231031000704516</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20231031000641503</id>
         <link href="https://v.daum.net/v/20231031000641503"/>
         <updated>2023-10-30T15:17:54.949Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[issue&] 지난해 매출 16%↑…글로벌 영향력 확대로 최대 실적 경신]]></title>
-        <id>https://v.daum.net/v/20231031000638502</id>
-        <link href="https://v.daum.net/v/20231031000638502"/>
-        <updated>2023-10-30T15:17:54.951Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[issue&] 의료비부터 보험·뷰티까지…의료비 부담 줄여주는 건강 특화 카드 인기]]></title>
-        <id>https://v.daum.net/v/20231031000636501</id>
-        <link href="https://v.daum.net/v/20231031000636501"/>
-        <updated>2023-10-30T15:17:54.953Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
     </entry>
 </feed>
