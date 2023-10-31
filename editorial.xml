@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-10-31T12:29:00.700Z</updated>
+    <updated>2023-10-31T13:22:34.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 11월 1일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20231031220229842</id>
+        <link href="https://v.daum.net/v/20231031220229842"/>
+        <updated>2023-10-31T13:22:11.053Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사설] 세수펑크 언급 없이 건전재정 자화자찬한 대통령]]></title>
+        <id>https://v.daum.net/v/20231031215006636</id>
+        <link href="https://v.daum.net/v/20231031215006636"/>
+        <updated>2023-10-31T13:22:11.056Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">21:50</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[만물상] “한국X도 아니면서”]]></title>
         <id>https://v.daum.net/v/20231031205555356</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231031200712153"/>
         <updated>2023-10-31T11:14:08.793Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yes!]]></title>
-        <id>https://v.daum.net/v/20231031200511112</id>
-        <link href="https://v.daum.net/v/20231031200511112"/>
-        <updated>2023-10-31T11:14:08.796Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The death of freedom and internationalism]]></title>
-        <id>https://v.daum.net/v/20231031200329075</id>
-        <link href="https://v.daum.net/v/20231031200329075"/>
-        <updated>2023-10-31T11:14:08.799Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:03</span>]]></content>
     </entry>
 </feed>
