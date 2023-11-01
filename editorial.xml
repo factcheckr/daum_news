@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-11-01T07:15:57.338Z</updated>
+    <updated>2023-11-01T08:20:48.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[매경춘추] 로코노미와 MZ소비]]></title>
+        <id>https://v.daum.net/v/20231101170300030</id>
+        <link href="https://v.daum.net/v/20231101170300030"/>
+        <updated>2023-11-01T08:20:21.611Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['AI 시대' 미디어 대응 전략은…한일중 언론간부 세미나, 5년만 재개]]></title>
         <id>https://v.daum.net/v/20231101161019659</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231101145537853"/>
         <updated>2023-11-01T06:21:45.808Z</updated>
         <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">14:55</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[왜냐면] 2008년 뉴타운과 2023년 김포 서울 편입]]></title>
-        <id>https://v.daum.net/v/20231101144014958</id>
-        <link href="https://v.daum.net/v/20231101144014958"/>
-        <updated>2023-11-01T06:21:45.810Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">14:40</span>]]></content>
     </entry>
 </feed>
