@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-11-01T03:16:55.960Z</updated>
+    <updated>2023-11-01T04:19:32.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안양시, 오는 3일 삼덕공원 ‘제10회 기부의 날 기념행사’ 개최]]></title>
+        <id>https://v.daum.net/v/20231101122413836</id>
+        <link href="https://v.daum.net/v/20231101122413836"/>
+        <updated>2023-11-01T04:19:20.490Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">12:24</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화성시미디어센터 시민미디어제작단, 제5회 경기마을미디어축제 2개 부문 수상]]></title>
         <id>https://v.daum.net/v/20231101120708457</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20231101112708571</id>
         <link href="https://v.daum.net/v/20231101112708571"/>
         <updated>2023-11-01T02:28:19.171Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">11:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GC셀, 국제 암 면역세포치료 심포지엄 개최]]></title>
-        <id>https://v.daum.net/v/20231101112707568</id>
-        <link href="https://v.daum.net/v/20231101112707568"/>
-        <updated>2023-11-01T02:28:19.173Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">11:27</span>]]></content>
     </entry>
 </feed>
