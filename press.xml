@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-11-02T20:16:27.912Z</updated>
+    <updated>2023-11-02T21:13:50.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[해운대문화회관, 타악연희퍼포먼스 ‘예타’ 공연 개최]]></title>
+        <id>https://v.daum.net/v/20231103060703228</id>
+        <link href="https://v.daum.net/v/20231103060703228"/>
+        <updated>2023-11-02T21:13:38.775Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">06:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“골목상권 살리기·경제활성화 협력 최선 다할 것”]]></title>
         <id>https://v.daum.net/v/20231103000611183</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20231103000327085</id>
         <link href="https://v.daum.net/v/20231103000327085"/>
         <updated>2023-11-02T15:16:18.085Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[분양 포커스] 360만원 회원권으로 고품격 여가…등기권리증 발급, 지분 소유 가능]]></title>
-        <id>https://v.daum.net/v/20231103000325084</id>
-        <link href="https://v.daum.net/v/20231103000325084"/>
-        <updated>2023-11-02T15:16:18.086Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
     </entry>
 </feed>
