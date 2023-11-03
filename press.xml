@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-11-03T09:15:39.371Z</updated>
+    <updated>2023-11-03T10:16:59.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Xinhua Silk Road: 중국 동부 장시성에서 무역 박람회 개최]]></title>
+        <id>https://v.daum.net/v/20231103183543574</id>
+        <link href="https://v.daum.net/v/20231103183543574"/>
+        <updated>2023-11-03T10:16:50.307Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">18:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] Xinhua Silk Road: Materia Medica Trade Fair kicks off in Jiangxi]]></title>
         <id>https://v.daum.net/v/20231103181459171</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231103170555326"/>
         <updated>2023-11-03T08:22:11.549Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 제4회 산업기술 R&D 유망기술 발표 및 상담회 개최]]></title>
-        <id>https://v.daum.net/v/20231103165704096</id>
-        <link href="https://v.daum.net/v/20231103165704096"/>
-        <updated>2023-11-03T08:22:11.549Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">16:57</span>]]></content>
     </entry>
 </feed>
