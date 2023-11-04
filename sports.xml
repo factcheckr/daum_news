@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/sports</id>
     <title>다음 뉴스 ─ 전체기사 ─ 스포츠</title>
-    <updated>2023-11-04T18:18:39.557Z</updated>
+    <updated>2023-11-04T19:12:45.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[pl.review] ‘도쿠 1골 4도움’ 맨시티, 본머스 6-1 대파...3연승+선두 등극]]></title>
+        <id>https://v.daum.net/v/20231105034048596</id>
+        <link href="https://v.daum.net/v/20231105034048596"/>
+        <updated>2023-11-04T19:12:11.680Z</updated>
+        <content type="html"><![CDATA[포포투<span class="txt_bar"> · </span><span class="info_time">03:40</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['1경기 1골 4도움' 도쿠, PL 역사상 최연소 단일 경기 5공격포인트 작성...신성 대폭발]]></title>
         <id>https://v.daum.net/v/20231105031740588</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231105020216550"/>
         <updated>2023-11-04T17:13:02.076Z</updated>
         <content type="html"><![CDATA[스포티비뉴스<span class="txt_bar"> · </span><span class="info_time">02:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘황희찬 2호 도움’ 울버햄튼, 이변의 희생양 됐다...셰필드 유나이티드전 1-2 패배 [GOAL 리뷰]]]></title>
-        <id>https://v.daum.net/v/20231105020136549</id>
-        <link href="https://v.daum.net/v/20231105020136549"/>
-        <updated>2023-11-04T17:13:02.077Z</updated>
-        <content type="html"><![CDATA[골닷컴<span class="txt_bar"> · </span><span class="info_time">02:01</span>]]></content>
     </entry>
 </feed>
