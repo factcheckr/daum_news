@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-11-04T08:18:07.025Z</updated>
+    <updated>2023-11-04T09:13:47.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[AsiaNet] 루산 Silver Beach: 지속가능한 굴 양식으로 관광자원 조성]]></title>
+        <id>https://v.daum.net/v/20231104171833649</id>
+        <link href="https://v.daum.net/v/20231104171833649"/>
+        <updated>2023-11-04T09:13:40.017Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:18</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] China's Largest LNG Storage Tank of 270,000 CBM Now in Operation]]></title>
         <id>https://v.daum.net/v/20231104165258158</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231104100221386"/>
         <updated>2023-11-04T01:55:33.143Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">10:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] Discover Wenzhou: Where Tradition and Progress Unite]]></title>
-        <id>https://v.daum.net/v/20231104095304253</id>
-        <link href="https://v.daum.net/v/20231104095304253"/>
-        <updated>2023-11-04T01:01:36.463Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">09:53</span>]]></content>
     </entry>
 </feed>
