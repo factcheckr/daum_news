@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-11-04T10:15:27.053Z</updated>
+    <updated>2023-11-04T11:12:24.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 영국 GEDU 그룹, 실러국제대학교 인수]]></title>
+        <id>https://v.daum.net/v/20231104195139789</id>
+        <link href="https://v.daum.net/v/20231104195139789"/>
+        <updated>2023-11-04T11:12:14.860Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">19:51</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[AsiaNet] 루산 Silver Beach: 지속가능한 굴 양식으로 관광자원 조성]]></title>
         <id>https://v.daum.net/v/20231104171833649</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231104102501571"/>
         <updated>2023-11-04T01:55:33.142Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">10:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] 제6회 중국국제수출입박람회가 '팔을 벌려' 세계 각국의 손님들 맞아]]></title>
-        <id>https://v.daum.net/v/20231104100221386</id>
-        <link href="https://v.daum.net/v/20231104100221386"/>
-        <updated>2023-11-04T01:55:33.143Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">10:02</span>]]></content>
     </entry>
 </feed>
