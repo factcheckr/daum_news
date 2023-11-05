@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2023-11-05T16:18:00.625Z</updated>
+    <updated>2023-11-05T17:13:39.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[스브스夜] '먹찌빠' 신기루, "이성 만나기 전에 식사는 필수…약 먹으려고 겨우 먹는다고 어필"]]></title>
+        <id>https://v.daum.net/v/20231106015400861</id>
+        <link href="https://v.daum.net/v/20231106015400861"/>
+        <updated>2023-11-05T17:12:59.420Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스<span class="txt_bar"> · </span><span class="info_time">01:54</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['꽈추형' 홍성우 "첫경험 평균 나이 14.1세"…충격적 청소년 성관계 실태]]></title>
         <id>https://v.daum.net/v/20231106010508786</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231106000847649"/>
         <updated>2023-11-05T15:13:33.276Z</updated>
         <content type="html"><![CDATA[스타뉴스<span class="txt_bar"> · </span><span class="info_time">00:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한소희, 행사 중 손으로 날아다니는 벌레 잡아…웃음 빵]]></title>
-        <id>https://v.daum.net/v/20231106000506563</id>
-        <link href="https://v.daum.net/v/20231106000506563"/>
-        <updated>2023-11-05T15:13:33.277Z</updated>
-        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
     </entry>
 </feed>
