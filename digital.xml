@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-11-05T13:17:03.524Z</updated>
+    <updated>2023-11-05T14:13:07.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[크리에이터 경쟁력 강화 플랫폼 업계, 생태계 구축 주력 [Oh!쎈 초점]]]></title>
+        <id>https://v.daum.net/v/20231105230145265</id>
+        <link href="https://v.daum.net/v/20231105230145265"/>
+        <updated>2023-11-05T14:12:46.067Z</updated>
+        <content type="html"><![CDATA[OSEN<span class="txt_bar"> · </span><span class="info_time">23:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우주항공청법 9일 처리 ‘불투명’…“11월 입법 총력”]]></title>
         <id>https://v.daum.net/v/20231105220210967</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231105200300168"/>
         <updated>2023-11-05T11:12:28.127Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">20:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“개나리냐” “중국틱하다” 조롱받던 ‘황금색’ 삼성폰…4년만에 부활]]></title>
-        <id>https://v.daum.net/v/20231105195046083</id>
-        <link href="https://v.daum.net/v/20231105195046083"/>
-        <updated>2023-11-05T11:12:28.130Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">19:50</span>]]></content>
     </entry>
 </feed>
