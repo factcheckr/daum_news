@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/sports</id>
     <title>다음 뉴스 ─ 전체기사 ─ 스포츠</title>
-    <updated>2023-11-06T16:21:06.319Z</updated>
+    <updated>2023-11-06T17:15:02.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[49개 vs 22개 압도적 리바운드…kt 3연패→2연승 '반전'…하윤기·배스 42점 폭죽]]></title>
+        <id>https://v.daum.net/v/20231107013504329</id>
+        <link href="https://v.daum.net/v/20231107013504329"/>
+        <updated>2023-11-06T17:14:13.757Z</updated>
+        <content type="html"><![CDATA[MHN스포츠<span class="txt_bar"> · </span><span class="info_time">01:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[코리아투어] 파이널 전주대회 2023년 끝!]]></title>
         <id>https://v.daum.net/v/20231107011352291</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231107002810110"/>
         <updated>2023-11-06T16:20:32.105Z</updated>
         <content type="html"><![CDATA[마니아타임즈<span class="txt_bar"> · </span><span class="info_time">00:28</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[ST포토] 남현희 '말없이 차량으로 이동']]></title>
-        <id>https://v.daum.net/v/20231107002702104</id>
-        <link href="https://v.daum.net/v/20231107002702104"/>
-        <updated>2023-11-06T16:20:32.105Z</updated>
-        <content type="html"><![CDATA[스포츠투데이<span class="txt_bar"> · </span><span class="info_time">00:27</span>]]></content>
     </entry>
 </feed>
