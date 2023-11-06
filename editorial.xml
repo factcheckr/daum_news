@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-11-06T12:32:53.587Z</updated>
+    <updated>2023-11-06T13:20:52.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 11월 7일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20231106220142979</id>
+        <link href="https://v.daum.net/v/20231106220142979"/>
+        <updated>2023-11-06T13:20:30.819Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[베니스의 상인…그리고 은행들 [김선걸 칼럼]]]></title>
+        <id>https://v.daum.net/v/20231106215101805</id>
+        <link href="https://v.daum.net/v/20231106215101805"/>
+        <updated>2023-11-06T13:20:30.823Z</updated>
+        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">21:51</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[만물상] ‘비욘드 유토피아’]]></title>
         <id>https://v.daum.net/v/20231106205112171</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231106201655794"/>
         <updated>2023-11-06T12:32:35.821Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fix short selling’s systemic loopholes first]]></title>
-        <id>https://v.daum.net/v/20231106201556780</id>
-        <link href="https://v.daum.net/v/20231106201556780"/>
-        <updated>2023-11-06T12:32:35.823Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yoon must demonstrate flexibility and balance]]></title>
-        <id>https://v.daum.net/v/20231106201446761</id>
-        <link href="https://v.daum.net/v/20231106201446761"/>
-        <updated>2023-11-06T12:32:35.824Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:14</span>]]></content>
     </entry>
 </feed>
