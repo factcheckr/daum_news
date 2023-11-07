@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-11-07T22:15:38.096Z</updated>
+    <updated>2023-11-07T23:15:45.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](8일 조간)]]></title>
+        <id>https://v.daum.net/v/20231108080006775</id>
+        <link href="https://v.daum.net/v/20231108080006775"/>
+        <updated>2023-11-07T23:15:25.894Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[시로 여는 수요일] 꽃과 함께 식사]]></title>
+        <id>https://v.daum.net/v/20231108073016257</id>
+        <link href="https://v.daum.net/v/20231108073016257"/>
+        <updated>2023-11-07T23:15:25.895Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">07:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전청조와 디스패치[오늘을 생각한다]]]></title>
         <id>https://v.daum.net/v/20231108071151978</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231108064428453"/>
         <updated>2023-11-07T22:15:13.231Z</updated>
         <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">06:44</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기고]쉰 살 대덕특구서 미래한국 50년 열자]]></title>
-        <id>https://v.daum.net/v/20231108060016707</id>
-        <link href="https://v.daum.net/v/20231108060016707"/>
-        <updated>2023-11-07T21:13:51.275Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['배터리 정글'에서 생존하려면[우보세]]]></title>
-        <id>https://v.daum.net/v/20231108054014580</id>
-        <link href="https://v.daum.net/v/20231108054014580"/>
-        <updated>2023-11-07T21:13:51.275Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">05:40</span>]]></content>
     </entry>
 </feed>
