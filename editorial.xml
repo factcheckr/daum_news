@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-11-08T22:15:22.845Z</updated>
+    <updated>2023-11-08T23:15:49.935Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[부고] 강성곤(현대글로비스 커뮤니케이션팀장)씨 장인상]]></title>
+        <id>https://v.daum.net/v/20231109075239970</id>
+        <link href="https://v.daum.net/v/20231109075239970"/>
+        <updated>2023-11-08T23:15:27.505Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:52</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[소비자칼럼] ESG 경영, 지속가능성을 추구하는 호텔]]></title>
         <id>https://v.daum.net/v/20231109070021175</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231109060036385"/>
         <updated>2023-11-08T21:14:14.351Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기고]이래도 중국 먹거리를 찾겠습니까]]></title>
-        <id>https://v.daum.net/v/20231109060015320</id>
-        <link href="https://v.daum.net/v/20231109060015320"/>
-        <updated>2023-11-08T21:14:14.351Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
     </entry>
 </feed>
