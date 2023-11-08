@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-11-08T16:20:39.047Z</updated>
+    <updated>2023-11-08T17:14:50.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]기술혁신의 방향 재조정]]></title>
+        <id>https://v.daum.net/v/20231109020504010</id>
+        <link href="https://v.daum.net/v/20231109020504010"/>
+        <updated>2023-11-08T17:14:34.033Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]기본이 무너진 생명윤리 규제, 시급히 정비해야]]></title>
+        <id>https://v.daum.net/v/20231109020501009</id>
+        <link href="https://v.daum.net/v/20231109020501009"/>
+        <updated>2023-11-08T17:14:34.036Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 노란봉투법·방송법 강행에 나선 거야의 힘자랑 중독증]]></title>
         <id>https://v.daum.net/v/20231109005209721</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231109003007627"/>
         <updated>2023-11-08T16:20:20.695Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이은형의 슬기로운 조직생활] Z세대에 대처하는 선배의 자세]]></title>
-        <id>https://v.daum.net/v/20231109002916620</id>
-        <link href="https://v.daum.net/v/20231109002916620"/>
-        <updated>2023-11-08T16:20:20.697Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:29</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노트북을 열며] 유자녀 커리어우먼의 ‘출산할 결심’]]></title>
-        <id>https://v.daum.net/v/20231109002807617</id>
-        <link href="https://v.daum.net/v/20231109002807617"/>
-        <updated>2023-11-08T16:20:20.699Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:28</span>]]></content>
     </entry>
 </feed>
