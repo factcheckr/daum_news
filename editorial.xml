@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-11-09T03:18:41.392Z</updated>
+    <updated>2023-11-09T04:20:19.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정부, 전액 삭감 ‘지역화폐 예산’ 야당 주도로 7000억원 증액]]></title>
+        <id>https://v.daum.net/v/20231109130959699</id>
+        <link href="https://v.daum.net/v/20231109130959699"/>
+        <updated>2023-11-09T04:20:03.425Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">13:09</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[너 자신을 알라!]]></title>
         <id>https://v.daum.net/v/20231109120507297</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231109110628430"/>
         <updated>2023-11-09T02:28:52.231Z</updated>
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[발언대]"반려견 사료, 아직도 그레인프리인가요?"]]></title>
-        <id>https://v.daum.net/v/20231109110042131</id>
-        <link href="https://v.daum.net/v/20231109110042131"/>
-        <updated>2023-11-09T02:28:52.232Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:00</span>]]></content>
     </entry>
 </feed>
