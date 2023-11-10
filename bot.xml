@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-11-10T07:14:30.647Z</updated>
+    <updated>2023-11-10T08:19:46.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세종 새롬동 새뜸마을7단지아파트 79㎡ 3억5820만원... 역대 최고가]]></title>
+        <id>https://v.daum.net/v/20231110162543670</id>
+        <link href="https://v.daum.net/v/20231110162543670"/>
+        <updated>2023-11-10T08:19:45.735Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">16:25</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울 목동 목동1단지 123㎡ 25억원... 역대 최고가]]></title>
+        <id>https://v.daum.net/v/20231110162049541</id>
+        <link href="https://v.daum.net/v/20231110162049541"/>
+        <updated>2023-11-10T08:19:45.735Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">16:20</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천 송도동 송도더샵퍼스트월드 105㎡ 9억7500만원... 역대 최고가]]></title>
+        <id>https://v.daum.net/v/20231110161533421</id>
+        <link href="https://v.daum.net/v/20231110161533421"/>
+        <updated>2023-11-10T08:19:45.735Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">16:15</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수원 영통동 영통벽적골롯데 49㎡ 3억4000만원에 거래]]></title>
         <id>https://v.daum.net/v/20231110161050292</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20231110153555310"/>
         <updated>2023-11-10T07:14:29.846Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">15:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 송도동 송도더샵퍼스트월드 105㎡ 9억7500만원에 거래]]></title>
-        <id>https://v.daum.net/v/20231110153043176</id>
-        <link href="https://v.daum.net/v/20231110153043176"/>
-        <updated>2023-11-10T07:14:29.847Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">15:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 만수동 포레시안 아파트 59㎡ 3억2800만원에 거래]]></title>
-        <id>https://v.daum.net/v/20231110152550044</id>
-        <link href="https://v.daum.net/v/20231110152550044"/>
-        <updated>2023-11-10T07:14:29.849Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">15:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용인 신봉동 엘지자이1차 122㎡ 8억6800만원에 거래]]></title>
-        <id>https://v.daum.net/v/20231110152110935</id>
-        <link href="https://v.daum.net/v/20231110152110935"/>
-        <updated>2023-11-10T07:14:29.850Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">15:21</span>]]></content>
     </entry>
 </feed>
