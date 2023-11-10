@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-11-10T22:14:26.085Z</updated>
+    <updated>2023-11-10T23:14:50.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[김회룡의 시사 TOON]]]></title>
+        <id>https://v.daum.net/v/20231111080806065</id>
+        <link href="https://v.daum.net/v/20231111080806065"/>
+        <updated>2023-11-10T23:14:36.294Z</updated>
+        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">08:08</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[희토류: 위협, 기회, 아니면 통상적 비즈니스?]]></title>
         <id>https://v.daum.net/v/20231111063002132</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231111040910378"/>
         <updated>2023-11-10T19:14:03.666Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토 카페] 자연과 더불어 사는 삶]]></title>
-        <id>https://v.daum.net/v/20231111040421363</id>
-        <link href="https://v.daum.net/v/20231111040421363"/>
-        <updated>2023-11-10T19:14:03.667Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:04</span>]]></content>
     </entry>
 </feed>
