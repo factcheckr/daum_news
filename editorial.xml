@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-11-10T10:17:08.010Z</updated>
+    <updated>2023-11-10T11:13:42.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사설]일회용품 규제 폐지 ‘날벼락’ 종이빨대 업체, 정부 책임져야]]></title>
+        <id>https://v.daum.net/v/20231110195206951</id>
+        <link href="https://v.daum.net/v/20231110195206951"/>
+        <updated>2023-11-10T11:13:24.409Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">19:52</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[여행작가 신양란의 좌충우돌 해외여행 7] ‘분 보 후에’의 유쾌한 추억]]></title>
         <id>https://v.daum.net/v/20231110190234774</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20231110170610934</id>
         <link href="https://v.daum.net/v/20231110170610934"/>
         <updated>2023-11-10T08:19:19.884Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[책과 미래] 언어 능력이 인생을 바꾼다]]></title>
-        <id>https://v.daum.net/v/20231110170609932</id>
-        <link href="https://v.daum.net/v/20231110170609932"/>
-        <updated>2023-11-10T08:19:19.885Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:06</span>]]></content>
     </entry>
 </feed>
