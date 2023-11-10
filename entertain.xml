@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2023-11-10T18:18:56.811Z</updated>
+    <updated>2023-11-10T19:14:23.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정국 '골든', 英 앨범차트 3위…K팝 솔로 최고순위]]></title>
+        <id>https://v.daum.net/v/20231111040913380</id>
+        <link href="https://v.daum.net/v/20231111040913380"/>
+        <updated>2023-11-10T19:13:37.072Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">04:09</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴진스 K팝 걸그룹 최초 빌보드 무대 선다]]></title>
+        <id>https://v.daum.net/v/20231111040816374</id>
+        <link href="https://v.daum.net/v/20231111040816374"/>
+        <updated>2023-11-10T19:13:37.075Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:08</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['투수 조장' 송승준, 타자로 나선 신재영과 대결...혼내 주나 ('최강야구')]]></title>
+        <id>https://v.daum.net/v/20231111040030340</id>
+        <link href="https://v.daum.net/v/20231111040030340"/>
+        <updated>2023-11-10T19:13:37.077Z</updated>
+        <content type="html"><![CDATA[TV리포트<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[K팝, 내년 '그래미 어워즈' 후보 불발…시저 9개 부문 최다 지명(종합)]]></title>
         <id>https://v.daum.net/v/20231111031608310</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20231111014457086"/>
         <updated>2023-11-10T17:13:58.395Z</updated>
         <content type="html"><![CDATA[MBC연예<span class="txt_bar"> · </span><span class="info_time">01:44</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘열녀박씨 계약결혼뎐’ 정시아-노종현-권아름, 인간 안드로이드 배인혁과 동거동락?]]></title>
-        <id>https://v.daum.net/v/20231111014259069</id>
-        <link href="https://v.daum.net/v/20231111014259069"/>
-        <updated>2023-11-10T17:13:58.398Z</updated>
-        <content type="html"><![CDATA[스포츠경향<span class="txt_bar"> · </span><span class="info_time">01:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 채널A]성적 안올라 고민인 학생에 맞춤솔루션 제공]]></title>
-        <id>https://v.daum.net/v/20231111014127029</id>
-        <link href="https://v.daum.net/v/20231111014127029"/>
-        <updated>2023-11-10T17:13:58.401Z</updated>
-        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">01:41</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포르테나, ‘팬텀싱어4’ 전국투어 콘서트 현장 비하인드 영상 공개]]></title>
-        <id>https://v.daum.net/v/20231111013605991</id>
-        <link href="https://v.daum.net/v/20231111013605991"/>
-        <updated>2023-11-10T17:13:58.408Z</updated>
-        <content type="html"><![CDATA[스포츠경향<span class="txt_bar"> · </span><span class="info_time">01:36</span>]]></content>
     </entry>
 </feed>
