@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-11-10T21:14:11.390Z</updated>
+    <updated>2023-11-10T22:14:26.085Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[희토류: 위협, 기회, 아니면 통상적 비즈니스?]]></title>
+        <id>https://v.daum.net/v/20231111063002132</id>
+        <link href="https://v.daum.net/v/20231111063002132"/>
+        <updated>2023-11-10T22:14:06.762Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">06:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장영란, 집에서 '엄청난 규모의 김장' 인증 "점심에 시작해 밤에 끝나"]]></title>
         <id>https://v.daum.net/v/20231111061001957</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231111040421363"/>
         <updated>2023-11-10T19:14:03.667Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 이재명 수사검사 탄핵 추진은 수사방해]]></title>
-        <id>https://v.daum.net/v/20231111040318356</id>
-        <link href="https://v.daum.net/v/20231111040318356"/>
-        <updated>2023-11-10T19:14:03.668Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:03</span>]]></content>
     </entry>
 </feed>
