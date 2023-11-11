@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-11-10T23:14:50.118Z</updated>
+    <updated>2023-11-11T01:01:58.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](11일 조간)]]></title>
+        <id>https://v.daum.net/v/20231111100011056</id>
+        <link href="https://v.daum.net/v/20231111100011056"/>
+        <updated>2023-11-11T01:01:41.761Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">10:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“인구 절반”을 노비 삼은 주자학(朱子學)의 나라 조선]]></title>
+        <id>https://v.daum.net/v/20231111093015774</id>
+        <link href="https://v.daum.net/v/20231111093015774"/>
+        <updated>2023-11-11T01:01:41.763Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">09:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[실업률 2.3%, 사회경제의 구조적 변동 ‘응축’]]></title>
+        <id>https://v.daum.net/v/20231111090537552</id>
+        <link href="https://v.daum.net/v/20231111090537552"/>
+        <updated>2023-11-11T01:01:41.764Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">09:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[영상] 'REW월화수목금']]></title>
+        <id>https://v.daum.net/v/20231111085217339</id>
+        <link href="https://v.daum.net/v/20231111085217339"/>
+        <updated>2023-11-11T01:01:41.764Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">08:52</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[김회룡의 시사 TOON]]]></title>
         <id>https://v.daum.net/v/20231111080806065</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20231111043033412"/>
         <updated>2023-11-10T20:16:06.752Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내 취향의 커피 찾기 [休·味·樂(휴·미·락)]]]></title>
-        <id>https://v.daum.net/v/20231111043025411</id>
-        <link href="https://v.daum.net/v/20231111043025411"/>
-        <updated>2023-11-10T20:16:06.754Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한마당] 거부권]]></title>
-        <id>https://v.daum.net/v/20231111041206388</id>
-        <link href="https://v.daum.net/v/20231111041206388"/>
-        <updated>2023-11-10T19:14:03.660Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창] 절대 벌어지지 않을 일]]></title>
-        <id>https://v.daum.net/v/20231111041016383</id>
-        <link href="https://v.daum.net/v/20231111041016383"/>
-        <updated>2023-11-10T19:14:03.663Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[빛과 소금] ‘모두가 병든 사회’, 희망이 답이다]]></title>
-        <id>https://v.daum.net/v/20231111040910378</id>
-        <link href="https://v.daum.net/v/20231111040910378"/>
-        <updated>2023-11-10T19:14:03.666Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:09</span>]]></content>
     </entry>
 </feed>
