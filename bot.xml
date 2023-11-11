@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-11-11T08:18:16.679Z</updated>
+    <updated>2023-11-11T09:14:11.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2023년 11월 11일)]]></title>
+        <id>https://v.daum.net/v/20231111173208060</id>
+        <link href="https://v.daum.net/v/20231111173208060"/>
+        <updated>2023-11-11T09:14:10.850Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:32</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가상화폐 제로엑스 상승세... 전일대비 +33.77%]]></title>
+        <id>https://v.daum.net/v/20231111173115043</id>
+        <link href="https://v.daum.net/v/20231111173115043"/>
+        <updated>2023-11-11T09:14:10.860Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">17:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울 길음동 롯데캐슬클라시아 112㎡ 17억5000만원... 역대 최고가]]></title>
         <id>https://v.daum.net/v/20231111160055281</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231111150048292"/>
         <updated>2023-11-11T06:18:31.571Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">15:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 원천동 원천레이크파크 59㎡ 4억원에 거래]]></title>
-        <id>https://v.daum.net/v/20231111145540218</id>
-        <link href="https://v.daum.net/v/20231111145540218"/>
-        <updated>2023-11-11T06:18:31.572Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:55</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 송도동 e편한세상송도아파트 70㎡ 5억8300만원에 거래]]></title>
-        <id>https://v.daum.net/v/20231111145045161</id>
-        <link href="https://v.daum.net/v/20231111145045161"/>
-        <updated>2023-11-11T06:18:31.573Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:50</span>]]></content>
     </entry>
 </feed>
