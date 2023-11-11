@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-11-11T01:01:58.088Z</updated>
+    <updated>2023-11-11T02:28:29.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["부르는 게 값"…매크로·암표 '횡행']]></title>
+        <id>https://v.daum.net/v/20231111100939162</id>
+        <link href="https://v.daum.net/v/20231111100939162"/>
+        <updated>2023-11-11T02:28:13.872Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">10:09</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주요 신문 사설](11일 조간)]]></title>
         <id>https://v.daum.net/v/20231111100011056</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20231111043036413</id>
         <link href="https://v.daum.net/v/20231111043036413"/>
         <updated>2023-11-10T20:16:06.748Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 민주당 ‘이재명 수사검사 탄핵’ 추진, 법과 원칙에 맞는가]]></title>
-        <id>https://v.daum.net/v/20231111043033412</id>
-        <link href="https://v.daum.net/v/20231111043033412"/>
-        <updated>2023-11-10T20:16:06.752Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
     </entry>
 </feed>
