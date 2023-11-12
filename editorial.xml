@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-11-12T22:14:41.343Z</updated>
+    <updated>2023-11-12T23:15:15.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](13일 조간)]]></title>
+        <id>https://v.daum.net/v/20231113080003077</id>
+        <link href="https://v.daum.net/v/20231113080003077"/>
+        <updated>2023-11-12T23:14:53.613Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024년 세계경제와 금융시장 전망 [국제경제읽기 한상춘]]]></title>
+        <id>https://v.daum.net/v/20231113074231834</id>
+        <link href="https://v.daum.net/v/20231113074231834"/>
+        <updated>2023-11-12T23:14:53.613Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">07:42</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[신진욱 칼럼] 전쟁의 시대를 어떻게 대할 것인가]]></title>
         <id>https://v.daum.net/v/20231113070512424</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231113060017508"/>
         <updated>2023-11-12T21:12:50.658Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘김학의 사건’ 검사들이 처벌을 피해갔다 [기자들의 시선]]]></title>
-        <id>https://v.daum.net/v/20231113055408441</id>
-        <link href="https://v.daum.net/v/20231113055408441"/>
-        <updated>2023-11-12T21:12:50.659Z</updated>
-        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">05:54</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메가 서울과 R&D 예산, 대통령의 소신은 무엇인가 [편집국장의 편지]]]></title>
-        <id>https://v.daum.net/v/20231113055400437</id>
-        <link href="https://v.daum.net/v/20231113055400437"/>
-        <updated>2023-11-12T21:12:50.659Z</updated>
-        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">05:54</span>]]></content>
     </entry>
 </feed>
