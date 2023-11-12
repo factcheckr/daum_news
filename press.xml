@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-11-12T20:14:55.491Z</updated>
+    <updated>2023-11-12T21:13:06.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이든티앤에스 ‘F&B 하이퍼 오토메이션 고객세미나’ 개최… 식음료업계 디지털 혁신 지원 나서]]></title>
+        <id>https://v.daum.net/v/20231113060704750</id>
+        <link href="https://v.daum.net/v/20231113060704750"/>
+        <updated>2023-11-12T21:12:58.443Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">06:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강원의료기기 세일즈단 유럽시장 공략 박차]]></title>
         <id>https://v.daum.net/v/20231113000625033</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231113000430964"/>
         <updated>2023-11-12T15:14:40.899Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[건강한 가족] 찬바람에 욱신거리는 관절 통증, 방치하면 근육 줄어 노쇠화 더 빨라져요]]></title>
-        <id>https://v.daum.net/v/20231113000348957</id>
-        <link href="https://v.daum.net/v/20231113000348957"/>
-        <updated>2023-11-12T15:14:40.901Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
     </entry>
 </feed>
