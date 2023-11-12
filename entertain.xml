@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2023-11-12T17:13:16.956Z</updated>
+    <updated>2023-11-12T18:18:33.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘의 채널A]아픈 아들 위해 요리 배운 홍신애]]></title>
+        <id>https://v.daum.net/v/20231113030155438</id>
+        <link href="https://v.daum.net/v/20231113030155438"/>
+        <updated>2023-11-12T18:17:47.958Z</updated>
+        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">03:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[TV조선] 루마니아 장인과 한국 사위의 ‘케미’]]></title>
+        <id>https://v.daum.net/v/20231113030116401</id>
+        <link href="https://v.daum.net/v/20231113030116401"/>
+        <updated>2023-11-12T18:17:47.969Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["성난 등근육 美쳤다" 한혜진, 군살 1도 없는 톱모델 위엄]]></title>
+        <id>https://v.daum.net/v/20231113030026380</id>
+        <link href="https://v.daum.net/v/20231113030026380"/>
+        <updated>2023-11-12T18:17:47.971Z</updated>
+        <content type="html"><![CDATA[OSEN<span class="txt_bar"> · </span><span class="info_time">03:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유산고백 후..김소영 "다시 운동 시작, 후회없이 한 해 마무리할 것" (Oh!쎈 이슈)]]></title>
         <id>https://v.daum.net/v/20231113012325284</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20231113002441126"/>
         <updated>2023-11-12T16:17:38.944Z</updated>
         <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">00:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘컴백’ 레드벨벳 슬기, 게임 속 여전사 연상케 하는 비주얼…멋짐 뿜뿜]]></title>
-        <id>https://v.daum.net/v/20231113002427125</id>
-        <link href="https://v.daum.net/v/20231113002427125"/>
-        <updated>2023-11-12T16:17:38.946Z</updated>
-        <content type="html"><![CDATA[MBC연예<span class="txt_bar"> · </span><span class="info_time">00:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공효진, ♥케빈오와 데이트 중? 화장기 없는 얼굴도 러블리 [스타IN★]]]></title>
-        <id>https://v.daum.net/v/20231113002247120</id>
-        <link href="https://v.daum.net/v/20231113002247120"/>
-        <updated>2023-11-12T16:17:38.948Z</updated>
-        <content type="html"><![CDATA[스타뉴스<span class="txt_bar"> · </span><span class="info_time">00:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서울의 봄' 황정민 vs 정우성, 연기 대결의 맛 [Oh!쎈 이슈]]]></title>
-        <id>https://v.daum.net/v/20231113001822107</id>
-        <link href="https://v.daum.net/v/20231113001822107"/>
-        <updated>2023-11-12T16:17:38.949Z</updated>
-        <content type="html"><![CDATA[OSEN<span class="txt_bar"> · </span><span class="info_time">00:18</span>]]></content>
     </entry>
 </feed>
