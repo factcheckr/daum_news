@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-11-13T22:14:19.705Z</updated>
+    <updated>2023-11-13T23:16:32.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[빈대, 돌아오다]]></title>
+        <title type="html"><![CDATA[[주요 신문 사설](14일 조간)]]></title>
+        <id>https://v.daum.net/v/20231114080003810</id>
+        <link href="https://v.daum.net/v/20231114080003810"/>
+        <updated>2023-11-13T23:16:10.308Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[초연결 사회에 빈대가 돌아오다]]></title>
         <id>https://v.daum.net/v/20231114070517161</id>
         <link href="https://v.daum.net/v/20231114070517161"/>
         <updated>2023-11-13T22:14:06.490Z</updated>
@@ -100,13 +107,6 @@
         <title type="html"><![CDATA[[Daoud Kuttabo] Path for Gaza after a cease-fire]]></title>
         <id>https://v.daum.net/v/20231114053110090</id>
         <link href="https://v.daum.net/v/20231114053110090"/>
-        <updated>2023-11-13T21:15:20.774Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Daniel DePetris] Pessimism is growing in Ukraine over its war with Russia]]></title>
-        <id>https://v.daum.net/v/20231114053108088</id>
-        <link href="https://v.daum.net/v/20231114053108088"/>
         <updated>2023-11-13T21:15:20.774Z</updated>
         <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:31</span>]]></content>
     </entry>
