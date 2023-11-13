@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2023-11-13T16:19:54.057Z</updated>
+    <updated>2023-11-13T17:14:09.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美 최대 석유 기업 엑손모빌, 배터리 소재 ‘리튬’ 사업 진출]]></title>
+        <id>https://v.daum.net/v/20231114014532965</id>
+        <link href="https://v.daum.net/v/20231114014532965"/>
+        <updated>2023-11-13T17:13:14.534Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">01:45</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[현대차 전기차 첫 전용 공장...정의선, "100년 기업 꿈 이룰 것"]]></title>
         <id>https://v.daum.net/v/20231114011610879</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231114001744541"/>
         <updated>2023-11-13T15:21:26.704Z</updated>
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">00:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국채수익률 상승+무디스 등급 하향…뉴욕증시 하락 출발]]></title>
-        <id>https://v.daum.net/v/20231114001703538</id>
-        <link href="https://v.daum.net/v/20231114001703538"/>
-        <updated>2023-11-13T15:21:26.706Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:17</span>]]></content>
     </entry>
 </feed>
