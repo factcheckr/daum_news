@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-11-13T12:28:45.479Z</updated>
+    <updated>2023-11-13T13:19:47.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 11월 14일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20231113220218266</id>
+        <link href="https://v.daum.net/v/20231113220218266"/>
+        <updated>2023-11-13T13:19:25.124Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사설] ‘대통령 친구’ 이종석 후보자, 헌재 독립·보수화 우려된다]]></title>
+        <id>https://v.daum.net/v/20231113212849300</id>
+        <link href="https://v.daum.net/v/20231113212849300"/>
+        <updated>2023-11-13T13:19:25.125Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">21:28</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[국민만평-서민호 화백] 2023년 11월 14일]]></title>
         <id>https://v.daum.net/v/20231113210740869</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231113201433538"/>
         <updated>2023-11-13T12:28:30.006Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">20:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Actions speak louder than words]]></title>
-        <id>https://v.daum.net/v/20231113201116460</id>
-        <link href="https://v.daum.net/v/20231113201116460"/>
-        <updated>2023-11-13T11:13:57.063Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It’s time to discuss the future of the CIO]]></title>
-        <id>https://v.daum.net/v/20231113201005441</id>
-        <link href="https://v.daum.net/v/20231113201005441"/>
-        <updated>2023-11-13T11:13:57.065Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:10</span>]]></content>
     </entry>
 </feed>
