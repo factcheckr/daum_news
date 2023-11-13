@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-11-13T20:14:37.997Z</updated>
+    <updated>2023-11-13T21:15:36.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KOTRA, 에코바디스·KPC와 손잡고 우리기업 ESG 평가 대응]]></title>
+        <id>https://v.daum.net/v/20231114060702507</id>
+        <link href="https://v.daum.net/v/20231114060702507"/>
+        <updated>2023-11-13T21:15:28.669Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">06:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정부 근로시간 개편…도내 노·사 반응 엇갈려]]></title>
         <id>https://v.daum.net/v/20231114000623469</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20231114000358380</id>
         <link href="https://v.daum.net/v/20231114000358380"/>
         <updated>2023-11-13T15:22:42.324Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[라이프 트렌드&] 고령층에게 생활목공 등 배움 선물 … 세대 및 지역 간 문화격차 해소에 기여]]></title>
-        <id>https://v.daum.net/v/20231114000356378</id>
-        <link href="https://v.daum.net/v/20231114000356378"/>
-        <updated>2023-11-13T15:22:42.327Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
     </entry>
 </feed>
