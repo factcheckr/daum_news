@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-11-14T09:15:52.951Z</updated>
+    <updated>2023-11-14T10:17:12.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안성소방서, 화재예방 캠페인 진행]]></title>
+        <id>https://v.daum.net/v/20231114190043031</id>
+        <link href="https://v.daum.net/v/20231114190043031"/>
+        <updated>2023-11-14T10:17:02.309Z</updated>
+        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">19:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI-미디어, Global Media Congress 행사에서 첨단 자막 솔루션 기능 선보여]]></title>
+        <id>https://v.daum.net/v/20231114181703147</id>
+        <link href="https://v.daum.net/v/20231114181703147"/>
+        <updated>2023-11-14T10:17:02.310Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">18:17</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남해군, 2023 보물섬 남해 귀농·귀촌 플리마켓 개최]]></title>
         <id>https://v.daum.net/v/20231114181506093</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231114174003039"/>
         <updated>2023-11-14T09:15:43.544Z</updated>
         <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">17:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에코프로머티리얼즈, 주주서한 발송]]></title>
-        <id>https://v.daum.net/v/20231114173708936</id>
-        <link href="https://v.daum.net/v/20231114173708936"/>
-        <updated>2023-11-14T09:15:43.546Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금호타이어, 3분기 실적 발표]]></title>
-        <id>https://v.daum.net/v/20231114173704932</id>
-        <link href="https://v.daum.net/v/20231114173704932"/>
-        <updated>2023-11-14T09:15:43.548Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:37</span>]]></content>
     </entry>
 </feed>
