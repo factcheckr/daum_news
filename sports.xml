@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/sports</id>
     <title>다음 뉴스 ─ 전체기사 ─ 스포츠</title>
-    <updated>2023-11-15T16:22:26.237Z</updated>
+    <updated>2023-11-15T17:16:05.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[EASL] 푸본, 론데 홀리스 제퍼슨 울렸다···TNT 격파하고 첫 승 신고]]></title>
+        <id>https://v.daum.net/v/20231116014228270</id>
+        <link href="https://v.daum.net/v/20231116014228270"/>
+        <updated>2023-11-15T17:15:31.130Z</updated>
+        <content type="html"><![CDATA[점프볼<span class="txt_bar"> · </span><span class="info_time">01:42</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘중원 비상’ 아스널, 애스턴 빌라 핵심 MF 노린다]]></title>
+        <id>https://v.daum.net/v/20231116012720205</id>
+        <link href="https://v.daum.net/v/20231116012720205"/>
+        <updated>2023-11-15T17:15:31.130Z</updated>
+        <content type="html"><![CDATA[스포츠경향<span class="txt_bar"> · </span><span class="info_time">01:27</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘명품 스트로크의 힘’ 최원준, 위마즈 꺾고 PBA투어 우승…1539일만에 두 번째 정상]]></title>
         <id>https://v.daum.net/v/20231116010900138</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231116001500893"/>
         <updated>2023-11-15T15:16:45.342Z</updated>
         <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘손흥민 다시 윙어로?’ 토트넘, 멕시코 출신 페예노르트 스트라이커 영입 노린다]]></title>
-        <id>https://v.daum.net/v/20231116001415891</id>
-        <link href="https://v.daum.net/v/20231116001415891"/>
-        <updated>2023-11-15T15:16:45.343Z</updated>
-        <content type="html"><![CDATA[스포츠경향<span class="txt_bar"> · </span><span class="info_time">00:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피파랭킹 155위 싱가포르, 경계대상 누구?…귀화선수 송의영 주목]]></title>
-        <id>https://v.daum.net/v/20231116001022868</id>
-        <link href="https://v.daum.net/v/20231116001022868"/>
-        <updated>2023-11-15T15:16:45.345Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
     </entry>
 </feed>

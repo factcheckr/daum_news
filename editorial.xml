@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-11-15T16:22:26.229Z</updated>
+    <updated>2023-11-15T17:16:05.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]미국과 중국의 적대적 공생관계]]></title>
+        <id>https://v.daum.net/v/20231116020302315</id>
+        <link href="https://v.daum.net/v/20231116020302315"/>
+        <updated>2023-11-15T17:15:48.302Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓] 생성형 AI 산업지형도]]></title>
+        <id>https://v.daum.net/v/20231116020202313</id>
+        <link href="https://v.daum.net/v/20231116020202313"/>
+        <updated>2023-11-15T17:15:48.304Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 민주당-한동훈의 정치 혐오 부추기는 말싸움]]></title>
         <id>https://v.daum.net/v/20231116005559082</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231116003106971"/>
         <updated>2023-11-15T16:22:09.751Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시조가 있는 아침] (201) 오우가(五友歌)]]></title>
-        <id>https://v.daum.net/v/20231116002816957</id>
-        <link href="https://v.daum.net/v/20231116002816957"/>
-        <updated>2023-11-15T16:22:09.752Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:28</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김상현의 과학 산책] 학교라는 곳]]></title>
-        <id>https://v.daum.net/v/20231116002747955</id>
-        <link href="https://v.daum.net/v/20231116002747955"/>
-        <updated>2023-11-15T16:22:09.754Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:27</span>]]></content>
     </entry>
 </feed>
