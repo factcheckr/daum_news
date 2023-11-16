@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2023-11-16T16:21:10.031Z</updated>
+    <updated>2023-11-16T17:16:21.812Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박해수, 댄디함 폭발...차기작 '악연'까지 기대감 UP]]></title>
+        <id>https://v.daum.net/v/20231117021030798</id>
+        <link href="https://v.daum.net/v/20231117021030798"/>
+        <updated>2023-11-16T17:15:36.929Z</updated>
+        <content type="html"><![CDATA[TV리포트<span class="txt_bar"> · </span><span class="info_time">02:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6기 영숙♥영철, 육아 일상…"초반 전쟁→같이 노는 게 제일 재밌어" (나솔사계)[종합]]]></title>
+        <id>https://v.daum.net/v/20231117014050745</id>
+        <link href="https://v.daum.net/v/20231117014050745"/>
+        <updated>2023-11-16T17:15:36.929Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스<span class="txt_bar"> · </span><span class="info_time">01:40</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이러니 루머 생기지..정우성 "이정재와 5시간 술 마시고 10분 대화"]]></title>
         <id>https://v.daum.net/v/20231117011323694</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231117002900520"/>
         <updated>2023-11-16T16:20:23.558Z</updated>
         <content type="html"><![CDATA[TV리포트<span class="txt_bar"> · </span><span class="info_time">00:29</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeVita(드비타), 캐롤 앨범 ‘Letters to Santa’ 깜짝 발매]]></title>
-        <id>https://v.daum.net/v/20231117002314504</id>
-        <link href="https://v.daum.net/v/20231117002314504"/>
-        <updated>2023-11-16T16:20:23.560Z</updated>
-        <content type="html"><![CDATA[스포츠경향<span class="txt_bar"> · </span><span class="info_time">00:23</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정우성 "이정재와 아직도 존댓말 섞어.. 6시간 술 마시고 10분 대화한 적도"(짠한형)]]></title>
-        <id>https://v.daum.net/v/20231117002228502</id>
-        <link href="https://v.daum.net/v/20231117002228502"/>
-        <updated>2023-11-16T16:20:23.561Z</updated>
-        <content type="html"><![CDATA[MBC연예<span class="txt_bar"> · </span><span class="info_time">00:22</span>]]></content>
     </entry>
 </feed>
