@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-11-16T11:13:37.761Z</updated>
+    <updated>2023-11-16T12:29:16.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 구이저우 위성 TV 영상 발표: 구이저우 '블랙기술' 경험]]></title>
+        <id>https://v.daum.net/v/20231116210311029</id>
+        <link href="https://v.daum.net/v/20231116210311029"/>
+        <updated>2023-11-16T12:29:07.836Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">21:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이천시, 2024년 지역사회보장계획 수립 완료]]></title>
         <id>https://v.daum.net/v/20231116192612901</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231116174129309"/>
         <updated>2023-11-16T09:16:01.577Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">17:41</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[33년 맞춤가발회사 밀란 독보적인 신기술 밀란SMP 신사업 출범]]></title>
-        <id>https://v.daum.net/v/20231116173934234</id>
-        <link href="https://v.daum.net/v/20231116173934234"/>
-        <updated>2023-11-16T09:16:01.578Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">17:39</span>]]></content>
     </entry>
 </feed>
