@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-11-16T17:16:21.814Z</updated>
+    <updated>2023-11-16T18:22:43.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘CES 혁신상’ 휩쓴 삼성·LG전자]]></title>
+        <id>https://v.daum.net/v/20231117030311101</id>
+        <link href="https://v.daum.net/v/20231117030311101"/>
+        <updated>2023-11-16T18:22:16.428Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[게이머 잡아라… 부산에 42국 1000여개 업체 모였다]]></title>
+        <id>https://v.daum.net/v/20231117030127938</id>
+        <link href="https://v.daum.net/v/20231117030127938"/>
+        <updated>2023-11-16T18:22:16.430Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SKT, 155조원 AI 반도체 시장 뛰어든다]]></title>
+        <id>https://v.daum.net/v/20231117030122933</id>
+        <link href="https://v.daum.net/v/20231117030122933"/>
+        <updated>2023-11-16T18:22:16.432Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“시야 넓어지니 새 아이디어 번뜩… 더 멋진 발명품 만들게요”]]></title>
+        <id>https://v.daum.net/v/20231117030110924</id>
+        <link href="https://v.daum.net/v/20231117030110924"/>
+        <updated>2023-11-16T18:22:16.433Z</updated>
+        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">03:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2032년 한국형 달 착륙선 만든다… 관건은 ‘역추진’]]></title>
+        <id>https://v.daum.net/v/20231117030107922</id>
+        <link href="https://v.daum.net/v/20231117030107922"/>
+        <updated>2023-11-16T18:22:16.436Z</updated>
+        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">03:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그라비티 신작 뮈렌-라그 비긴즈, 어떻게 개발했을까?]]></title>
+        <id>https://v.daum.net/v/20231117023005817</id>
+        <link href="https://v.daum.net/v/20231117023005817"/>
+        <updated>2023-11-16T18:22:16.438Z</updated>
+        <content type="html"><![CDATA[MHN스포츠<span class="txt_bar"> · </span><span class="info_time">02:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[벡스코 전시장에 뜬 '축구장', 대체 누가?]]></title>
         <id>https://v.daum.net/v/20231117010331659</id>
@@ -67,12 +109,5 @@
         <link href="https://v.daum.net/v/20231117000545330"/>
         <updated>2023-11-16T15:16:55.977Z</updated>
         <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사피온, 연산성능 네 배로 높인 AI 반도체 ‘X330’ 공개]]></title>
-        <id>https://v.daum.net/v/20231117000303270</id>
-        <link href="https://v.daum.net/v/20231117000303270"/>
-        <updated>2023-11-16T15:16:55.979Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
     </entry>
 </feed>
