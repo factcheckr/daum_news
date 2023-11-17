@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-11-17T22:14:58.096Z</updated>
+    <updated>2023-11-17T23:15:34.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[최영미 시론] 네타냐후의 뻔뻔한 얼굴]]></title>
+        <id>https://v.daum.net/v/20231118080805102</id>
+        <link href="https://v.daum.net/v/20231118080805102"/>
+        <updated>2023-11-17T23:15:20.830Z</updated>
+        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">08:08</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[김회룡의 시사 TOON]]]></title>
+        <id>https://v.daum.net/v/20231118080802100</id>
+        <link href="https://v.daum.net/v/20231118080802100"/>
+        <updated>2023-11-17T23:15:20.832Z</updated>
+        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">08:08</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“변동성 커진다면, 공매도 제도는 반드시 필요할 것”]]></title>
         <id>https://v.daum.net/v/20231118062925178</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231118040203431"/>
         <updated>2023-11-17T19:12:59.441Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데스크 칼럼] e스포츠 종주국의 민낯]]></title>
-        <id>https://v.daum.net/v/20231118040159429</id>
-        <link href="https://v.daum.net/v/20231118040159429"/>
-        <updated>2023-11-17T19:12:59.442Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">04:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 여야 포퓰리즘 의기투합, 무방비로 폭주하는 11조원 고속철]]></title>
-        <id>https://v.daum.net/v/20231118032610338</id>
-        <link href="https://v.daum.net/v/20231118032610338"/>
-        <updated>2023-11-17T19:12:59.443Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:26</span>]]></content>
     </entry>
 </feed>
