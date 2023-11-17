@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-11-17T13:20:10.016Z</updated>
+    <updated>2023-11-17T14:15:53.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[게임소식] 넥슨, '메이플스토리M' 신규 아케인 리버 지역 '리버스 시티' 업데이트 외]]></title>
+        <id>https://v.daum.net/v/20231117224433308</id>
+        <link href="https://v.daum.net/v/20231117224433308"/>
+        <updated>2023-11-17T14:15:31.720Z</updated>
+        <content type="html"><![CDATA[스포츠한국<span class="txt_bar"> · </span><span class="info_time">22:44</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전자통신연-국방연, ‘6G’ 저궤도 위성통신 협력]]></title>
         <id>https://v.daum.net/v/20231117221354108</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231117204341003"/>
         <updated>2023-11-17T12:28:10.716Z</updated>
         <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">20:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“너 아이폰8이야?” 잘 나가는 손석구도 빵 터졌다…애플 ‘이것’ 때문?]]></title>
-        <id>https://v.daum.net/v/20231117204143957</id>
-        <link href="https://v.daum.net/v/20231117204143957"/>
-        <updated>2023-11-17T12:28:10.717Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">20:41</span>]]></content>
     </entry>
 </feed>
