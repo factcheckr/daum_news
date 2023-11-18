@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-11-18T11:12:31.616Z</updated>
+    <updated>2023-11-18T12:26:21.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 구이저우 위성 TV 귀주의 숨겨진 생태 관광 명소 공개]]></title>
+        <id>https://v.daum.net/v/20231118211941696</id>
+        <link href="https://v.daum.net/v/20231118211941696"/>
+        <updated>2023-11-18T12:26:12.079Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">21:19</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마포구, 홍대 레드로드 2023 아시아도시경관상 본상 수상]]></title>
+        <id>https://v.daum.net/v/20231118202807277</id>
+        <link href="https://v.daum.net/v/20231118202807277"/>
+        <updated>2023-11-18T12:26:12.079Z</updated>
+        <content type="html"><![CDATA[투어코리아<span class="txt_bar"> · </span><span class="info_time">20:28</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[AsiaNet] 중국 산둥성 관현, 베어링(단조) 산업 클러스터 조성]]></title>
         <id>https://v.daum.net/v/20231118165809541</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231118101801619"/>
         <updated>2023-11-18T02:26:08.025Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">10:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] Lucid Gravity 소개: 전기 SUV를 재정의]]></title>
-        <id>https://v.daum.net/v/20231118100439436</id>
-        <link href="https://v.daum.net/v/20231118100439436"/>
-        <updated>2023-11-18T02:26:08.028Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">10:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] CGTN AMERICA & CGTN UN: CMG, 중-미 인적 교류 행사 개최]]></title>
-        <id>https://v.daum.net/v/20231118095847286</id>
-        <link href="https://v.daum.net/v/20231118095847286"/>
-        <updated>2023-11-18T01:04:12.497Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">09:58</span>]]></content>
     </entry>
 </feed>
