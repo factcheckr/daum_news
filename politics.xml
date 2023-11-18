@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2023-11-18T18:18:11.674Z</updated>
+    <updated>2023-11-18T19:12:22.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘신당설’ 이준석, 페북서 모집 안내…“정치문화 바꾸는 길에 동참해달라”]]></title>
+        <id>https://v.daum.net/v/20231119040417000</id>
+        <link href="https://v.daum.net/v/20231119040417000"/>
+        <updated>2023-11-18T19:11:21.487Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">04:04</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尹, APEC 정상회의 마무리...오늘 국내현안·민생 점검]]></title>
         <id>https://v.daum.net/v/20231119011907896</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231119000029665"/>
         <updated>2023-11-18T15:15:15.250Z</updated>
         <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일그러진 '당정 관계'에 피로감 '쑥'…'기득권 내려놓기' 관건 [중도층의 경고⑥]]]></title>
-        <id>https://v.daum.net/v/20231119000010650</id>
-        <link href="https://v.daum.net/v/20231119000010650"/>
-        <updated>2023-11-18T15:15:15.251Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
