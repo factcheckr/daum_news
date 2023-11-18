@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-11-18T13:16:37.795Z</updated>
+    <updated>2023-11-18T14:15:59.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[세컷칼럼] 시장에서 멀어지는 보수 정부]]></title>
+        <id>https://v.daum.net/v/20231118230028383</id>
+        <link href="https://v.daum.net/v/20231118230028383"/>
+        <updated>2023-11-18T14:15:41.936Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가만히 있어도 어지럽다…‘이석증’ 의심부터 [헬스]]]></title>
         <id>https://v.daum.net/v/20231118210316566</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231118093019956"/>
         <updated>2023-11-18T01:04:04.126Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">09:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[최영미 시론] 네타냐후의 뻔뻔한 얼굴]]></title>
-        <id>https://v.daum.net/v/20231118080805102</id>
-        <link href="https://v.daum.net/v/20231118080805102"/>
-        <updated>2023-11-17T23:15:20.830Z</updated>
-        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">08:08</span>]]></content>
     </entry>
 </feed>
