@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-11-19T05:15:26.278Z</updated>
+    <updated>2023-11-19T06:19:07.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영월 태화산카누마을 장기간 방치 '물의']]></title>
+        <id>https://v.daum.net/v/20231119145446938</id>
+        <link href="https://v.daum.net/v/20231119145446938"/>
+        <updated>2023-11-19T06:18:59.869Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">14:54</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[잭과 로라 데인저몬드, 골 세븐틴 이노베이션 인 파트너십 어워드 수상]]></title>
         <id>https://v.daum.net/v/20231119132704369</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20231119120705513</id>
         <link href="https://v.daum.net/v/20231119120705513"/>
         <updated>2023-11-19T03:15:55.805Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">12:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hilton Named No. 1 Best Place to Work in the World]]></title>
-        <id>https://v.daum.net/v/20231119120703512</id>
-        <link href="https://v.daum.net/v/20231119120703512"/>
-        <updated>2023-11-19T03:15:55.807Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">12:07</span>]]></content>
     </entry>
 </feed>
