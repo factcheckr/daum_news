@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-11-19T22:15:53.064Z</updated>
+    <updated>2023-11-19T23:15:18.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[초동시각]과거를 보며 미래를 준비하는 이유]]></title>
+        <id>https://v.daum.net/v/20231120080944917</id>
+        <link href="https://v.daum.net/v/20231120080944917"/>
+        <updated>2023-11-19T23:14:58.895Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">08:09</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아니! 새마을정신으로 저출생을 극복하라고요? [쿠키칼럼]]]></title>
+        <id>https://v.daum.net/v/20231120080201812</id>
+        <link href="https://v.daum.net/v/20231120080201812"/>
+        <updated>2023-11-19T23:14:58.896Z</updated>
+        <content type="html"><![CDATA[쿠키뉴스<span class="txt_bar"> · </span><span class="info_time">08:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](20일 조간)]]></title>
+        <id>https://v.daum.net/v/20231120080005760</id>
+        <link href="https://v.daum.net/v/20231120080005760"/>
+        <updated>2023-11-19T23:14:58.897Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[샌프란시스코 선언 이후 미·중 관계…‘디리스킹’으로 [국제경제읽기 한상춘]]]></title>
+        <id>https://v.daum.net/v/20231120075235647</id>
+        <link href="https://v.daum.net/v/20231120075235647"/>
+        <updated>2023-11-19T23:14:58.897Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">07:52</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[글로벌 리치] 美 소식지 "오픈AI, 이미 쇠퇴하고 있는 기업"]]></title>
+        <id>https://v.daum.net/v/20231120073614399</id>
+        <link href="https://v.daum.net/v/20231120073614399"/>
+        <updated>2023-11-19T23:14:58.899Z</updated>
+        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">07:36</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MONEY생각] 재정의 기능과 건전 재정]]></title>
         <id>https://v.daum.net/v/20231120070012872</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20231120061016364"/>
         <updated>2023-11-19T21:13:34.523Z</updated>
         <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">06:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시론]기업 경영악화 부르는 물가 통제]]></title>
-        <id>https://v.daum.net/v/20231120060033187</id>
-        <link href="https://v.daum.net/v/20231120060033187"/>
-        <updated>2023-11-19T21:13:34.523Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[백상논단]외교도 결국은 내치다.]]></title>
-        <id>https://v.daum.net/v/20231120060019141</id>
-        <link href="https://v.daum.net/v/20231120060019141"/>
-        <updated>2023-11-19T21:13:34.523Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기자수첩] "정부 믿었더니 바보 되더라"]]></title>
-        <id>https://v.daum.net/v/20231120060006114</id>
-        <link href="https://v.daum.net/v/20231120060006114"/>
-        <updated>2023-11-19T21:13:34.524Z</updated>
-        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Martin Schram] Show-and-tell, Bibi and Joe]]></title>
-        <id>https://v.daum.net/v/20231120053129754</id>
-        <link href="https://v.daum.net/v/20231120053129754"/>
-        <updated>2023-11-19T21:13:34.526Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Jerome H Kim] Rebuilding trust in vaccines amidst declining confidence]]></title>
-        <id>https://v.daum.net/v/20231120053127753</id>
-        <link href="https://v.daum.net/v/20231120053127753"/>
-        <updated>2023-11-19T21:13:34.528Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:31</span>]]></content>
     </entry>
 </feed>
