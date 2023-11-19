@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-11-19T08:18:44.053Z</updated>
+    <updated>2023-11-19T09:14:42.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2023년 11월 19일)]]></title>
+        <id>https://v.daum.net/v/20231119173308603</id>
+        <link href="https://v.daum.net/v/20231119173308603"/>
+        <updated>2023-11-19T09:14:41.478Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가상화폐 아더 상승세... 전일대비 +23.2%]]></title>
         <id>https://v.daum.net/v/20231119163123433</id>
