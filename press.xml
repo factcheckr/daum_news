@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-11-19T04:18:14.632Z</updated>
+    <updated>2023-11-19T05:15:26.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[잭과 로라 데인저몬드, 골 세븐틴 이노베이션 인 파트너십 어워드 수상]]></title>
+        <id>https://v.daum.net/v/20231119132704369</id>
+        <link href="https://v.daum.net/v/20231119132704369"/>
+        <updated>2023-11-19T05:15:18.045Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">13:27</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jack and Laura Dangermond Honored with Goal 17 Innovation in Partnership Award]]></title>
+        <id>https://v.daum.net/v/20231119132703367</id>
+        <link href="https://v.daum.net/v/20231119132703367"/>
+        <updated>2023-11-19T05:15:18.046Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">13:27</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AIT 월드와이드 로지스틱스, 루버스 로지스틱스 그룹 인수로 글로벌 입지를 확대할 계획]]></title>
         <id>https://v.daum.net/v/20231119131705265</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231119120703512"/>
         <updated>2023-11-19T03:15:55.807Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">12:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박성훈 해수부차관, 주문진 오징어업체 방문 수급동향점검 나선다]]></title>
-        <id>https://v.daum.net/v/20231119115310220</id>
-        <link href="https://v.daum.net/v/20231119115310220"/>
-        <updated>2023-11-19T03:15:55.809Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">11:53</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에스리, ArcGIS 플랫폼 개선]]></title>
-        <id>https://v.daum.net/v/20231119113707007</id>
-        <link href="https://v.daum.net/v/20231119113707007"/>
-        <updated>2023-11-19T03:15:55.810Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">11:37</span>]]></content>
     </entry>
 </feed>
