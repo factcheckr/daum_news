@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-11-20T12:35:20.542Z</updated>
+    <updated>2023-11-20T13:20:32.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 11월 21일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20231120220256182</id>
+        <link href="https://v.daum.net/v/20231120220256182"/>
+        <updated>2023-11-20T13:20:16.846Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[국민만평-서민호 화백] 2023년 11월 21일]]></title>
+        <id>https://v.daum.net/v/20231120215609091</id>
+        <link href="https://v.daum.net/v/20231120215609091"/>
+        <updated>2023-11-20T13:20:16.849Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">21:56</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[만물상] 점점 현실이 돼 가는 게임]]></title>
         <id>https://v.daum.net/v/20231120211634621</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231120203014047"/>
         <updated>2023-11-20T12:35:02.719Z</updated>
         <content type="html"><![CDATA[KTV<span class="txt_bar"> · </span><span class="info_time">20:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부고] 이흥수(전 국회의원)씨 별세]]></title>
-        <id>https://v.daum.net/v/20231120201242804</id>
-        <link href="https://v.daum.net/v/20231120201242804"/>
-        <updated>2023-11-20T11:13:52.044Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">20:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senseless hard-liners in the Democratic Party]]></title>
-        <id>https://v.daum.net/v/20231120201149794</id>
-        <link href="https://v.daum.net/v/20231120201149794"/>
-        <updated>2023-11-20T11:13:52.044Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:11</span>]]></content>
     </entry>
 </feed>
