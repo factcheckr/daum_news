@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-11-20T05:15:55.767Z</updated>
+    <updated>2023-11-20T06:21:27.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[데일리안 시사만평] IT강국  '디지털 정부' 해외 홍보 중에 터진 '행정망 마비'…'아이구 맙소사']]></title>
+        <id>https://v.daum.net/v/20231120143954325</id>
+        <link href="https://v.daum.net/v/20231120143954325"/>
+        <updated>2023-11-20T06:21:05.820Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">14:39</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인사] 공정거래위원회]]></title>
         <id>https://v.daum.net/v/20231120140318947</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231120112640687"/>
         <updated>2023-11-20T02:29:36.261Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] ‘디지털 정부’ 무색케한 행정망 먹통, 근본대책 세워야]]></title>
-        <id>https://v.daum.net/v/20231120112319500</id>
-        <link href="https://v.daum.net/v/20231120112319500"/>
-        <updated>2023-11-20T02:29:36.262Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:23</span>]]></content>
     </entry>
 </feed>
