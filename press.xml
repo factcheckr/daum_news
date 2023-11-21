@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-11-21T10:22:53.382Z</updated>
+    <updated>2023-11-21T11:14:01.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[부산시 ‘지역별 전기요금 체계 개선’ 공론화 위한 토론회 개최]]></title>
+        <id>https://v.daum.net/v/20231121193946837</id>
+        <link href="https://v.daum.net/v/20231121193946837"/>
+        <updated>2023-11-21T11:13:53.602Z</updated>
+        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">19:39</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[텔레다인 e2v, 차세대 고성능 글로벌 셔터 CMOS 이미지 센서 발표]]></title>
         <id>https://v.daum.net/v/20231121183703657</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20231121180454946</id>
         <link href="https://v.daum.net/v/20231121180454946"/>
         <updated>2023-11-21T09:19:33.851Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">18:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사이버한국외대, 가을 대학 축제 ‘2023 CUFESTA’ 성료]]></title>
-        <id>https://v.daum.net/v/20231121180404927</id>
-        <link href="https://v.daum.net/v/20231121180404927"/>
-        <updated>2023-11-21T09:19:33.852Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">18:04</span>]]></content>
     </entry>
 </feed>
