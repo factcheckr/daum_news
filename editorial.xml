@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-11-21T06:20:50.059Z</updated>
+    <updated>2023-11-21T07:15:19.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[강석기의 과학풍경] 화성 탐사의 꿈은 멈추지 않는다!]]></title>
+        <title type="html"><![CDATA[[ET시론] 너무 늦었지만 꼭 통과돼야 할 '구하라법']]></title>
+        <id>https://v.daum.net/v/20231121160133563</id>
+        <link href="https://v.daum.net/v/20231121160133563"/>
+        <updated>2023-11-21T07:14:55.130Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">16:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사설]전자문서 규정, 빠르게 개정해야]]></title>
+        <id>https://v.daum.net/v/20231121160111539</id>
+        <link href="https://v.daum.net/v/20231121160111539"/>
+        <updated>2023-11-21T07:14:55.130Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">16:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사설]중기 R&D예산 조정, 정교해야]]></title>
+        <id>https://v.daum.net/v/20231121154803951</id>
+        <link href="https://v.daum.net/v/20231121154803951"/>
+        <updated>2023-11-21T07:14:55.131Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">15:48</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[화성 탐사의 꿈은 멈추지 않는다! [강석기의 과학풍경]]]></title>
         <id>https://v.daum.net/v/20231121152010824</id>
         <link href="https://v.daum.net/v/20231121152010824"/>
         <updated>2023-11-21T06:20:30.601Z</updated>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20231121114228134"/>
         <updated>2023-11-21T03:17:00.434Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사법부 바로잡을 대법원장 절박하다[시평]]]></title>
-        <id>https://v.daum.net/v/20231121114210111</id>
-        <link href="https://v.daum.net/v/20231121114210111"/>
-        <updated>2023-11-21T03:17:00.434Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[선심 예산 요지경과 재정준칙 시급성[포럼]]]></title>
-        <id>https://v.daum.net/v/20231121113910988</id>
-        <link href="https://v.daum.net/v/20231121113910988"/>
-        <updated>2023-11-21T03:17:00.436Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘메가 서울’ 전국 포지티브섬 길 있다[포럼]]]></title>
-        <id>https://v.daum.net/v/20231121113909987</id>
-        <link href="https://v.daum.net/v/20231121113909987"/>
-        <updated>2023-11-21T03:17:00.438Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:39</span>]]></content>
     </entry>
 </feed>
