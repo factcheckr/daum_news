@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-11-21T09:19:42.127Z</updated>
+    <updated>2023-11-21T10:22:53.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[텔레다인 e2v, 차세대 고성능 글로벌 셔터 CMOS 이미지 센서 발표]]></title>
+        <id>https://v.daum.net/v/20231121183703657</id>
+        <link href="https://v.daum.net/v/20231121183703657"/>
+        <updated>2023-11-21T10:22:45.698Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">18:37</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saudi Aramco GIITS 2023: Korean IIoT and Digital Solution Companies Participate]]></title>
+        <id>https://v.daum.net/v/20231121182704407</id>
+        <link href="https://v.daum.net/v/20231121182704407"/>
+        <updated>2023-11-21T10:22:45.700Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">18:27</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이천시, 2023년 제2회 적극행정위원회 개최]]></title>
         <id>https://v.daum.net/v/20231121181917240</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231121180404927"/>
         <updated>2023-11-21T09:19:33.852Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">18:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울시립대 최진희 교수, 식약처 연구개발사업 우수기획 유공자 선정]]></title>
-        <id>https://v.daum.net/v/20231121180143881</id>
-        <link href="https://v.daum.net/v/20231121180143881"/>
-        <updated>2023-11-21T09:19:33.854Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">18:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최재영 한국외대 교수, 한국중국언어학회 회장 선출]]></title>
-        <id>https://v.daum.net/v/20231121180104862</id>
-        <link href="https://v.daum.net/v/20231121180104862"/>
-        <updated>2023-11-21T09:19:33.855Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">18:01</span>]]></content>
     </entry>
 </feed>
