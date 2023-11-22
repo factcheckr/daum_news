@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-11-22T18:19:46.414Z</updated>
+    <updated>2023-11-22T19:13:12.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뱃속 태아에게 인사하세요… 아기 언어능력 좋아집니다]]></title>
+        <id>https://v.daum.net/v/20231123040218964</id>
+        <link href="https://v.daum.net/v/20231123040218964"/>
+        <updated>2023-11-22T19:12:51.245Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">04:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[메이플 강원기, 프로 방송인으로 팬들과 폭풍 소통]]></title>
+        <id>https://v.daum.net/v/20231123035828932</id>
+        <link href="https://v.daum.net/v/20231123035828932"/>
+        <updated>2023-11-22T19:12:51.247Z</updated>
+        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">03:58</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[내년 상반기, 4년 만의 ‘비트코인 반감기’… 폭풍 랠리 다시 오나]]></title>
         <id>https://v.daum.net/v/20231123030644811</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231123001001920"/>
         <updated>2023-11-22T15:16:14.357Z</updated>
         <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[상지대 학군단 평가 최우수 대학 선정]]></title>
-        <id>https://v.daum.net/v/20231123000612878</id>
-        <link href="https://v.daum.net/v/20231123000612878"/>
-        <updated>2023-11-22T15:16:14.359Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사진] 국·탕·볶음 척척 … 조리하는 ‘급식 로봇’]]></title>
-        <id>https://v.daum.net/v/20231123000232740</id>
-        <link href="https://v.daum.net/v/20231123000232740"/>
-        <updated>2023-11-22T15:16:14.361Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
     </entry>
 </feed>
