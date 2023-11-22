@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-11-22T20:16:44.125Z</updated>
+    <updated>2023-11-22T21:14:42.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KOTRA, 사우디 투자부와 22일 ‘지역본부유치정책 웨비나’ 개최]]></title>
+        <id>https://v.daum.net/v/20231123060703965</id>
+        <link href="https://v.daum.net/v/20231123060703965"/>
+        <updated>2023-11-22T21:14:30.484Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">06:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안성소방서, 2024년 화재예방 중점관리대상 선정 심의회 개최]]></title>
         <id>https://v.daum.net/v/20231123024408487</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20231123000412812</id>
         <link href="https://v.daum.net/v/20231123000412812"/>
         <updated>2023-11-22T15:16:29.672Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[비즈스토리] 자유로운 폭파와 한계 없는 전략 … ‘더 파이널스’ 누적 이용 750만 명 달성]]></title>
-        <id>https://v.daum.net/v/20231123000410810</id>
-        <link href="https://v.daum.net/v/20231123000410810"/>
-        <updated>2023-11-22T15:16:29.673Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
     </entry>
 </feed>
