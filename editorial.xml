@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-11-22T16:21:12.997Z</updated>
+    <updated>2023-11-22T17:15:00.729Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]AI로 과학기술 연구생산성을 높이자]]></title>
+        <id>https://v.daum.net/v/20231123020502406</id>
+        <link href="https://v.daum.net/v/20231123020502406"/>
+        <updated>2023-11-22T17:14:46.790Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[박준영의 트렌드&브랜드]갤럭시가 'Z'에게  사랑받는 법]]></title>
+        <id>https://v.daum.net/v/20231123020302402</id>
+        <link href="https://v.daum.net/v/20231123020302402"/>
+        <updated>2023-11-22T17:14:46.791Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 9·19 합의 일부 파기만으로 북한 ‘질주’ 막을 수 있나]]></title>
         <id>https://v.daum.net/v/20231123010449156</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231123004447062"/>
         <updated>2023-11-22T16:20:58.288Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:44</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 현대차가 테스트베드를 싱가포르에 만든 이유]]></title>
-        <id>https://v.daum.net/v/20231123004403059</id>
-        <link href="https://v.daum.net/v/20231123004403059"/>
-        <updated>2023-11-22T16:20:58.289Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:44</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 봇물 같은 의대 증원 요구…정부는 신속·단호하게 추진하라]]></title>
-        <id>https://v.daum.net/v/20231123004402058</id>
-        <link href="https://v.daum.net/v/20231123004402058"/>
-        <updated>2023-11-22T16:20:58.290Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:44</span>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/sports</id>
     <title>다음 뉴스 ─ 전체기사 ─ 스포츠</title>
-    <updated>2023-11-22T16:21:12.991Z</updated>
+    <updated>2023-11-22T17:15:00.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[epaselect INDONESIA SOCCER]]></title>
+        <id>https://v.daum.net/v/20231123020124399</id>
+        <link href="https://v.daum.net/v/20231123020124399"/>
+        <updated>2023-11-22T17:14:33.546Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">02:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AS 로마, ‘14경기 9골’ 핵심 스트라이커 완전 영입 원한다]]></title>
+        <id>https://v.daum.net/v/20231123013035283</id>
+        <link href="https://v.daum.net/v/20231123013035283"/>
+        <updated>2023-11-22T17:14:33.548Z</updated>
+        <content type="html"><![CDATA[스포츠경향<span class="txt_bar"> · </span><span class="info_time">01:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공식발표] '부상 병동' 맨유에 찾아온 희소식...루크 쇼 팀 훈련 합류→3개월 만의 복귀]]></title>
         <id>https://v.daum.net/v/20231123011103189</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231123001655963"/>
         <updated>2023-11-22T16:20:43.495Z</updated>
         <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">00:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[E1·KLPGA ‘자선기금 전달’]]></title>
-        <id>https://v.daum.net/v/20231123001022923</id>
-        <link href="https://v.daum.net/v/20231123001022923"/>
-        <updated>2023-11-22T15:16:08.042Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아쉬운 심재학 단장 “1라운드 놓친 즉시전력 선수 있어…수비·주루 특화 고명성 기대”]]></title>
-        <id>https://v.daum.net/v/20231123000601869</id>
-        <link href="https://v.daum.net/v/20231123000601869"/>
-        <updated>2023-11-22T15:16:08.042Z</updated>
-        <content type="html"><![CDATA[MK스포츠<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
     </entry>
 </feed>
