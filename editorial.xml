@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-11-23T05:17:59.392Z</updated>
+    <updated>2023-11-23T06:20:30.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[관망경] 고준위 특별법]]></title>
+        <id>https://v.daum.net/v/20231123151603407</id>
+        <link href="https://v.daum.net/v/20231123151603407"/>
+        <updated>2023-11-23T06:20:14.785Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">15:16</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사이언스 톡] 과학이 정치가 됐다]]></title>
+        <id>https://v.daum.net/v/20231123150059777</id>
+        <link href="https://v.daum.net/v/20231123150059777"/>
+        <updated>2023-11-23T06:20:14.787Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">15:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내년 한-영 워킹홀리데이 5000명으로 확대…참가 연령도 35세로 상향]]></title>
+        <id>https://v.daum.net/v/20231123150035749</id>
+        <link href="https://v.daum.net/v/20231123150035749"/>
+        <updated>2023-11-23T06:20:14.788Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">15:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Democratic Party’s puzzling budget cuts (KOR)]]></title>
+        <id>https://v.daum.net/v/20231123142231776</id>
+        <link href="https://v.daum.net/v/20231123142231776"/>
+        <updated>2023-11-23T06:20:14.790Z</updated>
+        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">14:22</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주요 신문 사설](23일 석간)]]></title>
         <id>https://v.daum.net/v/20231123140008726</id>
@@ -69,7 +97,7 @@
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:39</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[윤석열 정부 ‘미국몽, 중국몽, 총선몽’ 외교 [아침햇발]]]></title>
+        <title type="html"><![CDATA[윤 대통령의 빗나간 중국몽, 꿈 깨라는 시진핑]]></title>
         <id>https://v.daum.net/v/20231123112005762</id>
         <link href="https://v.daum.net/v/20231123112005762"/>
         <updated>2023-11-23T02:27:49.505Z</updated>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20231123111454499"/>
         <updated>2023-11-23T02:27:49.507Z</updated>
         <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">11:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세계 경제질서의 파편화 [마누엘 무니즈의 AI혁명]]]></title>
-        <id>https://v.daum.net/v/20231123111242404</id>
-        <link href="https://v.daum.net/v/20231123111242404"/>
-        <updated>2023-11-23T02:27:49.508Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팀장 칼럼] 일감 절벽에 겨울이 더 추운 中企]]></title>
-        <id>https://v.daum.net/v/20231123111206378</id>
-        <link href="https://v.daum.net/v/20231123111206378"/>
-        <updated>2023-11-23T02:27:49.509Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">11:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KBS 편파적이라던 보수·경제지, 박민 사장 만행엔 '입꾹닫']]></title>
-        <id>https://v.daum.net/v/20231123111151359</id>
-        <link href="https://v.daum.net/v/20231123111151359"/>
-        <updated>2023-11-23T02:27:49.511Z</updated>
-        <content type="html"><![CDATA[미디어오늘<span class="txt_bar"> · </span><span class="info_time">11:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수능 끝난 수험생들, 이제 숨겨진 재능을 찾아봐요!]]></title>
-        <id>https://v.daum.net/v/20231123111014297</id>
-        <link href="https://v.daum.net/v/20231123111014297"/>
-        <updated>2023-11-23T02:27:49.512Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">11:10</span>]]></content>
     </entry>
 </feed>
