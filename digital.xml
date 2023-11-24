@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-11-24T12:28:05.551Z</updated>
+    <updated>2023-11-24T13:18:40.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[창간31 혁신이 미래다 Think global, Act local] 개인정보 ‘잠금장치’ 가명처리 안전 생태계 발돋움]]></title>
+        <id>https://v.daum.net/v/20231124214531059</id>
+        <link href="https://v.daum.net/v/20231124214531059"/>
+        <updated>2023-11-24T13:18:16.647Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">21:45</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“내년 총선은 與 현역 의원 무덤?” 현역 ‘22명’ 컷오프 지라시에 ‘발칵’]]></title>
         <id>https://v.daum.net/v/20231124211909427</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231124200101216"/>
         <updated>2023-11-24T11:13:32.370Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">20:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드래곤플라이, ‘콜 오브 카오스 : 어셈블’ 출시]]></title>
-        <id>https://v.daum.net/v/20231124195714093</id>
-        <link href="https://v.daum.net/v/20231124195714093"/>
-        <updated>2023-11-24T11:13:32.371Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">19:57</span>]]></content>
     </entry>
 </feed>
