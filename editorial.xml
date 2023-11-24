@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-11-24T08:19:17.925Z</updated>
+    <updated>2023-11-24T09:16:05.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[메아리] 윤석열보다 불리한 출발 한동훈]]></title>
+        <id>https://v.daum.net/v/20231124180009433</id>
+        <link href="https://v.daum.net/v/20231124180009433"/>
+        <updated>2023-11-24T09:15:47.696Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">18:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[증시만평] 외국인 순매도로 하락... '힘이 장사']]></title>
+        <id>https://v.daum.net/v/20231124175401272</id>
+        <link href="https://v.daum.net/v/20231124175401272"/>
+        <updated>2023-11-24T09:15:47.697Z</updated>
+        <content type="html"><![CDATA[오마이뉴스<span class="txt_bar"> · </span><span class="info_time">17:54</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[배충식의 모빌토피아] 수소경제로 탄소중립 달성해야]]></title>
+        <id>https://v.daum.net/v/20231124174420994</id>
+        <link href="https://v.daum.net/v/20231124174420994"/>
+        <updated>2023-11-24T09:15:47.698Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">17:44</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[생각을 생각하는 방법]]></title>
+        <id>https://v.daum.net/v/20231124171901359</id>
+        <link href="https://v.daum.net/v/20231124171901359"/>
+        <updated>2023-11-24T09:15:47.699Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">17:19</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[재산세, 사실상 증세…공시가율 동결에 가려진 진실[홍길용의 화식열전]]]></title>
         <id>https://v.daum.net/v/20231124170906127</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20231124165105626"/>
         <updated>2023-11-24T08:19:00.494Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">16:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[장은수의 책과 미래] 독서의 목적]]></title>
-        <id>https://v.daum.net/v/20231124165103620</id>
-        <link href="https://v.daum.net/v/20231124165103620"/>
-        <updated>2023-11-24T08:19:00.495Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">16:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김세완의 주말경제산책] 두번째 중동 붐은 가능하다]]></title>
-        <id>https://v.daum.net/v/20231124165100614</id>
-        <link href="https://v.daum.net/v/20231124165100614"/>
-        <updated>2023-11-24T08:19:00.496Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">16:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[허연의 책과 지성] 그녀는 자연이 그렇게 하듯 포식자를 제거했다]]></title>
-        <id>https://v.daum.net/v/20231124162417995</id>
-        <link href="https://v.daum.net/v/20231124162417995"/>
-        <updated>2023-11-24T08:19:00.501Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">16:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[지평선] 기초수급자의 기부]]></title>
-        <id>https://v.daum.net/v/20231124160039365</id>
-        <link href="https://v.daum.net/v/20231124160039365"/>
-        <updated>2023-11-24T07:14:22.775Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">16:00</span>]]></content>
     </entry>
 </feed>
