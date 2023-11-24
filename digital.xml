@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-11-24T13:18:40.534Z</updated>
+    <updated>2023-11-24T14:16:24.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[리니지2M "4주년 기념 최강 유일 클래스 나온다"]]></title>
+        <id>https://v.daum.net/v/20231124231424746</id>
+        <link href="https://v.daum.net/v/20231124231424746"/>
+        <updated>2023-11-24T14:15:59.878Z</updated>
+        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">23:14</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스마일게이트 스토브, ‘가디언스톰’ 채널링 서비스 사전 예약]]></title>
+        <id>https://v.daum.net/v/20231124224508339</id>
+        <link href="https://v.daum.net/v/20231124224508339"/>
+        <updated>2023-11-24T14:15:59.878Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">22:45</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[창간31 혁신이 미래다 Think global, Act local] 개인정보 ‘잠금장치’ 가명처리 안전 생태계 발돋움]]></title>
         <id>https://v.daum.net/v/20231124214531059</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231124204840595"/>
         <updated>2023-11-24T12:27:42.913Z</updated>
         <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">20:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[컨텍, 아이큐에어 공기청정기 '아템 엑스' 선봬…279만원]]></title>
-        <id>https://v.daum.net/v/20231124202400817</id>
-        <link href="https://v.daum.net/v/20231124202400817"/>
-        <updated>2023-11-24T12:27:42.914Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">20:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["글로벌 바이오투자, 기술이전 줄고 M&A 떴다"]]></title>
-        <id>https://v.daum.net/v/20231124200101216</id>
-        <link href="https://v.daum.net/v/20231124200101216"/>
-        <updated>2023-11-24T11:13:32.370Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">20:01</span>]]></content>
     </entry>
 </feed>
