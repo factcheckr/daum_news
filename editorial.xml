@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-11-24T21:13:39.526Z</updated>
+    <updated>2023-11-24T22:14:34.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국제철도연맹 “고속鐵 효과 요즘은 미국서도 주목받는다”]]></title>
+        <id>https://v.daum.net/v/20231125063024001</id>
+        <link href="https://v.daum.net/v/20231125063024001"/>
+        <updated>2023-11-24T22:14:17.892Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">06:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[올트먼과 머스크 [최연진의 IT 프리즘]]]></title>
         <id>https://v.daum.net/v/20231125050005339</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231125031524103"/>
         <updated>2023-11-24T18:19:26.392Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 포퓰리즘에 쓴 돈 일부만 투자했어도 국가 전산망 이렇겠나]]></title>
-        <id>https://v.daum.net/v/20231125031324097</id>
-        <link href="https://v.daum.net/v/20231125031324097"/>
-        <updated>2023-11-24T18:19:26.393Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:13</span>]]></content>
     </entry>
 </feed>
