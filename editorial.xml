@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-11-25T04:18:48.580Z</updated>
+    <updated>2023-11-25T05:16:54.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[천남수의 視線] 24일 갤럽 여론조사의 진짜 민심]]></title>
+        <id>https://v.daum.net/v/20231125134226699</id>
+        <link href="https://v.daum.net/v/20231125134226699"/>
+        <updated>2023-11-25T05:16:36.837Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">13:42</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이재명 “‘눈 떠보니 후진국’이란 유행어 현실로”]]></title>
         <id>https://v.daum.net/v/20231125125322240</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231125063024001"/>
         <updated>2023-11-24T22:14:17.892Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">06:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올트먼과 머스크 [최연진의 IT 프리즘]]]></title>
-        <id>https://v.daum.net/v/20231125050005339</id>
-        <link href="https://v.daum.net/v/20231125050005339"/>
-        <updated>2023-11-24T20:16:08.744Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">05:00</span>]]></content>
     </entry>
 </feed>
