@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-11-25T09:14:27.016Z</updated>
+    <updated>2023-11-25T10:15:09.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[박은빈 직접 노래까지…“꼭 사라!” 한달전 뜻밖에 ‘예언’, 무시했다가]]></title>
+        <title type="html"><![CDATA['롤드컵' 중국팀 올킬 'TI'···이탈 없이 우승 멤버 전원 재계약]]></title>
+        <id>https://v.daum.net/v/20231125185103369</id>
+        <link href="https://v.daum.net/v/20231125185103369"/>
+        <updated>2023-11-25T10:14:49.590Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">18:51</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[e솔의 e게임] '미디어 맛집' 리로드 아포칼립스 - 한국it직업전문학교 방지원 개발자]]></title>
+        <id>https://v.daum.net/v/20231125183005158</id>
+        <link href="https://v.daum.net/v/20231125183005158"/>
+        <updated>2023-11-25T10:14:49.591Z</updated>
+        <content type="html"><![CDATA[MHN스포츠<span class="txt_bar"> · </span><span class="info_time">18:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박은빈 노래 실력까지…“꼭 사라!” 한달전 뜻밖에 ‘예언’, 무시했다가]]></title>
         <id>https://v.daum.net/v/20231125174122791</id>
         <link href="https://v.daum.net/v/20231125174122791"/>
         <updated>2023-11-25T09:14:06.364Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231125162030081"/>
         <updated>2023-11-25T08:18:02.147Z</updated>
         <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">16:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내달 출시 앞둔 'TL' "캐릭터 능력치 영향 주는 과금 없다"]]></title>
-        <id>https://v.daum.net/v/20231125162000075</id>
-        <link href="https://v.daum.net/v/20231125162000075"/>
-        <updated>2023-11-25T08:18:02.152Z</updated>
-        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">16:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이터널 리턴' 고등학생 최강팀 어디? 25일 결승전]]></title>
-        <id>https://v.daum.net/v/20231125160330950</id>
-        <link href="https://v.daum.net/v/20231125160330950"/>
-        <updated>2023-11-25T07:13:42.020Z</updated>
-        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">16:03</span>]]></content>
     </entry>
 </feed>
