@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2023-11-26T15:14:34.677Z</updated>
+    <updated>2023-11-26T16:18:36.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[포토] 美 블랙프라이데이 예년보다 한산]]></title>
+        <id>https://v.daum.net/v/20231127004606063</id>
+        <link href="https://v.daum.net/v/20231127004606063"/>
+        <updated>2023-11-26T16:17:22.630Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:46</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[포토] 과일 가격 고공행진]]></title>
         <id>https://v.daum.net/v/20231127001006959</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20231127000244789</id>
         <link href="https://v.daum.net/v/20231127000244789"/>
         <updated>2023-11-26T15:13:38.998Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Biz & Now] 홈앤쇼핑, 중국 웨이하위시와 MOU “내년초 직구 전용관”]]></title>
-        <id>https://v.daum.net/v/20231127000243788</id>
-        <link href="https://v.daum.net/v/20231127000243788"/>
-        <updated>2023-11-26T15:13:38.999Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
     </entry>
 </feed>
