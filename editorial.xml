@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-11-27T22:14:53.815Z</updated>
+    <updated>2023-11-27T23:16:18.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](28일 조간)]]></title>
+        <id>https://v.daum.net/v/20231128080004235</id>
+        <link href="https://v.daum.net/v/20231128080004235"/>
+        <updated>2023-11-27T23:16:01.034Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“겨울만 되면 무기력해져요” 이런 사람들 특징은…]]></title>
+        <id>https://v.daum.net/v/20231128071515652</id>
+        <link href="https://v.daum.net/v/20231128071515652"/>
+        <updated>2023-11-27T23:16:01.039Z</updated>
+        <content type="html"><![CDATA[헬스조선<span class="txt_bar"> · </span><span class="info_time">07:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[K우먼 톡]조선 포로를 구한 소현세자빈 강씨의 미소]]></title>
+        <id>https://v.daum.net/v/20231128071439634</id>
+        <link href="https://v.daum.net/v/20231128071439634"/>
+        <updated>2023-11-27T23:16:01.039Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">07:14</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘한반도 비핵화’여야 할 이유]]></title>
         <id>https://v.daum.net/v/20231128070525540</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20231128061508881"/>
         <updated>2023-11-27T22:14:29.819Z</updated>
         <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">06:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뒤끝작렬]먹통, 먹통…자화자찬 함정에 빠진 '디지털 강국']]></title>
-        <id>https://v.daum.net/v/20231128060308758</id>
-        <link href="https://v.daum.net/v/20231128060308758"/>
-        <updated>2023-11-27T21:14:41.399Z</updated>
-        <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">06:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['흉터'를 부추기는 나라[류성의 제약국부론]]]></title>
-        <id>https://v.daum.net/v/20231128060220738</id>
-        <link href="https://v.daum.net/v/20231128060220738"/>
-        <updated>2023-11-27T21:14:41.399Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">06:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[해외칼럼]은퇴자 복지 프로그램과 재정적자]]></title>
-        <id>https://v.daum.net/v/20231128060033618</id>
-        <link href="https://v.daum.net/v/20231128060033618"/>
-        <updated>2023-11-27T21:14:41.401Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
     </entry>
 </feed>
