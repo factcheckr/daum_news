@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-11-27T08:25:09.605Z</updated>
+    <updated>2023-11-27T09:16:37.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2023년 11월 27일)]]></title>
+        <id>https://v.daum.net/v/20231127173317463</id>
+        <link href="https://v.daum.net/v/20231127173317463"/>
+        <updated>2023-11-27T09:16:36.964Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울 신계동 용산e-편한세상 84㎡ 18억5000만원에 거래]]></title>
         <id>https://v.daum.net/v/20231127120052148</id>
