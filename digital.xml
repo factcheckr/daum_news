@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-11-27T18:19:50.149Z</updated>
+    <updated>2023-11-27T19:13:16.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[틱톡이 음악 산업에 미치는 영향…"비용 지출, 검색 경향↑"]]></title>
+        <id>https://v.daum.net/v/20231128040019736</id>
+        <link href="https://v.daum.net/v/20231128040019736"/>
+        <updated>2023-11-27T19:12:53.898Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘2인 체제’ 유지로 안정… 미래 먹거리엔 속도]]></title>
         <id>https://v.daum.net/v/20231128030458551</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231128010013087"/>
         <updated>2023-11-27T16:20:15.726Z</updated>
         <content type="html"><![CDATA[동아사이언스<span class="txt_bar"> · </span><span class="info_time">01:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세계에서 가장 작은 고효율 나노레이저 기술 개발]]></title>
-        <id>https://v.daum.net/v/20231128010012086</id>
-        <link href="https://v.daum.net/v/20231128010012086"/>
-        <updated>2023-11-27T16:20:15.727Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">01:00</span>]]></content>
     </entry>
 </feed>
