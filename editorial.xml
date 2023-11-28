@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-11-28T22:15:18.934Z</updated>
+    <updated>2023-11-28T23:16:08.009Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[초동시각]인플레이션감축법(IRA)이 불러온 나비효과]]></title>
+        <id>https://v.daum.net/v/20231129081503170</id>
+        <link href="https://v.daum.net/v/20231129081503170"/>
+        <updated>2023-11-28T23:15:49.046Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">08:15</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[기고] 마약 확산, 국가 안보 차원에서 접근해야]]></title>
         <id>https://v.daum.net/v/20231129070707004</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20231129064846674</id>
         <link href="https://v.daum.net/v/20231129064846674"/>
         <updated>2023-11-28T22:14:57.848Z</updated>
-        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">06:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈비질란테〉 〈모범택시〉 〈더 글로리〉의 공통점은? [K콘텐츠의 순간들]]]></title>
-        <id>https://v.daum.net/v/20231129064837669</id>
-        <link href="https://v.daum.net/v/20231129064837669"/>
-        <updated>2023-11-28T22:14:57.849Z</updated>
         <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">06:48</span>]]></content>
     </entry>
 </feed>
