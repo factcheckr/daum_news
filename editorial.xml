@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-11-29T22:15:32.996Z</updated>
+    <updated>2023-11-29T23:16:16.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](30일 조간)]]></title>
+        <id>https://v.daum.net/v/20231130080006407</id>
+        <link href="https://v.daum.net/v/20231130080006407"/>
+        <updated>2023-11-29T23:15:57.220Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[시시비비]킬러문항 배제해도 여전한 사교육]]></title>
+        <id>https://v.daum.net/v/20231130073126932</id>
+        <link href="https://v.daum.net/v/20231130073126932"/>
+        <updated>2023-11-29T23:15:57.220Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">07:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘119 대 29’ 득표차가 불길하다]]></title>
         <id>https://v.daum.net/v/20231130070521532</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231130061508897"/>
         <updated>2023-11-29T22:15:14.967Z</updated>
         <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">06:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기자수첩] 中 알리가 키운 해외직구, 국민안전 위협한다]]></title>
-        <id>https://v.daum.net/v/20231130060048603</id>
-        <link href="https://v.daum.net/v/20231130060048603"/>
-        <updated>2023-11-29T21:14:38.514Z</updated>
-        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기자수첩] 국가를 대표한다는 것]]></title>
-        <id>https://v.daum.net/v/20231130060046596</id>
-        <link href="https://v.daum.net/v/20231130060046596"/>
-        <updated>2023-11-29T21:14:38.515Z</updated>
-        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
     </entry>
 </feed>
