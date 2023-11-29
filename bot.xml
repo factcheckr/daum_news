@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-11-29T08:21:18.888Z</updated>
+    <updated>2023-11-29T09:16:24.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2023년 11월 29일)]]></title>
+        <id>https://v.daum.net/v/20231129173315305</id>
+        <link href="https://v.daum.net/v/20231129173315305"/>
+        <updated>2023-11-29T09:16:23.395Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울 자양동 자양더샵스타시티 135㎡ 18억5000만원... 역대 최고가]]></title>
         <id>https://v.daum.net/v/20231129154029063</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231129143541331"/>
         <updated>2023-11-29T06:20:54.533Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 마전동 마전동아 59㎡ 2억1100만원에 거래]]></title>
-        <id>https://v.daum.net/v/20231129143045159</id>
-        <link href="https://v.daum.net/v/20231129143045159"/>
-        <updated>2023-11-29T06:20:54.534Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:30</span>]]></content>
     </entry>
 </feed>
