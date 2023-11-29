@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-11-29T10:17:42.353Z</updated>
+    <updated>2023-11-29T11:14:10.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가상화폐 비트코인 390,000원 상승한 50,966,000원에 거래]]></title>
+        <id>https://v.daum.net/v/20231129193126899</id>
+        <link href="https://v.daum.net/v/20231129193126899"/>
+        <updated>2023-11-29T11:14:10.222Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">19:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 날씨 - 오후 (2023년 11월 29일)]]></title>
         <id>https://v.daum.net/v/20231129173315305</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231129144035535"/>
         <updated>2023-11-29T06:20:54.531Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고양 장항동 장항호수마을2단지현대 70㎡ 5억2000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20231129143541331</id>
-        <link href="https://v.daum.net/v/20231129143541331"/>
-        <updated>2023-11-29T06:20:54.533Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:35</span>]]></content>
     </entry>
 </feed>
