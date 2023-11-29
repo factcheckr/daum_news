@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-11-28T23:16:08.009Z</updated>
+    <updated>2023-11-29T01:05:49.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Promoting the true taste of kimchi (KOR)]]></title>
+        <id>https://v.daum.net/v/20231129094524043</id>
+        <link href="https://v.daum.net/v/20231129094524043"/>
+        <updated>2023-11-29T01:05:33.856Z</updated>
+        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">09:45</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['매국노'까지 들먹인 '메가시티' 딜레마[광화문]]]></title>
+        <id>https://v.daum.net/v/20231129091030727</id>
+        <link href="https://v.daum.net/v/20231129091030727"/>
+        <updated>2023-11-29T01:05:33.858Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">09:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[하종강 칼럼] 처지 바꿔 생각해보자]]></title>
+        <id>https://v.daum.net/v/20231129090507539</id>
+        <link href="https://v.daum.net/v/20231129090507539"/>
+        <updated>2023-11-29T01:05:33.858Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">09:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[만화] 창문에 뽁뽁이, 오래 방치했더니 눈물나네요 [날백수인생]]]></title>
+        <id>https://v.daum.net/v/20231129083001518</id>
+        <link href="https://v.daum.net/v/20231129083001518"/>
+        <updated>2023-11-29T01:05:33.858Z</updated>
+        <content type="html"><![CDATA[오마이뉴스<span class="txt_bar"> · </span><span class="info_time">08:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[관점·폭력이 만들어 낸 '괴물' [불 만해?]]]></title>
+        <id>https://v.daum.net/v/20231129082425380</id>
+        <link href="https://v.daum.net/v/20231129082425380"/>
+        <updated>2023-11-29T01:05:33.858Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">08:24</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[초동시각]인플레이션감축법(IRA)이 불러온 나비효과]]></title>
         <id>https://v.daum.net/v/20231129081503170</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20231129070010812"/>
         <updated>2023-11-28T22:14:57.841Z</updated>
         <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[여론광장] 치수(治水)의 중요성, 그리고 충주댐 운영의 묘미]]></title>
-        <id>https://v.daum.net/v/20231129070008808</id>
-        <link href="https://v.daum.net/v/20231129070008808"/>
-        <updated>2023-11-28T22:14:57.842Z</updated>
-        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[교단일기] 특별한 교실 이야기2-저도 고등학교에 가고 싶어요]]></title>
-        <id>https://v.daum.net/v/20231129070007804</id>
-        <link href="https://v.daum.net/v/20231129070007804"/>
-        <updated>2023-11-28T22:14:57.844Z</updated>
-        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[여백] 지역의사제]]></title>
-        <id>https://v.daum.net/v/20231129070005797</id>
-        <link href="https://v.daum.net/v/20231129070005797"/>
-        <updated>2023-11-28T22:14:57.845Z</updated>
-        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1554호를 읽고[독자의 소리]]]></title>
-        <id>https://v.daum.net/v/20231129070003795</id>
-        <link href="https://v.daum.net/v/20231129070003795"/>
-        <updated>2023-11-28T22:14:57.847Z</updated>
-        <content type="html"><![CDATA[주간경향<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘벌크업’ 서울 확장, 지금 필요한 건 ‘도시 다이어트’ [프리스타일]]]></title>
-        <id>https://v.daum.net/v/20231129064846674</id>
-        <link href="https://v.daum.net/v/20231129064846674"/>
-        <updated>2023-11-28T22:14:57.848Z</updated>
-        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">06:48</span>]]></content>
     </entry>
 </feed>
