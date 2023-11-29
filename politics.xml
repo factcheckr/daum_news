@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2023-11-29T16:22:51.272Z</updated>
+    <updated>2023-11-29T17:15:09.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[민주, 이낙연 '신당설'에 술렁...계파 갈등 불씨 되나]]></title>
+        <id>https://v.daum.net/v/20231130020715852</id>
+        <link href="https://v.daum.net/v/20231130020715852"/>
+        <updated>2023-11-29T17:13:55.665Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">02:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김기현 "선거개입 몸통 찾아야"...文·임종석·조국 겨냥]]></title>
+        <id>https://v.daum.net/v/20231130020115843</id>
+        <link href="https://v.daum.net/v/20231130020115843"/>
+        <updated>2023-11-29T17:13:55.665Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">02:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["검찰청법 의해 이동관 탄핵"?…민주당, 하루만에 탄핵안 또 철회 '촌극']]></title>
+        <id>https://v.daum.net/v/20231130020000840</id>
+        <link href="https://v.daum.net/v/20231130020000840"/>
+        <updated>2023-11-29T17:13:55.670Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">02:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다시 고개 드는 ‘이재명 사법 리스크’…“정책 내놓아도 사법 문제에 가려져”]]></title>
         <id>https://v.daum.net/v/20231130011240735</id>
@@ -87,27 +108,6 @@
         <id>https://v.daum.net/v/20231130000612381</id>
         <link href="https://v.daum.net/v/20231130000612381"/>
         <updated>2023-11-29T15:15:27.473Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[與 "예산 합의 없는 탄핵 목적 본회의, 총선용 폭거"]]></title>
-        <id>https://v.daum.net/v/20231130000607376</id>
-        <link href="https://v.daum.net/v/20231130000607376"/>
-        <updated>2023-11-29T15:15:27.474Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민주, '병립형' vs '준연동형' 선거제 놓고 의원총회]]></title>
-        <id>https://v.daum.net/v/20231130000605371</id>
-        <link href="https://v.daum.net/v/20231130000605371"/>
-        <updated>2023-11-29T15:15:27.474Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[與 혁신위, 오늘 희생 요구안 의결...다음 주 지도부에 공식 전달]]></title>
-        <id>https://v.daum.net/v/20231130000602368</id>
-        <link href="https://v.daum.net/v/20231130000602368"/>
-        <updated>2023-11-29T15:15:27.474Z</updated>
         <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
     </entry>
 </feed>
