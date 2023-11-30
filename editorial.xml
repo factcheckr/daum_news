@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-11-30T12:28:51.169Z</updated>
+    <updated>2023-11-30T13:19:40.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["장하다, 대한민국!"  [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20231130220010135</id>
+        <link href="https://v.daum.net/v/20231130220010135"/>
+        <updated>2023-11-30T13:19:24.552Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023년 12월 1일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20231130215705091</id>
+        <link href="https://v.daum.net/v/20231130215705091"/>
+        <updated>2023-11-30T13:19:24.554Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">21:57</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[국민만평-서민호 화백] 2023년 12월 1일]]></title>
         <id>https://v.daum.net/v/20231130212308736</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231130200833578"/>
         <updated>2023-11-30T11:13:30.983Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An imminent risk]]></title>
-        <id>https://v.daum.net/v/20231130200503513</id>
-        <link href="https://v.daum.net/v/20231130200503513"/>
-        <updated>2023-11-30T11:13:30.985Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 탄소 감축 평가서 나올 COP28 개막, 우리를 돌아볼 때다]]></title>
-        <id>https://v.daum.net/v/20231130200308473</id>
-        <link href="https://v.daum.net/v/20231130200308473"/>
-        <updated>2023-11-30T11:13:30.986Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:03</span>]]></content>
     </entry>
 </feed>
