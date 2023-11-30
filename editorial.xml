@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-11-30T13:19:40.424Z</updated>
+    <updated>2023-11-30T14:15:05.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[세컷칼럼] 나시레마족 주술을 거부하는 서울대발 교육개혁]]></title>
+        <id>https://v.daum.net/v/20231130230022593</id>
+        <link href="https://v.daum.net/v/20231130230022593"/>
+        <updated>2023-11-30T14:14:51.145Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["장하다, 대한민국!"  [삶과 문화]]]></title>
         <id>https://v.daum.net/v/20231130220010135</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231130201102635"/>
         <updated>2023-11-30T11:13:30.981Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Soil and water: Asia-Pacific’s bread and butter]]></title>
-        <id>https://v.daum.net/v/20231130200833578</id>
-        <link href="https://v.daum.net/v/20231130200833578"/>
-        <updated>2023-11-30T11:13:30.983Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:08</span>]]></content>
     </entry>
 </feed>
