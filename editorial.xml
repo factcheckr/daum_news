@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-12-01T04:21:26.964Z</updated>
+    <updated>2023-12-01T05:15:57.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[양경미의 영화로 보는 세상] 혼자가 좋지만 혼자는 외로워]]></title>
+        <id>https://v.daum.net/v/20231201141123415</id>
+        <link href="https://v.daum.net/v/20231201141123415"/>
+        <updated>2023-12-01T05:15:43.359Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">14:11</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[데일리안 시사만평] 尹, 수석비서관 전원 교체…180도 다른 모습을 보여주라]]></title>
+        <id>https://v.daum.net/v/20231201133630452</id>
+        <link href="https://v.daum.net/v/20231201133630452"/>
+        <updated>2023-12-01T05:15:43.359Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">13:36</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인사] 동국제강그룹]]></title>
         <id>https://v.daum.net/v/20231201132022098</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231201113907888"/>
         <updated>2023-12-01T03:17:03.991Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI의 아버지도 돌연 구글에 사표 던졌다…인공지능 통제노력 지속돼야 [매경데스크]]]></title>
-        <id>https://v.daum.net/v/20231201113902876</id>
-        <link href="https://v.daum.net/v/20231201113902876"/>
-        <updated>2023-12-01T03:17:03.992Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">11:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일회용품 정책, 합리적이어야 한다[문화논단]]]></title>
-        <id>https://v.daum.net/v/20231201113606767</id>
-        <link href="https://v.daum.net/v/20231201113606767"/>
-        <updated>2023-12-01T03:17:03.994Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:36</span>]]></content>
     </entry>
 </feed>
