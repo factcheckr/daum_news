@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-12-01T02:35:48.228Z</updated>
+    <updated>2023-12-01T03:17:20.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서울 신정동 목동9단지 71㎡ 15억3000만원에 거래]]></title>
+        <id>https://v.daum.net/v/20231201121550943</id>
+        <link href="https://v.daum.net/v/20231201121550943"/>
+        <updated>2023-12-01T03:17:19.945Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울 신천동 신천장미1차2차 120㎡ 24억7000만원에 거래]]></title>
+        <id>https://v.daum.net/v/20231201121052831</id>
+        <link href="https://v.daum.net/v/20231201121052831"/>
+        <updated>2023-12-01T03:17:19.948Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울 신정동 목동9단지 100㎡ 18억원에 거래]]></title>
+        <id>https://v.daum.net/v/20231201120543714</id>
+        <link href="https://v.daum.net/v/20231201120543714"/>
+        <updated>2023-12-01T03:17:19.949Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부산 화명동 화명롯데캐슬카이저 84㎡ 5억7000만원에 거래]]></title>
+        <id>https://v.daum.net/v/20231201120117605</id>
+        <link href="https://v.daum.net/v/20231201120117605"/>
+        <updated>2023-12-01T03:17:19.950Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가상화폐 비트코인 50,599,000원(-0.24%) 거래중]]></title>
         <id>https://v.daum.net/v/20231201083128448</id>
