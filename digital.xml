@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-12-01T13:19:44.009Z</updated>
+    <updated>2023-12-01T14:16:16.341Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["AGF 보려고 오픈 27시간 전부터 기다리는 중입니다"]]></title>
+        <id>https://v.daum.net/v/20231201221936159</id>
+        <link href="https://v.daum.net/v/20231201221936159"/>
+        <updated>2023-12-01T14:15:51.281Z</updated>
+        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">22:19</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넥슨, 2일 ‘카트라이더: 드리프트 리그’ 개인전 결승]]></title>
         <id>https://v.daum.net/v/20231201221609146</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231201200112684"/>
         <updated>2023-12-01T11:13:28.455Z</updated>
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">20:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리걸 저스티아, AI가 고소장 작성 '저스티아' 소프트웨이브서 소개]]></title>
-        <id>https://v.daum.net/v/20231201195103526</id>
-        <link href="https://v.daum.net/v/20231201195103526"/>
-        <updated>2023-12-01T11:13:28.457Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">19:51</span>]]></content>
     </entry>
 </feed>
