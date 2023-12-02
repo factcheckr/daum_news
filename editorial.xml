@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-12-02T01:02:49.012Z</updated>
+    <updated>2023-12-02T02:24:04.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[천남수의 視線] “응답하라 46” 공천전쟁이 시작됐다]]></title>
+        <id>https://v.daum.net/v/20231202105047628</id>
+        <link href="https://v.daum.net/v/20231202105047628"/>
+        <updated>2023-12-02T02:23:51.660Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">10:50</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[김순덕의 도발]영화 ‘서울의 봄’이 묻는다…“그게 국회냐?”]]></title>
         <id>https://v.daum.net/v/20231202100010128</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20231202043157757</id>
         <link href="https://v.daum.net/v/20231202043157757"/>
         <updated>2023-12-01T20:16:27.036Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 전산망 뚫려 소송자료 유출되고도 쉬쉬한 사법부]]></title>
-        <id>https://v.daum.net/v/20231202043143754</id>
-        <link href="https://v.daum.net/v/20231202043143754"/>
-        <updated>2023-12-01T20:16:27.037Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:31</span>]]></content>
     </entry>
 </feed>
