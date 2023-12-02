@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2023-12-02T18:42:04.246Z</updated>
+    <updated>2023-12-02T19:12:58.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나에게 필요한 영양제는? 비타민 종류와 효과까지]]></title>
+        <id>https://v.daum.net/v/20231203040058081</id>
+        <link href="https://v.daum.net/v/20231203040058081"/>
+        <updated>2023-12-02T19:12:13.427Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[북극 한파에 체감온도 '뚝'…체온 5도 올려주는 패션 아이템]]></title>
         <id>https://v.daum.net/v/20231203031817059</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231203000502715"/>
         <updated>2023-12-02T15:13:54.083Z</updated>
         <content type="html"><![CDATA[bnt뉴스<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대형마트 휴무일? 이마트·롯데마트·홈플러스·코스트코 ‘OPEN’]]></title>
-        <id>https://v.daum.net/v/20231203000302705</id>
-        <link href="https://v.daum.net/v/20231203000302705"/>
-        <updated>2023-12-02T15:13:54.084Z</updated>
-        <content type="html"><![CDATA[bnt뉴스<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
     </entry>
 </feed>

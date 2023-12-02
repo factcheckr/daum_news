@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/foreign</id>
     <title>다음 뉴스 ─ 전체기사 ─ 국제</title>
-    <updated>2023-12-02T18:42:04.242Z</updated>
+    <updated>2023-12-02T19:12:58.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하마스 "전면 휴전 안 하면 인질 석방도 없다"]]></title>
+        <id>https://v.daum.net/v/20231203035701077</id>
+        <link href="https://v.daum.net/v/20231203035701077"/>
+        <updated>2023-12-02T19:12:04.751Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">03:57</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美부통령 "어떤 경우에도 미국은 팔레스타인인들의 강제 이주 허용 안 할 것"[이-팔 전쟁]]]></title>
+        <id>https://v.daum.net/v/20231203035337076</id>
+        <link href="https://v.daum.net/v/20231203035337076"/>
+        <updated>2023-12-02T19:12:04.751Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">03:53</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NYT칼럼니스트 "한국 저출산, 흑사병 창궐 중세 유럽 인구감소 능가"]]></title>
+        <id>https://v.daum.net/v/20231203035100075</id>
+        <link href="https://v.daum.net/v/20231203035100075"/>
+        <updated>2023-12-02T19:12:04.752Z</updated>
+        <content type="html"><![CDATA[SBS<span class="txt_bar"> · </span><span class="info_time">03:51</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하마스 "전면 휴전 안 하면 이스라엘 인질 석방 없다"]]></title>
+        <id>https://v.daum.net/v/20231203034200074</id>
+        <link href="https://v.daum.net/v/20231203034200074"/>
+        <updated>2023-12-02T19:12:04.752Z</updated>
+        <content type="html"><![CDATA[SBS<span class="txt_bar"> · </span><span class="info_time">03:42</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美 "가자지구 재건·안보·거버넌스 강화 중점 추진"]]></title>
         <id>https://v.daum.net/v/20231203033606072</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20231203024652044"/>
         <updated>2023-12-02T18:41:10.356Z</updated>
         <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">02:46</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[속보] "하마스 2인자, 휴전없으면 이스라엘 인질 석방 없어"]]></title>
-        <id>https://v.daum.net/v/20231203024528041</id>
-        <link href="https://v.daum.net/v/20231203024528041"/>
-        <updated>2023-12-02T18:41:10.358Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">02:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[필리핀 부투안 동남동쪽 바다서 규모 6.4 지진]]></title>
-        <id>https://v.daum.net/v/20231203024334038</id>
-        <link href="https://v.daum.net/v/20231203024334038"/>
-        <updated>2023-12-02T18:41:10.359Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">02:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이스라엘 국방 “가자 새 지역 공격…하마스 완전제거 목표”]]></title>
-        <id>https://v.daum.net/v/20231203024333037</id>
-        <link href="https://v.daum.net/v/20231203024333037"/>
-        <updated>2023-12-02T18:41:10.360Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">02:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[필리핀 민다나오섬 앞바다서 7.6 강진…주변국 쓰나미 경보]]></title>
-        <id>https://v.daum.net/v/20231203023456023</id>
-        <link href="https://v.daum.net/v/20231203023456023"/>
-        <updated>2023-12-02T18:41:10.361Z</updated>
-        <content type="html"><![CDATA[MBN<span class="txt_bar"> · </span><span class="info_time">02:34</span>]]></content>
     </entry>
 </feed>
