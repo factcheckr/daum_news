@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-12-02T13:16:49.872Z</updated>
+    <updated>2023-12-02T14:13:03.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[포토] 프라임생활건강 최영식 대표 '베스트브랜드대상 선정됐어요']]></title>
+        <id>https://v.daum.net/v/20231202225201355</id>
+        <link href="https://v.daum.net/v/20231202225201355"/>
+        <updated>2023-12-02T14:12:56.330Z</updated>
+        <content type="html"><![CDATA[bnt뉴스<span class="txt_bar"> · </span><span class="info_time">22:52</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부고] 실리콘아츠 윤형민 대표 부친상]]></title>
         <id>https://v.daum.net/v/20231202220702120</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231202113159026"/>
         <updated>2023-12-02T03:16:36.111Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[AsiaNet] Newly Opened Metro Line in Chengdu, China Connects Two Airports]]></title>
-        <id>https://v.daum.net/v/20231202112915995</id>
-        <link href="https://v.daum.net/v/20231202112915995"/>
-        <updated>2023-12-02T03:16:36.112Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:29</span>]]></content>
     </entry>
 </feed>

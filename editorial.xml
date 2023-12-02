@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-12-02T13:16:49.877Z</updated>
+    <updated>2023-12-02T14:13:03.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[세컷칼럼] 둘째 고민하는 부부가 아이 낳게 해야]]></title>
+        <id>https://v.daum.net/v/20231202230017381</id>
+        <link href="https://v.daum.net/v/20231202230017381"/>
+        <updated>2023-12-02T14:12:48.285Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘조용한 살인자’ 췌장암, 조기 진단 방법 없을까 [헬스]]]></title>
         <id>https://v.daum.net/v/20231202210312563</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231202060019050"/>
         <updated>2023-12-01T21:13:35.437Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이주노동자 16만5천명 데려온다는 정부, 대책도 없으면서]]></title>
-        <id>https://v.daum.net/v/20231202050501866</id>
-        <link href="https://v.daum.net/v/20231202050501866"/>
-        <updated>2023-12-01T20:16:27.031Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">05:05</span>]]></content>
     </entry>
 </feed>
