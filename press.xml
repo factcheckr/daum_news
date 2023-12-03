@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-12-03T13:18:55.711Z</updated>
+    <updated>2023-12-03T14:13:20.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[포토] 정지원 대표 '대상에 만족하지 않고 소비자만족도 더 develop 시킬 수 있도록 노력할게요']]></title>
+        <id>https://v.daum.net/v/20231203230004946</id>
+        <link href="https://v.daum.net/v/20231203230004946"/>
+        <updated>2023-12-03T14:13:11.948Z</updated>
+        <content type="html"><![CDATA[bnt뉴스<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] Media Tour Witnesses Chinese Modernization in Hainan FTP]]></title>
         <id>https://v.daum.net/v/20231203202509081</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231203103703568"/>
         <updated>2023-12-03T02:30:36.248Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">10:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기아 EV9, 우수한 성능과 디자인으로 글로벌 수상 행진]]></title>
-        <id>https://v.daum.net/v/20231203102706434</id>
-        <link href="https://v.daum.net/v/20231203102706434"/>
-        <updated>2023-12-03T02:30:36.249Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">10:27</span>]]></content>
     </entry>
 </feed>
