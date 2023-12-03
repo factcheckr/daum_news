@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2023-12-03T17:13:48.621Z</updated>
+    <updated>2023-12-03T18:18:24.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA['먹지빠' 오늘부터 동복 착용…서장훈, "중간에 살찔까 봐 빅 사이즈로 맞춘 것 같아"]]></title>
+        <title type="html"><![CDATA['먹찌빠' 오르막 덩치 행군, 역대급 미션에 "몸도 못 가누는데 어떻게 행군을 하냐"]]></title>
+        <id>https://v.daum.net/v/20231204030900965</id>
+        <link href="https://v.daum.net/v/20231204030900965"/>
+        <updated>2023-12-03T18:17:41.153Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스<span class="txt_bar"> · </span><span class="info_time">03:09</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[오늘의 채널A]통행금지로 맺은 장광 부부 러브스토리]]></title>
+        <id>https://v.daum.net/v/20231204030052713</id>
+        <link href="https://v.daum.net/v/20231204030052713"/>
+        <updated>2023-12-03T18:17:41.153Z</updated>
+        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">03:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['먹찌빠' 오늘부터 동복 착용…서장훈, "중간에 살찔까 봐 빅 사이즈로 맞춘 것 같아"]]></title>
         <id>https://v.daum.net/v/20231204013000568</id>
         <link href="https://v.daum.net/v/20231204013000568"/>
         <updated>2023-12-03T17:13:03.666Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231204003011426"/>
         <updated>2023-12-03T16:17:48.347Z</updated>
         <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“AI보다 더 AI같은 미모” 장원영… 말문이 턱 막히는 '미모']]></title>
-        <id>https://v.daum.net/v/20231204002952422</id>
-        <link href="https://v.daum.net/v/20231204002952422"/>
-        <updated>2023-12-03T16:17:48.348Z</updated>
-        <content type="html"><![CDATA[OSEN<span class="txt_bar"> · </span><span class="info_time">00:29</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박지현, 몸매 드러낸 검정 슬립룩…청순 글래머[★핫픽]]]></title>
-        <id>https://v.daum.net/v/20231204002802415</id>
-        <link href="https://v.daum.net/v/20231204002802415"/>
-        <updated>2023-12-03T16:17:48.352Z</updated>
-        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">00:28</span>]]></content>
     </entry>
 </feed>
