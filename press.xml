@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-12-03T03:16:41.233Z</updated>
+    <updated>2023-12-03T04:22:16.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[현대차 ‘제8회 현대키즈모터쇼’ 공모전 개최]]></title>
+        <id>https://v.daum.net/v/20231203131703706</id>
+        <link href="https://v.daum.net/v/20231203131703706"/>
+        <updated>2023-12-03T04:22:06.871Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">13:17</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지자체 혁신평가위, 2024 WFPL 8대 지자체 혁신평가 2월 발표]]></title>
         <id>https://v.daum.net/v/20231203115706705</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231203090016017"/>
         <updated>2023-12-03T01:11:00.600Z</updated>
         <content type="html"><![CDATA[스포츠한국<span class="txt_bar"> · </span><span class="info_time">09:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] 두 명의 PRA 그룹 리더, 스티브 어워즈 수상]]></title>
-        <id>https://v.daum.net/v/20231203085959977</id>
-        <link href="https://v.daum.net/v/20231203085959977"/>
-        <updated>2023-12-03T01:11:00.601Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">08:59</span>]]></content>
     </entry>
 </feed>
