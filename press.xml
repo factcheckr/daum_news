@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-12-03T01:11:08.471Z</updated>
+    <updated>2023-12-03T02:30:46.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제네시스 ‘X 그란 베를리네타 비전 그란 투리스모 콘셉트’ 공개]]></title>
+        <id>https://v.daum.net/v/20231203103703568</id>
+        <link href="https://v.daum.net/v/20231203103703568"/>
+        <updated>2023-12-03T02:30:36.248Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">10:37</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기아 EV9, 우수한 성능과 디자인으로 글로벌 수상 행진]]></title>
+        <id>https://v.daum.net/v/20231203102706434</id>
+        <link href="https://v.daum.net/v/20231203102706434"/>
+        <updated>2023-12-03T02:30:36.249Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">10:27</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우리은행, 더뱅커지 ‘2023 대한민국 최우수 은행상’ 수상]]></title>
         <id>https://v.daum.net/v/20231203100702125</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231203080703583"/>
         <updated>2023-12-02T23:15:02.803Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">08:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] '세기의 경합' 과연 누가 이겼을까]]></title>
-        <id>https://v.daum.net/v/20231203022006993</id>
-        <link href="https://v.daum.net/v/20231203022006993"/>
-        <updated>2023-12-02T18:41:55.046Z</updated>
-        <content type="html"><![CDATA[풋볼리스트<span class="txt_bar"> · </span><span class="info_time">02:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토] 수준 높은 경기가 펼쳐진 '2023 월드 풋볼 페스티벌']]></title>
-        <id>https://v.daum.net/v/20231203021854991</id>
-        <link href="https://v.daum.net/v/20231203021854991"/>
-        <updated>2023-12-02T18:41:55.047Z</updated>
-        <content type="html"><![CDATA[풋볼리스트<span class="txt_bar"> · </span><span class="info_time">02:18</span>]]></content>
     </entry>
 </feed>
