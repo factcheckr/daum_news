@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-12-03T10:15:30.439Z</updated>
+    <updated>2023-12-03T11:12:33.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[특별기고] 대학 중심 평생학습으로 미래 준비]]></title>
+        <id>https://v.daum.net/v/20231203191838530</id>
+        <link href="https://v.daum.net/v/20231203191838530"/>
+        <updated>2023-12-03T11:12:26.050Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">19:18</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[충주시, ‘시내버스 승강장’에 온기 나눔터 설치]]></title>
         <id>https://v.daum.net/v/20231203182816799</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231203100702125"/>
         <updated>2023-12-03T01:11:00.578Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">10:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GS샵, 중소 협력사 해외 판로개척 지원 재개… 상담실적 300만불 넘어]]></title>
-        <id>https://v.daum.net/v/20231203095703910</id>
-        <link href="https://v.daum.net/v/20231203095703910"/>
-        <updated>2023-12-03T01:11:00.579Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">09:57</span>]]></content>
     </entry>
 </feed>
