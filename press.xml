@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-12-04T12:29:27.240Z</updated>
+    <updated>2023-12-04T13:21:25.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전국 최초 실시간 방사능 연속 감시시스템 여서도에 설치]]></title>
+        <id>https://v.daum.net/v/20231204213712516</id>
+        <link href="https://v.daum.net/v/20231204213712516"/>
+        <updated>2023-12-04T13:21:18.965Z</updated>
+        <content type="html"><![CDATA[kbc광주방송<span class="txt_bar"> · </span><span class="info_time">21:37</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] Huawei Partners with Global Peter Drucker Forum]]></title>
         <id>https://v.daum.net/v/20231204205208020</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231204190958578"/>
         <updated>2023-12-04T10:18:10.234Z</updated>
         <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">19:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여주시, “도로명주소 10주년 맞이” 그림자조명 홍보]]></title>
-        <id>https://v.daum.net/v/20231204190143461</id>
-        <link href="https://v.daum.net/v/20231204190143461"/>
-        <updated>2023-12-04T10:18:10.235Z</updated>
-        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">19:01</span>]]></content>
     </entry>
 </feed>
