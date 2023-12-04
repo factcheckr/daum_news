@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-12-04T22:15:34.841Z</updated>
+    <updated>2023-12-04T23:16:45.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](5일 조간)]]></title>
+        <id>https://v.daum.net/v/20231205080011058</id>
+        <link href="https://v.daum.net/v/20231205080011058"/>
+        <updated>2023-12-04T23:16:26.898Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조희대 대법원장 후보자 오늘부터 이틀간 인사청문회… 여야 공방 예고]]></title>
+        <id>https://v.daum.net/v/20231205075010900</id>
+        <link href="https://v.daum.net/v/20231205075010900"/>
+        <updated>2023-12-04T23:16:26.901Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">07:50</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삼성전자가 그린피스보다 더 급하다]]></title>
         <id>https://v.daum.net/v/20231205070506361</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231205055015302"/>
         <updated>2023-12-04T21:13:02.480Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">05:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Editorial] Reverse depopulation]]></title>
-        <id>https://v.daum.net/v/20231205053022202</id>
-        <link href="https://v.daum.net/v/20231205053022202"/>
-        <updated>2023-12-04T21:13:02.481Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[씨줄날줄] 고독사 공포/임창용 논설위원]]></title>
-        <id>https://v.daum.net/v/20231205050336106</id>
-        <link href="https://v.daum.net/v/20231205050336106"/>
-        <updated>2023-12-04T20:17:18.009Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
     </entry>
 </feed>
