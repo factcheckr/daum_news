@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-12-04T19:13:53.048Z</updated>
+    <updated>2023-12-04T20:17:39.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엔씨소프트 신작 'TL' 7일 출시… 사전 다운로드· 공식 채널 오픈]]></title>
+        <id>https://v.daum.net/v/20231205051106137</id>
+        <link href="https://v.daum.net/v/20231205051106137"/>
+        <updated>2023-12-04T20:17:05.735Z</updated>
+        <content type="html"><![CDATA[머니S<span class="txt_bar"> · </span><span class="info_time">05:11</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사이테크+] "모기 진화 초기엔 수컷도 피 빨았다…백악기 화석 발견"]]></title>
+        <id>https://v.daum.net/v/20231205050009909</id>
+        <link href="https://v.daum.net/v/20231205050009909"/>
+        <updated>2023-12-04T20:17:05.735Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">05:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마크 저커버그, 2년 만에 주식 매각... 2400억원 규모]]></title>
+        <id>https://v.daum.net/v/20231205045902893</id>
+        <link href="https://v.daum.net/v/20231205045902893"/>
+        <updated>2023-12-04T20:17:05.735Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">04:59</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI·블록체인 첨단 테크 달고… K게임, ‘게임의 룰’ 뒤집다]]></title>
         <id>https://v.daum.net/v/20231205030708495</id>
@@ -88,12 +109,5 @@
         <link href="https://v.daum.net/v/20231205001318814"/>
         <updated>2023-12-04T15:16:41.783Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["하나 정리하니 또 하나 터지네"…위기의 카카오, 멀고 먼 '정상화']]></title>
-        <id>https://v.daum.net/v/20231205000044605</id>
-        <link href="https://v.daum.net/v/20231205000044605"/>
-        <updated>2023-12-04T15:16:41.785Z</updated>
-        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
