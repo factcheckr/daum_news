@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-12-05T12:29:06.545Z</updated>
+    <updated>2023-12-05T13:19:52.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] LONGi Delivers Technology Solutions at COP28]]></title>
+        <id>https://v.daum.net/v/20231205213146336</id>
+        <link href="https://v.daum.net/v/20231205213146336"/>
+        <updated>2023-12-05T13:19:44.860Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">21:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[AsiaNet] 2023 ISIF Kicks Off in Guangzhou]]></title>
         <id>https://v.daum.net/v/20231205212207237</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231205183935619"/>
         <updated>2023-12-05T10:17:47.149Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">18:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강원NTS, 무역의 날 ‘ 5천만불 수출의 탑’ 수상]]></title>
-        <id>https://v.daum.net/v/20231205181730181</id>
-        <link href="https://v.daum.net/v/20231205181730181"/>
-        <updated>2023-12-05T10:17:47.151Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">18:17</span>]]></content>
     </entry>
 </feed>

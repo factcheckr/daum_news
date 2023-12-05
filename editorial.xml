@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-12-05T12:29:06.537Z</updated>
+    <updated>2023-12-05T13:19:52.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 12월 6일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20231205220143699</id>
+        <link href="https://v.daum.net/v/20231205220143699"/>
+        <updated>2023-12-05T13:19:37.648Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[김월회의 행로난] ‘사회적 유령’ 제조법]]></title>
         <id>https://v.daum.net/v/20231205203400528</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231205201822279"/>
         <updated>2023-12-05T12:28:47.188Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The unbridgeable gap]]></title>
-        <id>https://v.daum.net/v/20231205201703246</id>
-        <link href="https://v.daum.net/v/20231205201703246"/>
-        <updated>2023-12-05T12:28:47.189Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:17</span>]]></content>
     </entry>
 </feed>
