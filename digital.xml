@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-12-06T18:20:20.269Z</updated>
+    <updated>2023-12-06T19:13:32.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[日 탐사선 50억㎞ 날아서 가져온 소행성 시료, 지구 떨어진 운석과 달랐다]]></title>
+        <id>https://v.daum.net/v/20231207040331080</id>
+        <link href="https://v.daum.net/v/20231207040331080"/>
+        <updated>2023-12-06T19:13:06.828Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">04:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하루 4시간 이상 스마트폰 쓴다면 정신건강 적신호 [과학계는 지금]]]></title>
+        <id>https://v.daum.net/v/20231207040102053</id>
+        <link href="https://v.daum.net/v/20231207040102053"/>
+        <updated>2023-12-06T19:13:06.829Z</updated>
+        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">04:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[예약 앱 몰라서… 할머니는 병원서 2시간 대기]]></title>
         <id>https://v.daum.net/v/20231207030532962</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231207004201416"/>
         <updated>2023-12-06T16:21:31.663Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스탠리블랙앤데커, 김장 나눔 봉사활동 진행]]></title>
-        <id>https://v.daum.net/v/20231207003410358</id>
-        <link href="https://v.daum.net/v/20231207003410358"/>
-        <updated>2023-12-06T16:21:31.664Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">00:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[필립스 소닉케어, 어린이 양치 교육 진행]]></title>
-        <id>https://v.daum.net/v/20231207002433322</id>
-        <link href="https://v.daum.net/v/20231207002433322"/>
-        <updated>2023-12-06T16:21:31.665Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">00:24</span>]]></content>
     </entry>
 </feed>
