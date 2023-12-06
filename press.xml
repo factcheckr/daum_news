@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-12-06T10:17:05.034Z</updated>
+    <updated>2023-12-06T11:14:05.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 아부다비서 기후 금융 가속화 위한 글로벌 기후금융센터 출범]]></title>
+        <id>https://v.daum.net/v/20231206200918406</id>
+        <link href="https://v.daum.net/v/20231206200918406"/>
+        <updated>2023-12-06T11:13:54.829Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:09</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[평택시 주민참여예산위원회 워크숍 개최]]></title>
         <id>https://v.daum.net/v/20231206191023398</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231206173220972"/>
         <updated>2023-12-06T09:16:09.789Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">17:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경희사이버대학교, 오는 12월 16일(토) ‘문경인의 날’ 행사 개최]]></title>
-        <id>https://v.daum.net/v/20231206173130939</id>
-        <link href="https://v.daum.net/v/20231206173130939"/>
-        <updated>2023-12-06T09:16:09.791Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">17:31</span>]]></content>
     </entry>
 </feed>
