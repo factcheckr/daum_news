@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-12-07T03:17:12.284Z</updated>
+    <updated>2023-12-07T04:19:30.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[달개비가 한낮을 피해 이른 아침 꽃을 피우는 까닭은]]></title>
+        <id>https://v.daum.net/v/20231207122505797</id>
+        <link href="https://v.daum.net/v/20231207122505797"/>
+        <updated>2023-12-07T04:19:12.803Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">12:25</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[기자수첩] ‘광고비 전가·횡령·고액 배당’ 메가커피 빌딩 매입…점주는 뒷전]]></title>
         <id>https://v.daum.net/v/20231207121553578</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231207111931010"/>
         <updated>2023-12-07T02:29:15.637Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:19</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데스크칼럼] 무너진 주거사다리]]></title>
-        <id>https://v.daum.net/v/20231207111830955</id>
-        <link href="https://v.daum.net/v/20231207111830955"/>
-        <updated>2023-12-07T02:29:15.643Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:18</span>]]></content>
     </entry>
 </feed>
