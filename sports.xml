@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/sports</id>
     <title>다음 뉴스 ─ 전체기사 ─ 스포츠</title>
-    <updated>2023-12-08T18:20:21.089Z</updated>
+    <updated>2023-12-08T19:13:27.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김하성 "폭행 사실무근...추가 고소할 것"...진실공방 양상]]></title>
+        <id>https://v.daum.net/v/20231209034313861</id>
+        <link href="https://v.daum.net/v/20231209034313861"/>
+        <updated>2023-12-08T19:12:45.864Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">03:43</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박준용-박현성, 나란히 계체 통과 [MK현장]]]></title>
+        <id>https://v.daum.net/v/20231209033901853</id>
+        <link href="https://v.daum.net/v/20231209033901853"/>
+        <updated>2023-12-08T19:12:45.865Z</updated>
+        <content type="html"><![CDATA[MK스포츠<span class="txt_bar"> · </span><span class="info_time">03:39</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[토트넘, 5경기 연속 선제골 넣고도 못 이겨]]></title>
         <id>https://v.daum.net/v/20231209030531819</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231209014056646"/>
         <updated>2023-12-08T17:14:24.296Z</updated>
         <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">01:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['토론토가 LAD를 따라잡았다' 2파전, "오타니, 오늘 결정" 현지 매체...6억달러선 유력]]></title>
-        <id>https://v.daum.net/v/20231209013126625</id>
-        <link href="https://v.daum.net/v/20231209013126625"/>
-        <updated>2023-12-08T17:14:24.297Z</updated>
-        <content type="html"><![CDATA[스포츠조선<span class="txt_bar"> · </span><span class="info_time">01:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[LPL] 징동 게이밍, 2023 최고의 게임단 선정]]></title>
-        <id>https://v.daum.net/v/20231209013005620</id>
-        <link href="https://v.daum.net/v/20231209013005620"/>
-        <updated>2023-12-08T17:14:24.299Z</updated>
-        <content type="html"><![CDATA[MHN스포츠<span class="txt_bar"> · </span><span class="info_time">01:30</span>]]></content>
     </entry>
 </feed>
