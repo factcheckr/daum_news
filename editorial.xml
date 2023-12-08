@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-12-08T20:17:02.394Z</updated>
+    <updated>2023-12-08T21:17:05.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘정치의 봄’이 그립다 [ESC]]]></title>
+        <id>https://v.daum.net/v/20231209060503526</id>
+        <link href="https://v.daum.net/v/20231209060503526"/>
+        <updated>2023-12-08T21:16:44.098Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">06:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[기고] 바보야! 문제는 '4050'이야]]></title>
+        <id>https://v.daum.net/v/20231209060051465</id>
+        <link href="https://v.daum.net/v/20231209060051465"/>
+        <updated>2023-12-08T21:16:44.101Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[데스크 칼럼] 사람 좀 그만 바꾸고 시스템을 바꾸라]]></title>
+        <id>https://v.daum.net/v/20231209060028426</id>
+        <link href="https://v.daum.net/v/20231209060028426"/>
+        <updated>2023-12-08T21:16:44.102Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[기자수첩] 짝퉁, 중국 플랫폼만의 문제 아니다]]></title>
+        <id>https://v.daum.net/v/20231209060025419</id>
+        <link href="https://v.daum.net/v/20231209060025419"/>
+        <updated>2023-12-08T21:16:44.103Z</updated>
+        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국인의 '향 커피' 사랑법 [休·味·樂(휴·미·락)]]]></title>
         <id>https://v.daum.net/v/20231209043232961</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20231209040307892"/>
         <updated>2023-12-08T19:13:04.197Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전화성의 기술창업 Targeting]〈289〉세상을 바꾸는 혁신창업기업의 비상, IBK창공(3)]]></title>
-        <id>https://v.daum.net/v/20231209040103886</id>
-        <link href="https://v.daum.net/v/20231209040103886"/>
-        <updated>2023-12-08T19:13:04.198Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">04:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 日 셋 낳으면 모두 대학 무료, 세금은 이런 데 써야]]></title>
-        <id>https://v.daum.net/v/20231209031613847</id>
-        <link href="https://v.daum.net/v/20231209031613847"/>
-        <updated>2023-12-08T18:20:00.572Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 간첩 피고인들 재판 지연 방치하다 전원 석방해 준 법원]]></title>
-        <id>https://v.daum.net/v/20231209031523846</id>
-        <link href="https://v.daum.net/v/20231209031523846"/>
-        <updated>2023-12-08T18:20:00.573Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 누적 적자 47조 한전, 정전도 4년새 84% 급증]]></title>
-        <id>https://v.daum.net/v/20231209031220843</id>
-        <link href="https://v.daum.net/v/20231209031220843"/>
-        <updated>2023-12-08T18:20:00.574Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:12</span>]]></content>
     </entry>
 </feed>
