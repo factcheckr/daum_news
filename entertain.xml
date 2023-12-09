@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2023-12-09T17:13:30.120Z</updated>
+    <updated>2023-12-09T18:18:54.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배우 키아누 리브스 집에 떼강도…올초엔 스토커에 시달려]]></title>
+        <id>https://v.daum.net/v/20231210031231486</id>
+        <link href="https://v.daum.net/v/20231210031231486"/>
+        <updated>2023-12-09T18:17:59.924Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">03:12</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“나 억울해” 신혜선, 지창욱→강영석 앞 오열‥독수리오형제 재회(웰컴투 삼달리)[종합]]]></title>
         <id>https://v.daum.net/v/20231210013736421</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231210003231261"/>
         <updated>2023-12-09T16:17:48.033Z</updated>
         <content type="html"><![CDATA[TV리포트<span class="txt_bar"> · </span><span class="info_time">00:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['열녀박씨' 배인혁, ♥이세영에 "내 아내" 당당히 밝혔다[Oh!쎈 종합]]]></title>
-        <id>https://v.daum.net/v/20231210003029255</id>
-        <link href="https://v.daum.net/v/20231210003029255"/>
-        <updated>2023-12-09T16:17:48.034Z</updated>
-        <content type="html"><![CDATA[OSEN<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
     </entry>
 </feed>
