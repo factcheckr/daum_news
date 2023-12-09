@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-12-09T09:14:11.030Z</updated>
+    <updated>2023-12-09T10:15:52.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[직장인 10명 중 4.5명 “나도 꼰대 될까 두려워”…꼰대의 특징은]]></title>
+        <id>https://v.daum.net/v/20231209181736138</id>
+        <link href="https://v.daum.net/v/20231209181736138"/>
+        <updated>2023-12-09T10:15:36.658Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">18:17</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[천남수의 視線] 이준석·이낙연 신당이 총선판 뒤집을까]]></title>
         <id>https://v.daum.net/v/20231209164010056</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231209060028426"/>
         <updated>2023-12-08T21:16:44.102Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기자수첩] 짝퉁, 중국 플랫폼만의 문제 아니다]]></title>
-        <id>https://v.daum.net/v/20231209060025419</id>
-        <link href="https://v.daum.net/v/20231209060025419"/>
-        <updated>2023-12-08T21:16:44.103Z</updated>
-        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
     </entry>
 </feed>

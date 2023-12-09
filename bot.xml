@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-12-09T09:14:11.046Z</updated>
+    <updated>2023-12-09T10:15:52.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가상화폐 에이다 122원 상승한 864원에 거래]]></title>
+        <id>https://v.daum.net/v/20231209183119218</id>
+        <link href="https://v.daum.net/v/20231209183119218"/>
+        <updated>2023-12-09T10:15:51.968Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">18:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 날씨 - 오후 (2023년 12월 09일)]]></title>
         <id>https://v.daum.net/v/20231209173213648</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231209131530193"/>
         <updated>2023-12-09T04:19:11.300Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 원천동 원천주공 41㎡ 3억5500만원에 거래]]></title>
-        <id>https://v.daum.net/v/20231209131034158</id>
-        <link href="https://v.daum.net/v/20231209131034158"/>
-        <updated>2023-12-09T04:19:11.303Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:10</span>]]></content>
     </entry>
 </feed>
