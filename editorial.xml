@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-12-08T23:16:08.740Z</updated>
+    <updated>2023-12-09T01:04:46.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](9일 조간)]]></title>
+        <id>https://v.daum.net/v/20231209100003423</id>
+        <link href="https://v.daum.net/v/20231209100003423"/>
+        <updated>2023-12-09T01:04:25.645Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">10:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조선 왕실(王室)의 수많은 노비는 누가 어떻게 조달했나?]]></title>
+        <id>https://v.daum.net/v/20231209093013150</id>
+        <link href="https://v.daum.net/v/20231209093013150"/>
+        <updated>2023-12-09T01:04:25.646Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">09:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘현역가왕’, 이번엔 한일전이다 [하재근의 이슈분석]]]></title>
+        <id>https://v.daum.net/v/20231209092557105</id>
+        <link href="https://v.daum.net/v/20231209092557105"/>
+        <updated>2023-12-09T01:04:25.646Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">09:25</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국 특권 중산층과 ‘두 세계’]]></title>
+        <id>https://v.daum.net/v/20231209090502925</id>
+        <link href="https://v.daum.net/v/20231209090502925"/>
+        <updated>2023-12-09T01:04:25.647Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">09:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 배우 손준호가 느끼는 주안이의 큰 사랑]]></title>
+        <id>https://v.daum.net/v/20231209090212883</id>
+        <link href="https://v.daum.net/v/20231209090212883"/>
+        <updated>2023-12-09T01:04:25.648Z</updated>
+        <content type="html"><![CDATA[우먼센스<span class="txt_bar"> · </span><span class="info_time">09:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[김회룡의 시사 TOON]]]></title>
         <id>https://v.daum.net/v/20231209080803383</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20231209043115946"/>
         <updated>2023-12-08T20:16:40.711Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 파산 사상 최대 속, 부활한 기촉법 이번엔 구조조정 성공해야]]></title>
-        <id>https://v.daum.net/v/20231209043102941</id>
-        <link href="https://v.daum.net/v/20231209043102941"/>
-        <updated>2023-12-08T20:16:40.711Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여성 개발 정도가 높고, 성별 격차가 크며, 젠더 편견이 강한 나라:한국[젠더살롱]]]></title>
-        <id>https://v.daum.net/v/20231209043034937</id>
-        <link href="https://v.daum.net/v/20231209043034937"/>
-        <updated>2023-12-08T20:16:40.711Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한마당] 층간소음]]></title>
-        <id>https://v.daum.net/v/20231209041213925</id>
-        <link href="https://v.daum.net/v/20231209041213925"/>
-        <updated>2023-12-08T19:13:04.194Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창] 타인의 욕망을 욕망하다]]></title>
-        <id>https://v.daum.net/v/20231209041013919</id>
-        <link href="https://v.daum.net/v/20231209041013919"/>
-        <updated>2023-12-08T19:13:04.194Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[빛과 소금] 마음이 아파요]]></title>
-        <id>https://v.daum.net/v/20231209040920918</id>
-        <link href="https://v.daum.net/v/20231209040920918"/>
-        <updated>2023-12-08T19:13:04.195Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:09</span>]]></content>
     </entry>
 </feed>
