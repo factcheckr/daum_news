@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-12-09T10:15:52.559Z</updated>
+    <updated>2023-12-09T11:13:10.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사이언스인미디어]대규모 고대 전장, VFX로 생생하게... '고려거란전쟁']]></title>
+        <id>https://v.daum.net/v/20231209200403834</id>
+        <link href="https://v.daum.net/v/20231209200403834"/>
+        <updated>2023-12-09T11:12:46.105Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">20:04</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대마 직접 키우고 찌개·파스타에 넣어 먹은 20대 남성 실형]]></title>
         <id>https://v.daum.net/v/20231209180238013</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231209160251751"/>
         <updated>2023-12-09T07:13:25.241Z</updated>
         <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">16:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이폰·애플워치 디자인 임원 사임…애플 디자인 전략 변화?]]></title>
-        <id>https://v.daum.net/v/20231209155826701</id>
-        <link href="https://v.daum.net/v/20231209155826701"/>
-        <updated>2023-12-09T07:13:25.242Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">15:58</span>]]></content>
     </entry>
 </feed>
