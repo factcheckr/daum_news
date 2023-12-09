@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-12-09T02:26:42.314Z</updated>
+    <updated>2023-12-09T03:17:05.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['서울의 봄'과 '한국 영화의 봄' [라제기의 슛 & 숏]]]></title>
+        <id>https://v.daum.net/v/20231209120104711</id>
+        <link href="https://v.daum.net/v/20231209120104711"/>
+        <updated>2023-12-09T03:16:42.006Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">12:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[신간]'고양이 처방전' 이수연 작가의 고양이의 체온으로 비로소 삶을 사랑하게 된 이야기]]></title>
         <id>https://v.daum.net/v/20231209111302366</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231209043232961"/>
         <updated>2023-12-08T20:16:40.705Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 민생보다 정쟁이 먼저... 법정시한, 정기국회도 넘긴 예산안]]></title>
-        <id>https://v.daum.net/v/20231209043132949</id>
-        <link href="https://v.daum.net/v/20231209043132949"/>
-        <updated>2023-12-08T20:16:40.711Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:31</span>]]></content>
     </entry>
 </feed>
