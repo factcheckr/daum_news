@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-12-09T13:16:31.395Z</updated>
+    <updated>2023-12-09T14:15:04.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[세컷칼럼] 66세 인순이 도전 "언제든 하이힐 신을 준비"…2030이 반했다]]></title>
+        <id>https://v.daum.net/v/20231209230020781</id>
+        <link href="https://v.daum.net/v/20231209230020781"/>
+        <updated>2023-12-09T14:14:48.350Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뚝 떨어진 기온·혈관 수축에 ‘고혈압’ 주의보 [헬스]]]></title>
         <id>https://v.daum.net/v/20231209210312190</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231209080803383"/>
         <updated>2023-12-08T23:15:47.964Z</updated>
         <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">08:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아내, 자식, 부모... 은퇴하면 누구랑 살 때 더 행복할까 [왕개미연구소]]]></title>
-        <id>https://v.daum.net/v/20231209080105316</id>
-        <link href="https://v.daum.net/v/20231209080105316"/>
-        <updated>2023-12-08T23:15:47.965Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">08:01</span>]]></content>
     </entry>
 </feed>
