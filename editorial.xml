@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-12-10T13:17:23.985Z</updated>
+    <updated>2023-12-10T14:14:08.918Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[세컷칼럼] 위기의식 없는 여당…‘양남 자민련’ 전락할 판]]></title>
+        <id>https://v.daum.net/v/20231210230032796</id>
+        <link href="https://v.daum.net/v/20231210230032796"/>
+        <updated>2023-12-10T14:13:42.821Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[국민만평-서민호 화백] 2023년 12월 11일]]></title>
+        <id>https://v.daum.net/v/20231210223635677</id>
+        <link href="https://v.daum.net/v/20231210223635677"/>
+        <updated>2023-12-10T14:13:42.822Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">22:36</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023년 12월 11일[김용민의 그림마당]]]></title>
         <id>https://v.daum.net/v/20231210220055398</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231210203508644"/>
         <updated>2023-12-10T12:27:12.833Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노래와 세상] 김민기]]></title>
-        <id>https://v.daum.net/v/20231210203502642</id>
-        <link href="https://v.daum.net/v/20231210203502642"/>
-        <updated>2023-12-10T12:27:12.834Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[우석훈의 경제수다방] 진짜 ‘서울의 봄’]]></title>
-        <id>https://v.daum.net/v/20231210203457639</id>
-        <link href="https://v.daum.net/v/20231210203457639"/>
-        <updated>2023-12-10T12:27:12.835Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:34</span>]]></content>
     </entry>
 </feed>
