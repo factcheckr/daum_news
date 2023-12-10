@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-12-10T03:16:41.233Z</updated>
+    <updated>2023-12-10T04:18:21.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[현대자동차, 글로벌 수소 모빌리티 생태계 확산을 위한 다자간 MOU 체결]]></title>
+        <id>https://v.daum.net/v/20231210125703382</id>
+        <link href="https://v.daum.net/v/20231210125703382"/>
+        <updated>2023-12-10T04:18:14.263Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">12:57</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수자원공사, COP28서 '디지털 물관리 기술' 공유…기후위기 대응 협력 촉구]]></title>
         <id>https://v.daum.net/v/20231210121602994</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231210092703702"/>
         <updated>2023-12-10T01:13:58.433Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">09:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IDS-Veracio, 북미 지역 시추 및 다운홀 도구 기술 발전 위한 전략적 파트너십 체결]]></title>
-        <id>https://v.daum.net/v/20231210091703577</id>
-        <link href="https://v.daum.net/v/20231210091703577"/>
-        <updated>2023-12-10T01:13:58.434Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">09:17</span>]]></content>
     </entry>
 </feed>
