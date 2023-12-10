@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-12-10T16:19:20.483Z</updated>
+    <updated>2023-12-10T17:14:07.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]인구학은 숙명이 아니다]]></title>
+        <id>https://v.daum.net/v/20231211020502714</id>
+        <link href="https://v.daum.net/v/20231211020502714"/>
+        <updated>2023-12-10T17:13:42.910Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[청계광장]마이너스 투어, 이유없는 할인은 없다]]></title>
+        <id>https://v.daum.net/v/20231211020201697</id>
+        <link href="https://v.daum.net/v/20231211020201697"/>
+        <updated>2023-12-10T17:13:42.913Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] ‘서울 우세 6곳뿐’ 보고서에도 위기감 없는 국민의힘]]></title>
         <id>https://v.daum.net/v/20231211004141406</id>
@@ -48,7 +62,7 @@
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:34</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[이상언의 논설위원이 간다] 보수 진영이 하나회 숙정하고 김오랑에 훈장]]></title>
+        <title type="html"><![CDATA[반란 단죄·하나회 숙정·김 중령 훈장 추서, 진보 아닌 보수가 했다]]></title>
         <id>https://v.daum.net/v/20231211003310359</id>
         <link href="https://v.daum.net/v/20231211003310359"/>
         <updated>2023-12-10T16:18:57.588Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231211003001336"/>
         <updated>2023-12-10T16:18:57.602Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대중 무역적자 560조원, EUㆍ중국 무역전쟁 서막[박성훈의 차이나 시그널]]]></title>
-        <id>https://v.daum.net/v/20231211002930335</id>
-        <link href="https://v.daum.net/v/20231211002930335"/>
-        <updated>2023-12-10T16:18:57.604Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:29</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[다산칼럼] 공매도가 자주 금지되는 한국 시장]]></title>
-        <id>https://v.daum.net/v/20231211002903333</id>
-        <link href="https://v.daum.net/v/20231211002903333"/>
-        <updated>2023-12-10T16:18:57.605Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:29</span>]]></content>
     </entry>
 </feed>
