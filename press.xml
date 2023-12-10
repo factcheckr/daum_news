@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-12-10T07:14:01.383Z</updated>
+    <updated>2023-12-10T08:18:36.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인천 서구보건소, 질병관리청 '코로나19 우수백서' 수상]]></title>
+        <id>https://v.daum.net/v/20231210164815007</id>
+        <link href="https://v.daum.net/v/20231210164815007"/>
+        <updated>2023-12-10T08:18:28.321Z</updated>
+        <content type="html"><![CDATA[투어코리아<span class="txt_bar"> · </span><span class="info_time">16:48</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[잘나가던 인스타도 1900만명 밑 '뚝'…국내 이용자 이탈 이유]]></title>
         <id>https://v.daum.net/v/20231210152249620</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231210102703484"/>
         <updated>2023-12-10T02:32:46.089Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">10:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로켓랩, 카이스트와 위성 발사 계약 체결]]></title>
-        <id>https://v.daum.net/v/20231210101703356</id>
-        <link href="https://v.daum.net/v/20231210101703356"/>
-        <updated>2023-12-10T02:32:46.094Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">10:17</span>]]></content>
     </entry>
 </feed>
