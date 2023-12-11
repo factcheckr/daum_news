@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-12-11T22:15:47.087Z</updated>
+    <updated>2023-12-11T23:18:56.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제22대 총선 레이스 돌입… 오늘 예비후보자 등록 시작]]></title>
+        <id>https://v.daum.net/v/20231212075833286</id>
+        <link href="https://v.daum.net/v/20231212075833286"/>
+        <updated>2023-12-11T23:18:38.244Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">07:58</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[단백질은 ‘폼생폼사’ 멀티엔터테이너… 생명 현상은 한 편의 인체 드라마]]></title>
         <id>https://v.daum.net/v/20231212071514760</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231212060120844"/>
         <updated>2023-12-11T21:16:19.226Z</updated>
         <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">06:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기고]탈탄소 거버넌스의 미래]]></title>
-        <id>https://v.daum.net/v/20231212060056814</id>
-        <link href="https://v.daum.net/v/20231212060056814"/>
-        <updated>2023-12-11T21:16:19.228Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
     </entry>
 </feed>
