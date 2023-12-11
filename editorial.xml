@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-12-11T16:21:25.045Z</updated>
+    <updated>2023-12-11T17:15:21.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]잉크젯 프린터로 음식 맛을 내는 엉뚱한 발상]]></title>
+        <id>https://v.daum.net/v/20231212020303295</id>
+        <link href="https://v.daum.net/v/20231212020303295"/>
+        <updated>2023-12-11T17:15:01.076Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]거세지는 개딸들의 '빠시즘' 행태]]></title>
+        <id>https://v.daum.net/v/20231212020202291</id>
+        <link href="https://v.daum.net/v/20231212020202291"/>
+        <updated>2023-12-11T17:15:01.077Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 빚에 허덕이는 ‘나라의 미래’ 20대]]></title>
         <id>https://v.daum.net/v/20231212005001132</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231212003049055"/>
         <updated>2023-12-11T16:21:09.489Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[류태형의 음악회 가는 길] ‘제3부 공연’ 앙코르의 묘미]]></title>
-        <id>https://v.daum.net/v/20231212002609028</id>
-        <link href="https://v.daum.net/v/20231212002609028"/>
-        <updated>2023-12-11T16:21:09.490Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[취재수첩] 볼썽사나운 건설협회장 선거…추락한 위상 회복해야]]></title>
-        <id>https://v.daum.net/v/20231212002404022</id>
-        <link href="https://v.daum.net/v/20231212002404022"/>
-        <updated>2023-12-11T16:21:09.492Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:24</span>]]></content>
     </entry>
 </feed>
