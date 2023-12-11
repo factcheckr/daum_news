@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-12-11T04:20:18.665Z</updated>
+    <updated>2023-12-11T05:17:04.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](11일 석간)]]></title>
+        <id>https://v.daum.net/v/20231211140012828</id>
+        <link href="https://v.daum.net/v/20231211140012828"/>
+        <updated>2023-12-11T05:16:42.372Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[데일리안 시사만평] 제 살 길 찾기 바쁜 현역의원들…내 지역구    철통 사수하라]]></title>
+        <id>https://v.daum.net/v/20231211133230995</id>
+        <link href="https://v.daum.net/v/20231211133230995"/>
+        <updated>2023-12-11T05:16:42.372Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">13:32</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[찐비트]AI와 Z세대의 첫 만남이 이뤄질 새해]]></title>
+        <id>https://v.daum.net/v/20231211131148575</id>
+        <link href="https://v.daum.net/v/20231211131148575"/>
+        <updated>2023-12-11T05:16:42.373Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">13:11</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[K우먼톡]퇴직자 재취업, 스스로 오랜 준비해야]]></title>
         <id>https://v.daum.net/v/20231211123018058</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20231211112905265"/>
         <updated>2023-12-11T02:29:42.795Z</updated>
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:29</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[만평] "지도부는 기득권 카르텔로 혁신을 막고, 출마하겠다는 셀럽은 양지로만 모이니"]]></title>
-        <id>https://v.daum.net/v/20231211112116884</id>
-        <link href="https://v.daum.net/v/20231211112116884"/>
-        <updated>2023-12-11T02:29:42.795Z</updated>
-        <content type="html"><![CDATA[대구MBC<span class="txt_bar"> · </span><span class="info_time">11:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 세계 통상마찰 새 뇌관 ‘유럽 AI 규제’, 구경꾼 안된다]]></title>
-        <id>https://v.daum.net/v/20231211111237417</id>
-        <link href="https://v.daum.net/v/20231211111237417"/>
-        <updated>2023-12-11T02:29:42.796Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시시비비]국공립 박물관·미술관 무료 관람이 문제인가]]></title>
-        <id>https://v.daum.net/v/20231211111027297</id>
-        <link href="https://v.daum.net/v/20231211111027297"/>
-        <updated>2023-12-11T02:29:42.798Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:10</span>]]></content>
     </entry>
 </feed>
