@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-12-12T18:20:08.826Z</updated>
+    <updated>2023-12-12T19:13:48.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“앱 수수료 30% 강요” 구글 갑질, 美서 철퇴]]></title>
+        <id>https://v.daum.net/v/20231213034218611</id>
+        <link href="https://v.daum.net/v/20231213034218611"/>
+        <updated>2023-12-12T19:13:23.938Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:42</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[올 하반기 최다 설치 앱은 中 쇼핑앱 ‘테무’]]></title>
         <id>https://v.daum.net/v/20231213030253444</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231213000302650"/>
         <updated>2023-12-12T15:16:45.816Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["내년은 '온 디바이스 AI'폰의 시대"…삼성전자, 갤럭시S24로 선공 나선다]]></title>
-        <id>https://v.daum.net/v/20231213000112589</id>
-        <link href="https://v.daum.net/v/20231213000112589"/>
-        <updated>2023-12-12T15:16:45.818Z</updated>
-        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
     </entry>
 </feed>
