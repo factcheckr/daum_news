@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-12-12T22:15:25.624Z</updated>
+    <updated>2023-12-12T23:17:29.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](13일 조간)]]></title>
+        <id>https://v.daum.net/v/20231213080016267</id>
+        <link href="https://v.daum.net/v/20231213080016267"/>
+        <updated>2023-12-12T23:17:06.562Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[층간소음 못잡는거야, 안잡는거야…결국 ‘돈’이었나 [박일한 住土피아]]]></title>
+        <id>https://v.daum.net/v/20231213075339112</id>
+        <link href="https://v.daum.net/v/20231213075339112"/>
+        <updated>2023-12-12T23:17:06.562Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">07:53</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[시로 여는 수요일] 애기메꽃]]></title>
+        <id>https://v.daum.net/v/20231213073017652</id>
+        <link href="https://v.daum.net/v/20231213073017652"/>
+        <updated>2023-12-12T23:17:06.563Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">07:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[목멱칼럼]직장인 법정의무교육 개편하자]]></title>
         <id>https://v.daum.net/v/20231213070509117</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20231213062200463"/>
         <updated>2023-12-12T22:15:09.291Z</updated>
         <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">06:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[언론에 대해 계속 말한다는 것 [프리스타일]]]></title>
-        <id>https://v.daum.net/v/20231213061634417</id>
-        <link href="https://v.daum.net/v/20231213061634417"/>
-        <updated>2023-12-12T22:15:09.292Z</updated>
-        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">06:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기고]모자이크 나라, 캐나다의 이민 정책]]></title>
-        <id>https://v.daum.net/v/20231213060020061</id>
-        <link href="https://v.daum.net/v/20231213060020061"/>
-        <updated>2023-12-12T21:14:22.637Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기자수첩] 민주당, '강성 지지자 손절' 안 하나 못 하나]]></title>
-        <id>https://v.daum.net/v/20231213060009031</id>
-        <link href="https://v.daum.net/v/20231213060009031"/>
-        <updated>2023-12-12T21:14:22.639Z</updated>
-        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
     </entry>
 </feed>
