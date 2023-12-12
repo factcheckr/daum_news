@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-12-12T12:30:42.398Z</updated>
+    <updated>2023-12-12T13:19:26.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가상화폐 코스모스 상승세... 전일대비 +9.62%]]></title>
+        <id>https://v.daum.net/v/20231212213119981</id>
+        <link href="https://v.daum.net/v/20231212213119981"/>
+        <updated>2023-12-12T13:19:25.692Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">21:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 날씨 - 오후 (2023년 12월 12일)]]></title>
         <id>https://v.daum.net/v/20231212173306618</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231212160055055"/>
         <updated>2023-12-12T07:14:51.676Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">16:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 이의동 광교자연앤힐스테이트 84㎡ 13억4500만원에 거래]]></title>
-        <id>https://v.daum.net/v/20231212155536795</id>
-        <link href="https://v.daum.net/v/20231212155536795"/>
-        <updated>2023-12-12T07:14:51.677Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">15:55</span>]]></content>
     </entry>
 </feed>
