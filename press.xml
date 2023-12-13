@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-12-13T11:14:16.229Z</updated>
+    <updated>2023-12-13T12:29:18.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] WINNIE HARLOW USES COCA-COLA AI DURING THE HOLIDAYS]]></title>
+        <id>https://v.daum.net/v/20231213201948812</id>
+        <link href="https://v.daum.net/v/20231213201948812"/>
+        <updated>2023-12-13T12:29:08.180Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:19</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[불법온라인도박감시통합센터 신설…불법 도박 근절]]></title>
         <id>https://v.daum.net/v/20231213195019276</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231213182849730"/>
         <updated>2023-12-13T10:17:16.984Z</updated>
         <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">18:28</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[의학바이오게시판] 삼성서울병원, 병원업계 유일 '2023 건강친화기업’ 인증 획득]]></title>
-        <id>https://v.daum.net/v/20231213181412360</id>
-        <link href="https://v.daum.net/v/20231213181412360"/>
-        <updated>2023-12-13T09:18:46.314Z</updated>
-        <content type="html"><![CDATA[동아사이언스<span class="txt_bar"> · </span><span class="info_time">18:14</span>]]></content>
     </entry>
 </feed>
