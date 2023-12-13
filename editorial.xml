@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-12-13T22:15:34.591Z</updated>
+    <updated>2023-12-13T23:17:05.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](14일 조간)]]></title>
+        <id>https://v.daum.net/v/20231214080013395</id>
+        <link href="https://v.daum.net/v/20231214080013395"/>
+        <updated>2023-12-13T23:16:46.625Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사사건건]나눔 위축시키는 '기부 비리']]></title>
+        <id>https://v.daum.net/v/20231214074616186</id>
+        <link href="https://v.daum.net/v/20231214074616186"/>
+        <updated>2023-12-13T23:16:46.626Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">07:46</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['비밀', 스릴러 장르 안에 담아낸 사회적 메시지 [볼 만해?]]]></title>
+        <id>https://v.daum.net/v/20231214072056822</id>
+        <link href="https://v.daum.net/v/20231214072056822"/>
+        <updated>2023-12-13T23:16:46.628Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:20</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[크리스마스와 과학 문화]]></title>
         <id>https://v.daum.net/v/20231214070517641</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20231214060025634"/>
         <updated>2023-12-13T21:14:25.113Z</updated>
         <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['한동훈 테마주' 씁쓸한 단상[우보세]]]></title>
-        <id>https://v.daum.net/v/20231214055501555</id>
-        <link href="https://v.daum.net/v/20231214055501555"/>
-        <updated>2023-12-13T21:14:25.115Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">05:55</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기고]김용균 판결과 중대재해법 적용유예 연장]]></title>
-        <id>https://v.daum.net/v/20231214054800532</id>
-        <link href="https://v.daum.net/v/20231214054800532"/>
-        <updated>2023-12-13T21:14:25.116Z</updated>
-        <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">05:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Wang Son-taek] Seven problems with the Asian version of NATO]]></title>
-        <id>https://v.daum.net/v/20231214053458418</id>
-        <link href="https://v.daum.net/v/20231214053458418"/>
-        <updated>2023-12-13T21:14:25.118Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:34</span>]]></content>
     </entry>
 </feed>
