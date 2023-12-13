@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2023-12-13T16:19:49.826Z</updated>
+    <updated>2023-12-13T17:14:54.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['엔데믹 후폭풍(?)' 미 온라인 장터 엣치, 11% 감원]]></title>
+        <id>https://v.daum.net/v/20231214021330088</id>
+        <link href="https://v.daum.net/v/20231214021330088"/>
+        <updated>2023-12-13T17:13:45.937Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">02:13</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[테슬라, 미국서 200만여대 리콜.."오토파일럿 오용 가능성 차단"]]></title>
         <id>https://v.daum.net/v/20231214010950924</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231214000936683"/>
         <updated>2023-12-13T15:16:12.980Z</updated>
         <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">00:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[울산, 글로벌혁신특구 1차 관문 통과]]></title>
-        <id>https://v.daum.net/v/20231214000842673</id>
-        <link href="https://v.daum.net/v/20231214000842673"/>
-        <updated>2023-12-13T15:16:12.982Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">00:08</span>]]></content>
     </entry>
 </feed>
