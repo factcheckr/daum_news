@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-12-14T12:32:03.230Z</updated>
+    <updated>2023-12-14T13:19:27.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[목요일의 산 세바스티안 사람들처럼 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20231214220014436</id>
+        <link href="https://v.daum.net/v/20231214220014436"/>
+        <updated>2023-12-14T13:19:11.264Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023년 12월 15일[김용민의 그림마당]]]></title>
         <id>https://v.daum.net/v/20231214210409697</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231214201308867"/>
         <updated>2023-12-14T11:14:04.853Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도심 속의 시니어타운 거주 시대 [만물상]]]></title>
-        <id>https://v.daum.net/v/20231214201114838</id>
-        <link href="https://v.daum.net/v/20231214201114838"/>
-        <updated>2023-12-14T11:14:04.855Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">20:11</span>]]></content>
     </entry>
 </feed>
