@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-12-14T03:17:08.537Z</updated>
+    <updated>2023-12-14T04:19:22.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[웹툰] 색안경을 쓰고 보지 않으려 했는데 엄마가 되고 보니 쉽지 않았다]]></title>
+        <id>https://v.daum.net/v/20231214124911700</id>
+        <link href="https://v.daum.net/v/20231214124911700"/>
+        <updated>2023-12-14T04:18:59.896Z</updated>
+        <content type="html"><![CDATA[베이비뉴스<span class="txt_bar"> · </span><span class="info_time">12:49</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부종이 림프 건강의 적신호?]]></title>
+        <id>https://v.daum.net/v/20231214124725680</id>
+        <link href="https://v.daum.net/v/20231214124725680"/>
+        <updated>2023-12-14T04:18:59.896Z</updated>
+        <content type="html"><![CDATA[베이비뉴스<span class="txt_bar"> · </span><span class="info_time">12:47</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카카오 위기 키운 ‘브러더 경영’ [심윤희 칼럼]]]></title>
         <id>https://v.daum.net/v/20231214114800356</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231214112040213"/>
         <updated>2023-12-14T02:27:43.041Z</updated>
         <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">11:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시론]윤석열정부 2기 경제팀장 최상목의 숙제]]></title>
-        <id>https://v.daum.net/v/20231214112014198</id>
-        <link href="https://v.daum.net/v/20231214112014198"/>
-        <updated>2023-12-14T02:27:43.041Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[약손+]'두통', 얼마나 알고 계십니까? ⑬편두통의 전조증상]]></title>
-        <id>https://v.daum.net/v/20231214100445675</id>
-        <link href="https://v.daum.net/v/20231214100445675"/>
-        <updated>2023-12-14T02:27:43.042Z</updated>
-        <content type="html"><![CDATA[대구MBC<span class="txt_bar"> · </span><span class="info_time">10:04</span>]]></content>
     </entry>
 </feed>
