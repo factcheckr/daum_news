@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-12-14T13:19:27.679Z</updated>
+    <updated>2023-12-14T14:15:14.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[4개 국어 하는 SKT 에이닷, 이번 주 중 실시간 통역 서비스 출시]]></title>
+        <id>https://v.daum.net/v/20231214223630793</id>
+        <link href="https://v.daum.net/v/20231214223630793"/>
+        <updated>2023-12-14T14:14:50.865Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">22:36</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“어쩌다 이 지경까지” 1위 국민 포털 처참한 몰락…충격적 사태 나온다?]]></title>
         <id>https://v.daum.net/v/20231214215228298</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231214192703072"/>
         <updated>2023-12-14T11:13:57.582Z</updated>
         <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">19:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[동영상] 머리도 바꾸고, 몸도 바꾸고... '유령기사 키우기'의 참신한 장착템들!]]></title>
-        <id>https://v.daum.net/v/20231214192400021</id>
-        <link href="https://v.daum.net/v/20231214192400021"/>
-        <updated>2023-12-14T11:13:57.583Z</updated>
-        <content type="html"><![CDATA[게임동아<span class="txt_bar"> · </span><span class="info_time">19:24</span>]]></content>
     </entry>
 </feed>
