@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-12-15T16:20:33.669Z</updated>
+    <updated>2023-12-15T17:14:25.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“동국(東國)의 양법(良法)”? 조선 유생들의 노비제 옹호론]]></title>
+        <id>https://v.daum.net/v/20231216020014768</id>
+        <link href="https://v.daum.net/v/20231216020014768"/>
+        <updated>2023-12-15T17:14:12.166Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">02:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기업 사활 걸린 빅딜 중재, 그룹 회장들 불호령 맞기 일쑤]]></title>
         <id>https://v.daum.net/v/20231216003435375</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231216000302198"/>
         <updated>2023-12-15T15:15:58.037Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[네이티브 잉글리시] ‘our’ 남용]]></title>
-        <id>https://v.daum.net/v/20231216000218192</id>
-        <link href="https://v.daum.net/v/20231216000218192"/>
-        <updated>2023-12-15T15:15:58.038Z</updated>
-        <content type="html"><![CDATA[중앙SUNDAY<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
     </entry>
 </feed>
