@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-12-16T10:15:25.938Z</updated>
+    <updated>2023-12-16T11:15:24.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코믹월드 2023 윈터 개최.. '영하의 날씨도 서브컬처 덕후들은 막지 못했다']]></title>
+        <id>https://v.daum.net/v/20231216193000729</id>
+        <link href="https://v.daum.net/v/20231216193000729"/>
+        <updated>2023-12-16T11:14:58.465Z</updated>
+        <content type="html"><![CDATA[게임동아<span class="txt_bar"> · </span><span class="info_time">19:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넥슨 서든어택, 이용자와 함께 2023년 마무리]]></title>
         <id>https://v.daum.net/v/20231216185228429</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">18:52</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“3만→5만→7만원? 이를 어쩌나” 못 버티고 팔았더니…카카오 무섭게 오른다]]></title>
+        <title type="html"><![CDATA[“3만→5만→7만원? 이를 어쩌나” 못 버티고 팔았더니…무섭게 오르는 카카오]]></title>
         <id>https://v.daum.net/v/20231216185109424</id>
         <link href="https://v.daum.net/v/20231216185109424"/>
         <updated>2023-12-16T10:15:02.276Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231216165902390"/>
         <updated>2023-12-16T08:21:34.417Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">16:59</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넥슨 ‘사이퍼즈’, 겨울 쇼케이스 ‘연말정샆’ 개최]]></title>
-        <id>https://v.daum.net/v/20231216165101279</id>
-        <link href="https://v.daum.net/v/20231216165101279"/>
-        <updated>2023-12-16T08:21:34.419Z</updated>
-        <content type="html"><![CDATA[매경게임진<span class="txt_bar"> · </span><span class="info_time">16:51</span>]]></content>
     </entry>
 </feed>
