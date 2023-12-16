@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-12-16T12:26:05.348Z</updated>
+    <updated>2023-12-16T13:16:39.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한빛원전 5호기, 정비 마치고 발전 재개]]></title>
+        <id>https://v.daum.net/v/20231216215818636</id>
+        <link href="https://v.daum.net/v/20231216215818636"/>
+        <updated>2023-12-16T13:16:15.781Z</updated>
+        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">21:58</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넥슨 ‘서든어택’, 이용자 소통 접점 늘린다…슈퍼 페스티벌 개최]]></title>
+        <id>https://v.daum.net/v/20231216213001452</id>
+        <link href="https://v.daum.net/v/20231216213001452"/>
+        <updated>2023-12-16T13:16:15.782Z</updated>
+        <content type="html"><![CDATA[매경게임진<span class="txt_bar"> · </span><span class="info_time">21:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“불안정한 5G, 비전도 없네”…차세대 교통 LTE 택한 이유는?]]></title>
         <id>https://v.daum.net/v/20231216205701292</id>
@@ -41,7 +55,7 @@
         <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">18:52</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“3만→5만→7만원? 이를 어쩌나” 못 버티고 팔았더니…무섭게 오르는 카카오]]></title>
+        <title type="html"><![CDATA[“3만→5만→7만원?, 이걸 샀어야?” 망한 줄 알았는데…무섭게 오르는 카카오]]></title>
         <id>https://v.daum.net/v/20231216185109424</id>
         <link href="https://v.daum.net/v/20231216185109424"/>
         <updated>2023-12-16T10:15:02.276Z</updated>
@@ -69,7 +83,7 @@
         <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">18:01</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["여동생 죽은 뒤로 소비습관이 확 바뀌었어요"]]></title>
+        <title type="html"><![CDATA["여동생 갑작스럽게 죽은 뒤…소비습관이 확 바뀌었어요"]]></title>
         <id>https://v.daum.net/v/20231216175510040</id>
         <link href="https://v.daum.net/v/20231216175510040"/>
         <updated>2023-12-16T09:13:59.514Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231216172701777"/>
         <updated>2023-12-16T09:13:59.519Z</updated>
         <content type="html"><![CDATA[매경게임진<span class="txt_bar"> · </span><span class="info_time">17:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서든어택 "상대 평가 구간 확대하고 P90 너프한다"]]></title>
-        <id>https://v.daum.net/v/20231216172447719</id>
-        <link href="https://v.daum.net/v/20231216172447719"/>
-        <updated>2023-12-16T09:13:59.520Z</updated>
-        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">17:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中 정부, 아이폰·갤럭시 금지령 확대…"화웨이 등 토종 브랜드 써야"]]></title>
-        <id>https://v.daum.net/v/20231216171919655</id>
-        <link href="https://v.daum.net/v/20231216171919655"/>
-        <updated>2023-12-16T08:21:34.414Z</updated>
-        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">17:19</span>]]></content>
     </entry>
 </feed>
