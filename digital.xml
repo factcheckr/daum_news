@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-12-17T13:19:05.832Z</updated>
+    <updated>2023-12-17T14:13:51.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삼성의 복심 아세요?…AI 동시통역 이어폰 만든 3가지 이유 [위클리반도체]]]></title>
+        <id>https://v.daum.net/v/20231217230600235</id>
+        <link href="https://v.daum.net/v/20231217230600235"/>
+        <updated>2023-12-17T14:13:27.247Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">23:06</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["아이폰12 같은 수직 카메라?"…아이폰16 카메라 배열 바뀔 듯]]></title>
+        <id>https://v.daum.net/v/20231217224540117</id>
+        <link href="https://v.daum.net/v/20231217224540117"/>
+        <updated>2023-12-17T14:13:27.247Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">22:45</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한빛원전 1호기 ‘가동 중단’, 계획예방정비 착수]]></title>
         <id>https://v.daum.net/v/20231217220855898</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231217191343505"/>
         <updated>2023-12-17T10:17:50.416Z</updated>
         <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">19:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전재학 디렉터 "로아 더 재밌게 만들 자신있다"]]></title>
-        <id>https://v.daum.net/v/20231217191338502</id>
-        <link href="https://v.daum.net/v/20231217191338502"/>
-        <updated>2023-12-17T10:17:50.417Z</updated>
-        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">19:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩플] 韓총선ㆍ美대선에 사이버 범죄도 대목…생성AI발 범죄 는다]]></title>
-        <id>https://v.daum.net/v/20231217190129378</id>
-        <link href="https://v.daum.net/v/20231217190129378"/>
-        <updated>2023-12-17T10:17:50.420Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">19:01</span>]]></content>
     </entry>
 </feed>
