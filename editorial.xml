@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-12-17T12:28:35.596Z</updated>
+    <updated>2023-12-17T13:19:05.828Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 12월 18일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20231217220137834</id>
+        <link href="https://v.daum.net/v/20231217220137834"/>
+        <updated>2023-12-17T13:18:49.466Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[좀비는 노래를 하지 않는다 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20231217220003822</id>
+        <link href="https://v.daum.net/v/20231217220003822"/>
+        <updated>2023-12-17T13:18:49.468Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[만물상] ‘바람의 손자’, 아버지를 넘나]]></title>
         <id>https://v.daum.net/v/20231217211959506</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231217201003988"/>
         <updated>2023-12-17T11:15:48.824Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[연합뉴스TV 스페셜] 306회 : '기울어진 운동장 공매도' 문제와 대책은?]]></title>
-        <id>https://v.daum.net/v/20231217200047913</id>
-        <link href="https://v.daum.net/v/20231217200047913"/>
-        <updated>2023-12-17T11:15:48.827Z</updated>
-        <content type="html"><![CDATA[연합뉴스TV<span class="txt_bar"> · </span><span class="info_time">20:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learning from the EU’s Media Freedom Act]]></title>
-        <id>https://v.daum.net/v/20231217195412842</id>
-        <link href="https://v.daum.net/v/20231217195412842"/>
-        <updated>2023-12-17T11:15:48.829Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:54</span>]]></content>
     </entry>
 </feed>
