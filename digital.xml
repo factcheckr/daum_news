@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-12-17T11:16:05.079Z</updated>
+    <updated>2023-12-17T12:28:35.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“ㅎㅎㅎ그래서 안 볼거야?”…접속장애 생겨도 소비자보상 ‘나몰라라’]]></title>
+        <id>https://v.daum.net/v/20231217203900210</id>
+        <link href="https://v.daum.net/v/20231217203900210"/>
+        <updated>2023-12-17T12:28:14.070Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">20:39</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['검은사막 모바일'도 새소식 한가득. '스칼라'와 '창귀의 밤' 공개]]></title>
+        <id>https://v.daum.net/v/20231217202701120</id>
+        <link href="https://v.daum.net/v/20231217202701120"/>
+        <updated>2023-12-17T12:28:14.071Z</updated>
+        <content type="html"><![CDATA[게임동아<span class="txt_bar"> · </span><span class="info_time">20:27</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스마일게이트 '로스트아크', 신규 디렉터로 전재학 팀장 선임]]></title>
+        <id>https://v.daum.net/v/20231217202131090</id>
+        <link href="https://v.daum.net/v/20231217202131090"/>
+        <updated>2023-12-17T12:28:14.071Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">20:21</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[펄어비스 ‘검은사막 모바일’, 겨울 시즌 ‘돌입’…‘스칼라’도 등장]]></title>
+        <id>https://v.daum.net/v/20231217201802065</id>
+        <link href="https://v.daum.net/v/20231217201802065"/>
+        <updated>2023-12-17T12:28:14.072Z</updated>
+        <content type="html"><![CDATA[매경게임진<span class="txt_bar"> · </span><span class="info_time">20:18</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['검은사막 모바일' 칼페온 연회 개최…신규 직업 '스칼라' 출시 예고]]></title>
         <id>https://v.daum.net/v/20231217201223018</id>
@@ -13,7 +41,7 @@
         <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">20:12</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한국 ‘다누리’가 밝혀낸 ‘뭔가 다른 달의 뒤편’]]></title>
+        <title type="html"><![CDATA[한국 탐사선 ‘다누리’, 달 뒤편서 고에너지 전자기 복사 첫 관측]]></title>
         <id>https://v.daum.net/v/20231217201015992</id>
         <link href="https://v.daum.net/v/20231217201015992"/>
         <updated>2023-12-17T11:15:41.470Z</updated>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20231217183446070"/>
         <updated>2023-12-17T10:17:50.426Z</updated>
         <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">18:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밖으로 쏟아진 게이머들…연말 축제에 '60배' 암표 나왔다]]></title>
-        <id>https://v.daum.net/v/20231217183305061</id>
-        <link href="https://v.daum.net/v/20231217183305061"/>
-        <updated>2023-12-17T10:17:50.427Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">18:33</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[테크&포커스] 서울~대전 100만분의 4초 내 전송… 검증 마친 혁신기술들 상용화 도전]]></title>
-        <id>https://v.daum.net/v/20231217183058033</id>
-        <link href="https://v.daum.net/v/20231217183058033"/>
-        <updated>2023-12-17T10:17:50.428Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">18:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[테크&포커스] 5G-A로 진화한 테스트베드, AI·XR·위성통신까지 접목]]></title>
-        <id>https://v.daum.net/v/20231217183055032</id>
-        <link href="https://v.daum.net/v/20231217183055032"/>
-        <updated>2023-12-17T10:17:50.430Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">18:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[테크&포커스] 자율차·UAM·메타버스 `혁신 질주`… 6G·양자로 진화하는 `코렌`]]></title>
-        <id>https://v.daum.net/v/20231217183048031</id>
-        <link href="https://v.daum.net/v/20231217183048031"/>
-        <updated>2023-12-17T10:17:50.431Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">18:30</span>]]></content>
     </entry>
 </feed>
