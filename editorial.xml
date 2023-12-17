@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-12-17T03:16:26.670Z</updated>
+    <updated>2023-12-17T04:21:32.587Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사설] 윤석열 외교, 북핵 대응도 ‘119대 29’로 할 건가]]></title>
+        <id>https://v.daum.net/v/20231217131005656</id>
+        <link href="https://v.daum.net/v/20231217131005656"/>
+        <updated>2023-12-17T04:21:12.287Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">13:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ET단상]짝퉁·영업비밀 침해 근절, 부정경쟁방지법 개정안 빨리 처리해야]]></title>
+        <id>https://v.daum.net/v/20231217125103386</id>
+        <link href="https://v.daum.net/v/20231217125103386"/>
+        <updated>2023-12-17T04:21:12.288Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">12:51</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[투데이 窓]민간주도 벤처투자 마중물 역할을 위한 BDC]]></title>
         <id>https://v.daum.net/v/20231217120055794</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231217070300223"/>
         <updated>2023-12-16T22:13:52.301Z</updated>
         <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">07:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인사] 과학기술정보통신부]]></title>
-        <id>https://v.daum.net/v/20231217060108839</id>
-        <link href="https://v.daum.net/v/20231217060108839"/>
-        <updated>2023-12-16T21:13:40.924Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">06:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이탈리아 예술의 모든 것을 담은 ‘이탈리아 미술관 산책’[이 책]]]></title>
-        <id>https://v.daum.net/v/20231217014923356</id>
-        <link href="https://v.daum.net/v/20231217014923356"/>
-        <updated>2023-12-16T17:13:06.945Z</updated>
-        <content type="html"><![CDATA[스포츠경향<span class="txt_bar"> · </span><span class="info_time">01:49</span>]]></content>
     </entry>
 </feed>
