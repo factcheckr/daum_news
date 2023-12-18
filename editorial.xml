@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-12-18T22:15:02.212Z</updated>
+    <updated>2023-12-18T23:17:13.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](19일 조간)]]></title>
+        <id>https://v.daum.net/v/20231219080005367</id>
+        <link href="https://v.daum.net/v/20231219080005367"/>
+        <updated>2023-12-18T23:16:58.402Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연합뉴스 이 시각 헤드라인] - 07:30]]></title>
+        <id>https://v.daum.net/v/20231219073005993</id>
+        <link href="https://v.daum.net/v/20231219073005993"/>
+        <updated>2023-12-18T23:16:58.402Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">07:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[환자 마음을 치료하기 위한 진료 스킬은…]]></title>
+        <id>https://v.daum.net/v/20231219071517849</id>
+        <link href="https://v.daum.net/v/20231219071517849"/>
+        <updated>2023-12-18T23:16:58.403Z</updated>
+        <content type="html"><![CDATA[헬스조선<span class="txt_bar"> · </span><span class="info_time">07:15</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[그러지 말라고 예수가 왔다]]></title>
         <id>https://v.daum.net/v/20231219070512705</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20231219060649941"/>
         <updated>2023-12-18T21:13:44.440Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">06:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 막대한 혈세 투입되는 공무원·군인연금 수술 서두를 때다]]></title>
-        <id>https://v.daum.net/v/20231219060628938</id>
-        <link href="https://v.daum.net/v/20231219060628938"/>
-        <updated>2023-12-18T21:13:44.441Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">06:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박순찬의 장도리 카툰] 검찰병풍]]></title>
-        <id>https://v.daum.net/v/20231219060300894</id>
-        <link href="https://v.daum.net/v/20231219060300894"/>
-        <updated>2023-12-18T21:13:44.441Z</updated>
-        <content type="html"><![CDATA[오마이뉴스<span class="txt_bar"> · </span><span class="info_time">06:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기고] 건강한 스타트업 조직문화 만드는 소통법]]></title>
-        <id>https://v.daum.net/v/20231219060039760</id>
-        <link href="https://v.daum.net/v/20231219060039760"/>
-        <updated>2023-12-18T21:13:44.442Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
     </entry>
 </feed>
