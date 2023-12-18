@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-12-18T12:29:59.861Z</updated>
+    <updated>2023-12-18T13:20:04.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 12월 19일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20231218220116052</id>
+        <link href="https://v.daum.net/v/20231218220116052"/>
+        <updated>2023-12-18T13:19:45.739Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[만물상] 파란만장한 해협의 역사]]></title>
+        <id>https://v.daum.net/v/20231218214604886</id>
+        <link href="https://v.daum.net/v/20231218214604886"/>
+        <updated>2023-12-18T13:19:45.741Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">21:46</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김동연 "김대중 대통령님 소신·국정철학·애국심 다시 떠올리며 감동"]]></title>
         <id>https://v.daum.net/v/20231218210624505</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20231218201316835</id>
         <link href="https://v.daum.net/v/20231218201316835"/>
         <updated>2023-12-18T11:13:58.277Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[To jump ship or not to jump]]></title>
-        <id>https://v.daum.net/v/20231218201315833</id>
-        <link href="https://v.daum.net/v/20231218201315833"/>
-        <updated>2023-12-18T11:13:58.277Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[생각그림] 내 마음속 커다란 세상]]></title>
-        <id>https://v.daum.net/v/20231218201311829</id>
-        <link href="https://v.daum.net/v/20231218201311829"/>
-        <updated>2023-12-18T11:13:58.279Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:13</span>]]></content>
     </entry>
 </feed>
