@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-12-18T16:20:04.855Z</updated>
+    <updated>2023-12-18T17:14:53.399Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]교육부-대학 인적교류를 확대하는 발상의 대전환]]></title>
+        <id>https://v.daum.net/v/20231219020304434</id>
+        <link href="https://v.daum.net/v/20231219020304434"/>
+        <updated>2023-12-18T17:14:34.757Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]이민 개방과 대국-소국의 갈림길]]></title>
+        <id>https://v.daum.net/v/20231219020302433</id>
+        <link href="https://v.daum.net/v/20231219020302433"/>
+        <updated>2023-12-18T17:14:34.758Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 혁신은커녕 권력 줄 서느라 바쁜 역대 최악의 초선들]]></title>
         <id>https://v.daum.net/v/20231219005949233</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231219002846101"/>
         <updated>2023-12-18T16:19:48.383Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:28</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박선영의 마켓 나우] 블록체인의 ‘야누스적 순간’]]></title>
-        <id>https://v.daum.net/v/20231219002547091</id>
-        <link href="https://v.daum.net/v/20231219002547091"/>
-        <updated>2023-12-18T16:19:48.384Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[홍영식 칼럼] 타락한 비례대표제, 이럴 바엔 차라리 없애라]]></title>
-        <id>https://v.daum.net/v/20231219002401081</id>
-        <link href="https://v.daum.net/v/20231219002401081"/>
-        <updated>2023-12-18T16:19:48.385Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:24</span>]]></content>
     </entry>
 </feed>

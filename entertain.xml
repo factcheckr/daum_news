@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2023-12-18T16:20:04.846Z</updated>
+    <updated>2023-12-18T17:14:53.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김성규, 한산→노량까지...스크린 압도하는 존재감]]></title>
+        <id>https://v.daum.net/v/20231219020400435</id>
+        <link href="https://v.daum.net/v/20231219020400435"/>
+        <updated>2023-12-18T17:14:09.490Z</updated>
+        <content type="html"><![CDATA[TV리포트<span class="txt_bar"> · </span><span class="info_time">02:04</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘알콜 지옥’ ‘몰표’ 이재은, 두 번째 탈락자 확정 “의지가 없어 보였다”]]></title>
+        <id>https://v.daum.net/v/20231219015444422</id>
+        <link href="https://v.daum.net/v/20231219015444422"/>
+        <updated>2023-12-18T17:14:09.490Z</updated>
+        <content type="html"><![CDATA[MBC연예<span class="txt_bar"> · </span><span class="info_time">01:54</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마약·파경설 찰스 근황 공개…옥탑방 살이 왜?]]></title>
+        <id>https://v.daum.net/v/20231219012607360</id>
+        <link href="https://v.daum.net/v/20231219012607360"/>
+        <updated>2023-12-18T17:14:09.490Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">01:26</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘이재, 곧 죽습니다’ 유인수, 실감나고 살벌한 호연]]></title>
+        <id>https://v.daum.net/v/20231219012311330</id>
+        <link href="https://v.daum.net/v/20231219012311330"/>
+        <updated>2023-12-18T17:14:09.492Z</updated>
+        <content type="html"><![CDATA[스포츠경향<span class="txt_bar"> · </span><span class="info_time">01:23</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최성국 아내 난산 위험에 눈물 "산모나 아이 잘못될까 매일 두려워"(조선의사랑꾼)]]></title>
         <id>https://v.daum.net/v/20231219011043278</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20231219003030119"/>
         <updated>2023-12-18T16:19:24.359Z</updated>
         <content type="html"><![CDATA[TV리포트<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 ‘서울의 봄’ 개봉 27일만에 900만 관객 돌파 [연예뉴스 HOT]]]></title>
-        <id>https://v.daum.net/v/20231219003015117</id>
-        <link href="https://v.daum.net/v/20231219003015117"/>
-        <updated>2023-12-18T16:19:24.360Z</updated>
-        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방시혁 의장, 문화·콘텐츠 주식 3조원 보유 1위 [연예뉴스 HOT]]]></title>
-        <id>https://v.daum.net/v/20231219003013115</id>
-        <link href="https://v.daum.net/v/20231219003013115"/>
-        <updated>2023-12-18T16:19:24.361Z</updated>
-        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['시골경찰2' 안정환, 발령 첫날 지각…"경치가 너무 좋아서"]]></title>
-        <id>https://v.daum.net/v/20231219003011113</id>
-        <link href="https://v.daum.net/v/20231219003011113"/>
-        <updated>2023-12-18T16:19:24.363Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘범죄도시3’ 마동석, 올해 활약한 영화배우 1위 [연예뉴스 HOT]]]></title>
-        <id>https://v.daum.net/v/20231219003011112</id>
-        <link href="https://v.daum.net/v/20231219003011112"/>
-        <updated>2023-12-18T16:19:24.364Z</updated>
-        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
     </entry>
 </feed>
