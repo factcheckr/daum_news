@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2023-12-18T15:16:27.700Z</updated>
+    <updated>2023-12-18T16:20:04.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴욕증시, 연준 당국자 발언 소화하며 상승 출발]]></title>
+        <id>https://v.daum.net/v/20231219004410162</id>
+        <link href="https://v.daum.net/v/20231219004410162"/>
+        <updated>2023-12-18T16:19:03.338Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">00:44</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美연준 '비둘기 전환'에 투자은행도 내년 증시전망 상향]]></title>
         <id>https://v.daum.net/v/20231219001330038</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20231219000357859</id>
         <link href="https://v.daum.net/v/20231219000357859"/>
         <updated>2023-12-18T15:15:19.294Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Biz & Now] 정부, 청정수소 인증제 운영…수소차 30만대 보급 목표]]></title>
-        <id>https://v.daum.net/v/20231219000355858</id>
-        <link href="https://v.daum.net/v/20231219000355858"/>
-        <updated>2023-12-18T15:15:19.296Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
     </entry>
 </feed>
