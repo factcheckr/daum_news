@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/</id>
     <title>다음 뉴스 ─ 전체기사 ─ 최신</title>
-    <updated>2023-12-18T21:14:01.828Z</updated>
+    <updated>2023-12-18T22:15:02.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[속보] 법원, 송영길 구속영장 발부···증거인멸 염려 등 사유]]></title>
+        <id>https://v.daum.net/v/20231219000108766</id>
+        <link href="https://v.daum.net/v/20231219000108766"/>
+        <updated>2023-12-18T22:13:30.867Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수도권 등 한때 눈·비···기온 올라도 추위는 이어져[오늘 날씨]]]></title>
         <id>https://v.daum.net/v/20231219000103765</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231219000032752"/>
         <updated>2023-12-18T20:14:54.642Z</updated>
         <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[눈썰매 등 수입 겨울용품 47만개 안전기준 위반으로 ‘차단’]]></title>
-        <id>https://v.daum.net/v/20231219000031751</id>
-        <link href="https://v.daum.net/v/20231219000031751"/>
-        <updated>2023-12-18T20:14:54.644Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
