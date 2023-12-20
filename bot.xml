@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2023-12-20T07:12:35.266Z</updated>
+    <updated>2023-12-20T08:16:31.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가상화폐 비트코인 0.89% 상승, 스택스 16.15% 상승]]></title>
+        <id>https://v.daum.net/v/20231220163117698</id>
+        <link href="https://v.daum.net/v/20231220163117698"/>
+        <updated>2023-12-20T08:16:31.234Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">16:31</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울 신정동 목동12단지 60㎡ 8억1000만원... 역대 최고가]]></title>
+        <id>https://v.daum.net/v/20231220161530070</id>
+        <link href="https://v.daum.net/v/20231220161530070"/>
+        <updated>2023-12-20T08:16:31.235Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">16:15</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울 거여동 송파 시그니처 롯데캐슬아파트 84㎡ 14억7000만원... 역대 최고가]]></title>
         <id>https://v.daum.net/v/20231220161055890</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231220151046190"/>
         <updated>2023-12-20T06:17:51.399Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">15:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 만수동 햇빛마을벽산아파트 59㎡ 2억5000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20231220150544876</id>
-        <link href="https://v.daum.net/v/20231220150544876"/>
-        <updated>2023-12-20T06:17:51.399Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">15:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 동춘동 연수 대우삼환 아파트 90㎡ 4억원에 거래]]></title>
-        <id>https://v.daum.net/v/20231220150052566</id>
-        <link href="https://v.daum.net/v/20231220150052566"/>
-        <updated>2023-12-20T06:17:51.400Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">15:00</span>]]></content>
     </entry>
 </feed>
