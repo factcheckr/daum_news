@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2023-12-20T16:18:41.677Z</updated>
+    <updated>2023-12-20T17:13:04.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[선거 90일 전부터 '딥페이크 영상' 금지...내년 총선 적용]]></title>
+        <id>https://v.daum.net/v/20231221021015413</id>
+        <link href="https://v.daum.net/v/20231221021015413"/>
+        <updated>2023-12-20T17:11:54.224Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">02:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[예멘 반군, "미국에 공격받으면 직접 반격" 경고]]></title>
+        <id>https://v.daum.net/v/20231221015403377</id>
+        <link href="https://v.daum.net/v/20231221015403377"/>
+        <updated>2023-12-20T17:11:54.224Z</updated>
+        <content type="html"><![CDATA[SBS<span class="txt_bar"> · </span><span class="info_time">01:54</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국민의힘, 이르면 오늘 비상대책위원장 발표…“한동훈 장관으로 사실상 결론”]]></title>
         <id>https://v.daum.net/v/20231221010018259</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231221000606005"/>
         <updated>2023-12-20T15:13:03.182Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“카카오 제휴사 한정 뉴스검색 서비스 언론선택권 침해”]]></title>
-        <id>https://v.daum.net/v/20231221000549983</id>
-        <link href="https://v.daum.net/v/20231221000549983"/>
-        <updated>2023-12-20T15:13:03.182Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[평창군민 생활 밀착형 조례 발굴 ‘체감 의정’ 구현]]></title>
-        <id>https://v.daum.net/v/20231221000518957</id>
-        <link href="https://v.daum.net/v/20231221000518957"/>
-        <updated>2023-12-20T15:13:03.185Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
     </entry>
 </feed>
