@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-12-21T12:27:55.492Z</updated>
+    <updated>2023-12-21T13:18:52.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[보겸 "던파 앰버서더로서 당당한 모습 보여주겠다"]]></title>
+        <id>https://v.daum.net/v/20231221214859437</id>
+        <link href="https://v.daum.net/v/20231221214859437"/>
+        <updated>2023-12-21T13:18:26.191Z</updated>
+        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">21:48</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R&D 예산 14.6% 삭감 확정…정부안 대비 6217억원 증액]]></title>
+        <id>https://v.daum.net/v/20231221213238309</id>
+        <link href="https://v.daum.net/v/20231221213238309"/>
+        <updated>2023-12-21T13:18:26.192Z</updated>
+        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">21:32</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[옛 트위터 'X' 또 전세계 '먹통'…"머스크 인수 뒤로 몇번째야"]]></title>
         <id>https://v.daum.net/v/20231221212657255</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231221202327418"/>
         <updated>2023-12-21T12:27:28.463Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">20:23</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과기정통부 내년 예산 18조6천억원…올해보다 1.6% 감소]]></title>
-        <id>https://v.daum.net/v/20231221201849337</id>
-        <link href="https://v.daum.net/v/20231221201849337"/>
-        <updated>2023-12-21T12:27:28.464Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">20:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내년 정부 R&D 예산 26.5조 원 확정...올해보다 4.6조 원 줄어]]></title>
-        <id>https://v.daum.net/v/20231221201800323</id>
-        <link href="https://v.daum.net/v/20231221201800323"/>
-        <updated>2023-12-21T12:27:28.466Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">20:18</span>]]></content>
     </entry>
 </feed>
