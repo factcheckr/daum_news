@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2023-12-22T18:19:48.107Z</updated>
+    <updated>2023-12-22T19:13:08.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서울 ‘내집 마련’ 더 멀어져… 월급 한푼 안써도 15년]]></title>
+        <id>https://v.daum.net/v/20231223040319603</id>
+        <link href="https://v.daum.net/v/20231223040319603"/>
+        <updated>2023-12-22T19:12:00.481Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中 온라인게임 규제강화...텐센트 시총 59.8조원 날아가]]></title>
+        <id>https://v.daum.net/v/20231223034619579</id>
+        <link href="https://v.daum.net/v/20231223034619579"/>
+        <updated>2023-12-22T19:12:00.483Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">03:46</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고려아연 이웃사랑 성금 30억]]></title>
         <id>https://v.daum.net/v/20231223030419500</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231223014205315"/>
         <updated>2023-12-22T17:12:57.217Z</updated>
         <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">01:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금감원, ‘배터리 아저씨’ 박순혁 압수수색]]></title>
-        <id>https://v.daum.net/v/20231223014200311</id>
-        <link href="https://v.daum.net/v/20231223014200311"/>
-        <updated>2023-12-22T17:12:57.217Z</updated>
-        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">01:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버 ‘뉴스 혁신준비포럼’ 출범… 총선 앞두고 허위정보 대응 등 논의]]></title>
-        <id>https://v.daum.net/v/20231223014106289</id>
-        <link href="https://v.daum.net/v/20231223014106289"/>
-        <updated>2023-12-22T17:12:57.217Z</updated>
-        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">01:41</span>]]></content>
     </entry>
 </feed>
