@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-12-22T06:20:52.067Z</updated>
+    <updated>2023-12-22T07:14:41.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[존 시치가 소리내다] 부모 한쪽의 일방적 자녀 탈취 안 된다...헤이그협약 제대로 이행하길]]></title>
+        <id>https://v.daum.net/v/20231222160027803</id>
+        <link href="https://v.daum.net/v/20231222160027803"/>
+        <updated>2023-12-22T07:14:25.880Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">16:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[지평선] 반감기와 비트코인]]></title>
+        <id>https://v.daum.net/v/20231222160003773</id>
+        <link href="https://v.daum.net/v/20231222160003773"/>
+        <updated>2023-12-22T07:14:25.880Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">16:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[춥다고 안에만 있을 거야? 운동 자극 되는 셀렙 오운완 인증샷]]></title>
         <id>https://v.daum.net/v/20231222151612358</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231222114515065"/>
         <updated>2023-12-22T03:16:47.855Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘민주’ 모독하는 민주당 파렴치 본색[김종호의 시론]]]></title>
-        <id>https://v.daum.net/v/20231222114511062</id>
-        <link href="https://v.daum.net/v/20231222114511062"/>
-        <updated>2023-12-22T03:16:47.856Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공공주택 건설 혁신 방향과 LH의 책임[문화논단]]]></title>
-        <id>https://v.daum.net/v/20231222114219984</id>
-        <link href="https://v.daum.net/v/20231222114219984"/>
-        <updated>2023-12-22T03:16:47.858Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:42</span>]]></content>
     </entry>
 </feed>
