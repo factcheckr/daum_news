@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-12-23T08:20:23.947Z</updated>
+    <updated>2023-12-23T09:14:50.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[써보니] 의외로 재밌네? 카톡 'AI 대화 요약·말투 변경']]></title>
+        <id>https://v.daum.net/v/20231223180103928</id>
+        <link href="https://v.daum.net/v/20231223180103928"/>
+        <updated>2023-12-23T09:14:17.743Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">18:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[위메이드, ‘미르M’ 中 외자판호 발급]]></title>
+        <id>https://v.daum.net/v/20231223173958679</id>
+        <link href="https://v.daum.net/v/20231223173958679"/>
+        <updated>2023-12-23T09:14:17.744Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">17:39</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“포항제철소 화재, 원인 파악해 재발 방지해야”]]></title>
         <id>https://v.daum.net/v/20231223170642492</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231223140003016"/>
         <updated>2023-12-23T05:14:21.311Z</updated>
         <content type="html"><![CDATA[비즈워치<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비만 치료제 "인류 구할 혁신신약" vs "과열에 부작용 우려" [비만약 광풍의 명암]]]></title>
-        <id>https://v.daum.net/v/20231223140003014</id>
-        <link href="https://v.daum.net/v/20231223140003014"/>
-        <updated>2023-12-23T05:14:21.313Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“30만원짜리 이 운동화를 1500만원에 팔아?” 되팔이 ‘돈벌이’ 난리 나더니, 떼돈 몰렸다]]></title>
-        <id>https://v.daum.net/v/20231223135104957</id>
-        <link href="https://v.daum.net/v/20231223135104957"/>
-        <updated>2023-12-23T05:14:21.314Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">13:51</span>]]></content>
     </entry>
 </feed>

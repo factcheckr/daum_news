@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-12-23T08:20:23.940Z</updated>
+    <updated>2023-12-23T09:14:50.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MBK는 왜?···국내 대기업으로부터 ‘독립 선언’ [김영필의 SIGNAL]]]></title>
+        <id>https://v.daum.net/v/20231223180721980</id>
+        <link href="https://v.daum.net/v/20231223180721980"/>
+        <updated>2023-12-23T09:14:28.649Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">18:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주요 신문 사설](23일 조간)]]></title>
         <id>https://v.daum.net/v/20231223100009183</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20231223041022629</id>
         <link href="https://v.daum.net/v/20231223041022629"/>
         <updated>2023-12-22T19:12:46.249Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[빛과 소금] 성탄의 재구성]]></title>
-        <id>https://v.daum.net/v/20231223041020628</id>
-        <link href="https://v.daum.net/v/20231223041020628"/>
-        <updated>2023-12-22T19:12:46.251Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:10</span>]]></content>
     </entry>
 </feed>
