@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-12-23T13:17:07.859Z</updated>
+    <updated>2023-12-23T14:13:41.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["제로딜" 12월 23일 캐시워크 퀴즈 정답 공개]]></title>
+        <id>https://v.daum.net/v/20231223224411950</id>
+        <link href="https://v.daum.net/v/20231223224411950"/>
+        <updated>2023-12-23T14:13:17.274Z</updated>
+        <content type="html"><![CDATA[스포츠한국<span class="txt_bar"> · </span><span class="info_time">22:44</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오픈AI, 신규자금 조달 협상…"기업가치 130조원"]]></title>
+        <id>https://v.daum.net/v/20231223224008908</id>
+        <link href="https://v.daum.net/v/20231223224008908"/>
+        <updated>2023-12-23T14:13:17.274Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">22:40</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아주대, 반도체 측정 위한 전자현미경 코팅 장비 및 공정 기술이전]]></title>
         <id>https://v.daum.net/v/20231223221103599</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231223170212475"/>
         <updated>2023-12-23T08:19:50.369Z</updated>
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">17:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“이달 월급도 몽땅 코인 샀다” 12억원어치 코인 ‘몰빵’한 이 남자]]></title>
-        <id>https://v.daum.net/v/20231223165101407</id>
-        <link href="https://v.daum.net/v/20231223165101407"/>
-        <updated>2023-12-23T08:19:50.370Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">16:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전문의 "비만 약 만능 아냐... 운동 없이 살 빠지지 않아요" [비만약 광풍의 명암]]]></title>
-        <id>https://v.daum.net/v/20231223160007994</id>
-        <link href="https://v.daum.net/v/20231223160007994"/>
-        <updated>2023-12-23T07:13:45.027Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">16:00</span>]]></content>
     </entry>
 </feed>
