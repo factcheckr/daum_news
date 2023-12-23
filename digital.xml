@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-12-23T09:14:50.359Z</updated>
+    <updated>2023-12-23T10:18:27.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[산업부 장관 “조속한 복구…재발 방지 대책 마련해야”]]></title>
+        <id>https://v.daum.net/v/20231223190740346</id>
+        <link href="https://v.daum.net/v/20231223190740346"/>
+        <updated>2023-12-23T10:17:59.570Z</updated>
+        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">19:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“삼성 이러다 사달난다” 5만원 애플 제품이 뭐라고…폭발한 사람들]]></title>
+        <id>https://v.daum.net/v/20231223184100171</id>
+        <link href="https://v.daum.net/v/20231223184100171"/>
+        <updated>2023-12-23T10:17:59.570Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">18:41</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[써보니] 의외로 재밌네? 카톡 'AI 대화 요약·말투 변경']]></title>
         <id>https://v.daum.net/v/20231223180103928</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231223140035037"/>
         <updated>2023-12-23T05:14:21.309Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원하는 결말 보려고 다시 본다…난리난 'MBTI 소개팅' 뭐길래]]></title>
-        <id>https://v.daum.net/v/20231223140029035</id>
-        <link href="https://v.daum.net/v/20231223140029035"/>
-        <updated>2023-12-23T05:14:21.311Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3파전 된 '제4이통사', 이번엔 성공할까]]></title>
-        <id>https://v.daum.net/v/20231223140003016</id>
-        <link href="https://v.daum.net/v/20231223140003016"/>
-        <updated>2023-12-23T05:14:21.311Z</updated>
-        <content type="html"><![CDATA[비즈워치<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
     </entry>
 </feed>
