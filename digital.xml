@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-12-23T12:26:04.429Z</updated>
+    <updated>2023-12-23T13:17:07.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아주대, 반도체 측정 위한 전자현미경 코팅 장비 및 공정 기술이전]]></title>
+        <id>https://v.daum.net/v/20231223221103599</id>
+        <link href="https://v.daum.net/v/20231223221103599"/>
+        <updated>2023-12-23T13:16:37.266Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">22:11</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘팀네이버’ 최근 5년간 AI 논문 347편 발표했고 3만회 이상 인용됐다]]></title>
+        <id>https://v.daum.net/v/20231223220108496</id>
+        <link href="https://v.daum.net/v/20231223220108496"/>
+        <updated>2023-12-23T13:16:37.266Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[산업장관 “포항제철소 생산 영향 최소화에 전력”]]></title>
         <id>https://v.daum.net/v/20231223211003024</id>
@@ -48,7 +62,7 @@
         <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">19:07</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“삼성 이러다 사달난다”…‘5만원’ 애플 제품에 폭발한 사람들]]></title>
+        <title type="html"><![CDATA[“삼성도 빨리 만들어라”…‘5만원’ 애플 제품에 폭발한 사람들]]></title>
         <id>https://v.daum.net/v/20231223184100171</id>
         <link href="https://v.daum.net/v/20231223184100171"/>
         <updated>2023-12-23T10:17:59.570Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231223160007994"/>
         <updated>2023-12-23T07:13:45.027Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">16:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“사진 속 두 트리 비슷한가요?” ‘아이디어 베끼기’ 두고 시끌]]></title>
-        <id>https://v.daum.net/v/20231223153107807</id>
-        <link href="https://v.daum.net/v/20231223153107807"/>
-        <updated>2023-12-23T07:13:45.028Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">15:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[산업장관 “포항제철소 화재, 생산 영향 최소화에 전력”]]></title>
-        <id>https://v.daum.net/v/20231223151354698</id>
-        <link href="https://v.daum.net/v/20231223151354698"/>
-        <updated>2023-12-23T06:19:25.243Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">15:13</span>]]></content>
     </entry>
 </feed>
