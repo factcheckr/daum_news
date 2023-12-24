@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-12-24T13:17:00.408Z</updated>
+    <updated>2023-12-24T14:13:30.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["애플, AI 훈련에 뉴스콘텐츠 쓰는데 최소 650억 제안"]]></title>
+        <id>https://v.daum.net/v/20231224224809345</id>
+        <link href="https://v.daum.net/v/20231224224809345"/>
+        <updated>2023-12-24T14:13:08.178Z</updated>
+        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">22:48</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[재채기, 절대 참으면 안되는 이유…기도 압력 순식간에 20배↑]]></title>
+        <id>https://v.daum.net/v/20231224221809211</id>
+        <link href="https://v.daum.net/v/20231224221809211"/>
+        <updated>2023-12-24T14:13:08.178Z</updated>
+        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">22:18</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[과학이 찾아낸 가장 완벽한 턱선 미인은?…"너무 V여도 No"]]></title>
         <id>https://v.daum.net/v/20231224215609058</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231224200117331"/>
         <updated>2023-12-24T11:12:26.847Z</updated>
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">20:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“간단한 망막사진 촬영으로 의료 현장에 혁신”]]></title>
-        <id>https://v.daum.net/v/20231224200000313</id>
-        <link href="https://v.daum.net/v/20231224200000313"/>
-        <updated>2023-12-24T11:12:26.847Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">20:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내 기업, 생성형 AI 제품화 속도...해외 진출 확대]]></title>
-        <id>https://v.daum.net/v/20231224195858307</id>
-        <link href="https://v.daum.net/v/20231224195858307"/>
-        <updated>2023-12-24T11:12:26.849Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">19:58</span>]]></content>
     </entry>
 </feed>
