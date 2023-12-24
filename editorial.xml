@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-12-24T21:13:15.842Z</updated>
+    <updated>2023-12-24T22:14:23.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송년회 다음날 ‘불청객’ 숙취 안 만나려면[메디칼럼](34)]]></title>
+        <id>https://v.daum.net/v/20231225070106346</id>
+        <link href="https://v.daum.net/v/20231225070106346"/>
+        <updated>2023-12-24T22:14:06.394Z</updated>
+        <content type="html"><![CDATA[주간경향<span class="txt_bar"> · </span><span class="info_time">07:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[이충재의 인사이트] '김건희 명품백' 의혹, 특검법에 추가되나]]></title>
+        <id>https://v.daum.net/v/20231225062401021</id>
+        <link href="https://v.daum.net/v/20231225062401021"/>
+        <updated>2023-12-24T22:14:06.396Z</updated>
+        <content type="html"><![CDATA[오마이뉴스<span class="txt_bar"> · </span><span class="info_time">06:24</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[형제복지원 국가배상 책임 첫 인정됐다 [기자들의 시선]]]></title>
         <id>https://v.daum.net/v/20231225061242874</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231225050307541"/>
         <updated>2023-12-24T20:15:16.138Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 이태원특별법 중재안도 외면 여당, 오체투지 유족 돌아보길]]></title>
-        <id>https://v.daum.net/v/20231225043134416</id>
-        <link href="https://v.daum.net/v/20231225043134416"/>
-        <updated>2023-12-24T20:15:16.139Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 한반도 위기 속 천안함 부활… 예측불가 北 도발 경계 계기로]]></title>
-        <id>https://v.daum.net/v/20231225043125414</id>
-        <link href="https://v.daum.net/v/20231225043125414"/>
-        <updated>2023-12-24T20:15:16.141Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:31</span>]]></content>
     </entry>
 </feed>
