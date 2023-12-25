@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-12-25T12:27:26.932Z</updated>
+    <updated>2023-12-25T13:18:03.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 12월 26일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20231225220101929</id>
+        <link href="https://v.daum.net/v/20231225220101929"/>
+        <updated>2023-12-25T13:17:46.381Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안중근 의사 유묵을 바라보다 [김선걸 칼럼]]]></title>
         <id>https://v.daum.net/v/20231225210309379</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231225200253694"/>
         <updated>2023-12-25T11:13:18.795Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Toward innovation!]]></title>
-        <id>https://v.daum.net/v/20231225200112671</id>
-        <link href="https://v.daum.net/v/20231225200112671"/>
-        <updated>2023-12-25T11:13:18.796Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:01</span>]]></content>
     </entry>
 </feed>
