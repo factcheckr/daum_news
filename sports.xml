@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/sports</id>
     <title>다음 뉴스 ─ 전체기사 ─ 스포츠</title>
-    <updated>2023-12-25T18:19:08.679Z</updated>
+    <updated>2023-12-25T19:13:46.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“동계스포츠로 동반 성장… 청소년 문화축제 만들 것”]]></title>
+        <id>https://v.daum.net/v/20231226040523668</id>
+        <link href="https://v.daum.net/v/20231226040523668"/>
+        <updated>2023-12-25T19:13:08.423Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1년 만에… 몸값 치솟은 김하성]]></title>
+        <id>https://v.daum.net/v/20231226040424653</id>
+        <link href="https://v.daum.net/v/20231226040424653"/>
+        <updated>2023-12-25T19:13:08.424Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:04</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘부진’ 맨유 달라질까… 감독 경질 위기]]></title>
+        <id>https://v.daum.net/v/20231226040419650</id>
+        <link href="https://v.daum.net/v/20231226040419650"/>
+        <updated>2023-12-25T19:13:08.425Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:04</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이승현이 부활했다, KCC 7연승으로 성탄축배]]></title>
         <id>https://v.daum.net/v/20231226030317489</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20231226030209407"/>
         <updated>2023-12-25T18:18:31.566Z</updated>
         <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">03:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“청소년 겨울올림픽 첫 메달 도전… 후회없는 연기 하고 싶어”]]></title>
-        <id>https://v.daum.net/v/20231226030207403</id>
-        <link href="https://v.daum.net/v/20231226030207403"/>
-        <updated>2023-12-25T18:18:31.567Z</updated>
-        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">03:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 경기] 2023년 12월 26일]]></title>
-        <id>https://v.daum.net/v/20231226030151386</id>
-        <link href="https://v.daum.net/v/20231226030151386"/>
-        <updated>2023-12-25T18:18:31.569Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[스코어 보드] 2023년 12월 25일자]]></title>
-        <id>https://v.daum.net/v/20231226030143375</id>
-        <link href="https://v.daum.net/v/20231226030143375"/>
-        <updated>2023-12-25T18:18:31.570Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:01</span>]]></content>
     </entry>
 </feed>
