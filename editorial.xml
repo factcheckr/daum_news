@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-12-25T23:15:56.256Z</updated>
+    <updated>2023-12-26T01:03:14.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김건희 여사는 침묵할 권리가 없다]]></title>
+        <id>https://v.daum.net/v/20231226090501880</id>
+        <link href="https://v.daum.net/v/20231226090501880"/>
+        <updated>2023-12-26T01:02:56.838Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">09:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[역경계를 뒤집는 역발상 '베스트 10']]></title>
+        <id>https://v.daum.net/v/20231226085003457</id>
+        <link href="https://v.daum.net/v/20231226085003457"/>
+        <updated>2023-12-26T01:02:56.839Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">08:50</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 세계경제와 국제금융시장…어떻게 움직일까? [국제경제읽기 한상춘]]]></title>
         <id>https://v.daum.net/v/20231226075845556</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231226055002211"/>
         <updated>2023-12-25T21:13:54.054Z</updated>
         <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">05:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YTN이 시민 주주 모집하는 까닭은? [기자들의 시선]]]></title>
-        <id>https://v.daum.net/v/20231226054858203</id>
-        <link href="https://v.daum.net/v/20231226054858203"/>
-        <updated>2023-12-25T21:13:54.054Z</updated>
-        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">05:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정치인 한동훈, 개와 늑대의 시간은 끝났다 [편집국장의 편지]]]></title>
-        <id>https://v.daum.net/v/20231226054856202</id>
-        <link href="https://v.daum.net/v/20231226054856202"/>
-        <updated>2023-12-25T21:13:54.056Z</updated>
-        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">05:48</span>]]></content>
     </entry>
 </feed>
