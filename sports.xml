@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/sports</id>
     <title>다음 뉴스 ─ 전체기사 ─ 스포츠</title>
-    <updated>2023-12-26T16:19:18.698Z</updated>
+    <updated>2023-12-26T17:14:05.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BRITAIN SOCCER]]></title>
+        <id>https://v.daum.net/v/20231227014225909</id>
+        <link href="https://v.daum.net/v/20231227014225909"/>
+        <updated>2023-12-26T17:13:32.255Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">01:42</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘박싱데이 리그 선두 도전!’ 2위 리버풀, 번리전 선발 명단 공개]]></title>
+        <id>https://v.daum.net/v/20231227013309881</id>
+        <link href="https://v.daum.net/v/20231227013309881"/>
+        <updated>2023-12-26T17:13:32.255Z</updated>
+        <content type="html"><![CDATA[스포츠경향<span class="txt_bar"> · </span><span class="info_time">01:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인천 20주년의 다양한 이야기 담겼다... 다큐 영화 '비상 2023' 공개]]></title>
         <id>https://v.daum.net/v/20231227004548768</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231227002202691"/>
         <updated>2023-12-26T16:18:38.266Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스<span class="txt_bar"> · </span><span class="info_time">00:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메디슨이 아니라고?...英 매체 선정, 23-24시즌 'PL 최고 영입' TOP 15 공개]]></title>
-        <id>https://v.daum.net/v/20231227001406654</id>
-        <link href="https://v.daum.net/v/20231227001406654"/>
-        <updated>2023-12-26T15:14:49.022Z</updated>
-        <content type="html"><![CDATA[인터풋볼<span class="txt_bar"> · </span><span class="info_time">00:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘황당한 부상'에 가슴 찢어진 감독→경기중 자신과 부딪혀 부상 리버풀 LB→클롭“내 쇄골을 주고 싶다”]]></title>
-        <id>https://v.daum.net/v/20231227001006632</id>
-        <link href="https://v.daum.net/v/20231227001006632"/>
-        <updated>2023-12-26T15:14:49.024Z</updated>
-        <content type="html"><![CDATA[마이데일리<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
     </entry>
 </feed>
