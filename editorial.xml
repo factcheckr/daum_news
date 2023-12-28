@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-12-28T16:19:33.237Z</updated>
+    <updated>2023-12-28T17:13:50.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[청계광장]보신각 종소리]]></title>
+        <id>https://v.daum.net/v/20231229020501320</id>
+        <link href="https://v.daum.net/v/20231229020501320"/>
+        <updated>2023-12-28T17:13:37.627Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]탄소감축을 향한 다른 속도]]></title>
+        <id>https://v.daum.net/v/20231229020205315</id>
+        <link href="https://v.daum.net/v/20231229020205315"/>
+        <updated>2023-12-28T17:13:37.628Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]교수창업의 성공을 위한 최소 요건]]></title>
+        <id>https://v.daum.net/v/20231229020202314</id>
+        <link href="https://v.daum.net/v/20231229020202314"/>
+        <updated>2023-12-28T17:13:37.628Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 거야의 ‘총선용 쌍특검’ 폭주, 거부권만이 능사 아니다]]></title>
         <id>https://v.daum.net/v/20231229003915194</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20231229001733124"/>
         <updated>2023-12-28T16:19:14.342Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[천자칼럼] 수학지옥 vs 수학필수]]></title>
-        <id>https://v.daum.net/v/20231229001303116</id>
-        <link href="https://v.daum.net/v/20231229001303116"/>
-        <updated>2023-12-28T15:15:31.674Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이슈프리즘] 내년 경제도 장밋빛 아니다]]></title>
-        <id>https://v.daum.net/v/20231229001301115</id>
-        <link href="https://v.daum.net/v/20231229001301115"/>
-        <updated>2023-12-28T15:15:31.674Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오병상의 라이프톡] 슬픈 이선균]]></title>
-        <id>https://v.daum.net/v/20231229001252114</id>
-        <link href="https://v.daum.net/v/20231229001252114"/>
-        <updated>2023-12-28T15:15:31.675Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:12</span>]]></content>
     </entry>
 </feed>
