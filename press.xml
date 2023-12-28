@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-12-28T09:15:25.186Z</updated>
+    <updated>2023-12-28T10:17:02.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KB손해보험, 2024년 조직개편 및 임원인사 실시]]></title>
+        <id>https://v.daum.net/v/20231228184702561</id>
+        <link href="https://v.daum.net/v/20231228184702561"/>
+        <updated>2023-12-28T10:16:54.289Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">18:47</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘20살까지 건강하게’ 사조펫, 사조 벤티 영양제 X 밀키복이탄이 유튜브 광고 협찬]]></title>
+        <id>https://v.daum.net/v/20231228182703162</id>
+        <link href="https://v.daum.net/v/20231228182703162"/>
+        <updated>2023-12-28T10:16:54.290Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">18:27</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전남도교육청, 2023년 공공기관 청렴도 ‘2등급’]]></title>
         <id>https://v.daum.net/v/20231228175835456</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231228174938138"/>
         <updated>2023-12-28T09:15:18.187Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">17:49</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메가스터디 아카데미, ‘2023 올해의 우수브랜드 대상’ 취업교육 부문 1위 2년 연속 수상]]></title>
-        <id>https://v.daum.net/v/20231228174849124</id>
-        <link href="https://v.daum.net/v/20231228174849124"/>
-        <updated>2023-12-28T09:15:18.188Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">17:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미엘프로페셔널, ‘2023 올해의 우수브랜드 대상’ 헤어코스메틱 부문 3년 연속 1위 수상]]></title>
-        <id>https://v.daum.net/v/20231228174728062</id>
-        <link href="https://v.daum.net/v/20231228174728062"/>
-        <updated>2023-12-28T09:15:18.190Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">17:47</span>]]></content>
     </entry>
 </feed>
