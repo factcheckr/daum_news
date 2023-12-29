@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2023-12-29T09:15:32.130Z</updated>
+    <updated>2023-12-29T10:16:42.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[상허문화재단, 제23회 상허대상 후보자 추천 공고]]></title>
+        <id>https://v.daum.net/v/20231229181703047</id>
+        <link href="https://v.daum.net/v/20231229181703047"/>
+        <updated>2023-12-29T10:16:32.822Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">18:17</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연말연시 해외여행 갈 때 감염병 주의해야]]></title>
         <id>https://v.daum.net/v/20231229174953592</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20231229164104989"/>
         <updated>2023-12-29T08:18:52.937Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">16:41</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 한국교회 가장 긍정적 인물 ‘이영훈 목사’]]></title>
-        <id>https://v.daum.net/v/20231229163934951</id>
-        <link href="https://v.daum.net/v/20231229163934951"/>
-        <updated>2023-12-29T08:18:52.938Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">16:39</span>]]></content>
     </entry>
 </feed>
