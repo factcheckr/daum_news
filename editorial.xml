@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-12-30T02:25:24.610Z</updated>
+    <updated>2023-12-30T03:16:06.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['포스트 박찬욱·봉준호'를 다시 생각한다 [라제기의 슛 & 숏]]]></title>
+        <id>https://v.daum.net/v/20231230120103705</id>
+        <link href="https://v.daum.net/v/20231230120103705"/>
+        <updated>2023-12-30T03:15:51.848Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">12:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(사진)이재명 이낙연 회동 종료 후]]></title>
+        <id>https://v.daum.net/v/20231230114206560</id>
+        <link href="https://v.daum.net/v/20231230114206560"/>
+        <updated>2023-12-30T03:15:51.851Z</updated>
+        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:42</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[김순덕의 도발]30년 전 ‘신세대’였던 그대에게, 안녕들 하신거죠?]]></title>
         <id>https://v.daum.net/v/20231230100008323</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231230043047889"/>
         <updated>2023-12-29T20:16:43.845Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국인은 밥심이지!  [休·味·樂(휴·미·락)]]]></title>
-        <id>https://v.daum.net/v/20231230043005882</id>
-        <link href="https://v.daum.net/v/20231230043005882"/>
-        <updated>2023-12-29T20:16:43.848Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한마당] 정치권의 노인 비하]]></title>
-        <id>https://v.daum.net/v/20231230041213866</id>
-        <link href="https://v.daum.net/v/20231230041213866"/>
-        <updated>2023-12-29T19:12:41.260Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:12</span>]]></content>
     </entry>
 </feed>
