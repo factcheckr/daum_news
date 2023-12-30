@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2023-12-30T17:13:25.847Z</updated>
+    <updated>2023-12-30T18:19:32.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[가정예배 365-12월 31일] 떠남]]></title>
+        <id>https://v.daum.net/v/20231231030314517</id>
+        <link href="https://v.daum.net/v/20231231030314517"/>
+        <updated>2023-12-30T18:18:32.993Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">03:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해넘이 보기 어려워요…곳곳 비·눈 오고 흐려[오늘 날씨]]]></title>
+        <id>https://v.daum.net/v/20231231025403512</id>
+        <link href="https://v.daum.net/v/20231231025403512"/>
+        <updated>2023-12-30T18:18:32.993Z</updated>
+        <content type="html"><![CDATA[스포츠경향<span class="txt_bar"> · </span><span class="info_time">02:54</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[날씨] 남부 강타한 가뭄과 폭우..."엘니뇨, 내년 봄까지 지속"]]></title>
         <id>https://v.daum.net/v/20231231020414478</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20231231000216100"/>
         <updated>2023-12-30T15:14:20.002Z</updated>
         <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘날씨, 전국 흐리고 ‘눈’ 또는 ‘비’…전국 아침 기온 영상권]]></title>
-        <id>https://v.daum.net/v/20231231000210099</id>
-        <link href="https://v.daum.net/v/20231231000210099"/>
-        <updated>2023-12-30T15:14:20.004Z</updated>
-        <content type="html"><![CDATA[bnt뉴스<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쏠퀴즈(쏠야구) 정답 12월 31일]]></title>
-        <id>https://v.daum.net/v/20231231000208098</id>
-        <link href="https://v.daum.net/v/20231231000208098"/>
-        <updated>2023-12-30T15:14:20.006Z</updated>
-        <content type="html"><![CDATA[bnt뉴스<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
     </entry>
 </feed>
