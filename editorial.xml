@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2023-12-31T11:13:03.377Z</updated>
+    <updated>2023-12-31T12:26:31.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[만물상] 시니어 아미(army)]]></title>
+        <id>https://v.daum.net/v/20231231205556775</id>
+        <link href="https://v.daum.net/v/20231231205556775"/>
+        <updated>2023-12-31T12:26:17.353Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">20:55</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[신년사설] 국운이 용솟음치는 갑진년 새해를 기원하며]]></title>
+        <id>https://v.daum.net/v/20231231202103160</id>
+        <link href="https://v.daum.net/v/20231231202103160"/>
+        <updated>2023-12-31T12:26:17.354Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">20:21</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[특별기고] 세계를 무대로 글로벌 외교 펼칠 때다]]></title>
+        <id>https://v.daum.net/v/20231231202100155</id>
+        <link href="https://v.daum.net/v/20231231202100155"/>
+        <updated>2023-12-31T12:26:17.355Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">20:21</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1월 1일 한겨레 그림판]]></title>
         <id>https://v.daum.net/v/20231231195505683</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20231231193859373"/>
         <updated>2023-12-31T11:12:42.044Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">19:38</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[황규관의 전환의 상상력] 스스로 새로워지지 않는다면]]></title>
-        <id>https://v.daum.net/v/20231231193853371</id>
-        <link href="https://v.daum.net/v/20231231193853371"/>
-        <updated>2023-12-31T11:12:42.045Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">19:38</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박용석 만평] 1월 1일]]></title>
-        <id>https://v.daum.net/v/20231231193024285</id>
-        <link href="https://v.daum.net/v/20231231193024285"/>
-        <updated>2023-12-31T11:12:42.046Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">19:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[국민만평-서민호 화백] 2024년 1월 1일]]></title>
-        <id>https://v.daum.net/v/20231231191315197</id>
-        <link href="https://v.daum.net/v/20231231191315197"/>
-        <updated>2023-12-31T10:15:28.013Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">19:13</span>]]></content>
     </entry>
 </feed>
