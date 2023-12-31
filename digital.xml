@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2023-12-31T18:18:11.434Z</updated>
+    <updated>2023-12-31T19:13:18.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["새해 복 많이 받으세요"]]></title>
+        <id>https://v.daum.net/v/20240101040217351</id>
+        <link href="https://v.daum.net/v/20240101040217351"/>
+        <updated>2023-12-31T19:12:45.792Z</updated>
+        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">04:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방통위 ‘업무 공백’ 탓, 지상파 141곳 재허가 연기]]></title>
         <id>https://v.daum.net/v/20240101030625272</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240101010014602"/>
         <updated>2023-12-31T16:18:10.597Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">01:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네오위즈, 일본에서 히트한 SRPG '천계 패러독스' 국내 출시]]></title>
-        <id>https://v.daum.net/v/20240101001603129</id>
-        <link href="https://v.daum.net/v/20240101001603129"/>
-        <updated>2023-12-31T15:18:13.040Z</updated>
-        <content type="html"><![CDATA[스포츠조선<span class="txt_bar"> · </span><span class="info_time">00:16</span>]]></content>
     </entry>
 </feed>
