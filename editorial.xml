@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-01-01T04:19:46.939Z</updated>
+    <updated>2024-01-01T05:16:51.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[기고]'K-프랜차이즈', 청룡의 기상을 받아 세계로]]></title>
+        <id>https://v.daum.net/v/20240101141259078</id>
+        <link href="https://v.daum.net/v/20240101141259078"/>
+        <updated>2024-01-01T05:16:31.368Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">14:12</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대통령 “국민의 삶 변화시키는 진정한 민생정책 추진할 것”]]></title>
         <id>https://v.daum.net/v/20240101122018555</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240101064502477"/>
         <updated>2023-12-31T22:14:48.420Z</updated>
         <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">06:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘김건희 리스크’를 키운 건 여권이다 [편집국장의 편지]]]></title>
-        <id>https://v.daum.net/v/20240101064207472</id>
-        <link href="https://v.daum.net/v/20240101064207472"/>
-        <updated>2023-12-31T22:14:48.421Z</updated>
-        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">06:42</span>]]></content>
     </entry>
 </feed>
