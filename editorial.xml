@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-01-01T01:10:59.607Z</updated>
+    <updated>2024-01-01T02:34:05.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인사] 한국보건사회연구원]]></title>
+        <id>https://v.daum.net/v/20240101111048303</id>
+        <link href="https://v.daum.net/v/20240101111048303"/>
+        <updated>2024-01-01T02:33:46.109Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">11:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인사] 머니투데이방송(MTN)]]></title>
+        <id>https://v.daum.net/v/20240101105703908</id>
+        <link href="https://v.daum.net/v/20240101105703908"/>
+        <updated>2024-01-01T02:33:46.109Z</updated>
+        <content type="html"><![CDATA[머니S<span class="txt_bar"> · </span><span class="info_time">10:57</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[심층] 미얀마 깊은 바닷속의 KAL 858기 추정 동체···희망에서 다시 절망으로]]></title>
         <id>https://v.daum.net/v/20240101095548567</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240101060110093"/>
         <updated>2023-12-31T21:13:38.483Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">06:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 새해를 맞는 국민의 새해 소망은 ‘이것’]]></title>
-        <id>https://v.daum.net/v/20240101060013987</id>
-        <link href="https://v.daum.net/v/20240101060013987"/>
-        <updated>2023-12-31T21:13:38.484Z</updated>
-        <content type="html"><![CDATA[농민신문<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[길섶에서] 나쁜 습관 고치기/임창용 논설위원]]></title>
-        <id>https://v.daum.net/v/20240101050258694</id>
-        <link href="https://v.daum.net/v/20240101050258694"/>
-        <updated>2023-12-31T20:15:51.374Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:02</span>]]></content>
     </entry>
 </feed>
