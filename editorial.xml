@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-01-01T03:17:40.735Z</updated>
+    <updated>2024-01-01T04:19:46.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대통령 “국민의 삶 변화시키는 진정한 민생정책 추진할 것”]]></title>
+        <id>https://v.daum.net/v/20240101122018555</id>
+        <link href="https://v.daum.net/v/20240101122018555"/>
+        <updated>2024-01-01T04:19:28.514Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">12:20</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인사] LX한국국토정보공사]]></title>
         <id>https://v.daum.net/v/20240101121529508</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240101064207472"/>
         <updated>2023-12-31T22:14:48.421Z</updated>
         <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">06:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['언제 돌아오시려나']]></title>
-        <id>https://v.daum.net/v/20240101061002270</id>
-        <link href="https://v.daum.net/v/20240101061002270"/>
-        <updated>2023-12-31T21:13:38.480Z</updated>
-        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">06:10</span>]]></content>
     </entry>
 </feed>
