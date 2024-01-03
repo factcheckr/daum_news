@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-01-03T03:17:36.367Z</updated>
+    <updated>2024-01-03T04:19:14.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[엠빅뉴스] 경찰까지 출동한 부선 서면 화장실 상황..범인은 대체 왜?]]></title>
+        <id>https://v.daum.net/v/20240103131007602</id>
+        <link href="https://v.daum.net/v/20240103131007602"/>
+        <updated>2024-01-03T04:18:53.277Z</updated>
+        <content type="html"><![CDATA[MBC<span class="txt_bar"> · </span><span class="info_time">13:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[취재석] 이재명 피습…정치권, '증오 정치' 성찰해야]]></title>
+        <id>https://v.daum.net/v/20240103130242495</id>
+        <link href="https://v.daum.net/v/20240103130242495"/>
+        <updated>2024-01-03T04:18:53.279Z</updated>
+        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">13:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尹 '금투세 폐지' 공식화…증권시장 갑론을박]]></title>
         <id>https://v.daum.net/v/20240103114407636</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240103112031284"/>
         <updated>2024-01-03T02:26:56.841Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데일리안 시사만평] 지금 '정쟁뿐인' 정치권이 반드시 필요한 것은?…'타협과 협력']]></title>
-        <id>https://v.daum.net/v/20240103111552041</id>
-        <link href="https://v.daum.net/v/20240103111552041"/>
-        <updated>2024-01-03T02:26:56.842Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">11:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[초동시각]'고객 최우선'…올해는 공염불 그치지 않기를]]></title>
-        <id>https://v.daum.net/v/20240103110421466</id>
-        <link href="https://v.daum.net/v/20240103110421466"/>
-        <updated>2024-01-03T02:26:56.845Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:04</span>]]></content>
     </entry>
 </feed>
