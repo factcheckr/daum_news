@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-01-03T12:28:21.148Z</updated>
+    <updated>2024-01-03T13:18:20.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 인사 - 2024년 1월 4일]]></title>
+        <id>https://v.daum.net/v/20240103220310539</id>
+        <link href="https://v.daum.net/v/20240103220310539"/>
+        <updated>2024-01-03T13:18:03.804Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[만물상] ‘90초’ 룰]]></title>
         <id>https://v.daum.net/v/20240103205605845</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240103191519438</id>
         <link href="https://v.daum.net/v/20240103191519438"/>
         <updated>2024-01-03T10:16:40.501Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이종건의 함께 먹고 삽시다] 흔치 않은 승리의 기억 ‘놀란곱창’]]></title>
-        <id>https://v.daum.net/v/20240103191516436</id>
-        <link href="https://v.daum.net/v/20240103191516436"/>
-        <updated>2024-01-03T10:16:40.502Z</updated>
         <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:15</span>]]></content>
     </entry>
 </feed>
