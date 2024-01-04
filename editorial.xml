@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-01-04T22:16:06.036Z</updated>
+    <updated>2024-01-04T23:16:25.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박순찬의 장도리 카툰] 비동료시민]]></title>
+        <id>https://v.daum.net/v/20240105074801290</id>
+        <link href="https://v.daum.net/v/20240105074801290"/>
+        <updated>2024-01-04T23:16:04.318Z</updated>
+        <content type="html"><![CDATA[오마이뉴스<span class="txt_bar"> · </span><span class="info_time">07:48</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주식양도세 완화로 “주식시장 활성화” 근거 없다]]></title>
         <id>https://v.daum.net/v/20240105070509884</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240105063040451"/>
         <updated>2024-01-04T22:15:44.666Z</updated>
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">06:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[눈만 봐도 거짓말하는지 알 수 있다는데… 사실일까?]]></title>
-        <id>https://v.daum.net/v/20240105063015445</id>
-        <link href="https://v.daum.net/v/20240105063015445"/>
-        <updated>2024-01-04T22:15:44.667Z</updated>
-        <content type="html"><![CDATA[헬스조선<span class="txt_bar"> · </span><span class="info_time">06:30</span>]]></content>
     </entry>
 </feed>
