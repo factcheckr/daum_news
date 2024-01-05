@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-01-05T11:14:10.273Z</updated>
+    <updated>2024-01-05T12:28:17.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[태백시, '낙동강발원지 힐링시티타워 조성사업'착공]]></title>
+        <id>https://v.daum.net/v/20240105202149762</id>
+        <link href="https://v.daum.net/v/20240105202149762"/>
+        <updated>2024-01-05T12:28:07.821Z</updated>
+        <content type="html"><![CDATA[투어코리아<span class="txt_bar"> · </span><span class="info_time">20:21</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[평택시, 2024 갑진년(甲辰年) 신년인사회 개최]]></title>
         <id>https://v.daum.net/v/20240105191132742</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240105180704894"/>
         <updated>2024-01-05T09:15:33.097Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">18:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[광주지역 전세사기 피해 127건 인정…피해자 이자·월세·이사비 지원]]></title>
-        <id>https://v.daum.net/v/20240105173112106</id>
-        <link href="https://v.daum.net/v/20240105173112106"/>
-        <updated>2024-01-05T09:15:33.098Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:31</span>]]></content>
     </entry>
 </feed>
