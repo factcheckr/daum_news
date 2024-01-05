@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-01-05T22:15:24.150Z</updated>
+    <updated>2024-01-05T23:15:51.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[김회룡의 시사 TOON]]]></title>
+        <id>https://v.daum.net/v/20240106080805274</id>
+        <link href="https://v.daum.net/v/20240106080805274"/>
+        <updated>2024-01-05T23:15:34.239Z</updated>
+        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">08:08</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[배터리완전정복](18)'IRA 수혜주' 전해액, 中 따라잡을 절호의 기회]]></title>
+        <id>https://v.daum.net/v/20240106075542113</id>
+        <link href="https://v.daum.net/v/20240106075542113"/>
+        <updated>2024-01-05T23:15:34.243Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">07:55</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시간의 눈을 뜨자 [ESC]]]></title>
         <id>https://v.daum.net/v/20240106060501326</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240106040410713"/>
         <updated>2024-01-05T19:13:01.746Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 특검법 경색 정국, 특별감찰관이 돌파구]]></title>
-        <id>https://v.daum.net/v/20240106040311709</id>
-        <link href="https://v.daum.net/v/20240106040311709"/>
-        <updated>2024-01-05T19:13:01.746Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토 카페] 수평선 뚫고…]]></title>
-        <id>https://v.daum.net/v/20240106040305707</id>
-        <link href="https://v.daum.net/v/20240106040305707"/>
-        <updated>2024-01-05T19:13:01.747Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:03</span>]]></content>
     </entry>
 </feed>
