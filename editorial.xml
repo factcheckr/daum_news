@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-01-05T04:19:22.355Z</updated>
+    <updated>2024-01-05T05:15:30.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[양경미의 영화로 보는 세상] 스마트 시대에 대한 경고]]></title>
+        <id>https://v.daum.net/v/20240105140109136</id>
+        <link href="https://v.daum.net/v/20240105140109136"/>
+        <updated>2024-01-05T05:15:13.404Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">14:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[초동시각]기후동행카드, 이제는 '동행'에 집중하자]]></title>
+        <id>https://v.daum.net/v/20240105132927247</id>
+        <link href="https://v.daum.net/v/20240105132927247"/>
+        <updated>2024-01-05T05:15:13.407Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">13:29</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[논단]'염색샴푸 논란' 식약처에 남겨진 과제]]></title>
         <id>https://v.daum.net/v/20240105131828050</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240105111704169"/>
         <updated>2024-01-05T02:28:21.020Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">11:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원전·수소·풍력이 만드는 ‘클린 에너지’…RE100 대안으로 뜬다]]></title>
-        <id>https://v.daum.net/v/20240105111021900</id>
-        <link href="https://v.daum.net/v/20240105111021900"/>
-        <updated>2024-01-05T02:28:21.020Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">11:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 여야 ‘증오언어 쓸땐 공천서 페널티’ 추진에 일단 환영]]></title>
-        <id>https://v.daum.net/v/20240105110455685</id>
-        <link href="https://v.daum.net/v/20240105110455685"/>
-        <updated>2024-01-05T02:28:21.021Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:04</span>]]></content>
     </entry>
 </feed>
