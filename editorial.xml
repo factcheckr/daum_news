@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-01-06T13:17:31.322Z</updated>
+    <updated>2024-01-06T14:14:41.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[세컷칼럼] “언제 어디서 칼부림 나도 이상할 것 없는 현실”]]></title>
+        <id>https://v.daum.net/v/20240106230025687</id>
+        <link href="https://v.daum.net/v/20240106230025687"/>
+        <updated>2024-01-06T14:14:20.860Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[운동 때도 나체로 땀 흘리기 즐긴 그리스인 [강영운의 ‘야! 한 생각, 아! 한 생각’]]]></title>
         <id>https://v.daum.net/v/20240106210311562</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240106050004907"/>
         <updated>2024-01-05T20:17:28.023Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">05:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카페의 효능 [休·味·樂(휴·미·락)]]]></title>
-        <id>https://v.daum.net/v/20240106043209783</id>
-        <link href="https://v.daum.net/v/20240106043209783"/>
-        <updated>2024-01-05T20:17:28.025Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:32</span>]]></content>
     </entry>
 </feed>
