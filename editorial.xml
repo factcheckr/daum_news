@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-01-06T08:18:54.747Z</updated>
+    <updated>2024-01-06T09:16:53.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인사] 한국환경공단]]></title>
+        <id>https://v.daum.net/v/20240106175440136</id>
+        <link href="https://v.daum.net/v/20240106175440136"/>
+        <updated>2024-01-06T09:16:33.916Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">17:54</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[천남수의 視線] 이재명 암살 시도를 불러온 파시즘의 부활]]></title>
         <id>https://v.daum.net/v/20240106171451834</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240106043131775"/>
         <updated>2024-01-05T20:17:28.028Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 국민 뜻 반하는 특검 거부... 납득할 대안도 제시해야]]></title>
-        <id>https://v.daum.net/v/20240106043038764</id>
-        <link href="https://v.daum.net/v/20240106043038764"/>
-        <updated>2024-01-05T20:17:28.030Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
     </entry>
 </feed>
