@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-01-07T05:16:14.516Z</updated>
+    <updated>2024-01-07T06:20:10.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[진짜 ‘빌런’은 누구일까]]></title>
+        <id>https://v.daum.net/v/20240107151502693</id>
+        <link href="https://v.daum.net/v/20240107151502693"/>
+        <updated>2024-01-07T06:19:52.728Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">15:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤 대통령에게 ‘왕따’ 당하던 포스코 회장 3연임 포기의 의미 [아침햇발]]]></title>
+        <id>https://v.daum.net/v/20240107144507086</id>
+        <link href="https://v.daum.net/v/20240107144507086"/>
+        <updated>2024-01-07T06:19:52.730Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">14:45</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[이주은의 유리창 너머] 걸작품이 된 상처]]></title>
+        <id>https://v.daum.net/v/20240107143006830</id>
+        <link href="https://v.daum.net/v/20240107143006830"/>
+        <updated>2024-01-07T06:19:52.733Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">14:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[스트레이트 예고] '즉·강·끝'과 '대사변' 남북 강경파들의 치킨 게임]]></title>
         <id>https://v.daum.net/v/20240107131312422</id>
@@ -88,19 +109,5 @@
         <link href="https://v.daum.net/v/20240107070707189"/>
         <updated>2024-01-06T22:14:20.171Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[질소가스로 사형 집행 결정한 美 법원, “비인간적” VS “고통 없다”]]></title>
-        <id>https://v.daum.net/v/20240107060018577</id>
-        <link href="https://v.daum.net/v/20240107060018577"/>
-        <updated>2024-01-06T21:13:25.482Z</updated>
-        <content type="html"><![CDATA[헬스조선<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 전자신문 오피니언 지면 새단장 합니다]]></title>
-        <id>https://v.daum.net/v/20240107000102003</id>
-        <link href="https://v.daum.net/v/20240107000102003"/>
-        <updated>2024-01-06T15:15:57.387Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
     </entry>
 </feed>
