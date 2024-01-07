@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/sports</id>
     <title>다음 뉴스 ─ 전체기사 ─ 스포츠</title>
-    <updated>2024-01-07T16:18:48.002Z</updated>
+    <updated>2024-01-07T17:14:03.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘양심 있나?’ 6개월 넘게 소속팀 없는데 바르셀로나에 ‘역제의’…“훌륭한 발판으로 생각”]]></title>
+        <id>https://v.daum.net/v/20240108015503022</id>
+        <link href="https://v.daum.net/v/20240108015503022"/>
+        <updated>2024-01-07T17:13:19.693Z</updated>
+        <content type="html"><![CDATA[스포탈코리아<span class="txt_bar"> · </span><span class="info_time">01:55</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SAUDI ARABIA RALLY DAKAR]]></title>
         <id>https://v.daum.net/v/20240108011122983</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240108003627901"/>
         <updated>2024-01-07T16:18:11.558Z</updated>
         <content type="html"><![CDATA[인터풋볼<span class="txt_bar"> · </span><span class="info_time">00:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['대표팀 자격정지→또 부상' 꼬여가는 황의조 커리어, 복귀 2주만에 또 햄스트링 다쳐 '6주 아웃']]></title>
-        <id>https://v.daum.net/v/20240108003222884</id>
-        <link href="https://v.daum.net/v/20240108003222884"/>
-        <updated>2024-01-07T16:18:11.560Z</updated>
-        <content type="html"><![CDATA[스포츠조선<span class="txt_bar"> · </span><span class="info_time">00:32</span>]]></content>
     </entry>
 </feed>

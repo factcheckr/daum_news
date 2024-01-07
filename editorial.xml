@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-01-07T16:18:47.987Z</updated>
+    <updated>2024-01-07T17:14:03.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[청계광장]딥페이크 시대의 인공지능 규제]]></title>
+        <id>https://v.daum.net/v/20240108020306032</id>
+        <link href="https://v.daum.net/v/20240108020306032"/>
+        <updated>2024-01-07T17:13:42.355Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]인플레이션은 이제 끝났나?]]></title>
+        <id>https://v.daum.net/v/20240108020302030</id>
+        <link href="https://v.daum.net/v/20240108020302030"/>
+        <updated>2024-01-07T17:13:42.358Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[선진국 세제 정책, 증세→감세로…韓 증시도 '성장 카드' 써야 [한상춘의 국제경제 읽기]]]></title>
         <id>https://v.daum.net/v/20240108004904939</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240108002719863"/>
         <updated>2024-01-07T16:18:29.477Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김봉렬의 공간과 공감] ‘길눈’과 양잠이 빚은 마을, 시라카와촌]]></title>
-        <id>https://v.daum.net/v/20240108002500841</id>
-        <link href="https://v.daum.net/v/20240108002500841"/>
-        <updated>2024-01-07T16:18:29.478Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[고영경의 마켓 나우] 글로벌 반도체 대전, 동남아 3국도 뛴다]]></title>
-        <id>https://v.daum.net/v/20240108002359840</id>
-        <link href="https://v.daum.net/v/20240108002359840"/>
-        <updated>2024-01-07T16:18:29.480Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:23</span>]]></content>
     </entry>
 </feed>
