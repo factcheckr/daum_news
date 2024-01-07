@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2024-01-07T17:14:03.528Z</updated>
+    <updated>2024-01-07T18:19:06.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘의 채널A]뮤지컬 음악감독 김문정의 성공담]]></title>
+        <id>https://v.daum.net/v/20240108030039061</id>
+        <link href="https://v.daum.net/v/20240108030039061"/>
+        <updated>2024-01-07T18:18:11.252Z</updated>
+        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">03:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정재일, 편곡하고 싶은 사카모토 류이치 曲 묻자…]]></title>
+        <id>https://v.daum.net/v/20240108030014050</id>
+        <link href="https://v.daum.net/v/20240108030014050"/>
+        <updated>2024-01-07T18:18:11.253Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">03:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미우새' 김승수, 14세 연하와 소개팅 결과는?…"그분이 먼저 연락"]]></title>
         <id>https://v.daum.net/v/20240108011110979</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240108002611855"/>
         <updated>2024-01-07T16:18:02.463Z</updated>
         <content type="html"><![CDATA[OSEN<span class="txt_bar"> · </span><span class="info_time">00:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[종합]"다시는 못 일어나게 밟아준 것뿐" 신혜선 괴롭힌 조윤서에, 김미경 일침 ('웰컴투 삼달리')]]></title>
-        <id>https://v.daum.net/v/20240108002302838</id>
-        <link href="https://v.daum.net/v/20240108002302838"/>
-        <updated>2024-01-07T16:18:02.464Z</updated>
-        <content type="html"><![CDATA[텐아시아<span class="txt_bar"> · </span><span class="info_time">00:23</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이동건, 늦둥이 보인다…귀한 아들 있다" 역술가 신년운세]]></title>
-        <id>https://v.daum.net/v/20240108002032832</id>
-        <link href="https://v.daum.net/v/20240108002032832"/>
-        <updated>2024-01-07T16:18:02.467Z</updated>
-        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">00:20</span>]]></content>
     </entry>
 </feed>
