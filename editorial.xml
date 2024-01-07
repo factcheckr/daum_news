@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-01-07T12:27:15.739Z</updated>
+    <updated>2024-01-07T13:17:27.796Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024년 1월 8일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20240107220119027</id>
+        <link href="https://v.daum.net/v/20240107220119027"/>
+        <updated>2024-01-07T13:17:08.594Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지음(知音)을 믿지 마세요 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20240107220004015</id>
+        <link href="https://v.daum.net/v/20240107220004015"/>
+        <updated>2024-01-07T13:17:08.595Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인생 2막 앞둔 모든 4050에게 ‘파이팅’ [편집장 레터]]]></title>
         <id>https://v.daum.net/v/20240107210305677</id>
@@ -13,7 +27,7 @@
         <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">21:03</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[만물상] 광역버스 대란]]></title>
+        <title type="html"><![CDATA[“하루이틀도 아니고...” 광역버스 출퇴근족의 분통]]></title>
         <id>https://v.daum.net/v/20240107204718552</id>
         <link href="https://v.daum.net/v/20240107204718552"/>
         <updated>2024-01-07T12:26:54.966Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240107200833314"/>
         <updated>2024-01-07T11:13:31.078Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A stern yet careful response is needed]]></title>
-        <id>https://v.daum.net/v/20240107194646137</id>
-        <link href="https://v.daum.net/v/20240107194646137"/>
-        <updated>2024-01-07T11:13:31.079Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:46</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lawmakers must endorse the economic package]]></title>
-        <id>https://v.daum.net/v/20240107194546132</id>
-        <link href="https://v.daum.net/v/20240107194546132"/>
-        <updated>2024-01-07T11:13:31.080Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:45</span>]]></content>
     </entry>
 </feed>
