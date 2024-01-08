@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-01-08T13:19:40.563Z</updated>
+    <updated>2024-01-08T14:15:17.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신안군 전국 최초 연 7.5% '햇빛아동 장학적금' 출시]]></title>
+        <id>https://v.daum.net/v/20240108222033104</id>
+        <link href="https://v.daum.net/v/20240108222033104"/>
+        <updated>2024-01-08T14:15:08.866Z</updated>
+        <content type="html"><![CDATA[kbc광주방송<span class="txt_bar"> · </span><span class="info_time">22:20</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이천시, 2024년 행복한 마을공동체 만들기 사업 공모]]></title>
         <id>https://v.daum.net/v/20240108220835994</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240108173832904"/>
         <updated>2024-01-08T09:16:35.936Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">17:38</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개그맨 이선민과 함께하는 ‘삼켜라! 드래곤!’ 사전 예약 100만명 돌파]]></title>
-        <id>https://v.daum.net/v/20240108173702876</id>
-        <link href="https://v.daum.net/v/20240108173702876"/>
-        <updated>2024-01-08T09:16:35.937Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:37</span>]]></content>
     </entry>
 </feed>
