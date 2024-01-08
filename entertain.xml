@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2024-01-08T16:20:15.418Z</updated>
+    <updated>2024-01-08T17:14:50.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['선산' 연상호 "부산행과 같은 시기에 고민한 작품"]]></title>
+        <id>https://v.daum.net/v/20240109020500203</id>
+        <link href="https://v.daum.net/v/20240109020500203"/>
+        <updated>2024-01-08T17:14:14.758Z</updated>
+        <content type="html"><![CDATA[TV리포트<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유해진, 흥행 보증수표의 귀환...윤여정과 첫 호흡 기대감 UP]]></title>
         <id>https://v.daum.net/v/20240109010500083</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240109002011910"/>
         <updated>2024-01-08T16:19:32.435Z</updated>
         <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">00:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['알콜지옥' 민규홍 탈락...母 폭력에서 구해준 할머니 생각에 '오열' [종합]]]></title>
-        <id>https://v.daum.net/v/20240109001321880</id>
-        <link href="https://v.daum.net/v/20240109001321880"/>
-        <updated>2024-01-08T15:17:26.692Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스<span class="txt_bar"> · </span><span class="info_time">00:13</span>]]></content>
     </entry>
 </feed>
