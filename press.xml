@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-01-08T03:17:15.650Z</updated>
+    <updated>2024-01-08T04:20:36.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[의성군, 2024년 공수의 10명 위촉]]></title>
+        <id>https://v.daum.net/v/20240108131222338</id>
+        <link href="https://v.daum.net/v/20240108131222338"/>
+        <updated>2024-01-08T04:20:29.497Z</updated>
+        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">13:12</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[의성군, 고추비가림재배시설 지원]]></title>
+        <id>https://v.daum.net/v/20240108131209336</id>
+        <link href="https://v.daum.net/v/20240108131209336"/>
+        <updated>2024-01-08T04:20:29.498Z</updated>
+        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">13:12</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삼성전자, CES 2024서 ‘AI 스크린 시대’ 선언]]></title>
         <id>https://v.daum.net/v/20240108120703043</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240108112704330"/>
         <updated>2024-01-08T02:30:03.512Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">11:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Belkin, 강력한 신제품 라인업으로 CES 2024에 나서다]]></title>
-        <id>https://v.daum.net/v/20240108111704838</id>
-        <link href="https://v.daum.net/v/20240108111704838"/>
-        <updated>2024-01-08T02:30:03.513Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">11:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Belkin supercharges into CES 2024 with powerful new product lineup]]></title>
-        <id>https://v.daum.net/v/20240108111703836</id>
-        <link href="https://v.daum.net/v/20240108111703836"/>
-        <updated>2024-01-08T02:30:03.515Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">11:17</span>]]></content>
     </entry>
 </feed>
