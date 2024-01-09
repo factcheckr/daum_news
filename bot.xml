@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-01-09T08:20:11.134Z</updated>
+    <updated>2024-01-09T09:16:28.218Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2024년 01월 09일)]]></title>
+        <id>https://v.daum.net/v/20240109173315035</id>
+        <link href="https://v.daum.net/v/20240109173315035"/>
+        <updated>2024-01-09T09:16:27.648Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:33</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울 길음동 길음뉴타운푸르지오아파트2,3단지 143㎡ 8억7000만원... 역대 최고가]]></title>
+        <id>https://v.daum.net/v/20240109172535707</id>
+        <link href="https://v.daum.net/v/20240109172535707"/>
+        <updated>2024-01-09T09:16:27.648Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:25</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천 원당동 검단신도시 예미지 트리플에듀 아파트 102㎡ 7억1500만원... 역대 최고가]]></title>
+        <id>https://v.daum.net/v/20240109172055533</id>
+        <link href="https://v.daum.net/v/20240109172055533"/>
+        <updated>2024-01-09T09:16:27.649Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:20</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인천 주안동 주안역센트레빌아파트 47㎡ 3억3000만원... 역대 최고가]]></title>
         <id>https://v.daum.net/v/20240109171600331</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240109162032178"/>
         <updated>2024-01-09T08:20:10.409Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">16:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 망포동 영통아이파크캐슬1단지 105㎡ 10억4000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20240109161550946</id>
-        <link href="https://v.daum.net/v/20240109161550946"/>
-        <updated>2024-01-09T07:17:16.311Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">16:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 매탄동 매탄현대힐스테이트 75㎡ 5억원에 거래]]></title>
-        <id>https://v.daum.net/v/20240109161037680</id>
-        <link href="https://v.daum.net/v/20240109161037680"/>
-        <updated>2024-01-09T07:17:16.312Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">16:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 간석동 간석 래미안자이아파트 143㎡ 6억5500만원에 거래]]></title>
-        <id>https://v.daum.net/v/20240109160600449</id>
-        <link href="https://v.daum.net/v/20240109160600449"/>
-        <updated>2024-01-09T07:17:16.313Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">16:06</span>]]></content>
     </entry>
 </feed>
