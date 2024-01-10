@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-01-10T08:20:49.164Z</updated>
+    <updated>2024-01-10T09:16:48.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2024년 01월 10일)]]></title>
+        <id>https://v.daum.net/v/20240110173212604</id>
+        <link href="https://v.daum.net/v/20240110173212604"/>
+        <updated>2024-01-10T09:16:47.714Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:32</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부산 봉래동4가 영도 센트럴 에일린의뜰 59㎡ 4억3500만원... 역대 최고가]]></title>
         <id>https://v.daum.net/v/20240110145535586</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240110135035489"/>
         <updated>2024-01-10T05:15:53.549Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성남 판교동 판교원한림풀에버9단지 84㎡ 13억1000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20240110134548332</id>
-        <link href="https://v.daum.net/v/20240110134548332"/>
-        <updated>2024-01-10T05:15:53.551Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:45</span>]]></content>
     </entry>
 </feed>
