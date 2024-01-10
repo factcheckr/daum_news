@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-01-10T11:14:23.191Z</updated>
+    <updated>2024-01-10T12:29:18.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] RIKEN, 하이브리드 양자 슈퍼컴퓨팅 플랫폼에 Quantinuum H1 채택]]></title>
+        <id>https://v.daum.net/v/20240110204825713</id>
+        <link href="https://v.daum.net/v/20240110204825713"/>
+        <updated>2024-01-10T12:29:09.316Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:48</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이천시 2024년 상수도요금 감면 확대]]></title>
+        <id>https://v.daum.net/v/20240110203133493</id>
+        <link href="https://v.daum.net/v/20240110203133493"/>
+        <updated>2024-01-10T12:29:09.317Z</updated>
+        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">20:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] HISENSE EXHIBITS A RANGE OF HOME APPLIANCES AT CES 2024]]></title>
         <id>https://v.daum.net/v/20240110200541991</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240110183140414"/>
         <updated>2024-01-10T10:17:08.300Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">18:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[상명대 대학원 화학에너지공학과 이채연 석사과정생, 세계적 학술지 카보하이드레이트 폴리머에 제1저자로 게재]]></title>
-        <id>https://v.daum.net/v/20240110183030401</id>
-        <link href="https://v.daum.net/v/20240110183030401"/>
-        <updated>2024-01-10T10:17:08.300Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">18:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경희대, 2023 아너스클럽 위원 위촉식 개최]]></title>
-        <id>https://v.daum.net/v/20240110182947377</id>
-        <link href="https://v.daum.net/v/20240110182947377"/>
-        <updated>2024-01-10T10:17:08.305Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">18:29</span>]]></content>
     </entry>
 </feed>
