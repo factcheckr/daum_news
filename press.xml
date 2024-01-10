@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-01-10T03:17:21.110Z</updated>
+    <updated>2024-01-10T04:19:45.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[평택시, 인공지능 통한 돌봄서비스 '24시간 행복등대지기' 운영]]></title>
+        <id>https://v.daum.net/v/20240110130927339</id>
+        <link href="https://v.daum.net/v/20240110130927339"/>
+        <updated>2024-01-10T04:19:33.172Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">13:09</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지난해 건설·부동산 중재 금액 1조4286억원, 전년 대비 337.1% 증가]]></title>
+        <id>https://v.daum.net/v/20240110123702676</id>
+        <link href="https://v.daum.net/v/20240110123702676"/>
+        <updated>2024-01-10T04:19:33.172Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">12:37</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중소·중견기업 녹색투자 지원사업 작년보다 2배 늘린다]]></title>
         <id>https://v.daum.net/v/20240110120111731</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240110113049299"/>
         <updated>2024-01-10T03:17:10.697Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] Huion, CES 2024에서 신제품 드로잉패드 2종 공식 출시]]></title>
-        <id>https://v.daum.net/v/20240110113044295</id>
-        <link href="https://v.daum.net/v/20240110113044295"/>
-        <updated>2024-01-10T03:17:10.698Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봉화군, 임대형 스마트팜 창농 대상자 모집]]></title>
-        <id>https://v.daum.net/v/20240110113019255</id>
-        <link href="https://v.daum.net/v/20240110113019255"/>
-        <updated>2024-01-10T03:17:10.699Z</updated>
-        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">11:30</span>]]></content>
     </entry>
 </feed>
