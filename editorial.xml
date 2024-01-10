@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-01-10T22:17:29.480Z</updated>
+    <updated>2024-01-10T23:17:27.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](11일 조간)]]></title>
+        <id>https://v.daum.net/v/20240111080023527</id>
+        <link href="https://v.daum.net/v/20240111080023527"/>
+        <updated>2024-01-10T23:17:12.582Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[양당은 어떻게 변해야 할까? 스윙보터가 답하다 [취재 뒷담화]]]></title>
         <id>https://v.daum.net/v/20240111070713711</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240111065101411"/>
         <updated>2024-01-10T22:17:13.145Z</updated>
         <content type="html"><![CDATA[오마이뉴스<span class="txt_bar"> · </span><span class="info_time">06:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시니어트렌드]'반려(伴侶)'의 의미와 비즈니스]]></title>
-        <id>https://v.daum.net/v/20240111061022961</id>
-        <link href="https://v.daum.net/v/20240111061022961"/>
-        <updated>2024-01-10T21:15:41.413Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">06:10</span>]]></content>
     </entry>
 </feed>
