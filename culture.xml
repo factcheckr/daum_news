@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2024-01-11T16:21:03.084Z</updated>
+    <updated>2024-01-11T17:14:57.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에티버스, 로지텍 최신 솔루션 론칭으로 화상회의 사업 확대]]></title>
+        <id>https://v.daum.net/v/20240112012143679</id>
+        <link href="https://v.daum.net/v/20240112012143679"/>
+        <updated>2024-01-11T17:14:04.204Z</updated>
+        <content type="html"><![CDATA[스포츠경향<span class="txt_bar"> · </span><span class="info_time">01:21</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오늘의 운세] 1월 12일 금요일 (음력 12월 2일 /乙亥) 띠별 / 생년월일 운세]]></title>
         <id>https://v.daum.net/v/20240112010125643</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240112000607364"/>
         <updated>2024-01-11T15:16:13.326Z</updated>
         <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김병지 대표이사 “구단 철학·정책 고민하는 시간 되길”]]></title>
-        <id>https://v.daum.net/v/20240112000556353</id>
-        <link href="https://v.daum.net/v/20240112000556353"/>
-        <updated>2024-01-11T15:16:13.327Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
     </entry>
 </feed>
