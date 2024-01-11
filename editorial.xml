@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-01-11T04:19:45.877Z</updated>
+    <updated>2024-01-11T05:16:01.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인사] 관세청]]></title>
+        <id>https://v.daum.net/v/20240111141226403</id>
+        <link href="https://v.daum.net/v/20240111141226403"/>
+        <updated>2024-01-11T05:15:44.816Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">14:12</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[여명]다음 뉴스 개편을 향한 우려와 기대]]></title>
+        <id>https://v.daum.net/v/20240111140331067</id>
+        <link href="https://v.daum.net/v/20240111140331067"/>
+        <updated>2024-01-11T05:15:44.819Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">14:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[CES 2024]〈현장에서〉모두가 국가대표]]></title>
+        <id>https://v.daum.net/v/20240111140105948</id>
+        <link href="https://v.daum.net/v/20240111140105948"/>
+        <updated>2024-01-11T05:15:44.820Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">14:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[데일리안 시사만평] 외신 통해 안다…이재명 습격범 신상을]]></title>
+        <id>https://v.daum.net/v/20240111132613665</id>
+        <link href="https://v.daum.net/v/20240111132613665"/>
+        <updated>2024-01-11T05:15:44.821Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">13:26</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[시론]한국 '완전고용'의 그림자]]></title>
         <id>https://v.daum.net/v/20240111131015255</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20240111110657414"/>
         <updated>2024-01-11T02:32:15.400Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 초고령사회 코앞, 일자리 등 강도 높은 대책 마련해야]]></title>
-        <id>https://v.daum.net/v/20240111110654413</id>
-        <link href="https://v.daum.net/v/20240111110654413"/>
-        <updated>2024-01-11T02:32:15.400Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[걸으며 서울을 생각하다]15분 도시 서울과 직장 분산]]></title>
-        <id>https://v.daum.net/v/20240111105232733</id>
-        <link href="https://v.daum.net/v/20240111105232733"/>
-        <updated>2024-01-11T02:32:15.400Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">10:52</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남산 혼잡통행료 논란 '2라운드'…이번엔 인원수 면제 논란]]></title>
-        <id>https://v.daum.net/v/20240111104542430</id>
-        <link href="https://v.daum.net/v/20240111104542430"/>
-        <updated>2024-01-11T02:32:15.400Z</updated>
-        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">10:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부고] 강구영씨(KAI 대표이사 사장) 모친상]]></title>
-        <id>https://v.daum.net/v/20240111104411357</id>
-        <link href="https://v.daum.net/v/20240111104411357"/>
-        <updated>2024-01-11T02:32:15.405Z</updated>
-        <content type="html"><![CDATA[머니S<span class="txt_bar"> · </span><span class="info_time">10:44</span>]]></content>
     </entry>
 </feed>
