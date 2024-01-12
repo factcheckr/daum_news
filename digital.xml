@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-01-12T13:19:13.761Z</updated>
+    <updated>2024-01-12T14:18:14.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[속보]"EU, 대한항공·아시아나 합병 조건부 승인 예정"]]></title>
+        <id>https://v.daum.net/v/20240112222443658</id>
+        <link href="https://v.daum.net/v/20240112222443658"/>
+        <updated>2024-01-12T14:17:48.747Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">22:24</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“길 막히는데 정류장 옮겨봤자” 시내 빠져나가는데 1시간…버스 타기 너무 힘들어 [지구, 뭐래?]]]></title>
+        <id>https://v.daum.net/v/20240112222147638</id>
+        <link href="https://v.daum.net/v/20240112222147638"/>
+        <updated>2024-01-12T14:17:48.747Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">22:21</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한미사이언스 최대주주 OCI로 바뀐다]]></title>
         <id>https://v.daum.net/v/20240112215603425</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240112193256684"/>
         <updated>2024-01-12T11:16:07.405Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">19:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[혁신상 휩쓴 K-스타트업…전 세계 사로잡았다]]></title>
-        <id>https://v.daum.net/v/20240112193159679</id>
-        <link href="https://v.daum.net/v/20240112193159679"/>
-        <updated>2024-01-12T11:16:07.406Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">19:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카카오 김범수, 브라이언임팩트 재단 이사 물러났다]]></title>
-        <id>https://v.daum.net/v/20240112193013653</id>
-        <link href="https://v.daum.net/v/20240112193013653"/>
-        <updated>2024-01-12T11:16:07.407Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">19:30</span>]]></content>
     </entry>
 </feed>

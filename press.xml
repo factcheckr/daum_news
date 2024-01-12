@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-01-12T13:19:13.763Z</updated>
+    <updated>2024-01-12T14:18:14.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] BOE Showcases Cutting-Edge Display Technologies]]></title>
+        <id>https://v.daum.net/v/20240112231617944</id>
+        <link href="https://v.daum.net/v/20240112231617944"/>
+        <updated>2024-01-12T14:18:02.871Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">23:16</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 오토메이션에니웨어, 새로운 벤치마킹 서비스 출시]]></title>
+        <id>https://v.daum.net/v/20240112225751839</id>
+        <link href="https://v.daum.net/v/20240112225751839"/>
+        <updated>2024-01-12T14:18:02.873Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">22:57</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[평택시, 오염수 사고 수습위해 재대본 가동]]></title>
         <id>https://v.daum.net/v/20240112214540319</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240112185013156"/>
         <updated>2024-01-12T10:17:10.871Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">18:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경희사이버대학교, ‘경희로운 겨울특강’ 진행]]></title>
-        <id>https://v.daum.net/v/20240112184913133</id>
-        <link href="https://v.daum.net/v/20240112184913133"/>
-        <updated>2024-01-12T10:17:10.872Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">18:49</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울시립대 세무학과 최원석 교수, 한국세무학회 제35대 학회장 취임]]></title>
-        <id>https://v.daum.net/v/20240112184832126</id>
-        <link href="https://v.daum.net/v/20240112184832126"/>
-        <updated>2024-01-12T10:17:10.874Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">18:48</span>]]></content>
     </entry>
 </feed>
