@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-01-12T20:17:07.177Z</updated>
+    <updated>2024-01-12T21:15:21.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[뒤끝작렬]'과거'를 보는 법조인, '미래'를 보는 정치]]></title>
+        <id>https://v.daum.net/v/20240113060900075</id>
+        <link href="https://v.daum.net/v/20240113060900075"/>
+        <updated>2024-01-12T21:15:02.495Z</updated>
+        <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">06:09</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 황운하·노웅래 '출마 적격'... 野, 국민 눈높이 맞는 공천을]]></title>
         <id>https://v.daum.net/v/20240113043103447</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240113032412294"/>
         <updated>2024-01-12T19:14:33.567Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 불명확한 사실 단정 보도 MBC, 그 자체가 사과할 일]]></title>
-        <id>https://v.daum.net/v/20240113032209291</id>
-        <link href="https://v.daum.net/v/20240113032209291"/>
-        <updated>2024-01-12T18:22:55.786Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:22</span>]]></content>
     </entry>
 </feed>
