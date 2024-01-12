@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-01-12T22:15:43.213Z</updated>
+    <updated>2024-01-12T23:14:55.895Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[김회룡의 시사 TOON]]]></title>
+        <id>https://v.daum.net/v/20240113080802049</id>
+        <link href="https://v.daum.net/v/20240113080802049"/>
+        <updated>2024-01-12T23:14:43.579Z</updated>
+        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">08:08</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뒤끝작렬]'과거'를 보는 법조인, '미래'를 보는 정치]]></title>
         <id>https://v.daum.net/v/20240113060900075</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240113032619297"/>
         <updated>2024-01-12T19:14:33.565Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] ‘한 끼 식사 2500만원’ 주인 없는 기업 ‘회장 연임’ 요지경]]></title>
-        <id>https://v.daum.net/v/20240113032412294</id>
-        <link href="https://v.daum.net/v/20240113032412294"/>
-        <updated>2024-01-12T19:14:33.567Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:24</span>]]></content>
     </entry>
 </feed>
