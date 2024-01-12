@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-01-12T09:16:40.850Z</updated>
+    <updated>2024-01-12T10:17:20.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사설] ‘청부 민원’ 적반하장 방심위, 물러날 사람은 류희림 위원장이다]]></title>
+        <id>https://v.daum.net/v/20240112190504344</id>
+        <link href="https://v.daum.net/v/20240112190504344"/>
+        <updated>2024-01-12T10:17:03.248Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김용남 전 의원, '이준석 개혁신당' 합류..."국힘, 윤심이 당심"]]></title>
+        <id>https://v.daum.net/v/20240112190120312</id>
+        <link href="https://v.daum.net/v/20240112190120312"/>
+        <updated>2024-01-12T10:17:03.249Z</updated>
+        <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">19:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] ‘바이든-날리면’ 소송 MBC 패소, 법원 ‘판독불가’라며 왜 ‘허위보도’ 단정하나]]></title>
         <id>https://v.daum.net/v/20240112181003362</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240112171501907"/>
         <updated>2024-01-12T08:23:06.460Z</updated>
         <content type="html"><![CDATA[오마이뉴스<span class="txt_bar"> · </span><span class="info_time">17:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[마켓관찰] 나이 듦과 무지로의 후퇴]]></title>
-        <id>https://v.daum.net/v/20240112170909801</id>
-        <link href="https://v.daum.net/v/20240112170909801"/>
-        <updated>2024-01-12T08:23:06.461Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[도시 발견] 성남 광주대단지에서 선거를 생각한다]]></title>
-        <id>https://v.daum.net/v/20240112170905798</id>
-        <link href="https://v.daum.net/v/20240112170905798"/>
-        <updated>2024-01-12T08:23:06.465Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:09</span>]]></content>
     </entry>
 </feed>
