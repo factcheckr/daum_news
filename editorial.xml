@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-01-12T10:17:20.545Z</updated>
+    <updated>2024-01-12T11:16:33.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<뉴스브릿지> 돈 없어 감옥 가는 사람들…'장발장은행'이 돕는다]]></title>
+        <id>https://v.daum.net/v/20240112200142232</id>
+        <link href="https://v.daum.net/v/20240112200142232"/>
+        <updated>2024-01-12T11:16:14.702Z</updated>
+        <content type="html"><![CDATA[EBS<span class="txt_bar"> · </span><span class="info_time">20:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] ‘청부 민원’ 적반하장 방심위, 물러날 사람은 류희림 위원장이다]]></title>
         <id>https://v.daum.net/v/20240112190504344</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240112172402116"/>
         <updated>2024-01-12T09:16:23.462Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[증시만평] 코스피, 반도체·이차전지 부진 속 하락세]]></title>
-        <id>https://v.daum.net/v/20240112171501907</id>
-        <link href="https://v.daum.net/v/20240112171501907"/>
-        <updated>2024-01-12T08:23:06.460Z</updated>
-        <content type="html"><![CDATA[오마이뉴스<span class="txt_bar"> · </span><span class="info_time">17:15</span>]]></content>
     </entry>
 </feed>
