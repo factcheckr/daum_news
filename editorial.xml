@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-01-13T13:16:51.487Z</updated>
+    <updated>2024-01-13T14:14:15.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[세컷칼럼] '낙서 테러' 지운 경복궁…하지만 '완전 복구'는 없다]]></title>
+        <id>https://v.daum.net/v/20240113230020038</id>
+        <link href="https://v.daum.net/v/20240113230020038"/>
+        <updated>2024-01-13T14:14:01.052Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나파 카베르네 소비뇽의 제왕은 바로…[고재윤의 스토리가 있는 와인]]]></title>
         <id>https://v.daum.net/v/20240113210307313</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240113080802049"/>
         <updated>2024-01-12T23:14:43.579Z</updated>
         <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">08:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뒤끝작렬]'과거'를 보는 법조인, '미래'를 보는 정치]]></title>
-        <id>https://v.daum.net/v/20240113060900075</id>
-        <link href="https://v.daum.net/v/20240113060900075"/>
-        <updated>2024-01-12T21:15:02.495Z</updated>
-        <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">06:09</span>]]></content>
     </entry>
 </feed>
