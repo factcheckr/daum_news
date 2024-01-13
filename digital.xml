@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-01-13T02:30:10.927Z</updated>
+    <updated>2024-01-13T03:16:31.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[갤럭시S24에 들어가는 ‘갤럭시AI’, 이런 기능이?]]></title>
+        <id>https://v.daum.net/v/20240113120018228</id>
+        <link href="https://v.daum.net/v/20240113120018228"/>
+        <updated>2024-01-13T03:16:11.142Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">12:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[CES현장] 나델라 MS 대표도 찾아와 감탄한 만드로 로봇 의수]]></title>
         <id>https://v.daum.net/v/20240113112216954</id>
@@ -20,7 +27,7 @@
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">11:08</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인공신경망 거친 정보가 그림으로…생성형 AI의 탄생]]></title>
+        <title type="html"><![CDATA[‘우주인을 타고 있는 말’…생성형 AI는 못 그린다, 왜?]]></title>
         <id>https://v.daum.net/v/20240113110504818</id>
         <link href="https://v.daum.net/v/20240113110504818"/>
         <updated>2024-01-13T02:29:44.909Z</updated>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240113103117496</id>
         <link href="https://v.daum.net/v/20240113103117496"/>
         <updated>2024-01-13T02:29:44.925Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">10:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USA NASA LOCKHEED MARTIN X-59 AIRCRAFT]]></title>
-        <id>https://v.daum.net/v/20240113103115495</id>
-        <link href="https://v.daum.net/v/20240113103115495"/>
-        <updated>2024-01-13T02:29:44.926Z</updated>
         <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">10:31</span>]]></content>
     </entry>
 </feed>
