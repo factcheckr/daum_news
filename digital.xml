@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-01-13T11:15:24.334Z</updated>
+    <updated>2024-01-13T12:26:58.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[네이버, 개인정보보호 연구 결과 담은 ‘2023 프라이버시 백서’ 발간]]></title>
+        <id>https://v.daum.net/v/20240113210454335</id>
+        <link href="https://v.daum.net/v/20240113210454335"/>
+        <updated>2024-01-13T12:26:34.483Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">21:04</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[메이플 랜드 "현금 거래하면 무관용 제재합니다"]]></title>
         <id>https://v.daum.net/v/20240113195941896</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240113155301822"/>
         <updated>2024-01-13T07:16:51.072Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">15:53</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["1초만 늦었어도"…의사도 아닌데 6000명 목숨 구한 교수 [조아라의 IT's fun]]]></title>
-        <id>https://v.daum.net/v/20240113153602712</id>
-        <link href="https://v.daum.net/v/20240113153602712"/>
-        <updated>2024-01-13T07:16:51.072Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">15:36</span>]]></content>
     </entry>
 </feed>
