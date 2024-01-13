@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2024-01-13T16:18:43.266Z</updated>
+    <updated>2024-01-13T17:15:23.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[혜리, 악플에도 의연한 반응 “그냥 싫을 수도 있는 것”]]></title>
+        <id>https://v.daum.net/v/20240114012130557</id>
+        <link href="https://v.daum.net/v/20240114012130557"/>
+        <updated>2024-01-13T17:14:39.190Z</updated>
+        <content type="html"><![CDATA[MBC연예<span class="txt_bar"> · </span><span class="info_time">01:21</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김동준, '의견 대립' 최수종 결국 파직…"이제 필요없소" (고려거란전쟁)[종합]]]></title>
+        <id>https://v.daum.net/v/20240114012001552</id>
+        <link href="https://v.daum.net/v/20240114012001552"/>
+        <updated>2024-01-13T17:14:39.190Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스<span class="txt_bar"> · </span><span class="info_time">01:20</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘전지적 참견 시점’ 풍자, “드레스 60마, 1마 차이로 신기루 이겼다”]]></title>
         <id>https://v.daum.net/v/20240114011530546</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240114003648455"/>
         <updated>2024-01-13T16:18:10.343Z</updated>
         <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">00:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[TD영상] 조항조-김호중-박군-홍지윤-강예슬, 선후배가 함께라 더 눈물나는 '고맙소' 무대]]></title>
-        <id>https://v.daum.net/v/20240114003543454</id>
-        <link href="https://v.daum.net/v/20240114003543454"/>
-        <updated>2024-01-13T16:18:10.343Z</updated>
-        <content type="html"><![CDATA[티브이데일리<span class="txt_bar"> · </span><span class="info_time">00:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['전참시' 정일우 "이정재·지드래곤과 신년파티, 고교절친 이민호도 함께"]]></title>
-        <id>https://v.daum.net/v/20240114003531451</id>
-        <link href="https://v.daum.net/v/20240114003531451"/>
-        <updated>2024-01-13T16:18:10.344Z</updated>
-        <content type="html"><![CDATA[TV리포트<span class="txt_bar"> · </span><span class="info_time">00:35</span>]]></content>
     </entry>
 </feed>
