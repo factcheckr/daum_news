@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-01-14T02:32:41.688Z</updated>
+    <updated>2024-01-14T03:17:05.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대구공항, 해외여행 입국자 뎅기열 무료검사]]></title>
+        <id>https://v.daum.net/v/20240114120201407</id>
+        <link href="https://v.daum.net/v/20240114120201407"/>
+        <updated>2024-01-14T03:16:58.167Z</updated>
+        <content type="html"><![CDATA[투어코리아<span class="txt_bar"> · </span><span class="info_time">12:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정선군, 농업기계 임대료 50% 감면 사업 추진]]></title>
+        <id>https://v.daum.net/v/20240114115850211</id>
+        <link href="https://v.daum.net/v/20240114115850211"/>
+        <updated>2024-01-14T03:16:58.169Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">11:58</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바른세상병원, ‘첨단재생의료실시기관’ 지정]]></title>
+        <id>https://v.daum.net/v/20240114115335161</id>
+        <link href="https://v.daum.net/v/20240114115335161"/>
+        <updated>2024-01-14T03:16:58.170Z</updated>
+        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">11:53</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고양도시관리공사, 제6기 기술자문위원회 위원 공개 모집]]></title>
         <id>https://v.daum.net/v/20240114111803703</id>
@@ -88,19 +109,5 @@
         <link href="https://v.daum.net/v/20240114092704906"/>
         <updated>2024-01-14T01:11:07.614Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">09:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] 디지털리얼티, 첸나이에 MAA10 데이터센터 시작]]></title>
-        <id>https://v.daum.net/v/20240114084917395</id>
-        <link href="https://v.daum.net/v/20240114084917395"/>
-        <updated>2024-01-14T01:11:07.616Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">08:49</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] 뱅크오브아메리카, 2023년 4/4 분기 재무보고서]]></title>
-        <id>https://v.daum.net/v/20240114084325332</id>
-        <link href="https://v.daum.net/v/20240114084325332"/>
-        <updated>2024-01-14T01:11:07.617Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">08:43</span>]]></content>
     </entry>
 </feed>
