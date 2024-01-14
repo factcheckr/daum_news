@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2024-01-14T17:14:07.974Z</updated>
+    <updated>2024-01-14T18:20:37.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘의 채널A] 싱글맘 박은혜, 쌍둥이 아들 양육 고군분투기]]></title>
+        <id>https://v.daum.net/v/20240115030154823</id>
+        <link href="https://v.daum.net/v/20240115030154823"/>
+        <updated>2024-01-14T18:19:52.850Z</updated>
+        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">03:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[황희찬, 배우 느낌 물씬…복근 CG인 줄 [화보]]]></title>
+        <id>https://v.daum.net/v/20240115030006771</id>
+        <link href="https://v.daum.net/v/20240115030006771"/>
+        <updated>2024-01-14T18:19:52.850Z</updated>
+        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">03:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘손준호♥’ 김소현 “아들 주안이, 뮤지컬 배우 생각 없다고”[화보]]]></title>
         <id>https://v.daum.net/v/20240115020010657</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240115003013414"/>
         <updated>2024-01-14T16:18:52.847Z</updated>
         <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티빙 ‘아일랜드’, 아시안 텔레비전 어워즈 작품상 [연예뉴스 HOT]]]></title>
-        <id>https://v.daum.net/v/20240115003010413</id>
-        <link href="https://v.daum.net/v/20240115003010413"/>
-        <updated>2024-01-14T16:18:52.848Z</updated>
-        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['삼달리' 유오성, 신혜선♥지창욱 교제 허락 "너희 사랑해라"[★밤TView]]]></title>
-        <id>https://v.daum.net/v/20240115002748402</id>
-        <link href="https://v.daum.net/v/20240115002748402"/>
-        <updated>2024-01-14T16:18:52.849Z</updated>
-        <content type="html"><![CDATA[스타뉴스<span class="txt_bar"> · </span><span class="info_time">00:27</span>]]></content>
     </entry>
 </feed>
