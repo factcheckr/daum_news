@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-01-14T13:17:32.949Z</updated>
+    <updated>2024-01-14T14:14:03.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엄마와 딸 vs 첫째·둘째 아들…경영권 두고 ‘집안싸움’ 직전인 이 회사]]></title>
+        <id>https://v.daum.net/v/20240114223300665</id>
+        <link href="https://v.daum.net/v/20240114223300665"/>
+        <updated>2024-01-14T14:13:37.924Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">22:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대구시, 2026 국제 가상현실 컨퍼런스 유치]]></title>
         <id>https://v.daum.net/v/20240114215631323</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240114191002770"/>
         <updated>2024-01-14T10:15:34.284Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">19:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025학년도 의대 입학정원 '네 자릿수' 늘린다]]></title>
-        <id>https://v.daum.net/v/20240114190302709</id>
-        <link href="https://v.daum.net/v/20240114190302709"/>
-        <updated>2024-01-14T10:15:34.285Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">19:03</span>]]></content>
     </entry>
 </feed>
