@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-01-14T03:17:05.552Z</updated>
+    <updated>2024-01-14T04:19:20.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신한카드, 2023년 업적평가대회 개최]]></title>
+        <id>https://v.daum.net/v/20240114130703245</id>
+        <link href="https://v.daum.net/v/20240114130703245"/>
+        <updated>2024-01-14T04:19:06.429Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">13:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[㈜대성, 남양주시 발달장애인을 위해 후원금 360만원 전달]]></title>
+        <id>https://v.daum.net/v/20240114125311080</id>
+        <link href="https://v.daum.net/v/20240114125311080"/>
+        <updated>2024-01-14T04:19:06.430Z</updated>
+        <content type="html"><![CDATA[투어코리아<span class="txt_bar"> · </span><span class="info_time">12:53</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대구공항, 해외여행 입국자 뎅기열 무료검사]]></title>
         <id>https://v.daum.net/v/20240114120201407</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240114093703027"/>
         <updated>2024-01-14T01:11:07.611Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">09:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Belkin, 콘텐츠 제작 수준을 한 단계 끌어올리는 DockKit 기능 갖춘  Auto-Tracking Stand Pro 공개]]></title>
-        <id>https://v.daum.net/v/20240114092705907</id>
-        <link href="https://v.daum.net/v/20240114092705907"/>
-        <updated>2024-01-14T01:11:07.613Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">09:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Belkin Unveils the Auto-Tracking Stand Pro Featuring DockKit, Taking Content Creation to the Next Level]]></title>
-        <id>https://v.daum.net/v/20240114092704906</id>
-        <link href="https://v.daum.net/v/20240114092704906"/>
-        <updated>2024-01-14T01:11:07.614Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">09:27</span>]]></content>
     </entry>
 </feed>
