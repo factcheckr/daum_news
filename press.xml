@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-01-14T10:16:04.828Z</updated>
+    <updated>2024-01-14T11:17:05.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남양주시, 취업 역량을 위한 대학생시정업무체험 오리엔테이션 가져]]></title>
+        <id>https://v.daum.net/v/20240114194553118</id>
+        <link href="https://v.daum.net/v/20240114194553118"/>
+        <updated>2024-01-14T11:16:56.144Z</updated>
+        <content type="html"><![CDATA[투어코리아<span class="txt_bar"> · </span><span class="info_time">19:45</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이형섭 국힘 의정부시을 당협위원장, 출판기념회 성공적 개최]]></title>
         <id>https://v.daum.net/v/20240114173218363</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240114130703245"/>
         <updated>2024-01-14T04:19:06.429Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">13:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[㈜대성, 남양주시 발달장애인을 위해 후원금 360만원 전달]]></title>
-        <id>https://v.daum.net/v/20240114125311080</id>
-        <link href="https://v.daum.net/v/20240114125311080"/>
-        <updated>2024-01-14T04:19:06.430Z</updated>
-        <content type="html"><![CDATA[투어코리아<span class="txt_bar"> · </span><span class="info_time">12:53</span>]]></content>
     </entry>
 </feed>
