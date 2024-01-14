@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-01-14T11:17:05.312Z</updated>
+    <updated>2024-01-14T12:27:19.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ADC를 아시나요? [편집장 레터]]]></title>
+        <id>https://v.daum.net/v/20240114210305724</id>
+        <link href="https://v.daum.net/v/20240114210305724"/>
+        <updated>2024-01-14T12:27:04.176Z</updated>
+        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">21:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대남 송출 중단한 평양방송]]></title>
+        <id>https://v.daum.net/v/20240114204010529</id>
+        <link href="https://v.daum.net/v/20240114204010529"/>
+        <updated>2024-01-14T12:27:04.177Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">20:40</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[미디어세상] 방심위원 해촉 건의, 대통령이 거부해야]]></title>
+        <id>https://v.daum.net/v/20240114201823347</id>
+        <link href="https://v.daum.net/v/20240114201823347"/>
+        <updated>2024-01-14T12:27:04.179Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:18</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정동칼럼] ‘굿바이 안철수’ 이후]]></title>
+        <id>https://v.daum.net/v/20240114201812346</id>
+        <link href="https://v.daum.net/v/20240114201812346"/>
+        <updated>2024-01-14T12:27:04.181Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:18</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[詩想과 세상] 허물]]></title>
         <id>https://v.daum.net/v/20240114201446329</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20240114200028239"/>
         <updated>2024-01-14T11:16:47.758Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The artificial intelligence era starts in full force]]></title>
-        <id>https://v.daum.net/v/20240114195923225</id>
-        <link href="https://v.daum.net/v/20240114195923225"/>
-        <updated>2024-01-14T11:16:47.760Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:59</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The frontline of NATO is the key to security]]></title>
-        <id>https://v.daum.net/v/20240114195822220</id>
-        <link href="https://v.daum.net/v/20240114195822220"/>
-        <updated>2024-01-14T11:16:47.766Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:58</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Will translation see the light at the end?]]></title>
-        <id>https://v.daum.net/v/20240114195604208</id>
-        <link href="https://v.daum.net/v/20240114195604208"/>
-        <updated>2024-01-14T11:16:47.769Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:56</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rebuilding trust in the future]]></title>
-        <id>https://v.daum.net/v/20240114195423202</id>
-        <link href="https://v.daum.net/v/20240114195423202"/>
-        <updated>2024-01-14T11:16:47.770Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:54</span>]]></content>
     </entry>
 </feed>
