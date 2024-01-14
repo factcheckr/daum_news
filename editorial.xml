@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-01-14T12:27:19.960Z</updated>
+    <updated>2024-01-14T13:17:32.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024년 1월 15일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20240114220103391</id>
+        <link href="https://v.daum.net/v/20240114220103391"/>
+        <updated>2024-01-14T13:17:11.503Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[예술가의 재능과 의사의 재능 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20240114220003372</id>
+        <link href="https://v.daum.net/v/20240114220003372"/>
+        <updated>2024-01-14T13:17:11.509Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[스트레이트] 수십억 부자된 반란군‥하나회 정말 사라졌나?]]></title>
+        <id>https://v.daum.net/v/20240114215511315</id>
+        <link href="https://v.daum.net/v/20240114215511315"/>
+        <updated>2024-01-14T13:17:11.509Z</updated>
+        <content type="html"><![CDATA[MBC<span class="txt_bar"> · </span><span class="info_time">21:55</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ADC를 아시나요? [편집장 레터]]]></title>
         <id>https://v.daum.net/v/20240114210305724</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240114200453269"/>
         <updated>2024-01-14T11:16:47.752Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[NGO 발언대] 나의 레즈비언 친구의 결혼식]]></title>
-        <id>https://v.daum.net/v/20240114200442267</id>
-        <link href="https://v.daum.net/v/20240114200442267"/>
-        <updated>2024-01-14T11:16:47.754Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[조현철의 나락 한 알] ‘이재, 곧 죽습니다’]]></title>
-        <id>https://v.daum.net/v/20240114200436266</id>
-        <link href="https://v.daum.net/v/20240114200436266"/>
-        <updated>2024-01-14T11:16:47.757Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crisis management with North Korea]]></title>
-        <id>https://v.daum.net/v/20240114200028239</id>
-        <link href="https://v.daum.net/v/20240114200028239"/>
-        <updated>2024-01-14T11:16:47.758Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:00</span>]]></content>
     </entry>
 </feed>
