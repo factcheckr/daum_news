@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-01-14T06:19:32.780Z</updated>
+    <updated>2024-01-14T07:14:44.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[ESG칼럼] ESG경영, 이제는 적자생존이다]]></title>
+        <id>https://v.daum.net/v/20240114160110555</id>
+        <link href="https://v.daum.net/v/20240114160110555"/>
+        <updated>2024-01-14T07:14:24.204Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">16:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[지평선] 내 편을 겨누는 자객들]]></title>
+        <id>https://v.daum.net/v/20240114160004525</id>
+        <link href="https://v.daum.net/v/20240114160004525"/>
+        <updated>2024-01-14T07:14:24.205Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">16:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[아침햇발] 민주당 분열·위기 부른 이재명의 ‘선사후당’]]></title>
+        <id>https://v.daum.net/v/20240114153507070</id>
+        <link href="https://v.daum.net/v/20240114153507070"/>
+        <updated>2024-01-14T07:14:24.209Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">15:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[신영전 칼럼] 흉터는 힘이 세다]]></title>
         <id>https://v.daum.net/v/20240114151517675</id>
@@ -88,19 +109,5 @@
         <link href="https://v.daum.net/v/20240114080035952"/>
         <updated>2024-01-13T23:15:34.814Z</updated>
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공공의 적, '바이오 카르텔’[류성의 제약국부론]]]></title>
-        <id>https://v.daum.net/v/20240114060052198</id>
-        <link href="https://v.daum.net/v/20240114060052198"/>
-        <updated>2024-01-13T21:13:22.796Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자신감 풀충! 쿵야 마인드로 나답게 살아가는 법은?]]></title>
-        <id>https://v.daum.net/v/20240114001038378</id>
-        <link href="https://v.daum.net/v/20240114001038378"/>
-        <updated>2024-01-13T15:14:53.464Z</updated>
-        <content type="html"><![CDATA[코스모폴리탄<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
     </entry>
 </feed>
