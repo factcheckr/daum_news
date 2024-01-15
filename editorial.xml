@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-01-15T11:14:33.982Z</updated>
+    <updated>2024-01-15T12:29:41.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나라를 지키는 ‘카이로스’ [김선걸 칼럼]]]></title>
+        <id>https://v.daum.net/v/20240115210317685</id>
+        <link href="https://v.daum.net/v/20240115210317685"/>
+        <updated>2024-01-15T12:29:24.147Z</updated>
+        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">21:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1월 16일 한겨레 그림판]]></title>
+        <id>https://v.daum.net/v/20240115205003440</id>
+        <link href="https://v.daum.net/v/20240115205003440"/>
+        <updated>2024-01-15T12:29:24.147Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">20:50</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[만물상] ‘삼겹살 지방은 1㎝ 이하로’]]></title>
+        <id>https://v.daum.net/v/20240115202116017</id>
+        <link href="https://v.daum.net/v/20240115202116017"/>
+        <updated>2024-01-15T12:29:24.150Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">20:21</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[세상읽기] 우리의 대안을 조직하자]]></title>
         <id>https://v.daum.net/v/20240115201357917</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240115200219757"/>
         <updated>2024-01-15T11:14:15.750Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kim Ju-ae being groomed to lead a brutal regime]]></title>
-        <id>https://v.daum.net/v/20240115200030728</id>
-        <link href="https://v.daum.net/v/20240115200030728"/>
-        <updated>2024-01-15T11:14:15.751Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[홍기빈의 두 번째 의견] ‘부자 포퓰리즘’의 정치공학]]></title>
-        <id>https://v.daum.net/v/20240115195950706</id>
-        <link href="https://v.daum.net/v/20240115195950706"/>
-        <updated>2024-01-15T11:14:15.753Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">19:59</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Who'll be worse off?]]></title>
-        <id>https://v.daum.net/v/20240115195748682</id>
-        <link href="https://v.daum.net/v/20240115195748682"/>
-        <updated>2024-01-15T11:14:15.758Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:57</span>]]></content>
     </entry>
 </feed>
