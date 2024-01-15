@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-01-15T16:22:28.050Z</updated>
+    <updated>2024-01-15T17:14:46.469Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]'병역의 권리'와 여성지원병제]]></title>
+        <id>https://v.daum.net/v/20240116020302677</id>
+        <link href="https://v.daum.net/v/20240116020302677"/>
+        <updated>2024-01-15T17:14:32.474Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 혼란 커진 비트코인 ETF 거래…제도 정비 필요하다]]></title>
         <id>https://v.daum.net/v/20240116003409470</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240116001702375"/>
         <updated>2024-01-15T16:22:12.212Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 새해 국회, 진짜 민생법안 외면하고 특검으로 날 새울 건가]]></title>
-        <id>https://v.daum.net/v/20240116001602366</id>
-        <link href="https://v.daum.net/v/20240116001602366"/>
-        <updated>2024-01-15T15:17:01.328Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:16</span>]]></content>
     </entry>
 </feed>
