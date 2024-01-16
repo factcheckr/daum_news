@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-01-16T03:18:33.608Z</updated>
+    <updated>2024-01-16T04:20:00.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[THE VIEW]미국 고교의 필수학점 '금융지성']]></title>
+        <id>https://v.daum.net/v/20240116125515273</id>
+        <link href="https://v.daum.net/v/20240116125515273"/>
+        <updated>2024-01-16T04:19:37.033Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">12:55</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024년 위협하는 글로벌 '5대 리스크' [기고]]]></title>
+        <id>https://v.daum.net/v/20240116124015015</id>
+        <link href="https://v.daum.net/v/20240116124015015"/>
+        <updated>2024-01-16T04:19:37.033Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">12:40</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“1억 넘던 종부세, 이번엔 1200만원 냈어요”…마냥 달갑지만은 않은 까닭 [매경포럼]]]></title>
         <id>https://v.daum.net/v/20240116114206358</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20240116110747203</id>
         <link href="https://v.daum.net/v/20240116110747203"/>
         <updated>2024-01-16T02:30:07.284Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 고체 극초음속 미사일 쏘며 한국을 ‘제1적대국’이라는 北]]></title>
-        <id>https://v.daum.net/v/20240116110723188</id>
-        <link href="https://v.daum.net/v/20240116110723188"/>
-        <updated>2024-01-16T02:30:07.285Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 622조 ‘반도체 원톱’ 구상, 특혜 시비 넘어 속도 내야]]></title>
-        <id>https://v.daum.net/v/20240116110722187</id>
-        <link href="https://v.daum.net/v/20240116110722187"/>
-        <updated>2024-01-16T02:30:07.286Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:07</span>]]></content>
     </entry>
 </feed>
