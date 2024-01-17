@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-01-17T16:20:32.471Z</updated>
+    <updated>2024-01-17T17:16:39.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]올바른 의료서비스와 구급차 이용법]]></title>
+        <id>https://v.daum.net/v/20240118020302826</id>
+        <link href="https://v.daum.net/v/20240118020302826"/>
+        <updated>2024-01-17T17:16:21.018Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 미적대는 중대재해처벌법 유예…속타는 중소기업]]></title>
         <id>https://v.daum.net/v/20240118003303541</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240118002101477"/>
         <updated>2024-01-17T16:20:19.233Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 자본시장 감세도 좋지만, 증시 발전엔 기업 활력이 우선]]></title>
-        <id>https://v.daum.net/v/20240118002003471</id>
-        <link href="https://v.daum.net/v/20240118002003471"/>
-        <updated>2024-01-17T16:20:19.235Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:20</span>]]></content>
     </entry>
 </feed>
