@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-01-17T11:14:22.971Z</updated>
+    <updated>2024-01-17T12:29:26.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[국민만평-서민호 화백] 2024년 1월 18일]]></title>
+        <id>https://v.daum.net/v/20240117212217539</id>
+        <link href="https://v.daum.net/v/20240117212217539"/>
+        <updated>2024-01-17T12:29:12.009Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">21:22</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024년 1월 18일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20240117202450547</id>
+        <link href="https://v.daum.net/v/20240117202450547"/>
+        <updated>2024-01-17T12:29:12.009Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:24</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[왕진은 치료만 하는게 아니었다...日나가노가 장수촌 된 비결]]></title>
         <id>https://v.daum.net/v/20240117201016302</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240117195457931"/>
         <updated>2024-01-17T11:14:08.878Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">19:54</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[만평] 조기영의 세상터치 2024년 1월 18일]]></title>
-        <id>https://v.daum.net/v/20240117194303688</id>
-        <link href="https://v.daum.net/v/20240117194303688"/>
-        <updated>2024-01-17T11:14:08.879Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">19:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 복귀한 이재명, ‘야당 심판·사당화’ 불식시킬 리더십 보여야]]></title>
-        <id>https://v.daum.net/v/20240117193834610</id>
-        <link href="https://v.daum.net/v/20240117193834610"/>
-        <updated>2024-01-17T11:14:08.880Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">19:38</span>]]></content>
     </entry>
 </feed>
