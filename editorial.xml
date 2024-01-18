@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-01-18T04:19:27.518Z</updated>
+    <updated>2024-01-18T05:16:55.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[기고] 거세지는 중국의 배터리 공세, 유럽도 이제 격전지]]></title>
+        <id>https://v.daum.net/v/20240118141244993</id>
+        <link href="https://v.daum.net/v/20240118141244993"/>
+        <updated>2024-01-18T05:16:38.187Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">14:12</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[민주당 김경욱 전 인천공항공사 사장, 22대 총선 충주 출마 선언]]></title>
+        <id>https://v.daum.net/v/20240118134308096</id>
+        <link href="https://v.daum.net/v/20240118134308096"/>
+        <updated>2024-01-18T05:16:38.188Z</updated>
+        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">13:43</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[데일리안 시사만평] 돌아온 이재명…결국 망상적 정쟁화의 탄압인식 심기 돌입]]></title>
         <id>https://v.daum.net/v/20240118130809368</id>
@@ -20,7 +34,7 @@
         <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">12:03</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[카카오모빌리티, 끝없는 악재...포렌식 조사 뭐길래 [기업 백브리핑]]]></title>
+        <title type="html"><![CDATA[카카오모빌리티, 끝없는 악재…포렌식 조사 뭐길래 [기업 백브리핑]]]></title>
         <id>https://v.daum.net/v/20240118120325142</id>
         <link href="https://v.daum.net/v/20240118120325142"/>
         <updated>2024-01-18T03:17:01.552Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240118112400449"/>
         <updated>2024-01-18T02:29:51.012Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">11:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 삼성 세계 첫 AI폰, AI생태계 ‘퍼스트무버’ 꿰차길]]></title>
-        <id>https://v.daum.net/v/20240118112009246</id>
-        <link href="https://v.daum.net/v/20240118112009246"/>
-        <updated>2024-01-18T02:29:51.016Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 주식시장 K디스카운트 해소, 상속세 등 세제개혁도 한 축]]></title>
-        <id>https://v.daum.net/v/20240118112008244</id>
-        <link href="https://v.daum.net/v/20240118112008244"/>
-        <updated>2024-01-18T02:29:51.018Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:20</span>]]></content>
     </entry>
 </feed>
