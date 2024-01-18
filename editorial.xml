@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-01-18T03:17:15.040Z</updated>
+    <updated>2024-01-18T04:19:27.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[데일리안 시사만평] 돌아온 이재명…결국 망상적 정쟁화의 탄압인식 심기 돌입]]></title>
+        <id>https://v.daum.net/v/20240118130809368</id>
+        <link href="https://v.daum.net/v/20240118130809368"/>
+        <updated>2024-01-18T04:19:10.289Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">13:08</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오너독단에 남양유업서 짐 싸는 홍원식 회장 [CEO 업&다운]]]></title>
         <id>https://v.daum.net/v/20240118120341157</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240118112008244"/>
         <updated>2024-01-18T02:29:51.018Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데스크칼럼] 상속은 ‘부의 대물림’ 아니라 ‘업(業)의 승계’]]></title>
-        <id>https://v.daum.net/v/20240118111929202</id>
-        <link href="https://v.daum.net/v/20240118111929202"/>
-        <updated>2024-01-18T02:29:51.019Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:19</span>]]></content>
     </entry>
 </feed>
