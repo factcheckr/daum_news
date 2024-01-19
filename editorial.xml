@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-01-19T08:21:57.417Z</updated>
+    <updated>2024-01-19T09:16:30.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사설] 이태원 특별법도 거부권 방침, 유족들 삭발까지 하게 만드나]]></title>
+        <id>https://v.daum.net/v/20240119181001326</id>
+        <link href="https://v.daum.net/v/20240119181001326"/>
+        <updated>2024-01-19T09:16:12.917Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">18:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[메아리] 속지 말자, 부동산 대책 발표]]></title>
+        <id>https://v.daum.net/v/20240119180007105</id>
+        <link href="https://v.daum.net/v/20240119180007105"/>
+        <updated>2024-01-19T09:16:12.918Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">18:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[동십자각]사기죄, 엄벌이 필요하다]]></title>
+        <id>https://v.daum.net/v/20240119173945620</id>
+        <link href="https://v.daum.net/v/20240119173945620"/>
+        <updated>2024-01-19T09:16:12.918Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">17:39</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[매경춘추] 푸른별과 우주청]]></title>
+        <id>https://v.daum.net/v/20240119172413231</id>
+        <link href="https://v.daum.net/v/20240119172413231"/>
+        <updated>2024-01-19T09:16:12.919Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:24</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주말경제산책] 글로컬 대학은 반드시 성공해야 한다]]></title>
         <id>https://v.daum.net/v/20240119172116117</id>
@@ -23,13 +51,6 @@
         <title type="html"><![CDATA[[밀레니얼 시각] MBTI 유행과 우리 시대의 냉소주의]]></title>
         <id>https://v.daum.net/v/20240119172113112</id>
         <link href="https://v.daum.net/v/20240119172113112"/>
-        <updated>2024-01-19T08:21:38.716Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서정원의 사견] 날것의 언어로 본 저출산 원인]]></title>
-        <id>https://v.daum.net/v/20240119172111110</id>
-        <link href="https://v.daum.net/v/20240119172111110"/>
         <updated>2024-01-19T08:21:38.716Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:21</span>]]></content>
     </entry>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240119165402288"/>
         <updated>2024-01-19T08:21:38.724Z</updated>
         <content type="html"><![CDATA[오마이뉴스<span class="txt_bar"> · </span><span class="info_time">16:54</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[권익위, 고용부에 ‘외국인 근로자 고용허가제도’ 개선 권고]]></title>
-        <id>https://v.daum.net/v/20240119165018193</id>
-        <link href="https://v.daum.net/v/20240119165018193"/>
-        <updated>2024-01-19T08:21:38.725Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">16:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘환상연가’ 박지훈·홍예지, 물오른 판타지 사극 로맨스]]></title>
-        <id>https://v.daum.net/v/20240119163045685</id>
-        <link href="https://v.daum.net/v/20240119163045685"/>
-        <updated>2024-01-19T08:21:38.727Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">16:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 북한 외무상의 러시아 방문, 한반도 더 위험해질 전조인가]]></title>
-        <id>https://v.daum.net/v/20240119162759594</id>
-        <link href="https://v.daum.net/v/20240119162759594"/>
-        <updated>2024-01-19T08:21:38.728Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">16:27</span>]]></content>
     </entry>
 </feed>
