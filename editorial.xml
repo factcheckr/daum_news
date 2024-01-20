@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-01-19T23:14:29.129Z</updated>
+    <updated>2024-01-20T01:05:56.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[만나보니] "분만실은 없고 영안실만···" 시골 의사의 의료 공백 대안은?]]></title>
+        <id>https://v.daum.net/v/20240120100131853</id>
+        <link href="https://v.daum.net/v/20240120100131853"/>
+        <updated>2024-01-20T01:05:40.030Z</updated>
+        <content type="html"><![CDATA[대구MBC<span class="txt_bar"> · </span><span class="info_time">10:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[전국 주요 신문 톱뉴스](20일 조간)]]></title>
+        <id>https://v.daum.net/v/20240120100007798</id>
+        <link href="https://v.daum.net/v/20240120100007798"/>
+        <updated>2024-01-20T01:05:40.031Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">10:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부고] 김병욱씨(아름자산운용 대표)부친상]]></title>
         <id>https://v.daum.net/v/20240120081146931</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240120043032121"/>
         <updated>2024-01-19T20:16:43.201Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한마당] 승무원 출신 사장]]></title>
-        <id>https://v.daum.net/v/20240120041208095</id>
-        <link href="https://v.daum.net/v/20240120041208095"/>
-        <updated>2024-01-19T19:13:05.746Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창] 쇼츠의 세상]]></title>
-        <id>https://v.daum.net/v/20240120041008090</id>
-        <link href="https://v.daum.net/v/20240120041008090"/>
-        <updated>2024-01-19T19:13:05.746Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:10</span>]]></content>
     </entry>
 </feed>
