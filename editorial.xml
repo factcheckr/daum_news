@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-01-20T13:16:54.644Z</updated>
+    <updated>2024-01-20T14:14:02.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[세컷칼럼] ‘망천’소리 들어 마땅한 민주당 공천 난맥상]]></title>
+        <id>https://v.daum.net/v/20240120230022521</id>
+        <link href="https://v.daum.net/v/20240120230022521"/>
+        <updated>2024-01-20T14:13:45.493Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1103회 로또 당첨번호조회, 로또 당첨확률 통계]]></title>
         <id>https://v.daum.net/v/20240120212702743</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240120063902010"/>
         <updated>2024-01-19T22:14:57.601Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">06:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[존중에 대하여 [ESC]]]></title>
-        <id>https://v.daum.net/v/20240120060501754</id>
-        <link href="https://v.daum.net/v/20240120060501754"/>
-        <updated>2024-01-19T21:17:22.722Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">06:05</span>]]></content>
     </entry>
 </feed>
