@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-01-20T03:16:44.803Z</updated>
+    <updated>2024-01-20T04:18:59.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[애플 9년 만에 내놓는 신제품 비전 프로 19일 사전 판매 시작]]></title>
+        <id>https://v.daum.net/v/20240120131806517</id>
+        <link href="https://v.daum.net/v/20240120131806517"/>
+        <updated>2024-01-20T04:18:31.706Z</updated>
+        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">13:18</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네이버페이, ‘자동차보험 비교·추천’ 출시]]></title>
+        <id>https://v.daum.net/v/20240120130252416</id>
+        <link href="https://v.daum.net/v/20240120130252416"/>
+        <updated>2024-01-20T04:18:31.706Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">13:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“눈치보여 화장실도 못가요” 사장님 그러다 과징금 맞습니다]]></title>
+        <id>https://v.daum.net/v/20240120124628295</id>
+        <link href="https://v.daum.net/v/20240120124628295"/>
+        <updated>2024-01-20T04:18:31.706Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">12:46</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기름통에 넣고 몇 번 누르면 신기하게 올라오네…근데 그거 뭐지? [그거사전]]]></title>
+        <id>https://v.daum.net/v/20240120124500289</id>
+        <link href="https://v.daum.net/v/20240120124500289"/>
+        <updated>2024-01-20T04:18:31.709Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">12:45</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JAPAN SPACE PROGRAMS MOON LANDER]]></title>
+        <id>https://v.daum.net/v/20240120122403187</id>
+        <link href="https://v.daum.net/v/20240120122403187"/>
+        <updated>2024-01-20T04:18:31.711Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">12:24</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JAPAN SPACE PROGRAMS MOON LANDER]]></title>
         <id>https://v.daum.net/v/20240120121611123</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20240120112453755"/>
         <updated>2024-01-20T02:28:22.260Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">11:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“2만달러면 학술지 실어드립니다” 학술지 편집자들과 논문공장의 은밀한 뒷거래]]></title>
-        <id>https://v.daum.net/v/20240120111914711</id>
-        <link href="https://v.daum.net/v/20240120111914711"/>
-        <updated>2024-01-20T02:28:22.262Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">11:19</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[많은 인파 찾은 애플스토어 홀대]]></title>
-        <id>https://v.daum.net/v/20240120111735697</id>
-        <link href="https://v.daum.net/v/20240120111735697"/>
-        <updated>2024-01-20T02:28:22.263Z</updated>
-        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">11:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[많은 시민 찾은 애플스토어 홍대]]></title>
-        <id>https://v.daum.net/v/20240120111518681</id>
-        <link href="https://v.daum.net/v/20240120111518681"/>
-        <updated>2024-01-20T02:28:22.264Z</updated>
-        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">11:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인파 북적이는 애플스토어 홍대]]></title>
-        <id>https://v.daum.net/v/20240120111517679</id>
-        <link href="https://v.daum.net/v/20240120111517679"/>
-        <updated>2024-01-20T02:28:22.266Z</updated>
-        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">11:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내 7번째 애플스토어 홍대 오픈]]></title>
-        <id>https://v.daum.net/v/20240120111515678</id>
-        <link href="https://v.daum.net/v/20240120111515678"/>
-        <updated>2024-01-20T02:28:22.267Z</updated>
-        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">11:15</span>]]></content>
     </entry>
 </feed>
