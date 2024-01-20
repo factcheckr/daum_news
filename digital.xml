@@ -2,11 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-01-20T04:18:59.018Z</updated>
+    <updated>2024-01-20T05:17:38.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[애플 9년 만에 내놓는 신제품 비전 프로 19일 사전 판매 시작]]></title>
+        <title type="html"><![CDATA[“나는 왜 이렇게 이 조직이 싫을까” 알고 보니… [사이언스 브런치]]]></title>
+        <id>https://v.daum.net/v/20240120140102863</id>
+        <link href="https://v.daum.net/v/20240120140102863"/>
+        <updated>2024-01-20T05:17:15.726Z</updated>
+        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">14:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인공지능(AI), 무차별 일자리 공습 ‘ON’… ”안전지대가 없다”]]></title>
+        <id>https://v.daum.net/v/20240120140014855</id>
+        <link href="https://v.daum.net/v/20240120140014855"/>
+        <updated>2024-01-20T05:17:15.731Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인류가 '매머드' 멸종 시켰나…엄니에 남은 1만년 전 단서[사이언스 PICK]]]></title>
+        <id>https://v.daum.net/v/20240120133004620</id>
+        <link href="https://v.daum.net/v/20240120133004620"/>
+        <updated>2024-01-20T05:17:15.731Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">13:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에스티이지, 케이뱅크 온라인뱅킹 분야 최초 IT서비스관리 'ISO 20000' 인증 지원]]></title>
+        <id>https://v.daum.net/v/20240120131903520</id>
+        <link href="https://v.daum.net/v/20240120131903520"/>
+        <updated>2024-01-20T05:17:15.731Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">13:19</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플 9년 만에 내놓는 신제품 ‘비전 프로’ 사전 판매 시작]]></title>
         <id>https://v.daum.net/v/20240120131806517</id>
         <link href="https://v.daum.net/v/20240120131806517"/>
         <updated>2024-01-20T04:18:31.706Z</updated>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20240120113602838"/>
         <updated>2024-01-20T03:16:19.346Z</updated>
         <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">11:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플스토어 홍대에 모인 시민들]]></title>
-        <id>https://v.daum.net/v/20240120112627770</id>
-        <link href="https://v.daum.net/v/20240120112627770"/>
-        <updated>2024-01-20T02:28:22.256Z</updated>
-        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">11:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플스토어 오픈 기다리는 시민들]]></title>
-        <id>https://v.daum.net/v/20240120112617768</id>
-        <link href="https://v.daum.net/v/20240120112617768"/>
-        <updated>2024-01-20T02:28:22.258Z</updated>
-        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">11:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내 7번째 애플스토어 오픈]]></title>
-        <id>https://v.daum.net/v/20240120112605763</id>
-        <link href="https://v.daum.net/v/20240120112605763"/>
-        <updated>2024-01-20T02:28:22.259Z</updated>
-        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">11:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세계 5번째 달 착륙에도 태양전지 문제로 웃지 못하는 일본]]></title>
-        <id>https://v.daum.net/v/20240120112453755</id>
-        <link href="https://v.daum.net/v/20240120112453755"/>
-        <updated>2024-01-20T02:28:22.260Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">11:24</span>]]></content>
     </entry>
 </feed>
