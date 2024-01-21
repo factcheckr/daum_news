@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-01-21T12:28:39.224Z</updated>
+    <updated>2024-01-21T13:18:32.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024년 1월 22일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20240121220034336</id>
+        <link href="https://v.daum.net/v/20240121220034336"/>
+        <updated>2024-01-21T13:18:19.112Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시인 박인환을 다시 만난 후 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20240121220005328</id>
+        <link href="https://v.daum.net/v/20240121220005328"/>
+        <updated>2024-01-21T13:18:19.112Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비트코인 현물 ETF 승인을 바라보는 두 가지 시선 [편집장 레터]]]></title>
         <id>https://v.daum.net/v/20240121210312971</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240121201006620"/>
         <updated>2024-01-21T11:12:54.946Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weathering the turbulent wave from the strait]]></title>
-        <id>https://v.daum.net/v/20240121200835612</id>
-        <link href="https://v.daum.net/v/20240121200835612"/>
-        <updated>2024-01-21T11:12:54.947Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노래와 세상] 기역니은 춤]]></title>
-        <id>https://v.daum.net/v/20240121200833611</id>
-        <link href="https://v.daum.net/v/20240121200833611"/>
-        <updated>2024-01-21T11:12:54.948Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:08</span>]]></content>
     </entry>
 </feed>
