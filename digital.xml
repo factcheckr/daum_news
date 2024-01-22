@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-01-22T12:34:33.573Z</updated>
+    <updated>2024-01-22T13:22:32.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이니텍, 옥성환 부사장 신규 대표선임]]></title>
+        <id>https://v.daum.net/v/20240122222100270</id>
+        <link href="https://v.daum.net/v/20240122222100270"/>
+        <updated>2024-01-22T13:22:07.797Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">22:21</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한수원, ‘원전 수명 연장’ 관련 고창군에 행정소송]]></title>
+        <id>https://v.daum.net/v/20240122220531172</id>
+        <link href="https://v.daum.net/v/20240122220531172"/>
+        <updated>2024-01-22T13:22:07.801Z</updated>
+        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">22:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오비오, 새해 870kW 규모 태양광 발전 설비 구축]]></title>
+        <id>https://v.daum.net/v/20240122220423156</id>
+        <link href="https://v.daum.net/v/20240122220423156"/>
+        <updated>2024-01-22T13:22:07.802Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">22:04</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[던전앤파이터 "아이템 옵션 전부 간소화한다"]]></title>
         <id>https://v.daum.net/v/20240122212837742</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240122200001466"/>
         <updated>2024-01-22T11:13:59.003Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">20:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빅게임스튜디오, 첫 공식 대회 개최... '블클모 챔피언십' 참가자 모집]]></title>
-        <id>https://v.daum.net/v/20240122194809307</id>
-        <link href="https://v.daum.net/v/20240122194809307"/>
-        <updated>2024-01-22T11:13:59.005Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스<span class="txt_bar"> · </span><span class="info_time">19:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이랜서, 고난도 AI기술 요하는 씨름 동작 분석 알고리즘 개발]]></title>
-        <id>https://v.daum.net/v/20240122194530272</id>
-        <link href="https://v.daum.net/v/20240122194530272"/>
-        <updated>2024-01-22T11:13:59.006Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">19:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“꼭 아이 낳고 싶어요” 간절한 직원 위해…회사가 ‘1500만원’ 지원한다]]></title>
-        <id>https://v.daum.net/v/20240122194125214</id>
-        <link href="https://v.daum.net/v/20240122194125214"/>
-        <updated>2024-01-22T11:13:59.007Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">19:41</span>]]></content>
     </entry>
 </feed>
