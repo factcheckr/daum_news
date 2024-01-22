@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-01-22T03:17:30.519Z</updated>
+    <updated>2024-01-22T04:19:55.433Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[홍천군 서면, 저상형 청소차 도입]]></title>
+        <id>https://v.daum.net/v/20240122122407865</id>
+        <link href="https://v.daum.net/v/20240122122407865"/>
+        <updated>2024-01-22T04:19:48.627Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">12:24</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후쿠시마 원전 오염수 방류 관련 일일 브리핑(1.19.)]]></title>
+        <id>https://v.daum.net/v/20240122122019746</id>
+        <link href="https://v.daum.net/v/20240122122019746"/>
+        <updated>2024-01-22T04:19:48.628Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">12:20</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[괴산군, ‘안전 보험 보장항목’ 확대 운영]]></title>
         <id>https://v.daum.net/v/20240122115042895</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240122111932729"/>
         <updated>2024-01-22T02:34:31.337Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">11:19</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세종시, 축산농가 경쟁력 강화…62억 투입]]></title>
-        <id>https://v.daum.net/v/20240122111808664</id>
-        <link href="https://v.daum.net/v/20240122111808664"/>
-        <updated>2024-01-22T02:34:31.338Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강릉시, 2024년 시민공감 친절 민원실 운영]]></title>
-        <id>https://v.daum.net/v/20240122111757640</id>
-        <link href="https://v.daum.net/v/20240122111757640"/>
-        <updated>2024-01-22T02:34:31.339Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:17</span>]]></content>
     </entry>
 </feed>
