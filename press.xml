@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-01-23T03:17:22.961Z</updated>
+    <updated>2024-01-23T04:19:57.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['보성몰' 설맞이 최대 30% 특별 할인]]></title>
+        <id>https://v.daum.net/v/20240123131539945</id>
+        <link href="https://v.daum.net/v/20240123131539945"/>
+        <updated>2024-01-23T04:19:48.744Z</updated>
+        <content type="html"><![CDATA[투어코리아<span class="txt_bar"> · </span><span class="info_time">13:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['봄의 전령사' 복수초 자생지 동해 냉천공원, 도심속 힐링공간 재탄생]]></title>
+        <id>https://v.daum.net/v/20240123125623559</id>
+        <link href="https://v.daum.net/v/20240123125623559"/>
+        <updated>2024-01-23T04:19:48.745Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">12:56</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Multiple New Analyses Reinforce the Role of BAVENCIO® (avelumab) First-Line Maintenance as a Standard of Care in Patients with Locally Advanced or Metastatic Urothelial Carcinoma]]></title>
         <id>https://v.daum.net/v/20240123115708439</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240123112848304"/>
         <updated>2024-01-23T02:31:47.421Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:28</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DGB대구은행 ‘해외 모바일 간편 페이’ 시스템 도입]]></title>
-        <id>https://v.daum.net/v/20240123112707253</id>
-        <link href="https://v.daum.net/v/20240123112707253"/>
-        <updated>2024-01-23T02:31:47.422Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">11:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼화페인트, SK티비엠지오스톤·피앤비와 친환경 생분해 용기 도입 협약]]></title>
-        <id>https://v.daum.net/v/20240123112509171</id>
-        <link href="https://v.daum.net/v/20240123112509171"/>
-        <updated>2024-01-23T02:31:47.423Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:25</span>]]></content>
     </entry>
 </feed>
