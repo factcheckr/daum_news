@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-01-23T11:13:57.677Z</updated>
+    <updated>2024-01-23T12:29:23.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[만물상] ‘돈 벽돌’ 쌓기]]></title>
+        <id>https://v.daum.net/v/20240123203425908</id>
+        <link href="https://v.daum.net/v/20240123203425908"/>
+        <updated>2024-01-23T12:29:06.752Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">20:34</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[경제직필] 올해 한국 경제 불확실성과 재정압박]]></title>
+        <id>https://v.daum.net/v/20240123202223708</id>
+        <link href="https://v.daum.net/v/20240123202223708"/>
+        <updated>2024-01-23T12:29:06.753Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:22</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[공감] 이 돌을 지닌 나는, 어떻게 살 것인가]]></title>
+        <id>https://v.daum.net/v/20240123202216706</id>
+        <link href="https://v.daum.net/v/20240123202216706"/>
+        <updated>2024-01-23T12:29:06.757Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:22</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[송혁기의 책상물림] 대설주의보와 서설]]></title>
         <id>https://v.daum.net/v/20240123200554407</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240123194005034"/>
         <updated>2024-01-23T11:13:43.451Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Preordained dystopia]]></title>
-        <id>https://v.daum.net/v/20240123193833017</id>
-        <link href="https://v.daum.net/v/20240123193833017"/>
-        <updated>2024-01-23T11:13:43.452Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:38</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1월 24일 한겨레 그림판]]></title>
-        <id>https://v.daum.net/v/20240123193506978</id>
-        <link href="https://v.daum.net/v/20240123193506978"/>
-        <updated>2024-01-23T11:13:43.453Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박용석 만평] 1월 24일]]></title>
-        <id>https://v.daum.net/v/20240123193031914</id>
-        <link href="https://v.daum.net/v/20240123193031914"/>
-        <updated>2024-01-23T11:13:43.455Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">19:30</span>]]></content>
     </entry>
 </feed>
