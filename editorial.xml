@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-01-23T12:29:23.345Z</updated>
+    <updated>2024-01-23T13:23:27.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024년 1월 24일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20240123220222020</id>
+        <link href="https://v.daum.net/v/20240123220222020"/>
+        <updated>2024-01-23T13:23:10.730Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[만물상] ‘돈 벽돌’ 쌓기]]></title>
         <id>https://v.daum.net/v/20240123203425908</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240123194206061"/>
         <updated>2024-01-23T11:13:43.450Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hey, I'm the boss!]]></title>
-        <id>https://v.daum.net/v/20240123194005034</id>
-        <link href="https://v.daum.net/v/20240123194005034"/>
-        <updated>2024-01-23T11:13:43.451Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:40</span>]]></content>
     </entry>
 </feed>
