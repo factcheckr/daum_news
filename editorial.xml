@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-01-23T07:16:39.000Z</updated>
+    <updated>2024-01-23T08:20:20.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[증시만평] 코스피 0.58% 상승 마감]]></title>
+        <id>https://v.daum.net/v/20240123171501293</id>
+        <link href="https://v.daum.net/v/20240123171501293"/>
+        <updated>2024-01-23T08:20:07.490Z</updated>
+        <content type="html"><![CDATA[오마이뉴스<span class="txt_bar"> · </span><span class="info_time">17:15</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아침햇발] ‘혼자가 좋다’는 나라의 저출생 대책]]></title>
         <id>https://v.daum.net/v/20240123154016046</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240123113911830</id>
         <link href="https://v.daum.net/v/20240123113911830"/>
         <updated>2024-01-23T03:17:04.154Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘과학기술외교’ 획기적 확장 급하다[시평]]]></title>
-        <id>https://v.daum.net/v/20240123113909828</id>
-        <link href="https://v.daum.net/v/20240123113909828"/>
-        <updated>2024-01-23T03:17:04.156Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:39</span>]]></content>
     </entry>
 </feed>
