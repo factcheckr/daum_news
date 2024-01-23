@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-01-23T04:19:57.115Z</updated>
+    <updated>2024-01-23T05:15:55.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["노안이 갑자기 개선됐다"… 긍정적 신호 아닐 수 있어]]></title>
+        <id>https://v.daum.net/v/20240123140014193</id>
+        <link href="https://v.daum.net/v/20240123140014193"/>
+        <updated>2024-01-23T05:15:36.414Z</updated>
+        <content type="html"><![CDATA[헬스조선<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인도 증시, 홍콩 제치고 세계 시가총액 4위]]></title>
         <id>https://v.daum.net/v/20240123131306879</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240123111042456"/>
         <updated>2024-01-23T02:31:40.000Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">11:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 마트 휴무제·단통법 폐지 생활 규제 개혁 더 속도내야]]></title>
-        <id>https://v.daum.net/v/20240123111022451</id>
-        <link href="https://v.daum.net/v/20240123111022451"/>
-        <updated>2024-01-23T02:31:40.003Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:10</span>]]></content>
     </entry>
 </feed>
