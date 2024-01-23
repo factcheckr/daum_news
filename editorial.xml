@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-01-23T16:20:47.240Z</updated>
+    <updated>2024-01-23T17:15:24.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]연말정산, 선제적 절세상품이 답]]></title>
+        <id>https://v.daum.net/v/20240124020501714</id>
+        <link href="https://v.daum.net/v/20240124020501714"/>
+        <updated>2024-01-23T17:15:07.792Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]에너지 믹스, 전력망 안정성 고려해야]]></title>
+        <id>https://v.daum.net/v/20240124020301706</id>
+        <link href="https://v.daum.net/v/20240124020301706"/>
+        <updated>2024-01-23T17:15:07.793Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 혁신과 주주친화 정책이 밀어올린 미·일 증시]]></title>
         <id>https://v.daum.net/v/20240124003432239</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240124001203065"/>
         <updated>2024-01-23T15:16:48.855Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이슈프리즘] 금융질서 근간이 흔들린다]]></title>
-        <id>https://v.daum.net/v/20240124001202064</id>
-        <link href="https://v.daum.net/v/20240124001202064"/>
-        <updated>2024-01-23T15:16:48.855Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[취재수첩] 과학자에 대한 존중이 없는 사회]]></title>
-        <id>https://v.daum.net/v/20240124001104048</id>
-        <link href="https://v.daum.net/v/20240124001104048"/>
-        <updated>2024-01-23T15:16:48.857Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:11</span>]]></content>
     </entry>
 </feed>
