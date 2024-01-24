@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-01-24T12:29:43.463Z</updated>
+    <updated>2024-01-24T13:20:11.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[K팝·K반도체 이어... ‘K장수’가 뜨는 두 가지 이유]]></title>
+        <id>https://v.daum.net/v/20240124214058461</id>
+        <link href="https://v.daum.net/v/20240124214058461"/>
+        <updated>2024-01-24T13:19:57.979Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">21:40</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["엉덩이 근육에 힘 들어오나 보려고…" 꼭 만져야 확인 가능할까?]]></title>
         <id>https://v.daum.net/v/20240124210017869</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240124202211201"/>
         <updated>2024-01-24T12:29:28.016Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[국민만평-서민호 화백] 2024년 1월 25일]]></title>
-        <id>https://v.daum.net/v/20240124201512088</id>
-        <link href="https://v.daum.net/v/20240124201512088"/>
-        <updated>2024-01-24T11:15:42.343Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">20:15</span>]]></content>
     </entry>
 </feed>
