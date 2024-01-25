@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-01-25T13:19:51.068Z</updated>
+    <updated>2024-01-25T14:15:32.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[JAPAN MOON LANDER]]></title>
+        <id>https://v.daum.net/v/20240125224810337</id>
+        <link href="https://v.daum.net/v/20240125224810337"/>
+        <updated>2024-01-25T14:15:11.420Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">22:48</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['나노의학 선구자' 천진우, 독일 훔볼트 연구상 '쾌거']]></title>
         <id>https://v.daum.net/v/20240125220541756</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240125193303450"/>
         <updated>2024-01-25T11:13:56.708Z</updated>
         <content type="html"><![CDATA[IT동아<span class="txt_bar"> · </span><span class="info_time">19:33</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원안위, 한빛 1·2호기 계속운전 허가 심의 본격화]]></title>
-        <id>https://v.daum.net/v/20240125192423238</id>
-        <link href="https://v.daum.net/v/20240125192423238"/>
-        <updated>2024-01-25T11:13:56.709Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">19:24</span>]]></content>
     </entry>
 </feed>
