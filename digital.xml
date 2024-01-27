@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-01-27T01:01:25.754Z</updated>
+    <updated>2024-01-27T01:52:39.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[카카오픽코마, 일본 1위…거래액 1000억엔 넘어]]></title>
+        <id>https://v.daum.net/v/20240127102903168</id>
+        <link href="https://v.daum.net/v/20240127102903168"/>
+        <updated>2024-01-27T01:52:10.690Z</updated>
+        <content type="html"><![CDATA[비즈워치<span class="txt_bar"> · </span><span class="info_time">10:29</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['에픽세븐' 콘텐츠 크리에이터 이벤트 매치... 'CCB 2024' 결승전 28일 개최]]></title>
+        <id>https://v.daum.net/v/20240127102023087</id>
+        <link href="https://v.daum.net/v/20240127102023087"/>
+        <updated>2024-01-27T01:52:10.691Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스<span class="txt_bar"> · </span><span class="info_time">10:20</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[카카오와 카카오모빌리티 연이은 '내부 감사'...업계선 "준법경영 원칙 세우겠다는 뜻"]]></title>
+        <id>https://v.daum.net/v/20240127101009996</id>
+        <link href="https://v.daum.net/v/20240127101009996"/>
+        <updated>2024-01-27T01:52:10.691Z</updated>
+        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">10:10</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["애플, 차기 아이패드 프로 OLED 패널 주문량 30% 줄였다"]]></title>
         <id>https://v.daum.net/v/20240127100017860</id>
@@ -55,7 +76,7 @@
         <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">09:06</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한 겨울에도 따뜻한 수영장의 비밀…컴퓨터로 데웠다[테크토크]]]></title>
+        <title type="html"><![CDATA['겨울에도 수영장이 따뜻하네'…3400억 투자금 유치, 컴퓨터로 데웠다[테크토크]]]></title>
         <id>https://v.daum.net/v/20240127090600307</id>
         <link href="https://v.daum.net/v/20240127090600307"/>
         <updated>2024-01-27T01:01:00.314Z</updated>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240127082519928"/>
         <updated>2024-01-27T01:01:00.319Z</updated>
         <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">08:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버페이, 새해 운세와 포인트 함께 뽑는 '포인트 행운구슬' 이벤트]]></title>
-        <id>https://v.daum.net/v/20240127080129785</id>
-        <link href="https://v.daum.net/v/20240127080129785"/>
-        <updated>2024-01-26T23:15:42.660Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">08:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인간이 만든 화학물질, 자연에서 분해법 찾았다]]></title>
-        <id>https://v.daum.net/v/20240127080046765</id>
-        <link href="https://v.daum.net/v/20240127080046765"/>
-        <updated>2024-01-26T23:15:42.661Z</updated>
-        <content type="html"><![CDATA[동아사이언스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[잠깐과학] 흔들면 열나는 핫팩 속 물질의 비밀]]></title>
-        <id>https://v.daum.net/v/20240127080040761</id>
-        <link href="https://v.daum.net/v/20240127080040761"/>
-        <updated>2024-01-26T23:15:42.662Z</updated>
-        <content type="html"><![CDATA[동아사이언스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
     </entry>
 </feed>
