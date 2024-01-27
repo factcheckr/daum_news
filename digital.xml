@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-01-27T11:12:26.728Z</updated>
+    <updated>2024-01-27T12:24:37.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“어떻게 100만원→10만원 됐죠” 이건 진짜 역대급…환호 받던 ‘회사’ 무슨 일]]></title>
+        <id>https://v.daum.net/v/20240127204605100</id>
+        <link href="https://v.daum.net/v/20240127204605100"/>
+        <updated>2024-01-27T12:24:16.077Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">20:46</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“알뜰폰 쓰다 이 메시지 뜬 적 있어?” 통신비 아끼려다 ‘분노 폭발’]]></title>
         <id>https://v.daum.net/v/20240127184101012</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240127151801361"/>
         <updated>2024-01-27T06:18:52.400Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">15:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["투표하지 마" 바이든 전화에 '발칵'…美 뒤집은 목소리 정체는]]></title>
-        <id>https://v.daum.net/v/20240127151730354</id>
-        <link href="https://v.daum.net/v/20240127151730354"/>
-        <updated>2024-01-27T06:18:52.402Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">15:17</span>]]></content>
     </entry>
 </feed>
