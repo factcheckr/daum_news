@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2024-01-27T16:17:36.750Z</updated>
+    <updated>2024-01-27T17:16:45.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘전지적 참견 시점’ 신기루, 서장훈도 홀렸다 “말을 현란하게 해”]]></title>
+        <id>https://v.daum.net/v/20240128011721472</id>
+        <link href="https://v.daum.net/v/20240128011721472"/>
+        <updated>2024-01-27T17:16:01.008Z</updated>
+        <content type="html"><![CDATA[MBC연예<span class="txt_bar"> · </span><span class="info_time">01:17</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신기루, ♥남편 없는 세컨하우스 생활 "거의 술집" [전참시]]]></title>
         <id>https://v.daum.net/v/20240128011624471</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240128003155386"/>
         <updated>2024-01-27T16:16:47.286Z</updated>
         <content type="html"><![CDATA[OSEN<span class="txt_bar"> · </span><span class="info_time">00:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫방 '닥터슬럼프' 박신혜·박형식, 인생 최악 순간서 14년만에 재회(종합)]]></title>
-        <id>https://v.daum.net/v/20240128002603379</id>
-        <link href="https://v.daum.net/v/20240128002603379"/>
-        <updated>2024-01-27T16:16:47.288Z</updated>
-        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">00:26</span>]]></content>
     </entry>
 </feed>
