@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-01-28T22:14:33.886Z</updated>
+    <updated>2024-01-28T23:16:06.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[한강로에서] ‘험지’에 숨겨진 정당 이기주의]]></title>
+        <id>https://v.daum.net/v/20240129080803975</id>
+        <link href="https://v.daum.net/v/20240129080803975"/>
+        <updated>2024-01-28T23:15:50.847Z</updated>
+        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">08:08</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[근거 없는 ‘썰’에 휘둘린 세제 개악]]></title>
+        <id>https://v.daum.net/v/20240129080515946</id>
+        <link href="https://v.daum.net/v/20240129080515946"/>
+        <updated>2024-01-28T23:15:50.848Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">08:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[6411의 목소리] “코로나 대처 영웅”이라 부르더니 지금은]]></title>
         <id>https://v.daum.net/v/20240129070501130</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240129060018342"/>
         <updated>2024-01-28T21:15:48.397Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기자수첩]조성경 과기차관 논란 왜 커졌나]]></title>
-        <id>https://v.daum.net/v/20240129055802292</id>
-        <link href="https://v.daum.net/v/20240129055802292"/>
-        <updated>2024-01-28T21:15:48.398Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">05:58</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기고]잠재 위험 '지진해일' 신속한 대피로 대비하자]]></title>
-        <id>https://v.daum.net/v/20240129055003259</id>
-        <link href="https://v.daum.net/v/20240129055003259"/>
-        <updated>2024-01-28T21:15:48.400Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">05:50</span>]]></content>
     </entry>
 </feed>
