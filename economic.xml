@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2024-01-28T15:16:13.484Z</updated>
+    <updated>2024-01-28T16:20:37.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사진] 일요일에 문 연 대형마트]]></title>
+        <id>https://v.daum.net/v/20240129010113073</id>
+        <link href="https://v.daum.net/v/20240129010113073"/>
+        <updated>2024-01-28T16:19:23.138Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">01:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성과급 희비…LG 가전 660%·삼성 반도체 ‘0원’]]></title>
         <id>https://v.daum.net/v/20240129000905772</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240129000317663"/>
         <updated>2024-01-28T15:15:04.394Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[테슬라의 굴욕…“M7서 가장 먼저 빠져야 할 기업”]]></title>
-        <id>https://v.daum.net/v/20240129000300646</id>
-        <link href="https://v.daum.net/v/20240129000300646"/>
-        <updated>2024-01-28T15:15:04.395Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
     </entry>
 </feed>
