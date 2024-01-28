@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-01-28T07:14:19.013Z</updated>
+    <updated>2024-01-28T08:18:24.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사진은 말한다]  추도사 낭독]]></title>
+        <id>https://v.daum.net/v/20240128170021630</id>
+        <link href="https://v.daum.net/v/20240128170021630"/>
+        <updated>2024-01-28T08:18:05.323Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[매경춘추] 결심과 지속가능성]]></title>
+        <id>https://v.daum.net/v/20240128170009615</id>
+        <link href="https://v.daum.net/v/20240128170009615"/>
+        <updated>2024-01-28T08:18:05.325Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[못난이귤이 이어준 바다 건너 내 친구 [서울 말고]]]></title>
+        <id>https://v.daum.net/v/20240128164012360</id>
+        <link href="https://v.daum.net/v/20240128164012360"/>
+        <updated>2024-01-28T08:18:05.328Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">16:40</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국힘 “민주, 선거제 놓고 갈팡질팡” 비판]]></title>
+        <id>https://v.daum.net/v/20240128163140279</id>
+        <link href="https://v.daum.net/v/20240128163140279"/>
+        <updated>2024-01-28T08:18:05.330Z</updated>
+        <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">16:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘KIA 날벼락’ 김종국 감독, 직무정지 조치…왜?]]></title>
         <id>https://v.daum.net/v/20240128161134982</id>
@@ -27,7 +55,7 @@
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">15:36</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[누가 대통령 귀에 ‘엉터리 경제이론’을 속삭이는가]]></title>
+        <title type="html"><![CDATA[누가 대통령 귀에 ‘엉터리 경제이론’을 속삭이는가 [아침햇발]]]></title>
         <id>https://v.daum.net/v/20240128153504326</id>
         <link href="https://v.daum.net/v/20240128153504326"/>
         <updated>2024-01-28T07:14:04.779Z</updated>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20240128094706165"/>
         <updated>2024-01-28T01:07:20.595Z</updated>
         <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">09:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김정은, 비대칭전력 10개로 韓 약점 노린다]]></title>
-        <id>https://v.daum.net/v/20240128090104538</id>
-        <link href="https://v.daum.net/v/20240128090104538"/>
-        <updated>2024-01-28T01:07:20.596Z</updated>
-        <content type="html"><![CDATA[신동아<span class="txt_bar"> · </span><span class="info_time">09:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아우구스투스 윤석열과 카이사르 한동훈의 공존 [노원명 에세이]]]></title>
-        <id>https://v.daum.net/v/20240128085701416</id>
-        <link href="https://v.daum.net/v/20240128085701416"/>
-        <updated>2024-01-28T01:07:20.597Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">08:57</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여전히 꽤 핫한 LP의 역사 [음란서생]]]></title>
-        <id>https://v.daum.net/v/20240128085446400</id>
-        <link href="https://v.daum.net/v/20240128085446400"/>
-        <updated>2024-01-28T01:07:20.598Z</updated>
-        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">08:54</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[베이징 다이어리]중국판 월급루팡, '모위'의 최후]]></title>
-        <id>https://v.daum.net/v/20240128080118930</id>
-        <link href="https://v.daum.net/v/20240128080118930"/>
-        <updated>2024-01-27T23:14:58.752Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">08:01</span>]]></content>
     </entry>
 </feed>
