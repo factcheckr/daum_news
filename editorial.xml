@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-01-29T12:26:43.266Z</updated>
+    <updated>2024-01-29T13:20:54.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024년 1월 30일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20240129220044863</id>
+        <link href="https://v.daum.net/v/20240129220044863"/>
+        <updated>2024-01-29T13:20:38.231Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오픈AI는 구글을 넘어설 수 있을까 [편집장 레터]]]></title>
         <id>https://v.daum.net/v/20240129210303239</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240129195252000"/>
         <updated>2024-01-29T11:13:33.163Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:52</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building momentum for another 60 years]]></title>
-        <id>https://v.daum.net/v/20240129195004951</id>
-        <link href="https://v.daum.net/v/20240129195004951"/>
-        <updated>2024-01-29T11:13:33.166Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:50</span>]]></content>
     </entry>
 </feed>
