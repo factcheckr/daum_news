@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-01-30T22:14:20.238Z</updated>
+    <updated>2024-01-30T23:18:02.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방송에 편파를 허하라]]></title>
+        <id>https://v.daum.net/v/20240131080507693</id>
+        <link href="https://v.daum.net/v/20240131080507693"/>
+        <updated>2024-01-30T23:17:44.839Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">08:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](31일 조간)]]></title>
+        <id>https://v.daum.net/v/20240131080007580</id>
+        <link href="https://v.daum.net/v/20240131080007580"/>
+        <updated>2024-01-30T23:17:44.840Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[만화] 온기를 찾아서  [날백수인생]]]></title>
+        <id>https://v.daum.net/v/20240131080001561</id>
+        <link href="https://v.daum.net/v/20240131080001561"/>
+        <updated>2024-01-30T23:17:44.842Z</updated>
+        <content type="html"><![CDATA[오마이뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['아이들 무거운 짐짝으로 전락'…맞벌이 죄인 만드는 늘봄학교 논란[시시비비]]]></title>
+        <id>https://v.daum.net/v/20240131073025131</id>
+        <link href="https://v.daum.net/v/20240131073025131"/>
+        <updated>2024-01-30T23:17:44.845Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">07:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[시로 여는 수요일] 아무도 울지 않는 밤은 없다]]></title>
+        <id>https://v.daum.net/v/20240131072519052</id>
+        <link href="https://v.daum.net/v/20240131072519052"/>
+        <updated>2024-01-30T23:17:44.846Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">07:25</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2000년대생 악몽 시작?…평생 버는 돈 40%가 세금?]]></title>
+        <id>https://v.daum.net/v/20240131072405039</id>
+        <link href="https://v.daum.net/v/20240131072405039"/>
+        <updated>2024-01-30T23:17:44.848Z</updated>
+        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">07:24</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[논단]금투세 폐지 우려와 가상화폐의 제도권 도입]]></title>
+        <id>https://v.daum.net/v/20240131072024978</id>
+        <link href="https://v.daum.net/v/20240131072024978"/>
+        <updated>2024-01-30T23:17:44.849Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">07:20</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[김누리 칼럼] 가브리엘 아탈을 기른 교실]]></title>
         <id>https://v.daum.net/v/20240131070504825</id>
@@ -60,54 +109,5 @@
         <link href="https://v.daum.net/v/20240131063601307"/>
         <updated>2024-01-30T22:14:04.994Z</updated>
         <content type="html"><![CDATA[오마이뉴스<span class="txt_bar"> · </span><span class="info_time">06:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[목멱칼럼]불균형 산업 발전 전략이 필요한 이유]]></title>
-        <id>https://v.daum.net/v/20240131061521991</id>
-        <link href="https://v.daum.net/v/20240131061521991"/>
-        <updated>2024-01-30T21:17:13.465Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">06:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비명계는 어디로?…경선 다가오자 이재명 아래 열 맞춘 민주당]]></title>
-        <id>https://v.daum.net/v/20240131060502855</id>
-        <link href="https://v.daum.net/v/20240131060502855"/>
-        <updated>2024-01-30T21:17:13.468Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">06:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웹툰 도서정가제 제외, 산업 발전 기폭제로[기고]]]></title>
-        <id>https://v.daum.net/v/20240131055001540</id>
-        <link href="https://v.daum.net/v/20240131055001540"/>
-        <updated>2024-01-30T21:17:13.468Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">05:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Editorial] Rush of retakers]]></title>
-        <id>https://v.daum.net/v/20240131053101364</id>
-        <link href="https://v.daum.net/v/20240131053101364"/>
-        <updated>2024-01-30T21:17:13.469Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Kim Seong-kon] Overcoming the ‘three S words’ in our traits]]></title>
-        <id>https://v.daum.net/v/20240131053022347</id>
-        <link href="https://v.daum.net/v/20240131053022347"/>
-        <updated>2024-01-30T21:17:13.471Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기고]새해 계획의 두 번째 기회]]></title>
-        <id>https://v.daum.net/v/20240131053020345</id>
-        <link href="https://v.daum.net/v/20240131053020345"/>
-        <updated>2024-01-30T21:17:13.473Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아찔한 ‘방송사고’[편집실에서]]]></title>
-        <id>https://v.daum.net/v/20240131053013343</id>
-        <link href="https://v.daum.net/v/20240131053013343"/>
-        <updated>2024-01-30T21:17:13.474Z</updated>
-        <content type="html"><![CDATA[주간경향<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
     </entry>
 </feed>
