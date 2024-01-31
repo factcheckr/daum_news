@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-01-31T22:15:23.457Z</updated>
+    <updated>2024-01-31T23:18:10.408Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[암호 같은 ‘판결문 비실명화’ 제발 그만]]></title>
+        <id>https://v.daum.net/v/20240201080516367</id>
+        <link href="https://v.daum.net/v/20240201080516367"/>
+        <updated>2024-01-31T23:17:52.141Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">08:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](1일 조간)]]></title>
+        <id>https://v.daum.net/v/20240201080009274</id>
+        <link href="https://v.daum.net/v/20240201080009274"/>
+        <updated>2024-01-31T23:17:52.142Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[시론]사천(私薦) 같은 공천(公薦)]]></title>
+        <id>https://v.daum.net/v/20240201071730694</id>
+        <link href="https://v.daum.net/v/20240201071730694"/>
+        <updated>2024-01-31T23:17:52.144Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">07:17</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘운동권’이라는 단어의 앙상함]]></title>
         <id>https://v.daum.net/v/20240201070508563</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240201053043266"/>
         <updated>2024-01-31T21:15:41.401Z</updated>
         <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Editorial] Deepfakes pose real threat]]></title>
-        <id>https://v.daum.net/v/20240201053022258</id>
-        <link href="https://v.daum.net/v/20240201053022258"/>
-        <updated>2024-01-31T21:15:41.402Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기고]원자력이 더 청정에너지인 이유]]></title>
-        <id>https://v.daum.net/v/20240201053021256</id>
-        <link href="https://v.daum.net/v/20240201053021256"/>
-        <updated>2024-01-31T21:15:41.405Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Mark Jones] Will 2024 be the new 1933?]]></title>
-        <id>https://v.daum.net/v/20240201052946226</id>
-        <link href="https://v.daum.net/v/20240201052946226"/>
-        <updated>2024-01-31T21:15:41.407Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:29</span>]]></content>
     </entry>
 </feed>
