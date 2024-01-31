@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-01-31T10:15:54.256Z</updated>
+    <updated>2024-01-31T11:13:05.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대형 공공SW사업에 대기업 참여 허용…11년 만에 제도 개편]]></title>
+        <id>https://v.daum.net/v/20240131194014322</id>
+        <link href="https://v.daum.net/v/20240131194014322"/>
+        <updated>2024-01-31T11:12:57.900Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">19:40</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경남 고성군, 대형산불 제로화로 군민 안전확보 총력]]></title>
         <id>https://v.daum.net/v/20240131190002701</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240131172735911"/>
         <updated>2024-01-31T09:15:06.921Z</updated>
         <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">17:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성물산 2023년 연간 및 4분기 실적 발표]]></title>
-        <id>https://v.daum.net/v/20240131172704891</id>
-        <link href="https://v.daum.net/v/20240131172704891"/>
-        <updated>2024-01-31T09:15:06.923Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:27</span>]]></content>
     </entry>
 </feed>
