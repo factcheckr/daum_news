@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-01-31T04:17:54.742Z</updated>
+    <updated>2024-01-31T05:16:05.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[이덕환의 과학세상] ‘제설제’는 ‘화학무기’가 아니다]]></title>
+        <id>https://v.daum.net/v/20240131135611001</id>
+        <link href="https://v.daum.net/v/20240131135611001"/>
+        <updated>2024-01-31T05:15:52.657Z</updated>
+        <content type="html"><![CDATA[동아사이언스<span class="txt_bar"> · </span><span class="info_time">13:56</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인사] 관세청]]></title>
+        <id>https://v.daum.net/v/20240131131945952</id>
+        <link href="https://v.daum.net/v/20240131131945952"/>
+        <updated>2024-01-31T05:15:52.657Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">13:19</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[전문]이재명 "윤 정권 무능에 대한민국 무너져…총선 승리로 위기 극복"]]></title>
         <id>https://v.daum.net/v/20240131125213121</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240131111007046"/>
         <updated>2024-01-31T02:22:40.693Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고양이는 알고 있다, 우리 안의 증오와 혐오 [이형석의 불편한 편집숍]]]></title>
-        <id>https://v.daum.net/v/20240131110842968</id>
-        <link href="https://v.daum.net/v/20240131110842968"/>
-        <updated>2024-01-31T02:22:40.693Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[헤럴드광장] 로보어드바이저, 퇴직연금 수익률 구할까?]]></title>
-        <id>https://v.daum.net/v/20240131110733909</id>
-        <link href="https://v.daum.net/v/20240131110733909"/>
-        <updated>2024-01-31T02:22:40.695Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:07</span>]]></content>
     </entry>
 </feed>
