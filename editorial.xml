@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-01-31T20:15:49.456Z</updated>
+    <updated>2024-01-31T21:15:58.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[Ana Palacio] The good news from Taiwan]]></title>
+        <id>https://v.daum.net/v/20240201053043266</id>
+        <link href="https://v.daum.net/v/20240201053043266"/>
+        <updated>2024-01-31T21:15:41.401Z</updated>
+        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Editorial] Deepfakes pose real threat]]></title>
+        <id>https://v.daum.net/v/20240201053022258</id>
+        <link href="https://v.daum.net/v/20240201053022258"/>
+        <updated>2024-01-31T21:15:41.402Z</updated>
+        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[기고]원자력이 더 청정에너지인 이유]]></title>
+        <id>https://v.daum.net/v/20240201053021256</id>
+        <link href="https://v.daum.net/v/20240201053021256"/>
+        <updated>2024-01-31T21:15:41.405Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Mark Jones] Will 2024 be the new 1933?]]></title>
+        <id>https://v.daum.net/v/20240201052946226</id>
+        <link href="https://v.daum.net/v/20240201052946226"/>
+        <updated>2024-01-31T21:15:41.407Z</updated>
+        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:29</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[씨줄날줄] 예금자 보호/전경하 논설위원]]></title>
         <id>https://v.daum.net/v/20240201050323954</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20240201050015769"/>
         <updated>2024-01-31T20:15:30.207Z</updated>
         <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">05:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기자의 눈] 한국엔 ‘시정하라’더니… 제 잘못은 방관하는 일본]]></title>
-        <id>https://v.daum.net/v/20240201043155584</id>
-        <link href="https://v.daum.net/v/20240201043155584"/>
-        <updated>2024-01-31T20:15:30.208Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] ‘고발사주’ 유죄, 검찰의 정치 중립 위반에 엄중한 경종]]></title>
-        <id>https://v.daum.net/v/20240201043146581</id>
-        <link href="https://v.daum.net/v/20240201043146581"/>
-        <updated>2024-01-31T20:15:30.209Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 삐걱대는 저출산위… "독촉하면 된다"는 정부 인식 바꿔야]]></title>
-        <id>https://v.daum.net/v/20240201043136578</id>
-        <link href="https://v.daum.net/v/20240201043136578"/>
-        <updated>2024-01-31T20:15:30.210Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 정권 탓만 하고 선거제 입장도 안 밝힌 이재명 대표]]></title>
-        <id>https://v.daum.net/v/20240201043134577</id>
-        <link href="https://v.daum.net/v/20240201043134577"/>
-        <updated>2024-01-31T20:15:30.211Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:31</span>]]></content>
     </entry>
 </feed>
