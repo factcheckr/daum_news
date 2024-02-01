@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-02-01T03:17:05.731Z</updated>
+    <updated>2024-02-01T04:19:25.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[예스24, 2023 에세이 판매 동향 공개… ‘힐링’에서 ‘유명인’·‘팬덤 구매’로 변화한 에세이 트렌드]]></title>
+        <id>https://v.daum.net/v/20240201131703258</id>
+        <link href="https://v.daum.net/v/20240201131703258"/>
+        <updated>2024-02-01T04:19:17.700Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">13:17</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[레드페이스, 기능성과 디자인 겸비해 활용도 높은 2024 설 선물 제안]]></title>
         <id>https://v.daum.net/v/20240201120703942</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240201114334746"/>
         <updated>2024-02-01T03:16:54.859Z</updated>
         <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">11:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] YPO: 중소기업 경영자 25 명 중 단 한 명만이 회사 탄소 배출 측정]]></title>
-        <id>https://v.daum.net/v/20240201114153652</id>
-        <link href="https://v.daum.net/v/20240201114153652"/>
-        <updated>2024-02-01T03:16:54.860Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:41</span>]]></content>
     </entry>
 </feed>
