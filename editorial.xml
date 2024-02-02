@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-02-02T04:20:30.827Z</updated>
+    <updated>2024-02-02T05:16:07.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[100세 시대 재테크]파이어족에 대한 바른 이해]]></title>
+        <id>https://v.daum.net/v/20240202140958583</id>
+        <link href="https://v.daum.net/v/20240202140958583"/>
+        <updated>2024-02-02T05:15:49.928Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">14:09</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[양경미의 영화로 보는 세상] 더 나은 세상을 위한 연대]]></title>
+        <id>https://v.daum.net/v/20240202140048261</id>
+        <link href="https://v.daum.net/v/20240202140048261"/>
+        <updated>2024-02-02T05:15:49.929Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[데일리안 시사만평] 사업주는 무조건 '적'…민주당, 노총 눈치에 국가 미래는 없네]]></title>
+        <id>https://v.daum.net/v/20240202132317093</id>
+        <link href="https://v.daum.net/v/20240202132317093"/>
+        <updated>2024-02-02T05:15:49.929Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">13:23</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[초동시각]수도권 교통복지, 정치적 셈법 덜어내야]]></title>
         <id>https://v.daum.net/v/20240202130039540</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240202111117717"/>
         <updated>2024-02-02T02:20:30.148Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 필수·지역 의료 지원 강화, 의사수부터 우선 늘려야]]></title>
-        <id>https://v.daum.net/v/20240202111116715</id>
-        <link href="https://v.daum.net/v/20240202111116715"/>
-        <updated>2024-02-02T02:20:30.148Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[헤럴드광장] 우크라이나 전쟁, 출구는 있는가?]]></title>
-        <id>https://v.daum.net/v/20240202111041689</id>
-        <link href="https://v.daum.net/v/20240202111041689"/>
-        <updated>2024-02-02T02:20:30.148Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Room Tone] If I were in charge]]></title>
-        <id>https://v.daum.net/v/20240202110946649</id>
-        <link href="https://v.daum.net/v/20240202110946649"/>
-        <updated>2024-02-02T02:20:30.148Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">11:09</span>]]></content>
     </entry>
 </feed>
