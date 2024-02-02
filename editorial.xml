@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-02-02T16:17:13.338Z</updated>
+    <updated>2024-02-02T17:15:16.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“‘김일성의 아이들’아, 이승만의 ‘건국 전쟁’ 보러 가자!”]]></title>
+        <id>https://v.daum.net/v/20240203020016904</id>
+        <link href="https://v.daum.net/v/20240203020016904"/>
+        <updated>2024-02-02T17:15:00.272Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">02:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[토요칼럼] 누가 초코파이의 도전을 비웃나]]></title>
         <id>https://v.daum.net/v/20240203004701362</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240203003033257"/>
         <updated>2024-02-02T16:17:00.347Z</updated>
         <content type="html"><![CDATA[중앙SUNDAY<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사진의 기억] 떡방앗간 다녀오는 길]]></title>
-        <id>https://v.daum.net/v/20240203002643228</id>
-        <link href="https://v.daum.net/v/20240203002643228"/>
-        <updated>2024-02-02T16:17:00.348Z</updated>
-        <content type="html"><![CDATA[중앙SUNDAY<span class="txt_bar"> · </span><span class="info_time">00:26</span>]]></content>
     </entry>
 </feed>
