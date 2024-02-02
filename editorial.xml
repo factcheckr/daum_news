@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-02-02T06:18:57.386Z</updated>
+    <updated>2024-02-02T07:14:35.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[지평선] 16년째 안 오른 연봉]]></title>
+        <id>https://v.daum.net/v/20240202160038215</id>
+        <link href="https://v.daum.net/v/20240202160038215"/>
+        <updated>2024-02-02T07:14:20.018Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">16:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[기자수첩] 공공기관 해제해도 노벨상 수상자가 올까]]></title>
+        <id>https://v.daum.net/v/20240202155546001</id>
+        <link href="https://v.daum.net/v/20240202155546001"/>
+        <updated>2024-02-02T07:14:20.019Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">15:55</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[fn사설] '중처법' 유예 내팽개친 野, 최후의 기회는 남았다]]></title>
+        <id>https://v.daum.net/v/20240202152001841</id>
+        <link href="https://v.daum.net/v/20240202152001841"/>
+        <updated>2024-02-02T07:14:20.022Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:20</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["정부 아닌 약자 비난하는 사회에 분노"]]></title>
         <id>https://v.daum.net/v/20240202144006605</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240202114208079"/>
         <updated>2024-02-02T03:16:59.497Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[검토할 만한 남북 ‘국가 대 국가’ 경쟁[기고]]]></title>
-        <id>https://v.daum.net/v/20240202113907953</id>
-        <link href="https://v.daum.net/v/20240202113907953"/>
-        <updated>2024-02-02T03:16:59.498Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[논단]해명의 기술]]></title>
-        <id>https://v.daum.net/v/20240202112947587</id>
-        <link href="https://v.daum.net/v/20240202112947587"/>
-        <updated>2024-02-02T03:16:59.500Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:29</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시시비비]일본의 반도체 속도전을 보라]]></title>
-        <id>https://v.daum.net/v/20240202111725008</id>
-        <link href="https://v.daum.net/v/20240202111725008"/>
-        <updated>2024-02-02T02:20:30.146Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:17</span>]]></content>
     </entry>
 </feed>
