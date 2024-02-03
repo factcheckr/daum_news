@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-02-03T07:14:05.202Z</updated>
+    <updated>2024-02-03T08:18:17.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이태원참사 유가족, 서울 도심 행진]]></title>
+        <id>https://v.daum.net/v/20240203171203647</id>
+        <link href="https://v.daum.net/v/20240203171203647"/>
+        <updated>2024-02-03T08:17:59.218Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">17:12</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[북한과 가까워지더니…北처럼 생떼 쓰는 러시아 [핫이슈]]]></title>
         <id>https://v.daum.net/v/20240203132400747</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240203043041063"/>
         <updated>2024-02-02T20:14:45.472Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한마당] 시니어 아미 vs 늙은 군인]]></title>
-        <id>https://v.daum.net/v/20240203041205989</id>
-        <link href="https://v.daum.net/v/20240203041205989"/>
-        <updated>2024-02-02T19:14:14.977Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:12</span>]]></content>
     </entry>
 </feed>
