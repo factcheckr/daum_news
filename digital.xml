@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-02-04T10:15:43.771Z</updated>
+    <updated>2024-02-04T11:12:54.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우리 동네 플랫폼 `휘파람`, 과일의 성지 `충북 영동` 서비스 나서]]></title>
+        <id>https://v.daum.net/v/20240204193618671</id>
+        <link href="https://v.daum.net/v/20240204193618671"/>
+        <updated>2024-02-04T11:12:30.556Z</updated>
+        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">19:36</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[붕괴 스타레일 2.0 스토리가 기대되는 이유]]></title>
         <id>https://v.daum.net/v/20240204190008339</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240204181807753"/>
         <updated>2024-02-04T10:15:15.094Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">18:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정부, 5G 3.7㎓ 광대역폭 할당 시사… 이통사 "300㎒는 부담"]]></title>
-        <id>https://v.daum.net/v/20240204181459717</id>
-        <link href="https://v.daum.net/v/20240204181459717"/>
-        <updated>2024-02-04T10:15:15.095Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">18:14</span>]]></content>
     </entry>
 </feed>
