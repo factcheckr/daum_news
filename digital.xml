@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-02-04T11:12:54.668Z</updated>
+    <updated>2024-02-04T12:28:19.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["나만 잠들 때까지 유튜브 보는 거 아니네"···카톡 꺾은 유튜브 사용 시간 무려]]></title>
+        <id>https://v.daum.net/v/20240204211732441</id>
+        <link href="https://v.daum.net/v/20240204211732441"/>
+        <updated>2024-02-04T12:27:54.787Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">21:17</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“청개구리야 미안해” 2000여명이 공감했다…공릉천 습지에 무슨 일이 [지구, 뭐래?]]]></title>
+        <id>https://v.daum.net/v/20240204204117166</id>
+        <link href="https://v.daum.net/v/20240204204117166"/>
+        <updated>2024-02-04T12:27:54.788Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">20:41</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우리 동네 플랫폼 `휘파람`, 과일의 성지 `충북 영동` 서비스 나서]]></title>
         <id>https://v.daum.net/v/20240204193618671</id>
@@ -83,7 +97,7 @@
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">18:45</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“이 정도일 줄은 몰랐다” 믿었던 미국의 배신?…삼성 ‘발칵’]]></title>
+        <title type="html"><![CDATA[“결국 터질게 터졌다” 믿었던 미국의 배신?…삼성 ‘발칵’]]></title>
         <id>https://v.daum.net/v/20240204184142106</id>
         <link href="https://v.daum.net/v/20240204184142106"/>
         <updated>2024-02-04T10:15:15.090Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240204183914053"/>
         <updated>2024-02-04T10:15:15.091Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[챗GPT 못쓰는 출연연 왜?…자체 모델 개발 나선 사연]]></title>
-        <id>https://v.daum.net/v/20240204182139793</id>
-        <link href="https://v.daum.net/v/20240204182139793"/>
-        <updated>2024-02-04T10:15:15.093Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">18:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“내 배 속에 뭐가 든거야” 장내 미생물이 건강 좌지우지한다 [사이언스라운지]]]></title>
-        <id>https://v.daum.net/v/20240204181807753</id>
-        <link href="https://v.daum.net/v/20240204181807753"/>
-        <updated>2024-02-04T10:15:15.094Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">18:18</span>]]></content>
     </entry>
 </feed>
