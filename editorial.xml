@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-02-05T16:18:36.581Z</updated>
+    <updated>2024-02-05T17:14:35.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평] '깨어있는 자본주의'의 양날의 검]]></title>
+        <id>https://v.daum.net/v/20240206020502478</id>
+        <link href="https://v.daum.net/v/20240206020502478"/>
+        <updated>2024-02-05T17:14:23.148Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] ‘사법 리스크’ 벗은 이재용…신사업·경쟁력 확보 전념하길]]></title>
         <id>https://v.daum.net/v/20240206004226315</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240206002101180"/>
         <updated>2024-02-05T16:18:22.820Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이은주의 아트 & 디자인] 런던 서펜타인 파빌리온이 주목받는 이유]]></title>
-        <id>https://v.daum.net/v/20240206002024176</id>
-        <link href="https://v.daum.net/v/20240206002024176"/>
-        <updated>2024-02-05T16:18:22.822Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:20</span>]]></content>
     </entry>
 </feed>
