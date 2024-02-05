@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-02-05T22:16:43.191Z</updated>
+    <updated>2024-02-05T23:18:10.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[초동시각]中企 탄소중립과 정부의 역할]]></title>
+        <id>https://v.daum.net/v/20240206074120414</id>
+        <link href="https://v.daum.net/v/20240206074120414"/>
+        <updated>2024-02-05T23:17:48.200Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">07:41</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[약에 의존하기 싫다지만… '항우울제'에 대해 꼭 알아야할 것들]]></title>
         <id>https://v.daum.net/v/20240206071515086</id>
@@ -20,7 +27,7 @@
         <content type="html"><![CDATA[오마이뉴스<span class="txt_bar"> · </span><span class="info_time">07:09</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[갈라치기보다 더 나쁜 바꿔치기]]></title>
+        <title type="html"><![CDATA[여성 공무원 군필 공약…갈라치기보다 더 나쁜 바꿔치기]]></title>
         <id>https://v.daum.net/v/20240206070517968</id>
         <link href="https://v.daum.net/v/20240206070517968"/>
         <updated>2024-02-05T22:16:21.630Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240206060005089"/>
         <updated>2024-02-05T21:13:49.388Z</updated>
         <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[함영준의 마음PT] 우리 시대의 ‘큰 바위 얼굴’은 누구일까?]]></title>
-        <id>https://v.daum.net/v/20240206055012032</id>
-        <link href="https://v.daum.net/v/20240206055012032"/>
-        <updated>2024-02-05T21:13:49.390Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">05:50</span>]]></content>
     </entry>
 </feed>
