@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-02-07T22:14:30.453Z</updated>
+    <updated>2024-02-07T23:16:30.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[차라리 ‘여성도 군대 가라’가 낫다]]></title>
+        <id>https://v.daum.net/v/20240208080525426</id>
+        <link href="https://v.daum.net/v/20240208080525426"/>
+        <updated>2024-02-07T23:16:13.857Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">08:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[녹지는 광장을 구원했나?]]></title>
         <id>https://v.daum.net/v/20240208070507498</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240208050345242</id>
         <link href="https://v.daum.net/v/20240208050345242"/>
         <updated>2024-02-07T20:20:12.999Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[길섶에서] 침묵의 지하철/박현갑 논설위원]]></title>
-        <id>https://v.daum.net/v/20240208050345241</id>
-        <link href="https://v.daum.net/v/20240208050345241"/>
-        <updated>2024-02-07T20:20:13.000Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
     </entry>
 </feed>
