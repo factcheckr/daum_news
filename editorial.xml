@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-02-08T22:14:38.450Z</updated>
+    <updated>2024-02-08T23:16:24.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓] 누가 한국의 CES 성과를 폄하하나]]></title>
+        <id>https://v.daum.net/v/20240209080022068</id>
+        <link href="https://v.daum.net/v/20240209080022068"/>
+        <updated>2024-02-08T23:16:09.723Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박순찬의 장도리 카툰] 대혼돈의 선거버스]]></title>
         <id>https://v.daum.net/v/20240209070900545</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240209050304216</id>
         <link href="https://v.daum.net/v/20240209050304216"/>
         <updated>2024-02-08T20:15:19.941Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[열린세상] 한쪽만 보는 키클롭스 괴물은 되지 말아야/이종수 연세대 행정학과 교수]]></title>
-        <id>https://v.daum.net/v/20240209050302215</id>
-        <link href="https://v.daum.net/v/20240209050302215"/>
-        <updated>2024-02-08T20:15:19.942Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
     </entry>
 </feed>
