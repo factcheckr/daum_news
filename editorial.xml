@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-02-08T10:15:58.420Z</updated>
+    <updated>2024-02-08T11:13:00.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사설] 조국 2심도 유죄, 판결 의미 ‘공정 가치’ 성찰 계기 삼아야]]></title>
+        <id>https://v.daum.net/v/20240208193503115</id>
+        <link href="https://v.daum.net/v/20240208193503115"/>
+        <updated>2024-02-08T11:12:42.619Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:35</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[박용석 만평] 2월 9일]]></title>
+        <id>https://v.daum.net/v/20240208193118072</id>
+        <link href="https://v.daum.net/v/20240208193118072"/>
+        <updated>2024-02-08T11:12:42.621Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">19:31</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024년 2월 9일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20240208191609881</id>
+        <link href="https://v.daum.net/v/20240208191609881"/>
+        <updated>2024-02-08T11:12:42.623Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">19:16</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A president totally detached from reality]]></title>
         <id>https://v.daum.net/v/20240208184215499</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240208182705309"/>
         <updated>2024-02-08T10:15:45.146Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">18:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이갑수의 일생의 일상] 떡국 혹은 그것의 방정식]]></title>
-        <id>https://v.daum.net/v/20240208182704306</id>
-        <link href="https://v.daum.net/v/20240208182704306"/>
-        <updated>2024-02-08T10:15:45.147Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">18:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[녹색세상] 자동차 위한 정책에 반대한다]]></title>
-        <id>https://v.daum.net/v/20240208182643296</id>
-        <link href="https://v.daum.net/v/20240208182643296"/>
-        <updated>2024-02-08T10:15:45.149Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">18:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설]‘김건희 성역·국정 마이웨이’만 보인 윤 대통령 녹화 대담]]></title>
-        <id>https://v.daum.net/v/20240208182338232</id>
-        <link href="https://v.daum.net/v/20240208182338232"/>
-        <updated>2024-02-08T10:15:45.150Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">18:23</span>]]></content>
     </entry>
 </feed>
