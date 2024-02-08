@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-02-08T11:13:00.725Z</updated>
+    <updated>2024-02-08T12:26:27.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Trina Solar, Vertex S+ 505W n형 이중 유리 모듈 양산]]></title>
+        <id>https://v.daum.net/v/20240208210451382</id>
+        <link href="https://v.daum.net/v/20240208210451382"/>
+        <updated>2024-02-08T12:26:19.581Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">21:04</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고용노동부 강원지청, 현장점검의 날을 맞아 중소규모 사업장 대상 ‘산업안전 대진단’ 집중 안내]]></title>
+        <id>https://v.daum.net/v/20240208205227209</id>
+        <link href="https://v.daum.net/v/20240208205227209"/>
+        <updated>2024-02-08T12:26:19.583Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">20:52</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[포천시, 외국인근로자 고용노동 실태조사 정책방안 연구 용역 마무리]]></title>
         <id>https://v.daum.net/v/20240208194500246</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240208160717975"/>
         <updated>2024-02-08T07:15:46.031Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼켜라! 드래곤!, UR 변신 드래곤 ‘오화’ 등장하는 ‘드래곤의 새해’ 버전 업데이트]]></title>
-        <id>https://v.daum.net/v/20240208160705969</id>
-        <link href="https://v.daum.net/v/20240208160705969"/>
-        <updated>2024-02-08T07:15:46.032Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">16:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spatial, Data Prep 출시]]></title>
-        <id>https://v.daum.net/v/20240208160702965</id>
-        <link href="https://v.daum.net/v/20240208160702965"/>
-        <updated>2024-02-08T07:15:46.033Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">16:07</span>]]></content>
     </entry>
 </feed>
