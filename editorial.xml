@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-02-08T12:26:27.793Z</updated>
+    <updated>2024-02-08T13:17:04.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[베네치아에서의 비바 카니발! [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20240208220038931</id>
+        <link href="https://v.daum.net/v/20240208220038931"/>
+        <updated>2024-02-08T13:16:50.586Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남궁원이 정치를 안 한 이유]]></title>
         <id>https://v.daum.net/v/20240208204026036</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240208182942332"/>
         <updated>2024-02-08T10:15:45.142Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">18:29</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사유와 성찰] 비판을 되받는 황폐한 정치 언어]]></title>
-        <id>https://v.daum.net/v/20240208182708313</id>
-        <link href="https://v.daum.net/v/20240208182708313"/>
-        <updated>2024-02-08T10:15:45.143Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">18:27</span>]]></content>
     </entry>
 </feed>
