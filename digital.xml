@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-02-10T12:24:56.822Z</updated>
+    <updated>2024-02-10T13:17:07.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美, 민관 협력체 '국립반도체기술센터(NSTC)'에 6.6조원 투자]]></title>
+        <id>https://v.daum.net/v/20240210213911194</id>
+        <link href="https://v.daum.net/v/20240210213911194"/>
+        <updated>2024-02-10T13:16:45.239Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">21:39</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경쟁사 J&J 임상 성공에도 한올바이오파마가 웃는 이유]]></title>
         <id>https://v.daum.net/v/20240210210902070</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240210172006714</id>
         <link href="https://v.daum.net/v/20240210172006714"/>
         <updated>2024-02-10T09:14:45.350Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">17:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설날, 한산한 세종대로]]></title>
-        <id>https://v.daum.net/v/20240210172004713</id>
-        <link href="https://v.daum.net/v/20240210172004713"/>
-        <updated>2024-02-10T09:14:45.351Z</updated>
         <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">17:20</span>]]></content>
     </entry>
 </feed>
