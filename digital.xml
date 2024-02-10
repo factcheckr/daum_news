@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-02-10T01:49:22.669Z</updated>
+    <updated>2024-02-10T02:18:59.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삼성 갤워치 `수면 무호흡 기능`, 美 FDA 신기술 인정]]></title>
+        <id>https://v.daum.net/v/20240210110017821</id>
+        <link href="https://v.daum.net/v/20240210110017821"/>
+        <updated>2024-02-10T02:18:40.630Z</updated>
+        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">11:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[게임위드인] 넥슨 '웨이크러너', 잠재력 크지만 아직은 밋밋한]]></title>
+        <id>https://v.daum.net/v/20240210110016818</id>
+        <link href="https://v.daum.net/v/20240210110016818"/>
+        <updated>2024-02-10T02:18:40.631Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">11:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[글로벌 IT 최대 격전지 'AI 반도체'…세계 1위 스타트업은?]]></title>
+        <id>https://v.daum.net/v/20240210105202701</id>
+        <link href="https://v.daum.net/v/20240210105202701"/>
+        <updated>2024-02-10T02:18:40.631Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">10:52</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['오픈AI' 샘 올트먼, 9000조 펀딩 추진…“글로벌 반도체 네트워크 만든다”]]></title>
         <id>https://v.daum.net/v/20240210104804669</id>
@@ -27,7 +48,7 @@
         <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">10:43</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“美 반도체 기업 엔비디아, 맞춤형 AI 칩 시장 공략”]]></title>
+        <title type="html"><![CDATA[美 엔비디아, 40조 규모 맞춤형 AI 칩 시장 진출 “새 사업부 구축”]]></title>
         <id>https://v.daum.net/v/20240210104104603</id>
         <link href="https://v.daum.net/v/20240210104104603"/>
         <updated>2024-02-10T01:48:58.247Z</updated>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240210100125192"/>
         <updated>2024-02-10T01:48:58.256Z</updated>
         <content type="html"><![CDATA[대구MBC<span class="txt_bar"> · </span><span class="info_time">10:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[위클리 스마트] 자동차보험 비교 추천 서비스, 어떤 플랫폼 선택할까]]></title>
-        <id>https://v.daum.net/v/20240210100035158</id>
-        <link href="https://v.daum.net/v/20240210100035158"/>
-        <updated>2024-02-10T01:48:58.259Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">10:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카리나와 메시지 주고받는 '팬 플랫폼', 소통인가 소속사 종속인가]]></title>
-        <id>https://v.daum.net/v/20240210100004120</id>
-        <link href="https://v.daum.net/v/20240210100004120"/>
-        <updated>2024-02-10T01:48:58.260Z</updated>
-        <content type="html"><![CDATA[미디어오늘<span class="txt_bar"> · </span><span class="info_time">10:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플 vs 메타, '빨간색 문제' 먼저 푸는 쪽이 이긴다[테크토크]]]></title>
-        <id>https://v.daum.net/v/20240210094820981</id>
-        <link href="https://v.daum.net/v/20240210094820981"/>
-        <updated>2024-02-10T00:59:23.075Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">09:48</span>]]></content>
     </entry>
 </feed>
