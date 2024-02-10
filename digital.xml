@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-02-10T07:14:25.266Z</updated>
+    <updated>2024-02-10T08:17:50.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“이러면 다들 아이폰 산다” 애플 접는폰 드디어 윤곽…삼성 초비상?]]></title>
+        <id>https://v.daum.net/v/20240210162725245</id>
+        <link href="https://v.daum.net/v/20240210162725245"/>
+        <updated>2024-02-10T08:17:26.281Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">16:27</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글도 못 막는 북한 유튜버, “새해엔 가족이랑 킹크랩 먹어요”]]></title>
+        <id>https://v.daum.net/v/20240210162556208</id>
+        <link href="https://v.daum.net/v/20240210162556208"/>
+        <updated>2024-02-10T08:17:26.282Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">16:25</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["한국인 거는 널렸다" 떨이 판매…'다크웹' 올라온 개인정보 충격]]></title>
         <id>https://v.daum.net/v/20240210160001999</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240210130146713"/>
         <updated>2024-02-10T04:20:50.078Z</updated>
         <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">13:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[제4이통②]이통3社→4社 경쟁체제 '초읽기'…통신비 확 내릴까]]></title>
-        <id>https://v.daum.net/v/20240210130011678</id>
-        <link href="https://v.daum.net/v/20240210130011678"/>
-        <updated>2024-02-10T04:20:50.079Z</updated>
-        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">13:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D램값 5개월간 34% ↑…메모리 업황 회복 국면]]></title>
-        <id>https://v.daum.net/v/20240210130002668</id>
-        <link href="https://v.daum.net/v/20240210130002668"/>
-        <updated>2024-02-10T04:20:50.079Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">13:00</span>]]></content>
     </entry>
 </feed>
