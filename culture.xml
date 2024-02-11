@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2024-02-11T16:18:38.898Z</updated>
+    <updated>2024-02-11T17:13:45.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유난 아닌 주의 필요한 '음식 알레르기']]></title>
+        <id>https://v.daum.net/v/20240212014059467</id>
+        <link href="https://v.daum.net/v/20240212014059467"/>
+        <updated>2024-02-11T17:13:00.446Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">01:40</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오늘의 운세] 2월 12일 월요일 (음력 1월 3일 /丙午) 띠별 / 생년월일 운세]]></title>
         <id>https://v.daum.net/v/20240212010121391</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240212000107189"/>
         <updated>2024-02-11T15:15:34.413Z</updated>
         <content type="html"><![CDATA[엘르<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘 운세, 띠별 운세 2월 12일]]></title>
-        <id>https://v.daum.net/v/20240212000102187</id>
-        <link href="https://v.daum.net/v/20240212000102187"/>
-        <updated>2024-02-11T15:15:34.414Z</updated>
-        <content type="html"><![CDATA[bnt뉴스<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
     </entry>
 </feed>
