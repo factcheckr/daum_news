@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-02-12T07:15:32.780Z</updated>
+    <updated>2024-02-12T08:19:52.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] CGTN: 2024 춘절 갈라, 전 세계 수백만 관객 매료시켜]]></title>
+        <id>https://v.daum.net/v/20240212164453004</id>
+        <link href="https://v.daum.net/v/20240212164453004"/>
+        <updated>2024-02-12T08:19:44.848Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:44</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구미시, 교통문화지수 ‘30만 이상 지자체 중 도내 1위’]]></title>
         <id>https://v.daum.net/v/20240212155447323</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240212114543563"/>
         <updated>2024-02-12T03:19:03.213Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사우디 스포츠 포 올 페더레이션, 2만명 이상의 2024 리야드 마라톤 참가자 환영]]></title>
-        <id>https://v.daum.net/v/20240212112705312</id>
-        <link href="https://v.daum.net/v/20240212112705312"/>
-        <updated>2024-02-12T03:19:03.214Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">11:27</span>]]></content>
     </entry>
 </feed>
