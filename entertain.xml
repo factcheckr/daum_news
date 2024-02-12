@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2024-02-12T16:21:07.971Z</updated>
+    <updated>2024-02-12T17:13:45.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[움짤] 트와이스 다현, I GOT YOU]]></title>
+        <id>https://v.daum.net/v/20240213012639390</id>
+        <link href="https://v.daum.net/v/20240213012639390"/>
+        <updated>2024-02-12T17:13:10.407Z</updated>
+        <content type="html"><![CDATA[MBC연예<span class="txt_bar"> · </span><span class="info_time">01:26</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강남母, "너만 이사 가" 아들 내쫓고 '♥이상화'와 둘이 살겠다 선포! ('동네친구 강나미')]]></title>
         <id>https://v.daum.net/v/20240213011902381</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240213001239201"/>
         <updated>2024-02-12T15:16:01.234Z</updated>
         <content type="html"><![CDATA[MBC연예<span class="txt_bar"> · </span><span class="info_time">00:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태진아, 중증치매 ♥옥경이 앞 오열 “나를 천천히 잊어주길”(조선의 사랑꾼)[종합]]]></title>
-        <id>https://v.daum.net/v/20240213001038170</id>
-        <link href="https://v.daum.net/v/20240213001038170"/>
-        <updated>2024-02-12T15:16:01.234Z</updated>
-        <content type="html"><![CDATA[OSEN<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
     </entry>
 </feed>
