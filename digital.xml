@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-02-12T13:21:45.219Z</updated>
+    <updated>2024-02-12T14:14:41.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오드리선-앙젤리나, 밸런타인데이 '생리대X초콜릿' 이색 콜라보]]></title>
+        <id>https://v.daum.net/v/20240212231353860</id>
+        <link href="https://v.daum.net/v/20240212231353860"/>
+        <updated>2024-02-12T14:14:16.759Z</updated>
+        <content type="html"><![CDATA[로피시엘 코리아<span class="txt_bar"> · </span><span class="info_time">23:13</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마틴 마리에타, 블루워터 유닛 20억5천만 달러에 인수]]></title>
         <id>https://v.daum.net/v/20240212220921562</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240212203206874"/>
         <updated>2024-02-12T12:26:14.244Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["통신업계의 AI 활용 규모 2032년까지 9.4배 증가"]]></title>
-        <id>https://v.daum.net/v/20240212200007630</id>
-        <link href="https://v.daum.net/v/20240212200007630"/>
-        <updated>2024-02-12T11:13:06.083Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">20:00</span>]]></content>
     </entry>
 </feed>
