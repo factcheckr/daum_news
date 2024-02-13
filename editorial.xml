@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-02-13T16:19:50.251Z</updated>
+    <updated>2024-02-13T17:13:48.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]사법에 의존하지 않는 적극행정 펼쳐야]]></title>
+        <id>https://v.daum.net/v/20240214020302490</id>
+        <link href="https://v.daum.net/v/20240214020302490"/>
+        <updated>2024-02-13T17:13:32.210Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 조국 신당, 가당치 않다]]></title>
         <id>https://v.daum.net/v/20240214004026178</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240214001434050"/>
         <updated>2024-02-13T16:19:33.683Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[스티븐 도버의 마켓 나우] 할 일 미루는 미국 연방준비제도]]></title>
-        <id>https://v.daum.net/v/20240214001234044</id>
-        <link href="https://v.daum.net/v/20240214001234044"/>
-        <updated>2024-02-13T15:14:24.396Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:12</span>]]></content>
     </entry>
 </feed>
