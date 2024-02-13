@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-02-13T10:17:23.031Z</updated>
+    <updated>2024-02-13T11:15:24.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Infosys Collaborates with Pacific International Lines]]></title>
+        <id>https://v.daum.net/v/20240213191926751</id>
+        <link href="https://v.daum.net/v/20240213191926751"/>
+        <updated>2024-02-13T11:15:16.641Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">19:19</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국민·지역기업에 부담주는 ‘그림자 조세’ 일제 정비 나선다]]></title>
         <id>https://v.daum.net/v/20240213182017797</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">18:20</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[경기도내 전직 지자체장들, 국회의원 대거 도전 [총선 관전포인트]]]></title>
+        <title type="html"><![CDATA[前 시장·군수 18명 ‘금배지 도전’… 여의도 입성 누구? [총선 관전포인트]]]></title>
         <id>https://v.daum.net/v/20240213181855766</id>
         <link href="https://v.daum.net/v/20240213181855766"/>
         <updated>2024-02-13T10:17:16.153Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240213171702082"/>
         <updated>2024-02-13T08:19:06.594Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[담양군, 상수도 스마트모바일 고지 시스템 도입]]></title>
-        <id>https://v.daum.net/v/20240213170536709</id>
-        <link href="https://v.daum.net/v/20240213170536709"/>
-        <updated>2024-02-13T08:19:06.595Z</updated>
-        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">17:05</span>]]></content>
     </entry>
 </feed>
