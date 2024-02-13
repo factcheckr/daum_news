@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-02-13T12:30:40.248Z</updated>
+    <updated>2024-02-13T13:18:06.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 부고 - 2024년 2월 14일]]></title>
+        <id>https://v.daum.net/v/20240213215447929</id>
+        <link href="https://v.daum.net/v/20240213215447929"/>
+        <updated>2024-02-13T13:17:51.561Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">21:54</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 2월 14일[김용민의 그림마당]]]></title>
         <id>https://v.daum.net/v/20240213204833176</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240213200721548</id>
         <link href="https://v.daum.net/v/20240213200721548"/>
         <updated>2024-02-13T11:15:09.078Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[송두율 칼럼] 캔슬 문화와 증오 정치]]></title>
-        <id>https://v.daum.net/v/20240213200714545</id>
-        <link href="https://v.daum.net/v/20240213200714545"/>
-        <updated>2024-02-13T11:15:09.079Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:07</span>]]></content>
     </entry>
 </feed>
