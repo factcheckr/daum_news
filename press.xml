@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-02-13T11:15:24.527Z</updated>
+    <updated>2024-02-13T12:30:40.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] HPX signs Letter of Intent with Government of Liberia]]></title>
+        <id>https://v.daum.net/v/20240213211027469</id>
+        <link href="https://v.daum.net/v/20240213211027469"/>
+        <updated>2024-02-13T12:30:31.086Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">21:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 몰도바, 사이버보안 기관과 사이버코르 연구소 신설을 통해 디지털 방]]></title>
+        <id>https://v.daum.net/v/20240213204847180</id>
+        <link href="https://v.daum.net/v/20240213204847180"/>
+        <updated>2024-02-13T12:30:31.086Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:48</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] Infosys Collaborates with Pacific International Lines]]></title>
         <id>https://v.daum.net/v/20240213191926751</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240213172702317"/>
         <updated>2024-02-13T09:15:12.640Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유러피언 하이 그로스 어퍼튜니티스 시큐리타이제이션 펀드의 토니 지 코인베스트먼트 홀딩스 보도자료에 대한 논평]]></title>
-        <id>https://v.daum.net/v/20240213171703083</id>
-        <link href="https://v.daum.net/v/20240213171703083"/>
-        <updated>2024-02-13T08:19:06.591Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[European High Growth Opportunities Securitization Fund Comments on Press Release Issued by Tony G Co-Investment Holdings Ltd.]]></title>
-        <id>https://v.daum.net/v/20240213171702082</id>
-        <link href="https://v.daum.net/v/20240213171702082"/>
-        <updated>2024-02-13T08:19:06.594Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:17</span>]]></content>
     </entry>
 </feed>
