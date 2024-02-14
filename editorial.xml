@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-02-14T13:17:50.319Z</updated>
+    <updated>2024-02-14T14:16:45.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[국민만평-서민호 화백] 2024년 2월 15일]]></title>
+        <id>https://v.daum.net/v/20240214230608554</id>
+        <link href="https://v.daum.net/v/20240214230608554"/>
+        <updated>2024-02-14T14:16:28.367Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">23:06</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 2월 15일[김용민의 그림마당]]]></title>
         <id>https://v.daum.net/v/20240214211021081</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240214202546109"/>
         <updated>2024-02-14T12:26:57.161Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예술과 오늘] 포토카드인가, 포커카드인가]]></title>
-        <id>https://v.daum.net/v/20240214202359049</id>
-        <link href="https://v.daum.net/v/20240214202359049"/>
-        <updated>2024-02-14T12:26:57.162Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:23</span>]]></content>
     </entry>
 </feed>
