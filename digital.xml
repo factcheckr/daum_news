@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-02-14T16:19:09.147Z</updated>
+    <updated>2024-02-14T17:15:41.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[분말 소재 ‘혁신적 건식코팅 기술’ 선도]]></title>
+        <id>https://v.daum.net/v/20240215015011613</id>
+        <link href="https://v.daum.net/v/20240215015011613"/>
+        <updated>2024-02-14T17:15:16.297Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">01:50</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[휘발성 유기용제, 고효율로 회수해 재활용]]></title>
+        <id>https://v.daum.net/v/20240215015007612</id>
+        <link href="https://v.daum.net/v/20240215015007612"/>
+        <updated>2024-02-14T17:15:16.298Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">01:50</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[첨단 기술로 정밀가공 분야 시장 선도]]></title>
+        <id>https://v.daum.net/v/20240215014003597</id>
+        <link href="https://v.daum.net/v/20240215014003597"/>
+        <updated>2024-02-14T17:15:16.299Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">01:40</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[음식폐기물 처리에 첨단 AI 솔루션 접목]]></title>
+        <id>https://v.daum.net/v/20240215012017541</id>
+        <link href="https://v.daum.net/v/20240215012017541"/>
+        <updated>2024-02-14T17:15:16.301Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">01:20</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[산사태 피해 예방 실시간 모니터링]]></title>
+        <id>https://v.daum.net/v/20240215012003535</id>
+        <link href="https://v.daum.net/v/20240215012003535"/>
+        <updated>2024-02-14T17:15:16.302Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">01:20</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI로 폐기물 정량분석 ‘리워드 가치’ 평가]]></title>
         <id>https://v.daum.net/v/20240215011029479</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20240215010013409"/>
         <updated>2024-02-14T16:18:42.293Z</updated>
         <content type="html"><![CDATA[동아사이언스<span class="txt_bar"> · </span><span class="info_time">01:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공연물품 공유·재사용·직거래 플랫폼 운영]]></title>
-        <id>https://v.daum.net/v/20240215010011408</id>
-        <link href="https://v.daum.net/v/20240215010011408"/>
-        <updated>2024-02-14T16:18:42.295Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">01:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[암 치료 근원 찾나…韓 연구진, 방사선 유발 DNA 돌연변이 첫 규명]]></title>
-        <id>https://v.daum.net/v/20240215010011407</id>
-        <link href="https://v.daum.net/v/20240215010011407"/>
-        <updated>2024-02-14T16:18:42.297Z</updated>
-        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">01:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세계 최초로 쇠고기쌀 만들었다...'영양 만점']]></title>
-        <id>https://v.daum.net/v/20240215010008405</id>
-        <link href="https://v.daum.net/v/20240215010008405"/>
-        <updated>2024-02-14T16:18:42.299Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">01:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방사선이 유발하는 DNA 돌연변이 특성 규명]]></title>
-        <id>https://v.daum.net/v/20240215010003402</id>
-        <link href="https://v.daum.net/v/20240215010003402"/>
-        <updated>2024-02-14T16:18:42.301Z</updated>
-        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">01:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미세먼지 흡착력, 기존 에어필터 대비 200배]]></title>
-        <id>https://v.daum.net/v/20240215010003401</id>
-        <link href="https://v.daum.net/v/20240215010003401"/>
-        <updated>2024-02-14T16:18:42.302Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">01:00</span>]]></content>
     </entry>
 </feed>
