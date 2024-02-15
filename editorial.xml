@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-02-15T22:14:33.395Z</updated>
+    <updated>2024-02-15T23:15:55.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](16일 조간)]]></title>
+        <id>https://v.daum.net/v/20240216080005750</id>
+        <link href="https://v.daum.net/v/20240216080005750"/>
+        <updated>2024-02-15T23:15:35.300Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴스 즉설]문재인도 못말린 조국, 밤잠 설치는 이재명의 민주당]]></title>
+        <id>https://v.daum.net/v/20240216072312270</id>
+        <link href="https://v.daum.net/v/20240216072312270"/>
+        <updated>2024-02-15T23:15:35.302Z</updated>
+        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">07:23</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[칼럼]의사는 국민을 이길 수 없다]]></title>
+        <id>https://v.daum.net/v/20240216071800195</id>
+        <link href="https://v.daum.net/v/20240216071800195"/>
+        <updated>2024-02-15T23:15:35.304Z</updated>
+        <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">07:18</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[슬기로운 기자생활] 가족의 기록]]></title>
         <id>https://v.daum.net/v/20240216070511077</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240216053022864"/>
         <updated>2024-02-15T21:15:20.762Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기고]인생에서 성공하는 방법]]></title>
-        <id>https://v.daum.net/v/20240216053019863</id>
-        <link href="https://v.daum.net/v/20240216053019863"/>
-        <updated>2024-02-15T21:15:20.773Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[씨줄날줄] 알리와 테무의 침공/전경하 논설위원]]></title>
-        <id>https://v.daum.net/v/20240216050440603</id>
-        <link href="https://v.daum.net/v/20240216050440603"/>
-        <updated>2024-02-15T20:13:58.639Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[길섶에서] 참전용사의 분노/황비웅 논설위원]]></title>
-        <id>https://v.daum.net/v/20240216050438602</id>
-        <link href="https://v.daum.net/v/20240216050438602"/>
-        <updated>2024-02-15T20:13:58.639Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:04</span>]]></content>
     </entry>
 </feed>
