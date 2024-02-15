@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-02-15T13:20:06.546Z</updated>
+    <updated>2024-02-15T14:14:17.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[epaselect USA NASA]]></title>
+        <id>https://v.daum.net/v/20240215230516503</id>
+        <link href="https://v.daum.net/v/20240215230516503"/>
+        <updated>2024-02-15T14:13:51.884Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">23:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[여기는 전남] 누리호 제작 한화에어로 순천 공장 착공]]></title>
+        <id>https://v.daum.net/v/20240215223700348</id>
+        <link href="https://v.daum.net/v/20240215223700348"/>
+        <updated>2024-02-15T14:13:51.884Z</updated>
+        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">22:37</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['韓 최연소' 함돈희 하버드대 교수, 삼성 SAIT 부원장 선임]]></title>
         <id>https://v.daum.net/v/20240215221845199</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240215211338303"/>
         <updated>2024-02-15T12:25:51.263Z</updated>
         <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">21:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버페이 ‘자동차보험 비교·추천’, 자동차보험료 평균 27만원 낮춰]]></title>
-        <id>https://v.daum.net/v/20240215210127114</id>
-        <link href="https://v.daum.net/v/20240215210127114"/>
-        <updated>2024-02-15T12:25:51.265Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">21:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유진이엔티, YTN 지분 인수 완료…매각잔금 납입]]></title>
-        <id>https://v.daum.net/v/20240215210112109</id>
-        <link href="https://v.daum.net/v/20240215210112109"/>
-        <updated>2024-02-15T12:25:51.265Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">21:01</span>]]></content>
     </entry>
 </feed>
