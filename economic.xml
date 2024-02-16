@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2024-02-16T18:19:23.050Z</updated>
+    <updated>2024-02-16T19:14:43.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대형사도 줄도산 공포… 정부, 공공계약 선금 확대 등 안정화 총력]]></title>
+        <id>https://v.daum.net/v/20240217041310274</id>
+        <link href="https://v.daum.net/v/20240217041310274"/>
+        <updated>2024-02-16T19:13:48.525Z</updated>
+        <content type="html"><![CDATA[머니S<span class="txt_bar"> · </span><span class="info_time">04:13</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[경제계 인사] 대한항공]]></title>
         <id>https://v.daum.net/v/20240217030351040</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240217011337659"/>
         <updated>2024-02-16T16:17:48.275Z</updated>
         <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">01:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강릉시, 미취업 여성 대상 구직활동 비용 지원]]></title>
-        <id>https://v.daum.net/v/20240217010938653</id>
-        <link href="https://v.daum.net/v/20240217010938653"/>
-        <updated>2024-02-16T16:17:48.276Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">01:09</span>]]></content>
     </entry>
 </feed>
