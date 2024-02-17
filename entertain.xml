@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2024-02-17T18:17:50.218Z</updated>
+    <updated>2024-02-17T19:13:05.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["테일러 스위프트인줄"…이효리, '장발' 김범수와 투샷]]></title>
+        <id>https://v.daum.net/v/20240218040002472</id>
+        <link href="https://v.daum.net/v/20240218040002472"/>
+        <updated>2024-02-17T19:12:17.100Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유재석, 재산 1조설 불구 “팬티 10장 없어” 아이유도 깜짝 놀란 검소함(핑계고)]]></title>
         <id>https://v.daum.net/v/20240218030012380</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240218004710048"/>
         <updated>2024-02-17T16:17:48.882Z</updated>
         <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">00:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안유진, 상큼한 비주얼…'과즙美 팡팡']]></title>
-        <id>https://v.daum.net/v/20240218004639046</id>
-        <link href="https://v.daum.net/v/20240218004639046"/>
-        <updated>2024-02-17T16:17:48.883Z</updated>
-        <content type="html"><![CDATA[스포츠한국<span class="txt_bar"> · </span><span class="info_time">00:46</span>]]></content>
     </entry>
 </feed>
