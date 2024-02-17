@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-02-17T11:12:32.150Z</updated>
+    <updated>2024-02-17T12:25:04.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주간 돌발영상] 2월 셋째 주]]></title>
+        <id>https://v.daum.net/v/20240217204911625</id>
+        <link href="https://v.daum.net/v/20240217204911625"/>
+        <updated>2024-02-17T12:24:46.518Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">20:49</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[양경미의 영화로 보는 세상] 초고령 사회의 그늘]]></title>
         <id>https://v.daum.net/v/20240217140012817</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240217043220334"/>
         <updated>2024-02-16T20:15:09.776Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 삼성전자 시총 도요타에 밀려... 단기 부양책만으론 해결 못해]]></title>
-        <id>https://v.daum.net/v/20240217043105321</id>
-        <link href="https://v.daum.net/v/20240217043105321"/>
-        <updated>2024-02-16T20:15:09.776Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:31</span>]]></content>
     </entry>
 </feed>

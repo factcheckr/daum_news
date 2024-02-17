@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-02-17T11:12:32.159Z</updated>
+    <updated>2024-02-17T12:25:04.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[의협 비대위 첫 회의… “의료계 단체 행동 전 회원 투표로 결정”]]></title>
+        <id>https://v.daum.net/v/20240217204755615</id>
+        <link href="https://v.daum.net/v/20240217204755615"/>
+        <updated>2024-02-17T12:24:39.431Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">20:47</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[긴행렬…“이건 섬뜩한 광경?” 망한줄 알았는데, 삼성도 ‘경악’]]></title>
         <id>https://v.daum.net/v/20240217194103052</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240217161156912"/>
         <updated>2024-02-17T07:14:20.264Z</updated>
         <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">16:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[컴투스위드, 자회사형 장애인 표준사업장 인증 취득]]></title>
-        <id>https://v.daum.net/v/20240217155203741</id>
-        <link href="https://v.daum.net/v/20240217155203741"/>
-        <updated>2024-02-17T07:14:20.265Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">15:52</span>]]></content>
     </entry>
 </feed>
