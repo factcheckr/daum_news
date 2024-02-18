@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2024-02-18T16:20:14.600Z</updated>
+    <updated>2024-02-18T17:13:56.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조국 "10석 3당 목표, 1만 당원 확보... 민주당 발목 잡는 일 없다"]]></title>
+        <id>https://v.daum.net/v/20240219013900153</id>
+        <link href="https://v.daum.net/v/20240219013900153"/>
+        <updated>2024-02-18T17:12:42.517Z</updated>
+        <content type="html"><![CDATA[오마이뉴스<span class="txt_bar"> · </span><span class="info_time">01:39</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘부터 2월 임시국회…쌍특검법 재표결·선거구 획정 주목]]></title>
         <id>https://v.daum.net/v/20240219010011986</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240219000308632</id>
         <link href="https://v.daum.net/v/20240219000308632"/>
         <updated>2024-02-18T15:16:50.207Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정부, 오늘 '의사 집단행동 대응 관계장관회의' 개최]]></title>
-        <id>https://v.daum.net/v/20240219000307630</id>
-        <link href="https://v.daum.net/v/20240219000307630"/>
-        <updated>2024-02-18T15:16:50.208Z</updated>
         <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
     </entry>
 </feed>
