@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2024-02-18T15:18:14.500Z</updated>
+    <updated>2024-02-18T16:20:14.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["음원 경쟁 방해"…EU, 애플에 5억유로 철퇴]]></title>
+        <id>https://v.daum.net/v/20240219005502945</id>
+        <link href="https://v.daum.net/v/20240219005502945"/>
+        <updated>2024-02-18T16:19:01.763Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:55</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘미국 연착륙’ 기대 삼키나…충격의 ‘물가 쓰나미’]]></title>
         <id>https://v.daum.net/v/20240219001227803</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240219001025762</id>
         <link href="https://v.daum.net/v/20240219001025762"/>
         <updated>2024-02-18T15:16:58.022Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부영이 쏘아올린 기업 출산장려금…근로소득으로 간주, 분할과세 추진]]></title>
-        <id>https://v.daum.net/v/20240219001024761</id>
-        <link href="https://v.daum.net/v/20240219001024761"/>
-        <updated>2024-02-18T15:16:58.023Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
     </entry>
 </feed>
