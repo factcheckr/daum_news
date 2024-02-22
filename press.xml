@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-02-22T22:14:44.145Z</updated>
+    <updated>2024-02-22T23:18:23.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국립심포니오케스트라 ‘청년 교육단원 통합 공모’로 청년 음악가 찾는다]]></title>
+        <id>https://v.daum.net/v/20240223080704609</id>
+        <link href="https://v.daum.net/v/20240223080704609"/>
+        <updated>2024-02-22T23:18:16.929Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">08:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[더 한장] 탈탄소 시대 달집 태우기]]></title>
         <id>https://v.daum.net/v/20240223070120500</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240223053113265</id>
         <link href="https://v.daum.net/v/20240223053113265"/>
         <updated>2024-02-22T21:15:12.452Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">05:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Cooking&Food] 프랑스 꼬냑, 일본산 위스키 이어 멕시코 데킬라 코모스 2종도 선보여]]></title>
-        <id>https://v.daum.net/v/20240223053109263</id>
-        <link href="https://v.daum.net/v/20240223053109263"/>
-        <updated>2024-02-22T21:15:12.453Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">05:31</span>]]></content>
     </entry>
 </feed>
