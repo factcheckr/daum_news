@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-02-23T22:14:24.465Z</updated>
+    <updated>2024-02-23T23:17:53.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[김회룡의 시사 TOON]]]></title>
+        <id>https://v.daum.net/v/20240224080203627</id>
+        <link href="https://v.daum.net/v/20240224080203627"/>
+        <updated>2024-02-23T23:17:41.108Z</updated>
+        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">08:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[데스크 칼럼] 조상제한서→국신하우농, 금융의 미래는]]></title>
         <id>https://v.daum.net/v/20240224060159138</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240224040212558"/>
         <updated>2024-02-23T19:14:37.352Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 민간 달 착륙, 마침내 인류 ‘우주 경제’ 시대 막 올랐다]]></title>
-        <id>https://v.daum.net/v/20240224031721514</id>
-        <link href="https://v.daum.net/v/20240224031721514"/>
-        <updated>2024-02-23T18:20:36.748Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:17</span>]]></content>
     </entry>
 </feed>
