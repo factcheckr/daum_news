@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-02-23T03:20:22.621Z</updated>
+    <updated>2024-02-23T04:21:53.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[에너지토피아]'그린허싱', ESG에 대한 역풍이 분다]]></title>
+        <id>https://v.daum.net/v/20240223130137832</id>
+        <link href="https://v.daum.net/v/20240223130137832"/>
+        <updated>2024-02-23T04:21:34.773Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">13:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[민주, ‘윤석열 검찰총장’과 각 세운 이성윤 검사장·정한중 교수 영입]]></title>
         <id>https://v.daum.net/v/20240223120506853</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240223111424955</id>
         <link href="https://v.daum.net/v/20240223111424955"/>
         <updated>2024-02-23T03:20:01.785Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] ‘尹대통령 가짜 영상’ 수사...‘딥페이크 차단’ 급류 타길]]></title>
-        <id>https://v.daum.net/v/20240223111420950</id>
-        <link href="https://v.daum.net/v/20240223111420950"/>
-        <updated>2024-02-23T03:20:01.787Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:14</span>]]></content>
     </entry>
 </feed>
