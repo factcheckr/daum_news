@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-02-23T23:17:53.963Z</updated>
+    <updated>2024-02-24T00:59:22.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기재부·복지부, 의료공백 장기화에 예비비 투입 협의]]></title>
+        <id>https://v.daum.net/v/20240224093544541</id>
+        <link href="https://v.daum.net/v/20240224093544541"/>
+        <updated>2024-02-24T00:59:06.087Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV<span class="txt_bar"> · </span><span class="info_time">09:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[김회룡의 시사 TOON]]]></title>
         <id>https://v.daum.net/v/20240224080203627</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240224040321564"/>
         <updated>2024-02-23T19:14:37.350Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 검사들의 정치권 줄서기 우려된다]]></title>
-        <id>https://v.daum.net/v/20240224040212558</id>
-        <link href="https://v.daum.net/v/20240224040212558"/>
-        <updated>2024-02-23T19:14:37.352Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:02</span>]]></content>
     </entry>
 </feed>
