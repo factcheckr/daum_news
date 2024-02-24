@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-02-24T00:59:22.182Z</updated>
+    <updated>2024-02-24T01:48:39.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[김순덕의 도발] 이승만, 러시아-공산 전체주의 본질 꿰뚫은 위대한 정치가]]></title>
+        <id>https://v.daum.net/v/20240224100020893</id>
+        <link href="https://v.daum.net/v/20240224100020893"/>
+        <updated>2024-02-24T01:48:21.916Z</updated>
+        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">10:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](24일 조간)]]></title>
+        <id>https://v.daum.net/v/20240224100011883</id>
+        <link href="https://v.daum.net/v/20240224100011883"/>
+        <updated>2024-02-24T01:48:21.916Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">10:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기재부·복지부, 의료공백 장기화에 예비비 투입 협의]]></title>
         <id>https://v.daum.net/v/20240224093544541</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240224041015597"/>
         <updated>2024-02-23T19:14:37.348Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토 카페] 철없는 눈사람]]></title>
-        <id>https://v.daum.net/v/20240224040416568</id>
-        <link href="https://v.daum.net/v/20240224040416568"/>
-        <updated>2024-02-23T19:14:37.350Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[로컬의 발견] 시장에서 엿본 오래된 미래]]></title>
-        <id>https://v.daum.net/v/20240224040321564</id>
-        <link href="https://v.daum.net/v/20240224040321564"/>
-        <updated>2024-02-23T19:14:37.350Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:03</span>]]></content>
     </entry>
 </feed>
