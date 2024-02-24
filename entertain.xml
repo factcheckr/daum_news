@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2024-02-24T18:18:09.093Z</updated>
+    <updated>2024-02-24T19:12:44.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사쿠라, 유재석에 "사실 저도 몸치"]]></title>
+        <id>https://v.daum.net/v/20240225041010190</id>
+        <link href="https://v.daum.net/v/20240225041010190"/>
+        <updated>2024-02-24T19:11:51.928Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">04:10</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['놀토' 르세라핌 은채, 우상이던 키에 실망한 사연[Oh!쎈 종합]]]></title>
         <id>https://v.daum.net/v/20240225020732109</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240225003015781"/>
         <updated>2024-02-24T16:16:52.871Z</updated>
         <content type="html"><![CDATA[OSEN<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["기다릴게" 박형식, 박신혜 향한 애틋 고백→PTSD 극복할까 ('닥터슬럼프')[종합]]]></title>
-        <id>https://v.daum.net/v/20240225002242777</id>
-        <link href="https://v.daum.net/v/20240225002242777"/>
-        <updated>2024-02-24T16:16:52.874Z</updated>
-        <content type="html"><![CDATA[스포츠조선<span class="txt_bar"> · </span><span class="info_time">00:22</span>]]></content>
     </entry>
 </feed>
