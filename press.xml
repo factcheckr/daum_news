@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-02-25T22:15:19.501Z</updated>
+    <updated>2024-02-25T23:15:34.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대전시, 봄 행락철 대비 전세버스 일제점검]]></title>
+        <id>https://v.daum.net/v/20240226081222924</id>
+        <link href="https://v.daum.net/v/20240226081222924"/>
+        <updated>2024-02-25T23:15:25.887Z</updated>
+        <content type="html"><![CDATA[투어코리아<span class="txt_bar"> · </span><span class="info_time">08:12</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[관광 분야 전문가 10명 중 7명, 관광산업 경쟁력 확보 위해 공유숙박 활성화 지지]]></title>
+        <id>https://v.daum.net/v/20240226080702833</id>
+        <link href="https://v.daum.net/v/20240226080702833"/>
+        <updated>2024-02-25T23:15:25.889Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">08:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[건강한 가족] 신경과·신경외과 협진으로 파킨슨병 환자 맞춤형 치료 주도]]></title>
         <id>https://v.daum.net/v/20240226053207661</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240226000614055"/>
         <updated>2024-02-25T15:13:45.178Z</updated>
         <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양구 레포츠공원 경관조명 관광명소 모색]]></title>
-        <id>https://v.daum.net/v/20240226000549028</id>
-        <link href="https://v.daum.net/v/20240226000549028"/>
-        <updated>2024-02-25T15:13:45.179Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인제군 소상공·농어업인 경영안정 33억원 투입]]></title>
-        <id>https://v.daum.net/v/20240226000547025</id>
-        <link href="https://v.daum.net/v/20240226000547025"/>
-        <updated>2024-02-25T15:13:45.181Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
     </entry>
 </feed>
