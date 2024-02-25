@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2024-02-25T16:18:42.121Z</updated>
+    <updated>2024-02-25T17:13:42.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세븐틴 민규 “10년 뒤 38살, ‘남자답다’ 생각 들었으면” [화보]]]></title>
+        <id>https://v.daum.net/v/20240226020007481</id>
+        <link href="https://v.daum.net/v/20240226020007481"/>
+        <updated>2024-02-25T17:13:05.636Z</updated>
+        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">02:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[권다현, 경력단절 15년째 "연기 복귀 힘들수도"]]></title>
+        <id>https://v.daum.net/v/20240226013404464</id>
+        <link href="https://v.daum.net/v/20240226013404464"/>
+        <updated>2024-02-25T17:13:05.638Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">01:34</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임원희 "이혼기사 1년 늦게 나가..사실 '정글의법칙' 촬영 전 이혼"]]></title>
         <id>https://v.daum.net/v/20240226011718414</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240226003012256"/>
         <updated>2024-02-25T16:17:53.839Z</updated>
         <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문가영, 밀라노 패션위크서 파격 란제리 룩 화제 [연예뉴스 HOT]]]></title>
-        <id>https://v.daum.net/v/20240226003010255</id>
-        <link href="https://v.daum.net/v/20240226003010255"/>
-        <updated>2024-02-25T16:17:53.840Z</updated>
-        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시야 출신 김연지, 오래 첫 신곡 ‘안부’ 발매]]></title>
-        <id>https://v.daum.net/v/20240226002841244</id>
-        <link href="https://v.daum.net/v/20240226002841244"/>
-        <updated>2024-02-25T16:17:53.842Z</updated>
-        <content type="html"><![CDATA[스포츠경향<span class="txt_bar"> · </span><span class="info_time">00:28</span>]]></content>
     </entry>
 </feed>

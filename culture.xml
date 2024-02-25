@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2024-02-25T16:18:42.109Z</updated>
+    <updated>2024-02-25T17:13:42.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['파묘' 극장가 한기 물리쳤다…주말에만 200만 명]]></title>
+        <id>https://v.daum.net/v/20240226015509480</id>
+        <link href="https://v.daum.net/v/20240226015509480"/>
+        <updated>2024-02-25T17:12:59.421Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">01:55</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오늘의 운세] 2월 26일 월요일 (음력 1월 17일 /庚申) 띠별 / 생년월일 운세]]></title>
         <id>https://v.daum.net/v/20240226010125366</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240226000607047"/>
         <updated>2024-02-25T15:13:06.618Z</updated>
         <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“묘소 200여곳 돌며 춘천 문인 발굴”]]></title>
-        <id>https://v.daum.net/v/20240226000559036</id>
-        <link href="https://v.daum.net/v/20240226000559036"/>
-        <updated>2024-02-25T15:13:06.619Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
     </entry>
 </feed>
