@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-02-26T08:19:33.564Z</updated>
+    <updated>2024-02-26T09:16:40.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2024년 02월 26일)]]></title>
+        <id>https://v.daum.net/v/20240226173324591</id>
+        <link href="https://v.daum.net/v/20240226173324591"/>
+        <updated>2024-02-26T09:16:39.280Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울 길음동 롯데캐슬클라시아 84㎡ 14억1500만원... 역대 최고가]]></title>
         <id>https://v.daum.net/v/20240226164044516</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240226153608296"/>
         <updated>2024-02-26T07:20:31.658Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">15:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성남 창곡동 위례 자연&래미안e편한세상 84㎡ 12억7500만원에 거래]]></title>
-        <id>https://v.daum.net/v/20240226153103975</id>
-        <link href="https://v.daum.net/v/20240226153103975"/>
-        <updated>2024-02-26T07:20:31.659Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">15:31</span>]]></content>
     </entry>
 </feed>
