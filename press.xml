@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-02-28T11:15:00.973Z</updated>
+    <updated>2024-02-28T12:26:50.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인천자원순환특화단지사업협동조합, 서구 보훈회관 정기후원]]></title>
+        <id>https://v.daum.net/v/20240228201939129</id>
+        <link href="https://v.daum.net/v/20240228201939129"/>
+        <updated>2024-02-28T12:26:40.890Z</updated>
+        <content type="html"><![CDATA[투어코리아<span class="txt_bar"> · </span><span class="info_time">20:19</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화순군, '화순 꽃강길 음악분수' 3월 8일 재개..다채로운 분수쇼 기대]]></title>
         <id>https://v.daum.net/v/20240228195834605</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240228173702669"/>
         <updated>2024-02-28T09:15:03.727Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] HONOR, MWC서 스마트 기기에 탑재될 미래의 AI 조명]]></title>
-        <id>https://v.daum.net/v/20240228173126487</id>
-        <link href="https://v.daum.net/v/20240228173126487"/>
-        <updated>2024-02-28T09:15:03.728Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:31</span>]]></content>
     </entry>
 </feed>
