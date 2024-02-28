@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-02-28T12:26:50.580Z</updated>
+    <updated>2024-02-28T13:16:02.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임태희 경기교육감 "퇴직은 끝이 아닌 본격적인 프리랜서의 시작"]]></title>
+        <id>https://v.daum.net/v/20240228214320451</id>
+        <link href="https://v.daum.net/v/20240228214320451"/>
+        <updated>2024-02-28T13:15:54.259Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">21:43</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인천자원순환특화단지사업협동조합, 서구 보훈회관 정기후원]]></title>
         <id>https://v.daum.net/v/20240228201939129</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240228173753694"/>
         <updated>2024-02-28T09:15:03.726Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도로교통공단 서울지부, 운전면허 벌점 감경법 소개]]></title>
-        <id>https://v.daum.net/v/20240228173702669</id>
-        <link href="https://v.daum.net/v/20240228173702669"/>
-        <updated>2024-02-28T09:15:03.727Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:37</span>]]></content>
     </entry>
 </feed>
