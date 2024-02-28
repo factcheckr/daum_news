@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2024-02-28T16:21:18.566Z</updated>
+    <updated>2024-02-28T17:15:11.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비트코인, 27개월 만에 6만달러 돌파]]></title>
+        <id>https://v.daum.net/v/20240229014711478</id>
+        <link href="https://v.daum.net/v/20240229014711478"/>
+        <updated>2024-02-28T17:14:13.016Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">01:47</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[디즈니, 아시아 최고부자 손잡고 인도 시장 확대 추진]]></title>
+        <id>https://v.daum.net/v/20240229013548452</id>
+        <link href="https://v.daum.net/v/20240229013548452"/>
+        <updated>2024-02-28T17:14:13.018Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">01:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[금감원장 "주주환원 등 기준 미달 상장사 퇴출 검토"]]></title>
         <id>https://v.daum.net/v/20240229005806327</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240229001720077"/>
         <updated>2024-02-28T16:20:10.658Z</updated>
         <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">00:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘컨테이너·크루즈’ 유치 난항…동해항 활성화 요원]]></title>
-        <id>https://v.daum.net/v/20240229001618068</id>
-        <link href="https://v.daum.net/v/20240229001618068"/>
-        <updated>2024-02-28T16:20:10.660Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">00:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[울산 1월 오피스텔 수익률 5.32％…3년 7개월 만에 ‘최고’]]></title>
-        <id>https://v.daum.net/v/20240229001346034</id>
-        <link href="https://v.daum.net/v/20240229001346034"/>
-        <updated>2024-02-28T15:14:27.902Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">00:13</span>]]></content>
     </entry>
 </feed>
