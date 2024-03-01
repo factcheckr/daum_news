@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-03-01T03:21:25.628Z</updated>
+    <updated>2024-03-01T04:22:08.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인사] 용인특례시의회]]></title>
+        <id>https://v.daum.net/v/20240301125911397</id>
+        <link href="https://v.daum.net/v/20240301125911397"/>
+        <updated>2024-03-01T04:21:48.618Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">12:59</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이재명, 문재인과 이별 감수? ‘이재명당’ 창당 선언]]></title>
         <id>https://v.daum.net/v/20240301105104528</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240301071713090"/>
         <updated>2024-02-29T23:15:40.748Z</updated>
         <content type="html"><![CDATA[머니S<span class="txt_bar"> · </span><span class="info_time">07:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼일절이 건국절이다 [전범선의 풀무질]]]></title>
-        <id>https://v.daum.net/v/20240301070503012</id>
-        <link href="https://v.daum.net/v/20240301070503012"/>
-        <updated>2024-02-29T22:14:03.101Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">07:05</span>]]></content>
     </entry>
 </feed>
