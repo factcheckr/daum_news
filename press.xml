@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-03-01T13:17:09.120Z</updated>
+    <updated>2024-03-01T14:16:03.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Accelerating Energy Transition for Greener ICT]]></title>
+        <id>https://v.daum.net/v/20240301225128691</id>
+        <link href="https://v.daum.net/v/20240301225128691"/>
+        <updated>2024-03-01T14:15:54.052Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">22:51</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[의정부시의회, 제105주년 심일절 기념행사 참석]]></title>
         <id>https://v.daum.net/v/20240301203208652</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240301164142167"/>
         <updated>2024-03-01T08:20:16.451Z</updated>
         <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">16:41</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여주시, 9급 공무원 친절·청렴교육 실시]]></title>
-        <id>https://v.daum.net/v/20240301163344086</id>
-        <link href="https://v.daum.net/v/20240301163344086"/>
-        <updated>2024-03-01T08:20:16.452Z</updated>
-        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">16:33</span>]]></content>
     </entry>
 </feed>
