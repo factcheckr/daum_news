@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-03-01T02:25:32.519Z</updated>
+    <updated>2024-03-01T03:21:25.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Unilumin and Huawei Unveiled the Smart Pole Site Joint Solution]]></title>
+        <id>https://v.daum.net/v/20240301115853679</id>
+        <link href="https://v.daum.net/v/20240301115853679"/>
+        <updated>2024-03-01T03:21:15.895Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:58</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] 레코디드퓨쳐 AI를 배포하기]]></title>
         <id>https://v.daum.net/v/20240301111832119</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240301080131551"/>
         <updated>2024-02-29T23:15:48.112Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">08:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] 라야드항공, 어도비와 협력하여 개인화된 전세계 여행 경험을 구현]]></title>
-        <id>https://v.daum.net/v/20240301075848419</id>
-        <link href="https://v.daum.net/v/20240301075848419"/>
-        <updated>2024-02-29T23:15:48.113Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">07:58</span>]]></content>
     </entry>
 </feed>
