@@ -2,7 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-03-02T15:16:52.294Z</updated>
+    <updated>2024-03-02T16:18:04.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인사]KAIST(한국과학기술원)]]></title>
+        <id>https://v.daum.net/v/20240303010213795</id>
+        <link href="https://v.daum.net/v/20240303010213795"/>
+        <updated>2024-03-02T16:17:43.978Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">01:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인사]과학기술정보통신부]]></title>
+        <id>https://v.daum.net/v/20240303005533778</id>
+        <link href="https://v.daum.net/v/20240303005533778"/>
+        <updated>2024-03-02T16:17:43.979Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">00:55</span>]]></content>
+    </entry>
 </feed>
