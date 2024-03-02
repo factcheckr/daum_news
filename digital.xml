@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-03-02T09:18:29.269Z</updated>
+    <updated>2024-03-02T10:14:36.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[젠슨 황 "AI, 5년 내 모든 시험 통과할 것"]]></title>
+        <id>https://v.daum.net/v/20240302190352891</id>
+        <link href="https://v.daum.net/v/20240302190352891"/>
+        <updated>2024-03-02T10:14:12.594Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">19:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인류의 우주 활동영역은 어떻게 될까[우주이야기]]]></title>
+        <id>https://v.daum.net/v/20240302190005862</id>
+        <link href="https://v.daum.net/v/20240302190005862"/>
+        <updated>2024-03-02T10:14:12.596Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">19:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[총장은 2배 늘리자는데, 학장은 “절대 반대”…의대 증원에 쪼개지는 대학]]></title>
         <id>https://v.daum.net/v/20240302180619348</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240302141019124"/>
         <updated>2024-03-02T05:14:19.707Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘마이크로LED’ 탑재 애플워치 울트라, 출시 또 연기?]]></title>
-        <id>https://v.daum.net/v/20240302140021020</id>
-        <link href="https://v.daum.net/v/20240302140021020"/>
-        <updated>2024-03-02T05:14:19.708Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한복입은 '흑인 조선시대 장군'…한달도 안돼 굴욕 맛본 구글[AI 한입뉴스]]]></title>
-        <id>https://v.daum.net/v/20240302140020018</id>
-        <link href="https://v.daum.net/v/20240302140020018"/>
-        <updated>2024-03-02T05:14:19.709Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
     </entry>
 </feed>
