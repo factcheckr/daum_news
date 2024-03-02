@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-03-02T01:00:00.713Z</updated>
+    <updated>2024-03-02T01:50:23.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](2일 조간)]]></title>
+        <id>https://v.daum.net/v/20240302100003730</id>
+        <link href="https://v.daum.net/v/20240302100003730"/>
+        <updated>2024-03-02T01:50:08.018Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">10:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[찌질하고 사소한 감정도 존중하라]]></title>
         <id>https://v.daum.net/v/20240302093002417</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240302032728796"/>
         <updated>2024-03-01T19:13:26.847Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 심금 울린 해경 ‘악천후 구조’, 묵묵히 국민 생명 지키는 사람들]]></title>
-        <id>https://v.daum.net/v/20240302032414792</id>
-        <link href="https://v.daum.net/v/20240302032414792"/>
-        <updated>2024-03-01T19:13:26.848Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:24</span>]]></content>
     </entry>
 </feed>
