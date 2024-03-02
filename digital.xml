@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-03-02T13:15:06.395Z</updated>
+    <updated>2024-03-02T14:15:48.085Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스텔라 블레이드, 디스크 버전 하루 만에 품절]]></title>
+        <id>https://v.daum.net/v/20240302231454405</id>
+        <link href="https://v.daum.net/v/20240302231454405"/>
+        <updated>2024-03-02T14:15:22.184Z</updated>
+        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">23:14</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시프트업 '스텔라 블레이드', PS5 디스크 버전 특전 상품 하루 만에 '품절']]></title>
+        <id>https://v.daum.net/v/20240302223300236</id>
+        <link href="https://v.daum.net/v/20240302223300236"/>
+        <updated>2024-03-02T14:15:22.184Z</updated>
+        <content type="html"><![CDATA[게임동아<span class="txt_bar"> · </span><span class="info_time">22:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“한국이 어쩌다 이 모양” 꼴찌 추락…중국에도 밀려 ‘충격’에 빠졌다]]></title>
         <id>https://v.daum.net/v/20240302215846052</id>
@@ -48,7 +62,7 @@
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">20:04</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“97억이나 받고 떠났다” 낯익은 ‘얼굴’…지금 뭐하나 했더니]]></title>
+        <title type="html"><![CDATA[“97억 받고 떠났다” 낯익은 ‘얼굴’…‘그 많은 돈’ 뭐하나 했더니]]></title>
         <id>https://v.daum.net/v/20240302194046171</id>
         <link href="https://v.daum.net/v/20240302194046171"/>
         <updated>2024-03-02T11:13:00.518Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240302180150301"/>
         <updated>2024-03-02T09:18:02.702Z</updated>
         <content type="html"><![CDATA[스포츠한국<span class="txt_bar"> · </span><span class="info_time">18:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["애플, 마이크로LED 애플워치 울트라 출시 취소"]]></title>
-        <id>https://v.daum.net/v/20240302172431935</id>
-        <link href="https://v.daum.net/v/20240302172431935"/>
-        <updated>2024-03-02T09:18:02.703Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">17:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[물 속 '미세 플라스틱' 걱정되세요? ‘이것’ 하면 최대 90% 제거]]></title>
-        <id>https://v.daum.net/v/20240302170016706</id>
-        <link href="https://v.daum.net/v/20240302170016706"/>
-        <updated>2024-03-02T09:18:02.704Z</updated>
-        <content type="html"><![CDATA[헬스조선<span class="txt_bar"> · </span><span class="info_time">17:00</span>]]></content>
     </entry>
 </feed>

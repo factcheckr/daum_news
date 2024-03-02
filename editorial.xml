@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-03-02T13:15:06.384Z</updated>
+    <updated>2024-03-02T14:15:48.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[세컷칼럼] ‘극강 멘털’ 이재명의 아킬레스건]]></title>
+        <id>https://v.daum.net/v/20240302230020316</id>
+        <link href="https://v.daum.net/v/20240302230020316"/>
+        <updated>2024-03-02T14:15:30.973Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1109회 로또 당첨번호조회, 로또 당첨확률 통계]]></title>
         <id>https://v.daum.net/v/20240302220202087</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240302043111885"/>
         <updated>2024-03-01T20:16:57.012Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 비명배제 카드로 쓰더니... 민주당, 서울 등진  추미애 공천]]></title>
-        <id>https://v.daum.net/v/20240302043045880</id>
-        <link href="https://v.daum.net/v/20240302043045880"/>
-        <updated>2024-03-01T20:16:57.013Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
     </entry>
 </feed>
