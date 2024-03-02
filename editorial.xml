@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-03-02T12:26:01.694Z</updated>
+    <updated>2024-03-02T13:15:06.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1109회 로또 당첨번호조회, 로또 당첨확률 통계]]></title>
+        <id>https://v.daum.net/v/20240302220202087</id>
+        <link href="https://v.daum.net/v/20240302220202087"/>
+        <updated>2024-03-02T13:14:50.038Z</updated>
+        <content type="html"><![CDATA[bnt뉴스<span class="txt_bar"> · </span><span class="info_time">22:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[베트남 버전 ‘낙랑공주’ 이야기를 아시나요 [조홍석의 ‘알아두면 쓸데 있는 유쾌한 상식 이야기’]]]></title>
         <id>https://v.daum.net/v/20240302210317684</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240302043045880"/>
         <updated>2024-03-01T20:16:57.013Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한마당] 월드컵 문어와 총선 문어]]></title>
-        <id>https://v.daum.net/v/20240302041208859</id>
-        <link href="https://v.daum.net/v/20240302041208859"/>
-        <updated>2024-03-01T19:13:26.838Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:12</span>]]></content>
     </entry>
 </feed>
