@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-03-02T02:20:39.516Z</updated>
+    <updated>2024-03-02T03:19:31.502Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MWC가 남긴 것④]"무인도에도 유튜브 보는 시대"…6G 핵심 '위성통신' 뜬다]]></title>
+        <id>https://v.daum.net/v/20240302120112164</id>
+        <link href="https://v.daum.net/v/20240302120112164"/>
+        <updated>2024-03-02T03:19:06.531Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">12:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[IPO챗] 유압로봇서 첨단테스트 기업으로…케이엔알시스템 코스닥 입성]]></title>
+        <id>https://v.daum.net/v/20240302120006135</id>
+        <link href="https://v.daum.net/v/20240302120006135"/>
+        <updated>2024-03-02T03:19:06.534Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">12:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U+로봇 안내·배송 '척척'…원격제어 플랫폼 탑재]]></title>
+        <id>https://v.daum.net/v/20240302115903123</id>
+        <link href="https://v.daum.net/v/20240302115903123"/>
+        <updated>2024-03-02T03:19:06.534Z</updated>
+        <content type="html"><![CDATA[비즈워치<span class="txt_bar"> · </span><span class="info_time">11:59</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴스1 PICK] 세계 3대 이동통신 전시 MWC 2024 폐막…'올해도 AI']]></title>
+        <id>https://v.daum.net/v/20240302112923837</id>
+        <link href="https://v.daum.net/v/20240302112923837"/>
+        <updated>2024-03-02T03:19:06.535Z</updated>
+        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">11:29</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부고] 한상우(카카오게임즈 최고운영책임자)씨 모친상]]></title>
         <id>https://v.daum.net/v/20240302110354542</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20240302091433288"/>
         <updated>2024-03-02T00:59:37.715Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">09:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[상위 0.1% 직장인, 한해 ‘보너스’ 6억 9000만원…2년 새 1억 넘게 늘었다]]></title>
-        <id>https://v.daum.net/v/20240302091344284</id>
-        <link href="https://v.daum.net/v/20240302091344284"/>
-        <updated>2024-03-02T00:59:37.717Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">09:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MWC가 남긴 것③]"진화는 이제 시작"…스마트반지·로봇·UAM 신기술 대전]]></title>
-        <id>https://v.daum.net/v/20240302091009262</id>
-        <link href="https://v.daum.net/v/20240302091009262"/>
-        <updated>2024-03-02T00:59:37.718Z</updated>
-        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">09:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안전 확인하려다 계정탈취…피싱 메일 주의보]]></title>
-        <id>https://v.daum.net/v/20240302090119176</id>
-        <link href="https://v.daum.net/v/20240302090119176"/>
-        <updated>2024-03-02T00:59:37.719Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">09:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[영상] "갤럭시Z플립 6, 이렇게 생겼다"]]></title>
-        <id>https://v.daum.net/v/20240302090020125</id>
-        <link href="https://v.daum.net/v/20240302090020125"/>
-        <updated>2024-03-02T00:59:37.720Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">09:00</span>]]></content>
     </entry>
 </feed>
