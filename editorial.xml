@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-03-02T11:13:20.120Z</updated>
+    <updated>2024-03-02T12:26:01.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[베트남 버전 ‘낙랑공주’ 이야기를 아시나요 [조홍석의 ‘알아두면 쓸데 있는 유쾌한 상식 이야기’]]]></title>
+        <id>https://v.daum.net/v/20240302210317684</id>
+        <link href="https://v.daum.net/v/20240302210317684"/>
+        <updated>2024-03-02T12:25:44.364Z</updated>
+        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">21:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전혀 낭만적이지 않았던 낭만주의 화가들 [유경희의 ‘연금술의 미술관’]]]></title>
+        <id>https://v.daum.net/v/20240302210312683</id>
+        <link href="https://v.daum.net/v/20240302210312683"/>
+        <updated>2024-03-02T12:25:44.365Z</updated>
+        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">21:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[외신에서 주목하는 세계인이 사랑한 김치의 이민 정착생활]]></title>
         <id>https://v.daum.net/v/20240302201015383</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240302041208859"/>
         <updated>2024-03-01T19:13:26.838Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오후 3시의 헌책방] 책 중독자 자가 점검 목록]]></title>
-        <id>https://v.daum.net/v/20240302040708847</id>
-        <link href="https://v.daum.net/v/20240302040708847"/>
-        <updated>2024-03-01T19:13:26.839Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토 카페] 꽃길]]></title>
-        <id>https://v.daum.net/v/20240302040612843</id>
-        <link href="https://v.daum.net/v/20240302040612843"/>
-        <updated>2024-03-01T19:13:26.840Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:06</span>]]></content>
     </entry>
 </feed>
