@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2024-03-02T18:18:38.784Z</updated>
+    <updated>2024-03-02T19:12:25.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최초 공개! 슬기의 랜선 집들이에 초대합니다]]></title>
+        <id>https://v.daum.net/v/20240303040112228</id>
+        <link href="https://v.daum.net/v/20240303040112228"/>
+        <updated>2024-03-02T19:11:34.733Z</updated>
+        <content type="html"><![CDATA[엘르<span class="txt_bar"> · </span><span class="info_time">04:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[가정예배 365-3월 3일] 성령이 내게 임하셨으니]]></title>
         <id>https://v.daum.net/v/20240303030309102</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240303000300600"/>
         <updated>2024-03-02T15:16:04.663Z</updated>
         <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘날씨, 평년기온 회복 곳곳 눈·비…일부 천둥·번개]]></title>
-        <id>https://v.daum.net/v/20240303000204598</id>
-        <link href="https://v.daum.net/v/20240303000204598"/>
-        <updated>2024-03-02T15:16:04.663Z</updated>
-        <content type="html"><![CDATA[bnt뉴스<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
     </entry>
 </feed>
