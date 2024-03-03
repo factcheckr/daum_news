@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-03-03T06:19:43.065Z</updated>
+    <updated>2024-03-03T07:13:40.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[홍인성 전 인천 중구청장, 이동학 예비후보 지지선언]]></title>
+        <id>https://v.daum.net/v/20240303154403876</id>
+        <link href="https://v.daum.net/v/20240303154403876"/>
+        <updated>2024-03-03T07:13:33.893Z</updated>
+        <content type="html"><![CDATA[쿠키뉴스<span class="txt_bar"> · </span><span class="info_time">15:44</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[웰빙 마켓 리더의 협력: 리비브 제공 더드립바]]></title>
         <id>https://v.daum.net/v/20240303151704274</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240303143449417"/>
         <updated>2024-03-03T06:19:34.828Z</updated>
         <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">14:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천, '웰니스ㆍ의료관광 융복합 클러스터 사업'평가 1위]]></title>
-        <id>https://v.daum.net/v/20240303142043155</id>
-        <link href="https://v.daum.net/v/20240303142043155"/>
-        <updated>2024-03-03T06:19:34.829Z</updated>
-        <content type="html"><![CDATA[투어코리아<span class="txt_bar"> · </span><span class="info_time">14:20</span>]]></content>
     </entry>
 </feed>
