@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-03-03T12:24:56.549Z</updated>
+    <updated>2024-03-03T13:15:37.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뻐꾸기 둥지 위로 날아간 영화 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20240303220004345</id>
+        <link href="https://v.daum.net/v/20240303220004345"/>
+        <updated>2024-03-03T13:15:22.676Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[스트레이트] 흔들리는 총선 판도 - 한국 정치는 '썩은 불판'을 벗어났나?]]></title>
+        <id>https://v.daum.net/v/20240303214800256</id>
+        <link href="https://v.daum.net/v/20240303214800256"/>
+        <updated>2024-03-03T13:15:22.678Z</updated>
+        <content type="html"><![CDATA[MBC<span class="txt_bar"> · </span><span class="info_time">21:48</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성공 콘텐츠에 열광할 수밖에 없는 사회 [편집장 레터]]]></title>
         <id>https://v.daum.net/v/20240303210315922</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240303200418517"/>
         <updated>2024-03-03T11:11:47.178Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[詩想과 세상]봄]]></title>
-        <id>https://v.daum.net/v/20240303200323507</id>
-        <link href="https://v.daum.net/v/20240303200323507"/>
-        <updated>2024-03-03T11:11:47.180Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[아침을 열며]미국은 신정국가로 가나]]></title>
-        <id>https://v.daum.net/v/20240303200317506</id>
-        <link href="https://v.daum.net/v/20240303200317506"/>
-        <updated>2024-03-03T11:11:47.181Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:03</span>]]></content>
     </entry>
 </feed>
