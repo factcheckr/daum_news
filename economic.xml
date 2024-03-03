@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2024-03-03T15:15:20.592Z</updated>
+    <updated>2024-03-03T16:17:26.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트럼프, 여론조사서 또 바이든에 우세…유권자 20% "이민 문제 가장 중요"]]></title>
+        <id>https://v.daum.net/v/20240304003533233</id>
+        <link href="https://v.daum.net/v/20240304003533233"/>
+        <updated>2024-03-03T16:16:17.491Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">00:35</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[팩트체크] 우리나라는 세계에서 몇 번째 부유한 나라일까?]]></title>
+        <id>https://v.daum.net/v/20240304001502130</id>
+        <link href="https://v.daum.net/v/20240304001502130"/>
+        <updated>2024-03-03T16:16:17.492Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:15</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“K방산 구입국가에 돈 더 빌려준다” 수은법 개정안, 국회 통과]]></title>
         <id>https://v.daum.net/v/20240304001208116</id>
@@ -62,7 +76,7 @@
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:11</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[파리지엥들이 줄 서는 사는 빵, 알고 보니 이 사람이 만들었다]]></title>
+        <title type="html"><![CDATA[파리지엥들이 줄 서서 사는 빵, 알고 보니 이 사람이 만들었다]]></title>
         <id>https://v.daum.net/v/20240304000920066</id>
         <link href="https://v.daum.net/v/20240304000920066"/>
         <updated>2024-03-03T15:14:26.522Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240304000622036"/>
         <updated>2024-03-03T15:14:26.526Z</updated>
         <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국인이 70억원 주고 산 베트남 아파트 [사이공모닝]]]></title>
-        <id>https://v.daum.net/v/20240304000620032</id>
-        <link href="https://v.daum.net/v/20240304000620032"/>
-        <updated>2024-03-03T15:14:26.527Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[4·10 총선 발언대] 국힘 박정하 ‘문막~서원주역 교량 신설’ 공약 발표]]></title>
-        <id>https://v.daum.net/v/20240304000534982</id>
-        <link href="https://v.daum.net/v/20240304000534982"/>
-        <updated>2024-03-03T15:14:26.528Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
     </entry>
 </feed>
