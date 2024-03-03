@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2024-03-03T16:17:26.005Z</updated>
+    <updated>2024-03-03T17:14:38.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일교차 큰 날씨에 옷차림 유의…개학 첫날, '새학기 증후군' 극복하는 법]]></title>
+        <id>https://v.daum.net/v/20240304015934340</id>
+        <link href="https://v.daum.net/v/20240304015934340"/>
+        <updated>2024-03-03T17:14:00.333Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">01:59</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오늘의 운세] 3월 4일 월요일 (음력 1월 24일 /丁卯) 띠별 / 생년월일 운세]]></title>
         <id>https://v.daum.net/v/20240304010126275</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240304000552000"/>
         <updated>2024-03-03T15:14:42.605Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나한과 나무로 다시 찾는 미술의 뿌리]]></title>
-        <id>https://v.daum.net/v/20240304000546996</id>
-        <link href="https://v.daum.net/v/20240304000546996"/>
-        <updated>2024-03-03T15:14:42.606Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
     </entry>
 </feed>
