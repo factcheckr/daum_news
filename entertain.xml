@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2024-03-03T17:14:38.458Z</updated>
+    <updated>2024-03-03T18:17:41.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘의 채널A]가수 김태원의 ‘기러기 아빠’ 청산 파티]]></title>
+        <id>https://v.daum.net/v/20240304030255500</id>
+        <link href="https://v.daum.net/v/20240304030255500"/>
+        <updated>2024-03-03T18:16:59.027Z</updated>
+        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">03:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이효리, 데뷔 26년만 고백 "진짜 내 생일 알려드리고 싶다"]]></title>
         <id>https://v.daum.net/v/20240304011032281</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240304000833062"/>
         <updated>2024-03-03T15:14:49.579Z</updated>
         <content type="html"><![CDATA[OSEN<span class="txt_bar"> · </span><span class="info_time">00:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쿠기, 데뷔 6년 만에 첫 단독 콘서트 성료···신보 ‘UPSET’ 발매 깜짝 스포일러]]></title>
-        <id>https://v.daum.net/v/20240304000459954</id>
-        <link href="https://v.daum.net/v/20240304000459954"/>
-        <updated>2024-03-03T15:14:49.581Z</updated>
-        <content type="html"><![CDATA[스포츠경향<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
     </entry>
 </feed>
