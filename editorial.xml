@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-03-04T22:14:29.423Z</updated>
+    <updated>2024-03-04T23:16:33.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[내가 사용하는 화장품이 여드름을 유발한다고?]]></title>
+        <id>https://v.daum.net/v/20240305071515227</id>
+        <link href="https://v.daum.net/v/20240305071515227"/>
+        <updated>2024-03-04T23:16:17.416Z</updated>
+        <content type="html"><![CDATA[헬스조선<span class="txt_bar"> · </span><span class="info_time">07:15</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[꿈이자 나였던 '레오'와 이별하는 법 [D:쇼트 시네마(67)]]]></title>
         <id>https://v.daum.net/v/20240305071003169</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240305061503428"/>
         <updated>2024-03-04T22:14:16.380Z</updated>
         <content type="html"><![CDATA[오마이뉴스<span class="txt_bar"> · </span><span class="info_time">06:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[좋아! 빠르게 나가![오늘을 생각한다]]]></title>
-        <id>https://v.daum.net/v/20240305060404332</id>
-        <link href="https://v.daum.net/v/20240305060404332"/>
-        <updated>2024-03-04T21:14:24.013Z</updated>
-        <content type="html"><![CDATA[주간경향<span class="txt_bar"> · </span><span class="info_time">06:04</span>]]></content>
     </entry>
 </feed>
