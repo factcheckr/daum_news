@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-03-05T12:27:29.313Z</updated>
+    <updated>2024-03-05T13:18:12.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[국민만평-서민호 화백] 2024년 3월 6일]]></title>
+        <id>https://v.daum.net/v/20240305214912072</id>
+        <link href="https://v.daum.net/v/20240305214912072"/>
+        <updated>2024-03-05T13:17:57.204Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">21:49</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[만물상] 믿는 도끼]]></title>
         <id>https://v.daum.net/v/20240305204752083</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240305200936460</id>
         <link href="https://v.daum.net/v/20240305200936460"/>
         <updated>2024-03-05T11:15:00.106Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기고]해풍법 표류는 직무유기]]></title>
-        <id>https://v.daum.net/v/20240305200930458</id>
-        <link href="https://v.daum.net/v/20240305200930458"/>
-        <updated>2024-03-05T11:15:00.108Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:09</span>]]></content>
     </entry>
 </feed>
