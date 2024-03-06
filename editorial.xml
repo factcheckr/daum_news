@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-03-06T03:16:37.095Z</updated>
+    <updated>2024-03-06T04:20:22.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[언스타그램]말할 수 없는 것들의 말]]></title>
+        <id>https://v.daum.net/v/20240306123034614</id>
+        <link href="https://v.daum.net/v/20240306123034614"/>
+        <updated>2024-03-06T04:20:05.271Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">12:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[초동시각]반도체 대공습, 우방국 미국이 두려운 이유]]></title>
         <id>https://v.daum.net/v/20240306121511233</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240306111142556"/>
         <updated>2024-03-06T02:20:22.657Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">11:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시론]출산지원금, 중소기업 직원이 더 필요하다]]></title>
-        <id>https://v.daum.net/v/20240306111125543</id>
-        <link href="https://v.daum.net/v/20240306111125543"/>
-        <updated>2024-03-06T02:20:22.658Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:11</span>]]></content>
     </entry>
 </feed>
