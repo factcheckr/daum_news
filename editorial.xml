@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-03-06T04:20:22.219Z</updated>
+    <updated>2024-03-06T05:15:01.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삼성, ‘빅 딜’ 위해 현금 수조원으로 곳간 채웠다]]></title>
+        <id>https://v.daum.net/v/20240306135300509</id>
+        <link href="https://v.daum.net/v/20240306135300509"/>
+        <updated>2024-03-06T05:14:44.477Z</updated>
+        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">13:53</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[언스타그램]말할 수 없는 것들의 말]]></title>
         <id>https://v.daum.net/v/20240306123034614</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240306111455734"/>
         <updated>2024-03-06T02:20:22.657Z</updated>
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기자수첩] 홍콩 ELS 사태 재발 방지 핵심은 금융교육]]></title>
-        <id>https://v.daum.net/v/20240306111142556</id>
-        <link href="https://v.daum.net/v/20240306111142556"/>
-        <updated>2024-03-06T02:20:22.657Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">11:11</span>]]></content>
     </entry>
 </feed>
