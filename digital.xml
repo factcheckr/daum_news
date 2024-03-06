@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-03-06T18:19:20.206Z</updated>
+    <updated>2024-03-06T19:16:45.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[웹툰·드라마가 대세…성공 IP로 신작 꾸리는 게임업계]]></title>
+        <id>https://v.daum.net/v/20240307040204242</id>
+        <link href="https://v.daum.net/v/20240307040204242"/>
+        <updated>2024-03-06T19:16:23.505Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[퍼스트 버서커: 카잔 "신규 트레일러로 감칠맛 한 스푼"]]></title>
+        <id>https://v.daum.net/v/20240307034826219</id>
+        <link href="https://v.daum.net/v/20240307034826219"/>
+        <updated>2024-03-06T19:16:23.506Z</updated>
+        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">03:48</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[작년 4분기 글로벌 D램 매출 29.6% 성장]]></title>
         <id>https://v.daum.net/v/20240307030138957</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240307001043305"/>
         <updated>2024-03-06T15:16:49.345Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“ 많이 팔려도 걱정” 과일값 급등에 가공업체 울상]]></title>
-        <id>https://v.daum.net/v/20240307000638263</id>
-        <link href="https://v.daum.net/v/20240307000638263"/>
-        <updated>2024-03-06T15:16:49.348Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정선군 우유급식 무상지원 3억5000만원 편성]]></title>
-        <id>https://v.daum.net/v/20240307000546211</id>
-        <link href="https://v.daum.net/v/20240307000546211"/>
-        <updated>2024-03-06T15:16:49.350Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
     </entry>
 </feed>
