@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-03-06T11:13:47.007Z</updated>
+    <updated>2024-03-06T12:27:38.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이스트소프트, NIA에 AI아나운서 제공…“사업자 선정평가에 활용”]]></title>
+        <id>https://v.daum.net/v/20240306212205563</id>
+        <link href="https://v.daum.net/v/20240306212205563"/>
+        <updated>2024-03-06T12:27:28.820Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">21:22</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Infosys and ATP Renew Partnership until 2026]]></title>
+        <id>https://v.daum.net/v/20240306204300013</id>
+        <link href="https://v.daum.net/v/20240306204300013"/>
+        <updated>2024-03-06T12:27:28.822Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:43</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] COMPUTEX 2024, AI 거장 대거 출격]]></title>
         <id>https://v.daum.net/v/20240306191240497</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240306174451300"/>
         <updated>2024-03-06T09:15:48.114Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:44</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세종사이버대학교 유통물류학과 백소라 교수, ‘한국드론배송협회’ 초대회장 선출]]></title>
-        <id>https://v.daum.net/v/20240306173052844</id>
-        <link href="https://v.daum.net/v/20240306173052844"/>
-        <updated>2024-03-06T09:15:48.115Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[살조물질에 대한 독성 플랑크톤의 글루타치온-S-전이효소 유전자 반응 및 세포예정자살 현상 최초 규명]]></title>
-        <id>https://v.daum.net/v/20240306173010794</id>
-        <link href="https://v.daum.net/v/20240306173010794"/>
-        <updated>2024-03-06T09:15:48.117Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
     </entry>
 </feed>
