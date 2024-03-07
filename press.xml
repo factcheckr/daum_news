@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-03-07T11:13:16.634Z</updated>
+    <updated>2024-03-07T12:26:40.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Huawei 5G Core Named "Leader" for the Sixth Consecutive Year]]></title>
+        <id>https://v.daum.net/v/20240307202038313</id>
+        <link href="https://v.daum.net/v/20240307202038313"/>
+        <updated>2024-03-07T12:26:31.632Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:20</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[High 900 태백관광 시티투어버스 타고 태백 매력 속으로!]]></title>
         <id>https://v.daum.net/v/20240307192843392</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240307175012001"/>
         <updated>2024-03-07T09:14:02.584Z</updated>
         <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">17:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부산 남구, 전국최초 '딩동! 남구형 치매안심 등기우편' 시작]]></title>
-        <id>https://v.daum.net/v/20240307173311440</id>
-        <link href="https://v.daum.net/v/20240307173311440"/>
-        <updated>2024-03-07T09:14:02.587Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:33</span>]]></content>
     </entry>
 </feed>
