@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-03-07T12:26:40.108Z</updated>
+    <updated>2024-03-07T13:16:14.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] LONGi, 결정질 실리콘 이종접합 태양전지 최신 성과 Nature에 발표]]></title>
+        <id>https://v.daum.net/v/20240307213738432</id>
+        <link href="https://v.daum.net/v/20240307213738432"/>
+        <updated>2024-03-07T13:16:05.906Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">21:37</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] Huawei 5G Core Named "Leader" for the Sixth Consecutive Year]]></title>
         <id>https://v.daum.net/v/20240307202038313</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240307175703239"/>
         <updated>2024-03-07T09:14:02.584Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:57</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경력단절 여성에 창업 지원 집중…미래여성경제인육성 확대]]></title>
-        <id>https://v.daum.net/v/20240307175012001</id>
-        <link href="https://v.daum.net/v/20240307175012001"/>
-        <updated>2024-03-07T09:14:02.584Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">17:50</span>]]></content>
     </entry>
 </feed>
