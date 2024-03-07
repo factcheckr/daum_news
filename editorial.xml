@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-03-07T13:16:14.530Z</updated>
+    <updated>2024-03-07T14:17:31.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김치, 아니 물고∼기![고양이 눈]]]></title>
+        <id>https://v.daum.net/v/20240307231505305</id>
+        <link href="https://v.daum.net/v/20240307231505305"/>
+        <updated>2024-03-07T14:17:17.240Z</updated>
+        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">23:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[세컷칼럼] 낙수 의사? 걱정 말아요 그대]]></title>
+        <id>https://v.daum.net/v/20240307230031181</id>
+        <link href="https://v.daum.net/v/20240307230031181"/>
+        <updated>2024-03-07T14:17:17.241Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[국민만평-서민호 화백] 2024년 3월 8일]]></title>
+        <id>https://v.daum.net/v/20240307223415012</id>
+        <link href="https://v.daum.net/v/20240307223415012"/>
+        <updated>2024-03-07T14:17:17.242Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">22:34</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[돈이 아깝지 않았던 서툰 연극 공연 [삶과 문화]]]></title>
         <id>https://v.daum.net/v/20240307220028703</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240307202533391"/>
         <updated>2024-03-07T12:26:23.617Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반세기, 기록의 기억] (113) 강화 초지진]]></title>
-        <id>https://v.daum.net/v/20240307202521387</id>
-        <link href="https://v.daum.net/v/20240307202521387"/>
-        <updated>2024-03-07T12:26:23.619Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Protect key technology and brains]]></title>
-        <id>https://v.daum.net/v/20240307200025003</id>
-        <link href="https://v.daum.net/v/20240307200025003"/>
-        <updated>2024-03-07T11:13:03.106Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3월 8일 한겨레 그림판]]></title>
-        <id>https://v.daum.net/v/20240307200009993</id>
-        <link href="https://v.daum.net/v/20240307200009993"/>
-        <updated>2024-03-07T11:13:03.107Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">20:00</span>]]></content>
     </entry>
 </feed>
