@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-03-07T03:14:36.304Z</updated>
+    <updated>2024-03-07T04:17:24.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[구립은뜨락도서관, 2024년 도서관의 날·도서관 주간 운영]]></title>
+        <id>https://v.daum.net/v/20240307130704313</id>
+        <link href="https://v.daum.net/v/20240307130704313"/>
+        <updated>2024-03-07T04:17:15.508Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">13:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강수현 양주시장, 유네스코 세계유산 등재 위한 ‘회암사지 주민협의체’ 위촉식 참석]]></title>
         <id>https://v.daum.net/v/20240307120550280</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240307113144338"/>
         <updated>2024-03-07T03:14:27.875Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] 라이프피트니스, 심바이오와 함께 최첨단 심장 운동기구 처음 선보여]]></title>
-        <id>https://v.daum.net/v/20240307112725089</id>
-        <link href="https://v.daum.net/v/20240307112725089"/>
-        <updated>2024-03-07T03:14:27.878Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:27</span>]]></content>
     </entry>
 </feed>
