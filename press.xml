@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-03-07T10:15:03.273Z</updated>
+    <updated>2024-03-07T11:13:16.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[High 900 태백관광 시티투어버스 타고 태백 매력 속으로!]]></title>
+        <id>https://v.daum.net/v/20240307192843392</id>
+        <link href="https://v.daum.net/v/20240307192843392"/>
+        <updated>2024-03-07T11:13:09.631Z</updated>
+        <content type="html"><![CDATA[투어코리아<span class="txt_bar"> · </span><span class="info_time">19:28</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CJ올리브영 ‘W케어 서비스’ 출시 1주년 기념 이벤트 진행]]></title>
         <id>https://v.daum.net/v/20240307183702405</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240307173311440"/>
         <updated>2024-03-07T09:14:02.587Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:33</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사상구, 초·중·고 신입생 입학준비금으로 학부모 부담 줄여드립니다]]></title>
-        <id>https://v.daum.net/v/20240307172606134</id>
-        <link href="https://v.daum.net/v/20240307172606134"/>
-        <updated>2024-03-07T09:14:02.588Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:26</span>]]></content>
     </entry>
 </feed>
