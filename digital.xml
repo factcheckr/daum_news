@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-03-08T13:16:41.358Z</updated>
+    <updated>2024-03-08T14:16:29.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["안전성·효능 추가 논의"...美FDA, 일라이릴리 `치매약` 승인 보류]]></title>
+        <id>https://v.daum.net/v/20240308225410011</id>
+        <link href="https://v.daum.net/v/20240308225410011"/>
+        <updated>2024-03-08T14:16:03.457Z</updated>
+        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">22:54</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["메타, 삼성 파운드리 고객 될 가능성 높아"]]></title>
+        <id>https://v.daum.net/v/20240308224114942</id>
+        <link href="https://v.daum.net/v/20240308224114942"/>
+        <updated>2024-03-08T14:16:03.457Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">22:41</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엠퍼시스정보기술, '개인정보보호법, ISMS-P 인증' 대책 세미나 개최]]></title>
         <id>https://v.daum.net/v/20240308214805428</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240308184501076"/>
         <updated>2024-03-08T10:17:40.242Z</updated>
         <content type="html"><![CDATA[IT동아<span class="txt_bar"> · </span><span class="info_time">18:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위메이드, '나이트 크로우' 글로벌 11일 사전 다운로드 시작]]></title>
-        <id>https://v.daum.net/v/20240308184122019</id>
-        <link href="https://v.daum.net/v/20240308184122019"/>
-        <updated>2024-03-08T10:17:40.243Z</updated>
-        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">18:41</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[에듀플러스] 정익중 이화여대 교수팀, 은둔 청년 사회 복귀 돕는 앱 개발]]></title>
-        <id>https://v.daum.net/v/20240308184003950</id>
-        <link href="https://v.daum.net/v/20240308184003950"/>
-        <updated>2024-03-08T10:17:40.245Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">18:40</span>]]></content>
     </entry>
 </feed>
