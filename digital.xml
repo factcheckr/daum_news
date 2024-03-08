@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-03-08T12:26:58.637Z</updated>
+    <updated>2024-03-08T13:16:41.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엠퍼시스정보기술, '개인정보보호법, ISMS-P 인증' 대책 세미나 개최]]></title>
+        <id>https://v.daum.net/v/20240308214805428</id>
+        <link href="https://v.daum.net/v/20240308214805428"/>
+        <updated>2024-03-08T13:16:13.979Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">21:48</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[총선 투표율 높이려면…"페북보다 포털·유튜브가 영향 커"]]></title>
         <id>https://v.daum.net/v/20240308210102966</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240308184003950"/>
         <updated>2024-03-08T10:17:40.245Z</updated>
         <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">18:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[에듀플러스] “에듀테크 속 전자기기 노출된 유·아동, 기업 자구책 미비…정부 차원 명확한 지침 필요”]]></title>
-        <id>https://v.daum.net/v/20240308183903936</id>
-        <link href="https://v.daum.net/v/20240308183903936"/>
-        <updated>2024-03-08T10:17:40.246Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">18:39</span>]]></content>
     </entry>
 </feed>
