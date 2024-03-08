@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-03-08T22:17:29.587Z</updated>
+    <updated>2024-03-08T23:17:30.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[김회룡의 시사 TOON]]]></title>
+        <id>https://v.daum.net/v/20240309080201556</id>
+        <link href="https://v.daum.net/v/20240309080201556"/>
+        <updated>2024-03-08T23:17:12.662Z</updated>
+        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">08:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[더 한장]무더위에 지친 아이들. 누굴 기다리는 걸까요?]]></title>
         <id>https://v.daum.net/v/20240309070126978</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240309040215136"/>
         <updated>2024-03-08T19:13:01.901Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">04:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 징역 2년 조국의 당에 징역 3년 황운하 입당, 난장판 선거판]]></title>
-        <id>https://v.daum.net/v/20240309031613035</id>
-        <link href="https://v.daum.net/v/20240309031613035"/>
-        <updated>2024-03-08T18:18:49.836Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:16</span>]]></content>
     </entry>
 </feed>
