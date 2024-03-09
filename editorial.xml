@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-03-09T05:16:35.130Z</updated>
+    <updated>2024-03-09T06:20:35.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[민주, 이종섭 출금 해제에 "尹 수사 외압 모자라 방해… 스스로 법치 무너트려"]]></title>
+        <id>https://v.daum.net/v/20240309150801360</id>
+        <link href="https://v.daum.net/v/20240309150801360"/>
+        <updated>2024-03-09T06:20:19.965Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">15:08</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[애플은 할리우드 메이저가 될 수 있을까 [라제기의 슛 & 숏]]]></title>
         <id>https://v.daum.net/v/20240309120102274</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240309041006173"/>
         <updated>2024-03-08T19:13:01.897Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[빛과 소금] 낯선 이에게 인사하기]]></title>
-        <id>https://v.daum.net/v/20240309040907169</id>
-        <link href="https://v.daum.net/v/20240309040907169"/>
-        <updated>2024-03-08T19:13:01.898Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:09</span>]]></content>
     </entry>
 </feed>
