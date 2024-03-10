@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-03-10T12:25:16.555Z</updated>
+    <updated>2024-03-10T13:16:28.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[꼰대 같지 않은 꼰대를 기다리며 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20240310220003829</id>
+        <link href="https://v.daum.net/v/20240310220003829"/>
+        <updated>2024-03-10T13:16:12.527Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 3월 11일[김용민의 그림마당]]]></title>
         <id>https://v.daum.net/v/20240310210642371</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240310195929689</id>
         <link href="https://v.daum.net/v/20240310195929689"/>
         <updated>2024-03-10T11:12:30.657Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">19:59</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[우석훈의 경제수다방]정치와 기후세대 등장]]></title>
-        <id>https://v.daum.net/v/20240310195917685</id>
-        <link href="https://v.daum.net/v/20240310195917685"/>
-        <updated>2024-03-10T11:12:30.658Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">19:59</span>]]></content>
     </entry>
 </feed>
