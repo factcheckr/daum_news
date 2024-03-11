@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-03-11T13:16:37.741Z</updated>
+    <updated>2024-03-11T14:14:39.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[세컷칼럼] 반도체, 방심하다 다 따라잡혔다]]></title>
+        <id>https://v.daum.net/v/20240311230028979</id>
+        <link href="https://v.daum.net/v/20240311230028979"/>
+        <updated>2024-03-11T14:14:21.634Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[만물상] ‘찍 對 찢’]]></title>
         <id>https://v.daum.net/v/20240311210727763</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240311201901033"/>
         <updated>2024-03-11T12:29:33.727Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">20:19</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A party that embraced anti-state, anti-U.S. forces]]></title>
-        <id>https://v.daum.net/v/20240311195744695</id>
-        <link href="https://v.daum.net/v/20240311195744695"/>
-        <updated>2024-03-11T11:14:26.563Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:57</span>]]></content>
     </entry>
 </feed>
