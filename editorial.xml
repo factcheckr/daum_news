@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-03-11T03:20:56.784Z</updated>
+    <updated>2024-03-11T04:19:21.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[위선자가 되지 말라]]></title>
+        <id>https://v.daum.net/v/20240311123001994</id>
+        <link href="https://v.daum.net/v/20240311123001994"/>
+        <updated>2024-03-11T04:19:07.463Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">12:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[반미·종북 세력과 범죄 집합소…참담한 野 비례당 민낯[사설]]]></title>
         <id>https://v.daum.net/v/20240311113914953</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240311111208168"/>
         <updated>2024-03-11T02:22:35.029Z</updated>
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[초동시각]中서 흘러나오는 전기차, 美·유럽은 떠는데…]]></title>
-        <id>https://v.daum.net/v/20240311110156499</id>
-        <link href="https://v.daum.net/v/20240311110156499"/>
-        <updated>2024-03-11T02:22:35.030Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:01</span>]]></content>
     </entry>
 </feed>
