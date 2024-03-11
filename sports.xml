@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/sports</id>
     <title>다음 뉴스 ─ 전체기사 ─ 스포츠</title>
-    <updated>2024-03-11T16:18:31.861Z</updated>
+    <updated>2024-03-11T17:14:49.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['김하성vs야마모토 한일전' MLB 서울시리즈 선발투수 확정, '오타니vs다르빗슈'도]]></title>
+        <id>https://v.daum.net/v/20240312014855026</id>
+        <link href="https://v.daum.net/v/20240312014855026"/>
+        <updated>2024-03-11T17:14:18.579Z</updated>
+        <content type="html"><![CDATA[스포츠한국<span class="txt_bar"> · </span><span class="info_time">01:48</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["배준호를 경계하라!" 일본 매체, U-23 국가 대표 배준호 발탁에 '화들짝']]></title>
+        <id>https://v.daum.net/v/20240312014104020</id>
+        <link href="https://v.daum.net/v/20240312014104020"/>
+        <updated>2024-03-11T17:14:18.579Z</updated>
+        <content type="html"><![CDATA[마니아타임즈<span class="txt_bar"> · </span><span class="info_time">01:41</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[조원규 칼럼] 남고부 결선 첫날, 완성된 라이벌 매치]]></title>
         <id>https://v.daum.net/v/20240312011717937</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240312002840747"/>
         <updated>2024-03-11T16:18:00.929Z</updated>
         <content type="html"><![CDATA[점프볼<span class="txt_bar"> · </span><span class="info_time">00:28</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재도, 통산 10번째 5000점-2000Ast까지 1어시스트 남았다]]></title>
-        <id>https://v.daum.net/v/20240312002229718</id>
-        <link href="https://v.daum.net/v/20240312002229718"/>
-        <updated>2024-03-11T16:18:00.930Z</updated>
-        <content type="html"><![CDATA[점프볼<span class="txt_bar"> · </span><span class="info_time">00:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[복싱 전설 무하마드 알리가 WWE 명예의 전당에 들어간다고?]]></title>
-        <id>https://v.daum.net/v/20240312002224716</id>
-        <link href="https://v.daum.net/v/20240312002224716"/>
-        <updated>2024-03-11T16:18:00.932Z</updated>
-        <content type="html"><![CDATA[포모스<span class="txt_bar"> · </span><span class="info_time">00:22</span>]]></content>
     </entry>
 </feed>
