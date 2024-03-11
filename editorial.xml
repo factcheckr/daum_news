@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-03-11T04:19:21.606Z</updated>
+    <updated>2024-03-11T05:16:05.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[석유는 엄마도 데려갔고 행복도 가져갔다]]></title>
+        <id>https://v.daum.net/v/20240311141509312</id>
+        <link href="https://v.daum.net/v/20240311141509312"/>
+        <updated>2024-03-11T05:15:49.524Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">14:15</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[위선자가 되지 말라]]></title>
         <id>https://v.daum.net/v/20240311123001994</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240311111237207"/>
         <updated>2024-03-11T02:22:35.028Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[논단]기업 밸류업 성공 위한 조언(1) : 배당소득세 조정 필요]]></title>
-        <id>https://v.daum.net/v/20240311111208168</id>
-        <link href="https://v.daum.net/v/20240311111208168"/>
-        <updated>2024-03-11T02:22:35.029Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:12</span>]]></content>
     </entry>
 </feed>
