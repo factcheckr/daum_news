@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-03-12T01:52:44.268Z</updated>
+    <updated>2024-03-12T02:20:21.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[韓총리, “20년 전 의대 정원 감축 않았다면 ‘3시간 대기, 3분 진료’ 없었을 것”]]></title>
+        <title type="html"><![CDATA[밤까지 어린이집 운영하는 나라 [기자수첩]]]></title>
+        <id>https://v.daum.net/v/20240312110708033</id>
+        <link href="https://v.daum.net/v/20240312110708033"/>
+        <updated>2024-03-12T02:20:03.080Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부고] 박창섭(NH투자증권 실물자산투자본부 대표)씨 빙부상]]></title>
+        <id>https://v.daum.net/v/20240312110638004</id>
+        <link href="https://v.daum.net/v/20240312110638004"/>
+        <updated>2024-03-12T02:20:03.085Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">11:06</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韓총리 “20년전 의대 정원 안 줄였다면  ‘3시간 대기, 3분 진료’ 없었을 것”]]></title>
         <id>https://v.daum.net/v/20240312104859106</id>
         <link href="https://v.daum.net/v/20240312104859106"/>
         <updated>2024-03-12T01:52:25.721Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">10:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조국 “‘한동훈 특검법’ 발의, 딸 논문대필·표절 의혹 수사”]]></title>
-        <id>https://v.daum.net/v/20240312101429434</id>
-        <link href="https://v.daum.net/v/20240312101429434"/>
-        <updated>2024-03-12T01:52:25.723Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">10:14</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[여성 표가 필요하지 않은것일까 [플랫]]]></title>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240312070612480"/>
         <updated>2024-03-11T22:14:09.075Z</updated>
         <content type="html"><![CDATA[오마이뉴스<span class="txt_bar"> · </span><span class="info_time">07:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[거룩한 혐오 [세상읽기]]]></title>
-        <id>https://v.daum.net/v/20240312070508464</id>
-        <link href="https://v.daum.net/v/20240312070508464"/>
-        <updated>2024-03-11T22:14:09.075Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">07:05</span>]]></content>
     </entry>
 </feed>
