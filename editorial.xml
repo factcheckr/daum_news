@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-03-13T04:17:37.984Z</updated>
+    <updated>2024-03-13T05:17:54.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](13일 석간)]]></title>
+        <id>https://v.daum.net/v/20240313140007259</id>
+        <link href="https://v.daum.net/v/20240313140007259"/>
+        <updated>2024-03-13T05:17:38.129Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[기자수첩] 확률형 아이템 규제, 과연 누구를 위한 제도인가]]></title>
+        <id>https://v.daum.net/v/20240313135741127</id>
+        <link href="https://v.daum.net/v/20240313135741127"/>
+        <updated>2024-03-13T05:17:38.130Z</updated>
+        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">13:57</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이덕환의 과학세상] 의료비 511배 증가에 의사수 7배 늘어?…통계의 함정]]></title>
         <id>https://v.daum.net/v/20240313130012433</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240313111603804"/>
         <updated>2024-03-13T02:23:18.240Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[만평] "선거판이 난장판도 아니고 국민이 얼마나 피로감을 느끼실지···"]]></title>
-        <id>https://v.daum.net/v/20240313111535779</id>
-        <link href="https://v.daum.net/v/20240313111535779"/>
-        <updated>2024-03-13T02:23:18.241Z</updated>
-        <content type="html"><![CDATA[대구MBC<span class="txt_bar"> · </span><span class="info_time">11:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[논단]유류분 제도의 현대적 재해석과 시장의 진화]]></title>
-        <id>https://v.daum.net/v/20240313111049517</id>
-        <link href="https://v.daum.net/v/20240313111049517"/>
-        <updated>2024-03-13T02:23:18.242Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:10</span>]]></content>
     </entry>
 </feed>
