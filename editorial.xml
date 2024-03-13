@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-03-13T03:17:52.021Z</updated>
+    <updated>2024-03-13T04:17:37.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[이덕환의 과학세상] 의료비 511배 증가에 의사수 7배 늘어?…통계의 함정]]></title>
+        <id>https://v.daum.net/v/20240313130012433</id>
+        <link href="https://v.daum.net/v/20240313130012433"/>
+        <updated>2024-03-13T04:17:22.594Z</updated>
+        <content type="html"><![CDATA[동아사이언스<span class="txt_bar"> · </span><span class="info_time">13:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[기자수첩]죽음의 다리에서 생명의 다리로]]></title>
+        <id>https://v.daum.net/v/20240313122007786</id>
+        <link href="https://v.daum.net/v/20240313122007786"/>
+        <updated>2024-03-13T04:17:22.598Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">12:20</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[웹툰] 언제까지 데려다줘야 할까?]]></title>
         <id>https://v.daum.net/v/20240313121320635</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240313111049517"/>
         <updated>2024-03-13T02:23:18.242Z</updated>
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 정치보복 공언한 조국, 팬덤 기댄 억지 정치 어디까지...]]></title>
-        <id>https://v.daum.net/v/20240313111028498</id>
-        <link href="https://v.daum.net/v/20240313111028498"/>
-        <updated>2024-03-13T02:23:18.244Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 근본 처방 아닌 땜질...국회 연금개혁안에 쏟아진 비판]]></title>
-        <id>https://v.daum.net/v/20240313111025491</id>
-        <link href="https://v.daum.net/v/20240313111025491"/>
-        <updated>2024-03-13T02:23:18.245Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:10</span>]]></content>
     </entry>
 </feed>
