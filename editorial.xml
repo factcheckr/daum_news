@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-03-13T22:14:25.059Z</updated>
+    <updated>2024-03-13T23:15:41.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[시시비비]태평양 오가는 해외법인장에 속타는 협력사]]></title>
+        <id>https://v.daum.net/v/20240314080059048</id>
+        <link href="https://v.daum.net/v/20240314080059048"/>
+        <updated>2024-03-13T23:15:24.183Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘국비 도피’ 이종섭, 대통령의 무리수 [뉴스룸에서]]]></title>
         <id>https://v.daum.net/v/20240314070508147</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240314060032183"/>
         <updated>2024-03-13T21:15:32.609Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[생생확대경]나사 풀린 평가원, 교육부 소속으로 이관해야]]></title>
-        <id>https://v.daum.net/v/20240314055005011</id>
-        <link href="https://v.daum.net/v/20240314055005011"/>
-        <updated>2024-03-13T21:15:32.610Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">05:50</span>]]></content>
     </entry>
 </feed>
