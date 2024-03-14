@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2024-03-14T16:19:35.926Z</updated>
+    <updated>2024-03-14T17:14:21.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스타십 3번째 도전…"절반의 성공, 귀환과정서 통신두절"]]></title>
+        <id>https://v.daum.net/v/20240315014533658</id>
+        <link href="https://v.daum.net/v/20240315014533658"/>
+        <updated>2024-03-14T17:13:22.320Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">01:45</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스페이스X, 달·화성 우주선 3번째 시험비행 또 실패]]></title>
         <id>https://v.daum.net/v/20240315011659601</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240315001159283</id>
         <link href="https://v.daum.net/v/20240315001159283"/>
         <updated>2024-03-14T15:15:03.069Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Biz & Now] JB금융 “얼라인, 이사진 교체 시도 우려”]]></title>
-        <id>https://v.daum.net/v/20240315001149279</id>
-        <link href="https://v.daum.net/v/20240315001149279"/>
-        <updated>2024-03-14T15:15:03.070Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:11</span>]]></content>
     </entry>
 </feed>
