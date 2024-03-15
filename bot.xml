@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-03-15T04:18:25.466Z</updated>
+    <updated>2024-03-15T05:16:11.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['테크윙' 52주 신고가 경신, HBM 테스트 핸들러 신사업으로 폭발적 매출 성장]]></title>
+        <id>https://v.daum.net/v/20240315133909145</id>
+        <link href="https://v.daum.net/v/20240315133909145"/>
+        <updated>2024-03-15T05:16:10.923Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">13:39</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일진전기 수주공시 - Contract No. MEW / C / 6033 - 2024/2025 SUPPLY AND INSTALLATION of 300 KV XLPE CABLES & COMMUNICATION CABLES IN AHMADI PROVIDENCE TO FEED ABU- HALIFA (W) S/ST 1,281.8억원 (매출액대비  11.01 %)]]></title>
         <id>https://v.daum.net/v/20240315120107272</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240315091215190</id>
         <link href="https://v.daum.net/v/20240315091215190"/>
         <updated>2024-03-15T01:03:11.123Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우리금융지주' 52주 신고가 경신, 전일 기관 대량 순매수]]></title>
-        <id>https://v.daum.net/v/20240315091211188</id>
-        <link href="https://v.daum.net/v/20240315091211188"/>
-        <updated>2024-03-15T01:03:11.124Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:12</span>]]></content>
     </entry>
 </feed>
