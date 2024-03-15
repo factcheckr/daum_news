@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2024-03-15T18:19:55.108Z</updated>
+    <updated>2024-03-15T19:13:34.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘닭강정’ 류승룡 “늘 닭 같은 배우이고파, 안재홍 천군만마♥” [화보]]]></title>
+        <id>https://v.daum.net/v/20240316040009368</id>
+        <link href="https://v.daum.net/v/20240316040009368"/>
+        <updated>2024-03-15T19:12:59.041Z</updated>
+        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[백지영·뮤지, 깜짝 듀오 결성…22일 감성발라드 '별이 되어주고 싶었어' 발표]]></title>
+        <id>https://v.daum.net/v/20240316040004367</id>
+        <link href="https://v.daum.net/v/20240316040004367"/>
+        <updated>2024-03-15T19:12:59.051Z</updated>
+        <content type="html"><![CDATA[스포티비뉴스<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['메이 디셈버' 독립예술영화 박스오피스 1위]]></title>
         <id>https://v.daum.net/v/20240316030031213</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240316015401146"/>
         <updated>2024-03-15T17:13:47.697Z</updated>
         <content type="html"><![CDATA[MK스포츠<span class="txt_bar"> · </span><span class="info_time">01:54</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 채널A]시험관 시술 실패 상처 보듬고…]]></title>
-        <id>https://v.daum.net/v/20240316014153121</id>
-        <link href="https://v.daum.net/v/20240316014153121"/>
-        <updated>2024-03-15T17:13:47.702Z</updated>
-        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">01:41</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김연자 “새로운 원석 발견해 영광, 트로트계 전망 밝다” (미스트롯3-갈라쇼)]]></title>
-        <id>https://v.daum.net/v/20240316012452038</id>
-        <link href="https://v.daum.net/v/20240316012452038"/>
-        <updated>2024-03-15T17:13:47.702Z</updated>
-        <content type="html"><![CDATA[스포츠경향<span class="txt_bar"> · </span><span class="info_time">01:24</span>]]></content>
     </entry>
 </feed>
