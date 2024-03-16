@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2024-03-16T18:18:58.201Z</updated>
+    <updated>2024-03-16T19:13:11.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[與, ‘친윤’ 장예찬 막말 악재에 공천장 회수…“선거 절박한 상황”]]></title>
+        <id>https://v.daum.net/v/20240317040739708</id>
+        <link href="https://v.daum.net/v/20240317040739708"/>
+        <updated>2024-03-16T19:12:03.004Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">04:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[與, '막말 논란' 장예찬 공천 취소..."국민 정서 반해"]]></title>
         <id>https://v.daum.net/v/20240317015814643</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240317000358290"/>
         <updated>2024-03-16T15:12:40.345Z</updated>
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민주, 오늘 의원총회..."이종섭 특검법·양문석 공천 등 주목"]]></title>
-        <id>https://v.daum.net/v/20240317000311286</id>
-        <link href="https://v.daum.net/v/20240317000311286"/>
-        <updated>2024-03-16T15:12:40.346Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
     </entry>
 </feed>
