@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-03-16T12:29:38.622Z</updated>
+    <updated>2024-03-16T13:16:31.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“사직서는 정부 태도 변화 촉구 위한 의지, 수리 전까지 진료 최선”]]></title>
+        <id>https://v.daum.net/v/20240316221304716</id>
+        <link href="https://v.daum.net/v/20240316221304716"/>
+        <updated>2024-03-16T13:16:04.407Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">22:13</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“1만7천원이 비싸? 그래도 요금 안 낮춰요” 배짱 장사 넷플릭스 이유 있었네]]></title>
         <id>https://v.daum.net/v/20240316204616019</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240316174255823"/>
         <updated>2024-03-16T09:14:12.626Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">17:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바리스타 챔피언 모션 배운 로봇의 커피맛은?]]></title>
-        <id>https://v.daum.net/v/20240316174151803</id>
-        <link href="https://v.daum.net/v/20240316174151803"/>
-        <updated>2024-03-16T09:14:12.627Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">17:41</span>]]></content>
     </entry>
 </feed>
