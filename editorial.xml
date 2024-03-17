@@ -2,11 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-03-17T22:13:57.761Z</updated>
+    <updated>2024-03-17T23:17:10.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[양심적 병역 거부는 병역비리가 아니다 [세상읽기]]]></title>
+        <title type="html"><![CDATA[나의 아이유 티케팅 실패기 [한겨레 프리즘]]]></title>
+        <id>https://v.daum.net/v/20240318080503210</id>
+        <link href="https://v.daum.net/v/20240318080503210"/>
+        <updated>2024-03-17T23:16:52.083Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">08:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[한강로에서] ‘감동’이 없었다면 ‘공감’이라도 챙겨라]]></title>
+        <id>https://v.daum.net/v/20240318080203144</id>
+        <link href="https://v.daum.net/v/20240318080203144"/>
+        <updated>2024-03-17T23:16:52.084Z</updated>
+        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">08:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](18일 조간)]]></title>
+        <id>https://v.daum.net/v/20240318080007077</id>
+        <link href="https://v.daum.net/v/20240318080007077"/>
+        <updated>2024-03-17T23:16:52.085Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[각국의 통화정책 변화…일본은행, 마이너스 금리 해제? [국제경제읽기 한상춘]]]></title>
+        <id>https://v.daum.net/v/20240318074347774</id>
+        <link href="https://v.daum.net/v/20240318074347774"/>
+        <updated>2024-03-17T23:16:52.086Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">07:43</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[양심적 병역거부는 병역비리가 아니다 [세상읽기]]]></title>
         <id>https://v.daum.net/v/20240318070502224</id>
         <link href="https://v.daum.net/v/20240318070502224"/>
         <updated>2024-03-17T22:13:44.504Z</updated>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20240318055021086"/>
         <updated>2024-03-17T21:15:02.444Z</updated>
         <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">05:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[J. Bradford DeLong] The mystery of US interest rates]]></title>
-        <id>https://v.daum.net/v/20240318053130966</id>
-        <link href="https://v.daum.net/v/20240318053130966"/>
-        <updated>2024-03-17T21:15:02.446Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Yoo Choon-sik] Korea’s construction industry slump deepens]]></title>
-        <id>https://v.daum.net/v/20240318053128965</id>
-        <link href="https://v.daum.net/v/20240318053128965"/>
-        <updated>2024-03-17T21:15:02.448Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Editorial] No laughing matter]]></title>
-        <id>https://v.daum.net/v/20240318053104956</id>
-        <link href="https://v.daum.net/v/20240318053104956"/>
-        <updated>2024-03-17T21:15:02.450Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[백상논단]美 반도체 보조금의 양면]]></title>
-        <id>https://v.daum.net/v/20240318053019940</id>
-        <link href="https://v.daum.net/v/20240318053019940"/>
-        <updated>2024-03-17T21:15:02.451Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
     </entry>
 </feed>
