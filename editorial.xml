@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-03-17T16:17:30.613Z</updated>
+    <updated>2024-03-17T17:14:14.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]민주주의를 구하는 세렌디피티]]></title>
+        <id>https://v.daum.net/v/20240318020305935</id>
+        <link href="https://v.daum.net/v/20240318020305935"/>
+        <updated>2024-03-17T17:13:58.905Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[청계광장]신통한 사람들]]></title>
+        <id>https://v.daum.net/v/20240318020301934</id>
+        <link href="https://v.daum.net/v/20240318020301934"/>
+        <updated>2024-03-17T17:13:58.906Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] ‘회칼 테러’ 운운 황상무 수석, 자진 사퇴하라]]></title>
         <id>https://v.daum.net/v/20240318004228750</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240318002826681"/>
         <updated>2024-03-17T16:17:15.255Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:28</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[다산칼럼] 주식시장 발목잡는 '한국판 행동주의']]></title>
-        <id>https://v.daum.net/v/20240318002803680</id>
-        <link href="https://v.daum.net/v/20240318002803680"/>
-        <updated>2024-03-17T16:17:15.257Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:28</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시론] '선도자'에게 걸맞은 '시대정신']]></title>
-        <id>https://v.daum.net/v/20240318002801679</id>
-        <link href="https://v.daum.net/v/20240318002801679"/>
-        <updated>2024-03-17T16:17:15.259Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:28</span>]]></content>
     </entry>
 </feed>
