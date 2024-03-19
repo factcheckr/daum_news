@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-03-19T03:19:27.479Z</updated>
+    <updated>2024-03-19T04:18:40.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TANAKA 홀딩스, 본사를 창업지 카야바초 새로운 본사 빌딩으로 이전]]></title>
+        <id>https://v.daum.net/v/20240319131704131</id>
+        <link href="https://v.daum.net/v/20240319131704131"/>
+        <updated>2024-03-19T04:18:33.828Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">13:17</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[창의·혁신적인 예비 창업인이라면 헤매지 마세요… 엠디글로벌넷, 경기 신사업창업사관학교 참가자 모집]]></title>
         <id>https://v.daum.net/v/20240319115703609</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240319113433733"/>
         <updated>2024-03-19T03:19:19.305Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">11:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[옥천군, 적극행정·혁신행정으로 각종 평가에서 두각]]></title>
-        <id>https://v.daum.net/v/20240319113418725</id>
-        <link href="https://v.daum.net/v/20240319113418725"/>
-        <updated>2024-03-19T03:19:19.306Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:34</span>]]></content>
     </entry>
 </feed>

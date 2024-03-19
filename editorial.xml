@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-03-19T03:19:27.451Z</updated>
+    <updated>2024-03-19T04:18:40.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[데일리안 시사만평] 민주당, 지지층 결집중인데…국힘, 윤-당 갈등 국면 해결책은?]]></title>
+        <id>https://v.daum.net/v/20240319124853439</id>
+        <link href="https://v.daum.net/v/20240319124853439"/>
+        <updated>2024-03-19T04:18:27.626Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">12:48</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대통령은 황상무 수석 경질하라]]></title>
         <id>https://v.daum.net/v/20240319115645599</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240319111806808"/>
         <updated>2024-03-19T02:23:43.052Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">11:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팀장 칼럼] 지방 건설사에 ‘핀셋 지원’이 필요하다]]></title>
-        <id>https://v.daum.net/v/20240319111353496</id>
-        <link href="https://v.daum.net/v/20240319111353496"/>
-        <updated>2024-03-19T02:23:43.052Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">11:13</span>]]></content>
     </entry>
 </feed>
