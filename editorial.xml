@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-03-19T22:14:30.463Z</updated>
+    <updated>2024-03-19T23:15:41.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[만화] 디지털 원고 후유증 [날백수인생]]]></title>
+        <id>https://v.daum.net/v/20240320080301536</id>
+        <link href="https://v.daum.net/v/20240320080301536"/>
+        <updated>2024-03-19T23:15:26.472Z</updated>
+        <content type="html"><![CDATA[오마이뉴스<span class="txt_bar"> · </span><span class="info_time">08:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이언주, 장진숙, 임태훈…민주당의 자가당착 [홍성수 칼럼]]]></title>
         <id>https://v.daum.net/v/20240320070505714</id>
@@ -83,7 +90,7 @@
         <content type="html"><![CDATA[오마이뉴스<span class="txt_bar"> · </span><span class="info_time">06:45</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[목멱칼럼]이것이 정부가 할 일인가요?]]></title>
+        <title type="html"><![CDATA[[목멱칼럼]이런 것까지 정부가 할 일인가?]]></title>
         <id>https://v.daum.net/v/20240320063227170</id>
         <link href="https://v.daum.net/v/20240320063227170"/>
         <updated>2024-03-19T22:14:14.816Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240320060511876"/>
         <updated>2024-03-19T21:13:08.803Z</updated>
         <content type="html"><![CDATA[주간경향<span class="txt_bar"> · </span><span class="info_time">06:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1569호를 읽고[독자의 소리]]]></title>
-        <id>https://v.daum.net/v/20240320060404861</id>
-        <link href="https://v.daum.net/v/20240320060404861"/>
-        <updated>2024-03-19T21:13:08.805Z</updated>
-        <content type="html"><![CDATA[주간경향<span class="txt_bar"> · </span><span class="info_time">06:04</span>]]></content>
     </entry>
 </feed>
