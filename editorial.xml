@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-03-19T16:20:57.985Z</updated>
+    <updated>2024-03-19T17:15:20.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]면허제도와 경제학]]></title>
+        <id>https://v.daum.net/v/20240320020302233</id>
+        <link href="https://v.daum.net/v/20240320020302233"/>
+        <updated>2024-03-19T17:15:07.944Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 한숨만 나오는 ‘범죄 도피처’, 조국혁신당 비례대표들]]></title>
         <id>https://v.daum.net/v/20240320010237142</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240320003006012</id>
         <link href="https://v.daum.net/v/20240320003006012"/>
         <updated>2024-03-19T16:20:43.787Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 친북·범죄 혐의자에 폭력 전과자까지…진흙탕 된 비례대표]]></title>
-        <id>https://v.daum.net/v/20240320003005011</id>
-        <link href="https://v.daum.net/v/20240320003005011"/>
-        <updated>2024-03-19T16:20:43.789Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
     </entry>
 </feed>
