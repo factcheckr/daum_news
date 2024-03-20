@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-03-20T04:20:09.063Z</updated>
+    <updated>2024-03-20T05:16:39.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정동칼럼] ‘의로노불’, ‘윤로민불’, ‘명로문불’]]></title>
+        <id>https://v.daum.net/v/20240320134417801</id>
+        <link href="https://v.daum.net/v/20240320134417801"/>
+        <updated>2024-03-20T05:16:23.666Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">13:44</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한정민 "정치 신인이지만, 제가 반도체와 동탄 전문가입니다"]]></title>
+        <id>https://v.daum.net/v/20240320133537548</id>
+        <link href="https://v.daum.net/v/20240320133537548"/>
+        <updated>2024-03-20T05:16:23.667Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">13:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인사] 고용노동부]]></title>
         <id>https://v.daum.net/v/20240320120000470</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240320111235719"/>
         <updated>2024-03-20T02:20:44.266Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탄소포집기술을 둘러싼 국제적 논란 [이승원의 기후 close-up]]]></title>
-        <id>https://v.daum.net/v/20240320110954591</id>
-        <link href="https://v.daum.net/v/20240320110954591"/>
-        <updated>2024-03-20T02:20:44.266Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[헤럴드광장] 우리 매장에도 푸드테크를 도입해야 할까?]]></title>
-        <id>https://v.daum.net/v/20240320110938584</id>
-        <link href="https://v.daum.net/v/20240320110938584"/>
-        <updated>2024-03-20T02:20:44.266Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:09</span>]]></content>
     </entry>
 </feed>
