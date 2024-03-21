@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-03-21T12:28:16.036Z</updated>
+    <updated>2024-03-21T13:20:24.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[백반집 사장님의 '브랜딩 일관성' [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20240321220027482</id>
+        <link href="https://v.daum.net/v/20240321220027482"/>
+        <updated>2024-03-21T13:20:07.039Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 3월 22일[김용민의 그림마당]]]></title>
         <id>https://v.daum.net/v/20240321210050666</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240321195813650"/>
         <updated>2024-03-21T11:13:45.953Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:58</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Avoid a fatal clash between Yoon and Han]]></title>
-        <id>https://v.daum.net/v/20240321195706633</id>
-        <link href="https://v.daum.net/v/20240321195706633"/>
-        <updated>2024-03-21T11:13:45.958Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:57</span>]]></content>
     </entry>
 </feed>
