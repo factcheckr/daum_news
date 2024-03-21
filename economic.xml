@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2024-03-21T15:19:18.072Z</updated>
+    <updated>2024-03-21T16:21:00.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美정부, 애플 반독점법 위반 제소…"경쟁업체 앱 제공 막아"(종합)]]></title>
+        <id>https://v.daum.net/v/20240322004726571</id>
+        <link href="https://v.daum.net/v/20240322004726571"/>
+        <updated>2024-03-21T16:19:45.377Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">00:47</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美법무부, 애플 반독점 혐의로 소송.."폐쇄 생태계로 경쟁 저해"(종합)]]></title>
+        <id>https://v.daum.net/v/20240322003544492</id>
+        <link href="https://v.daum.net/v/20240322003544492"/>
+        <updated>2024-03-21T16:19:45.378Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">00:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임종윤 “한미약품, 시총 200조 도전”…모녀측 “비현실적”]]></title>
         <id>https://v.daum.net/v/20240322001249351</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240322001204328"/>
         <updated>2024-03-21T15:18:22.419Z</updated>
         <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">00:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Biz & Now] 도레이첨단소재 대표이사 사장에 김영섭]]></title>
-        <id>https://v.daum.net/v/20240322001201324</id>
-        <link href="https://v.daum.net/v/20240322001201324"/>
-        <updated>2024-03-21T15:18:22.421Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Biz & Now] 삼성전자 사업장 7곳, 물관리 최고등급]]></title>
-        <id>https://v.daum.net/v/20240322001201323</id>
-        <link href="https://v.daum.net/v/20240322001201323"/>
-        <updated>2024-03-21T15:18:22.422Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:12</span>]]></content>
     </entry>
 </feed>
