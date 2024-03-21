@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2024-03-21T16:21:00.067Z</updated>
+    <updated>2024-03-21T17:17:33.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 하루에 산불 10건..."동해안보다 내륙이 더 불안"]]></title>
+        <id>https://v.daum.net/v/20240322021009002</id>
+        <link href="https://v.daum.net/v/20240322021009002"/>
+        <updated>2024-03-21T17:16:40.804Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">02:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 오늘 오후부터 전국에 단비...황사 섞인 흙비 가능성↑]]></title>
+        <id>https://v.daum.net/v/20240322020601986</id>
+        <link href="https://v.daum.net/v/20240322020601986"/>
+        <updated>2024-03-21T17:16:40.805Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">02:06</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오늘의 운세] 3월 22일 금요일 (음력 2월 13일 /乙酉) 띠별 / 생년월일 운세]]></title>
         <id>https://v.daum.net/v/20240322010130655</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240322000610224"/>
         <updated>2024-03-21T15:18:37.040Z</updated>
         <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올해 희망나눔캠페인 ‘소액기부’ 열기 뜨거웠다]]></title>
-        <id>https://v.daum.net/v/20240322000607220</id>
-        <link href="https://v.daum.net/v/20240322000607220"/>
-        <updated>2024-03-21T15:18:37.042Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["먼저 러브콜"…정용진 회장 아내 한지희와 협업곡 낸 가수, 누구]]></title>
-        <id>https://v.daum.net/v/20240322000603212</id>
-        <link href="https://v.daum.net/v/20240322000603212"/>
-        <updated>2024-03-21T15:18:37.043Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
     </entry>
 </feed>
