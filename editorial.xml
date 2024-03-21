@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-03-21T03:17:49.526Z</updated>
+    <updated>2024-03-21T04:19:45.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[SCMP 칼럼]진융 탄생 100년, 홍콩 독특한 문화 소중히 여겨야]]></title>
+        <id>https://v.daum.net/v/20240321130043090</id>
+        <link href="https://v.daum.net/v/20240321130043090"/>
+        <updated>2024-03-21T04:19:27.788Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">13:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박정훈 대령 만난 이준석 "대통령이 국민에게 항명‥이종섭 거취 결단해야"]]></title>
         <id>https://v.daum.net/v/20240321120408209</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240321110418000"/>
         <updated>2024-03-21T02:23:09.384Z</updated>
         <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">11:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다둥이 엄마에 훈장 주는 몽골 [한국에살며]]]></title>
-        <id>https://v.daum.net/v/20240321105614400</id>
-        <link href="https://v.daum.net/v/20240321105614400"/>
-        <updated>2024-03-21T02:23:09.386Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">10:56</span>]]></content>
     </entry>
 </feed>
