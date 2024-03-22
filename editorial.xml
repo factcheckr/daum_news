@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-03-22T16:20:22.293Z</updated>
+    <updated>2024-03-22T17:16:33.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“한강 다리 폭파 사건”의 진실 (1)]]></title>
+        <id>https://v.daum.net/v/20240323020017921</id>
+        <link href="https://v.daum.net/v/20240323020017921"/>
+        <updated>2024-03-22T17:16:15.499Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">02:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일본군 장교 8명이 민간인으로 변복하고 왕비 시해 지휘]]></title>
         <id>https://v.daum.net/v/20240323004519656</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240323001217507"/>
         <updated>2024-03-22T15:15:22.548Z</updated>
         <content type="html"><![CDATA[중앙SUNDAY<span class="txt_bar"> · </span><span class="info_time">00:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[에디터 프리즘] 한국과 미국 정치는 닮은 꼴]]></title>
-        <id>https://v.daum.net/v/20240323001017487</id>
-        <link href="https://v.daum.net/v/20240323001017487"/>
-        <updated>2024-03-22T15:15:22.550Z</updated>
-        <content type="html"><![CDATA[중앙SUNDAY<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
     </entry>
 </feed>
