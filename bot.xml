@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-03-22T02:21:27.424Z</updated>
+    <updated>2024-03-22T03:16:52.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서울 잠실동 잠실아시아선수촌 178㎡ 48억5000만원에 거래]]></title>
+        <id>https://v.daum.net/v/20240322121047143</id>
+        <link href="https://v.daum.net/v/20240322121047143"/>
+        <updated>2024-03-22T03:16:51.886Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울 대치동 은마 76㎡ 23억5000만원에 거래]]></title>
+        <id>https://v.daum.net/v/20240322120536015</id>
+        <link href="https://v.daum.net/v/20240322120536015"/>
+        <updated>2024-03-22T03:16:51.888Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울 방이동 올림픽선수기자촌아파트 83㎡ 19억4500만원에 거래]]></title>
+        <id>https://v.daum.net/v/20240322120045879</id>
+        <link href="https://v.daum.net/v/20240322120045879"/>
+        <updated>2024-03-22T03:16:51.889Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['한국공항' 52주 신고가 경신, 기관 3일 연속 순매수(1.1만주)]]></title>
         <id>https://v.daum.net/v/20240322105605238</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240322091202032"/>
         <updated>2024-03-22T01:01:25.535Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['옵트론텍' 52주 신고가 경신, 전일 외국인 대량 순매수]]></title>
-        <id>https://v.daum.net/v/20240322091025980</id>
-        <link href="https://v.daum.net/v/20240322091025980"/>
-        <updated>2024-03-22T01:01:25.536Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서진시스템' 52주 신고가 경신, 글로벌 ESS 및 데이터센터 투자 확대에 따른 수혜 전망]]></title>
-        <id>https://v.daum.net/v/20240322091023979</id>
-        <link href="https://v.daum.net/v/20240322091023979"/>
-        <updated>2024-03-22T01:01:25.538Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['삼성전자우' 52주 신고가 경신, 전일 외국인 대량 순매수]]></title>
-        <id>https://v.daum.net/v/20240322091018974</id>
-        <link href="https://v.daum.net/v/20240322091018974"/>
-        <updated>2024-03-22T01:01:25.539Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:10</span>]]></content>
     </entry>
 </feed>
