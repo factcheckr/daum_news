@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-03-22T09:18:15.026Z</updated>
+    <updated>2024-03-22T10:17:00.238Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사설] 공천 못 받은 ‘최측근’ 민생특보 임명, 대통령이 사적 채용하는 자리인가]]></title>
+        <id>https://v.daum.net/v/20240322183003332</id>
+        <link href="https://v.daum.net/v/20240322183003332"/>
+        <updated>2024-03-22T10:16:41.936Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">18:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 수사 무관한 휴대전화 정보 몰래 수집한 검찰, ‘민간인 사찰’ 아닌가]]></title>
         <id>https://v.daum.net/v/20240322181004899</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240322175101443"/>
         <updated>2024-03-22T09:17:56.799Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[지평선] '보수의 노무현' 실험 포기한 천하람]]></title>
-        <id>https://v.daum.net/v/20240322173356062</id>
-        <link href="https://v.daum.net/v/20240322173356062"/>
-        <updated>2024-03-22T09:17:56.801Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">17:33</span>]]></content>
     </entry>
 </feed>
