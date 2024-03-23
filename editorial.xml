@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-03-23T06:23:06.183Z</updated>
+    <updated>2024-03-23T07:15:18.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[이원석 교수의 익명정보④] 현업에 데이터 이용 날개 달아주려면]]></title>
+        <id>https://v.daum.net/v/20240323155504557</id>
+        <link href="https://v.daum.net/v/20240323155504557"/>
+        <updated>2024-03-23T07:15:04.986Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">15:55</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[새가 무슨 죄인가? [헤럴드광장]]]></title>
         <id>https://v.daum.net/v/20240323142232838</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240323043503251"/>
         <updated>2024-03-22T21:14:02.720Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외교에서의 공식과 비공식 [인문산책]]]></title>
-        <id>https://v.daum.net/v/20240323043135242</id>
-        <link href="https://v.daum.net/v/20240323043135242"/>
-        <updated>2024-03-22T21:14:02.721Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:31</span>]]></content>
     </entry>
 </feed>
