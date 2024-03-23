@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2024-03-23T16:17:43.316Z</updated>
+    <updated>2024-03-23T17:14:15.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["발레리나가 꿈"…채시라, 커버댄스 실력 첫 공개]]></title>
+        <id>https://v.daum.net/v/20240324013508228</id>
+        <link href="https://v.daum.net/v/20240324013508228"/>
+        <updated>2024-03-23T17:13:37.485Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">01:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘권상우♥’ 손태영도 美 병원비에 덜덜 “셀프 발치로 100불 아껴”(뉴저지 손태영)]]></title>
         <id>https://v.daum.net/v/20240324010044175</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240324002720127"/>
         <updated>2024-03-23T16:17:01.952Z</updated>
         <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">00:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김대호, 프리 선언 고민 중 "MBC가 키웠다니··내가 잘한 거지" ('꼰대희')]]></title>
-        <id>https://v.daum.net/v/20240324002325119</id>
-        <link href="https://v.daum.net/v/20240324002325119"/>
-        <updated>2024-03-23T16:17:01.953Z</updated>
-        <content type="html"><![CDATA[OSEN<span class="txt_bar"> · </span><span class="info_time">00:23</span>]]></content>
     </entry>
 </feed>
