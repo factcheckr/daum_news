@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2024-03-23T18:18:02.257Z</updated>
+    <updated>2024-03-23T19:12:43.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤승아, 김무열 부부가 마르고 닳도록 신는 신발 Top 6]]></title>
+        <id>https://v.daum.net/v/20240324040011497</id>
+        <link href="https://v.daum.net/v/20240324040011497"/>
+        <updated>2024-03-23T19:11:54.663Z</updated>
+        <content type="html"><![CDATA[엘르<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[해리포터 탄생한 포르투 렐루서점 가보셨나요 [최현태 기자의 여행홀릭]]]></title>
         <id>https://v.daum.net/v/20240324031227359</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240324004310149"/>
         <updated>2024-03-23T16:16:53.184Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">00:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[날씨] 일요일 중부 지방 포근‥제주도·남해안 비]]></title>
-        <id>https://v.daum.net/v/20240324002511123</id>
-        <link href="https://v.daum.net/v/20240324002511123"/>
-        <updated>2024-03-23T16:16:53.186Z</updated>
-        <content type="html"><![CDATA[MBC<span class="txt_bar"> · </span><span class="info_time">00:25</span>]]></content>
     </entry>
 </feed>
