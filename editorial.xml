@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-03-24T12:28:12.541Z</updated>
+    <updated>2024-03-24T13:19:00.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[파전이 유독 맛있는 까닭은 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20240324220003512</id>
+        <link href="https://v.daum.net/v/20240324220003512"/>
+        <updated>2024-03-24T13:18:43.699Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[만물상] 천덕꾸러기 된 ‘민변’]]></title>
         <id>https://v.daum.net/v/20240324211844138</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240324200602424"/>
         <updated>2024-03-24T11:13:36.189Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[詩想과 세상]아 에 이 오 우]]></title>
-        <id>https://v.daum.net/v/20240324200555421</id>
-        <link href="https://v.daum.net/v/20240324200555421"/>
-        <updated>2024-03-24T11:13:36.189Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:05</span>]]></content>
     </entry>
 </feed>
