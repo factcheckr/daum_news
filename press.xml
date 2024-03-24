@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-03-24T11:13:51.975Z</updated>
+    <updated>2024-03-24T12:28:12.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[용인특례시, 수질개선 위해 7개 하수관로 신설 사업 진행]]></title>
+        <id>https://v.daum.net/v/20240324204023776</id>
+        <link href="https://v.daum.net/v/20240324204023776"/>
+        <updated>2024-03-24T12:28:04.248Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">20:40</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이상일 '용인과학고 유치' 주창에…22대 총선 용인정 후보들 공약 내걸어]]></title>
         <id>https://v.daum.net/v/20240324194844231</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240324100702339"/>
         <updated>2024-03-24T01:07:42.632Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">10:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lifezone Metals Signs Binding Subscription Agreement for US$50 Million of Unsecured Convertible Debentures with Consortium of Marquee Mining Investors]]></title>
-        <id>https://v.daum.net/v/20240324094703996</id>
-        <link href="https://v.daum.net/v/20240324094703996"/>
-        <updated>2024-03-24T01:07:42.635Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">09:47</span>]]></content>
     </entry>
 </feed>
