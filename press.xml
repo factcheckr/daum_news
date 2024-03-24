@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-03-24T07:15:14.285Z</updated>
+    <updated>2024-03-24T08:18:48.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이동환 고양시장, 성사혁신지구·원당4구역 현장 점검]]></title>
+        <id>https://v.daum.net/v/20240324164828530</id>
+        <link href="https://v.daum.net/v/20240324164828530"/>
+        <updated>2024-03-24T08:18:40.027Z</updated>
+        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">16:48</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“연제구를 명품학군으로”… 국힘 김희정 후보 ‘연제 교육발전 특구’ 추진]]></title>
         <id>https://v.daum.net/v/20240324145545196</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240324094702994"/>
         <updated>2024-03-24T01:07:42.636Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">09:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김포대, 명은커리어와 업무협약… 미래인재 양성 위한 맞춤형 취업서비스 제공]]></title>
-        <id>https://v.daum.net/v/20240324091703587</id>
-        <link href="https://v.daum.net/v/20240324091703587"/>
-        <updated>2024-03-24T01:07:42.639Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">09:17</span>]]></content>
     </entry>
 </feed>
