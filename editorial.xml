@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-03-25T04:20:39.620Z</updated>
+    <updated>2024-03-25T05:20:57.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[의학칼럼] 사타구니 통증? '고관절'도 살펴야 합니다]]></title>
+        <id>https://v.daum.net/v/20240325140014511</id>
+        <link href="https://v.daum.net/v/20240325140014511"/>
+        <updated>2024-03-25T05:20:38.228Z</updated>
+        <content type="html"><![CDATA[헬스조선<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[만평] 홍준표 "법조는 증거로 유무죄만 다투지만, 정치는 국민 감성이 우선"]]></title>
         <id>https://v.daum.net/v/20240325121507991</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240325110303173"/>
         <updated>2024-03-25T02:26:30.390Z</updated>
         <content type="html"><![CDATA[이코노미조선<span class="txt_bar"> · </span><span class="info_time">11:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Interview] 안기현 한국반도체산업협회 전무 | “AI發 수요 급증…K반도체 지키려면 보조금 정책 필요”]]></title>
-        <id>https://v.daum.net/v/20240325110250155</id>
-        <link href="https://v.daum.net/v/20240325110250155"/>
-        <updated>2024-03-25T02:26:30.392Z</updated>
-        <content type="html"><![CDATA[이코노미조선<span class="txt_bar"> · </span><span class="info_time">11:02</span>]]></content>
     </entry>
 </feed>
