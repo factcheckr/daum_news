@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-03-25T06:20:36.059Z</updated>
+    <updated>2024-03-25T07:16:10.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한화오션 수주공시 - LNG 운반선8척 2.44조 (매출액대비  50.2 %)]]></title>
+        <id>https://v.daum.net/v/20240325155104320</id>
+        <link href="https://v.daum.net/v/20240325155104320"/>
+        <updated>2024-03-25T07:16:09.449Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">15:51</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['삼성전자우' 52주 신고가 경신, 전일 외국인 대량 순매수]]></title>
+        <id>https://v.daum.net/v/20240325153414654</id>
+        <link href="https://v.daum.net/v/20240325153414654"/>
+        <updated>2024-03-25T07:16:09.451Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">15:34</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['하나금융지주' 52주 신고가 경신, 지금은 할인율 축소 구간 - NH투자증권, BUY]]></title>
+        <id>https://v.daum.net/v/20240325153413651</id>
+        <link href="https://v.daum.net/v/20240325153413651"/>
+        <updated>2024-03-25T07:16:09.452Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">15:34</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['서진시스템' 52주 신고가 경신, 외국인 3일 연속 순매수(15.2만주)]]></title>
+        <id>https://v.daum.net/v/20240325153408644</id>
+        <link href="https://v.daum.net/v/20240325153408644"/>
+        <updated>2024-03-25T07:16:09.454Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">15:34</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['옵트론텍' 52주 신고가 경신, 전일 외국인 대량 순매수]]></title>
+        <id>https://v.daum.net/v/20240325153402639</id>
+        <link href="https://v.daum.net/v/20240325153402639"/>
+        <updated>2024-03-25T07:16:09.455Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">15:34</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['중앙첨단소재' 52주 신고가 경신, 전일 외국인 대량 순매수]]></title>
         <id>https://v.daum.net/v/20240325144602796</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20240325092103761"/>
         <updated>2024-03-25T01:03:52.796Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['테크윙' 52주 신고가 경신, HBM 테스트 핸들러 신사업으로 폭발적 매출 성장]]></title>
-        <id>https://v.daum.net/v/20240325091708621</id>
-        <link href="https://v.daum.net/v/20240325091708621"/>
-        <updated>2024-03-25T01:03:52.797Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['HLB' 52주 신고가 경신, 전일 외국인 대량 순매도]]></title>
-        <id>https://v.daum.net/v/20240325091314525</id>
-        <link href="https://v.daum.net/v/20240325091314525"/>
-        <updated>2024-03-25T01:03:52.799Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['수산아이앤티' 52주 신고가 경신, 외국인 3일 연속 순매수(9,165주)]]></title>
-        <id>https://v.daum.net/v/20240325091310521</id>
-        <link href="https://v.daum.net/v/20240325091310521"/>
-        <updated>2024-03-25T01:03:52.800Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신흥에스이씨' 52주 신고가 경신, 외국인, 기관 각각 7일 연속 순매수, 3일 연속 순매도]]></title>
-        <id>https://v.daum.net/v/20240325091304517</id>
-        <link href="https://v.daum.net/v/20240325091304517"/>
-        <updated>2024-03-25T01:03:52.801Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현대홈쇼핑' 52주 신고가 경신, 감출 수 없는 매력 - 흥국증권, BUY]]></title>
-        <id>https://v.daum.net/v/20240325091302511</id>
-        <link href="https://v.daum.net/v/20240325091302511"/>
-        <updated>2024-03-25T01:03:52.803Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:13</span>]]></content>
     </entry>
 </feed>
