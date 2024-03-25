@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-03-25T10:16:41.028Z</updated>
+    <updated>2024-03-25T11:14:23.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] CCTV+: Seminar Successfully Concluded]]></title>
+        <id>https://v.daum.net/v/20240325200319916</id>
+        <link href="https://v.daum.net/v/20240325200319916"/>
+        <updated>2024-03-25T11:14:14.878Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[통영시, 지방세정 종합평가 '우수기관' 선정...특별조정교부금 1억원 확보]]></title>
         <id>https://v.daum.net/v/20240325183104430</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240325170151579</id>
         <link href="https://v.daum.net/v/20240325170151579"/>
         <updated>2024-03-25T09:15:43.013Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[광주 서구, 건강 취약 주민 위한 현장민원실 운영]]></title>
-        <id>https://v.daum.net/v/20240325170122561</id>
-        <link href="https://v.daum.net/v/20240325170122561"/>
-        <updated>2024-03-25T09:15:43.014Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:01</span>]]></content>
     </entry>
 </feed>
