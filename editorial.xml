@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-03-28T11:13:49.136Z</updated>
+    <updated>2024-03-28T12:28:40.860Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[만물상] 영빈관의 용접공]]></title>
+        <id>https://v.daum.net/v/20240328211753893</id>
+        <link href="https://v.daum.net/v/20240328211753893"/>
+        <updated>2024-03-28T12:28:23.532Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">21:17</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[돈 준다고 애 낳을까?‥여야 돈 풀기 공약 내놨지만 "비현실적" 지적]]></title>
+        <id>https://v.daum.net/v/20240328204312187</id>
+        <link href="https://v.daum.net/v/20240328204312187"/>
+        <updated>2024-03-28T12:28:23.534Z</updated>
+        <content type="html"><![CDATA[MBC<span class="txt_bar"> · </span><span class="info_time">20:43</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Put Korea-China relations back on track]]></title>
         <id>https://v.daum.net/v/20240328194814984</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240328185536949"/>
         <updated>2024-03-28T10:16:24.572Z</updated>
         <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">18:55</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[글로벌 오피니언리더] 마크롱 "브라질 원하면 핵추진 잠수함 개발 돕겠다"]]></title>
-        <id>https://v.daum.net/v/20240328185534947</id>
-        <link href="https://v.daum.net/v/20240328185534947"/>
-        <updated>2024-03-28T10:16:24.574Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">18:55</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김광덕 칼럼] 黨보스가 ‘막대기’ 꽂아 ‘금배지’ 만드는 선거]]></title>
-        <id>https://v.daum.net/v/20240328185433910</id>
-        <link href="https://v.daum.net/v/20240328185433910"/>
-        <updated>2024-03-28T10:16:24.575Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">18:54</span>]]></content>
     </entry>
 </feed>
