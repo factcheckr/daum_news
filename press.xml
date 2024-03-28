@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-03-28T10:16:39.482Z</updated>
+    <updated>2024-03-28T11:13:49.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Statement from the shareholders of Thames Water]]></title>
+        <id>https://v.daum.net/v/20240328193325690</id>
+        <link href="https://v.daum.net/v/20240328193325690"/>
+        <updated>2024-03-28T11:13:39.552Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">19:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여주시, 2024년 일자리대책 세부계획 공시]]></title>
         <id>https://v.daum.net/v/20240328182141072</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240328173705501"/>
         <updated>2024-03-28T09:16:03.429Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바노바기 코스메틱, 방콕 최대 쇼핑몰에서 브랜드 앰버서더들과 블랙 마스크 론칭 행사 진행]]></title>
-        <id>https://v.daum.net/v/20240328172702126</id>
-        <link href="https://v.daum.net/v/20240328172702126"/>
-        <updated>2024-03-28T09:16:03.434Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:27</span>]]></content>
     </entry>
 </feed>
