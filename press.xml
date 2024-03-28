@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-03-28T13:22:06.106Z</updated>
+    <updated>2024-03-28T14:16:42.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Trina Solar Powers New Zealand's Largest Solar Farm]]></title>
+        <id>https://v.daum.net/v/20240328222604035</id>
+        <link href="https://v.daum.net/v/20240328222604035"/>
+        <updated>2024-03-28T14:16:32.872Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">22:26</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] Statement from the shareholders of Thames Water]]></title>
         <id>https://v.daum.net/v/20240328193325690</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240328173926568"/>
         <updated>2024-03-28T09:16:03.427Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] Jereh Group, 베이징 cippe서 혁신적인 유해 폐기물 처리 장비 공개]]></title>
-        <id>https://v.daum.net/v/20240328173705501</id>
-        <link href="https://v.daum.net/v/20240328173705501"/>
-        <updated>2024-03-28T09:16:03.429Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:37</span>]]></content>
     </entry>
 </feed>
