@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-03-29T21:14:48.162Z</updated>
+    <updated>2024-03-29T22:15:06.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“중국인 연수단 K-뷰티 체험하고 일본 대학생들 K-에듀 열공하고”…영진전문대에 한류 바람]]></title>
+        <id>https://v.daum.net/v/20240330071207990</id>
+        <link href="https://v.daum.net/v/20240330071207990"/>
+        <updated>2024-03-29T22:14:49.954Z</updated>
+        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">07:12</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[만나보니] "내 아들처럼 불행한 일 겪으면 누가 소방관 되겠습니까?"]]></title>
+        <id>https://v.daum.net/v/20240330070742960</id>
+        <link href="https://v.daum.net/v/20240330070742960"/>
+        <updated>2024-03-29T22:14:49.956Z</updated>
+        <content type="html"><![CDATA[대구MBC<span class="txt_bar"> · </span><span class="info_time">07:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[특파원 칼럼] 시진핑의 투자 호소, 남 일이 아니다]]></title>
         <id>https://v.daum.net/v/20240330060157277</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240330040313673"/>
         <updated>2024-03-29T19:17:24.057Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 범죄 혐의 없는데도 “대통령 탄핵”이 너도나도 선거 구호]]></title>
-        <id>https://v.daum.net/v/20240330032609616</id>
-        <link href="https://v.daum.net/v/20240330032609616"/>
-        <updated>2024-03-29T19:17:24.059Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 학생 딸 ‘사업 자금’ 대출로 강남에 영끌, 당선권 ‘대출 사기’ 후보]]></title>
-        <id>https://v.daum.net/v/20240330032411615</id>
-        <link href="https://v.daum.net/v/20240330032411615"/>
-        <updated>2024-03-29T19:17:24.060Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:24</span>]]></content>
     </entry>
 </feed>
