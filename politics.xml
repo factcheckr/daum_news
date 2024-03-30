@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2024-03-30T17:12:58.298Z</updated>
+    <updated>2024-03-30T18:19:27.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이재명 “尹정권 대체 무엇 했는가. 차라리 놀았으면 나은데 나라 망쳤지 않았나”]]></title>
+        <id>https://v.daum.net/v/20240331030408914</id>
+        <link href="https://v.daum.net/v/20240331030408914"/>
+        <updated>2024-03-30T18:18:24.084Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">03:04</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조국 “한동훈, 헛꿈 깨라고 말씀드리고 싶다”]]></title>
         <id>https://v.daum.net/v/20240331020424847</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240331001000461"/>
         <updated>2024-03-30T15:14:59.847Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명 “尹 가까운 사람이라고 평가되는 지역서 국힘 열세”]]></title>
-        <id>https://v.daum.net/v/20240331000343424</id>
-        <link href="https://v.daum.net/v/20240331000343424"/>
-        <updated>2024-03-30T15:14:59.849Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
     </entry>
 </feed>
