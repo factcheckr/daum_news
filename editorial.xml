@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-03-29T23:14:57.913Z</updated>
+    <updated>2024-03-30T01:00:00.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가장 낮게 기대하고, 가장 높게 발원하기]]></title>
+        <id>https://v.daum.net/v/20240330083002701</id>
+        <link href="https://v.daum.net/v/20240330083002701"/>
+        <updated>2024-03-30T00:59:45.337Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">08:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[김회룡의 시사 TOON]]]></title>
         <id>https://v.daum.net/v/20240330080202485</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240330040413674"/>
         <updated>2024-03-29T19:17:24.056Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 큰 아쉬움 남는 이종섭 대사의 뒤늦은 사퇴]]></title>
-        <id>https://v.daum.net/v/20240330040313673</id>
-        <link href="https://v.daum.net/v/20240330040313673"/>
-        <updated>2024-03-29T19:17:24.057Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:03</span>]]></content>
     </entry>
 </feed>
