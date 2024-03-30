@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-03-30T13:19:53.621Z</updated>
+    <updated>2024-03-30T14:13:15.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['인기폭발' 우주항공청, 보수·혜택 뭐기에[우주이야기]]]></title>
+        <id>https://v.daum.net/v/20240330230007146</id>
+        <link href="https://v.daum.net/v/20240330230007146"/>
+        <updated>2024-03-30T14:12:54.299Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["사무실 나오고 싶지?"…궁전같은 구글 뉴욕 본사 [SNS&]]]></title>
         <id>https://v.daum.net/v/20240330221610925</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240330173602382"/>
         <updated>2024-03-30T09:13:54.775Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">17:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차트 분석을 위한 모니터, 선택부터 구성까지 어떻게?]]></title>
-        <id>https://v.daum.net/v/20240330173302351</id>
-        <link href="https://v.daum.net/v/20240330173302351"/>
-        <updated>2024-03-30T09:13:54.777Z</updated>
-        <content type="html"><![CDATA[IT동아<span class="txt_bar"> · </span><span class="info_time">17:33</span>]]></content>
     </entry>
 </feed>
