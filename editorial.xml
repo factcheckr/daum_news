@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-03-30T08:24:30.810Z</updated>
+    <updated>2024-03-30T09:14:20.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[만평] 내가 제일 잘나가?]]></title>
+        <id>https://v.daum.net/v/20240330180601720</id>
+        <link href="https://v.daum.net/v/20240330180601720"/>
+        <updated>2024-03-30T09:14:04.691Z</updated>
+        <content type="html"><![CDATA[오마이뉴스<span class="txt_bar"> · </span><span class="info_time">18:06</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘조국 신당’은 뜨고, ‘이준석 신당’은 뜨지 못한 이유 [최병천의 인사이트]]]></title>
         <id>https://v.daum.net/v/20240330160202259</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240330043124748</id>
         <link href="https://v.daum.net/v/20240330043124748"/>
         <updated>2024-03-29T20:19:55.463Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 잇단 투기 의혹, 해명도 못하는 후보들 뽑아야 하나]]></title>
-        <id>https://v.daum.net/v/20240330043121746</id>
-        <link href="https://v.daum.net/v/20240330043121746"/>
-        <updated>2024-03-29T20:19:55.465Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:31</span>]]></content>
     </entry>
 </feed>
