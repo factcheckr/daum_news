@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2024-03-30T18:19:27.252Z</updated>
+    <updated>2024-03-30T19:12:45.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[민주, 한동훈·이수정 직격…“국민 눈높이에 맞는 언행하라”]]></title>
+        <id>https://v.daum.net/v/20240331040718945</id>
+        <link href="https://v.daum.net/v/20240331040718945"/>
+        <updated>2024-03-30T19:11:47.204Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">04:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“별 하나 조국, 별 넷 이재명···찬란한 후보들” 이·조연대 직격한 배현진]]></title>
+        <id>https://v.daum.net/v/20240331032018921</id>
+        <link href="https://v.daum.net/v/20240331032018921"/>
+        <updated>2024-03-30T19:11:47.205Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">03:20</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이재명 “尹정권 대체 무엇 했는가. 차라리 놀았으면 나은데 나라 망쳤지 않았나”]]></title>
         <id>https://v.daum.net/v/20240331030408914</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240331003000533"/>
         <updated>2024-03-30T16:17:50.797Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[동행취재] '달콤쌉싸름한' 민심 청취한 주진우…'주꺽마' 외치며 승리 약속]]></title>
-        <id>https://v.daum.net/v/20240331002000491</id>
-        <link href="https://v.daum.net/v/20240331002000491"/>
-        <updated>2024-03-30T16:17:50.799Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">00:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[현장] '77 노구' 손학규, 정치양극화에 떨쳐일어섰다…"김병민은 옳은 사람"]]></title>
-        <id>https://v.daum.net/v/20240331001000461</id>
-        <link href="https://v.daum.net/v/20240331001000461"/>
-        <updated>2024-03-30T15:14:59.847Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
     </entry>
 </feed>

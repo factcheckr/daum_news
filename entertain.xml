@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2024-03-30T18:19:27.253Z</updated>
+    <updated>2024-03-30T19:12:45.684Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기안84, 이번엔 하프 마라톤 완주…진선규·션도 동참]]></title>
+        <id>https://v.daum.net/v/20240331040002936</id>
+        <link href="https://v.daum.net/v/20240331040002936"/>
+        <updated>2024-03-30T19:12:14.654Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["NO 왁싱으로 간다"…김종국·양세찬, '팬츠리스룩' 도전?]]></title>
         <id>https://v.daum.net/v/20240331030907917</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240331005858634"/>
         <updated>2024-03-30T16:18:23.579Z</updated>
         <content type="html"><![CDATA[MBC연예<span class="txt_bar"> · </span><span class="info_time">00:58</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나선욱, 풍자에 스킨십+호감 표현 “난 누나 싫지 않아”(전참시)]]></title>
-        <id>https://v.daum.net/v/20240331005026606</id>
-        <link href="https://v.daum.net/v/20240331005026606"/>
-        <updated>2024-03-30T16:18:23.580Z</updated>
-        <content type="html"><![CDATA[뉴스엔<span class="txt_bar"> · </span><span class="info_time">00:50</span>]]></content>
     </entry>
 </feed>

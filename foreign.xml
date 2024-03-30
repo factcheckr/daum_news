@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/foreign</id>
     <title>다음 뉴스 ─ 전체기사 ─ 국제</title>
-    <updated>2024-03-30T18:19:27.243Z</updated>
+    <updated>2024-03-30T19:12:45.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빅터차 "러, 전문가패널 중단으로 대북제재 영구해체 착수"]]></title>
+        <id>https://v.daum.net/v/20240331040532943</id>
+        <link href="https://v.daum.net/v/20240331040532943"/>
+        <updated>2024-03-30T19:12:02.395Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">04:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AT&T “고객 7천3백만여 명 개인데이터 다크웹에 유출”]]></title>
+        <id>https://v.daum.net/v/20240331034536934</id>
+        <link href="https://v.daum.net/v/20240331034536934"/>
+        <updated>2024-03-30T19:12:02.396Z</updated>
+        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">03:45</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세계 최대 '콘텐츠 융합 기술 축제'에 선보인 K-기술]]></title>
+        <id>https://v.daum.net/v/20240331032814927</id>
+        <link href="https://v.daum.net/v/20240331032814927"/>
+        <updated>2024-03-30T19:12:02.398Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">03:28</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["이스라엘-하마스 휴전 협상 31일 카이로서 재개"]]></title>
         <id>https://v.daum.net/v/20240331023600891</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240331020243838"/>
         <updated>2024-03-30T17:12:06.441Z</updated>
         <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">02:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Britain Soccer Premier League]]></title>
-        <id>https://v.daum.net/v/20240331020149832</id>
-        <link href="https://v.daum.net/v/20240331020149832"/>
-        <updated>2024-03-30T17:12:06.443Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">02:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대러 경제제재 놓고 스위스 내부 이견 분출]]></title>
-        <id>https://v.daum.net/v/20240331015843814</id>
-        <link href="https://v.daum.net/v/20240331015843814"/>
-        <updated>2024-03-30T17:12:06.444Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">01:58</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Britain Soccer Premier League]]></title>
-        <id>https://v.daum.net/v/20240331015324811</id>
-        <link href="https://v.daum.net/v/20240331015324811"/>
-        <updated>2024-03-30T17:12:06.446Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">01:53</span>]]></content>
     </entry>
 </feed>
