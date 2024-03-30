@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-03-30T09:14:20.666Z</updated>
+    <updated>2024-03-30T10:15:29.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[이원석 교수의 익명정보⑤] '데이터 트윈' 기반 '지능화 사회' 구현해야]]></title>
+        <id>https://v.daum.net/v/20240330183845051</id>
+        <link href="https://v.daum.net/v/20240330183845051"/>
+        <updated>2024-03-30T10:15:16.258Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">18:38</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국민만 바라본 대통령의 10대 결단]]></title>
+        <id>https://v.daum.net/v/20240330183014967</id>
+        <link href="https://v.daum.net/v/20240330183014967"/>
+        <updated>2024-03-30T10:15:16.260Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">18:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[만평] 내가 제일 잘나가?]]></title>
         <id>https://v.daum.net/v/20240330180601720</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240330060157277"/>
         <updated>2024-03-29T21:14:32.024Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">06:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[배충식의 모빌토피아]하늘 나는 자동차, UAM]]></title>
-        <id>https://v.daum.net/v/20240330053020992</id>
-        <link href="https://v.daum.net/v/20240330053020992"/>
-        <updated>2024-03-29T21:14:32.025Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봄에 누리는 보약, 바지락 영양죽 [休·味·樂(휴·미·락)]]]></title>
-        <id>https://v.daum.net/v/20240330043124748</id>
-        <link href="https://v.daum.net/v/20240330043124748"/>
-        <updated>2024-03-29T20:19:55.463Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:31</span>]]></content>
     </entry>
 </feed>
