@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-03-31T13:18:28.442Z</updated>
+    <updated>2024-03-31T14:13:08.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['용인반도체 클러스터' 핵심 기반시설 공사 "원활"]]></title>
+        <id>https://v.daum.net/v/20240331225959873</id>
+        <link href="https://v.daum.net/v/20240331225959873"/>
+        <updated>2024-03-31T14:12:59.217Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">22:59</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경기도미술관, 2024 봄맞이 '공원탐험 피크닉' 프로그램 운영]]></title>
+        <id>https://v.daum.net/v/20240331221941529</id>
+        <link href="https://v.daum.net/v/20240331221941529"/>
+        <updated>2024-03-31T14:12:59.219Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">22:19</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BPA, 임직원·협력업체 대상 중대재해 예방 특별 안전교육 실시]]></title>
         <id>https://v.daum.net/v/20240331180824004</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240331094137812"/>
         <updated>2024-03-31T01:07:44.721Z</updated>
         <content type="html"><![CDATA[대구MBC<span class="txt_bar"> · </span><span class="info_time">09:41</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대구문예진흥원, '예술로 대구' 참여 예술인 모집]]></title>
-        <id>https://v.daum.net/v/20240331094112807</id>
-        <link href="https://v.daum.net/v/20240331094112807"/>
-        <updated>2024-03-31T01:07:44.723Z</updated>
-        <content type="html"><![CDATA[대구MBC<span class="txt_bar"> · </span><span class="info_time">09:41</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현대자동차, 고성능 차량 기반의 ‘아이오닉 5 N eN1 컵 카’ 공개]]></title>
-        <id>https://v.daum.net/v/20240331092703588</id>
-        <link href="https://v.daum.net/v/20240331092703588"/>
-        <updated>2024-03-31T01:07:44.724Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">09:27</span>]]></content>
     </entry>
 </feed>
