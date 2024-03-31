@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2024-03-31T19:13:08.367Z</updated>
+    <updated>2024-03-31T20:16:13.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김민규, 오늘(1일) 군복무 시작...'비공개' 입소]]></title>
+        <id>https://v.daum.net/v/20240401051031493</id>
+        <link href="https://v.daum.net/v/20240401051031493"/>
+        <updated>2024-03-31T20:15:36.339Z</updated>
+        <content type="html"><![CDATA[TV리포트<span class="txt_bar"> · </span><span class="info_time">05:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한가인도 조보아도…배우들이 샤워·머리감기 미루는 예능 [RE:TV]]]></title>
+        <id>https://v.daum.net/v/20240401050033255</id>
+        <link href="https://v.daum.net/v/20240401050033255"/>
+        <updated>2024-03-31T20:15:36.344Z</updated>
+        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">05:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인디밴드 페퍼톤스, 20주년 앨범 ‘트웬티 플렌티’ 17일 발매]]></title>
         <id>https://v.daum.net/v/20240401040345950</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240401002809431"/>
         <updated>2024-03-31T16:16:54.608Z</updated>
         <content type="html"><![CDATA[OSEN<span class="txt_bar"> · </span><span class="info_time">00:28</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['하이드' 이청아, 이보영에 두 얼굴 드러냈다 '섬뜩' [종합]]]></title>
-        <id>https://v.daum.net/v/20240401002110413</id>
-        <link href="https://v.daum.net/v/20240401002110413"/>
-        <updated>2024-03-31T16:16:54.609Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스<span class="txt_bar"> · </span><span class="info_time">00:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라미란, 류혜영 '며느리' 욕심?…子에 "저 누나랑 결혼해야 돼" (텐트 밖은 유럽)[종합]]]></title>
-        <id>https://v.daum.net/v/20240401001954405</id>
-        <link href="https://v.daum.net/v/20240401001954405"/>
-        <updated>2024-03-31T16:16:54.611Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스<span class="txt_bar"> · </span><span class="info_time">00:19</span>]]></content>
     </entry>
 </feed>
