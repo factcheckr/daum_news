@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-04-02T10:17:28.489Z</updated>
+    <updated>2024-04-02T11:13:58.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] XTX마켓츠, 인공지능 수학 올림피아드 참가자 초청]]></title>
+        <id>https://v.daum.net/v/20240402201122312</id>
+        <link href="https://v.daum.net/v/20240402201122312"/>
+        <updated>2024-04-02T11:13:51.239Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:11</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[AsiaNet] Xinhua Silk Road: '중국 바이주의 수도'에서 마라톤 열려]]></title>
         <id>https://v.daum.net/v/20240402184413231</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240402171627675"/>
         <updated>2024-04-02T09:16:01.746Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TGV, 최고경영자로 베아트리체 라이언 임명… 28세 젊은 수장이 이끈다]]></title>
-        <id>https://v.daum.net/v/20240402170704353</id>
-        <link href="https://v.daum.net/v/20240402170704353"/>
-        <updated>2024-04-02T09:16:01.747Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:07</span>]]></content>
     </entry>
 </feed>
