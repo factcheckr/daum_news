@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-04-03T10:17:29.469Z</updated>
+    <updated>2024-04-03T11:13:50.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대만 매체 “TSMC 일부 가동중단”...강진에 반도체 업계 초긴장]]></title>
+        <id>https://v.daum.net/v/20240403195738178</id>
+        <link href="https://v.daum.net/v/20240403195738178"/>
+        <updated>2024-04-03T11:13:22.020Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">19:57</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“다신 보지 말자” 끔찍한 이 벌레…덕분에 떼돈 번 회사도 있다니]]></title>
+        <id>https://v.daum.net/v/20240403195135063</id>
+        <link href="https://v.daum.net/v/20240403195135063"/>
+        <updated>2024-04-03T11:13:22.021Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">19:51</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["스포츠AI·빅데이터, 미래산업 혁신 이끈다" 학회창립 기념 학술대회]]></title>
+        <id>https://v.daum.net/v/20240403192958674</id>
+        <link href="https://v.daum.net/v/20240403192958674"/>
+        <updated>2024-04-03T11:13:22.022Z</updated>
+        <content type="html"><![CDATA[스포츠조선<span class="txt_bar"> · </span><span class="info_time">19:29</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[데이터법정책학회·김·장, 8일 ‘EU 인공지능법’ 웨비나]]></title>
         <id>https://v.daum.net/v/20240403191626416</id>
@@ -13,7 +34,7 @@
         <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">19:16</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[네이버, 사내독립기업 없앤다…9년만의 조직 개편]]></title>
+        <title type="html"><![CDATA[네이버, AI 대응 위해 조직 개편…사내독립기업 싹 없앤다]]></title>
         <id>https://v.daum.net/v/20240403191505387</id>
         <link href="https://v.daum.net/v/20240403191505387"/>
         <updated>2024-04-03T10:17:05.388Z</updated>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240403183808622"/>
         <updated>2024-04-03T10:17:05.399Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">18:38</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[업스테이지, 노코드 LLM 평가 플랫폼 오픈소스 공개]]></title>
-        <id>https://v.daum.net/v/20240403183532574</id>
-        <link href="https://v.daum.net/v/20240403183532574"/>
-        <updated>2024-04-03T10:17:05.401Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">18:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尹 온종일 기다렸지만…오늘 전공의 만나기 어려울 듯]]></title>
-        <id>https://v.daum.net/v/20240403183508568</id>
-        <link href="https://v.daum.net/v/20240403183508568"/>
-        <updated>2024-04-03T10:17:05.402Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이창윤 차관 "R&D 예산, 양적 팽창보다 구조조정 취지 맞게 마련"]]></title>
-        <id>https://v.daum.net/v/20240403183233516</id>
-        <link href="https://v.daum.net/v/20240403183233516"/>
-        <updated>2024-04-03T10:17:05.404Z</updated>
-        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">18:32</span>]]></content>
     </entry>
 </feed>
