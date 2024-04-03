@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-04-03T04:19:08.081Z</updated>
+    <updated>2024-04-03T05:17:09.218Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[더 많은 고민이 필요합니다[편집실에서]]]></title>
+        <id>https://v.daum.net/v/20240403141403229</id>
+        <link href="https://v.daum.net/v/20240403141403229"/>
+        <updated>2024-04-03T05:16:53.191Z</updated>
+        <content type="html"><![CDATA[주간경향<span class="txt_bar"> · </span><span class="info_time">14:14</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[의대 증원, 최소 규모로 시작… 필수의료 전공자 증가 효과 확인 후 조정을]]></title>
+        <id>https://v.daum.net/v/20240403133652613</id>
+        <link href="https://v.daum.net/v/20240403133652613"/>
+        <updated>2024-04-03T05:16:53.191Z</updated>
+        <content type="html"><![CDATA[헬스조선<span class="txt_bar"> · </span><span class="info_time">13:36</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[기고] 기후변화에 대응하는  'GAP(농산물우수관리)']]></title>
         <id>https://v.daum.net/v/20240403131426002</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240403114534905"/>
         <updated>2024-04-03T03:17:31.208Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1주 뒤 총선, 한국경제 운명도 가른다[이관범의 시론]]]></title>
-        <id>https://v.daum.net/v/20240403114526895</id>
-        <link href="https://v.daum.net/v/20240403114526895"/>
-        <updated>2024-04-03T03:17:31.209Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[판치는 막말 후보 걸러낼 유권자 책임[포럼]]]></title>
-        <id>https://v.daum.net/v/20240403114214736</id>
-        <link href="https://v.daum.net/v/20240403114214736"/>
-        <updated>2024-04-03T03:17:31.211Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:42</span>]]></content>
     </entry>
 </feed>
