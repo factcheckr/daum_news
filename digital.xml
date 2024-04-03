@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-04-03T13:20:25.110Z</updated>
+    <updated>2024-04-03T14:14:52.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘미르2’ IP 소송 마침표]]></title>
+        <id>https://v.daum.net/v/20240403230208790</id>
+        <link href="https://v.daum.net/v/20240403230208790"/>
+        <updated>2024-04-03T14:14:29.364Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">23:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7개국 해외송금 플랫폼 구축…예금토큰·스마트계약 활용]]></title>
+        <id>https://v.daum.net/v/20240403230028772</id>
+        <link href="https://v.daum.net/v/20240403230028772"/>
+        <updated>2024-04-03T14:14:29.365Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[동영상] 움직이는 피카츄의 유혹과 타이토 인형!]]></title>
+        <id>https://v.daum.net/v/20240403225102711</id>
+        <link href="https://v.daum.net/v/20240403225102711"/>
+        <updated>2024-04-03T14:14:29.365Z</updated>
+        <content type="html"><![CDATA[게임동아<span class="txt_bar"> · </span><span class="info_time">22:51</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삼성전자, 알아서 챙겨주는 '비스포크 AI' 가전 생태계 선보여]]></title>
         <id>https://v.daum.net/v/20240403221801485</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240403210709351"/>
         <updated>2024-04-03T12:30:26.284Z</updated>
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">21:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이상민 후보 "대통령실 내년 R&D 예산 역대 최대 편성" 환영]]></title>
-        <id>https://v.daum.net/v/20240403210028244</id>
-        <link href="https://v.daum.net/v/20240403210028244"/>
-        <updated>2024-04-03T12:30:26.285Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">21:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이창윤 과기정통부 차관 "올 상반기 출연연 종합 육성방안 발표”]]></title>
-        <id>https://v.daum.net/v/20240403202109589</id>
-        <link href="https://v.daum.net/v/20240403202109589"/>
-        <updated>2024-04-03T12:30:26.286Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">20:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“TSMC 일부 가동 중단”... 세계 반도체 업계, 대만 강진 피해 초긴장]]></title>
-        <id>https://v.daum.net/v/20240403195738178</id>
-        <link href="https://v.daum.net/v/20240403195738178"/>
-        <updated>2024-04-03T11:13:22.020Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">19:57</span>]]></content>
     </entry>
 </feed>
