@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2024-04-04T16:19:29.274Z</updated>
+    <updated>2024-04-04T17:13:43.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[광고 급감 X, 인플루언서 끌어안기…무료 구독·인증마크 제공]]></title>
+        <id>https://v.daum.net/v/20240405020425127</id>
+        <link href="https://v.daum.net/v/20240405020425127"/>
+        <updated>2024-04-04T17:12:42.640Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">02:04</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TSMC "공장설비 80% 복구, 완전 회복에는 시간 더 필요"]]></title>
+        <id>https://v.daum.net/v/20240405015841111</id>
+        <link href="https://v.daum.net/v/20240405015841111"/>
+        <updated>2024-04-04T17:12:42.647Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">01:58</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美에 HBM공장 짓는 SK하이닉스, 최대 9200억원 인센티브 받는다]]></title>
         <id>https://v.daum.net/v/20240405011107941</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240405001225681"/>
         <updated>2024-04-04T15:18:45.367Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Editor’s Note] 대만만 흔들린 게 아니다…빅테크 전쟁 ‘TSMC 변수’]]></title>
-        <id>https://v.daum.net/v/20240405001224680</id>
-        <link href="https://v.daum.net/v/20240405001224680"/>
-        <updated>2024-04-04T15:18:45.368Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포드 “신형전기차 SUV·트럭 양산 연기”… 국내 배터리 업계도 영향]]></title>
-        <id>https://v.daum.net/v/20240405001217679</id>
-        <link href="https://v.daum.net/v/20240405001217679"/>
-        <updated>2024-04-04T15:18:45.368Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">00:12</span>]]></content>
     </entry>
 </feed>
