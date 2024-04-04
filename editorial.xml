@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-04-04T03:19:01.154Z</updated>
+    <updated>2024-04-04T04:19:56.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한 총리 “투표소 불법행위 투표권 저해 엄정처리” 지시]]></title>
+        <id>https://v.daum.net/v/20240404125604212</id>
+        <link href="https://v.daum.net/v/20240404125604212"/>
+        <updated>2024-04-04T04:19:38.734Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">12:56</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[언스타그램]사하라 사람들이 사진을 좋아한 이유]]></title>
         <id>https://v.daum.net/v/20240404120204106</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240404112147388"/>
         <updated>2024-04-04T02:27:03.474Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">11:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[칼럼]대만 지진에 전 세계가 놀란 진짜 이유 ' TSMC']]></title>
-        <id>https://v.daum.net/v/20240404111805219</id>
-        <link href="https://v.daum.net/v/20240404111805219"/>
-        <updated>2024-04-04T02:27:03.477Z</updated>
-        <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">11:18</span>]]></content>
     </entry>
 </feed>
