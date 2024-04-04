@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-04-04T02:27:20.153Z</updated>
+    <updated>2024-04-04T03:19:01.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서울 도원동 도원삼성래미안 84㎡ 11억5000만원에 거래]]></title>
+        <id>https://v.daum.net/v/20240404121543428</id>
+        <link href="https://v.daum.net/v/20240404121543428"/>
+        <updated>2024-04-04T03:19:00.459Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울 아현동 마포래미안푸르지오 84㎡ 18억원에 거래]]></title>
+        <id>https://v.daum.net/v/20240404120652287</id>
+        <link href="https://v.daum.net/v/20240404120652287"/>
+        <updated>2024-04-04T03:19:00.462Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:06</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울 신당동 신당남산타운(분양) 59㎡ 7억2000만원에 거래]]></title>
+        <id>https://v.daum.net/v/20240404120057013</id>
+        <link href="https://v.daum.net/v/20240404120057013"/>
+        <updated>2024-04-04T03:19:00.464Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서희건설 수주공시 - 화성비봉 지역주택조합 아파트 신축공사 2,577.9억원 (매출액대비  17.88 %)]]></title>
         <id>https://v.daum.net/v/20240404112107369</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240404091810310"/>
         <updated>2024-04-04T01:03:33.742Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['제룡전기' 52주 신고가 경신, 작은 거인]]></title>
-        <id>https://v.daum.net/v/20240404091611243</id>
-        <link href="https://v.daum.net/v/20240404091611243"/>
-        <updated>2024-04-04T01:03:33.743Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['로체시스템즈' 52주 신고가 경신, 전일 외국인 대량 순매수]]></title>
-        <id>https://v.daum.net/v/20240404091507209</id>
-        <link href="https://v.daum.net/v/20240404091507209"/>
-        <updated>2024-04-04T01:03:33.745Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['씨앤씨인터내셔널' 52주 신고가 경신, 넘쳐나는 곳간이 훈훈 - DB금융투자, BUY]]></title>
-        <id>https://v.daum.net/v/20240404091410176</id>
-        <link href="https://v.daum.net/v/20240404091410176"/>
-        <updated>2024-04-04T01:03:33.746Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:14</span>]]></content>
     </entry>
 </feed>
