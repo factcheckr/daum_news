@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-04-05T02:24:09.201Z</updated>
+    <updated>2024-04-05T03:19:08.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서울 암사동 강동롯데캐슬퍼스트아파트 84㎡ 12억5000만원에 거래]]></title>
+        <id>https://v.daum.net/v/20240405121549961</id>
+        <link href="https://v.daum.net/v/20240405121549961"/>
+        <updated>2024-04-05T03:19:07.484Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울 잠실동 잠실동트리지움 59㎡ 19억원에 거래]]></title>
+        <id>https://v.daum.net/v/20240405121038758</id>
+        <link href="https://v.daum.net/v/20240405121038758"/>
+        <updated>2024-04-05T03:19:07.485Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울 서빙고동 서빙고신동아 140㎡ 33억원에 거래]]></title>
+        <id>https://v.daum.net/v/20240405120613604</id>
+        <link href="https://v.daum.net/v/20240405120613604"/>
+        <updated>2024-04-05T03:19:07.487Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:06</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['HB테크놀러지' 52주 신고가 경신, 글라스기판이 가져올 새로운 기회]]></title>
         <id>https://v.daum.net/v/20240405111205997</id>
@@ -87,27 +108,6 @@
         <id>https://v.daum.net/v/20240405091022937</id>
         <link href="https://v.daum.net/v/20240405091022937"/>
         <updated>2024-04-05T01:03:27.777Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['가온전선' 52주 신고가 경신, 외국인 3일 연속 순매수(12.1만주)]]></title>
-        <id>https://v.daum.net/v/20240405091018936</id>
-        <link href="https://v.daum.net/v/20240405091018936"/>
-        <updated>2024-04-05T01:03:27.780Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['일진전기' 52주 신고가 경신, 먼저 누리는 설비증설 효과]]></title>
-        <id>https://v.daum.net/v/20240405091016935</id>
-        <link href="https://v.daum.net/v/20240405091016935"/>
-        <updated>2024-04-05T01:03:27.780Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['테크윙' 52주 신고가 경신, CUBE Prober CAPA 증설 시작 - 현대차증권, BUY]]></title>
-        <id>https://v.daum.net/v/20240405091015933</id>
-        <link href="https://v.daum.net/v/20240405091015933"/>
-        <updated>2024-04-05T01:03:27.785Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:10</span>]]></content>
     </entry>
 </feed>
