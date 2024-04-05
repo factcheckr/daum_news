@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-04-05T09:15:31.857Z</updated>
+    <updated>2024-04-05T10:17:24.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AI-미디어, AI 기반 ‘LEXI Tool Kit’ 통해 미디어기업 DAZN의 캡션 서비스에 혁신을 가져오다]]></title>
+        <id>https://v.daum.net/v/20240405184703650</id>
+        <link href="https://v.daum.net/v/20240405184703650"/>
+        <updated>2024-04-05T10:17:17.295Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">18:47</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[AsiaNet] 오사카 우메키타 2차 프로젝트 구역 상업 시설 명칭 확정]]></title>
+        <id>https://v.daum.net/v/20240405183655421</id>
+        <link href="https://v.daum.net/v/20240405183655421"/>
+        <updated>2024-04-05T10:17:17.297Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">18:36</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HDC현대산업개발, 대구 범어 아이파크 견본주택 오픈…본격 분양 돌입]]></title>
         <id>https://v.daum.net/v/20240405181011840</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240405163936122"/>
         <updated>2024-04-05T09:15:24.139Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부산진구, 어린이날 기념 팝업 숲밧줄놀이터 행사 개최]]></title>
-        <id>https://v.daum.net/v/20240405163914115</id>
-        <link href="https://v.daum.net/v/20240405163914115"/>
-        <updated>2024-04-05T09:15:24.141Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[평택시, 보건소 건강 체조 성황리에 운영 중]]></title>
-        <id>https://v.daum.net/v/20240405163726075</id>
-        <link href="https://v.daum.net/v/20240405163726075"/>
-        <updated>2024-04-05T09:15:24.142Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:37</span>]]></content>
     </entry>
 </feed>
