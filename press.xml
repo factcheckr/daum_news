@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-04-05T03:19:08.104Z</updated>
+    <updated>2024-04-05T04:21:15.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ABB, 동남아시아 최대 수상 태양광 발전소에 안정적인 전력 공급 강화]]></title>
+        <id>https://v.daum.net/v/20240405122703279</id>
+        <link href="https://v.daum.net/v/20240405122703279"/>
+        <updated>2024-04-05T04:21:08.008Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">12:27</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[보건교육포럼, 푸른아시아와 업무협약 체결]]></title>
         <id>https://v.daum.net/v/20240405120706634</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240405111401093"/>
         <updated>2024-04-05T02:23:58.413Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[군포시, '경기도 단독주택 집수리 지원사업' 신청자 모집]]></title>
-        <id>https://v.daum.net/v/20240405111321059</id>
-        <link href="https://v.daum.net/v/20240405111321059"/>
-        <updated>2024-04-05T02:23:58.414Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:13</span>]]></content>
     </entry>
 </feed>
