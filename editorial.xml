@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-04-06T01:03:27.871Z</updated>
+    <updated>2024-04-06T01:54:23.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[부고] 염영남씨(뉴시스 대표이사 사장) 모친상]]></title>
+        <id>https://v.daum.net/v/20240406104459813</id>
+        <link href="https://v.daum.net/v/20240406104459813"/>
+        <updated>2024-04-06T01:54:05.352Z</updated>
+        <content type="html"><![CDATA[머니S<span class="txt_bar"> · </span><span class="info_time">10:44</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주요 신문 사설](6일 조간)]]></title>
         <id>https://v.daum.net/v/20240406100006215</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240406042005135"/>
         <updated>2024-04-05T20:16:25.026Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">04:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한마당] 대만 지진  반사효과?]]></title>
-        <id>https://v.daum.net/v/20240406041310123</id>
-        <link href="https://v.daum.net/v/20240406041310123"/>
-        <updated>2024-04-05T19:14:09.047Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:13</span>]]></content>
     </entry>
 </feed>
