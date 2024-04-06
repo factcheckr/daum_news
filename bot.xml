@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-04-06T08:18:37.485Z</updated>
+    <updated>2024-04-06T09:15:41.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2024년 04월 06일)]]></title>
+        <id>https://v.daum.net/v/20240406173211337</id>
+        <link href="https://v.daum.net/v/20240406173211337"/>
+        <updated>2024-04-06T09:15:40.525Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:32</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수원 매탄동 매탄현대힐스테이트 84㎡ 5억8900만원에 거래]]></title>
         <id>https://v.daum.net/v/20240406162535617</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240406151530789"/>
         <updated>2024-04-06T06:19:20.136Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">15:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고양 마두동 마두백마마을5단지쌍용한성 70㎡ 5억원에 거래]]></title>
-        <id>https://v.daum.net/v/20240406151029731</id>
-        <link href="https://v.daum.net/v/20240406151029731"/>
-        <updated>2024-04-06T06:19:20.137Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">15:10</span>]]></content>
     </entry>
 </feed>
