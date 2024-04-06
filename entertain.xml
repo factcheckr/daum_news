@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2024-04-06T18:20:35.046Z</updated>
+    <updated>2024-04-06T19:15:05.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송지효 "이 노래 때문에 알바 잘렸다"…어떤 곡이길래]]></title>
+        <id>https://v.daum.net/v/20240407040022507</id>
+        <link href="https://v.daum.net/v/20240407040022507"/>
+        <updated>2024-04-06T19:14:17.139Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[디즈니 '스타워즈' 신작영화·'토이 스토리 5' 2026년 개봉]]></title>
+        <id>https://v.daum.net/v/20240407034305497</id>
+        <link href="https://v.daum.net/v/20240407034305497"/>
+        <updated>2024-04-06T19:14:17.140Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">03:43</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안젤리나 졸리, 15세 딸 비비안과 뮤지컬 프로듀서 데뷔‥개막 준비 함께]]></title>
         <id>https://v.daum.net/v/20240407015214425</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240407003209191"/>
         <updated>2024-04-06T16:18:28.763Z</updated>
         <content type="html"><![CDATA[OSEN<span class="txt_bar"> · </span><span class="info_time">00:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['동치미' 선우은숙·라디오 유영재 이혼 언급 無…파장 지속 [N이슈]]]></title>
-        <id>https://v.daum.net/v/20240407003113185</id>
-        <link href="https://v.daum.net/v/20240407003113185"/>
-        <updated>2024-04-06T16:18:28.764Z</updated>
-        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">00:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피원하모니 기호 ‘후드만 써도 힙한 매력’[포토엔HD]]]></title>
-        <id>https://v.daum.net/v/20240407003000173</id>
-        <link href="https://v.daum.net/v/20240407003000173"/>
-        <updated>2024-04-06T16:18:28.766Z</updated>
-        <content type="html"><![CDATA[뉴스엔<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
     </entry>
 </feed>
