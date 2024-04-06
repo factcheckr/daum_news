@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-04-06T07:14:36.793Z</updated>
+    <updated>2024-04-06T08:18:37.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수원 매탄동 매탄현대힐스테이트 84㎡ 5억8900만원에 거래]]></title>
+        <id>https://v.daum.net/v/20240406162535617</id>
+        <link href="https://v.daum.net/v/20240406162535617"/>
+        <updated>2024-04-06T08:18:36.858Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">16:25</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수원 영통동 영통벽적골두산한신 59㎡ 4억3500만원에 거래]]></title>
+        <id>https://v.daum.net/v/20240406162032533</id>
+        <link href="https://v.daum.net/v/20240406162032533"/>
+        <updated>2024-04-06T08:18:36.864Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">16:20</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[용인 상갈동 금화마을주공3단지 49㎡ 3억4500만원에 거래]]></title>
+        <id>https://v.daum.net/v/20240406161545474</id>
+        <link href="https://v.daum.net/v/20240406161545474"/>
+        <updated>2024-04-06T08:18:36.865Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">16:15</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인천 동춘동 동춘풍림2차아파트 45㎡ 2억5000만원에 거래]]></title>
         <id>https://v.daum.net/v/20240406160539356</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240406151029731"/>
         <updated>2024-04-06T06:19:20.137Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">15:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 매탄동 매탄현대힐스테이트 75㎡ 5억7000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20240406150537642</id>
-        <link href="https://v.daum.net/v/20240406150537642"/>
-        <updated>2024-04-06T06:19:20.140Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">15:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성남 서현동 서현시범우성 129㎡ 16억5000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20240406150119564</id>
-        <link href="https://v.daum.net/v/20240406150119564"/>
-        <updated>2024-04-06T06:19:20.141Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">15:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성남 서현동 서현시범현대 59㎡ 9억2600만원에 거래]]></title>
-        <id>https://v.daum.net/v/20240406145538462</id>
-        <link href="https://v.daum.net/v/20240406145538462"/>
-        <updated>2024-04-06T06:19:20.142Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:55</span>]]></content>
     </entry>
 </feed>

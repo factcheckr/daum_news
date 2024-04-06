@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-04-06T07:14:36.800Z</updated>
+    <updated>2024-04-06T08:18:37.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["中, AI로 정보 조작해 한국 선거 개입할 것" 경고]]></title>
+        <id>https://v.daum.net/v/20240406163645718</id>
+        <link href="https://v.daum.net/v/20240406163645718"/>
+        <updated>2024-04-06T08:18:10.059Z</updated>
+        <content type="html"><![CDATA[머니S<span class="txt_bar"> · </span><span class="info_time">16:36</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[웹젠 '썬 클래식', 지역 쟁탈전-점령전 리뉴얼]]></title>
+        <id>https://v.daum.net/v/20240406162216574</id>
+        <link href="https://v.daum.net/v/20240406162216574"/>
+        <updated>2024-04-06T08:18:10.059Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">16:22</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[해긴 '플레이투게더', 산리오캐릭터즈 제휴 콘텐츠 선보여]]></title>
         <id>https://v.daum.net/v/20240406155516229</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240406130117398"/>
         <updated>2024-04-06T04:18:33.587Z</updated>
         <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">13:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과학고→서울대 의대→KAIST…스타트업 뛰어든 과학 영재들]]></title>
-        <id>https://v.daum.net/v/20240406130004355</id>
-        <link href="https://v.daum.net/v/20240406130004355"/>
-        <updated>2024-04-06T04:18:33.588Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">13:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4.10 총선 사전투표 둘째날 정오 투표율 22.01%]]></title>
-        <id>https://v.daum.net/v/20240406124813238</id>
-        <link href="https://v.daum.net/v/20240406124813238"/>
-        <updated>2024-04-06T04:18:33.589Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">12:48</span>]]></content>
     </entry>
 </feed>
