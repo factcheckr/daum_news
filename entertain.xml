@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2024-04-07T19:12:24.180Z</updated>
+    <updated>2024-04-07T20:15:41.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[잭 블랙 "봉준호 감독은 천재…'설국열차' 재밌게 봐" [RE:TV]]]></title>
+        <id>https://v.daum.net/v/20240408050018716</id>
+        <link href="https://v.daum.net/v/20240408050018716"/>
+        <updated>2024-04-07T20:14:51.647Z</updated>
+        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">05:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[입장 밝힌 이정후 "내가 잘못했어.."]]></title>
         <id>https://v.daum.net/v/20240408041024505</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240408003007734"/>
         <updated>2024-04-07T18:17:28.330Z</updated>
         <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘57세’ 김성령, 믿기지 않는 초절정의 ‘동안 외모’]]></title>
-        <id>https://v.daum.net/v/20240408002414721</id>
-        <link href="https://v.daum.net/v/20240408002414721"/>
-        <updated>2024-04-07T18:17:28.332Z</updated>
-        <content type="html"><![CDATA[스포츠서울<span class="txt_bar"> · </span><span class="info_time">00:24</span>]]></content>
     </entry>
 </feed>
