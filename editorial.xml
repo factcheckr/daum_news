@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-04-07T16:18:08.111Z</updated>
+    <updated>2024-04-07T17:14:01.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]불확실성 시대의 통화정책]]></title>
+        <id>https://v.daum.net/v/20240408020503949</id>
+        <link href="https://v.daum.net/v/20240408020503949"/>
+        <updated>2024-04-07T17:13:44.245Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[청계광장]나만의 성공 속도]]></title>
+        <id>https://v.daum.net/v/20240408020303947</id>
+        <link href="https://v.daum.net/v/20240408020303947"/>
+        <updated>2024-04-07T17:13:44.245Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 지금 의료계에 필요한 건 막말이 아니라 합리적 대안이다]]></title>
         <id>https://v.daum.net/v/20240408004031776</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240408002010715"/>
         <updated>2024-04-07T16:17:53.659Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[월요전망대] 한은, 10연속 기준금리 동결 확실시]]></title>
-        <id>https://v.daum.net/v/20240408002008714</id>
-        <link href="https://v.daum.net/v/20240408002008714"/>
-        <updated>2024-04-07T16:17:53.660Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데스크 칼럼] '4류 정치'와의 결별을 위하여]]></title>
-        <id>https://v.daum.net/v/20240408001913711</id>
-        <link href="https://v.daum.net/v/20240408001913711"/>
-        <updated>2024-04-07T16:17:53.662Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:19</span>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2024-04-07T16:18:08.102Z</updated>
+    <updated>2024-04-07T17:14:01.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[尹, 진관사 방문..."종교계의 의료개혁 지지 확인"]]></title>
+        <id>https://v.daum.net/v/20240408012222874</id>
+        <link href="https://v.daum.net/v/20240408012222874"/>
+        <updated>2024-04-07T17:12:44.268Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">01:22</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이재명, 수도권 총력..."회초리로 안 되면 권력 뺏어야"]]></title>
+        <id>https://v.daum.net/v/20240408012212873</id>
+        <link href="https://v.daum.net/v/20240408012212873"/>
+        <updated>2024-04-07T17:12:44.269Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">01:22</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[총선] 이재명, 총선 D-2 서울·인천 격전지 집중 유세]]></title>
         <id>https://v.daum.net/v/20240408010044828</id>
@@ -41,7 +55,7 @@
         <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:37</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“새벽에 투표함 뜯어 용지 투입” 영상 확산…선관위 “전혀 사실 아냐”]]></title>
+        <title type="html"><![CDATA[“새벽에 투표함 뜯어 용지 투입” 영상 확산…선관위 “부정선거? 전혀 사실 아냐”]]></title>
         <id>https://v.daum.net/v/20240408003453754</id>
         <link href="https://v.daum.net/v/20240408003453754"/>
         <updated>2024-04-07T16:16:56.510Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240408001710703"/>
         <updated>2024-04-07T15:17:44.005Z</updated>
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">00:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김준혁에 침묵하는 이대 졸업생 안귀령…김재섭 “도봉구 주민 뒷전이어도 침묵할 듯”]]></title>
-        <id>https://v.daum.net/v/20240408001505686</id>
-        <link href="https://v.daum.net/v/20240408001505686"/>
-        <updated>2024-04-07T15:17:44.005Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">00:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“앗! 후보 잘못 찍었다”…새 투표용지로 바꿔줄까 [총선 팩트체크]]]></title>
-        <id>https://v.daum.net/v/20240408001500683</id>
-        <link href="https://v.daum.net/v/20240408001500683"/>
-        <updated>2024-04-07T15:17:44.030Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">00:15</span>]]></content>
     </entry>
 </feed>
