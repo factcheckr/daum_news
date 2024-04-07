@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-04-07T22:13:50.279Z</updated>
+    <updated>2024-04-07T23:16:34.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](8일 조간)]]></title>
+        <id>https://v.daum.net/v/20240408080004952</id>
+        <link href="https://v.daum.net/v/20240408080004952"/>
+        <updated>2024-04-07T23:16:16.251Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우에다 일본은행(BOJ) 총재 취임 1주년…각국 중앙은행, 엇갈린 피봇 추진한다 [국제경제읽기 한상춘]]]></title>
+        <id>https://v.daum.net/v/20240408072543450</id>
+        <link href="https://v.daum.net/v/20240408072543450"/>
+        <updated>2024-04-07T23:16:16.251Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">07:25</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[총선, 이제 문책(問責)의 시간이다 [신진욱 칼럼]]]></title>
         <id>https://v.daum.net/v/20240408070514250</id>
@@ -13,7 +27,7 @@
         <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">07:05</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[더 한장] 온 산을 휘감은 산벚꽃]]></title>
+        <title type="html"><![CDATA[[더 한장] 늦게 와서 더 설레네...온 산을 휘감은 산벚꽃]]></title>
         <id>https://v.daum.net/v/20240408070132189</id>
         <link href="https://v.daum.net/v/20240408070132189"/>
         <updated>2024-04-07T22:13:36.297Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240408053030050"/>
         <updated>2024-04-07T21:14:35.455Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데스크의눈]22대 국회, 21대 악습 재현하지 않으려면]]></title>
-        <id>https://v.daum.net/v/20240408053017043</id>
-        <link href="https://v.daum.net/v/20240408053017043"/>
-        <updated>2024-04-07T21:14:35.456Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[생생확대경]변죽만 울린 공직 이탈 대책]]></title>
-        <id>https://v.daum.net/v/20240408053004032</id>
-        <link href="https://v.daum.net/v/20240408053004032"/>
-        <updated>2024-04-07T21:14:35.458Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
     </entry>
 </feed>
