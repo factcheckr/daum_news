@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-04-09T10:19:31.419Z</updated>
+    <updated>2024-04-09T11:13:21.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 라이온델바셀, 2023 지속가능성 보고서에 업계 리더십 진전 내용 기술]]></title>
+        <id>https://v.daum.net/v/20240409193703660</id>
+        <link href="https://v.daum.net/v/20240409193703660"/>
+        <updated>2024-04-09T11:13:08.030Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">19:37</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] 래디슨 호텔 그룹, 한국 개발 사무소 개소]]></title>
         <id>https://v.daum.net/v/20240409184754593</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240409164434856"/>
         <updated>2024-04-09T08:19:41.547Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:44</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넥슨 'FC 온라인', 전국 고등학교 반 대항 축구대회 '2024 넥슨 챔피언스 컵' 개최]]></title>
-        <id>https://v.daum.net/v/20240409164410850</id>
-        <link href="https://v.daum.net/v/20240409164410850"/>
-        <updated>2024-04-09T08:19:41.548Z</updated>
-        <content type="html"><![CDATA[스포츠한국<span class="txt_bar"> · </span><span class="info_time">16:44</span>]]></content>
     </entry>
 </feed>
