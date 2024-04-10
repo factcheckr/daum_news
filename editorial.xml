@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-04-10T04:18:03.134Z</updated>
+    <updated>2024-04-10T05:15:02.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[만화] 졸지 강행한 '호캉스' [날백수인생]]]></title>
+        <id>https://v.daum.net/v/20240410132102493</id>
+        <link href="https://v.daum.net/v/20240410132102493"/>
+        <updated>2024-04-10T05:14:44.531Z</updated>
+        <content type="html"><![CDATA[오마이뉴스<span class="txt_bar"> · </span><span class="info_time">13:21</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[더없는 행복을 누리는 자는 누구인가]]></title>
         <id>https://v.daum.net/v/20240410113507900</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240410060222511"/>
         <updated>2024-04-09T21:15:51.668Z</updated>
         <content type="html"><![CDATA[쿠키뉴스<span class="txt_bar"> · </span><span class="info_time">06:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그래도 정치가 필요합니다[편집실에서]]]></title>
-        <id>https://v.daum.net/v/20240410060208504</id>
-        <link href="https://v.daum.net/v/20240410060208504"/>
-        <updated>2024-04-09T21:15:51.668Z</updated>
-        <content type="html"><![CDATA[주간경향<span class="txt_bar"> · </span><span class="info_time">06:02</span>]]></content>
     </entry>
 </feed>

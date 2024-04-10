@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-04-10T04:18:03.117Z</updated>
+    <updated>2024-04-10T05:15:02.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AI-미디어, NAB 2024 무대 통해 향상된 기능의 ‘Lexi Tool Kit’ 공개]]></title>
+        <id>https://v.daum.net/v/20240410134704931</id>
+        <link href="https://v.daum.net/v/20240410134704931"/>
+        <updated>2024-04-10T05:14:53.785Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">13:47</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삼성월렛, 누적 전환율 70% 돌파]]></title>
         <id>https://v.daum.net/v/20240410131704437</id>
@@ -100,13 +107,6 @@
         <title type="html"><![CDATA[퀙텔, 저에너지 소형 커넥티드 기기 전력 공급용 HCM511S 고성능 MCU 블루투스 모듈 공개]]></title>
         <id>https://v.daum.net/v/20240410105705933</id>
         <link href="https://v.daum.net/v/20240410105705933"/>
-        <updated>2024-04-10T01:57:39.044Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">10:57</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quectel unveils its HCM511S high performance MCU Bluetooth module to power Low Energy compact connected devices]]></title>
-        <id>https://v.daum.net/v/20240410105704932</id>
-        <link href="https://v.daum.net/v/20240410105704932"/>
         <updated>2024-04-10T01:57:39.044Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">10:57</span>]]></content>
     </entry>
