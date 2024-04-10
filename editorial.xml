@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-04-10T10:17:56.948Z</updated>
+    <updated>2024-04-10T11:17:47.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[여적]김건희 여사 ‘나홀로 투표’]]></title>
+        <id>https://v.daum.net/v/20240410195408822</id>
+        <link href="https://v.daum.net/v/20240410195408822"/>
+        <updated>2024-04-10T11:17:31.806Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">19:54</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘역대 최악 선거’··· 국민 외면하고 승패만 따졌다]]></title>
+        <id>https://v.daum.net/v/20240410195255776</id>
+        <link href="https://v.daum.net/v/20240410195255776"/>
+        <updated>2024-04-10T11:17:31.807Z</updated>
+        <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">19:52</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사설] 중국 3인자 방북과 일본의 오커스 참여, 격랑 이는 한반도]]></title>
+        <id>https://v.daum.net/v/20240410194417556</id>
+        <link href="https://v.daum.net/v/20240410194417556"/>
+        <updated>2024-04-10T11:17:31.809Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">19:44</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[박용석 만평] 4월 11일]]></title>
+        <id>https://v.daum.net/v/20240410193031255</id>
+        <link href="https://v.daum.net/v/20240410193031255"/>
+        <updated>2024-04-10T11:17:31.810Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">19:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024년 4월 11일[오늘의 운세 나침반]]]></title>
+        <id>https://v.daum.net/v/20240410191750827</id>
+        <link href="https://v.daum.net/v/20240410191750827"/>
+        <updated>2024-04-10T11:17:31.812Z</updated>
+        <content type="html"><![CDATA[스포츠경향<span class="txt_bar"> · </span><span class="info_time">19:17</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[강남시선] 장기전을 대비하라]]></title>
         <id>https://v.daum.net/v/20240410191547773</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20240410190003761"/>
         <updated>2024-04-10T10:17:43.482Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">19:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설2] 산업부장관 워싱턴行…국익 걸린 현안 해결에 빈 틈 없어야]]></title>
-        <id>https://v.daum.net/v/20240410185536637</id>
-        <link href="https://v.daum.net/v/20240410185536637"/>
-        <updated>2024-04-10T10:17:43.484Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">18:55</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김은아의 도시스카프] 왜 `배려도시`인가, 공감과 경쟁력]]></title>
-        <id>https://v.daum.net/v/20240410185533634</id>
-        <link href="https://v.daum.net/v/20240410185533634"/>
-        <updated>2024-04-10T10:17:43.485Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">18:55</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포럼] 디지털 혁신의 DNA를 깨워라]]></title>
-        <id>https://v.daum.net/v/20240410185532631</id>
-        <link href="https://v.daum.net/v/20240410185532631"/>
-        <updated>2024-04-10T10:17:43.486Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">18:55</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[외신사진 속 이슈人] 헛바퀴 도는 가자 휴전 협상, 희망 잃어가는 주민들]]></title>
-        <id>https://v.daum.net/v/20240410185530629</id>
-        <link href="https://v.daum.net/v/20240410185530629"/>
-        <updated>2024-04-10T10:17:43.487Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">18:55</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[악화일로의 한러 관계를 우려한다 [시론]]]></title>
-        <id>https://v.daum.net/v/20240410185023436</id>
-        <link href="https://v.daum.net/v/20240410185023436"/>
-        <updated>2024-04-10T10:17:43.489Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">18:50</span>]]></content>
     </entry>
 </feed>

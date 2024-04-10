@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-04-10T10:17:56.927Z</updated>
+    <updated>2024-04-10T11:17:47.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] QS 2024년 학과별 전세계 대학 순위]]></title>
+        <id>https://v.daum.net/v/20240410192121950</id>
+        <link href="https://v.daum.net/v/20240410192121950"/>
+        <updated>2024-04-10T11:17:39.307Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">19:21</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“100석도 깨지겠네” 국힘 강원도당, 출구조사 결과에 '탄식']]></title>
         <id>https://v.daum.net/v/20240410191050585</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240410131704437</id>
         <link href="https://v.daum.net/v/20240410131704437"/>
         <updated>2024-04-10T04:17:55.107Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">13:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엑사그리드, 2024년 1분기 실적 발표]]></title>
-        <id>https://v.daum.net/v/20240410131701435</id>
-        <link href="https://v.daum.net/v/20240410131701435"/>
-        <updated>2024-04-10T04:17:55.108Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">13:17</span>]]></content>
     </entry>
 </feed>
