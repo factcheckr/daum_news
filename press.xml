@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-04-10T01:57:47.142Z</updated>
+    <updated>2024-04-10T02:23:41.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[베리실리콘, 임베디드 월드 2024에서 최신 전력 효율 IP 애플리케이션 소개]]></title>
+        <id>https://v.daum.net/v/20240410111703511</id>
+        <link href="https://v.daum.net/v/20240410111703511"/>
+        <updated>2024-04-10T02:23:31.675Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">11:17</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VeriSilicon Showcased Its Latest Power-Efficient IP Applications at Embedded World 2024]]></title>
+        <id>https://v.daum.net/v/20240410111702510</id>
+        <link href="https://v.daum.net/v/20240410111702510"/>
+        <updated>2024-04-10T02:23:31.677Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">11:17</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[퀙텔, 저에너지 소형 커넥티드 기기 전력 공급용 HCM511S 고성능 MCU 블루투스 모듈 공개]]></title>
         <id>https://v.daum.net/v/20240410105705933</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240410094731493"/>
         <updated>2024-04-10T01:57:39.055Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">09:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷앱, 인프라 - 저장장치 분야에서 구글 클라우드 테크놀로지 올해의 파트너 어워즈 수상]]></title>
-        <id>https://v.daum.net/v/20240410094704485</id>
-        <link href="https://v.daum.net/v/20240410094704485"/>
-        <updated>2024-04-10T01:57:39.056Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">09:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NetApp Wins Google Cloud Technology Partner of the Year Award for Infrastructure - Storage]]></title>
-        <id>https://v.daum.net/v/20240410094702483</id>
-        <link href="https://v.daum.net/v/20240410094702483"/>
-        <updated>2024-04-10T01:57:39.058Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">09:47</span>]]></content>
     </entry>
 </feed>
