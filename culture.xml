@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2024-04-10T15:17:06.689Z</updated>
+    <updated>2024-04-10T16:21:41.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘의 운세] 4월 11일 목요일 (음력 3월 3일 /乙巳) 띠별 / 생년월일 운세]]></title>
+        <id>https://v.daum.net/v/20240411010110754</id>
+        <link href="https://v.daum.net/v/20240411010110754"/>
+        <updated>2024-04-10T16:20:51.668Z</updated>
+        <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">01:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[날씨] 오늘 전국 봄비...건조함 해소엔 역부족]]></title>
         <id>https://v.daum.net/v/20240411001500775</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240411000031407"/>
         <updated>2024-04-10T15:16:10.617Z</updated>
         <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오르골 박스에서 춤을 춰요, 발레리나 슈즈]]></title>
-        <id>https://v.daum.net/v/20240411000024404</id>
-        <link href="https://v.daum.net/v/20240411000024404"/>
-        <updated>2024-04-10T15:16:10.618Z</updated>
-        <content type="html"><![CDATA[엘르<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
