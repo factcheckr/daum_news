@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-04-11T22:14:55.129Z</updated>
+    <updated>2024-04-11T23:17:24.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](12일 조간)]]></title>
+        <id>https://v.daum.net/v/20240412080010316</id>
+        <link href="https://v.daum.net/v/20240412080010316"/>
+        <updated>2024-04-11T23:17:10.363Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[류성의 제약국부론]"바이오 특허등록 빠른게 능사 아냐"]]></title>
+        <id>https://v.daum.net/v/20240412075803262</id>
+        <link href="https://v.daum.net/v/20240412075803262"/>
+        <updated>2024-04-11T23:17:10.363Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">07:58</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이중의 환멸 속에서 [김명인 칼럼]]]></title>
         <id>https://v.daum.net/v/20240412070505583</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240412060501776"/>
         <updated>2024-04-11T21:15:54.271Z</updated>
         <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">06:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[해외칼럼]트럼피즘을 이기는 정당한 방법]]></title>
-        <id>https://v.daum.net/v/20240412053017139</id>
-        <link href="https://v.daum.net/v/20240412053017139"/>
-        <updated>2024-04-11T21:15:54.273Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[씨줄날줄] 여론조사의 명암]]></title>
-        <id>https://v.daum.net/v/20240412050332862</id>
-        <link href="https://v.daum.net/v/20240412050332862"/>
-        <updated>2024-04-11T20:18:39.392Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
     </entry>
 </feed>
