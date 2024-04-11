@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-04-11T12:28:27.792Z</updated>
+    <updated>2024-04-11T13:17:11.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['관계 다이어트'의 풍요로움 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20240411220039099</id>
+        <link href="https://v.daum.net/v/20240411220039099"/>
+        <updated>2024-04-11T13:16:54.458Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 4월 12일[김용민의 그림마당]]]></title>
         <id>https://v.daum.net/v/20240411205720938</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240411200400965"/>
         <updated>2024-04-11T11:17:19.680Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building more bridges between Korea and Japan]]></title>
-        <id>https://v.daum.net/v/20240411200139905</id>
-        <link href="https://v.daum.net/v/20240411200139905"/>
-        <updated>2024-04-11T11:17:19.681Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:01</span>]]></content>
     </entry>
 </feed>
