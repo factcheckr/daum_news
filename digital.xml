@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-04-12T13:16:59.411Z</updated>
+    <updated>2024-04-12T14:15:19.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원신 4.6 "아를레키노 하나만으로도 기대된다"]]></title>
+        <id>https://v.daum.net/v/20240412231016152</id>
+        <link href="https://v.daum.net/v/20240412231016152"/>
+        <updated>2024-04-12T14:14:52.169Z</updated>
+        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">23:10</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스튜디오메타케이, 스튜디오프리윌루전과 생성형 AI콘텐츠 제작 MOU 체결]]></title>
         <id>https://v.daum.net/v/20240412215647238</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240412193256643"/>
         <updated>2024-04-12T11:15:43.249Z</updated>
         <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">19:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베스핀글로벌, 지난해 매출 4058억…전년비 21%↑]]></title>
-        <id>https://v.daum.net/v/20240412192633514</id>
-        <link href="https://v.daum.net/v/20240412192633514"/>
-        <updated>2024-04-12T11:15:43.251Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">19:26</span>]]></content>
     </entry>
 </feed>
