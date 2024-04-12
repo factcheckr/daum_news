@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-04-12T11:16:08.512Z</updated>
+    <updated>2024-04-12T12:27:49.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[광주광역시, 삼성전자와 협업 스마트공장 50곳 구축]]></title>
+        <id>https://v.daum.net/v/20240412211113544</id>
+        <link href="https://v.daum.net/v/20240412211113544"/>
+        <updated>2024-04-12T12:27:41.409Z</updated>
+        <content type="html"><![CDATA[kbc광주방송<span class="txt_bar"> · </span><span class="info_time">21:11</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[보성다향대축제, 문체부 '지역축제 수용태세 개선사업' 최종 선정...축제 먹거리 한층 풍성 기대]]></title>
         <id>https://v.daum.net/v/20240412192512497</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240412170703970"/>
         <updated>2024-04-12T08:20:12.015Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동래구, 박차정 의사 명예도로명 '박차정길' 5년간 사용 연장]]></title>
-        <id>https://v.daum.net/v/20240412170226767</id>
-        <link href="https://v.daum.net/v/20240412170226767"/>
-        <updated>2024-04-12T08:20:12.016Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:02</span>]]></content>
     </entry>
 </feed>
