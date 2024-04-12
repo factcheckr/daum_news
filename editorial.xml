@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-04-12T05:17:34.323Z</updated>
+    <updated>2024-04-12T06:20:46.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://v.daum.net/v/20240412140028868"/>
         <updated>2024-04-12T05:17:19.748Z</updated>
         <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[고삼석 칼럼] 총선 이후 ICT 정책, '대화·타협' 없으면 해법도 없다]]></title>
+        <id>https://v.daum.net/v/20240412134608372</id>
+        <link href="https://v.daum.net/v/20240412134608372"/>
+        <updated>2024-04-12T06:20:31.257Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">13:46</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[동해안 역사문화 리포트] 24. 수색하고 토벌하라. 울릉도에 수토군(搜討軍)을 보내다]]></title>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240412113920210</id>
         <link href="https://v.daum.net/v/20240412113920210"/>
         <updated>2024-04-12T03:17:09.460Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화장실 휴지 사라지고 운동시설 부서지고… 공공물건 아낍시다[여론마당]]]></title>
-        <id>https://v.daum.net/v/20240412113920207</id>
-        <link href="https://v.daum.net/v/20240412113920207"/>
-        <updated>2024-04-12T03:17:09.462Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:39</span>]]></content>
     </entry>
 </feed>
