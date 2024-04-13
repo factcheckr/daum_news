@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2024-04-13T19:11:22.744Z</updated>
+    <updated>2024-04-13T20:16:09.860Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[청소년도 ‘은둔형 외톨이’ 증가… 원인은 대부분 학폭]]></title>
+        <id>https://v.daum.net/v/20240414050016664</id>
+        <link href="https://v.daum.net/v/20240414050016664"/>
+        <updated>2024-04-13T20:15:29.518Z</updated>
+        <content type="html"><![CDATA[헬스조선<span class="txt_bar"> · </span><span class="info_time">05:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[백운산 오늘의 운세] 2024년 4월 14일]]></title>
+        <id>https://v.daum.net/v/20240414043004572</id>
+        <link href="https://v.daum.net/v/20240414043004572"/>
+        <updated>2024-04-13T20:15:29.518Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7부 팬츠의 귀환 #카프리팬츠]]></title>
         <id>https://v.daum.net/v/20240414040002540</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240414000309201"/>
         <updated>2024-04-13T15:11:37.827Z</updated>
         <content type="html"><![CDATA[bnt뉴스<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 운세] 2024년 04월 14일 별자리 운세]]></title>
-        <id>https://v.daum.net/v/20240414000303198</id>
-        <link href="https://v.daum.net/v/20240414000303198"/>
-        <updated>2024-04-13T15:11:37.829Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 운세] 2024년 04월 14일 띠별 운세]]></title>
-        <id>https://v.daum.net/v/20240414000300195</id>
-        <link href="https://v.daum.net/v/20240414000300195"/>
-        <updated>2024-04-13T15:11:37.830Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
     </entry>
 </feed>
