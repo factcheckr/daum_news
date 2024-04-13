@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-04-13T06:16:16.028Z</updated>
+    <updated>2024-04-13T07:15:21.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[광주시, 지능형교통체계(ITS) 구축 사업 완료]]></title>
+        <id>https://v.daum.net/v/20240413160414614</id>
+        <link href="https://v.daum.net/v/20240413160414614"/>
+        <updated>2024-04-13T07:15:13.779Z</updated>
+        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">16:04</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안성맞춤아트홀, 공모사업 선정]]></title>
+        <id>https://v.daum.net/v/20240413160332602</id>
+        <link href="https://v.daum.net/v/20240413160332602"/>
+        <updated>2024-04-13T07:15:13.779Z</updated>
+        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">16:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GS25-네이버페이-네이버플러스 멤버십, 더블혜택 출시 기념 팝업스토어 오픈]]></title>
         <id>https://v.daum.net/v/20240413090704819</id>
@@ -95,12 +109,5 @@
         <link href="https://v.daum.net/v/20240413070528668"/>
         <updated>2024-04-12T22:12:57.244Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">07:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[AsiaNet] CCC Art Lab to Exhibit at "ART OnO 2024" in Seoul]]></title>
-        <id>https://v.daum.net/v/20240413065717513</id>
-        <link href="https://v.daum.net/v/20240413065717513"/>
-        <updated>2024-04-12T22:12:57.246Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">06:57</span>]]></content>
     </entry>
 </feed>
