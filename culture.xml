@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2024-04-13T18:17:52.068Z</updated>
+    <updated>2024-04-13T19:11:22.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[7부 팬츠의 귀환 #카프리팬츠]]></title>
+        <id>https://v.daum.net/v/20240414040002540</id>
+        <link href="https://v.daum.net/v/20240414040002540"/>
+        <updated>2024-04-13T19:10:37.240Z</updated>
+        <content type="html"><![CDATA[엘르<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[가정예배 365-4월 14일] 이름이 거룩히 여김을 받으시오며]]></title>
         <id>https://v.daum.net/v/20240414030308520</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240414000300195"/>
         <updated>2024-04-13T15:11:37.830Z</updated>
         <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쏠퀴즈(쏠야구) 정답 4월 14일]]></title>
-        <id>https://v.daum.net/v/20240414000208190</id>
-        <link href="https://v.daum.net/v/20240414000208190"/>
-        <updated>2024-04-13T15:11:37.832Z</updated>
-        <content type="html"><![CDATA[bnt뉴스<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
     </entry>
 </feed>
