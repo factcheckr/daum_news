@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-04-13T08:15:33.250Z</updated>
+    <updated>2024-04-13T09:13:19.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] CATL, 세계 최초 5년간 성능저하 없는 에너지 저장 시스템 선보여]]></title>
+        <id>https://v.daum.net/v/20240413173232703</id>
+        <link href="https://v.daum.net/v/20240413173232703"/>
+        <updated>2024-04-13T09:13:06.236Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:32</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Xinhua Silk Road: Zoomlion, 고품질 성장 이어가]]></title>
+        <id>https://v.daum.net/v/20240413172750632</id>
+        <link href="https://v.daum.net/v/20240413172750632"/>
+        <updated>2024-04-13T09:13:06.238Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:27</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[AsiaNet] 중국 동부 진화시 대표단, 무역과 문화적 교류를 위해 아프리카 방문]]></title>
         <id>https://v.daum.net/v/20240413164946218</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240413073106836"/>
         <updated>2024-04-12T23:12:35.549Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">07:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] PDI테크놀로지스, 생산성 제고와 소비자 관여 강조]]></title>
-        <id>https://v.daum.net/v/20240413072759797</id>
-        <link href="https://v.daum.net/v/20240413072759797"/>
-        <updated>2024-04-12T23:12:35.550Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">07:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] Annual Memorial to Huang Di Marks the Blessing to the Nation]]></title>
-        <id>https://v.daum.net/v/20240413071959754</id>
-        <link href="https://v.daum.net/v/20240413071959754"/>
-        <updated>2024-04-12T23:12:35.551Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">07:19</span>]]></content>
     </entry>
 </feed>
