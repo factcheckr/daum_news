@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-04-15T16:20:24.339Z</updated>
+    <updated>2024-04-15T17:16:09.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]대통령의 '두 개의 몸']]></title>
+        <id>https://v.daum.net/v/20240416020502977</id>
+        <link href="https://v.daum.net/v/20240416020502977"/>
+        <updated>2024-04-15T17:15:49.425Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]디지털로 혁신한 선진국 대학이 몰려온다]]></title>
+        <id>https://v.daum.net/v/20240416020303974</id>
+        <link href="https://v.daum.net/v/20240416020303974"/>
+        <updated>2024-04-15T17:15:49.425Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 지금 ‘당권 싸움’ 할 때인가…여당의 영혼 먼저 바꿔라]]></title>
         <id>https://v.daum.net/v/20240416004242745</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240416001830649"/>
         <updated>2024-04-15T16:20:06.729Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김겨울의 행복한 북카페] 10년인 듯 하루인 듯]]></title>
-        <id>https://v.daum.net/v/20240416001631629</id>
-        <link href="https://v.daum.net/v/20240416001631629"/>
-        <updated>2024-04-15T16:20:06.732Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[백광엽 칼럼] 하이에크와 22대 한국 총선]]></title>
-        <id>https://v.daum.net/v/20240416001502620</id>
-        <link href="https://v.daum.net/v/20240416001502620"/>
-        <updated>2024-04-15T15:16:12.507Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:15</span>]]></content>
     </entry>
 </feed>
