@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-04-15T07:13:16.465Z</updated>
+    <updated>2024-04-15T08:17:38.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[피엔티엠에스 수주공시 - COATER 철골제작 및 CHAMBER 조립 51억원 (매출액대비  20.4 %)]]></title>
+        <id>https://v.daum.net/v/20240415170602612</id>
+        <link href="https://v.daum.net/v/20240415170602612"/>
+        <updated>2024-04-15T08:17:37.975Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">17:06</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국고채 금리 일제히 상승…3년물 연 3.440%]]></title>
+        <id>https://v.daum.net/v/20240415165405914</id>
+        <link href="https://v.daum.net/v/20240415165405914"/>
+        <updated>2024-04-15T08:17:37.977Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">16:54</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오르비텍, 10억원 3자배정 유상증자 결정]]></title>
         <id>https://v.daum.net/v/20240415151736667</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240415091405903"/>
         <updated>2024-04-15T03:36:46.432Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한전기술 수주공시 - 2024년도 가동원전 긴급지원 기술용역 328.1억원 (매출액대비  6.02 %)]]></title>
-        <id>https://v.daum.net/v/20240415091105803</id>
-        <link href="https://v.daum.net/v/20240415091105803"/>
-        <updated>2024-04-15T03:36:46.435Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['효성중공업' 52주 신고가 경신, 1Q24 Preview: 매력적인 주가 - SK증권, BUY]]></title>
-        <id>https://v.daum.net/v/20240415091045786</id>
-        <link href="https://v.daum.net/v/20240415091045786"/>
-        <updated>2024-04-15T03:36:46.436Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:10</span>]]></content>
     </entry>
 </feed>
