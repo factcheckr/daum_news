@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-04-16T04:18:40.928Z</updated>
+    <updated>2024-04-16T05:16:30.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[데일리안 시사만평] 美, 삼성전자에 반도체 보조금 9조원 지원…역대 3번째 규모]]></title>
+        <id>https://v.daum.net/v/20240416141445447</id>
+        <link href="https://v.daum.net/v/20240416141445447"/>
+        <updated>2024-04-16T05:16:14.293Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">14:14</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[디지털 자산 발전 트리거 될 '비트코인 ETF']]></title>
+        <id>https://v.daum.net/v/20240416140212928</id>
+        <link href="https://v.daum.net/v/20240416140212928"/>
+        <updated>2024-04-16T05:16:14.294Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">14:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[THE VIEW]美 주정부 대마 합법화와 세금]]></title>
         <id>https://v.daum.net/v/20240416130554167</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240416110537495"/>
         <updated>2024-04-16T02:23:16.303Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 총선 민심은 여야 협치, 의정 갈등 해법 찾기가 첫 시험대]]></title>
-        <id>https://v.daum.net/v/20240416110536494</id>
-        <link href="https://v.daum.net/v/20240416110536494"/>
-        <updated>2024-04-16T02:23:16.305Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[블룸버그 칼럼]中전기차 무역전쟁, 車업계 자멸될 것]]></title>
-        <id>https://v.daum.net/v/20240416110401423</id>
-        <link href="https://v.daum.net/v/20240416110401423"/>
-        <updated>2024-04-16T02:23:16.306Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:04</span>]]></content>
     </entry>
 </feed>
