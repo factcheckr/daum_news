@@ -2,11 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-04-16T13:17:30.292Z</updated>
+    <updated>2024-04-16T14:15:54.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA["5년 쓰나 20년 쓰나 똑같다"…이통3사 혜택 '몰랐던 사실']]></title>
+        <title type="html"><![CDATA[코웨이, 1분기 BSTI 34위…전년比 2단계↑]]></title>
+        <id>https://v.daum.net/v/20240416225844303</id>
+        <link href="https://v.daum.net/v/20240416225844303"/>
+        <updated>2024-04-16T14:15:34.066Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">22:58</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['알집' 이스트소프트 창업자 김장중, 이스트게임즈 대표로 복귀]]></title>
+        <id>https://v.daum.net/v/20240416225215260</id>
+        <link href="https://v.daum.net/v/20240416225215260"/>
+        <updated>2024-04-16T14:15:34.066Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">22:52</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유진로봇, 고중량 물류로봇 제품군 강화]]></title>
+        <id>https://v.daum.net/v/20240416224949232</id>
+        <link href="https://v.daum.net/v/20240416224949232"/>
+        <updated>2024-04-16T14:15:34.067Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">22:49</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코지마, 가정의 달 프로모션]]></title>
+        <id>https://v.daum.net/v/20240416223558115</id>
+        <link href="https://v.daum.net/v/20240416223558115"/>
+        <updated>2024-04-16T14:15:34.068Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">22:35</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["5년 쓰나 20년 쓰나 똑같다"…이통3사 혜택 '이럴 줄은']]></title>
         <id>https://v.daum.net/v/20240416220103550</id>
         <link href="https://v.daum.net/v/20240416220103550"/>
         <updated>2024-04-16T13:17:06.536Z</updated>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20240416202214509"/>
         <updated>2024-04-16T12:28:06.098Z</updated>
         <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">20:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여기어때, 블랙 숙박+선물 패키지 선봬]]></title>
-        <id>https://v.daum.net/v/20240416200522220</id>
-        <link href="https://v.daum.net/v/20240416200522220"/>
-        <updated>2024-04-16T11:13:09.782Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">20:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이모, 데이터 관리 솔루션 `4코어` 국내외 기업 21곳에 공급]]></title>
-        <id>https://v.daum.net/v/20240416200210145</id>
-        <link href="https://v.daum.net/v/20240416200210145"/>
-        <updated>2024-04-16T11:13:09.782Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">20:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[WIS 2024]에코로보텍 '프레오x울트라']]></title>
-        <id>https://v.daum.net/v/20240416200103119</id>
-        <link href="https://v.daum.net/v/20240416200103119"/>
-        <updated>2024-04-16T11:13:09.784Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">20:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“이러면 차라리 쿠팡쓴다” 네이버, 할인 차별에 ‘아우성’…무슨일?]]></title>
-        <id>https://v.daum.net/v/20240416195109934</id>
-        <link href="https://v.daum.net/v/20240416195109934"/>
-        <updated>2024-04-16T11:13:09.785Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">19:51</span>]]></content>
     </entry>
 </feed>
