@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-04-16T18:23:05.201Z</updated>
+    <updated>2024-04-16T19:15:43.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[기자수첩]반도체는 국산이지만, 장비는 수입입니다]]></title>
+        <id>https://v.daum.net/v/20240417041103032</id>
+        <link href="https://v.daum.net/v/20240417041103032"/>
+        <updated>2024-04-16T19:15:17.767Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">04:11</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“스타 개발자 모셔라”… 업계, 글로벌 경쟁력 강화 총력]]></title>
+        <id>https://v.daum.net/v/20240417040428960</id>
+        <link href="https://v.daum.net/v/20240417040428960"/>
+        <updated>2024-04-16T19:15:17.768Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:04</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[피씨엔 "AI로 인구감소 지역 사회문제 해결"···37.5억 사업 수주]]></title>
+        <id>https://v.daum.net/v/20240417040024938</id>
+        <link href="https://v.daum.net/v/20240417040024938"/>
+        <updated>2024-04-16T19:15:17.769Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국 ‘중요 AI 모델’ 0건, 이스라엘 4건, 싱가포르 3건]]></title>
+        <id>https://v.daum.net/v/20240417034402911</id>
+        <link href="https://v.daum.net/v/20240417034402911"/>
+        <updated>2024-04-16T19:15:17.770Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:44</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“삼성 투자로 텍사스가 실리콘필드로 진화”]]></title>
+        <id>https://v.daum.net/v/20240417034344908</id>
+        <link href="https://v.daum.net/v/20240417034344908"/>
+        <updated>2024-04-16T19:15:17.772Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:43</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6년 전으로 후퇴한 중국 AI 투자]]></title>
+        <id>https://v.daum.net/v/20240417034316907</id>
+        <link href="https://v.daum.net/v/20240417034316907"/>
+        <updated>2024-04-16T19:15:17.773Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:43</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마이투어닷컴 “보유 숙소 수 3개월만에 10배 급증, 전세계 200만 숙소”]]></title>
+        <id>https://v.daum.net/v/20240417033602902</id>
+        <link href="https://v.daum.net/v/20240417033602902"/>
+        <updated>2024-04-16T19:15:17.776Z</updated>
+        <content type="html"><![CDATA[스포츠경향<span class="txt_bar"> · </span><span class="info_time">03:36</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에이수스, 990g 초경량 14인치 비즈니스 노트북 ‘ExpertBook B9 OLED’ 출시]]></title>
         <id>https://v.daum.net/v/20240417030701789</id>
@@ -60,19 +109,5 @@
         <link href="https://v.daum.net/v/20240417000634910"/>
         <updated>2024-04-16T15:16:57.791Z</updated>
         <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원주쌀 브랜드명 변경 ‘경쟁력’ 키운다]]></title>
-        <id>https://v.daum.net/v/20240417000524847</id>
-        <link href="https://v.daum.net/v/20240417000524847"/>
-        <updated>2024-04-16T15:16:57.793Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['새 부품만 사용하는' 애플 '갑질 AS' 바뀐다…한국 도입 시점 '미정']]></title>
-        <id>https://v.daum.net/v/20240417000051756</id>
-        <link href="https://v.daum.net/v/20240417000051756"/>
-        <updated>2024-04-16T15:16:57.795Z</updated>
-        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
