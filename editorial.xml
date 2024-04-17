@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-04-17T04:19:45.175Z</updated>
+    <updated>2024-04-17T05:16:13.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유튜브 하자마자 ‘팝업’ 입성한 유기견... “사업 목적 쇼” 비판에 해명은?]]></title>
+        <id>https://v.daum.net/v/20240417134252758</id>
+        <link href="https://v.daum.net/v/20240417134252758"/>
+        <updated>2024-04-17T05:15:54.749Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">13:42</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대통령실의 잇단 이상 징후와 ‘용산 시스템’ 난맥 의혹[사설]]]></title>
         <id>https://v.daum.net/v/20240417113914594</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240417110909053"/>
         <updated>2024-04-17T02:25:34.344Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[최준영의 월드+]미·일·필리핀, 3국 정상회담과 한국의 고민]]></title>
-        <id>https://v.daum.net/v/20240417110846021</id>
-        <link href="https://v.daum.net/v/20240417110846021"/>
-        <updated>2024-04-17T02:25:34.345Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:08</span>]]></content>
     </entry>
 </feed>
