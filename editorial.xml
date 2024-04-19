@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-04-19T06:21:58.019Z</updated>
+    <updated>2024-04-19T07:17:32.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우리들의 ‘올드 오크’를 만들자[오늘을 생각한다]]]></title>
+        <id>https://v.daum.net/v/20240419160006461</id>
+        <link href="https://v.daum.net/v/20240419160006461"/>
+        <updated>2024-04-19T07:17:18.575Z</updated>
+        <content type="html"><![CDATA[주간경향<span class="txt_bar"> · </span><span class="info_time">16:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[fn사설]추경보다 긴급 민생법안 추려내 21대국회 처리를]]></title>
         <id>https://v.daum.net/v/20240419144739096</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240419115146450</id>
         <link href="https://v.daum.net/v/20240419115146450"/>
         <updated>2024-04-19T03:16:52.664Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尹 동맹외교도 뒤흔들 야당 리스크[이미숙의 시론]]]></title>
-        <id>https://v.daum.net/v/20240419115144448</id>
-        <link href="https://v.daum.net/v/20240419115144448"/>
-        <updated>2024-04-19T03:16:52.667Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:51</span>]]></content>
     </entry>
 </feed>
