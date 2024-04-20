@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-04-20T10:15:45.521Z</updated>
+    <updated>2024-04-20T11:12:37.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[의협 “의대 자율 증원안 수용 못 해…의료개혁특위도 불참”]]></title>
+        <id>https://v.daum.net/v/20240420201058421</id>
+        <link href="https://v.daum.net/v/20240420201058421"/>
+        <updated>2024-04-20T11:12:17.201Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">20:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TTA ,한국 주도 양자 사실표준화 기구 QINSA 신설 추진]]></title>
+        <id>https://v.daum.net/v/20240420193403102</id>
+        <link href="https://v.daum.net/v/20240420193403102"/>
+        <updated>2024-04-20T11:12:17.202Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">19:34</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“아! 이럴줄은 몰랐다” 역대급 터지자…5월부터 요금 인상?]]></title>
         <id>https://v.daum.net/v/20240420184049648</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240420140101809"/>
         <updated>2024-04-20T05:19:06.159Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">14:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["힘든 삶에 위로"…11년 추억 나눈 '에브리타운']]></title>
-        <id>https://v.daum.net/v/20240420140003784</id>
-        <link href="https://v.daum.net/v/20240420140003784"/>
-        <updated>2024-04-20T05:19:06.160Z</updated>
-        <content type="html"><![CDATA[비즈워치<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반도체 패권 장악 나선 美, 계산된 밑그림…노림수는?]]></title>
-        <id>https://v.daum.net/v/20240420140002783</id>
-        <link href="https://v.daum.net/v/20240420140002783"/>
-        <updated>2024-04-20T05:19:06.162Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
     </entry>
 </feed>
