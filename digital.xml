@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-04-20T06:18:52.715Z</updated>
+    <updated>2024-04-20T07:14:01.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[메이플스토리, 1.9% → 4.4% PC방 점유율 회복세]]></title>
+        <id>https://v.daum.net/v/20240420154759972</id>
+        <link href="https://v.daum.net/v/20240420154759972"/>
+        <updated>2024-04-20T07:13:38.446Z</updated>
+        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">15:47</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“3개라서 더 좋다”…다리가 셋인 우주 탐사 로봇 스페이스호퍼 [고든 정의 TECH+]]]></title>
+        <id>https://v.daum.net/v/20240420153701882</id>
+        <link href="https://v.daum.net/v/20240420153701882"/>
+        <updated>2024-04-20T07:13:38.450Z</updated>
+        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">15:37</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[14억 애국소비 무섭네…'절치부심' 화웨이 반격에 애플·삼성 '초긴장']]></title>
         <id>https://v.daum.net/v/20240420151010558</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240420130600369"/>
         <updated>2024-04-20T04:19:54.800Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">13:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내 증권가 '나이트 크로우' 흥행에 위메이드 2분기 실적 개선 기대]]></title>
-        <id>https://v.daum.net/v/20240420125402278</id>
-        <link href="https://v.daum.net/v/20240420125402278"/>
-        <updated>2024-04-20T04:19:54.800Z</updated>
-        <content type="html"><![CDATA[게임동아<span class="txt_bar"> · </span><span class="info_time">12:54</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지엠스토어, '봉신 소환사' 23일까지 사전 예약]]></title>
-        <id>https://v.daum.net/v/20240420124200216</id>
-        <link href="https://v.daum.net/v/20240420124200216"/>
-        <updated>2024-04-20T04:19:54.801Z</updated>
-        <content type="html"><![CDATA[게임동아<span class="txt_bar"> · </span><span class="info_time">12:42</span>]]></content>
     </entry>
 </feed>
