@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2024-04-21T17:16:02.869Z</updated>
+    <updated>2024-04-21T18:19:35.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘의 채널A]국경 넘은 김정민-루미코 부부 러브스토리]]></title>
+        <id>https://v.daum.net/v/20240422030302209</id>
+        <link href="https://v.daum.net/v/20240422030302209"/>
+        <updated>2024-04-21T18:18:55.641Z</updated>
+        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">03:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[TV조선] ‘스킨십 부부’의 신혼 일상]]></title>
+        <id>https://v.daum.net/v/20240422030238187</id>
+        <link href="https://v.daum.net/v/20240422030238187"/>
+        <updated>2024-04-21T18:18:55.642Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['이효리 춤선생' 길건, 댄스가수 컴백..‘엘리베이터 안에서 춤을 춰’ 발매]]></title>
         <id>https://v.daum.net/v/20240422015956940</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240422003012696"/>
         <updated>2024-04-21T16:18:32.841Z</updated>
         <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘쿵푸팬더4’, 올해 개봉 애니 첫 100만 돌파 [연예뉴스 HOT]]]></title>
-        <id>https://v.daum.net/v/20240422003010695</id>
-        <link href="https://v.daum.net/v/20240422003010695"/>
-        <updated>2024-04-21T16:18:32.844Z</updated>
-        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[암투병 김민기, 학전 마지막 공연 관람‥설경구 눈물(학전 그리고 뒷것 김민기)]]></title>
-        <id>https://v.daum.net/v/20240422001953664</id>
-        <link href="https://v.daum.net/v/20240422001953664"/>
-        <updated>2024-04-21T16:18:32.845Z</updated>
-        <content type="html"><![CDATA[뉴스엔<span class="txt_bar"> · </span><span class="info_time">00:19</span>]]></content>
     </entry>
 </feed>
