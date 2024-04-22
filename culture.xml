@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2024-04-22T18:21:41.591Z</updated>
+    <updated>2024-04-22T19:14:00.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스웨트셔츠를 입는 다섯 가지 방법]]></title>
+        <id>https://v.daum.net/v/20240423040003333</id>
+        <link href="https://v.daum.net/v/20240423040003333"/>
+        <updated>2024-04-22T19:13:03.759Z</updated>
+        <content type="html"><![CDATA[엘르<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[포근한 봄 날씨…늦은 밤부터 비 [날씨]]]></title>
+        <id>https://v.daum.net/v/20240423033115263</id>
+        <link href="https://v.daum.net/v/20240423033115263"/>
+        <updated>2024-04-22T19:13:03.760Z</updated>
+        <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">03:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오늘의 설교] 내 안의 말씀 자리]]></title>
         <id>https://v.daum.net/v/20240423031210228</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240423030614194"/>
         <updated>2024-04-22T18:20:39.806Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">03:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[겨자씨] 너희가 눈먼 사람들이라면]]></title>
-        <id>https://v.daum.net/v/20240423030613193</id>
-        <link href="https://v.daum.net/v/20240423030613193"/>
-        <updated>2024-04-22T18:20:39.811Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">03:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘청소년 관람불가’ 영화 연령제한, 만18세→19세 미만으로]]></title>
-        <id>https://v.daum.net/v/20240423030525161</id>
-        <link href="https://v.daum.net/v/20240423030525161"/>
-        <updated>2024-04-22T18:20:39.811Z</updated>
-        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">03:05</span>]]></content>
     </entry>
 </feed>
