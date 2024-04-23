@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-04-23T03:16:37.178Z</updated>
+    <updated>2024-04-23T04:19:12.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[속보] 日경제안보담당상, 전범 합사 야스쿠니신사 참배…각료로 두번째]]></title>
+        <id>https://v.daum.net/v/20240423131201116</id>
+        <link href="https://v.daum.net/v/20240423131201116"/>
+        <updated>2024-04-23T04:18:55.058Z</updated>
+        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">13:12</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스포츠주간, 장애인과 비장애인이 함께 운동할 공간을 찾았다]]></title>
+        <id>https://v.daum.net/v/20240423131013094</id>
+        <link href="https://v.daum.net/v/20240423131013094"/>
+        <updated>2024-04-23T04:18:55.060Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">13:10</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국회 연금案 개악 조짐, 정부가 제대로 된 대안 다시 내야[사설]]]></title>
         <id>https://v.daum.net/v/20240423113909755</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240423091718191"/>
         <updated>2024-04-23T01:04:27.946Z</updated>
         <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">09:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대표 되자마자 주가 15% 폭락, 카카오 정신아 앞에 놓인 과제]]></title>
-        <id>https://v.daum.net/v/20240423091302038</id>
-        <link href="https://v.daum.net/v/20240423091302038"/>
-        <updated>2024-04-23T01:04:27.948Z</updated>
-        <content type="html"><![CDATA[여성동아<span class="txt_bar"> · </span><span class="info_time">09:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘최저’ 尹지지율, 지금이 저점일까 추가 하락할까 [정치에 속지 않기]]]></title>
-        <id>https://v.daum.net/v/20240423090300695</id>
-        <link href="https://v.daum.net/v/20240423090300695"/>
-        <updated>2024-04-23T01:04:27.949Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">09:03</span>]]></content>
     </entry>
 </feed>
