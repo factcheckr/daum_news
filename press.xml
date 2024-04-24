@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-04-24T21:15:03.493Z</updated>
+    <updated>2024-04-24T22:16:48.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시장 규모만 10조?…토스·핀다 등 잇따라 택스테크 진출]]></title>
+        <id>https://v.daum.net/v/20240425064501467</id>
+        <link href="https://v.daum.net/v/20240425064501467"/>
+        <updated>2024-04-24T22:16:41.998Z</updated>
+        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">06:45</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[비즈스토리] 인수·투자·협력 등 인공지능 사업 본격화…글로벌 빅테크 기업으로 도약]]></title>
         <id>https://v.daum.net/v/20240425053142454</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240425000528615</id>
         <link href="https://v.daum.net/v/20240425000528615"/>
         <updated>2024-04-24T15:19:21.727Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고성 토성면 봉포리 480세대 도시가스 공급]]></title>
-        <id>https://v.daum.net/v/20240425000528614</id>
-        <link href="https://v.daum.net/v/20240425000528614"/>
-        <updated>2024-04-24T15:19:21.728Z</updated>
         <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
     </entry>
 </feed>
