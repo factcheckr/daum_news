@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-04-24T03:18:04.913Z</updated>
+    <updated>2024-04-24T04:18:19.961Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마우저 일렉트로닉스, 아나로그디바이스의 ‘MAX32690 Arm Cortex-M4F’ 마이크로컨트롤러 공급]]></title>
+        <id>https://v.daum.net/v/20240424131703390</id>
+        <link href="https://v.daum.net/v/20240424131703390"/>
+        <updated>2024-04-24T04:18:12.977Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">13:17</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔씨소프트, 리니지2M ‘클래스 케어 러쉬’ 업데이트]]></title>
+        <id>https://v.daum.net/v/20240424130702233</id>
+        <link href="https://v.daum.net/v/20240424130702233"/>
+        <updated>2024-04-24T04:18:12.978Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">13:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부루구루, 세계 최초로 생레몬이 첨가된 RTD 하이볼 출시]]></title>
         <id>https://v.daum.net/v/20240424120704242</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240424112904884"/>
         <updated>2024-04-24T03:17:56.778Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:29</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서초구, 'AI 기반 공교육 비전 선포식 및 포럼' 개최]]></title>
-        <id>https://v.daum.net/v/20240424112835870</id>
-        <link href="https://v.daum.net/v/20240424112835870"/>
-        <updated>2024-04-24T03:17:56.779Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:28</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경기도 노인 비율 15％ 돌파…노인 셋 중 하나 "노후준비 못했다"]]></title>
-        <id>https://v.daum.net/v/20240424112530744</id>
-        <link href="https://v.daum.net/v/20240424112530744"/>
-        <updated>2024-04-24T02:27:44.074Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:25</span>]]></content>
     </entry>
 </feed>

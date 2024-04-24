@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-04-24T03:18:04.923Z</updated>
+    <updated>2024-04-24T04:18:19.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[데일리안 시사만평] 용산 협치( 協治)는 '함께' 민주당 협치(挾治)는 '우리끼리만']]></title>
+        <id>https://v.daum.net/v/20240424124020823</id>
+        <link href="https://v.daum.net/v/20240424124020823"/>
+        <updated>2024-04-24T04:18:06.662Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">12:40</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이덕환의 과학세상] 연금개혁·의대증원 '과학적 근거'에서 '과학'은 어디?]]></title>
         <id>https://v.daum.net/v/20240424121353392</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240424110902921"/>
         <updated>2024-04-24T02:27:36.712Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">11:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[철학, 인간이 움직이는 흐름을 통찰한다]]></title>
-        <id>https://v.daum.net/v/20240424105835338</id>
-        <link href="https://v.daum.net/v/20240424105835338"/>
-        <updated>2024-04-24T02:27:36.712Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">10:58</span>]]></content>
     </entry>
 </feed>
