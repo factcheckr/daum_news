@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2024-04-24T18:19:14.836Z</updated>
+    <updated>2024-04-24T19:13:36.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['영수회담' 오늘 2차 실무회동...이재명 "채상병 특검 통과"]]></title>
+        <id>https://v.daum.net/v/20240425033412590</id>
+        <link href="https://v.daum.net/v/20240425033412590"/>
+        <updated>2024-04-24T19:12:11.575Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">03:34</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[낙천·낙선자 만난 尹 “여러분 뒷받침못한 부족함 성찰”]]></title>
         <id>https://v.daum.net/v/20240425030243410</id>
@@ -83,7 +90,7 @@
         <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">03:01</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[野 “방송3법-양곡법-연금개혁도 의제” 대통령실 “여론전 의도”]]></title>
+        <title type="html"><![CDATA[[단독]野 “방송3법-양곡법-연금개혁도 의제” 대통령실 “여론전 의도”]]></title>
         <id>https://v.daum.net/v/20240425030121317</id>
         <link href="https://v.daum.net/v/20240425030121317"/>
         <updated>2024-04-24T18:17:53.895Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240425030105304"/>
         <updated>2024-04-24T18:17:53.898Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정진석 “대통령 비서, 정치하는 사람 아니다”]]></title>
-        <id>https://v.daum.net/v/20240425030054302</id>
-        <link href="https://v.daum.net/v/20240425030054302"/>
-        <updated>2024-04-24T18:17:53.899Z</updated>
-        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">03:00</span>]]></content>
     </entry>
 </feed>
