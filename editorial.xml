@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-04-26T09:16:41.125Z</updated>
+    <updated>2024-04-26T10:17:18.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미얀마 내전 3년, 끝없는 비극]]></title>
+        <id>https://v.daum.net/v/20240426190502110</id>
+        <link href="https://v.daum.net/v/20240426190502110"/>
+        <updated>2024-04-26T10:17:00.024Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 2년 만에 성사된 윤-이 회담, ‘민심’ 받들고 ‘민생’ 위한 ‘협치’ 첫걸음 돼야]]></title>
         <id>https://v.daum.net/v/20240426181018019</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240426170206124"/>
         <updated>2024-04-26T08:19:23.592Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박창영의 칵테일 파티] 무슨 수저인지 상관없다]]></title>
-        <id>https://v.daum.net/v/20240426165710901</id>
-        <link href="https://v.daum.net/v/20240426165710901"/>
-        <updated>2024-04-26T08:19:23.595Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">16:57</span>]]></content>
     </entry>
 </feed>
