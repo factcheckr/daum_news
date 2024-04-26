@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-04-26T03:18:16.303Z</updated>
+    <updated>2024-04-26T04:18:07.492Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[웹툰] 나도 많이 배워야겠네]]></title>
+        <id>https://v.daum.net/v/20240426131725520</id>
+        <link href="https://v.daum.net/v/20240426131725520"/>
+        <updated>2024-04-26T04:17:52.316Z</updated>
+        <content type="html"><![CDATA[베이비뉴스<span class="txt_bar"> · </span><span class="info_time">13:17</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시장 금융 시스템에서 이탈하고 있는 중국 [Zoom on finance with 니콜라스 베론]]]></title>
+        <id>https://v.daum.net/v/20240426125401033</id>
+        <link href="https://v.daum.net/v/20240426125401033"/>
+        <updated>2024-04-26T04:17:52.317Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">12:54</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[김재호의 생명이야기]<259>상처의 치료와 자연 치유]]></title>
         <id>https://v.daum.net/v/20240426120027983</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240426111657425"/>
         <updated>2024-04-26T02:25:29.765Z</updated>
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 47년만에 손보는 유류분, 국민 상식·시대 변화 부응하길]]></title>
-        <id>https://v.daum.net/v/20240426111638413</id>
-        <link href="https://v.daum.net/v/20240426111638413"/>
-        <updated>2024-04-26T02:25:29.766Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] “당과 반대로 하니 당선” 與, 강도높은 쇄신 뒤따라야]]></title>
-        <id>https://v.daum.net/v/20240426111637411</id>
-        <link href="https://v.daum.net/v/20240426111637411"/>
-        <updated>2024-04-26T02:25:29.767Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:16</span>]]></content>
     </entry>
 </feed>
