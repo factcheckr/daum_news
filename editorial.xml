@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-04-27T06:20:49.888Z</updated>
+    <updated>2024-04-27T07:13:50.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영수회담의 정치학, ‘끌려가는’ 협치 ‘주도하는’ 협치 [최병천의 인사이트]]]></title>
+        <id>https://v.daum.net/v/20240427160335750</id>
+        <link href="https://v.daum.net/v/20240427160335750"/>
+        <updated>2024-04-27T07:13:30.408Z</updated>
+        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">16:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정종환 전 국토해양부 장관, 향년 77세 일기로 별세]]></title>
         <id>https://v.daum.net/v/20240427133652060</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240427063021338"/>
         <updated>2024-04-26T22:18:47.124Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">06:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[역사적 기억엔 양보가 없다 [ESC]]]></title>
-        <id>https://v.daum.net/v/20240427060502199</id>
-        <link href="https://v.daum.net/v/20240427060502199"/>
-        <updated>2024-04-26T21:15:09.213Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">06:05</span>]]></content>
     </entry>
 </feed>
