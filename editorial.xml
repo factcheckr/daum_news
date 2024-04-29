@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-04-29T16:20:29.000Z</updated>
+    <updated>2024-04-29T17:14:22.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]2024년 대한민국서 소환해 본 2011년 그리스]]></title>
+        <id>https://v.daum.net/v/20240430020302515</id>
+        <link href="https://v.daum.net/v/20240430020302515"/>
+        <updated>2024-04-29T17:14:05.838Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[신종수 칼럼] 오만하거나 독주하거나]]></title>
         <id>https://v.daum.net/v/20240430005209283</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240430003709212"/>
         <updated>2024-04-29T16:20:16.071Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[중앙시평] 1분기 성장률 서프라이즈에 드리운 그림자]]></title>
-        <id>https://v.daum.net/v/20240430003622208</id>
-        <link href="https://v.daum.net/v/20240430003622208"/>
-        <updated>2024-04-29T16:20:16.072Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:36</span>]]></content>
     </entry>
 </feed>
