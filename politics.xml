@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2024-04-30T18:21:54.472Z</updated>
+    <updated>2024-04-30T19:13:04.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영국 런던 30대 남성 무차별 흉기 난동…13세 소년 사망]]></title>
+        <id>https://v.daum.net/v/20240501034612379</id>
+        <link href="https://v.daum.net/v/20240501034612379"/>
+        <updated>2024-04-30T19:11:40.531Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">03:46</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[더 내고 더 받는 ‘개악’ 연금 개혁안… 여야 이견 못 좁혀]]></title>
         <id>https://v.daum.net/v/20240501030327297</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240501014136998</id>
         <link href="https://v.daum.net/v/20240501014136998"/>
         <updated>2024-04-30T18:20:51.811Z</updated>
-        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">01:41</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尹-李 회담 다음날 野 특검법 강공… 與 “독주 불쏘시개로 이용”]]></title>
-        <id>https://v.daum.net/v/20240501014135997</id>
-        <link href="https://v.daum.net/v/20240501014135997"/>
-        <updated>2024-04-30T18:20:51.812Z</updated>
         <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">01:41</span>]]></content>
     </entry>
 </feed>
