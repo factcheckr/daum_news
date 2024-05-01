@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-05-01T18:20:22.577Z</updated>
+    <updated>2024-05-01T19:15:02.823Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[머니투데이 오프라인 헤드라인-2일]]></title>
+        <id>https://v.daum.net/v/20240502033001262</id>
+        <link href="https://v.daum.net/v/20240502033001262"/>
+        <updated>2024-05-01T19:14:42.857Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">03:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이규현 목사의 복음과 삶] 성공적 실패]]></title>
         <id>https://v.daum.net/v/20240502030615204</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240502030137048</id>
         <link href="https://v.daum.net/v/20240502030137048"/>
         <updated>2024-05-01T18:20:07.766Z</updated>
-        <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">03:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 임교육감 “학생인권조례 폐지 능사 아니다”, 공감 크다]]></title>
-        <id>https://v.daum.net/v/20240502030137045</id>
-        <link href="https://v.daum.net/v/20240502030137045"/>
-        <updated>2024-05-01T18:20:07.768Z</updated>
         <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">03:01</span>]]></content>
     </entry>
 </feed>
