@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-05-01T07:20:30.484Z</updated>
+    <updated>2024-05-01T08:22:49.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[농수산물 유통비 10% 이상 줄인다…온라인 도매거래 확대 등]]></title>
+        <id>https://v.daum.net/v/20240501171013950</id>
+        <link href="https://v.daum.net/v/20240501171013950"/>
+        <updated>2024-05-01T08:22:40.026Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">17:10</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남양주시, 행락철 맞아 경관형 수경시설 본격 가동]]></title>
         <id>https://v.daum.net/v/20240501155220960</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240501132702542"/>
         <updated>2024-05-01T05:15:16.060Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">13:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[워키바의 새로운 설문조사에 따른 기업 보고의 혁신을 촉진하는 지속가능성 규정]]></title>
-        <id>https://v.daum.net/v/20240501131703346</id>
-        <link href="https://v.daum.net/v/20240501131703346"/>
-        <updated>2024-05-01T04:20:07.450Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">13:17</span>]]></content>
     </entry>
 </feed>
