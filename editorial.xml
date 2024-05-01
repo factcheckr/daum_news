@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-05-01T05:15:25.179Z</updated>
+    <updated>2024-05-01T06:22:02.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[거의 매일 누군가 떨어져 죽는다 [옵스큐라]]]></title>
+        <id>https://v.daum.net/v/20240501151509783</id>
+        <link href="https://v.daum.net/v/20240501151509783"/>
+        <updated>2024-05-01T06:21:47.535Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">15:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네이버 퇴출, 보따리 주니 뺨 때리는 일본]]></title>
+        <id>https://v.daum.net/v/20240501141506553</id>
+        <link href="https://v.daum.net/v/20240501141506553"/>
+        <updated>2024-05-01T06:21:47.538Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">14:15</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[만화] 이래저래 미네랄 부족 [날백수인생]]]></title>
         <id>https://v.daum.net/v/20240501131200251</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240501103550645"/>
         <updated>2024-05-01T04:19:59.285Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">10:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인사] 보건복지부]]></title>
-        <id>https://v.daum.net/v/20240501092447915</id>
-        <link href="https://v.daum.net/v/20240501092447915"/>
-        <updated>2024-05-01T01:12:22.800Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">09:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인사] 관세청]]></title>
-        <id>https://v.daum.net/v/20240501090451503</id>
-        <link href="https://v.daum.net/v/20240501090451503"/>
-        <updated>2024-05-01T01:12:22.801Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">09:04</span>]]></content>
     </entry>
 </feed>
