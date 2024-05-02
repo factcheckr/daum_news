@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-05-02T18:20:35.028Z</updated>
+    <updated>2024-05-02T19:14:20.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[광화문]백년기업(3)]]></title>
+        <id>https://v.daum.net/v/20240503041102160</id>
+        <link href="https://v.daum.net/v/20240503041102160"/>
+        <updated>2024-05-02T19:14:04.093Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">04:11</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] ‘이태원법’ 합의 처리한 여야 부산 현안은 왜 못하나]]></title>
         <id>https://v.daum.net/v/20240503030356784</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240503030056601"/>
         <updated>2024-05-02T18:20:16.563Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이동규의 두줄칼럼] [137] 장사에서 경영으로]]></title>
-        <id>https://v.daum.net/v/20240503025716579</id>
-        <link href="https://v.daum.net/v/20240503025716579"/>
-        <updated>2024-05-02T18:20:16.565Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">02:57</span>]]></content>
     </entry>
 </feed>
