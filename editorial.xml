@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-05-03T06:20:56.474Z</updated>
+    <updated>2024-05-03T07:15:50.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[민희진의 ‘내 새끼’와 K팝[오늘을 생각한다]]]></title>
+        <id>https://v.daum.net/v/20240503160008013</id>
+        <link href="https://v.daum.net/v/20240503160008013"/>
+        <updated>2024-05-03T07:15:35.609Z</updated>
+        <content type="html"><![CDATA[주간경향<span class="txt_bar"> · </span><span class="info_time">16:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘채 상병 특검’ 통 크게 못 받은 尹, ‘국정 파트너’로 격상된 李  [유창선의 시시비비]]]></title>
         <id>https://v.daum.net/v/20240503150207191</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240503114521774"/>
         <updated>2024-05-03T03:19:12.015Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민정수석 부활과 대통령 소통의 正道[포럼]]]></title>
-        <id>https://v.daum.net/v/20240503114227687</id>
-        <link href="https://v.daum.net/v/20240503114227687"/>
-        <updated>2024-05-03T03:19:12.016Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:42</span>]]></content>
     </entry>
 </feed>
