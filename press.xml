@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-05-03T12:29:31.010Z</updated>
+    <updated>2024-05-03T13:18:27.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여주시, 도자기 축제 대비 CCTV 안전 대응 체계 구축]]></title>
+        <id>https://v.daum.net/v/20240503220719621</id>
+        <link href="https://v.daum.net/v/20240503220719621"/>
+        <updated>2024-05-03T13:18:19.505Z</updated>
+        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">22:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[광주시, “10억 원 이상 대규모 투자사업 적기 집행”]]></title>
+        <id>https://v.daum.net/v/20240503220631605</id>
+        <link href="https://v.daum.net/v/20240503220631605"/>
+        <updated>2024-05-03T13:18:19.506Z</updated>
+        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">22:06</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남양주시, 국유지 활용 '생활환경숲' 조성..시민 휴식 공간 인기]]></title>
         <id>https://v.daum.net/v/20240503212634968</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240503170935978"/>
         <updated>2024-05-03T08:19:21.347Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">17:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이현재 하남시장, “학생·학부모 모두 행복한 하남시 만들어 나갈 것“]]></title>
-        <id>https://v.daum.net/v/20240503170720932</id>
-        <link href="https://v.daum.net/v/20240503170720932"/>
-        <updated>2024-05-03T08:19:21.349Z</updated>
-        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">17:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남양주시, '진접읍 생활환경숲 조성사업' 완료]]></title>
-        <id>https://v.daum.net/v/20240503170318826</id>
-        <link href="https://v.daum.net/v/20240503170318826"/>
-        <updated>2024-05-03T08:19:21.350Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:03</span>]]></content>
     </entry>
 </feed>
