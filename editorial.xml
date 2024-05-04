@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-05-03T23:16:12.785Z</updated>
+    <updated>2024-05-04T01:04:11.298Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](4일 조간)]]></title>
+        <id>https://v.daum.net/v/20240504100007648</id>
+        <link href="https://v.daum.net/v/20240504100007648"/>
+        <updated>2024-05-04T01:03:56.756Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">10:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[교차로 우회전 일시정지 단속 1년에도 집중단속 실시]]></title>
+        <id>https://v.daum.net/v/20240504090438010</id>
+        <link href="https://v.daum.net/v/20240504090438010"/>
+        <updated>2024-05-04T01:03:56.758Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">09:04</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[김회룡의 시사 TOON]]]></title>
         <id>https://v.daum.net/v/20240504080202401</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240504040716577"/>
         <updated>2024-05-03T19:13:06.861Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘의대 증원’ 정부 정책 따져보겠다는 법원, 어떤 결정 해도 혼란]]></title>
-        <id>https://v.daum.net/v/20240504040659575</id>
-        <link href="https://v.daum.net/v/20240504040659575"/>
-        <updated>2024-05-03T19:13:06.863Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">04:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[내 인생의 나침반이 된 성경말씀] 바울의 신앙고백이 신학 향한 사명을 깨우다]]></title>
-        <id>https://v.daum.net/v/20240504040326567</id>
-        <link href="https://v.daum.net/v/20240504040326567"/>
-        <updated>2024-05-03T19:13:06.864Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:03</span>]]></content>
     </entry>
 </feed>
