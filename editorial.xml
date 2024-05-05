@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-05-05T21:13:53.801Z</updated>
+    <updated>2024-05-05T22:16:08.954Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[이충재의 인사이트] 대통령실 '채 상병 특검' 거부 논리, 터무니없다]]></title>
+        <id>https://v.daum.net/v/20240506065701184</id>
+        <link href="https://v.daum.net/v/20240506065701184"/>
+        <updated>2024-05-05T22:15:53.493Z</updated>
+        <content type="html"><![CDATA[오마이뉴스<span class="txt_bar"> · </span><span class="info_time">06:57</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[한국과학기술연구원(KIST) 함께하는 과학 다이브] 복원계 슈퍼스타 한지·컬러 옻칠… 전통문화에 깃든 첨단 기술 혁명]]></title>
         <id>https://v.daum.net/v/20240506050438427</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240506043101248"/>
         <updated>2024-05-05T20:15:26.375Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뒤집으려면 민희진처럼 [뉴스룸에서]]]></title>
-        <id>https://v.daum.net/v/20240506043044245</id>
-        <link href="https://v.daum.net/v/20240506043044245"/>
-        <updated>2024-05-05T20:15:26.376Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
     </entry>
 </feed>
