@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2024-05-05T17:13:46.502Z</updated>
+    <updated>2024-05-05T18:19:09.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한·일·중 정상회의 26~27일 서울 개최 조율]]></title>
+        <id>https://v.daum.net/v/20240506024208053</id>
+        <link href="https://v.daum.net/v/20240506024208053"/>
+        <updated>2024-05-05T18:18:08.128Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">02:42</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“尹, 임기 4년 중임제 개헌 나서야 국정 위기 돌파 가능”]]></title>
         <id>https://v.daum.net/v/20240506020318908</id>
         <link href="https://v.daum.net/v/20240506020318908"/>
         <updated>2024-05-05T17:12:09.765Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘28차례 의정협의’ 보도자료 낸 정부 “회의록은 없다”]]></title>
+        <id>https://v.daum.net/v/20240506014141850</id>
+        <link href="https://v.daum.net/v/20240506014141850"/>
+        <updated>2024-05-05T18:18:08.131Z</updated>
+        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">01:41</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인니 “KF-21 분담금 당초 3분의 1만 내겠다”]]></title>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240506013708806"/>
         <updated>2024-05-05T17:12:09.781Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">01:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[추경호·송석준·이종배 국힘 원내대표 ‘3파전’]]></title>
-        <id>https://v.daum.net/v/20240506013608805</id>
-        <link href="https://v.daum.net/v/20240506013608805"/>
-        <updated>2024-05-05T17:12:09.782Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">01:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사면초가 용산… “채상병 특검법 좀 더 검토”]]></title>
-        <id>https://v.daum.net/v/20240506013208802</id>
-        <link href="https://v.daum.net/v/20240506013208802"/>
-        <updated>2024-05-05T17:12:09.783Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">01:32</span>]]></content>
     </entry>
 </feed>
