@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-05-05T08:18:35.420Z</updated>
+    <updated>2024-05-05T09:18:05.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사설] 검찰의 김건희 명품백 늑장 수사, ‘특검 방탄용’ 안 된다]]></title>
+        <id>https://v.daum.net/v/20240505181503256</id>
+        <link href="https://v.daum.net/v/20240505181503256"/>
+        <updated>2024-05-05T09:17:45.739Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">18:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국일보 5월 6일 만평]]></title>
+        <id>https://v.daum.net/v/20240505181014178</id>
+        <link href="https://v.daum.net/v/20240505181014178"/>
+        <updated>2024-05-05T09:17:45.740Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">18:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이디]]></title>
+        <id>https://v.daum.net/v/20240505175417967</id>
+        <link href="https://v.daum.net/v/20240505175417967"/>
+        <updated>2024-05-05T09:17:45.742Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:54</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[기자24시] '공유지의 비극' 실손보험]]></title>
         <id>https://v.daum.net/v/20240505171806568</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240505163040850"/>
         <updated>2024-05-05T08:18:22.413Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">16:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기초학력 보장이 학생 인권 보장이라구요?]]></title>
-        <id>https://v.daum.net/v/20240505125918083</id>
-        <link href="https://v.daum.net/v/20240505125918083"/>
-        <updated>2024-05-05T04:19:41.052Z</updated>
-        <content type="html"><![CDATA[프레시안<span class="txt_bar"> · </span><span class="info_time">12:59</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[위클리키워드] 승자의 저주]]></title>
-        <id>https://v.daum.net/v/20240505100215013</id>
-        <link href="https://v.daum.net/v/20240505100215013"/>
-        <updated>2024-05-05T01:08:51.078Z</updated>
-        <content type="html"><![CDATA[대구MBC<span class="txt_bar"> · </span><span class="info_time">10:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北유엔대사 "美, 현실 받아들이고 대북정책 실패 반성해야"]]></title>
-        <id>https://v.daum.net/v/20240505095049833</id>
-        <link href="https://v.daum.net/v/20240505095049833"/>
-        <updated>2024-05-05T01:08:51.081Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">09:50</span>]]></content>
     </entry>
 </feed>
