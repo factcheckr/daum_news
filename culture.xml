@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2024-05-06T16:21:38.436Z</updated>
+    <updated>2024-05-06T17:16:24.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['타이타닉'·'반지의제왕' 배우 버나드힐 79세로 별세]]></title>
+        <id>https://v.daum.net/v/20240507020945319</id>
+        <link href="https://v.daum.net/v/20240507020945319"/>
+        <updated>2024-05-06T17:15:32.507Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">02:09</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[날씨] 오늘까지 전국 비...출근길 안개 주의]]></title>
         <id>https://v.daum.net/v/20240507011011178</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240507000555809</id>
         <link href="https://v.daum.net/v/20240507000555809"/>
         <updated>2024-05-06T15:16:27.170Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고요한 평면의 미학, 은둔과 명상으로 펼치다]]></title>
-        <id>https://v.daum.net/v/20240507000547807</id>
-        <link href="https://v.daum.net/v/20240507000547807"/>
-        <updated>2024-05-06T15:16:27.174Z</updated>
         <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
     </entry>
 </feed>

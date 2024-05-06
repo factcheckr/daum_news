@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-05-06T16:21:38.439Z</updated>
+    <updated>2024-05-06T17:16:24.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[청계광장]돌고 돈다]]></title>
+        <id>https://v.daum.net/v/20240507020302313</id>
+        <link href="https://v.daum.net/v/20240507020302313"/>
+        <updated>2024-05-06T17:16:08.131Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 소통 위해 만든다는 민정수석, 소통 걸림돌 되지 말기를]]></title>
         <id>https://v.daum.net/v/20240507004613089</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240507003536054"/>
         <updated>2024-05-06T16:21:21.878Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기고] 혁신 날개 달고 지구 지키는 두 바퀴]]></title>
-        <id>https://v.daum.net/v/20240507003524053</id>
-        <link href="https://v.daum.net/v/20240507003524053"/>
-        <updated>2024-05-06T16:21:21.879Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:35</span>]]></content>
     </entry>
 </feed>
