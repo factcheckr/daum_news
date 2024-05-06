@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-05-06T11:16:36.392Z</updated>
+    <updated>2024-05-06T12:29:05.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024년 5월 7일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20240506204219312</id>
+        <link href="https://v.daum.net/v/20240506204219312"/>
+        <updated>2024-05-06T12:28:49.745Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:42</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[만물상] 램프를 탈출한 요정, AI]]></title>
+        <id>https://v.daum.net/v/20240506202801212</id>
+        <link href="https://v.daum.net/v/20240506202801212"/>
+        <updated>2024-05-06T12:28:49.746Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">20:28</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정동칼럼]영국 총리님, 얼마나 아파야 쉴 수 있죠]]></title>
         <id>https://v.daum.net/v/20240506201542112</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240506200933049"/>
         <updated>2024-05-06T11:16:18.307Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let's fly to Europe!]]></title>
-        <id>https://v.daum.net/v/20240506200802035</id>
-        <link href="https://v.daum.net/v/20240506200802035"/>
-        <updated>2024-05-06T11:16:18.308Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Time for Seoul-Beijing ties to get back on track]]></title>
-        <id>https://v.daum.net/v/20240506200630024</id>
-        <link href="https://v.daum.net/v/20240506200630024"/>
-        <updated>2024-05-06T11:16:18.310Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:06</span>]]></content>
     </entry>
 </feed>
