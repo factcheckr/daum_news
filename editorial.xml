@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-05-06T05:20:05.642Z</updated>
+    <updated>2024-05-06T06:21:42.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예술돋보기] 기후변화를 바라보는 음악적 시각]]></title>
+        <id>https://v.daum.net/v/20240506143048674</id>
+        <link href="https://v.daum.net/v/20240506143048674"/>
+        <updated>2024-05-06T06:21:25.234Z</updated>
+        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">14:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[태영건설, 조직개편 단행… "조직 슬림화· 5본부 2실 24팀 변경"]]></title>
         <id>https://v.daum.net/v/20240506140115229</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240506050345417</id>
         <link href="https://v.daum.net/v/20240506050345417"/>
         <updated>2024-05-05T20:15:26.363Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[글로벌 In&Out] 동맹과 라이벌의 삼중 안보 위협]]></title>
-        <id>https://v.daum.net/v/20240506050343416</id>
-        <link href="https://v.daum.net/v/20240506050343416"/>
-        <updated>2024-05-05T20:15:26.364Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
     </entry>
 </feed>
