@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-05-07T11:17:49.897Z</updated>
+    <updated>2024-05-07T12:30:51.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[퀀텀온, 60억원 3자배정 유상증자 결정]]></title>
+        <id>https://v.daum.net/v/20240507205847349</id>
+        <link href="https://v.daum.net/v/20240507205847349"/>
+        <updated>2024-05-07T12:30:50.393Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">20:58</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[07일, 기관 코스닥에서 코칩(+58.06%), 에스케이증권제12호스팩(+4.5%) 등 순매도]]></title>
         <id>https://v.daum.net/v/20240507183616132</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240507131806270"/>
         <updated>2024-05-07T04:22:09.506Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">13:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['대양전기공업' 52주 신고가 경신, 기관 3일 연속 순매수(1.1만주)]]></title>
-        <id>https://v.daum.net/v/20240507120501212</id>
-        <link href="https://v.daum.net/v/20240507120501212"/>
-        <updated>2024-05-07T03:20:12.423Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">12:05</span>]]></content>
     </entry>
 </feed>
