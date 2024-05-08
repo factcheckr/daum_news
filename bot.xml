@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-05-08T03:18:55.308Z</updated>
+    <updated>2024-05-08T04:17:04.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['BNK금융지주' 52주 신고가 경신, 1Q24 Review: 예상 상회한 견조한 실적, CET1 12.0% 주목 - 교보증권, BUY]]></title>
+        <id>https://v.daum.net/v/20240508131503917</id>
+        <link href="https://v.daum.net/v/20240508131503917"/>
+        <updated>2024-05-08T04:17:03.465Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">13:15</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인천 청라동 청라힐데스하임 59㎡ 4억9000만원에 거래]]></title>
         <id>https://v.daum.net/v/20240508121040671</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240508091003107"/>
         <updated>2024-05-08T00:55:17.055Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금호건설 수주공시 - 청주테크노폴리스 A8블록 공동주택 신축공사 2,915.9억원 (매출액대비  13.15 %)]]></title>
-        <id>https://v.daum.net/v/20240508085602565</id>
-        <link href="https://v.daum.net/v/20240508085602565"/>
-        <updated>2024-05-08T00:55:17.057Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">08:56</span>]]></content>
     </entry>
 </feed>
