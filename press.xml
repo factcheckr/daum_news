@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-05-08T10:21:40.241Z</updated>
+    <updated>2024-05-08T11:15:10.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Infosys to Accelerate Yunex Traffic's ERP Transformation]]></title>
+        <id>https://v.daum.net/v/20240508194452620</id>
+        <link href="https://v.daum.net/v/20240508194452620"/>
+        <updated>2024-05-08T11:15:00.427Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">19:44</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] SANY Catalyzes Australia's National Hydrogen Strategy]]></title>
         <id>https://v.daum.net/v/20240508181342473</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240508170702013"/>
         <updated>2024-05-08T08:19:05.158Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구리시, '골목형 상점가' 추가 지정]]></title>
-        <id>https://v.daum.net/v/20240508170546935</id>
-        <link href="https://v.daum.net/v/20240508170546935"/>
-        <updated>2024-05-08T08:19:05.159Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:05</span>]]></content>
     </entry>
 </feed>
