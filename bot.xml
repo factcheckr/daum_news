@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-05-08T04:17:04.089Z</updated>
+    <updated>2024-05-08T05:15:33.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코스텍시스, 7억5천만원 3자배정 유상증자 결정]]></title>
+        <id>https://v.daum.net/v/20240508135044936</id>
+        <link href="https://v.daum.net/v/20240508135044936"/>
+        <updated>2024-05-08T05:15:32.742Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">13:50</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['BNK금융지주' 52주 신고가 경신, 1Q24 Review: 예상 상회한 견조한 실적, CET1 12.0% 주목 - 교보증권, BUY]]></title>
         <id>https://v.daum.net/v/20240508131503917</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240508091006111</id>
         <link href="https://v.daum.net/v/20240508091006111"/>
         <updated>2024-05-08T00:55:17.053Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['롯데웰푸드' 52주 신고가 경신, 착실히 진행 중인 국내외 수익성 개선 - DS투자증권, BUY]]></title>
-        <id>https://v.daum.net/v/20240508091003107</id>
-        <link href="https://v.daum.net/v/20240508091003107"/>
-        <updated>2024-05-08T00:55:17.055Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:10</span>]]></content>
     </entry>
 </feed>
