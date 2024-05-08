@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-05-08T12:29:46.479Z</updated>
+    <updated>2024-05-08T13:19:53.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[국민만평-서민호 화백] 2024년 5월 9일]]></title>
+        <id>https://v.daum.net/v/20240508220642511</id>
+        <link href="https://v.daum.net/v/20240508220642511"/>
+        <updated>2024-05-08T13:19:34.375Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">22:06</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 5월 9일[김용민의 그림마당]]]></title>
         <id>https://v.daum.net/v/20240508205103089</id>
@@ -62,6 +69,13 @@
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:09</span>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[임아영의 레인보 Rainbow]44년 만에 ‘피해자’에서 ‘증언자’로]]></title>
+        <id>https://v.daum.net/v/20240508200957203</id>
+        <link href="https://v.daum.net/v/20240508200957203"/>
+        <updated>2024-05-08T13:19:34.389Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:09</span>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[역사와 현실]일본, 1억 총 연극의 사회]]></title>
         <id>https://v.daum.net/v/20240508200941193</id>
         <link href="https://v.daum.net/v/20240508200941193"/>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240508195354811"/>
         <updated>2024-05-08T11:14:51.338Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:53</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to shake up the Constitution]]></title>
-        <id>https://v.daum.net/v/20240508195313797</id>
-        <link href="https://v.daum.net/v/20240508195313797"/>
-        <updated>2024-05-08T11:14:51.339Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:53</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can Biden defeat Trump in the rematch?]]></title>
-        <id>https://v.daum.net/v/20240508195223786</id>
-        <link href="https://v.daum.net/v/20240508195223786"/>
-        <updated>2024-05-08T11:14:51.341Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:52</span>]]></content>
     </entry>
 </feed>
