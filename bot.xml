@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-05-08T02:19:43.525Z</updated>
+    <updated>2024-05-08T03:18:55.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인천 청라동 청라힐데스하임 59㎡ 4억9000만원에 거래]]></title>
+        <id>https://v.daum.net/v/20240508121040671</id>
+        <link href="https://v.daum.net/v/20240508121040671"/>
+        <updated>2024-05-08T03:18:54.749Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천 청라동 청라제일풍경채2차에듀앤파크 84㎡ 7억4500만원에 거래]]></title>
+        <id>https://v.daum.net/v/20240508120616537</id>
+        <link href="https://v.daum.net/v/20240508120616537"/>
+        <updated>2024-05-08T03:18:54.750Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:06</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[성남 창곡동 위례 자연&래미안e편한세상 84㎡ 12억8500만원에 거래]]></title>
+        <id>https://v.daum.net/v/20240508120039288</id>
+        <link href="https://v.daum.net/v/20240508120039288"/>
+        <updated>2024-05-08T03:18:54.752Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['세방전지' 52주 신고가 경신, 기관 10일 연속 순매수(8.5만주)]]></title>
         <id>https://v.daum.net/v/20240508100302354</id>
@@ -88,12 +109,5 @@
         <link href="https://v.daum.net/v/20240508085602565"/>
         <updated>2024-05-08T00:55:17.057Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">08:56</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘의 날씨 - 오전 (2024년 05월 08일)]]></title>
-        <id>https://v.daum.net/v/20240508053241109</id>
-        <link href="https://v.daum.net/v/20240508053241109"/>
-        <updated>2024-05-07T21:14:51.223Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">05:32</span>]]></content>
     </entry>
 </feed>
