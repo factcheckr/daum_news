@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-05-09T03:21:39.945Z</updated>
+    <updated>2024-05-09T04:22:04.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[데일리안 시사만평] 醫政 갈등 장기화에 환자는 피눈물… 외국 의사 수입하면 나아질려나?]]></title>
+        <id>https://v.daum.net/v/20240509122124168</id>
+        <link href="https://v.daum.net/v/20240509122124168"/>
+        <updated>2024-05-09T04:21:47.376Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">12:21</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[속보] 尹 "의대증원 미룰 수 없는 과제...저출생 해결 의료개혁 중요"]]></title>
         <id>https://v.daum.net/v/20240509114932016</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240509110945538"/>
         <updated>2024-05-09T02:30:27.649Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prepare mechanisms to deal with defense contract violations (KOR)]]></title>
-        <id>https://v.daum.net/v/20240509110307192</id>
-        <link href="https://v.daum.net/v/20240509110307192"/>
-        <updated>2024-05-09T02:30:27.651Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">11:03</span>]]></content>
     </entry>
 </feed>
