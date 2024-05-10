@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-05-10T20:16:36.735Z</updated>
+    <updated>2024-05-10T21:16:44.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임을 위한 행진곡은 계속된다 [ESC]]]></title>
+        <id>https://v.daum.net/v/20240511060501716</id>
+        <link href="https://v.daum.net/v/20240511060501716"/>
+        <updated>2024-05-10T21:16:31.491Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">06:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[신세돈의 경제통감] 30대 취업자 증가와 인구감소]]></title>
+        <id>https://v.daum.net/v/20240511053056409</id>
+        <link href="https://v.daum.net/v/20240511053056409"/>
+        <updated>2024-05-10T21:16:31.495Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[토픽과 집합[서우석의 문화 프리즘]]]></title>
         <id>https://v.daum.net/v/20240511050027260</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240511010016556"/>
         <updated>2024-05-10T16:20:44.012Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">01:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[통제영 중심 군산정 하나로 묶어, 강력한 물의 요새 구축]]></title>
-        <id>https://v.daum.net/v/20240511005917545</id>
-        <link href="https://v.daum.net/v/20240511005917545"/>
-        <updated>2024-05-10T16:20:44.013Z</updated>
-        <content type="html"><![CDATA[중앙SUNDAY<span class="txt_bar"> · </span><span class="info_time">00:59</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[천자칼럼] 보잉의 굴욕]]></title>
-        <id>https://v.daum.net/v/20240511005902542</id>
-        <link href="https://v.daum.net/v/20240511005902542"/>
-        <updated>2024-05-10T16:20:44.013Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:59</span>]]></content>
     </entry>
 </feed>
