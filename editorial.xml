@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-05-10T03:17:55.685Z</updated>
+    <updated>2024-05-10T04:18:59.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[직설] 윤 정부 2년, 경제 정책 성적은?]]></title>
+        <id>https://v.daum.net/v/20240510130715505</id>
+        <link href="https://v.daum.net/v/20240510130715505"/>
+        <updated>2024-05-10T04:18:46.951Z</updated>
+        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">13:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[채무자보호법 안착 “조금씩 양보 합시다” [데스크칼럼]]]></title>
         <id>https://v.daum.net/v/20240510120401970</id>
@@ -83,7 +90,7 @@
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:39</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[두 얼굴의 '봄'… 이재용 회장이 던진 화두 [데스크 칼럼]]]></title>
+        <title type="html"><![CDATA[두 얼굴의 '봄'… 이재용 회장이 던진 반도체 화두 [데스크 칼럼]]]></title>
         <id>https://v.daum.net/v/20240510112804395</id>
         <link href="https://v.daum.net/v/20240510112804395"/>
         <updated>2024-05-10T03:17:37.225Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240510111143433"/>
         <updated>2024-05-10T02:31:50.023Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시시비비]가정의 달, 회한이 남지 않으려면]]></title>
-        <id>https://v.daum.net/v/20240510111139427</id>
-        <link href="https://v.daum.net/v/20240510111139427"/>
-        <updated>2024-05-10T02:31:50.024Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:11</span>]]></content>
     </entry>
 </feed>
