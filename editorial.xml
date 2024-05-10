@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-05-10T21:16:44.278Z</updated>
+    <updated>2024-05-10T22:16:40.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[파리 못 가는 한국축구, A대표팀 감독 선임이 책임지는 건가요 [기자수첩-스포츠]]]></title>
+        <id>https://v.daum.net/v/20240511070106259</id>
+        <link href="https://v.daum.net/v/20240511070106259"/>
+        <updated>2024-05-10T22:16:23.262Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[저출생대응기획부에 대한 기대와 우려 [임채운 교수의 경제를 보는 눈]]]></title>
+        <id>https://v.daum.net/v/20240511070057253</id>
+        <link href="https://v.daum.net/v/20240511070057253"/>
+        <updated>2024-05-10T22:16:23.263Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임을 위한 행진곡은 계속된다 [ESC]]]></title>
         <id>https://v.daum.net/v/20240511060501716</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240511030415994"/>
         <updated>2024-05-10T18:20:13.943Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">03:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[토요칼럼] 외계인은 어느 은하의 행성에 있을까]]></title>
-        <id>https://v.daum.net/v/20240511010103566</id>
-        <link href="https://v.daum.net/v/20240511010103566"/>
-        <updated>2024-05-10T16:20:44.012Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">01:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 정치를 망치는 주자학적 명분론]]></title>
-        <id>https://v.daum.net/v/20240511010016556</id>
-        <link href="https://v.daum.net/v/20240511010016556"/>
-        <updated>2024-05-10T16:20:44.012Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">01:00</span>]]></content>
     </entry>
 </feed>
