@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-05-10T12:31:14.169Z</updated>
+    <updated>2024-05-10T13:18:56.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[단독] “네 자리 숫자”…해커들이 코레일 비번 노렸던 이유는? [사이버위협]]]></title>
+        <id>https://v.daum.net/v/20240510213948410</id>
+        <link href="https://v.daum.net/v/20240510213948410"/>
+        <updated>2024-05-10T13:18:30.492Z</updated>
+        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">21:39</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["日에 라인 뺏기면 일자리 잃나"…네이버·라인 직원들 '동요']]></title>
+        <id>https://v.daum.net/v/20240510213216319</id>
+        <link href="https://v.daum.net/v/20240510213216319"/>
+        <updated>2024-05-10T13:18:30.495Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">21:32</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[렐루게임즈, 한국MS와 AI 게임 개발 맞손]]></title>
         <id>https://v.daum.net/v/20240510212305213</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240510202605420"/>
         <updated>2024-05-10T12:30:51.597Z</updated>
         <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">20:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['갤S24' 힘입은 삼성…4년만에 美 점유율 최고치]]></title>
-        <id>https://v.daum.net/v/20240510202324397</id>
-        <link href="https://v.daum.net/v/20240510202324397"/>
-        <updated>2024-05-10T12:30:51.598Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">20:23</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“AI폰 덕” 삼성전자, 美 4년만 최고 점유율...인도는 1위]]></title>
-        <id>https://v.daum.net/v/20240510201111258</id>
-        <link href="https://v.daum.net/v/20240510201111258"/>
-        <updated>2024-05-10T11:14:21.845Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">20:11</span>]]></content>
     </entry>
 </feed>
