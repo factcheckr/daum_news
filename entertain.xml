@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2024-05-11T16:21:15.019Z</updated>
+    <updated>2024-05-11T17:15:33.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘전지적 참견 시점’ 홍현희, ‘리마인드 웨딩’ 한다더니? “그저 먹방만”]]></title>
+        <id>https://v.daum.net/v/20240512014954195</id>
+        <link href="https://v.daum.net/v/20240512014954195"/>
+        <updated>2024-05-11T17:14:56.172Z</updated>
+        <content type="html"><![CDATA[MBC연예<span class="txt_bar"> · </span><span class="info_time">01:49</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["정려원, 예뻐서 설렜다" 연하남 위하준과 현실 '커플' 케미 폭발]]></title>
         <id>https://v.daum.net/v/20240512011747044</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240512002247828"/>
         <updated>2024-05-11T16:20:29.584Z</updated>
         <content type="html"><![CDATA[OSEN<span class="txt_bar"> · </span><span class="info_time">00:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현아 "과거 김밥 한 알 먹고 스케줄…지금은 8kg 찌운 상태" (전지적 참견시점)]]></title>
-        <id>https://v.daum.net/v/20240512002142825</id>
-        <link href="https://v.daum.net/v/20240512002142825"/>
-        <updated>2024-05-11T16:20:29.586Z</updated>
-        <content type="html"><![CDATA[마이데일리<span class="txt_bar"> · </span><span class="info_time">00:21</span>]]></content>
     </entry>
 </feed>
