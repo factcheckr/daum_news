@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-05-11T08:19:52.052Z</updated>
+    <updated>2024-05-11T09:16:33.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[북 `라자루스` 해킹 추정…혼인증명서까지, 유출 확인은 0.5％뿐]]></title>
+        <id>https://v.daum.net/v/20240511175811555</id>
+        <link href="https://v.daum.net/v/20240511175811555"/>
+        <updated>2024-05-11T09:16:06.837Z</updated>
+        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">17:58</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[21년 만의 최고등급 '태양폭풍'..美 "정전·전파교란 위험"]]></title>
+        <id>https://v.daum.net/v/20240511175402509</id>
+        <link href="https://v.daum.net/v/20240511175402509"/>
+        <updated>2024-05-11T09:16:06.840Z</updated>
+        <content type="html"><![CDATA[kbc광주방송<span class="txt_bar"> · </span><span class="info_time">17:54</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부고] 김준석(에이디테크놀로지 회장)씨 빙부상]]></title>
         <id>https://v.daum.net/v/20240511165638866</id>
@@ -34,7 +48,7 @@
         <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">16:06</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[100만원이 아니고 이 가격이라고?…애플빠도 '기겁']]></title>
+        <title type="html"><![CDATA["냉장고 가격보다 비싸네"…아이패드 사려다가 '기겁']]></title>
         <id>https://v.daum.net/v/20240511154902219</id>
         <link href="https://v.daum.net/v/20240511154902219"/>
         <updated>2024-05-11T07:15:51.054Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240511140944214"/>
         <updated>2024-05-11T05:15:33.711Z</updated>
         <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">14:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“자생력이 경쟁력이다”… MS도 오픈AI도 애플도 ‘AI 빌드업’]]></title>
-        <id>https://v.daum.net/v/20240511140007114</id>
-        <link href="https://v.daum.net/v/20240511140007114"/>
-        <updated>2024-05-11T05:15:33.712Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[갑자기 코인 세금 고지서…"내년 아니었어?"]]></title>
-        <id>https://v.daum.net/v/20240511140003111</id>
-        <link href="https://v.daum.net/v/20240511140003111"/>
-        <updated>2024-05-11T05:15:33.714Z</updated>
-        <content type="html"><![CDATA[비즈워치<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
     </entry>
 </feed>
