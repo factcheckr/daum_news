@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-05-12T10:19:59.626Z</updated>
+    <updated>2024-05-12T11:13:58.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인천 서구, 우기 대비 건축현장 특별안전 점검]]></title>
+        <id>https://v.daum.net/v/20240512193420657</id>
+        <link href="https://v.daum.net/v/20240512193420657"/>
+        <updated>2024-05-12T11:13:48.642Z</updated>
+        <content type="html"><![CDATA[투어코리아<span class="txt_bar"> · </span><span class="info_time">19:34</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김경일 파주시장, 매니페스토 ‘최우수(SA)등급’]]></title>
         <id>https://v.daum.net/v/20240512135442036</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240512095703054"/>
         <updated>2024-05-12T01:12:45.245Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">09:57</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[키웨이 코리아, 강력한 125cc 라인업으로 본격 한국시장 진출]]></title>
-        <id>https://v.daum.net/v/20240512093703812</id>
-        <link href="https://v.daum.net/v/20240512093703812"/>
-        <updated>2024-05-12T01:12:45.245Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">09:37</span>]]></content>
     </entry>
 </feed>
