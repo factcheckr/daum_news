@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-05-13T11:14:06.889Z</updated>
+    <updated>2024-05-13T12:29:39.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[만물상] ‘백발백중 AI 투자 모델’]]></title>
+        <id>https://v.daum.net/v/20240513211233566</id>
+        <link href="https://v.daum.net/v/20240513211233566"/>
+        <updated>2024-05-13T12:29:24.476Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">21:12</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주 6일제란 화두 [김선걸 칼럼]]]></title>
+        <id>https://v.daum.net/v/20240513210311455</id>
+        <link href="https://v.daum.net/v/20240513210311455"/>
+        <updated>2024-05-13T12:29:24.481Z</updated>
+        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">21:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024년 5월 14일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20240513204641214</id>
+        <link href="https://v.daum.net/v/20240513204641214"/>
+        <updated>2024-05-13T12:29:24.484Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:46</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[세상 읽기]또 다른 5월과 팔레스타인]]></title>
         <id>https://v.daum.net/v/20240513201213757</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240513194531405"/>
         <updated>2024-05-13T11:13:52.789Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5월 14일 한겨레 그림판]]></title>
-        <id>https://v.daum.net/v/20240513194508399</id>
-        <link href="https://v.daum.net/v/20240513194508399"/>
-        <updated>2024-05-13T11:13:52.790Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An emotional approach doesn’t help at all]]></title>
-        <id>https://v.daum.net/v/20240513194410379</id>
-        <link href="https://v.daum.net/v/20240513194410379"/>
-        <updated>2024-05-13T11:13:52.792Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:44</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[For the rule of law, not rule by law]]></title>
-        <id>https://v.daum.net/v/20240513194310363</id>
-        <link href="https://v.daum.net/v/20240513194310363"/>
-        <updated>2024-05-13T11:13:52.793Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:43</span>]]></content>
     </entry>
 </feed>
