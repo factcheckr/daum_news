@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-05-13T03:18:19.780Z</updated>
+    <updated>2024-05-13T04:24:44.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서울 목동 목동7단지 74㎡ 20억3000만원... 역대 최고가]]></title>
+        <id>https://v.daum.net/v/20240513123038224</id>
+        <link href="https://v.daum.net/v/20240513123038224"/>
+        <updated>2024-05-13T04:24:43.674Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울 신월동 신월시영아파트 43㎡ 4억5000만원에 거래]]></title>
+        <id>https://v.daum.net/v/20240513122541150</id>
+        <link href="https://v.daum.net/v/20240513122541150"/>
+        <updated>2024-05-13T04:24:43.676Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:25</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울 반포동 반포리체 59㎡ 22억6500만원에 거래]]></title>
+        <id>https://v.daum.net/v/20240513122038079</id>
+        <link href="https://v.daum.net/v/20240513122038079"/>
+        <updated>2024-05-13T04:24:43.677Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:20</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울 목동 목동5단지 115㎡ 26억3000만원에 거래]]></title>
         <id>https://v.daum.net/v/20240513121544960</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240513094902632"/>
         <updated>2024-05-13T01:09:00.366Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:49</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['HD한국조선해양' 52주 신고가 경신, 최근 3일간 기관 대량 순매수]]></title>
-        <id>https://v.daum.net/v/20240513094505489</id>
-        <link href="https://v.daum.net/v/20240513094505489"/>
-        <updated>2024-05-13T01:09:00.367Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['한샘' 52주 신고가 경신, 기관 5일 연속 순매수(8.1만주)]]></title>
-        <id>https://v.daum.net/v/20240513093603090</id>
-        <link href="https://v.daum.net/v/20240513093603090"/>
-        <updated>2024-05-13T01:09:00.368Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['지엔씨에너지' 52주 신고가 경신, 최근 3일간 외국인 대량 순매도]]></title>
-        <id>https://v.daum.net/v/20240513093203926</id>
-        <link href="https://v.daum.net/v/20240513093203926"/>
-        <updated>2024-05-13T01:09:00.370Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:32</span>]]></content>
     </entry>
 </feed>
