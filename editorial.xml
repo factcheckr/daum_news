@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-05-14T17:14:32.376Z</updated>
+    <updated>2024-05-14T18:20:42.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[김운성 목사의 하루 묵상] 조각칼]]></title>
+        <id>https://v.daum.net/v/20240515030743254</id>
+        <link href="https://v.daum.net/v/20240515030743254"/>
+        <updated>2024-05-14T18:20:27.166Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">03:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이슈프리즘] 국내서 홀대받는 플랫폼 독립군들]]></title>
         <id>https://v.daum.net/v/20240515010502830</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240515003627694"/>
         <updated>2024-05-14T16:23:55.790Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[살며 사랑하며] 반복도 번복도 없는]]></title>
-        <id>https://v.daum.net/v/20240515003605692</id>
-        <link href="https://v.daum.net/v/20240515003605692"/>
-        <updated>2024-05-14T16:23:55.791Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:36</span>]]></content>
     </entry>
 </feed>
