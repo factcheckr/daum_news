@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-05-15T22:18:01.105Z</updated>
+    <updated>2024-05-15T23:16:54.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[만화] 최적의 자세를 찾아라 [날백수인생]]]></title>
+        <id>https://v.daum.net/v/20240516081501565</id>
+        <link href="https://v.daum.net/v/20240516081501565"/>
+        <updated>2024-05-15T23:16:37.341Z</updated>
+        <content type="html"><![CDATA[오마이뉴스<span class="txt_bar"> · </span><span class="info_time">08:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](16일 조간)]]></title>
+        <id>https://v.daum.net/v/20240516080016264</id>
+        <link href="https://v.daum.net/v/20240516080016264"/>
+        <updated>2024-05-15T23:16:37.341Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부추부침개의 계절이 왔다]]></title>
+        <id>https://v.daum.net/v/20240516075941240</id>
+        <link href="https://v.daum.net/v/20240516075941240"/>
+        <updated>2024-05-15T23:16:37.345Z</updated>
+        <content type="html"><![CDATA[베이비뉴스<span class="txt_bar"> · </span><span class="info_time">07:59</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[혐오도 폭력도, ‘공정’인가요 [세상읽기]]]></title>
         <id>https://v.daum.net/v/20240516070501283</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240516054551911"/>
         <updated>2024-05-15T21:18:33.183Z</updated>
         <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">05:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Editorial] Korea-China relations]]></title>
-        <id>https://v.daum.net/v/20240516053055716</id>
-        <link href="https://v.daum.net/v/20240516053055716"/>
-        <updated>2024-05-15T21:18:33.183Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Wang Son-taek] Nuclear proliferation and the US national interest]]></title>
-        <id>https://v.daum.net/v/20240516053045709</id>
-        <link href="https://v.daum.net/v/20240516053045709"/>
-        <updated>2024-05-15T21:18:33.185Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[우보세] '건보 먹튀' 중국인 걸러낼 촘촘한 법망]]></title>
-        <id>https://v.daum.net/v/20240516053005676</id>
-        <link href="https://v.daum.net/v/20240516053005676"/>
-        <updated>2024-05-15T21:18:33.185Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
     </entry>
 </feed>
