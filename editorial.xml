@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-05-15T12:34:35.144Z</updated>
+    <updated>2024-05-15T13:18:40.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1392년 5월 4일 정몽주 피살, 선죽교 ‘팩트 왜곡’의 전말[이문영의 다시 보는 그날]]]></title>
+        <id>https://v.daum.net/v/20240515221645711</id>
+        <link href="https://v.daum.net/v/20240515221645711"/>
+        <updated>2024-05-15T13:18:24.305Z</updated>
+        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">22:16</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 5월 16일[김용민의 그림마당]]]></title>
         <id>https://v.daum.net/v/20240515210954945</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240515200544195</id>
         <link href="https://v.daum.net/v/20240515200544195"/>
         <updated>2024-05-15T11:14:41.958Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">20:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[fn사설] 3천명 증원 요청한 병원협의회 신상 터는 의사들]]></title>
-        <id>https://v.daum.net/v/20240515200542194</id>
-        <link href="https://v.daum.net/v/20240515200542194"/>
-        <updated>2024-05-15T11:14:41.959Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">20:05</span>]]></content>
     </entry>
 </feed>
