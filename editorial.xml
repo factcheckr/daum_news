@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-05-15T03:21:06.405Z</updated>
+    <updated>2024-05-15T04:23:23.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“찰스말고 철수로 불러주세요” 627돌 세종대왕 나신 날 기념해 한글 알리기 글로벌 캠페인 스타트한 반크]]></title>
+        <id>https://v.daum.net/v/20240515130542374</id>
+        <link href="https://v.daum.net/v/20240515130542374"/>
+        <updated>2024-05-15T04:23:09.841Z</updated>
+        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">13:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인사] 고용노동부]]></title>
         <id>https://v.daum.net/v/20240515120100423</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240515052949992"/>
         <updated>2024-05-14T21:14:51.646Z</updated>
         <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:29</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[씨줄날줄] 네포티즘 유감]]></title>
-        <id>https://v.daum.net/v/20240515050503750</id>
-        <link href="https://v.daum.net/v/20240515050503750"/>
-        <updated>2024-05-14T20:22:17.705Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:05</span>]]></content>
     </entry>
 </feed>
