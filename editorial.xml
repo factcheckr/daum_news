@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-05-16T22:16:48.113Z</updated>
+    <updated>2024-05-16T23:17:28.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박순찬의 장도리 카툰] 범죄도시]]></title>
+        <id>https://v.daum.net/v/20240517074200325</id>
+        <link href="https://v.daum.net/v/20240517074200325"/>
+        <updated>2024-05-16T23:17:05.163Z</updated>
+        <content type="html"><![CDATA[오마이뉴스<span class="txt_bar"> · </span><span class="info_time">07:42</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[시론]'우원식 승리'가 말하는 것]]></title>
+        <id>https://v.daum.net/v/20240517072655129</id>
+        <link href="https://v.daum.net/v/20240517072655129"/>
+        <updated>2024-05-16T23:17:05.164Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">07:26</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이충재 칼럼] 윤 대통령, 두려움에 떨고 있다]]></title>
         <id>https://v.daum.net/v/20240517071200912</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240517053253695"/>
         <updated>2024-05-16T21:17:42.885Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">05:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[해외칼럼]   '시진핑정권 교체전략' 안된다]]></title>
-        <id>https://v.daum.net/v/20240517053153675</id>
-        <link href="https://v.daum.net/v/20240517053153675"/>
-        <updated>2024-05-16T21:17:42.886Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">05:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Editorial] Start working on AI bill]]></title>
-        <id>https://v.daum.net/v/20240517052916634</id>
-        <link href="https://v.daum.net/v/20240517052916634"/>
-        <updated>2024-05-16T21:17:42.888Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:29</span>]]></content>
     </entry>
 </feed>
