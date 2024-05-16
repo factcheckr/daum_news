@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-05-16T05:16:34.269Z</updated>
+    <updated>2024-05-16T06:20:31.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사과를 ‘드리고 있다’의 역설 [말글살이]]]></title>
+        <id>https://v.daum.net/v/20240516143502787</id>
+        <link href="https://v.daum.net/v/20240516143502787"/>
+        <updated>2024-05-16T06:20:04.495Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">14:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사람경영, 리더의 크기가 조직의 크기다 [한경에세이]]]></title>
         <id>https://v.daum.net/v/20240516135704925</id>
@@ -41,7 +48,7 @@
         <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">12:24</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[SCMP칼럼]투기꾼 막던 규제 해제...中부동산정책 유턴]]></title>
+        <title type="html"><![CDATA[[SCMP칼럼]투기꾼 막던 규제 해제…中부동산정책 유턴]]></title>
         <id>https://v.daum.net/v/20240516122342626</id>
         <link href="https://v.daum.net/v/20240516122342626"/>
         <updated>2024-05-16T04:16:38.159Z</updated>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240516113849139</id>
         <link href="https://v.daum.net/v/20240516113849139"/>
         <updated>2024-05-16T03:20:07.892Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:38</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 미중 통상전쟁 확대, 무역 불확실성에 국익극대화 전략을]]></title>
-        <id>https://v.daum.net/v/20240516113847138</id>
-        <link href="https://v.daum.net/v/20240516113847138"/>
-        <updated>2024-05-16T03:20:07.893Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:38</span>]]></content>
     </entry>
 </feed>

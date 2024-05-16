@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-05-16T05:16:34.293Z</updated>
+    <updated>2024-05-16T06:20:31.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일진전기 수주공시 - SUPPLY AND INSTALLATION OF 230KV POWER CABLES, AUXILIARY CABLES AND ACCESSORIES (NDC369) 750.6억원 (매출액대비  6.02 %)]]></title>
+        <id>https://v.daum.net/v/20240516145606877</id>
+        <link href="https://v.daum.net/v/20240516145606877"/>
+        <updated>2024-05-16T06:20:30.708Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">14:56</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[씨이랩 수주공시 - 자동차 데이터 플랫폼 안정화 및 고도화 SW개발용역 4.4억원 (매출액대비  12.04 %)]]></title>
+        <id>https://v.daum.net/v/20240516142606324</id>
+        <link href="https://v.daum.net/v/20240516142606324"/>
+        <updated>2024-05-16T06:20:30.709Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">14:26</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['클래시스' 52주 신고가 경신, 대장주라면 밸류에이션도 그에 걸맞아야 - 미래에셋증권, BUY]]></title>
         <id>https://v.daum.net/v/20240516141102537</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240516094012428"/>
         <updated>2024-05-16T01:06:14.910Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['CJ' 52주 신고가 경신, 화장품 유통채널인 CJ올리브영으로 밸류 레벨업 - 하이투자증권, BUY(유지)]]></title>
-        <id>https://v.daum.net/v/20240516093107019</id>
-        <link href="https://v.daum.net/v/20240516093107019"/>
-        <updated>2024-05-16T01:06:14.912Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이수페타시스' 52주 신고가 경신, P↑, Q↑, C↓로 달라진 체질 - 키움증권, BUY]]></title>
-        <id>https://v.daum.net/v/20240516092404703</id>
-        <link href="https://v.daum.net/v/20240516092404703"/>
-        <updated>2024-05-16T01:06:14.913Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:24</span>]]></content>
     </entry>
 </feed>
