@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-05-17T11:14:47.251Z</updated>
+    <updated>2024-05-17T12:28:25.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[만물상] ‘미애로합의봐’]]></title>
+        <id>https://v.daum.net/v/20240517202815418</id>
+        <link href="https://v.daum.net/v/20240517202815418"/>
+        <updated>2024-05-17T12:28:12.057Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">20:28</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['범죄도시2' 마동석은 경찰, 손석구는 빌런… 범죄자의 전형적 얼굴은?]]></title>
         <id>https://v.daum.net/v/20240517190016829</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240517172106547</id>
         <link href="https://v.daum.net/v/20240517172106547"/>
         <updated>2024-05-17T09:18:20.202Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[손관승의 리더의 소통] '오늘부터 제가 사장입니다'의 고객 창조법]]></title>
-        <id>https://v.daum.net/v/20240517172105542</id>
-        <link href="https://v.daum.net/v/20240517172105542"/>
-        <updated>2024-05-17T09:18:20.204Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:21</span>]]></content>
     </entry>
 </feed>
