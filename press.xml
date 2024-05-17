@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-05-17T03:18:16.546Z</updated>
+    <updated>2024-05-17T04:19:55.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어플라이드 머티어리얼즈, 회계연도 2024년 2분기 실적 발표]]></title>
+        <id>https://v.daum.net/v/20240517131704484</id>
+        <link href="https://v.daum.net/v/20240517131704484"/>
+        <updated>2024-05-17T04:19:44.933Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">13:17</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[북랩, 아방가르드적인 삶을 살다 간 지난한 영혼들을 위한 서사 ‘횔덜린, 니체, 고흐’ 출간]]></title>
         <id>https://v.daum.net/v/20240517120705233</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240517112741923"/>
         <updated>2024-05-17T02:30:34.911Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원시, '새빛 생태교통+ 자동차 없는 날' 운영…'탄소중립 도시' 선도한다]]></title>
-        <id>https://v.daum.net/v/20240517112644882</id>
-        <link href="https://v.daum.net/v/20240517112644882"/>
-        <updated>2024-05-17T02:30:34.911Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:26</span>]]></content>
     </entry>
 </feed>
