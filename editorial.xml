@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-05-17T22:16:32.662Z</updated>
+    <updated>2024-05-17T23:17:46.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[김회룡의 시사 TOON]]]></title>
+        <id>https://v.daum.net/v/20240518080106897</id>
+        <link href="https://v.daum.net/v/20240518080106897"/>
+        <updated>2024-05-17T23:17:26.379Z</updated>
+        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">08:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘번아웃 늪’에 빠진 청춘의 꿈과 희망[오시혜의 MZ 건강 아카이브]]]></title>
         <id>https://v.daum.net/v/20240518070149329</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240518004138267"/>
         <updated>2024-05-17T16:19:21.681Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:41</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[빛과 소금] 학생인권조례 폐지가 답일까]]></title>
-        <id>https://v.daum.net/v/20240518004045264</id>
-        <link href="https://v.daum.net/v/20240518004045264"/>
-        <updated>2024-05-17T16:19:21.682Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:40</span>]]></content>
     </entry>
 </feed>
