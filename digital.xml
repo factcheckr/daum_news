@@ -2,9 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-05-19T03:19:33.133Z</updated>
+    <updated>2024-05-19T04:19:16.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가온칩스 소개하는 정규동 대표]]></title>
+        <id>https://v.daum.net/v/20240519131252050</id>
+        <link href="https://v.daum.net/v/20240519131252050"/>
+        <updated>2024-05-19T04:18:57.308Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">13:12</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔비디아 뛰어넘는 성능 보여준 리벨리온의 '아톰']]></title>
+        <id>https://v.daum.net/v/20240519131248048</id>
+        <link href="https://v.daum.net/v/20240519131248048"/>
+        <updated>2024-05-19T04:18:57.309Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">13:12</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제품 소개하는 정한울 아티크론 대표]]></title>
+        <id>https://v.daum.net/v/20240519131145037</id>
+        <link href="https://v.daum.net/v/20240519131145037"/>
+        <updated>2024-05-19T04:18:57.309Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">13:11</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[반도체 특허 확보 1.9개월 `급행`…반도체 글로벌 초격차 기여]]></title>
+        <id>https://v.daum.net/v/20240519130126806</id>
+        <link href="https://v.daum.net/v/20240519130126806"/>
+        <updated>2024-05-19T04:18:57.309Z</updated>
+        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">13:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국립어린이과학관, 시각장애·소외계층아동을 위한 ‘별밤음악회’ 개최]]></title>
+        <id>https://v.daum.net/v/20240519125921766</id>
+        <link href="https://v.daum.net/v/20240519125921766"/>
+        <updated>2024-05-19T04:18:57.309Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">12:59</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[르포] K-반도체, 엔비디아 넘는 고성능·저전력 AI반도체 개발한다]]></title>
+        <id>https://v.daum.net/v/20240519124637639</id>
+        <link href="https://v.daum.net/v/20240519124637639"/>
+        <updated>2024-05-19T04:18:57.309Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">12:46</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['프로맥스'보다 비싸면 도대체 얼마?…아이폰 신제품에 '술렁']]></title>
+        <id>https://v.daum.net/v/20240519124603637</id>
+        <link href="https://v.daum.net/v/20240519124603637"/>
+        <updated>2024-05-19T04:18:57.310Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">12:46</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[`지구 1도 상승=전쟁 피해 맞먹어`…GDP 12% 감소]]></title>
+        <id>https://v.daum.net/v/20240519123446519</id>
+        <link href="https://v.daum.net/v/20240519123446519"/>
+        <updated>2024-05-19T04:18:57.312Z</updated>
+        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">12:34</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[개인정보위, 23일 '인공지능과 데이터 거버넌스 국제 컨퍼런스' 개최]]></title>
+        <id>https://v.daum.net/v/20240519123312509</id>
+        <link href="https://v.daum.net/v/20240519123312509"/>
+        <updated>2024-05-19T04:18:57.313Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">12:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[꽃벌 먹이자원 `밀원` 확보 비상…여의도 13배 `밀원숲` 조성]]></title>
         <id>https://v.daum.net/v/20240519121529364</id>
@@ -46,68 +109,5 @@
         <link href="https://v.daum.net/v/20240519120111146"/>
         <updated>2024-05-19T03:19:11.573Z</updated>
         <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">12:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반도체 특허 우선심사기간 평균 1.9개월…반도체 초격차 지원]]></title>
-        <id>https://v.daum.net/v/20240519120100135</id>
-        <link href="https://v.daum.net/v/20240519120100135"/>
-        <updated>2024-05-19T03:19:11.575Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">12:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이과학관, 시각장애·소외계층 아동에 별자리 해설·공연]]></title>
-        <id>https://v.daum.net/v/20240519120056131</id>
-        <link href="https://v.daum.net/v/20240519120056131"/>
-        <updated>2024-05-19T03:19:11.576Z</updated>
-        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">12:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개인정보위, 유엔과 AI·데이터 국제 컨퍼런스 개최]]></title>
-        <id>https://v.daum.net/v/20240519120036105</id>
-        <link href="https://v.daum.net/v/20240519120036105"/>
-        <updated>2024-05-19T03:19:11.577Z</updated>
-        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">12:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개인정보위, UN과 'AI 거버넌스' 논의 국제 콘퍼런스 개최]]></title>
-        <id>https://v.daum.net/v/20240519120035102</id>
-        <link href="https://v.daum.net/v/20240519120035102"/>
-        <updated>2024-05-19T03:19:11.579Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">12:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개인정보위, 유엔과 'AI 데이터 거버넌스' 국제 컨퍼런스 개최]]></title>
-        <id>https://v.daum.net/v/20240519120034099</id>
-        <link href="https://v.daum.net/v/20240519120034099"/>
-        <updated>2024-05-19T03:19:11.580Z</updated>
-        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">12:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韓·OECD 공동 추진 '디지털 사회 이니셔티브' 출범]]></title>
-        <id>https://v.daum.net/v/20240519120031092</id>
-        <link href="https://v.daum.net/v/20240519120031092"/>
-        <updated>2024-05-19T03:19:11.581Z</updated>
-        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">12:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이노티움, 국내 1호 CMMC RPO 등록...美 방산 수출 컨설팅 자격 획득]]></title>
-        <id>https://v.daum.net/v/20240519120030090</id>
-        <link href="https://v.daum.net/v/20240519120030090"/>
-        <updated>2024-05-19T03:19:11.583Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">12:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국립어린이과학관, 시각장애아동 등 초청 ‘별밤음악회’ 개최]]></title>
-        <id>https://v.daum.net/v/20240519120030089</id>
-        <link href="https://v.daum.net/v/20240519120030089"/>
-        <updated>2024-05-19T03:19:11.584Z</updated>
-        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">12:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韓·OEDC, 공동 정책 플랫폼 ‘디지털 사회 이니셔티브’ 출범]]></title>
-        <id>https://v.daum.net/v/20240519120022067</id>
-        <link href="https://v.daum.net/v/20240519120022067"/>
-        <updated>2024-05-19T03:19:11.586Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:00</span>]]></content>
     </entry>
 </feed>
