@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-05-19T02:31:02.021Z</updated>
+    <updated>2024-05-19T03:19:33.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[용인특례시, 2024년 경기도 계약심사 운영 평가 '최우수']]></title>
+        <id>https://v.daum.net/v/20240519113205647</id>
+        <link href="https://v.daum.net/v/20240519113205647"/>
+        <updated>2024-05-19T03:19:25.783Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">11:32</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노르딕과 시스벨, 셀룰러 IoT SEP 라이선싱 간소화]]></title>
         <id>https://v.daum.net/v/20240519112706451</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240519092707532"/>
         <updated>2024-05-19T01:12:12.774Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">09:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리 것은 좋은 것! 올여름 우리나라 문화 축제]]></title>
-        <id>https://v.daum.net/v/20240519090207256</id>
-        <link href="https://v.daum.net/v/20240519090207256"/>
-        <updated>2024-05-19T01:12:12.778Z</updated>
-        <content type="html"><![CDATA[우먼센스<span class="txt_bar"> · </span><span class="info_time">09:02</span>]]></content>
     </entry>
 </feed>
