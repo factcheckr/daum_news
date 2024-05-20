@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-05-20T18:21:04.032Z</updated>
+    <updated>2024-05-20T19:13:46.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]주식리딩방과 체결 계약은 유효할까]]></title>
+        <id>https://v.daum.net/v/20240521034645754</id>
+        <link href="https://v.daum.net/v/20240521034645754"/>
+        <updated>2024-05-20T19:13:30.577Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">03:46</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[병은 병을 부르고, 약은 약을 부른다]]></title>
         <id>https://v.daum.net/v/20240521031124723</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240521030126483</id>
         <link href="https://v.daum.net/v/20240521030126483"/>
         <updated>2024-05-20T18:20:48.088Z</updated>
-        <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">03:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[윤준영 칼럼] 언행일치]]></title>
-        <id>https://v.daum.net/v/20240521030122481</id>
-        <link href="https://v.daum.net/v/20240521030122481"/>
-        <updated>2024-05-20T18:20:48.089Z</updated>
         <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">03:01</span>]]></content>
     </entry>
 </feed>
