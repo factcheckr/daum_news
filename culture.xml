@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2024-05-20T16:24:13.613Z</updated>
+    <updated>2024-05-20T17:21:07.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[때늦은 '음주 실토' 후폭풍...팬들에겐 "돌아오겠다"]]></title>
+        <id>https://v.daum.net/v/20240521021614421</id>
+        <link href="https://v.daum.net/v/20240521021614421"/>
+        <updated>2024-05-20T17:20:14.767Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">02:16</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[식사할 때 매일 하는 '이 습관'...턱관절 장애 주의]]></title>
         <id>https://v.daum.net/v/20240521011017195</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240521002619889"/>
         <updated>2024-05-20T16:23:22.902Z</updated>
         <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">00:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[ET포토] 미스트롯3 오유진, '선명한 예쁨']]></title>
-        <id>https://v.daum.net/v/20240521002317882</id>
-        <link href="https://v.daum.net/v/20240521002317882"/>
-        <updated>2024-05-20T16:23:22.903Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">00:23</span>]]></content>
     </entry>
 </feed>
