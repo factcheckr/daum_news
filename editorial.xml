@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-05-20T05:18:38.873Z</updated>
+    <updated>2024-05-20T06:22:42.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[기고]중소기업이 핵심광물 개발에 뛰어들었다]]></title>
+        <id>https://v.daum.net/v/20240520144803563</id>
+        <link href="https://v.daum.net/v/20240520144803563"/>
+        <updated>2024-05-20T06:22:26.168Z</updated>
+        <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">14:48</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[속보] 대통령실 “해외직구 정부 대책, 국민께 혼선 초래한 점 죄송”]]></title>
         <id>https://v.daum.net/v/20240520141801342</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240520111515180"/>
         <updated>2024-05-20T02:31:34.100Z</updated>
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[논단]엔터사의 한계…하이브만의 문제 아니다]]></title>
-        <id>https://v.daum.net/v/20240520111411116</id>
-        <link href="https://v.daum.net/v/20240520111411116"/>
-        <updated>2024-05-20T02:31:34.103Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:14</span>]]></content>
     </entry>
 </feed>
