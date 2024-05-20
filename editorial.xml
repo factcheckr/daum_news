@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-05-20T03:19:16.917Z</updated>
+    <updated>2024-05-20T04:20:27.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[의학칼럼] 팔 들기도 힘들다! 어깨 통증 1등 질환은?]]></title>
+        <id>https://v.daum.net/v/20240520131200310</id>
+        <link href="https://v.daum.net/v/20240520131200310"/>
+        <updated>2024-05-20T04:20:12.064Z</updated>
+        <content type="html"><![CDATA[헬스조선<span class="txt_bar"> · </span><span class="info_time">13:12</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유급 시한 넘기는 전공의 사태와 정부의 최종 설득 책임[사설]]]></title>
         <id>https://v.daum.net/v/20240520114828478</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240520111307064"/>
         <updated>2024-05-20T02:31:34.111Z</updated>
         <content type="html"><![CDATA[이코노미조선<span class="txt_bar"> · </span><span class="info_time">11:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김진국의 심심(心心)파적 <54>] ‘호환, 마마보다 무서운 악성 팬덤’… 팬덤 정치의 심리학]]></title>
-        <id>https://v.daum.net/v/20240520111257051</id>
-        <link href="https://v.daum.net/v/20240520111257051"/>
-        <updated>2024-05-20T02:31:34.112Z</updated>
-        <content type="html"><![CDATA[이코노미조선<span class="txt_bar"> · </span><span class="info_time">11:12</span>]]></content>
     </entry>
 </feed>
