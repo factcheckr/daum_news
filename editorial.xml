@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-05-20T12:31:45.550Z</updated>
+    <updated>2024-05-20T13:19:32.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[신문과 놀자!/함께 떠나요! 세계지리 여행]미사일-로켓 개발로 불 붙은 우주기술 경쟁]]></title>
+        <id>https://v.daum.net/v/20240520221818852</id>
+        <link href="https://v.daum.net/v/20240520221818852"/>
+        <updated>2024-05-20T13:19:18.000Z</updated>
+        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">22:18</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 5월 21일[김용민의 그림마당]]]></title>
         <id>https://v.daum.net/v/20240520210407058</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240520195954274"/>
         <updated>2024-05-20T11:18:23.565Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:59</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to feed a moral hazard]]></title>
-        <id>https://v.daum.net/v/20240520195844259</id>
-        <link href="https://v.daum.net/v/20240520195844259"/>
-        <updated>2024-05-20T11:18:23.567Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:58</span>]]></content>
     </entry>
 </feed>
