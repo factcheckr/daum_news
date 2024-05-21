@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-05-21T16:22:43.911Z</updated>
+    <updated>2024-05-21T17:15:27.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]볼드모트의 귀환]]></title>
+        <id>https://v.daum.net/v/20240522020646980</id>
+        <link href="https://v.daum.net/v/20240522020646980"/>
+        <updated>2024-05-21T17:15:14.228Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:06</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]美생물보안법에 K바이오산업 '미소' 지으려면]]></title>
+        <id>https://v.daum.net/v/20240522020302969</id>
+        <link href="https://v.daum.net/v/20240522020302969"/>
+        <updated>2024-05-21T17:15:14.229Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[전석운 칼럼] 타지마할과 디올백]]></title>
         <id>https://v.daum.net/v/20240522005205671</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240522003415529"/>
         <updated>2024-05-21T16:22:22.615Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 채 상병 죽음을 끝내 정쟁거리로 전락시킬 셈인가]]></title>
-        <id>https://v.daum.net/v/20240522003315522</id>
-        <link href="https://v.daum.net/v/20240522003315522"/>
-        <updated>2024-05-21T16:22:22.616Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:33</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시론] 법원 가처분 결정 이후 의·정 갈등 갈림길]]></title>
-        <id>https://v.daum.net/v/20240522003227511</id>
-        <link href="https://v.daum.net/v/20240522003227511"/>
-        <updated>2024-05-21T16:22:22.619Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:32</span>]]></content>
     </entry>
 </feed>
