@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-05-21T18:20:50.209Z</updated>
+    <updated>2024-05-21T19:14:37.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[델, 빠르고 안전한 AI 기반 구축 ‘델 AI 팩토리’ 발표]]></title>
+        <id>https://v.daum.net/v/20240522041247379</id>
+        <link href="https://v.daum.net/v/20240522041247379"/>
+        <updated>2024-05-21T19:14:16.034Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">04:12</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우주항공청 개청 D-5...우주 인재 정착 지원!]]></title>
         <id>https://v.daum.net/v/20240522022111047</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240522004723653"/>
         <updated>2024-05-21T16:22:13.873Z</updated>
         <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">00:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1분기 ‘글로벌 TV’ 선두… 삼성·LG가 지켜냈다]]></title>
-        <id>https://v.daum.net/v/20240522004528634</id>
-        <link href="https://v.daum.net/v/20240522004528634"/>
-        <updated>2024-05-21T16:22:13.874Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:45</span>]]></content>
     </entry>
 </feed>
