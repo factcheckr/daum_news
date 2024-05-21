@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-05-21T11:15:15.009Z</updated>
+    <updated>2024-05-21T12:29:43.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한인 유학생, 호주 취업·진로 도와요]]></title>
+        <id>https://v.daum.net/v/20240521211810597</id>
+        <link href="https://v.daum.net/v/20240521211810597"/>
+        <updated>2024-05-21T12:29:36.306Z</updated>
+        <content type="html"><![CDATA[KTV<span class="txt_bar"> · </span><span class="info_time">21:18</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[AsiaNet] Tsingtao Beer Museum Selected as One of China's Top 100 Museums]]></title>
+        <id>https://v.daum.net/v/20240521201706328</id>
+        <link href="https://v.daum.net/v/20240521201706328"/>
+        <updated>2024-05-21T12:29:36.306Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:17</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부산 기장군, 일광유원지 전용 진입도로 개설 본격 추진]]></title>
         <id>https://v.daum.net/v/20240521175910932</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240521171021482"/>
         <updated>2024-05-21T08:20:35.737Z</updated>
         <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">17:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대구 IB월드스쿨, 처음으로 입학사정관 수업 참관 세미나 진행]]></title>
-        <id>https://v.daum.net/v/20240521170427208</id>
-        <link href="https://v.daum.net/v/20240521170427208"/>
-        <updated>2024-05-21T11:15:08.192Z</updated>
-        <content type="html"><![CDATA[대구MBC<span class="txt_bar"> · </span><span class="info_time">17:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경기신용보증재단, 시대 변화·요구에 부응한 '금융서비스기관'으로 도약]]></title>
-        <id>https://v.daum.net/v/20240521170342174</id>
-        <link href="https://v.daum.net/v/20240521170342174"/>
-        <updated>2024-05-21T08:20:35.738Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">17:03</span>]]></content>
     </entry>
 </feed>
