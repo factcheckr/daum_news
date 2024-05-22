@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2024-05-22T18:21:21.805Z</updated>
+    <updated>2024-05-22T19:13:26.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[美, 8월1일부터 中산 수입품 관세 인상...현대차  등 韓 기업 반사익 기대 '쑥']]></title>
+        <id>https://v.daum.net/v/20240523035700543</id>
+        <link href="https://v.daum.net/v/20240523035700543"/>
+        <updated>2024-05-22T19:12:23.029Z</updated>
+        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">03:57</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김정은 초상화, 김일성-김정일과 나란히 선대와 같은 반열… 독자적 우상화 나선듯]]></title>
         <id>https://v.daum.net/v/20240523030154193</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240523021306024"/>
         <updated>2024-05-22T17:13:53.436Z</updated>
         <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">02:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허은아 "尹, 가장 비겁하고 추악한 거부권 사용"]]></title>
-        <id>https://v.daum.net/v/20240523021016015</id>
-        <link href="https://v.daum.net/v/20240523021016015"/>
-        <updated>2024-05-22T17:13:53.437Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">02:10</span>]]></content>
     </entry>
 </feed>
