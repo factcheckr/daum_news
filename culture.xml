@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2024-05-22T16:21:45.242Z</updated>
+    <updated>2024-05-22T17:15:16.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 '베어 더 뮤지컬' 어제 개막…오늘 2차 티켓오픈]]></title>
+        <id>https://v.daum.net/v/20240523020601000</id>
+        <link href="https://v.daum.net/v/20240523020601000"/>
+        <updated>2024-05-22T17:14:20.788Z</updated>
+        <content type="html"><![CDATA[MBN<span class="txt_bar"> · </span><span class="info_time">02:06</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인천 안실단, 계양산서 ‘건설현장 재해예방 결의대회’ 개최]]></title>
         <id>https://v.daum.net/v/20240523010650794</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240523003216588</id>
         <link href="https://v.daum.net/v/20240523003216588"/>
         <updated>2024-05-22T16:20:53.164Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[일사일언] ‘악착동자’가 되자]]></title>
-        <id>https://v.daum.net/v/20240523003216587</id>
-        <link href="https://v.daum.net/v/20240523003216587"/>
-        <updated>2024-05-22T16:20:53.166Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:32</span>]]></content>
     </entry>
 </feed>

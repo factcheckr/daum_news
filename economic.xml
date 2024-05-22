@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2024-05-22T16:21:45.244Z</updated>
+    <updated>2024-05-22T17:15:16.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[쿠콘, 브이디피랩스와 합병 추진…경쟁력 제고 기대]]></title>
+        <id>https://v.daum.net/v/20240523020411993</id>
+        <link href="https://v.daum.net/v/20240523020411993"/>
+        <updated>2024-05-22T17:14:03.031Z</updated>
+        <content type="html"><![CDATA[MBN<span class="txt_bar"> · </span><span class="info_time">02:04</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴욕증시, 엔비디아 실적발표 앞두고 혼조세 출발]]></title>
+        <id>https://v.daum.net/v/20240523012519863</id>
+        <link href="https://v.daum.net/v/20240523012519863"/>
+        <updated>2024-05-22T17:14:03.031Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">01:25</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삼각별 전동화 이끈 ‘벤츠 EQA·EQB 부분변경’ 국내 출시… “전기차 완성도↑”]]></title>
         <id>https://v.daum.net/v/20240523010246777</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240523004315665"/>
         <updated>2024-05-22T16:20:35.253Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 영통·부산 해운대… 비수도권 지자체들도 ‘노후 도시 정비’ 팔 걷어]]></title>
-        <id>https://v.daum.net/v/20240523004247661</id>
-        <link href="https://v.daum.net/v/20240523004247661"/>
-        <updated>2024-05-22T16:20:35.255Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[분당 8000·일산 6000가구, 1기 신도시 ‘1호 재건축’]]></title>
-        <id>https://v.daum.net/v/20240523004233659</id>
-        <link href="https://v.daum.net/v/20240523004233659"/>
-        <updated>2024-05-22T16:20:35.256Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:42</span>]]></content>
     </entry>
 </feed>
