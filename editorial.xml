@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-05-21T23:17:44.935Z</updated>
+    <updated>2024-05-22T01:07:13.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[네이버 이후의 시대]]></title>
+        <id>https://v.daum.net/v/20240522093725087</id>
+        <link href="https://v.daum.net/v/20240522093725087"/>
+        <updated>2024-05-22T01:06:53.940Z</updated>
+        <content type="html"><![CDATA[미디어오늘<span class="txt_bar"> · </span><span class="info_time">09:37</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부고] 장욱제(SK증권 기타비상무이사)씨 부친상]]></title>
+        <id>https://v.daum.net/v/20240522085343416</id>
+        <link href="https://v.daum.net/v/20240522085343416"/>
+        <updated>2024-05-22T01:06:53.940Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">08:53</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[웹툰] 그동안 '나도 몰랐던 일'을 사랑해 주셔서 감사합니다!]]></title>
         <id>https://v.daum.net/v/20240522080845337</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240522061850816"/>
         <updated>2024-05-21T22:15:53.869Z</updated>
         <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">06:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[목멱칼럼]우리 軍 위상에 먹칠하는 장군들]]></title>
-        <id>https://v.daum.net/v/20240522061507776</id>
-        <link href="https://v.daum.net/v/20240522061507776"/>
-        <updated>2024-05-21T21:15:32.121Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">06:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2년 뒤에는[편집실에서]]]></title>
-        <id>https://v.daum.net/v/20240522060806714</id>
-        <link href="https://v.daum.net/v/20240522060806714"/>
-        <updated>2024-05-21T21:15:32.122Z</updated>
-        <content type="html"><![CDATA[주간경향<span class="txt_bar"> · </span><span class="info_time">06:08</span>]]></content>
     </entry>
 </feed>
