@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-05-24T12:28:53.523Z</updated>
+    <updated>2024-05-24T13:18:15.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기후플레이션. 농산물 수입 확대가 답이 아니다]]></title>
+        <id>https://v.daum.net/v/20240524220003920</id>
+        <link href="https://v.daum.net/v/20240524220003920"/>
+        <updated>2024-05-24T13:18:00.392Z</updated>
+        <content type="html"><![CDATA[프레시안<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[도쿠가와는 언제나 위험 앞에서 유연했다 [한순구의 ‘게임이론으로 보는 경영’]]]></title>
         <id>https://v.daum.net/v/20240524210315897</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240524173603043</id>
         <link href="https://v.daum.net/v/20240524173603043"/>
         <updated>2024-05-24T09:17:31.678Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세상사는 이야기] 사회 속 소아과 의사]]></title>
-        <id>https://v.daum.net/v/20240524173601040</id>
-        <link href="https://v.daum.net/v/20240524173601040"/>
-        <updated>2024-05-24T09:17:31.680Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:36</span>]]></content>
     </entry>
 </feed>
