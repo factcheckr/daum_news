@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2024-05-24T18:21:24.567Z</updated>
+    <updated>2024-05-24T19:14:11.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사상 최고 엔비디아, 아마존·테슬라 시총 합계도 추월 [송경재의 새벽증시]]]></title>
+        <id>https://v.daum.net/v/20240525040646317</id>
+        <link href="https://v.daum.net/v/20240525040646317"/>
+        <updated>2024-05-24T19:12:56.901Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">04:06</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["중국 독주 막아라"...국내 태양광 기술, 어디까지 왔나]]></title>
+        <id>https://v.daum.net/v/20240525040421309</id>
+        <link href="https://v.daum.net/v/20240525040421309"/>
+        <updated>2024-05-24T19:12:56.903Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">04:04</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송미령 장관 "양곡법 개정, 농업인·소비자에 도움 안 돼"]]></title>
         <id>https://v.daum.net/v/20240525021009216</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240525013109992"/>
         <updated>2024-05-24T17:18:00.844Z</updated>
         <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">01:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전기차 제조사 루시드, 인력 6% 감축]]></title>
-        <id>https://v.daum.net/v/20240525010520873</id>
-        <link href="https://v.daum.net/v/20240525010520873"/>
-        <updated>2024-05-24T16:19:37.775Z</updated>
-        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">01:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[테슬라, 연간 2,000만 대의 차량 인도 목표 철회]]></title>
-        <id>https://v.daum.net/v/20240525010518872</id>
-        <link href="https://v.daum.net/v/20240525010518872"/>
-        <updated>2024-05-24T16:19:37.777Z</updated>
-        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">01:05</span>]]></content>
     </entry>
 </feed>
