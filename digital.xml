@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-05-25T10:18:37.090Z</updated>
+    <updated>2024-05-25T11:15:28.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[설마 했는데…“결국 1위 뺏겼다” 충격 받은 삼성]]></title>
+        <title type="html"><![CDATA['글로벌 누적 다운로드 수 5900만 건 돌파'... ‘고양이와 스프: 말랑 타운’, 국내 정식 출시]]></title>
+        <id>https://v.daum.net/v/20240525192918851</id>
+        <link href="https://v.daum.net/v/20240525192918851"/>
+        <updated>2024-05-25T11:15:06.447Z</updated>
+        <content type="html"><![CDATA[OSEN<span class="txt_bar"> · </span><span class="info_time">19:29</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“아무도 이럴줄 몰랐다” 충격 받은 삼성…완전 당했다]]></title>
         <id>https://v.daum.net/v/20240525191044644</id>
         <link href="https://v.daum.net/v/20240525191044644"/>
         <updated>2024-05-25T10:18:14.068Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240525153141302"/>
         <updated>2024-05-25T07:14:01.186Z</updated>
         <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">15:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스마일게이트, ‘싱크 콜렉티브 액트 임팩티브’ 진행]]></title>
-        <id>https://v.daum.net/v/20240525150448081</id>
-        <link href="https://v.daum.net/v/20240525150448081"/>
-        <updated>2024-05-25T06:21:47.973Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">15:04</span>]]></content>
     </entry>
 </feed>
