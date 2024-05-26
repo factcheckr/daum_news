@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-05-26T09:18:14.423Z</updated>
+    <updated>2024-05-26T10:18:17.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인천서구, 국제스케이트장 범시민 유치위원회 출범식 성황]]></title>
+        <id>https://v.daum.net/v/20240526190133630</id>
+        <link href="https://v.daum.net/v/20240526190133630"/>
+        <updated>2024-05-26T10:18:07.947Z</updated>
+        <content type="html"><![CDATA[투어코리아<span class="txt_bar"> · </span><span class="info_time">19:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하남시, ESG 평가 지방자치단체 부문 ‘대상’ 수상]]></title>
         <id>https://v.daum.net/v/20240526154942426</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240526101705399</id>
         <link href="https://v.daum.net/v/20240526101705399"/>
         <updated>2024-05-26T02:32:44.283Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">10:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔티티와 엔티티 데이터, AI 기반 팬 경험으로 인디애나폴리스 500에 진입]]></title>
-        <id>https://v.daum.net/v/20240526101703396</id>
-        <link href="https://v.daum.net/v/20240526101703396"/>
-        <updated>2024-05-26T02:32:44.285Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">10:17</span>]]></content>
     </entry>
 </feed>
