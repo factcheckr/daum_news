@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2024-05-26T18:21:58.002Z</updated>
+    <updated>2024-05-26T19:14:00.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[새벽에 비온 뒤 맑음···오후엔 다시 구름[날씨]]]></title>
+        <id>https://v.daum.net/v/20240527040226883</id>
+        <link href="https://v.daum.net/v/20240527040226883"/>
+        <updated>2024-05-26T19:13:02.078Z</updated>
+        <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">04:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[우리 교회 소식] 전남 화순중부교회]]></title>
         <id>https://v.daum.net/v/20240527031145830</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240527030501798</id>
         <link href="https://v.daum.net/v/20240527030501798"/>
         <updated>2024-05-26T18:20:48.872Z</updated>
-        <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">03:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공격성향 있는 소형견, 입마개 착용해야]]></title>
-        <id>https://v.daum.net/v/20240527030500797</id>
-        <link href="https://v.daum.net/v/20240527030500797"/>
-        <updated>2024-05-26T18:20:48.873Z</updated>
         <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">03:05</span>]]></content>
     </entry>
 </feed>
