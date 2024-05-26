@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-05-26T03:18:12.416Z</updated>
+    <updated>2024-05-26T04:19:07.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우리 바다서 해양생물 총 83종 발견…34종은 세계 최초]]></title>
+        <id>https://v.daum.net/v/20240526130854127</id>
+        <link href="https://v.daum.net/v/20240526130854127"/>
+        <updated>2024-05-26T04:18:59.506Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">13:08</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유럽의약품청, 프롤리아® 및 엑스게바® 바이오시밀러 후보물질 HLX14에 대한 헨리우스 및 오가논의 제출서류 검증]]></title>
         <id>https://v.daum.net/v/20240526105707940</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240526094710988"/>
         <updated>2024-05-26T01:12:25.354Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">09:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] BIWIN Unveils New Logo to Mark the Dawn of a New Era]]></title>
-        <id>https://v.daum.net/v/20240526090143332</id>
-        <link href="https://v.daum.net/v/20240526090143332"/>
-        <updated>2024-05-26T01:12:25.356Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">09:01</span>]]></content>
     </entry>
 </feed>
