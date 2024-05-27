@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-05-27T12:29:49.884Z</updated>
+    <updated>2024-05-27T13:20:56.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[신문과 놀자!/피플 in 뉴스]가난하고 소외된 이들 위로한 신경림 시인]]></title>
+        <id>https://v.daum.net/v/20240527221501656</id>
+        <link href="https://v.daum.net/v/20240527221501656"/>
+        <updated>2024-05-27T13:20:43.045Z</updated>
+        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">22:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[신문과 놀자/풀어쓰는 한자성어]破天荒(파천황)(깨뜨릴 파, 하늘 천, 거칠 황)]]></title>
+        <id>https://v.daum.net/v/20240527221445654</id>
+        <link href="https://v.daum.net/v/20240527221445654"/>
+        <updated>2024-05-27T13:20:43.046Z</updated>
+        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">22:14</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[박용석 만평] 5월 28일]]></title>
         <id>https://v.daum.net/v/20240527212922209</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240527201418342"/>
         <updated>2024-05-27T11:15:33.675Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">20:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Still dilly-dallying on pension reform?]]></title>
-        <id>https://v.daum.net/v/20240527201410340</id>
-        <link href="https://v.daum.net/v/20240527201410340"/>
-        <updated>2024-05-27T11:15:33.676Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The fatal attraction of abusing majority rule]]></title>
-        <id>https://v.daum.net/v/20240527201311335</id>
-        <link href="https://v.daum.net/v/20240527201311335"/>
-        <updated>2024-05-27T11:15:33.678Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:13</span>]]></content>
     </entry>
 </feed>
