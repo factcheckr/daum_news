@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2024-05-27T17:14:32.081Z</updated>
+    <updated>2024-05-27T18:21:19.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[씨스타 소유, 눈 부상 "눈 안 보여서 놀랐다…걱정은 NO"]]></title>
+        <id>https://v.daum.net/v/20240528031003750</id>
+        <link href="https://v.daum.net/v/20240528031003750"/>
+        <updated>2024-05-27T18:20:31.035Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스<span class="txt_bar"> · </span><span class="info_time">03:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[오늘의 채널A]‘분노 유발’ 솜방망이 횡령죄 처벌]]></title>
+        <id>https://v.daum.net/v/20240528030503664</id>
+        <link href="https://v.daum.net/v/20240528030503664"/>
+        <updated>2024-05-27T18:20:31.038Z</updated>
+        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">03:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[빌리 아일리시 내한 예고? 韓팬 톡방+라디오 등장 실화냐]]></title>
         <id>https://v.daum.net/v/20240528020023318</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240528004535951"/>
         <updated>2024-05-27T16:19:33.235Z</updated>
         <content type="html"><![CDATA[MBC연예<span class="txt_bar"> · </span><span class="info_time">00:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[움짤] 에스파 닝닝, 슈퍼노바 미모]]></title>
-        <id>https://v.daum.net/v/20240528004405941</id>
-        <link href="https://v.daum.net/v/20240528004405941"/>
-        <updated>2024-05-27T16:19:33.237Z</updated>
-        <content type="html"><![CDATA[MBC연예<span class="txt_bar"> · </span><span class="info_time">00:44</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[움짤] 에스파 지젤, 댓츠핫 지구젤리]]></title>
-        <id>https://v.daum.net/v/20240528004105922</id>
-        <link href="https://v.daum.net/v/20240528004105922"/>
-        <updated>2024-05-27T16:19:33.243Z</updated>
-        <content type="html"><![CDATA[MBC연예<span class="txt_bar"> · </span><span class="info_time">00:41</span>]]></content>
     </entry>
 </feed>
