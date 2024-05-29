@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2024-05-29T16:21:06.466Z</updated>
+    <updated>2024-05-29T17:16:13.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[로몬, 잘생김 장착]]></title>
+        <id>https://v.daum.net/v/20240530020512961</id>
+        <link href="https://v.daum.net/v/20240530020512961"/>
+        <updated>2024-05-29T17:15:22.592Z</updated>
+        <content type="html"><![CDATA[스포츠한국<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김연아, 러블리 핑크]]></title>
         <id>https://v.daum.net/v/20240530011516878</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240530001548459"/>
         <updated>2024-05-29T16:20:17.028Z</updated>
         <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">00:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대사는 단 30줄, 눈빛이 곧 서사]]></title>
-        <id>https://v.daum.net/v/20240530001122373</id>
-        <link href="https://v.daum.net/v/20240530001122373"/>
-        <updated>2024-05-29T16:20:17.028Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:11</span>]]></content>
     </entry>
 </feed>
