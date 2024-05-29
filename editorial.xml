@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-05-29T18:21:33.004Z</updated>
+    <updated>2024-05-29T19:14:24.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[기자수첩]홍보에 그쳐선 안 될 IP정책]]></title>
+        <id>https://v.daum.net/v/20240530040141318</id>
+        <link href="https://v.daum.net/v/20240530040141318"/>
+        <updated>2024-05-29T19:14:04.687Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">04:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이규현 목사의 복음과 삶] 일상의 신비]]></title>
         <id>https://v.daum.net/v/20240530030619243</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240530030132056</id>
         <link href="https://v.daum.net/v/20240530030132056"/>
         <updated>2024-05-29T18:21:11.115Z</updated>
-        <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">03:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] ‘수원화성’ 훼손은 역사 훼손, 예산 타령만 해선 안 된다]]></title>
-        <id>https://v.daum.net/v/20240530030132055</id>
-        <link href="https://v.daum.net/v/20240530030132055"/>
-        <updated>2024-05-29T18:21:11.117Z</updated>
         <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">03:01</span>]]></content>
     </entry>
 </feed>
