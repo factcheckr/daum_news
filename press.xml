@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-05-29T13:18:58.698Z</updated>
+    <updated>2024-05-29T14:16:20.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이천시, 세외수입 체납액 일제 정리 기간 운영]]></title>
+        <id>https://v.daum.net/v/20240529222205410</id>
+        <link href="https://v.daum.net/v/20240529222205410"/>
+        <updated>2024-05-29T14:16:12.908Z</updated>
+        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">22:22</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김동근 의정부시장, 바이바이 플라스틱 캠페인 참여]]></title>
         <id>https://v.daum.net/v/20240529215527906</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240529195630045</id>
         <link href="https://v.daum.net/v/20240529195630045"/>
         <updated>2024-05-29T11:16:49.486Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">19:56</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ESG 평가모형 개발…투자원칙에 사회적 책임 반영]]></title>
-        <id>https://v.daum.net/v/20240529195622044</id>
-        <link href="https://v.daum.net/v/20240529195622044"/>
-        <updated>2024-05-29T11:16:49.490Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">19:56</span>]]></content>
     </entry>
 </feed>
