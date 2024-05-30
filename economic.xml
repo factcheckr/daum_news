@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2024-05-30T16:21:16.740Z</updated>
+    <updated>2024-05-30T17:15:15.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘파란’만장한 코스피… 한 달 수익률 G20 최하위권]]></title>
+        <id>https://v.daum.net/v/20240531020410577</id>
+        <link href="https://v.daum.net/v/20240531020410577"/>
+        <updated>2024-05-30T17:14:07.045Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">02:04</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中, 작년에만 19조 투입… 日은 9조 우주기금 조성]]></title>
         <id>https://v.daum.net/v/20240531005619391</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240531003555235</id>
         <link href="https://v.daum.net/v/20240531003555235"/>
         <updated>2024-05-30T16:20:07.341Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울 아파트 가격 10주 연속 오름세]]></title>
-        <id>https://v.daum.net/v/20240531003555234</id>
-        <link href="https://v.daum.net/v/20240531003555234"/>
-        <updated>2024-05-30T16:20:07.343Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:35</span>]]></content>
     </entry>
 </feed>

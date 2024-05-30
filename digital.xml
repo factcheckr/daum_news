@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-05-30T16:21:16.748Z</updated>
+    <updated>2024-05-30T17:15:15.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삼성전자 피폭 사고, 왜 발생 이틀 뒤 알려졌나?]]></title>
+        <id>https://v.daum.net/v/20240531012511502</id>
+        <link href="https://v.daum.net/v/20240531012511502"/>
+        <updated>2024-05-30T17:14:50.717Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">01:25</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KKR, 240억 달러 텔레콤 이탈리아 인수…EU 반독점 승인 획득]]></title>
         <id>https://v.daum.net/v/20240531010149430</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240531002153136"/>
         <updated>2024-05-30T16:20:51.199Z</updated>
         <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">00:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SWITZERLAND SCIENCE]]></title>
-        <id>https://v.daum.net/v/20240531001549103</id>
-        <link href="https://v.daum.net/v/20240531001549103"/>
-        <updated>2024-05-30T15:18:42.318Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">00:15</span>]]></content>
     </entry>
 </feed>
