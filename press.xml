@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-05-30T22:17:05.976Z</updated>
+    <updated>2024-05-30T23:17:27.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[누림센터, 지방 보조금 회계 실무 교육 실시]]></title>
+        <id>https://v.daum.net/v/20240531080706075</id>
+        <link href="https://v.daum.net/v/20240531080706075"/>
+        <updated>2024-05-30T23:17:18.783Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">08:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[블렌딩, 아티스트 지원 프로젝트 ‘더 밀리언 퀘스트’ 성공적으로 진행]]></title>
+        <id>https://v.daum.net/v/20240531080704073</id>
+        <link href="https://v.daum.net/v/20240531080704073"/>
+        <updated>2024-05-30T23:17:18.784Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">08:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[산업부-KOTRA, 중국 의료·바이오 내륙시장 문을 두드리다]]></title>
         <id>https://v.daum.net/v/20240531060703152</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240531053207588"/>
         <updated>2024-05-30T21:18:02.331Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">05:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[상생 경영] 통신업계 유일 최상위 등급 ‘우수기업’ 선정]]></title>
-        <id>https://v.daum.net/v/20240531053158582</id>
-        <link href="https://v.daum.net/v/20240531053158582"/>
-        <updated>2024-05-30T21:18:02.334Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">05:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[상생 경영] 나눔 캠페인 등 다양한 사회공헌활동 펼쳐]]></title>
-        <id>https://v.daum.net/v/20240531053154580</id>
-        <link href="https://v.daum.net/v/20240531053154580"/>
-        <updated>2024-05-30T21:18:02.335Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">05:31</span>]]></content>
     </entry>
 </feed>
