@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-05-30T08:21:33.200Z</updated>
+    <updated>2024-05-30T09:18:36.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2024년 05월 30일)]]></title>
+        <id>https://v.daum.net/v/20240530173318676</id>
+        <link href="https://v.daum.net/v/20240530173318676"/>
+        <updated>2024-05-30T09:18:35.920Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쌍용정보통신 수주공시 - 2024년 정보시스템통합유지관리 용역 사업 418.6억원 (매출액대비  10.67 %)]]></title>
         <id>https://v.daum.net/v/20240530154604512</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240530093002422"/>
         <updated>2024-05-30T01:08:19.357Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아모레G' 52주 신고가 경신, 외국인, 기관 각각 5일 연속 순매수, 5일 연속 순매도]]></title>
-        <id>https://v.daum.net/v/20240530092204099</id>
-        <link href="https://v.daum.net/v/20240530092204099"/>
-        <updated>2024-05-30T01:08:19.359Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:22</span>]]></content>
     </entry>
 </feed>
