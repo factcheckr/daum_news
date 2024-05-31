@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-05-31T11:15:58.199Z</updated>
+    <updated>2024-05-31T12:30:07.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인사] 보건복지부]]></title>
+        <id>https://v.daum.net/v/20240531211425278</id>
+        <link href="https://v.daum.net/v/20240531211425278"/>
+        <updated>2024-05-31T12:29:48.386Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">21:14</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[만물상] 21년 뒤 화성에 태극기?]]></title>
+        <id>https://v.daum.net/v/20240531203903698</id>
+        <link href="https://v.daum.net/v/20240531203903698"/>
+        <updated>2024-05-31T12:29:48.386Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">20:39</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 6월 1일[오늘의 운세 나침반]]]></title>
         <id>https://v.daum.net/v/20240531190404606</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240531174501540"/>
         <updated>2024-05-31T09:18:41.039Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[장은수의 책과 미래] 노인의 인생 스타일]]></title>
-        <id>https://v.daum.net/v/20240531174211468</id>
-        <link href="https://v.daum.net/v/20240531174211468"/>
-        <updated>2024-05-31T09:18:41.040Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[나현준의 일침] 비평준화와 IB교육이 만나면]]></title>
-        <id>https://v.daum.net/v/20240531174209465</id>
-        <link href="https://v.daum.net/v/20240531174209465"/>
-        <updated>2024-05-31T09:18:41.041Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:42</span>]]></content>
     </entry>
 </feed>
