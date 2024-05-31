@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-05-31T06:26:47.881Z</updated>
+    <updated>2024-05-31T07:16:25.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아찔한 출렁다리에서 ‘찰칵’[오늘을 생각한다]]]></title>
+        <id>https://v.daum.net/v/20240531160403329</id>
+        <link href="https://v.daum.net/v/20240531160403329"/>
+        <updated>2024-05-31T07:16:05.029Z</updated>
+        <content type="html"><![CDATA[주간경향<span class="txt_bar"> · </span><span class="info_time">16:04</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[지평선] 노인 연령과 사회적 공감]]></title>
+        <id>https://v.daum.net/v/20240531153006176</id>
+        <link href="https://v.daum.net/v/20240531153006176"/>
+        <updated>2024-05-31T07:16:05.030Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">15:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘VIP 격노설’과 ‘외압설’ 키우는 정부·여당…재발 방지책은 어디에 [유창선의 시시비비]]]></title>
         <id>https://v.daum.net/v/20240531150203119</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240531114207108"/>
         <updated>2024-05-31T03:18:51.589Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성전자 경쟁력도 흔들 전삼노 파업[포럼]]]></title>
-        <id>https://v.daum.net/v/20240531113919003</id>
-        <link href="https://v.daum.net/v/20240531113919003"/>
-        <updated>2024-05-31T03:18:51.590Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21세기 정당 가로막는 ‘개딸 빠시즘’[포럼]]]></title>
-        <id>https://v.daum.net/v/20240531113917002</id>
-        <link href="https://v.daum.net/v/20240531113917002"/>
-        <updated>2024-05-31T03:18:51.592Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:39</span>]]></content>
     </entry>
 </feed>

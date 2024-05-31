@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-05-31T06:26:47.857Z</updated>
+    <updated>2024-05-31T07:16:25.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[카이노스메드, 10억원 3자배정 유상증자 결정]]></title>
+        <id>https://v.daum.net/v/20240531160036223</id>
+        <link href="https://v.daum.net/v/20240531160036223"/>
+        <updated>2024-05-31T07:16:25.194Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">16:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['태성' 52주 신고가 경신, 전일 외국인 대량 순매수]]></title>
+        <id>https://v.daum.net/v/20240531153405292</id>
+        <link href="https://v.daum.net/v/20240531153405292"/>
+        <updated>2024-05-31T07:16:25.195Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">15:34</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['코스텍시스' 52주 신고가 경신, 국내 최초 SiC 반도체 핵심소재 스페이서 퀄 통과]]></title>
+        <id>https://v.daum.net/v/20240531153402291</id>
+        <link href="https://v.daum.net/v/20240531153402291"/>
+        <updated>2024-05-31T07:16:25.196Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">15:34</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['와이씨' 52주 신고가 경신, 한국의 어드반테스트 - 현대차증권, BUY]]></title>
         <id>https://v.daum.net/v/20240531143202009</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240531093206670"/>
         <updated>2024-05-31T01:08:45.823Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['클리오' 52주 신고가 경신, 완벽한 대세주 - 신한투자증권, BUY]]></title>
-        <id>https://v.daum.net/v/20240531092808554</id>
-        <link href="https://v.daum.net/v/20240531092808554"/>
-        <updated>2024-05-31T01:08:45.828Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:28</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['실리콘투' 52주 신고가 경신, 북미 키워드 최대 강자]]></title>
-        <id>https://v.daum.net/v/20240531092409404</id>
-        <link href="https://v.daum.net/v/20240531092409404"/>
-        <updated>2024-05-31T01:08:45.828Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['토니모리' 52주 신고가 경신, 본업과 자회사의 환상적인 콜라보]]></title>
-        <id>https://v.daum.net/v/20240531092208323</id>
-        <link href="https://v.daum.net/v/20240531092208323"/>
-        <updated>2024-05-31T01:08:45.829Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:22</span>]]></content>
     </entry>
 </feed>
