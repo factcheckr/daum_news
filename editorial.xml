@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-06-01T02:38:05.036Z</updated>
+    <updated>2024-06-01T03:20:07.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["한국 영화가 어쩌다가"…칸의 탄식 [라제기의 슛 & 숏]]]></title>
+        <id>https://v.daum.net/v/20240601120244004</id>
+        <link href="https://v.daum.net/v/20240601120244004"/>
+        <updated>2024-06-01T03:19:52.702Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">12:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[전국 주요 신문 톱뉴스](1일 조간)]]></title>
         <id>https://v.daum.net/v/20240601100142710</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240601030519555"/>
         <updated>2024-05-31T18:21:15.439Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">03:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한마당] 대박 터트린 노태우 비자금]]></title>
-        <id>https://v.daum.net/v/20240601004209043</id>
-        <link href="https://v.daum.net/v/20240601004209043"/>
-        <updated>2024-05-31T16:20:02.678Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:42</span>]]></content>
     </entry>
 </feed>
