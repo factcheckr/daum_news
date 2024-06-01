@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-06-01T11:16:38.191Z</updated>
+    <updated>2024-06-01T12:28:18.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강릉서 로또 1등 2명…1122회 로또 1등 11명, 당첨금 각 25억5627만원씩]]></title>
+        <id>https://v.daum.net/v/20240601211951749</id>
+        <link href="https://v.daum.net/v/20240601211951749"/>
+        <updated>2024-06-01T12:28:11.807Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">21:19</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[심승배의 국방&디지털⑤] 디지털 전장 정보와 AI 증강 분석]]></title>
         <id>https://v.daum.net/v/20240601184915940</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240601073341129"/>
         <updated>2024-05-31T23:16:24.922Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">07:33</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[폰 울리기도 전에, 피싱인지 안다…버핏이 콕 찍은 누뱅크의 AI [트랜D]]]></title>
-        <id>https://v.daum.net/v/20240601050105795</id>
-        <link href="https://v.daum.net/v/20240601050105795"/>
-        <updated>2024-05-31T20:17:28.379Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">05:01</span>]]></content>
     </entry>
 </feed>
