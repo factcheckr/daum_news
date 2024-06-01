@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-06-01T04:22:21.762Z</updated>
+    <updated>2024-06-01T05:17:50.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[김대희 교수의 알기 쉬운 스포츠법·정책] 21대 국회의 스포츠관련 입법 현황과 22대 국회에 바라는 점]]></title>
+        <id>https://v.daum.net/v/20240601134823802</id>
+        <link href="https://v.daum.net/v/20240601134823802"/>
+        <updated>2024-06-01T05:17:33.485Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">13:48</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["한국 영화가 어쩌다가"…칸의 탄식 [라제기의 슛 & 숏]]]></title>
         <id>https://v.daum.net/v/20240601120244004</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240601030741558"/>
         <updated>2024-05-31T18:21:15.438Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">03:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[내 인생의 나침반이 된 성경말씀] 나를 채워주신 성령을 품고 사역을 넓혀가다]]></title>
-        <id>https://v.daum.net/v/20240601030519555</id>
-        <link href="https://v.daum.net/v/20240601030519555"/>
-        <updated>2024-05-31T18:21:15.439Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">03:05</span>]]></content>
     </entry>
 </feed>
