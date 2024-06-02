@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-06-02T06:22:26.925Z</updated>
+    <updated>2024-06-02T07:16:40.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[베이징 다이어리] 美 기업 손 들어준 중국]]></title>
+        <id>https://v.daum.net/v/20240602161425571</id>
+        <link href="https://v.daum.net/v/20240602161425571"/>
+        <updated>2024-06-02T07:16:15.903Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">16:14</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ET시론]기후행동, 더 이상 미룰 수 없는 과제]]></title>
+        <id>https://v.daum.net/v/20240602160310417</id>
+        <link href="https://v.daum.net/v/20240602160310417"/>
+        <updated>2024-06-02T07:16:15.905Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">16:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['역대 최대' 사교육비 해결의 핵심 열쇠]]></title>
+        <id>https://v.daum.net/v/20240602153600799</id>
+        <link href="https://v.daum.net/v/20240602153600799"/>
+        <updated>2024-06-02T07:16:15.907Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">15:36</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘더 빡센’ 효율성 추구…뒤따를 붕괴사회를 준비하자]]></title>
         <id>https://v.daum.net/v/20240602150015033</id>
@@ -20,7 +41,7 @@
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">15:00</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[기후 변화에 꿀벌만큼 바쁜 양봉가 [6411의 목소리]]]></title>
+        <title type="html"><![CDATA[기후변화에, 날씨 눈치에…꿀벌만큼 바쁜 양봉가 [6411의 목소리]]]></title>
         <id>https://v.daum.net/v/20240602145511919</id>
         <link href="https://v.daum.net/v/20240602145511919"/>
         <updated>2024-06-02T06:22:12.003Z</updated>
@@ -88,19 +109,5 @@
         <link href="https://v.daum.net/v/20240602080143348"/>
         <updated>2024-06-01T23:17:43.152Z</updated>
         <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">08:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴욕다이어리]'오바마 향수' 부르는 역대급 비호감 美 대선]]></title>
-        <id>https://v.daum.net/v/20240602080030315</id>
-        <link href="https://v.daum.net/v/20240602080030315"/>
-        <updated>2024-06-01T23:17:43.154Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中, 남중국해 인공섬에 ‘해저 요새’ 건설한다 [김규환의 핸디 차이나]]]></title>
-        <id>https://v.daum.net/v/20240602070707742</id>
-        <link href="https://v.daum.net/v/20240602070707742"/>
-        <updated>2024-06-01T22:14:48.873Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:07</span>]]></content>
     </entry>
 </feed>
