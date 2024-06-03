@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-06-03T03:21:04.384Z</updated>
+    <updated>2024-06-03T04:21:59.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[기자수첩]삼성 파업 선언이 던진 메시지]]></title>
+        <id>https://v.daum.net/v/20240603132024714</id>
+        <link href="https://v.daum.net/v/20240603132024714"/>
+        <updated>2024-06-03T04:21:40.234Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">13:20</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[ET포토] 이채민-노정의-김재원, '하이 클래스 비주얼']]></title>
         <id>https://v.daum.net/v/20240603120203974</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240603110838019"/>
         <updated>2024-06-03T02:32:44.488Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">11:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기고]무등산국립공원 '평두메습지' 람사르습지 등록을 기념하며]]></title>
-        <id>https://v.daum.net/v/20240603110344828</id>
-        <link href="https://v.daum.net/v/20240603110344828"/>
-        <updated>2024-06-03T02:32:44.488Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">11:03</span>]]></content>
     </entry>
 </feed>
