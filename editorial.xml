@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-06-04T05:20:28.144Z</updated>
+    <updated>2024-06-04T06:23:22.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국정 지지율의 ‘위기선’ [유레카]]]></title>
+        <id>https://v.daum.net/v/20240604145507240</id>
+        <link href="https://v.daum.net/v/20240604145507240"/>
+        <updated>2024-06-04T06:22:59.642Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">14:55</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[함성 속의 그늘 [조남대의 은퇴일기(53)]]]></title>
+        <id>https://v.daum.net/v/20240604144046609</id>
+        <link href="https://v.daum.net/v/20240604144046609"/>
+        <updated>2024-06-04T06:22:59.644Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">14:40</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경북대 자연사박물관, 정부 공모사업 잇따라 선정]]></title>
         <id>https://v.daum.net/v/20240604140349026</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240604114531356"/>
         <updated>2024-06-04T03:19:47.159Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국가 미래 달린 ‘인재 유치’[뉴스와 시각]]]></title>
-        <id>https://v.daum.net/v/20240604114529353</id>
-        <link href="https://v.daum.net/v/20240604114529353"/>
-        <updated>2024-06-04T03:19:47.160Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전기료 폭등 자초할 反민생 전력계획[포럼]]]></title>
-        <id>https://v.daum.net/v/20240604114241249</id>
-        <link href="https://v.daum.net/v/20240604114241249"/>
-        <updated>2024-06-04T03:19:47.162Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:42</span>]]></content>
     </entry>
 </feed>
