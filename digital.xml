@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-06-04T17:16:16.443Z</updated>
+    <updated>2024-06-04T18:22:30.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['물 없는' 소형모듈원자로 밀어준다...2.5조 사업 추진]]></title>
+        <id>https://v.daum.net/v/20240605031311857</id>
+        <link href="https://v.daum.net/v/20240605031311857"/>
+        <updated>2024-06-04T18:21:56.501Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">03:13</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["차세대 원자로 실증"...2.5조 규모 지원사업 도입]]></title>
         <id>https://v.daum.net/v/20240605011621307</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240605000128663"/>
         <updated>2024-06-04T15:18:26.732Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네오위즈, SK하이닉스와 협업으로 'T31 P의 거짓 에디션' 7월 출시]]></title>
-        <id>https://v.daum.net/v/20240605000039645</id>
-        <link href="https://v.daum.net/v/20240605000039645"/>
-        <updated>2024-06-04T15:18:26.734Z</updated>
-        <content type="html"><![CDATA[스포츠조선<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
