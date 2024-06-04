@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-06-04T22:17:09.435Z</updated>
+    <updated>2024-06-04T23:18:38.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[기자의 눈] 역차별 낳는 인센티브]]></title>
+        <id>https://v.daum.net/v/20240605080155785</id>
+        <link href="https://v.daum.net/v/20240605080155785"/>
+        <updated>2024-06-04T23:18:19.778Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">08:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[기고] 친환경 디지털 네트워크 구축 위한 그린데이터센터]]></title>
+        <id>https://v.daum.net/v/20240605080113758</id>
+        <link href="https://v.daum.net/v/20240605080113758"/>
+        <updated>2024-06-04T23:18:19.780Z</updated>
+        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">08:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘큰 북한’으로 변해가는 러시아 [박노자의 한국, 안과 밖]]]></title>
         <id>https://v.daum.net/v/20240605070507988</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240605060303262"/>
         <updated>2024-06-04T21:16:12.225Z</updated>
         <content type="html"><![CDATA[주간경향<span class="txt_bar"> · </span><span class="info_time">06:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데스크칼럼]빈대 잡으려다 초가삼간 태울라]]></title>
-        <id>https://v.daum.net/v/20240605054503894</id>
-        <link href="https://v.daum.net/v/20240605054503894"/>
-        <updated>2024-06-04T21:16:12.226Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">05:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Editorial] Gas, oil exploration]]></title>
-        <id>https://v.daum.net/v/20240605053245806</id>
-        <link href="https://v.daum.net/v/20240605053245806"/>
-        <updated>2024-06-04T21:16:12.228Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:32</span>]]></content>
     </entry>
 </feed>
