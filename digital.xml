@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-06-05T18:21:46.079Z</updated>
+    <updated>2024-06-05T19:14:27.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지놈앤컴퍼니 "계약금 규모 적절...3년간 항암제 공동연구 첫 성과"]]></title>
+        <id>https://v.daum.net/v/20240606032801517</id>
+        <link href="https://v.daum.net/v/20240606032801517"/>
+        <updated>2024-06-05T19:13:59.107Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">03:28</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[애플 시총 장중 3조 달러 탈환…엔비디아 3조 달러 ‘눈앞’]]></title>
         <id>https://v.daum.net/v/20240606015500383</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240606001016710"/>
         <updated>2024-06-05T15:17:31.122Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보잉 스타라이너 3차 시도만에 발사]]></title>
-        <id>https://v.daum.net/v/20240606000106562</id>
-        <link href="https://v.daum.net/v/20240606000106562"/>
-        <updated>2024-06-05T15:17:31.126Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
     </entry>
 </feed>
