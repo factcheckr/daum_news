@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-06-05T10:17:48.057Z</updated>
+    <updated>2024-06-05T11:14:10.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[완등‧인공암벽‧먹거리‧체험 '대둔산 완전정복'...완주 대둔산축제 8일 개막]]></title>
+        <id>https://v.daum.net/v/20240605191943316</id>
+        <link href="https://v.daum.net/v/20240605191943316"/>
+        <updated>2024-06-05T11:14:02.964Z</updated>
+        <content type="html"><![CDATA[투어코리아<span class="txt_bar"> · </span><span class="info_time">19:19</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[디지털 관광주민증 받고 할인 받아 알찬 '홍천여행' 즐기세요]]></title>
         <id>https://v.daum.net/v/20240605191001119</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240605165900510"/>
         <updated>2024-06-05T08:20:49.839Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">16:59</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 동구, '노동자의 길' 워크온 스탬프 챌린지]]></title>
-        <id>https://v.daum.net/v/20240605165845497</id>
-        <link href="https://v.daum.net/v/20240605165845497"/>
-        <updated>2024-06-05T08:20:49.840Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:58</span>]]></content>
     </entry>
 </feed>
