@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-06-06T12:32:04.539Z</updated>
+    <updated>2024-06-06T13:20:19.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[절실함이 필요했던 헬스장 등록 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20240606220141936</id>
+        <link href="https://v.daum.net/v/20240606220141936"/>
+        <updated>2024-06-06T13:20:00.226Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 6월 7일[김용민의 그림마당]]]></title>
         <id>https://v.daum.net/v/20240606210346315</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240606192840233"/>
         <updated>2024-06-06T11:14:55.940Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:28</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prepare for climate disasters from now]]></title>
-        <id>https://v.daum.net/v/20240606192540185</id>
-        <link href="https://v.daum.net/v/20240606192540185"/>
-        <updated>2024-06-06T11:14:55.942Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:25</span>]]></content>
     </entry>
 </feed>
