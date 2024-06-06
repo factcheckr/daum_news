@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-06-06T22:16:11.982Z</updated>
+    <updated>2024-06-06T23:20:36.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[화성시문화재단, 기획전시 ‘하루일색 : Colorful days’ 개최… 일상의 사소함 그 안의 특별한 색 찾기]]></title>
+        <id>https://v.daum.net/v/20240607080703962</id>
+        <link href="https://v.daum.net/v/20240607080703962"/>
+        <updated>2024-06-06T23:20:28.680Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">08:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[김대호 박사의 오늘 기업·사람] 엔비디아·TSMC·애플·우드사이드·액트지오·한국석유]]></title>
+        <id>https://v.daum.net/v/20240607075823806</id>
+        <link href="https://v.daum.net/v/20240607075823806"/>
+        <updated>2024-06-06T23:20:28.680Z</updated>
+        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">07:58</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[분양 포커스] 순천만국가정원 품은 순천 지역 첫 자이 아파트]]></title>
         <id>https://v.daum.net/v/20240607053117971</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240607053043951"/>
         <updated>2024-06-06T21:17:25.448Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영월군자원봉사센터 우수 봉사자 명예의 전당 현판]]></title>
-        <id>https://v.daum.net/v/20240607000555274</id>
-        <link href="https://v.daum.net/v/20240607000555274"/>
-        <updated>2024-06-06T15:19:07.946Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍천군수 “주민요구 공감·시간 갖고 검토”]]></title>
-        <id>https://v.daum.net/v/20240607000547260</id>
-        <link href="https://v.daum.net/v/20240607000547260"/>
-        <updated>2024-06-06T15:19:07.948Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
     </entry>
 </feed>
