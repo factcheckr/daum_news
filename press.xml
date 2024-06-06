@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-06-06T05:17:34.639Z</updated>
+    <updated>2024-06-06T06:22:47.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] GIGABYTE, COMPUTEX에서 온디바이스 AI 트레이닝 솔루션 AI TOP 공개]]></title>
+        <id>https://v.daum.net/v/20240606150826554</id>
+        <link href="https://v.daum.net/v/20240606150826554"/>
+        <updated>2024-06-06T06:22:40.959Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">15:08</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Trinasolar Releases Sustainability Report for 2023]]></title>
+        <id>https://v.daum.net/v/20240606143228833</id>
+        <link href="https://v.daum.net/v/20240606143228833"/>
+        <updated>2024-06-06T06:22:40.959Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">14:32</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] FOTON과 IVECO, 미래 시너지 효과 공동 창출 위한 MOU 체결]]></title>
         <id>https://v.daum.net/v/20240606140943344</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240606114341218"/>
         <updated>2024-06-06T03:19:49.386Z</updated>
         <content type="html"><![CDATA[대구MBC<span class="txt_bar"> · </span><span class="info_time">11:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[eXp Realty, 추천 플랫폼 ‘Global Agent Referral Platform’ 론칭… 에이전트 간 국제적 연결망 강화]]></title>
-        <id>https://v.daum.net/v/20240606113703123</id>
-        <link href="https://v.daum.net/v/20240606113703123"/>
-        <updated>2024-06-06T03:19:49.388Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">11:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] Avaada Energy, NTPC 입찰에서 1050MWp 용량 태양광 프로젝트 확보]]></title>
-        <id>https://v.daum.net/v/20240606112802976</id>
-        <link href="https://v.daum.net/v/20240606112802976"/>
-        <updated>2024-06-06T02:31:54.716Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:28</span>]]></content>
     </entry>
 </feed>
