@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-06-07T12:32:32.697Z</updated>
+    <updated>2024-06-07T13:21:08.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[만물상] '성폭행 피해 여중생'을 위한 복수]]></title>
+        <title type="html"><![CDATA[[고양이 눈]사슴 가족의 나들이]]></title>
+        <id>https://v.daum.net/v/20240607221608946</id>
+        <link href="https://v.daum.net/v/20240607221608946"/>
+        <updated>2024-06-07T13:20:46.075Z</updated>
+        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">22:16</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[만물상] ‘성폭행 피해 여중생’을 위한 복수]]></title>
         <id>https://v.daum.net/v/20240607204041683</id>
         <link href="https://v.daum.net/v/20240607204041683"/>
         <updated>2024-06-07T12:32:13.312Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240607174800716"/>
         <updated>2024-06-07T09:18:07.738Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[매경춘추] 원전 파일럿 원자로 조종사]]></title>
-        <id>https://v.daum.net/v/20240607173603456</id>
-        <link href="https://v.daum.net/v/20240607173603456"/>
-        <updated>2024-06-07T09:18:07.739Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:36</span>]]></content>
     </entry>
 </feed>
