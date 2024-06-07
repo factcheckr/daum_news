@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-06-07T18:23:28.149Z</updated>
+    <updated>2024-06-07T19:16:05.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[데스크 칼럼] 韓 반도체 산업 일으킬 영웅은 어디에 있나]]></title>
+        <id>https://v.daum.net/v/20240608040220310</id>
+        <link href="https://v.daum.net/v/20240608040220310"/>
+        <updated>2024-06-07T19:15:48.391Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">04:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[송길원 목사의 고백록] 임종 감독의 참회록]]></title>
         <id>https://v.daum.net/v/20240608031045039</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240608004214658"/>
         <updated>2024-06-07T16:19:51.640Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“역사가 없으면 민족도 없다” 민족사학 개척한 임정 대통령]]></title>
-        <id>https://v.daum.net/v/20240608003919521</id>
-        <link href="https://v.daum.net/v/20240608003919521"/>
-        <updated>2024-06-07T16:19:51.640Z</updated>
-        <content type="html"><![CDATA[중앙SUNDAY<span class="txt_bar"> · </span><span class="info_time">00:39</span>]]></content>
     </entry>
 </feed>
