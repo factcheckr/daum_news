@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-06-08T08:19:06.911Z</updated>
+    <updated>2024-06-08T09:18:17.587Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘지옥의 입’ 벌리는 바타가이카 분화구…‘고대 바이러스’ 유출? [핵잼 사이언스]]]></title>
+        <id>https://v.daum.net/v/20240608180902243</id>
+        <link href="https://v.daum.net/v/20240608180902243"/>
+        <updated>2024-06-08T09:17:53.189Z</updated>
+        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">18:09</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[카카오게임즈가 마련한 2주년 축하잔치!. 여전히 열정적인 ‘우마무스메’ 트레이너들]]></title>
+        <id>https://v.daum.net/v/20240608174501856</id>
+        <link href="https://v.daum.net/v/20240608174501856"/>
+        <updated>2024-06-08T09:17:53.190Z</updated>
+        <content type="html"><![CDATA[게임동아<span class="txt_bar"> · </span><span class="info_time">17:45</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“1년만에 분위기 확 바뀌었다”…경쟁 뒤처졌다는 건 옛말, ‘이 나라’ AI혁신 자신감 [더테크웨이브]]]></title>
         <id>https://v.daum.net/v/20240608171200320</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240608141741187"/>
         <updated>2024-06-08T06:21:17.026Z</updated>
         <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">14:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기본 소득이 GDP 올리고 환경도 살린다고? [달콤한 사이언스]]]></title>
-        <id>https://v.daum.net/v/20240608140246007</id>
-        <link href="https://v.daum.net/v/20240608140246007"/>
-        <updated>2024-06-08T05:15:55.130Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">14:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반도체 ‘신구 권력’ 정면 충돌…엔비디아 vs 인텔, AI 두뇌 ‘맞짱’]]></title>
-        <id>https://v.daum.net/v/20240608140141989</id>
-        <link href="https://v.daum.net/v/20240608140141989"/>
-        <updated>2024-06-08T05:15:55.130Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">14:01</span>]]></content>
     </entry>
 </feed>
