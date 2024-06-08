@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-06-08T01:08:17.897Z</updated>
+    <updated>2024-06-08T02:32:15.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[CSIS "中에 전함숫자 밀리는 美, 韓·日 도움 받아 수적 열세 극복해야"]]></title>
+        <id>https://v.daum.net/v/20240608110900698</id>
+        <link href="https://v.daum.net/v/20240608110900698"/>
+        <updated>2024-06-08T02:31:53.579Z</updated>
+        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">11:09</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주요 신문 사설](8일 조간)]]></title>
         <id>https://v.daum.net/v/20240608100005059</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240608050021406"/>
         <updated>2024-06-07T20:17:27.832Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">05:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['또 다른 나', AI 클론의 시대 [최연진의 IT 프리즘]]]></title>
-        <id>https://v.daum.net/v/20240608050003390</id>
-        <link href="https://v.daum.net/v/20240608050003390"/>
-        <updated>2024-06-07T20:17:27.832Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">05:00</span>]]></content>
     </entry>
 </feed>
