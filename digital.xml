@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-06-08T12:27:55.451Z</updated>
+    <updated>2024-06-08T13:17:08.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["중국서도 흥행 돌풍"…출시 6시간 만에 1위 갈아치웠다]]></title>
+        <id>https://v.daum.net/v/20240608215102565</id>
+        <link href="https://v.daum.net/v/20240608215102565"/>
+        <updated>2024-06-08T13:16:42.694Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">21:51</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인스타그램 ‘중간광고’ 도입 카드 만지작…“끔찍하다” 불만 폭주, 왜?]]></title>
+        <id>https://v.daum.net/v/20240608213000417</id>
+        <link href="https://v.daum.net/v/20240608213000417"/>
+        <updated>2024-06-08T13:16:42.696Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">21:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[의료 취약지에 남은 공보의 “업무 과중으로 스트레스”]]></title>
         <id>https://v.daum.net/v/20240608212516390</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240608174501856"/>
         <updated>2024-06-08T09:17:53.190Z</updated>
         <content type="html"><![CDATA[게임동아<span class="txt_bar"> · </span><span class="info_time">17:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“1년만에 분위기 확 바뀌었다”…경쟁 뒤처졌다는 건 옛말, ‘이 나라’ AI혁신 자신감 [더테크웨이브]]]></title>
-        <id>https://v.daum.net/v/20240608171200320</id>
-        <link href="https://v.daum.net/v/20240608171200320"/>
-        <updated>2024-06-08T08:18:39.779Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘다크 앤 다커’, 에픽게임즈 스토어·스팀 출시]]></title>
-        <id>https://v.daum.net/v/20240608170644246</id>
-        <link href="https://v.daum.net/v/20240608170644246"/>
-        <updated>2024-06-08T08:18:39.779Z</updated>
-        <content type="html"><![CDATA[스포츠경향<span class="txt_bar"> · </span><span class="info_time">17:06</span>]]></content>
     </entry>
 </feed>
