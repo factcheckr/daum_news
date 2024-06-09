@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-06-09T22:16:22.068Z</updated>
+    <updated>2024-06-09T23:16:15.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["걸을 수 있는 모든 길, 휠체어·유아차도 이용할 수 있게"]]></title>
+        <id>https://v.daum.net/v/20240610081447638</id>
+        <link href="https://v.daum.net/v/20240610081447638"/>
+        <updated>2024-06-09T23:16:07.653Z</updated>
+        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">08:14</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부천시 송내영화의거리, 경기살리기 통큰세일 진행… 경품 및 문화공연 풍성 ‘송내영화의거리로 오세요’]]></title>
+        <id>https://v.daum.net/v/20240610080708486</id>
+        <link href="https://v.daum.net/v/20240610080708486"/>
+        <updated>2024-06-09T23:16:07.653Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">08:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아디다스, 공식 앰버서더 손흥민과 함께 국내 팬 대상 ‘널 믿어’ 캠페인 본격 전개]]></title>
         <id>https://v.daum.net/v/20240610070715582</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240610053022993"/>
         <updated>2024-06-09T21:16:20.995Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[농촌활력촉진지구 도지사 지정 가능…농지전용 허가권한 이양]]></title>
-        <id>https://v.daum.net/v/20240610000702577</id>
-        <link href="https://v.daum.net/v/20240610000702577"/>
-        <updated>2024-06-09T15:17:22.323Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[의회 중계석] “한우농가 생산비 절감 효과적 지원방안 마련해야”]]></title>
-        <id>https://v.daum.net/v/20240610000547519</id>
-        <link href="https://v.daum.net/v/20240610000547519"/>
-        <updated>2024-06-09T15:17:22.324Z</updated>
-        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
     </entry>
 </feed>
