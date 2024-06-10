@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-06-10T08:22:00.421Z</updated>
+    <updated>2024-06-10T09:20:14.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2024년 06월 10일)]]></title>
+        <id>https://v.daum.net/v/20240610173312200</id>
+        <link href="https://v.daum.net/v/20240610173312200"/>
+        <updated>2024-06-10T09:20:12.693Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우진아이엔에스 수주공시 - New eGrocery 1호 CFC 신축공사 중 소방기계공사 82.5억원 (매출액대비  8.23 %)]]></title>
         <id>https://v.daum.net/v/20240610170106849</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240610095803129"/>
         <updated>2024-06-10T01:11:54.801Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:58</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LS마린솔루션 수주공시 - 원거리탐지용 음행센서(B해역) 수중설치 127.6억원 (매출액대비  18.0 %)]]></title>
-        <id>https://v.daum.net/v/20240610095603008</id>
-        <link href="https://v.daum.net/v/20240610095603008"/>
-        <updated>2024-06-10T01:11:54.803Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:56</span>]]></content>
     </entry>
 </feed>
