@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-06-11T16:21:55.075Z</updated>
+    <updated>2024-06-11T17:17:05.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]유니레버의 2000년과 2017년]]></title>
+        <id>https://v.daum.net/v/20240612020301585</id>
+        <link href="https://v.daum.net/v/20240612020301585"/>
+        <updated>2024-06-11T17:16:45.830Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]무인 기차역이 호텔과 양조장으로]]></title>
+        <id>https://v.daum.net/v/20240612020245583</id>
+        <link href="https://v.daum.net/v/20240612020245583"/>
+        <updated>2024-06-11T17:16:45.830Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[고승욱 칼럼] 의사 면허는 무제한의 봉건적 특권 아니다]]></title>
         <id>https://v.daum.net/v/20240612005246325</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240612003219137"/>
         <updated>2024-06-11T16:21:37.424Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 당명에서 ‘민주’ 떼야 할 거대 야당의 의회 폭주]]></title>
-        <id>https://v.daum.net/v/20240612003215135</id>
-        <link href="https://v.daum.net/v/20240612003215135"/>
-        <updated>2024-06-11T16:21:37.425Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시론] 아동행복지수에 반영된 한국사회 현주소]]></title>
-        <id>https://v.daum.net/v/20240612003019107</id>
-        <link href="https://v.daum.net/v/20240612003019107"/>
-        <updated>2024-06-11T16:21:37.427Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
     </entry>
 </feed>
