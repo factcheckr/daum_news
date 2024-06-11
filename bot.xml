@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-06-11T07:17:08.803Z</updated>
+    <updated>2024-06-11T08:21:44.956Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[표] 코스피 지수선물·옵션 시세표(11일)-3]]></title>
+        <id>https://v.daum.net/v/20240611164307243</id>
+        <link href="https://v.daum.net/v/20240611164307243"/>
+        <updated>2024-06-11T08:21:44.227Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">16:43</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[표] 코스피 지수선물·옵션 시세표(11일)-2]]></title>
+        <id>https://v.daum.net/v/20240611164305239</id>
+        <link href="https://v.daum.net/v/20240611164305239"/>
+        <updated>2024-06-11T08:21:44.228Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">16:43</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[표] 코스피 지수선물·옵션 시세표(11일)-1]]></title>
+        <id>https://v.daum.net/v/20240611164254231</id>
+        <link href="https://v.daum.net/v/20240611164254231"/>
+        <updated>2024-06-11T08:21:44.229Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">16:42</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[표] 거래소 기관 순매수도 상위종목(11일)]]></title>
         <id>https://v.daum.net/v/20240611155754173</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240611102706585"/>
         <updated>2024-06-11T02:33:41.459Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">10:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['유니드' 52주 신고가 경신, 이익 체력 증가 + 수요 성장 속도 향상 => re-rating - 한화투자증권, BUY]]></title>
-        <id>https://v.daum.net/v/20240611102402433</id>
-        <link href="https://v.daum.net/v/20240611102402433"/>
-        <updated>2024-06-11T02:33:41.459Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">10:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이지바이오' 52주 신고가 경신, 전일 외국인 대량 순매수]]></title>
-        <id>https://v.daum.net/v/20240611093402221</id>
-        <link href="https://v.daum.net/v/20240611093402221"/>
-        <updated>2024-06-11T01:09:50.214Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우양' 52주 신고가 경신, 드디어 때가 왔다]]></title>
-        <id>https://v.daum.net/v/20240611092809976</id>
-        <link href="https://v.daum.net/v/20240611092809976"/>
-        <updated>2024-06-11T01:09:50.216Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:28</span>]]></content>
     </entry>
 </feed>
