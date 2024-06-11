@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-06-11T03:19:29.731Z</updated>
+    <updated>2024-06-11T04:21:35.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[데일리안 시사만평] 민주당, 법사위·운영위 등 11개 위원장 '싹쓸이' 단독 선출… 22대 국회 접수 완료]]></title>
+        <id>https://v.daum.net/v/20240611123140503</id>
+        <link href="https://v.daum.net/v/20240611123140503"/>
+        <updated>2024-06-11T04:21:15.487Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">12:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소비자원 "해외구매대행 프로폴리스 구입 시 주의 필요"]]></title>
         <id>https://v.daum.net/v/20240611120016721</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240611104336415"/>
         <updated>2024-06-11T02:33:27.255Z</updated>
         <content type="html"><![CDATA[대구MBC<span class="txt_bar"> · </span><span class="info_time">10:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기고]진정성·공감으로 한·아프리카가 함께 만드는 미래]]></title>
-        <id>https://v.daum.net/v/20240611103523998</id>
-        <link href="https://v.daum.net/v/20240611103523998"/>
-        <updated>2024-06-11T02:33:27.256Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">10:35</span>]]></content>
     </entry>
 </feed>
