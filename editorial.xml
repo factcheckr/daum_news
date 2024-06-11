@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-06-11T04:21:35.431Z</updated>
+    <updated>2024-06-11T05:18:00.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[AI&Me] AI와의 대화법…질문을 잘게 잘라라]]></title>
+        <id>https://v.daum.net/v/20240611135514218</id>
+        <link href="https://v.daum.net/v/20240611135514218"/>
+        <updated>2024-06-11T05:17:42.138Z</updated>
+        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">13:55</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[패키지 해외여행, 당신의 선택 기준은]]></title>
+        <id>https://v.daum.net/v/20240611133646668</id>
+        <link href="https://v.daum.net/v/20240611133646668"/>
+        <updated>2024-06-11T05:17:42.139Z</updated>
+        <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">13:36</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[데일리안 시사만평] 민주당, 법사위·운영위 등 11개 위원장 '싹쓸이' 단독 선출… 22대 국회 접수 완료]]></title>
         <id>https://v.daum.net/v/20240611123140503</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240611111409998"/>
         <updated>2024-06-11T02:33:27.253Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[블룸버그칼럼]AI가 전쟁과 세계를 바꿀 수 있을까]]></title>
-        <id>https://v.daum.net/v/20240611110107321</id>
-        <link href="https://v.daum.net/v/20240611110107321"/>
-        <updated>2024-06-11T02:33:27.254Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제34회 대구 청소년연극제, 성산고등학교 'NOT YET' 대상]]></title>
-        <id>https://v.daum.net/v/20240611104336415</id>
-        <link href="https://v.daum.net/v/20240611104336415"/>
-        <updated>2024-06-11T02:33:27.255Z</updated>
-        <content type="html"><![CDATA[대구MBC<span class="txt_bar"> · </span><span class="info_time">10:43</span>]]></content>
     </entry>
 </feed>
