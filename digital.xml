@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-06-12T13:22:35.813Z</updated>
+    <updated>2024-06-12T14:20:54.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서든어택 "외부 보안 솔루션 추가해 핵 대응 강화한다"]]></title>
+        <id>https://v.daum.net/v/20240612231647953</id>
+        <link href="https://v.daum.net/v/20240612231647953"/>
+        <updated>2024-06-12T14:20:26.424Z</updated>
+        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">23:16</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[토요타 등 日 5개 자동차 제조사 ‘품질 인증 조작’ 파문]]></title>
+        <id>https://v.daum.net/v/20240612230001842</id>
+        <link href="https://v.daum.net/v/20240612230001842"/>
+        <updated>2024-06-12T14:20:26.424Z</updated>
+        <content type="html"><![CDATA[IT동아<span class="txt_bar"> · </span><span class="info_time">23:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘제2의 노벨상’ 카블리상 수상자 발표…외계 행성 연구자 포함 8명]]></title>
         <id>https://v.daum.net/v/20240612220015238</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240612210102252"/>
         <updated>2024-06-12T12:30:36.416Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">21:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정신아 카카오 대표 “치고 간다고 승자 아냐…연내 차별된 AI 선보일 것”]]></title>
-        <id>https://v.daum.net/v/20240612210000217</id>
-        <link href="https://v.daum.net/v/20240612210000217"/>
-        <updated>2024-06-12T12:30:36.417Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">21:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[야마하뮤직, 온라인 합주 플랫폼 '싱크룸' 버전 2.0 공개]]></title>
-        <id>https://v.daum.net/v/20240612204847008</id>
-        <link href="https://v.daum.net/v/20240612204847008"/>
-        <updated>2024-06-12T12:30:36.419Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">20:48</span>]]></content>
     </entry>
 </feed>
