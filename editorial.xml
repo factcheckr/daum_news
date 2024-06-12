@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-06-12T05:16:52.828Z</updated>
+    <updated>2024-06-12T06:22:43.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공정위, 카카오엔터 현장조사…첸백시 측 “차별적 수수료가 사태의 본질”]]></title>
+        <id>https://v.daum.net/v/20240612150924830</id>
+        <link href="https://v.daum.net/v/20240612150924830"/>
+        <updated>2024-06-12T06:22:24.466Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">15:09</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“노후 해결사처럼 떠들더니”...예금 비슷한 ‘퇴직연금 디폴트옵션’ 차라리 없애라 [김명수 칼럼]]]></title>
         <id>https://v.daum.net/v/20240612140002825</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240612112741590"/>
         <updated>2024-06-12T02:33:56.391Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 가덕도 신공항·위례신사선 뒤뚱, 표류하는 SOC 사업]]></title>
-        <id>https://v.daum.net/v/20240612112614526</id>
-        <link href="https://v.daum.net/v/20240612112614526"/>
-        <updated>2024-06-12T02:33:56.391Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:26</span>]]></content>
     </entry>
 </feed>
