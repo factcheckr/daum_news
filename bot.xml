@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-06-12T02:34:16.400Z</updated>
+    <updated>2024-06-12T03:20:14.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[케이엔에스 수주공시 - 2차전지 제조장비 공급계약 46 RIVET 개발 장비 36억원 (매출액대비  11.98 %)]]></title>
+        <id>https://v.daum.net/v/20240612114602315</id>
+        <link href="https://v.daum.net/v/20240612114602315"/>
+        <updated>2024-06-12T03:20:14.322Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">11:46</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국고채 금리 소폭 하락…3년물 장중 연 3.323%]]></title>
+        <id>https://v.daum.net/v/20240612114049120</id>
+        <link href="https://v.daum.net/v/20240612114049120"/>
+        <updated>2024-06-12T03:20:14.323Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">11:40</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['한미반도체' 52주 신고가 경신, 전공정은 ASML, 후공정은 한미반도체 - 현대차증권, BUY]]></title>
         <id>https://v.daum.net/v/20240612112702569</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240612092503499"/>
         <updated>2024-06-12T01:09:49.753Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['더존비즈온' 52주 신고가 경신, 한 걸음 더 앞으로]]></title>
-        <id>https://v.daum.net/v/20240612092206360</id>
-        <link href="https://v.daum.net/v/20240612092206360"/>
-        <updated>2024-06-12T01:09:49.755Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['씨앤씨인터내셔널' 52주 신고가 경신, 공급 확충 - 메리츠증권, BUY]]></title>
-        <id>https://v.daum.net/v/20240612092105309</id>
-        <link href="https://v.daum.net/v/20240612092105309"/>
-        <updated>2024-06-12T01:09:49.756Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:21</span>]]></content>
     </entry>
 </feed>
