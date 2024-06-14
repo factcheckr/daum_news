@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-06-14T21:17:00.019Z</updated>
+    <updated>2024-06-14T22:16:44.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단 진 허그회 논란이 울린 경종 [하재근의 이슈분석]]]></title>
+        <id>https://v.daum.net/v/20240615070707038</id>
+        <link href="https://v.daum.net/v/20240615070707038"/>
+        <updated>2024-06-14T22:16:30.766Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[금리인하기 재테크 전략은? [이예원의 똑똑한 주부 재테크]]]></title>
+        <id>https://v.daum.net/v/20240615070341997</id>
+        <link href="https://v.daum.net/v/20240615070341997"/>
+        <updated>2024-06-14T22:16:30.767Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">07:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘집단 휴진 불참’ 동료 의사들 막말로 비판한 의협 회장 정상인가 [논설실의 관점]]]></title>
         <id>https://v.daum.net/v/20240615055039012</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240615003233818"/>
         <updated>2024-06-14T17:16:51.878Z</updated>
         <content type="html"><![CDATA[중앙SUNDAY<span class="txt_bar"> · </span><span class="info_time">00:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 어떤 이유든 의사가 환자 떠날 권리는 없다]]></title>
-        <id>https://v.daum.net/v/20240615003225816</id>
-        <link href="https://v.daum.net/v/20240615003225816"/>
-        <updated>2024-06-14T17:16:51.879Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] ‘진료 거부’를 거부한 참의료인들]]></title>
-        <id>https://v.daum.net/v/20240615003111807</id>
-        <link href="https://v.daum.net/v/20240615003111807"/>
-        <updated>2024-06-14T17:16:51.882Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:31</span>]]></content>
     </entry>
 </feed>
