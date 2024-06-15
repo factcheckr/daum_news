@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-06-14T23:17:04.767Z</updated>
+    <updated>2024-06-15T01:09:13.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](15일 조간)]]></title>
+        <id>https://v.daum.net/v/20240615100143726</id>
+        <link href="https://v.daum.net/v/20240615100143726"/>
+        <updated>2024-06-15T01:09:00.726Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">10:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[의대 학부모들, 서울대의대 교수들에 "더 적극적인 투쟁을"]]></title>
+        <id>https://v.daum.net/v/20240615095744654</id>
+        <link href="https://v.daum.net/v/20240615095744654"/>
+        <updated>2024-06-15T01:09:00.727Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">09:57</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최재영 목사 “김건희 여사 역시 처벌 받아야”]]></title>
+        <id>https://v.daum.net/v/20240615090010012</id>
+        <link href="https://v.daum.net/v/20240615090010012"/>
+        <updated>2024-06-15T01:09:00.728Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">09:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그때의 아우슈비츠, 지금의 가자지구 [비장의 무비]]]></title>
+        <id>https://v.daum.net/v/20240615084600913</id>
+        <link href="https://v.daum.net/v/20240615084600913"/>
+        <updated>2024-06-15T01:09:00.729Z</updated>
+        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">08:46</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[김회룡의 시사 TOON]]]></title>
         <id>https://v.daum.net/v/20240615080202627</id>
@@ -20,7 +48,7 @@
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:07</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[금리인하기 재테크 전략은? [이예원의 똑똑한 주부 재테크]]]></title>
+        <title type="html"><![CDATA["여보, 돈 미리 어디 넣을까"···금리인하기 목돈 만들기 [이예원의 똑똑한 주부 재테크]]]></title>
         <id>https://v.daum.net/v/20240615070341997</id>
         <link href="https://v.daum.net/v/20240615070341997"/>
         <updated>2024-06-14T22:16:30.767Z</updated>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20240615004352925"/>
         <updated>2024-06-14T17:16:51.871Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창] 누구의 시간인가]]></title>
-        <id>https://v.daum.net/v/20240615003911872</id>
-        <link href="https://v.daum.net/v/20240615003911872"/>
-        <updated>2024-06-14T17:16:51.871Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[빛과 소금] 한국 교회 교단 정치의 폐해]]></title>
-        <id>https://v.daum.net/v/20240615003907870</id>
-        <link href="https://v.daum.net/v/20240615003907870"/>
-        <updated>2024-06-14T17:16:51.873Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토 카페] 호박벌도 기후변화 직격탄]]></title>
-        <id>https://v.daum.net/v/20240615003606842</id>
-        <link href="https://v.daum.net/v/20240615003606842"/>
-        <updated>2024-06-14T17:16:51.874Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오후 3시의 헌책방] 속독의 달인]]></title>
-        <id>https://v.daum.net/v/20240615003516831</id>
-        <link href="https://v.daum.net/v/20240615003516831"/>
-        <updated>2024-06-14T17:16:51.877Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:35</span>]]></content>
     </entry>
 </feed>
