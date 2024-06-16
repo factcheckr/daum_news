@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-06-16T10:18:00.434Z</updated>
+    <updated>2024-06-16T11:14:29.502Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중기부 "해외 전시·홍보 등 지원"···수출바우처 2차사업 참여 기업 모집]]></title>
+        <id>https://v.daum.net/v/20240616194141158</id>
+        <link href="https://v.daum.net/v/20240616194141158"/>
+        <updated>2024-06-16T11:14:22.833Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">19:41</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부산 금정구 ‘금정 청년 로컬크리에이터 스텝업’ 발대식 개최]]></title>
         <id>https://v.daum.net/v/20240616182724178</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240616133007373"/>
         <updated>2024-06-16T05:16:33.582Z</updated>
         <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">13:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[목포시, 수산식품 고부가가치 미래먹거리 육성 ‘박차’]]></title>
-        <id>https://v.daum.net/v/20240616132850351</id>
-        <link href="https://v.daum.net/v/20240616132850351"/>
-        <updated>2024-06-16T05:16:33.584Z</updated>
-        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">13:28</span>]]></content>
     </entry>
 </feed>
