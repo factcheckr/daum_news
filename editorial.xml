@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-06-17T16:21:30.680Z</updated>
+    <updated>2024-06-17T17:16:05.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]라이즈체계, 지역-대학 상생인가 동상이몽인가]]></title>
+        <id>https://v.daum.net/v/20240618020448476</id>
+        <link href="https://v.daum.net/v/20240618020448476"/>
+        <updated>2024-06-17T17:15:50.044Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:04</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]용산의 중추신경, 세종시의 말초신경]]></title>
+        <id>https://v.daum.net/v/20240618020248470</id>
+        <link href="https://v.daum.net/v/20240618020248470"/>
+        <updated>2024-06-17T17:15:50.044Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 의대 증원 반대가 환자 생명보다 중요한가]]></title>
         <id>https://v.daum.net/v/20240618004227194</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240618003409120"/>
         <updated>2024-06-17T16:21:11.109Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] ‘2특검 4국조’ 공식화한 민주당… 민생은 언제 챙기나]]></title>
-        <id>https://v.daum.net/v/20240618003341119</id>
-        <link href="https://v.daum.net/v/20240618003341119"/>
-        <updated>2024-06-17T16:21:11.110Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:33</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[돋을새김] 대통령은 이러나 저러나]]></title>
-        <id>https://v.daum.net/v/20240618003307117</id>
-        <link href="https://v.daum.net/v/20240618003307117"/>
-        <updated>2024-06-17T16:21:11.112Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:33</span>]]></content>
     </entry>
 </feed>
