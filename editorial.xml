@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-06-17T22:16:20.410Z</updated>
+    <updated>2024-06-17T23:18:22.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박순찬의 장도리 카툰] 개꿈]]></title>
+        <id>https://v.daum.net/v/20240618073300346</id>
+        <link href="https://v.daum.net/v/20240618073300346"/>
+        <updated>2024-06-17T23:18:00.487Z</updated>
+        <content type="html"><![CDATA[오마이뉴스<span class="txt_bar"> · </span><span class="info_time">07:33</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[함영준의 마음PT] 인생 ‘저녁’을 사는 사람들과 묵호에서 보낸 휴일]]></title>
+        <id>https://v.daum.net/v/20240618072619250</id>
+        <link href="https://v.daum.net/v/20240618072619250"/>
+        <updated>2024-06-17T23:18:00.487Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">07:26</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지금 영일만에서 이러실 때가 아닙니다 [시민편집인의 눈]]]></title>
         <id>https://v.daum.net/v/20240618070509024</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240618060303294"/>
         <updated>2024-06-17T21:16:51.448Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">06:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[유효상 칼럼] 왜 EU와 캐나다는 내렸는데 미국은 안 내릴까]]></title>
-        <id>https://v.daum.net/v/20240618060017093</id>
-        <link href="https://v.daum.net/v/20240618060017093"/>
-        <updated>2024-06-17T21:16:51.453Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기고]한-우즈베크 인사행정 협력에 거는 기대]]></title>
-        <id>https://v.daum.net/v/20240618055146018</id>
-        <link href="https://v.daum.net/v/20240618055146018"/>
-        <updated>2024-06-17T21:16:51.453Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">05:51</span>]]></content>
     </entry>
 </feed>
