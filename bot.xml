@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-06-17T01:13:06.464Z</updated>
+    <updated>2024-06-17T02:36:38.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['삼양식품' 52주 신고가 경신, 전일 외국인 대량 순매수]]></title>
+        <id>https://v.daum.net/v/20240617105602550</id>
+        <link href="https://v.daum.net/v/20240617105602550"/>
+        <updated>2024-06-17T02:36:38.185Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">10:56</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['세진중공업' 52주 신고가 경신, 사업보국. 한국조선의 땡크를 책임진다 - 다올투자증권, BUY]]></title>
+        <id>https://v.daum.net/v/20240617104402911</id>
+        <link href="https://v.daum.net/v/20240617104402911"/>
+        <updated>2024-06-17T02:36:38.185Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">10:44</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['LIG넥스원' 52주 신고가 경신, 전일 외국인 대량 순매수]]></title>
         <id>https://v.daum.net/v/20240617101005322</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20240617091110830</id>
         <link href="https://v.daum.net/v/20240617091110830"/>
         <updated>2024-06-17T01:13:05.846Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['웨스트라이즈' 52주 신고가 경신, 전일 외국인 대량 순매수]]></title>
-        <id>https://v.daum.net/v/20240617091106829</id>
-        <link href="https://v.daum.net/v/20240617091106829"/>
-        <updated>2024-06-17T01:13:05.848Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['롯데웰푸드' 52주 신고가 경신, 기대되는 성수기 - 한화투자증권, BUY]]></title>
-        <id>https://v.daum.net/v/20240617091104828</id>
-        <link href="https://v.daum.net/v/20240617091104828"/>
-        <updated>2024-06-17T01:13:05.850Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:11</span>]]></content>
     </entry>
 </feed>
