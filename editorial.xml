@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-06-18T03:20:40.672Z</updated>
+    <updated>2024-06-18T04:20:38.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[THE VIEW]사상 첫 파업 삼성전자의 노조 리스크]]></title>
+        <id>https://v.daum.net/v/20240618131630933</id>
+        <link href="https://v.daum.net/v/20240618131630933"/>
+        <updated>2024-06-18T04:20:18.812Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">13:16</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[데일리안 시사만평] 환자들은 죽으라고? 동네 병원까지 줄줄이 '집단휴진']]></title>
+        <id>https://v.daum.net/v/20240618122626938</id>
+        <link href="https://v.daum.net/v/20240618122626938"/>
+        <updated>2024-06-18T04:20:18.812Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">12:26</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대구시민단체연대회의 "명분 없는 의사 집단휴진 철회해야…무능·불통 정부 규탄한다"]]></title>
         <id>https://v.daum.net/v/20240618115639821</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240618111143361"/>
         <updated>2024-06-18T02:33:49.566Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 한국 국가경쟁력 ‘역대 최고’, 규제 더 풀어 혁신 촉진해야]]></title>
-        <id>https://v.daum.net/v/20240618110914233</id>
-        <link href="https://v.daum.net/v/20240618110914233"/>
-        <updated>2024-06-18T02:33:49.567Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[블룸버그 칼럼]GPT4, 주식 투자에도 머니볼 논리]]></title>
-        <id>https://v.daum.net/v/20240618110155803</id>
-        <link href="https://v.daum.net/v/20240618110155803"/>
-        <updated>2024-06-18T02:33:49.568Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:01</span>]]></content>
     </entry>
 </feed>
