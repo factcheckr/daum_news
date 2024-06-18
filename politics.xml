@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2024-06-18T18:23:02.073Z</updated>
+    <updated>2024-06-18T19:14:13.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['K콘텐츠' 국가전략산업으로…尹정부, 5조원대 정책금융 투입]]></title>
+        <id>https://v.daum.net/v/20240619040000741</id>
+        <link href="https://v.daum.net/v/20240619040000741"/>
+        <updated>2024-06-18T19:13:05.462Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한중 외교안보대화서 "푸틴 방북에 깊은 우려"]]></title>
         <id>https://v.daum.net/v/20240619031453691</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240619025613465"/>
         <updated>2024-06-18T18:21:49.670Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">02:56</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지난번엔 먼저 와 기다리더니…자정 넘겨 방북 푸틴, 의도 있었나]]></title>
-        <id>https://v.daum.net/v/20240619025548464</id>
-        <link href="https://v.daum.net/v/20240619025548464"/>
-        <updated>2024-06-18T18:21:49.672Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">02:55</span>]]></content>
     </entry>
 </feed>
