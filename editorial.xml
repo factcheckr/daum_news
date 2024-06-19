@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-06-19T18:21:06.553Z</updated>
+    <updated>2024-06-19T19:14:50.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[송정열의 Echo]왜 우리는 '모범택시' 김도기에 열광하나]]></title>
+        <id>https://v.daum.net/v/20240620040143809</id>
+        <link href="https://v.daum.net/v/20240620040143809"/>
+        <updated>2024-06-19T19:14:36.151Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">04:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[소강석 목사의  블루 시그널] 창의적 일탈이 신뢰도를 높인다]]></title>
         <id>https://v.daum.net/v/20240620030615663</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240620030127497</id>
         <link href="https://v.daum.net/v/20240620030127497"/>
         <updated>2024-06-19T18:20:53.517Z</updated>
-        <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">03:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 핵심기술 국외 유출, 경제간첩죄 적용해 엄벌해야]]></title>
-        <id>https://v.daum.net/v/20240620030125494</id>
-        <link href="https://v.daum.net/v/20240620030125494"/>
-        <updated>2024-06-19T18:20:53.518Z</updated>
         <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">03:01</span>]]></content>
     </entry>
 </feed>
