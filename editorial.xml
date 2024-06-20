@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-06-20T04:19:31.175Z</updated>
+    <updated>2024-06-20T05:17:14.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[췌장암 환자 3주 치료비 6500만원…‘꿈의 암치료법’ 보험 혜택도 꿈일까 [필동정담]]]></title>
+        <id>https://v.daum.net/v/20240620134201208</id>
+        <link href="https://v.daum.net/v/20240620134201208"/>
+        <updated>2024-06-20T05:16:53.172Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">13:42</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 엔비디아 시총 1위 등극, 과감한 기술 혁신이 답]]></title>
         <id>https://v.daum.net/v/20240620131045454</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240620105341928"/>
         <updated>2024-06-20T02:32:14.401Z</updated>
         <content type="html"><![CDATA[헬스조선<span class="txt_bar"> · </span><span class="info_time">10:53</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부고] 김경배(교보생명 지속경영기획실장)씨 부친상]]></title>
-        <id>https://v.daum.net/v/20240620104600549</id>
-        <link href="https://v.daum.net/v/20240620104600549"/>
-        <updated>2024-06-20T02:32:14.403Z</updated>
-        <content type="html"><![CDATA[머니S<span class="txt_bar"> · </span><span class="info_time">10:46</span>]]></content>
     </entry>
 </feed>
