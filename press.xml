@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-06-20T09:20:47.293Z</updated>
+    <updated>2024-06-20T10:19:27.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Tobii launches Tobii Nexus]]></title>
+        <id>https://v.daum.net/v/20240620190511713</id>
+        <link href="https://v.daum.net/v/20240620190511713"/>
+        <updated>2024-06-20T10:19:15.599Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">19:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 옴디아, 2028년 데이터센터 냉각 시장 규모 168억 7천만 달러로 예측]]></title>
+        <id>https://v.daum.net/v/20240620190058570</id>
+        <link href="https://v.daum.net/v/20240620190058570"/>
+        <updated>2024-06-20T10:19:15.599Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">19:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] GAC EMZOOM, 글로벌 SUV 시장에서 혁신을 재정의하다]]></title>
         <id>https://v.daum.net/v/20240620175222675</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240620170017808"/>
         <updated>2024-06-20T08:22:12.898Z</updated>
         <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">17:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] Masdar and GEK TERNA Strike Landmark €3.2bn¹ Deal]]></title>
-        <id>https://v.daum.net/v/20240620165740711</id>
-        <link href="https://v.daum.net/v/20240620165740711"/>
-        <updated>2024-06-20T08:22:12.899Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:57</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IBK기업은행-한국중부발전, 민생경제 지원 위한 동반성장 협약 체결]]></title>
-        <id>https://v.daum.net/v/20240620165704685</id>
-        <link href="https://v.daum.net/v/20240620165704685"/>
-        <updated>2024-06-20T08:22:12.899Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">16:57</span>]]></content>
     </entry>
 </feed>
