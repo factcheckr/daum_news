@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-06-20T12:31:35.056Z</updated>
+    <updated>2024-06-20T13:20:09.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['최소한만 하자'에서 한 걸음 더 나아가자 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20240620220058562</id>
+        <link href="https://v.daum.net/v/20240620220058562"/>
+        <updated>2024-06-20T13:19:45.321Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[국민만평-서민호 화백] 2024년 6월 21일]]></title>
         <id>https://v.daum.net/v/20240620210011099</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240620200851885"/>
         <updated>2024-06-20T11:14:13.994Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tit for tat is the best strategy against the North]]></title>
-        <id>https://v.daum.net/v/20240620200731869</id>
-        <link href="https://v.daum.net/v/20240620200731869"/>
-        <updated>2024-06-20T11:14:13.995Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:07</span>]]></content>
     </entry>
 </feed>
