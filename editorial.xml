@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-06-21T22:16:26.903Z</updated>
+    <updated>2024-06-21T23:16:02.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[데일리안 시사만평] 원희룡·나경원·윤상현 '어대한' 흔드나… 후끈해지는 與 당권 레이스]]></title>
+        <id>https://v.daum.net/v/20240622080808185</id>
+        <link href="https://v.daum.net/v/20240622080808185"/>
+        <updated>2024-06-21T23:15:49.436Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">08:08</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[김회룡의 시사 TOON]]]></title>
+        <id>https://v.daum.net/v/20240622080007071</id>
+        <link href="https://v.daum.net/v/20240622080007071"/>
+        <updated>2024-06-21T23:15:49.437Z</updated>
+        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대만칩통신]엔비디아 이어 AMD 유치…대만, AI반도체 '공급망·일자리' 두 토끼 잡았다]]></title>
         <id>https://v.daum.net/v/20240622070056593</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240622005602101"/>
         <updated>2024-06-21T16:21:52.990Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:56</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한마당] ‘오빠 므찌나’ 손아섭]]></title>
-        <id>https://v.daum.net/v/20240622004211059</id>
-        <link href="https://v.daum.net/v/20240622004211059"/>
-        <updated>2024-06-21T16:21:52.991Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토 카페] 찜통더위엔 물놀이가 최고]]></title>
-        <id>https://v.daum.net/v/20240622003711020</id>
-        <link href="https://v.daum.net/v/20240622003711020"/>
-        <updated>2024-06-21T16:21:52.994Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:37</span>]]></content>
     </entry>
 </feed>
