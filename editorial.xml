@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-06-22T07:17:51.662Z</updated>
+    <updated>2024-06-22T08:19:57.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[부고] 주홍관씨(㈜LS 홍보팀 과장) 장인상]]></title>
+        <id>https://v.daum.net/v/20240622165750232</id>
+        <link href="https://v.daum.net/v/20240622165750232"/>
+        <updated>2024-06-22T08:19:41.854Z</updated>
+        <content type="html"><![CDATA[머니S<span class="txt_bar"> · </span><span class="info_time">16:57</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[그 많던 여름 영화 관객은 다시 돌아올까 [라제기의 슛 & 숏]]]></title>
         <id>https://v.daum.net/v/20240622120102558</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240622060207084"/>
         <updated>2024-06-21T21:17:04.184Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">06:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데스크 칼럼] 변한 게 없는 국회의원들, 이러려고 출마했나]]></title>
-        <id>https://v.daum.net/v/20240622060158076</id>
-        <link href="https://v.daum.net/v/20240622060158076"/>
-        <updated>2024-06-21T21:17:04.185Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">06:01</span>]]></content>
     </entry>
 </feed>
