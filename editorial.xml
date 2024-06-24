@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-06-24T18:23:31.625Z</updated>
+    <updated>2024-06-24T19:18:53.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[광화문]체코 원전]]></title>
+        <id>https://v.daum.net/v/20240625041100749</id>
+        <link href="https://v.daum.net/v/20240625041100749"/>
+        <updated>2024-06-24T19:18:36.301Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">04:11</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[무혈성 괴사, 남성 발병률 여성의 4배]]></title>
         <id>https://v.daum.net/v/20240625031015671</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240625030123515</id>
         <link href="https://v.daum.net/v/20240625030123515"/>
         <updated>2024-06-24T18:23:14.891Z</updated>
-        <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">03:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[윤준영 칼럼] ‘민주주의’]]></title>
-        <id>https://v.daum.net/v/20240625030121513</id>
-        <link href="https://v.daum.net/v/20240625030121513"/>
-        <updated>2024-06-24T18:23:14.892Z</updated>
         <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">03:01</span>]]></content>
     </entry>
 </feed>
