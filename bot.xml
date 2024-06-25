@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-06-25T07:16:23.234Z</updated>
+    <updated>2024-06-25T08:21:31.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국고채 금리 일제히 상승…3년물 연 3.201%]]></title>
+        <id>https://v.daum.net/v/20240625164147790</id>
+        <link href="https://v.daum.net/v/20240625164147790"/>
+        <updated>2024-06-25T08:21:31.317Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">16:41</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[티앤알바이오팹, 30억원 3자배정 유상증자 결정]]></title>
+        <id>https://v.daum.net/v/20240625162748188</id>
+        <link href="https://v.daum.net/v/20240625162748188"/>
+        <updated>2024-06-25T08:21:31.317Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">16:27</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[케이엔에스 "종루이코리아 주식 27억원어치 취득…지분율 30%"]]></title>
         <id>https://v.daum.net/v/20240625155656520</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240625134805072"/>
         <updated>2024-06-25T05:17:40.848Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">13:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['유진투자증권' 52주 신고가 경신, 전일 기관 대량 순매수]]></title>
-        <id>https://v.daum.net/v/20240625130102564</id>
-        <link href="https://v.daum.net/v/20240625130102564"/>
-        <updated>2024-06-25T04:20:51.163Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">13:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['KCTC' 52주 신고가 경신, 기관 9일 연속 순매수(2.1만주)]]></title>
-        <id>https://v.daum.net/v/20240625123108851</id>
-        <link href="https://v.daum.net/v/20240625123108851"/>
-        <updated>2024-06-25T04:20:51.164Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">12:31</span>]]></content>
     </entry>
 </feed>
