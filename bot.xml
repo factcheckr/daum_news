@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-06-25T03:19:56.360Z</updated>
+    <updated>2024-06-25T04:20:51.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['유진투자증권' 52주 신고가 경신, 전일 기관 대량 순매수]]></title>
+        <id>https://v.daum.net/v/20240625130102564</id>
+        <link href="https://v.daum.net/v/20240625130102564"/>
+        <updated>2024-06-25T04:20:51.163Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">13:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['KCTC' 52주 신고가 경신, 기관 9일 연속 순매수(2.1만주)]]></title>
+        <id>https://v.daum.net/v/20240625123108851</id>
+        <link href="https://v.daum.net/v/20240625123108851"/>
+        <updated>2024-06-25T04:20:51.164Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">12:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국고채 금리 대체로 하락…3년물 장중 연 3.187%]]></title>
         <id>https://v.daum.net/v/20240625114359349</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240625091005932"/>
         <updated>2024-06-25T01:10:33.345Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LIG넥스원 수주공시 - 청상어 검사정비 PBL 839.7억원 (매출액대비  3.64 %)]]></title>
-        <id>https://v.daum.net/v/20240625075604698</id>
-        <link href="https://v.daum.net/v/20240625075604698"/>
-        <updated>2024-06-24T23:19:13.201Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">07:56</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘의 날씨 - 오전 (2024년 06월 25일)]]></title>
-        <id>https://v.daum.net/v/20240625053314555</id>
-        <link href="https://v.daum.net/v/20240625053314555"/>
-        <updated>2024-06-24T21:16:16.081Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">05:33</span>]]></content>
     </entry>
 </feed>
