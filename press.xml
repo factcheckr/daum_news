@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-06-26T22:17:02.971Z</updated>
+    <updated>2024-06-26T23:18:33.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[베바스토코리아 ‘글로벌 소셜 위크’ 진행]]></title>
+        <id>https://v.daum.net/v/20240627080703340</id>
+        <link href="https://v.daum.net/v/20240627080703340"/>
+        <updated>2024-06-26T23:18:22.044Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">08:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[자동차] 세련된 디자인에 혁신적인 디지털 경험 선사할 프리미엄 SUV로 진화]]></title>
         <id>https://v.daum.net/v/20240627053223769</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240627053153749</id>
         <link href="https://v.daum.net/v/20240627053153749"/>
         <updated>2024-06-26T21:19:21.974Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">05:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[비즈스토리] 소멸 위기 지역 돕자! 농촌 빈집재생, 작은 학교 살리기 동참]]></title>
-        <id>https://v.daum.net/v/20240627053150746</id>
-        <link href="https://v.daum.net/v/20240627053150746"/>
-        <updated>2024-06-26T21:19:21.975Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">05:31</span>]]></content>
     </entry>
 </feed>
