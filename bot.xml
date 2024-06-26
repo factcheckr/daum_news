@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-06-26T06:24:20.544Z</updated>
+    <updated>2024-06-26T07:15:49.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이오케이, 디모아에 3자배정 유상증자 결정]]></title>
+        <id>https://v.daum.net/v/20240626161438413</id>
+        <link href="https://v.daum.net/v/20240626161438413"/>
+        <updated>2024-06-26T07:15:48.451Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">16:14</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HJ중공업 수주공시 - 부산항 신항 서컨 2-6단계 트랜스퍼크레인 제작설치 1,870억원 (매출액대비  8.65 %)]]></title>
+        <id>https://v.daum.net/v/20240626154606197</id>
+        <link href="https://v.daum.net/v/20240626154606197"/>
+        <updated>2024-06-26T07:15:48.451Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">15:46</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유티아이, 27억원 3자배정 유상증자 결정]]></title>
         <id>https://v.daum.net/v/20240626142326381</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20240626091508213</id>
         <link href="https://v.daum.net/v/20240626091508213"/>
         <updated>2024-06-26T01:09:24.374Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현대차3우B' 52주 신고가 경신, 기관 3일 연속 순매수(6,218주)]]></title>
-        <id>https://v.daum.net/v/20240626091503209</id>
-        <link href="https://v.daum.net/v/20240626091503209"/>
-        <updated>2024-06-26T01:09:24.376Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['디아이' 52주 신고가 경신, 자금조달을 통한 마음가짐, DDR5+HBM3+HBM4]]></title>
-        <id>https://v.daum.net/v/20240626091502204</id>
-        <link href="https://v.daum.net/v/20240626091502204"/>
-        <updated>2024-06-26T01:09:24.377Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:15</span>]]></content>
     </entry>
 </feed>
