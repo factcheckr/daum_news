@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-06-26T18:21:55.306Z</updated>
+    <updated>2024-06-26T19:14:15.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]판결로 살펴본 의대정원 문제]]></title>
+        <id>https://v.daum.net/v/20240627034502036</id>
+        <link href="https://v.daum.net/v/20240627034502036"/>
+        <updated>2024-06-26T19:13:57.406Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">03:45</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이규현 목사의 복음과 삶] 나 자신과 화해하는 삶]]></title>
         <id>https://v.daum.net/v/20240627030617972</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240627030128828</id>
         <link href="https://v.daum.net/v/20240627030128828"/>
         <updated>2024-06-26T18:21:37.602Z</updated>
-        <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">03:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 외국인 노동자 대형 참사, 더 이상 되풀이 안 된다]]></title>
-        <id>https://v.daum.net/v/20240627030126826</id>
-        <link href="https://v.daum.net/v/20240627030126826"/>
-        <updated>2024-06-26T18:21:37.603Z</updated>
         <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">03:01</span>]]></content>
     </entry>
 </feed>
