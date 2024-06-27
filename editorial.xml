@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-06-27T12:31:39.937Z</updated>
+    <updated>2024-06-27T13:20:46.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삶의 에너지가 넘쳤던 웃음보따리 소풍 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20240627220057442</id>
+        <link href="https://v.daum.net/v/20240627220057442"/>
+        <updated>2024-06-27T13:20:23.739Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족 주주 분쟁 vs 종업원 지주회사 [취재수첩]]]></title>
         <id>https://v.daum.net/v/20240627210311540</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240627195736087</id>
         <link href="https://v.daum.net/v/20240627195736087"/>
         <updated>2024-06-27T11:14:52.297Z</updated>
-        <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">19:57</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 리튬전지 화재 대비, 전용소화기 기준부터 손봐야]]></title>
-        <id>https://v.daum.net/v/20240627195732086</id>
-        <link href="https://v.daum.net/v/20240627195732086"/>
-        <updated>2024-06-27T11:14:52.298Z</updated>
         <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">19:57</span>]]></content>
     </entry>
 </feed>
