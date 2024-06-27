@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-06-27T09:18:39.038Z</updated>
+    <updated>2024-06-27T10:19:33.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중기부, 중소벤처기업 애로 발굴·해소체계 구축 추진]]></title>
+        <id>https://v.daum.net/v/20240627183014284</id>
+        <link href="https://v.daum.net/v/20240627183014284"/>
+        <updated>2024-06-27T10:19:21.881Z</updated>
+        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">18:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서경대학교, 대만 홍광과기대학교와 국제교류 협력 및 공동 발전 위한 업무협약 체결]]></title>
         <id>https://v.daum.net/v/20240627181351763</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240627172249959"/>
         <updated>2024-06-27T09:18:30.875Z</updated>
         <content type="html"><![CDATA[스포티비뉴스<span class="txt_bar"> · </span><span class="info_time">17:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장성군 축령산 편백숲, 자연휴양림 지정 준비 '첫걸음']]></title>
-        <id>https://v.daum.net/v/20240627172114899</id>
-        <link href="https://v.daum.net/v/20240627172114899"/>
-        <updated>2024-06-27T08:22:03.490Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:21</span>]]></content>
     </entry>
 </feed>
