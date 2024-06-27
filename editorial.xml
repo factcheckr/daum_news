@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-06-27T22:16:36.578Z</updated>
+    <updated>2024-06-27T23:18:55.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박순찬의 장도리 카툰] 진화]]></title>
+        <id>https://v.daum.net/v/20240628074202920</id>
+        <link href="https://v.daum.net/v/20240628074202920"/>
+        <updated>2024-06-27T23:18:34.462Z</updated>
+        <content type="html"><![CDATA[오마이뉴스<span class="txt_bar"> · </span><span class="info_time">07:42</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수정체 뿌옇게 변하는 백내장, 어떤 약 써야 하나?]]></title>
+        <id>https://v.daum.net/v/20240628071614520</id>
+        <link href="https://v.daum.net/v/20240628071614520"/>
+        <updated>2024-06-27T23:18:34.462Z</updated>
+        <content type="html"><![CDATA[헬스조선<span class="txt_bar"> · </span><span class="info_time">07:16</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삼성·SK·현대차·LG 하반기 실적 묻자…임원들이 한 말은?]]></title>
         <id>https://v.daum.net/v/20240628070621440</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240628054003377"/>
         <updated>2024-06-27T21:15:57.594Z</updated>
         <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">05:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Robert Fouser] Trump on course to win]]></title>
-        <id>https://v.daum.net/v/20240628053110260</id>
-        <link href="https://v.daum.net/v/20240628053110260"/>
-        <updated>2024-06-27T21:15:57.596Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Editorial] Predictability matters]]></title>
-        <id>https://v.daum.net/v/20240628053049250</id>
-        <link href="https://v.daum.net/v/20240628053049250"/>
-        <updated>2024-06-27T21:15:57.597Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
     </entry>
 </feed>
