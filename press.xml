@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-06-28T11:15:44.659Z</updated>
+    <updated>2024-06-28T12:30:57.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] World's First Acoustic Transparent Cinema LED Screen Is Launched]]></title>
+        <id>https://v.daum.net/v/20240628201827388</id>
+        <link href="https://v.daum.net/v/20240628201827388"/>
+        <updated>2024-06-28T12:30:47.958Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:18</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] Growatt, 최신 태양광ㆍ에너지 저장 솔루션 공개]]></title>
         <id>https://v.daum.net/v/20240628201212310</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240628170801288"/>
         <updated>2024-06-28T08:20:06.984Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경기도교육청, 2024 교육전문직원 임용후보자 공개전형 최종합격자 발표]]></title>
-        <id>https://v.daum.net/v/20240628170731282</id>
-        <link href="https://v.daum.net/v/20240628170731282"/>
-        <updated>2024-06-28T08:20:06.986Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">17:07</span>]]></content>
     </entry>
 </feed>
