@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-06-28T09:18:24.022Z</updated>
+    <updated>2024-06-28T10:18:48.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘2024 미쉐린 가이드 하노이·호찌민·다낭’ 미쉐린 1스타 신규 3곳 추가… 최초의 그린스타 식당 1곳 선정]]></title>
+        <id>https://v.daum.net/v/20240628183703311</id>
+        <link href="https://v.daum.net/v/20240628183703311"/>
+        <updated>2024-06-28T10:18:40.049Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">18:37</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] Xinhua Silk Road: Yantai and Gunsan enhance friendship]]></title>
         <id>https://v.daum.net/v/20240628180848805</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240628165543835"/>
         <updated>2024-06-28T08:20:06.994Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:55</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용인교육지원청, 수지초·석성초·풍천초에 이동식 수영장 설치 운영]]></title>
-        <id>https://v.daum.net/v/20240628164930632</id>
-        <link href="https://v.daum.net/v/20240628164930632"/>
-        <updated>2024-06-28T08:20:06.996Z</updated>
-        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">16:49</span>]]></content>
     </entry>
 </feed>
