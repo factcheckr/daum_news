@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-06-29T11:15:37.357Z</updated>
+    <updated>2024-06-29T12:30:15.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[화순 만원 임대주택 입주 변경 통보..입주예정자 반발]]></title>
+        <id>https://v.daum.net/v/20240629210923847</id>
+        <link href="https://v.daum.net/v/20240629210923847"/>
+        <updated>2024-06-29T12:30:06.219Z</updated>
+        <content type="html"><![CDATA[kbc광주방송<span class="txt_bar"> · </span><span class="info_time">21:09</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] Enchanting Deyang Shines in Hong Kong]]></title>
         <id>https://v.daum.net/v/20240629185432652</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240629050006464"/>
         <updated>2024-06-28T20:17:08.772Z</updated>
         <content type="html"><![CDATA[스포티비뉴스<span class="txt_bar"> · </span><span class="info_time">05:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양평군, 봉사 단체 대상 자원순환 교육 진행]]></title>
-        <id>https://v.daum.net/v/20240629023444313</id>
-        <link href="https://v.daum.net/v/20240629023444313"/>
-        <updated>2024-06-28T18:21:36.948Z</updated>
-        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">02:34</span>]]></content>
     </entry>
 </feed>
