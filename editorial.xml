@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-06-30T22:16:04.250Z</updated>
+    <updated>2024-06-30T23:18:23.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사람에게 충성하는 나라 [강준만 칼럼]]]></title>
+        <id>https://v.daum.net/v/20240701080514691</id>
+        <link href="https://v.daum.net/v/20240701080514691"/>
+        <updated>2024-06-30T23:18:07.168Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">08:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이窓]중소기업 정책자금에 대한 오해와 진실]]></title>
+        <id>https://v.daum.net/v/20240701080501685</id>
+        <link href="https://v.daum.net/v/20240701080501685"/>
+        <updated>2024-06-30T23:18:07.170Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">08:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부자들의 투자노트] 바이든 "트럼프, 골목 고양이 수준의 도덕성 지녀"]]></title>
+        <id>https://v.daum.net/v/20240701074804415</id>
+        <link href="https://v.daum.net/v/20240701074804415"/>
+        <updated>2024-06-30T23:18:07.171Z</updated>
+        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">07:48</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[이랜서 칼럼] 인생 설계도 백로그(Backlog)처럼]]></title>
+        <id>https://v.daum.net/v/20240701074458375</id>
+        <link href="https://v.daum.net/v/20240701074458375"/>
+        <updated>2024-06-30T23:18:07.173Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">07:44</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[혈액에 새긴 주홍글씨 ‘매독’… 평생 양성으로 남아]]></title>
         <id>https://v.daum.net/v/20240701071529938</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20240701060449847"/>
         <updated>2024-06-30T21:16:51.759Z</updated>
         <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">06:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[목멱칼럼]'경제폭망'론의 유혹]]></title>
-        <id>https://v.daum.net/v/20240701060125759</id>
-        <link href="https://v.daum.net/v/20240701060125759"/>
-        <updated>2024-06-30T21:16:51.760Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">06:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Lee Kyong-hee] Don’t write off unification]]></title>
-        <id>https://v.daum.net/v/20240701053113358</id>
-        <link href="https://v.daum.net/v/20240701053113358"/>
-        <updated>2024-06-30T21:16:51.761Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Editorial] Disparity in outlook]]></title>
-        <id>https://v.daum.net/v/20240701053051349</id>
-        <link href="https://v.daum.net/v/20240701053051349"/>
-        <updated>2024-06-30T21:16:51.763Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[백상논단]국민연금 운용 이대로 좋은가]]></title>
-        <id>https://v.daum.net/v/20240701053017337</id>
-        <link href="https://v.daum.net/v/20240701053017337"/>
-        <updated>2024-06-30T21:16:51.764Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
     </entry>
 </feed>
