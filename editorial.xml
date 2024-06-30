@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-06-30T18:22:11.759Z</updated>
+    <updated>2024-06-30T19:13:59.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['공허한 울림' 걱정하는 재계[우보세]]]></title>
+        <id>https://v.daum.net/v/20240701040602627</id>
+        <link href="https://v.daum.net/v/20240701040602627"/>
+        <updated>2024-06-30T19:13:42.632Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">04:06</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중국, 경제뿐 아니라 환경 문제도 풀어야 [특파원칼럼]]]></title>
+        <id>https://v.daum.net/v/20240701035601614</id>
+        <link href="https://v.daum.net/v/20240701035601614"/>
+        <updated>2024-06-30T19:13:42.633Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">03:56</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[지지대] 엉터리 태극기]]></title>
         <id>https://v.daum.net/v/20240701030134299</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240701003630724"/>
         <updated>2024-06-30T16:20:51.940Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스룸에서] 극우 팬데믹]]></title>
-        <id>https://v.daum.net/v/20240701003612708</id>
-        <link href="https://v.daum.net/v/20240701003612708"/>
-        <updated>2024-06-30T16:20:51.940Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[살며 사랑하며] 단어와 관계]]></title>
-        <id>https://v.daum.net/v/20240701003610706</id>
-        <link href="https://v.daum.net/v/20240701003610706"/>
-        <updated>2024-06-30T16:20:51.941Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:36</span>]]></content>
     </entry>
 </feed>
