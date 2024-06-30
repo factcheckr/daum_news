@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-06-30T16:21:10.429Z</updated>
+    <updated>2024-06-30T17:15:35.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[동상이목]금금즐, 토토즐]]></title>
+        <id>https://v.daum.net/v/20240701020301047</id>
+        <link href="https://v.daum.net/v/20240701020301047"/>
+        <updated>2024-06-30T17:15:13.093Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[한마당] 리튬]]></title>
         <id>https://v.daum.net/v/20240701004210809</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240701003039664"/>
         <updated>2024-06-30T16:20:51.948Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[양성희의 시시각각] 선 넘는 유튜브 예능들]]></title>
-        <id>https://v.daum.net/v/20240701003029662</id>
-        <link href="https://v.daum.net/v/20240701003029662"/>
-        <updated>2024-06-30T16:20:51.950Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
     </entry>
 </feed>
