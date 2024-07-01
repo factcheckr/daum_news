@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2024-07-01T18:22:56.117Z</updated>
+    <updated>2024-07-01T19:15:30.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박재범, NAS(나스)와 함께 ‘RAPBEAT 2024’(랩비트 2024) 헤드라이너 출격]]></title>
+        <id>https://v.daum.net/v/20240702040044187</id>
+        <link href="https://v.daum.net/v/20240702040044187"/>
+        <updated>2024-07-01T19:14:52.088Z</updated>
+        <content type="html"><![CDATA[스포츠경향<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[56세 이영자, 전원생활 시작 "누군가와 경쟁할 나이 아니다"]]></title>
+        <id>https://v.daum.net/v/20240702040010182</id>
+        <link href="https://v.daum.net/v/20240702040010182"/>
+        <updated>2024-07-01T19:14:52.089Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오늘의 채널A]농사 짓지 않아도… 든든한 ‘농지 연금’]]></title>
         <id>https://v.daum.net/v/20240702030215008</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240702004801490"/>
         <updated>2024-07-01T16:19:49.920Z</updated>
         <content type="html"><![CDATA[뉴스엔<span class="txt_bar"> · </span><span class="info_time">00:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서유리, 멈추지 않는 폭로 기관차.. "최병길, 임신 원하는 내게 다른 남자랑 가지라고.."]]></title>
-        <id>https://v.daum.net/v/20240702004300459</id>
-        <link href="https://v.daum.net/v/20240702004300459"/>
-        <updated>2024-07-01T16:19:49.920Z</updated>
-        <content type="html"><![CDATA[TV리포트<span class="txt_bar"> · </span><span class="info_time">00:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['결혼지옥' 대화 녹음하는 남편..."이혼할 때 증거 필요해서" [종합]]]></title>
-        <id>https://v.daum.net/v/20240702003837418</id>
-        <link href="https://v.daum.net/v/20240702003837418"/>
-        <updated>2024-07-01T16:19:49.921Z</updated>
-        <content type="html"><![CDATA[엑스포츠뉴스<span class="txt_bar"> · </span><span class="info_time">00:38</span>]]></content>
     </entry>
 </feed>
