@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2024-07-01T16:20:22.896Z</updated>
+    <updated>2024-07-01T17:16:38.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사우디 "동부 지역에서 석유·가스전 추가 발견"]]></title>
+        <id>https://v.daum.net/v/20240702020506878</id>
+        <link href="https://v.daum.net/v/20240702020506878"/>
+        <updated>2024-07-01T17:15:44.427Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이번엔 메타, EU '디지털시장법 위반'...최대 18조원 과징금]]></title>
+        <id>https://v.daum.net/v/20240702014135803</id>
+        <link href="https://v.daum.net/v/20240702014135803"/>
+        <updated>2024-07-01T17:15:44.429Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">01:41</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고금리·고물가에… 코로나 때 빚낸 자영업자들 ‘벼랑 끝’]]></title>
         <id>https://v.daum.net/v/20240702011651646</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240702004519480"/>
         <updated>2024-07-01T16:19:31.218Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[경제계 인사] 한화로보틱스 신임 대표에 정병찬 내정]]></title>
-        <id>https://v.daum.net/v/20240702004515478</id>
-        <link href="https://v.daum.net/v/20240702004515478"/>
-        <updated>2024-07-01T16:19:31.220Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[상하이, 동대문을 입다]]></title>
-        <id>https://v.daum.net/v/20240702004412471</id>
-        <link href="https://v.daum.net/v/20240702004412471"/>
-        <updated>2024-07-01T16:19:31.221Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:44</span>]]></content>
     </entry>
 </feed>
