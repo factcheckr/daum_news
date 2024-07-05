@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-07-05T22:17:32.050Z</updated>
+    <updated>2024-07-05T23:19:59.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[김회룡의 시사 TOON]]]></title>
+        <id>https://v.daum.net/v/20240706080002277</id>
+        <link href="https://v.daum.net/v/20240706080002277"/>
+        <updated>2024-07-05T23:19:46.113Z</updated>
+        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지뢰 심다 지뢰 밟아 죽은 북녘의 젊은 군인[기자수첩]]]></title>
+        <id>https://v.daum.net/v/20240706071800893</id>
+        <link href="https://v.daum.net/v/20240706071800893"/>
+        <updated>2024-07-05T23:19:46.113Z</updated>
+        <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">07:18</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘집게손’ 논란, 누구의 잘못인가]]></title>
         <id>https://v.daum.net/v/20240706070502731</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240706030826279"/>
         <updated>2024-07-05T18:21:36.499Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">03:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조선은 ‘유교 평화’, 막부는 ‘주변국 선점’…국시가 달랐다]]></title>
-        <id>https://v.daum.net/v/20240706030607274</id>
-        <link href="https://v.daum.net/v/20240706030607274"/>
-        <updated>2024-07-05T18:21:36.500Z</updated>
-        <content type="html"><![CDATA[중앙SUNDAY<span class="txt_bar"> · </span><span class="info_time">03:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[내 인생의 나침반이 된 성경말씀] 자립 필요한 취약계층 돕는 코칭을 사명으로]]></title>
-        <id>https://v.daum.net/v/20240706030416268</id>
-        <link href="https://v.daum.net/v/20240706030416268"/>
-        <updated>2024-07-05T18:21:36.500Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">03:04</span>]]></content>
     </entry>
 </feed>
