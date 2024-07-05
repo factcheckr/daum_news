@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-07-05T03:18:55.431Z</updated>
+    <updated>2024-07-05T04:21:47.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[과학세계]알츠하이머 신약개발, 그 끝없는 싸움]]></title>
+        <id>https://v.daum.net/v/20240705131518456</id>
+        <link href="https://v.daum.net/v/20240705131518456"/>
+        <updated>2024-07-05T04:21:32.168Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">13:15</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국회 본회의는 野 의총, 법사위는 野 수사기관 행세[사설]]]></title>
         <id>https://v.daum.net/v/20240705114815853</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240705093748407"/>
         <updated>2024-07-05T01:11:08.223Z</updated>
         <content type="html"><![CDATA[헬스조선<span class="txt_bar"> · </span><span class="info_time">09:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[조연빈의 로뷰] '가정의 평화 옛말' 친족 재산범죄 처벌 환영]]></title>
-        <id>https://v.daum.net/v/20240705092903075</id>
-        <link href="https://v.daum.net/v/20240705092903075"/>
-        <updated>2024-07-05T01:11:08.224Z</updated>
-        <content type="html"><![CDATA[머니S<span class="txt_bar"> · </span><span class="info_time">09:29</span>]]></content>
     </entry>
 </feed>
