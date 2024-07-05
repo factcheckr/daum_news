@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-07-05T07:15:59.348Z</updated>
+    <updated>2024-07-05T08:20:42.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[메아리] '법잘알' 기술자들의 나라]]></title>
+        <id>https://v.daum.net/v/20240705170059209</id>
+        <link href="https://v.daum.net/v/20240705170059209"/>
+        <updated>2024-07-05T08:20:27.942Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">17:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[최영미 시론] 아시아를 두드리다]]></title>
+        <id>https://v.daum.net/v/20240705170002144</id>
+        <link href="https://v.daum.net/v/20240705170002144"/>
+        <updated>2024-07-05T08:20:27.942Z</updated>
+        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">17:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[복수 최종장 향하는 송승헌..'플레이어2' 빌런의 최후 펼쳐질까]]></title>
+        <id>https://v.daum.net/v/20240705163935709</id>
+        <link href="https://v.daum.net/v/20240705163935709"/>
+        <updated>2024-07-05T08:20:27.944Z</updated>
+        <content type="html"><![CDATA[스포츠조선<span class="txt_bar"> · </span><span class="info_time">16:39</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사설] 기재부 출신 환경부 장관에 여가부는 여전히 공석이라니]]></title>
+        <id>https://v.daum.net/v/20240705163728674</id>
+        <link href="https://v.daum.net/v/20240705163728674"/>
+        <updated>2024-07-05T08:20:27.946Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">16:37</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인사] 건설공제조합]]></title>
+        <id>https://v.daum.net/v/20240705162328300</id>
+        <link href="https://v.daum.net/v/20240705162328300"/>
+        <updated>2024-07-05T08:20:27.948Z</updated>
+        <content type="html"><![CDATA[머니S<span class="txt_bar"> · </span><span class="info_time">16:23</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[fn사설]  메모리 호황에 삼성 깜짝실적, AI 주도권 손에 쥐길]]></title>
         <id>https://v.daum.net/v/20240705161417053</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20240705140430651"/>
         <updated>2024-07-05T05:16:18.221Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">14:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[조민진의 웨이투고] 장마는 지루하다…그래도 지친다]]></title>
-        <id>https://v.daum.net/v/20240705134841183</id>
-        <link href="https://v.daum.net/v/20240705134841183"/>
-        <updated>2024-07-05T05:16:18.222Z</updated>
-        <content type="html"><![CDATA[머니S<span class="txt_bar"> · </span><span class="info_time">13:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[과학세계]알츠하이머 신약개발, 그 끝없는 싸움]]></title>
-        <id>https://v.daum.net/v/20240705131518456</id>
-        <link href="https://v.daum.net/v/20240705131518456"/>
-        <updated>2024-07-05T04:21:32.168Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">13:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국회 본회의는 野 의총, 법사위는 野 수사기관 행세[사설]]]></title>
-        <id>https://v.daum.net/v/20240705114815853</id>
-        <link href="https://v.daum.net/v/20240705114815853"/>
-        <updated>2024-07-05T03:18:37.802Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개악된 채상병특검법 ‘도돌이표 의결’은 헌법 조롱[사설]]]></title>
-        <id>https://v.daum.net/v/20240705114814852</id>
-        <link href="https://v.daum.net/v/20240705114814852"/>
-        <updated>2024-07-05T03:18:37.806Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[갈팡질팡 가계대출 정책…새 수장의 일관성 기대한다[사설]]]></title>
-        <id>https://v.daum.net/v/20240705114812850</id>
-        <link href="https://v.daum.net/v/20240705114812850"/>
-        <updated>2024-07-05T03:18:37.808Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:48</span>]]></content>
     </entry>
 </feed>
