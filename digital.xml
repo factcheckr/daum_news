@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-07-05T11:15:04.948Z</updated>
+    <updated>2024-07-05T12:32:53.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“방금 시킨 치킨은 익었을까?” 아무도 몰랐던 사실…알고 보니]]></title>
+        <id>https://v.daum.net/v/20240705205113808</id>
+        <link href="https://v.daum.net/v/20240705205113808"/>
+        <updated>2024-07-05T12:32:29.678Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">20:51</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[갤럭시+아이폰 점유율 99% 상황, 분투하는 ‘마이너리거’들은?]]></title>
+        <id>https://v.daum.net/v/20240705203000484</id>
+        <link href="https://v.daum.net/v/20240705203000484"/>
+        <updated>2024-07-05T12:32:29.679Z</updated>
+        <content type="html"><![CDATA[IT동아<span class="txt_bar"> · </span><span class="info_time">20:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[모건스탠리, 네이버 휴머노이드 주목… “기술 제공자”]]></title>
         <id>https://v.daum.net/v/20240705200148192</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240705181936142"/>
         <updated>2024-07-05T10:18:17.814Z</updated>
         <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">18:19</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日정부 '자본관계 재검토' 입장 바꿨나…네이버, 한숨 돌렸다]]></title>
-        <id>https://v.daum.net/v/20240705181723082</id>
-        <link href="https://v.daum.net/v/20240705181723082"/>
-        <updated>2024-07-05T09:19:25.025Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">18:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에트노바테라퓨틱스, 인터비즈서 ‘ETN101’ 연구 발표]]></title>
-        <id>https://v.daum.net/v/20240705180836881</id>
-        <link href="https://v.daum.net/v/20240705180836881"/>
-        <updated>2024-07-05T09:19:25.026Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">18:08</span>]]></content>
     </entry>
 </feed>
