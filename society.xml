@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/society</id>
     <title>다음 뉴스 ─ 전체기사 ─ 사회</title>
-    <updated>2024-07-06T16:20:04.833Z</updated>
+    <updated>2024-07-06T17:14:08.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연예인 개인정보 사고 파는 스토커...처벌 가능성은?]]></title>
+        <id>https://v.daum.net/v/20240707021010582</id>
+        <link href="https://v.daum.net/v/20240707021010582"/>
+        <updated>2024-07-06T17:12:53.961Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">02:10</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['천 원' 빵 '2천 원' 자장면...고물가에 '가성비' 승부]]></title>
         <id>https://v.daum.net/v/20240707011318466</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240707003228381"/>
         <updated>2024-07-06T16:18:43.566Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[”철밥통은 끝났다”…9급 초임 공무원 222만 원, 공채 경쟁률 ‘뚝’]]></title>
-        <id>https://v.daum.net/v/20240707003215380</id>
-        <link href="https://v.daum.net/v/20240707003215380"/>
-        <updated>2024-07-06T16:18:43.567Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">00:32</span>]]></content>
     </entry>
 </feed>
