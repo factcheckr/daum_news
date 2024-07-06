@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-07-06T07:15:14.003Z</updated>
+    <updated>2024-07-06T08:21:05.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['AI 품은 진격의 아이폰' 애플, 시가총액 1위 탈환 눈 앞… MS 제치나]]></title>
+        <id>https://v.daum.net/v/20240706165503819</id>
+        <link href="https://v.daum.net/v/20240706165503819"/>
+        <updated>2024-07-06T08:20:47.008Z</updated>
+        <content type="html"><![CDATA[머니S<span class="txt_bar"> · </span><span class="info_time">16:55</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[태양을 터치하라!…NASA 탐사선, 시속 63만㎞로 20번째 근접비행 [아하! 우주]]]></title>
+        <id>https://v.daum.net/v/20240706164101605</id>
+        <link href="https://v.daum.net/v/20240706164101605"/>
+        <updated>2024-07-06T08:20:47.009Z</updated>
+        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">16:41</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中 공세 속 '폴더블 왕좌' 지켜낼까…삼성 갤럭시Z6, 이렇게 나온다[언팩 in 파리②]]]></title>
         <id>https://v.daum.net/v/20240706161015221</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240706124610064"/>
         <updated>2024-07-06T04:19:58.251Z</updated>
         <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">12:46</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비밀번호 유출? 간단하지만 강력한 철통보안 6가지]]></title>
-        <id>https://v.daum.net/v/20240706123016953</id>
-        <link href="https://v.daum.net/v/20240706123016953"/>
-        <updated>2024-07-06T04:19:58.252Z</updated>
-        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">12:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이거 들으면 장원영 얼굴 돼"…'40kg 감량' 화제의 다이어트 [유지희의 ITMI]]]></title>
-        <id>https://v.daum.net/v/20240706122902937</id>
-        <link href="https://v.daum.net/v/20240706122902937"/>
-        <updated>2024-07-06T04:19:58.254Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">12:29</span>]]></content>
     </entry>
 </feed>
