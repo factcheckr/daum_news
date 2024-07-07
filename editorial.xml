@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-07-07T05:18:33.996Z</updated>
+    <updated>2024-07-07T06:22:47.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[좌절할 때마다 미래 연습 [뉴노멀-미래]]]></title>
+        <id>https://v.daum.net/v/20240707150512497</id>
+        <link href="https://v.daum.net/v/20240707150512497"/>
+        <updated>2024-07-07T06:22:30.395Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">15:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[기자수첩] 백척간두(百尺竿頭)에선 대산 정유·석유화학]]></title>
+        <id>https://v.daum.net/v/20240707144339059</id>
+        <link href="https://v.daum.net/v/20240707144339059"/>
+        <updated>2024-07-07T06:22:30.395Z</updated>
+        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">14:43</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어쩔 수 없다는 0점 성적표 [기자수첩]]]></title>
+        <id>https://v.daum.net/v/20240707143355882</id>
+        <link href="https://v.daum.net/v/20240707143355882"/>
+        <updated>2024-07-07T06:22:30.396Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">14:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정부 올 상반기 '한은 마통' 누적대출 91조원 이상…역대 최대]]></title>
         <id>https://v.daum.net/v/20240707131432544</id>
@@ -88,19 +109,5 @@
         <link href="https://v.daum.net/v/20240707070708795"/>
         <updated>2024-07-06T22:16:10.290Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍준표·이철우 이어 김태흠까지…'한동훈 비토'하는 지자체장들 왜?]]></title>
-        <id>https://v.daum.net/v/20240707060030172</id>
-        <link href="https://v.daum.net/v/20240707060030172"/>
-        <updated>2024-07-07T01:15:41.525Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세계식량가격 상승 멈춰…6월 지수 전달과 같아]]></title>
-        <id>https://v.daum.net/v/20240707001807344</id>
-        <link href="https://v.daum.net/v/20240707001807344"/>
-        <updated>2024-07-06T16:19:49.032Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">00:18</span>]]></content>
     </entry>
 </feed>
