@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2024-07-07T18:20:49.020Z</updated>
+    <updated>2024-07-07T19:14:25.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[文, 김정숙 여사와 ‘럽스타그램’…변함없는 애정 과시]]></title>
+        <id>https://v.daum.net/v/20240708040122012</id>
+        <link href="https://v.daum.net/v/20240708040122012"/>
+        <updated>2024-07-07T19:13:09.921Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">04:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘채 상병’ 대대장측, 공수처에 임성근 추가고발]]></title>
         <id>https://v.daum.net/v/20240708030211863</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240708012412721"/>
         <updated>2024-07-07T17:15:30.044Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">01:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한동훈 “연판장 돌릴 테면 돌려라”]]></title>
-        <id>https://v.daum.net/v/20240708012345719</id>
-        <link href="https://v.daum.net/v/20240708012345719"/>
-        <updated>2024-07-07T17:15:30.044Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">01:23</span>]]></content>
     </entry>
 </feed>
