@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-07-07T08:19:42.995Z</updated>
+    <updated>2024-07-07T09:18:42.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소상공인 전기요금 최대 20만원 지원]]></title>
+        <id>https://v.daum.net/v/20240707174952993</id>
+        <link href="https://v.daum.net/v/20240707174952993"/>
+        <updated>2024-07-07T09:18:34.511Z</updated>
+        <content type="html"><![CDATA[강원도민일보<span class="txt_bar"> · </span><span class="info_time">17:49</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[의정부소방서, 여름철 풍수해 재해우려지역 현장 점검 실시]]></title>
         <id>https://v.daum.net/v/20240707170509310</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240707093703290"/>
         <updated>2024-07-07T01:15:49.228Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">09:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장마 시작되자… GS25, GS더프레시 퀵커머스 매출 급증]]></title>
-        <id>https://v.daum.net/v/20240707091702023</id>
-        <link href="https://v.daum.net/v/20240707091702023"/>
-        <updated>2024-07-07T01:15:49.230Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">09:17</span>]]></content>
     </entry>
 </feed>
