@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-07-08T22:16:55.725Z</updated>
+    <updated>2024-07-08T23:16:43.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[로터리] 기업들은 왜 새만금을 찾을까]]></title>
+        <id>https://v.daum.net/v/20240709080026776</id>
+        <link href="https://v.daum.net/v/20240709080026776"/>
+        <updated>2024-07-08T23:16:30.515Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[초동시각]수출 여성기업 2% 벽 넘으려면]]></title>
+        <id>https://v.daum.net/v/20240709080011758</id>
+        <link href="https://v.daum.net/v/20240709080011758"/>
+        <updated>2024-07-08T23:16:30.517Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](9일 조간)]]></title>
+        <id>https://v.daum.net/v/20240709080006749</id>
+        <link href="https://v.daum.net/v/20240709080006749"/>
+        <updated>2024-07-08T23:16:30.522Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[저출생이 국가 비상사태인가? [세상읽기]]]></title>
         <id>https://v.daum.net/v/20240709070513015</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240709062547575"/>
         <updated>2024-07-08T22:16:42.174Z</updated>
         <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">06:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시청역 참사를 둘러싼 논란들 [서아람의 변호사 외전]]]></title>
-        <id>https://v.daum.net/v/20240709060154331</id>
-        <link href="https://v.daum.net/v/20240709060154331"/>
-        <updated>2024-07-08T21:19:27.345Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">06:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기고]납세자 권리 보장한 대법 판결 환영한다]]></title>
-        <id>https://v.daum.net/v/20240709060006147</id>
-        <link href="https://v.daum.net/v/20240709060006147"/>
-        <updated>2024-07-08T21:19:27.346Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[유효상 칼럼] 왜 리커머스 시장이 중요할까]]></title>
-        <id>https://v.daum.net/v/20240709060004143</id>
-        <link href="https://v.daum.net/v/20240709060004143"/>
-        <updated>2024-07-08T21:19:27.348Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
     </entry>
 </feed>
