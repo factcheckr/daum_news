@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-07-09T03:20:15.362Z</updated>
+    <updated>2024-07-09T04:19:58.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[블룸버그칼럼]도박꾼 佛마크롱, '킹메이커' 됐다]]></title>
+        <id>https://v.daum.net/v/20240709124053556</id>
+        <link href="https://v.daum.net/v/20240709124053556"/>
+        <updated>2024-07-09T04:19:43.604Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">12:40</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[요건 안 되는 ‘尹 탄핵’ 국회 청문회 연다는 민주당 저의[사설]]]></title>
         <id>https://v.daum.net/v/20240709114442003</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240709111815688"/>
         <updated>2024-07-09T02:35:04.480Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">11:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시시비비] 기업이 든 자리 난 자리]]></title>
-        <id>https://v.daum.net/v/20240709110808134</id>
-        <link href="https://v.daum.net/v/20240709110808134"/>
-        <updated>2024-07-09T02:35:04.480Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:08</span>]]></content>
     </entry>
 </feed>
