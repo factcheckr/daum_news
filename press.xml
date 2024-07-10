@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-07-10T09:17:51.509Z</updated>
+    <updated>2024-07-10T10:19:33.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[농협, 긴급 재해대책위 개최…호우 피해 현장점검]]></title>
+        <id>https://v.daum.net/v/20240710184206548</id>
+        <link href="https://v.daum.net/v/20240710184206548"/>
+        <updated>2024-07-10T10:19:25.137Z</updated>
+        <content type="html"><![CDATA[SBS Biz<span class="txt_bar"> · </span><span class="info_time">18:42</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[언더독스-서울스타트업스, MOU 체결… 국내 체류 외국인 창업가 육성에 협력]]></title>
         <id>https://v.daum.net/v/20240710175704292</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240710171703822"/>
         <updated>2024-07-10T08:26:08.535Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[초격차 AI 스타트업, 글로벌 유니콘 기업으로 육성한다]]></title>
-        <id>https://v.daum.net/v/20240710171014598</id>
-        <link href="https://v.daum.net/v/20240710171014598"/>
-        <updated>2024-07-10T08:26:08.536Z</updated>
-        <content type="html"><![CDATA[정책브리핑<span class="txt_bar"> · </span><span class="info_time">17:10</span>]]></content>
     </entry>
 </feed>
