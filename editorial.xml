@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-07-10T22:16:16.829Z</updated>
+    <updated>2024-07-10T23:19:39.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이재명 "AI·과학기술로 지속성장···CDO 신설할 것"]]></title>
+        <id>https://v.daum.net/v/20240711081028942</id>
+        <link href="https://v.daum.net/v/20240711081028942"/>
+        <updated>2024-07-10T23:19:20.482Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">08:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주요 신문 사설](11일 조간)]]></title>
+        <id>https://v.daum.net/v/20240711080010660</id>
+        <link href="https://v.daum.net/v/20240711080010660"/>
+        <updated>2024-07-10T23:19:20.489Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[연합뉴스 이 시각 헤드라인] - 07:30]]></title>
+        <id>https://v.daum.net/v/20240711073004119</id>
+        <link href="https://v.daum.net/v/20240711073004119"/>
+        <updated>2024-07-10T23:19:20.489Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">07:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인권위 거덜내는 윤석열 정부 ‘폭력의 정치’ [왜냐면]]]></title>
         <id>https://v.daum.net/v/20240711070508785</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240711061029014"/>
         <updated>2024-07-10T21:16:11.876Z</updated>
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">06:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[현장의 시각] 스타트업의 글로벌화, K 아이디어 성패에 달렸다]]></title>
-        <id>https://v.daum.net/v/20240711060102749</id>
-        <link href="https://v.daum.net/v/20240711060102749"/>
-        <updated>2024-07-10T21:16:11.878Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">06:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기자수첩] '증거인멸 우려'가 '전가의 보도'여선 안 된다]]></title>
-        <id>https://v.daum.net/v/20240711060038691</id>
-        <link href="https://v.daum.net/v/20240711060038691"/>
-        <updated>2024-07-10T21:16:11.879Z</updated>
-        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장정일 작가의 ‘빅 피처’ [취재 뒷담화]]]></title>
-        <id>https://v.daum.net/v/20240711055358497</id>
-        <link href="https://v.daum.net/v/20240711055358497"/>
-        <updated>2024-07-10T21:16:11.882Z</updated>
-        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">05:53</span>]]></content>
     </entry>
 </feed>
