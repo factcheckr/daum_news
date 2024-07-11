@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-07-11T01:11:53.982Z</updated>
+    <updated>2024-07-11T02:38:38.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이에이트 수주공시 - 디지털 트윈 선행개발 구축 7.5억원 (매출액대비  20.47 %)]]></title>
+        <id>https://v.daum.net/v/20240711110110276</id>
+        <link href="https://v.daum.net/v/20240711110110276"/>
+        <updated>2024-07-11T02:38:37.751Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">11:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[디이엔티 수주공시 - 2차전지 제조장비 132.4억원 (매출액대비  10.4 %)]]></title>
+        <id>https://v.daum.net/v/20240711110108272</id>
+        <link href="https://v.daum.net/v/20240711110108272"/>
+        <updated>2024-07-11T02:38:37.751Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">11:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['금호석유' 52주 신고가 경신, 전일 외국인 대량 순매도]]></title>
+        <id>https://v.daum.net/v/20240711105902104</id>
+        <link href="https://v.daum.net/v/20240711105902104"/>
+        <updated>2024-07-11T02:38:37.752Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">10:59</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['SG글로벌' 52주 신고가 경신, 외국인 5일 연속 순매수(63.4만주)]]></title>
+        <id>https://v.daum.net/v/20240711101904068</id>
+        <link href="https://v.daum.net/v/20240711101904068"/>
+        <updated>2024-07-11T02:38:37.754Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">10:19</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HJ중공업 수주공시 - 대전 대흥4구역 재개발정비사업 1,115.8억원 (매출액대비  5.16 %)]]></title>
         <id>https://v.daum.net/v/20240711095604760</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20240711092204225"/>
         <updated>2024-07-11T01:11:53.322Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['키움증권' 52주 신고가 경신, 2Q24 Preview: 연간 ROE 15%의 목표 달성 예상 - 하나증권, BUY]]></title>
-        <id>https://v.daum.net/v/20240711092105187</id>
-        <link href="https://v.daum.net/v/20240711092105187"/>
-        <updated>2024-07-11T01:11:53.325Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['케이씨텍' 52주 신고가 경신, 전일 기관 대량 순매수]]></title>
-        <id>https://v.daum.net/v/20240711091608953</id>
-        <link href="https://v.daum.net/v/20240711091608953"/>
-        <updated>2024-07-11T01:11:53.327Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['SK하이닉스' 52주 신고가 경신, 전일 외국인 대량 순매수]]></title>
-        <id>https://v.daum.net/v/20240711091405842</id>
-        <link href="https://v.daum.net/v/20240711091405842"/>
-        <updated>2024-07-11T01:11:53.328Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['HD현대일렉트릭' 52주 신고가 경신, 이번 cycle에서 가장 잘하고 있는 회사 - 삼성증권, BUY]]></title>
-        <id>https://v.daum.net/v/20240711091404840</id>
-        <link href="https://v.daum.net/v/20240711091404840"/>
-        <updated>2024-07-11T01:11:53.329Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:14</span>]]></content>
     </entry>
 </feed>
