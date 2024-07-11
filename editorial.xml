@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-07-11T22:16:49.860Z</updated>
+    <updated>2024-07-11T23:20:01.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[박순찬의 장도리 카툰] 날리면]]></title>
+        <id>https://v.daum.net/v/20240712075100192</id>
+        <link href="https://v.daum.net/v/20240712075100192"/>
+        <updated>2024-07-11T23:19:43.666Z</updated>
+        <content type="html"><![CDATA[오마이뉴스<span class="txt_bar"> · </span><span class="info_time">07:51</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우울증 아니라 조울증? 단 한 번이라도 ‘조증’ 앓은 적 있다면…]]></title>
         <id>https://v.daum.net/v/20240712071603652</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240712052959129"/>
         <updated>2024-07-11T21:18:10.203Z</updated>
         <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:29</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1400만 주식투자자가 ‘호구’로 보이나? [아침햇발]]]></title>
-        <id>https://v.daum.net/v/20240712050521953</id>
-        <link href="https://v.daum.net/v/20240712050521953"/>
-        <updated>2024-07-11T20:17:42.265Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">05:05</span>]]></content>
     </entry>
 </feed>
