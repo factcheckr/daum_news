@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-07-11T03:21:29.713Z</updated>
+    <updated>2024-07-11T04:22:14.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2000만 조회수 초등 래퍼 차노을, 알파세대 전용 숏폼 서비스 ‘키즐링 앱’ 알린다]]></title>
+        <id>https://v.daum.net/v/20240711131703805</id>
+        <link href="https://v.daum.net/v/20240711131703805"/>
+        <updated>2024-07-11T04:22:06.665Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">13:17</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삼성 모바일스토어 타임빌라스 수원 그랜드 오픈… 모바일 체험 공간 확대]]></title>
         <id>https://v.daum.net/v/20240711121703579</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240711111704057</id>
         <link href="https://v.daum.net/v/20240711111704057"/>
         <updated>2024-07-11T02:38:29.523Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">11:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쿠콘, API로 금융기관 고객 DX 지원해 ‘환경보호’ 실현]]></title>
-        <id>https://v.daum.net/v/20240711111703054</id>
-        <link href="https://v.daum.net/v/20240711111703054"/>
-        <updated>2024-07-11T02:38:29.529Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">11:17</span>]]></content>
     </entry>
 </feed>
