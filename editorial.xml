@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-07-11T12:31:50.975Z</updated>
+    <updated>2024-07-11T13:20:41.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정 없는 이웃, 다정한 이웃 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20240711220055857</id>
+        <link href="https://v.daum.net/v/20240711220055857"/>
+        <updated>2024-07-11T13:20:25.325Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024년 7월 12일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20240711213335145</id>
+        <link href="https://v.daum.net/v/20240711213335145"/>
+        <updated>2024-07-11T13:20:25.326Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">21:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정동칼럼]민주공화적 대통령제 다시 보기]]></title>
         <id>https://v.daum.net/v/20240711205916550</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240711201155710"/>
         <updated>2024-07-11T11:15:20.820Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breaking the chip illusion]]></title>
-        <id>https://v.daum.net/v/20240711201035687</id>
-        <link href="https://v.daum.net/v/20240711201035687"/>
-        <updated>2024-07-11T11:15:20.820Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Time to reinvent our Constitution]]></title>
-        <id>https://v.daum.net/v/20240711200845639</id>
-        <link href="https://v.daum.net/v/20240711200845639"/>
-        <updated>2024-07-11T11:15:20.822Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:08</span>]]></content>
     </entry>
 </feed>
