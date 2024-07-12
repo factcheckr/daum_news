@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-07-12T13:20:12.008Z</updated>
+    <updated>2024-07-12T14:16:01.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“칼국수에만 넣는 줄 알았는데” 알고보니…성인병에 놀라운 효능]]></title>
+        <id>https://v.daum.net/v/20240712222114220</id>
+        <link href="https://v.daum.net/v/20240712222114220"/>
+        <updated>2024-07-12T14:15:34.576Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">22:21</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[퍼스트 디센던트, 1주일 만에 1000만 유저 돌파]]></title>
         <id>https://v.daum.net/v/20240712221326143</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240712195120190"/>
         <updated>2024-07-12T11:15:03.047Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">19:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부고] 이우재씨(전 한국전기통신공사 사장) 별세]]></title>
-        <id>https://v.daum.net/v/20240712194915163</id>
-        <link href="https://v.daum.net/v/20240712194915163"/>
-        <updated>2024-07-12T11:15:03.047Z</updated>
-        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">19:49</span>]]></content>
     </entry>
 </feed>
