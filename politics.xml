@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2024-07-12T17:16:39.518Z</updated>
+    <updated>2024-07-12T18:23:34.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["가발은 죄 아냐"…조국 대표, 민망한 '순삭']]></title>
+        <id>https://v.daum.net/v/20240713030106111</id>
+        <link href="https://v.daum.net/v/20240713030106111"/>
+        <updated>2024-07-12T18:22:32.613Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">03:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국방부 장관 "한국, 자유세계 수호하는 방파제 역할 수행"]]></title>
         <id>https://v.daum.net/v/20240713021014077</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240713010400718"/>
         <updated>2024-07-12T16:20:07.547Z</updated>
         <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">01:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하향식 당론채택, 눈치 보는 의원들…현실화된 '이재명의 경고']]></title>
-        <id>https://v.daum.net/v/20240713010000675</id>
-        <link href="https://v.daum.net/v/20240713010000675"/>
-        <updated>2024-07-12T16:20:07.549Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">01:00</span>]]></content>
     </entry>
 </feed>
