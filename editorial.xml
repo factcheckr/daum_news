@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-07-12T19:13:54.873Z</updated>
+    <updated>2024-07-12T20:18:17.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[바흐, 첼로를 주연배우로 격상하다 [休·味·樂(휴·미·락)]]]></title>
+        <id>https://v.daum.net/v/20240713043117250</id>
+        <link href="https://v.daum.net/v/20240713043117250"/>
+        <updated>2024-07-12T20:18:00.741Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:31</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[젠더살롱] 멕시코에 대해 잘 알지 못했던 두세 가지 것들]]></title>
+        <id>https://v.daum.net/v/20240713043026240</id>
+        <link href="https://v.daum.net/v/20240713043026240"/>
+        <updated>2024-07-12T20:18:00.742Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[데스크 칼럼] 15년 차 배달앱의 존재 이유]]></title>
         <id>https://v.daum.net/v/20240713040222183</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240713003906564"/>
         <updated>2024-07-12T16:21:12.332Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 美 핵우산 강화, '트럼프 불확실성'에도 대비해야]]></title>
-        <id>https://v.daum.net/v/20240713003902563</id>
-        <link href="https://v.daum.net/v/20240713003902563"/>
-        <updated>2024-07-12T16:21:12.332Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 심상찮은 주택 시장, 공급 부족 불안 조속히 잠재워야]]></title>
-        <id>https://v.daum.net/v/20240713003901561</id>
-        <link href="https://v.daum.net/v/20240713003901561"/>
-        <updated>2024-07-12T16:21:12.333Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:39</span>]]></content>
     </entry>
 </feed>
