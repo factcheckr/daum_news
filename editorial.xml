@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-07-12T10:18:31.581Z</updated>
+    <updated>2024-07-12T11:15:29.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[Top 5 베이비뉴스] 유보통합으로 저출생 극복? 현장 목소리를 더 들어야 합니다]]></title>
+        <id>https://v.daum.net/v/20240712194802140</id>
+        <link href="https://v.daum.net/v/20240712194802140"/>
+        <updated>2024-07-12T11:15:10.542Z</updated>
+        <content type="html"><![CDATA[베이비뉴스<span class="txt_bar"> · </span><span class="info_time">19:48</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어머니의 시간 [안태환의 쿠키리포트]]]></title>
         <id>https://v.daum.net/v/20240712184702163</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240712173608789"/>
         <updated>2024-07-12T09:18:59.258Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 물가상승률 못미친 최저임금 인상, 이러고도 ‘민생’ 입에 올리나]]></title>
-        <id>https://v.daum.net/v/20240712173607788</id>
-        <link href="https://v.daum.net/v/20240712173607788"/>
-        <updated>2024-07-12T09:18:59.260Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">17:36</span>]]></content>
     </entry>
 </feed>
