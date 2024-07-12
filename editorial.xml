@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-07-12T06:23:32.404Z</updated>
+    <updated>2024-07-12T07:17:46.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[행동은 섬세해야 합니다]]></title>
+        <id>https://v.daum.net/v/20240712161510602</id>
+        <link href="https://v.daum.net/v/20240712161510602"/>
+        <updated>2024-07-12T07:17:30.191Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">16:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[기자수첩] ‘빚덩어리’ 아시아나항공, 노조는 무슨 대안이 있나]]></title>
+        <id>https://v.daum.net/v/20240712161334556</id>
+        <link href="https://v.daum.net/v/20240712161334556"/>
+        <updated>2024-07-12T07:17:30.191Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">16:13</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[때려서 손흥민이 된다면[오늘을 생각한다]]]></title>
+        <id>https://v.daum.net/v/20240712160108180</id>
+        <link href="https://v.daum.net/v/20240712160108180"/>
+        <updated>2024-07-12T07:17:30.193Z</updated>
+        <content type="html"><![CDATA[주간경향<span class="txt_bar"> · </span><span class="info_time">16:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[동십자각] 고령 운전자 대책이 절실한 이유]]></title>
+        <id>https://v.daum.net/v/20240712154147475</id>
+        <link href="https://v.daum.net/v/20240712154147475"/>
+        <updated>2024-07-12T07:17:30.193Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">15:41</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[fn사설] 첫 1만원대 진입한 최저임금, 제도 보완 서둘러야]]></title>
         <id>https://v.daum.net/v/20240712150125045</id>
@@ -13,7 +41,7 @@
         <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">15:01</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to end the deep-rooted medical practice]]></title>
+        <title type="html"><![CDATA[How to end the deep-rooted medical practice (KOR)]]></title>
         <id>https://v.daum.net/v/20240712141821442</id>
         <link href="https://v.daum.net/v/20240712141821442"/>
         <updated>2024-07-12T06:23:14.597Z</updated>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20240712114211202"/>
         <updated>2024-07-12T03:19:19.942Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 풀어야 할 과제 산적한 최저임금 1만원 시대]]></title>
-        <id>https://v.daum.net/v/20240712110357709</id>
-        <link href="https://v.daum.net/v/20240712110357709"/>
-        <updated>2024-07-12T02:34:12.954Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] OECD 저출생 경고, 현금지원·구조개혁 모두 부응해야]]></title>
-        <id>https://v.daum.net/v/20240712110356707</id>
-        <link href="https://v.daum.net/v/20240712110356707"/>
-        <updated>2024-07-12T02:34:12.955Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금투세 논란이 놓치고 있는 것들[논단]]]></title>
-        <id>https://v.daum.net/v/20240712105720368</id>
-        <link href="https://v.daum.net/v/20240712105720368"/>
-        <updated>2024-07-12T02:34:12.956Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">10:57</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[초동시각]K-콘텐츠, OEM으로 만족할 것인가]]></title>
-        <id>https://v.daum.net/v/20240712104958028</id>
-        <link href="https://v.daum.net/v/20240712104958028"/>
-        <updated>2024-07-12T02:34:12.957Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">10:49</span>]]></content>
     </entry>
 </feed>
