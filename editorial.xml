@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-07-14T22:16:42.418Z</updated>
+    <updated>2024-07-14T23:17:09.492Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아동·청소년, 사이버범죄 위협으로부터 안전하게 지키는 방법]]></title>
+        <id>https://v.daum.net/v/20240715080336490</id>
+        <link href="https://v.daum.net/v/20240715080336490"/>
+        <updated>2024-07-14T23:16:54.226Z</updated>
+        <content type="html"><![CDATA[베이비뉴스<span class="txt_bar"> · </span><span class="info_time">08:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국가차원 치수대책, 이젠 달라져야 한다 [기자수첩-사회]]]></title>
+        <id>https://v.daum.net/v/20240715072704860</id>
+        <link href="https://v.daum.net/v/20240715072704860"/>
+        <updated>2024-07-14T23:16:54.227Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:27</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[모든 이에게 케렌시아를 허하라 [신영전 칼럼]]]></title>
         <id>https://v.daum.net/v/20240715070518505</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240715053021779"/>
         <updated>2024-07-14T21:15:36.279Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Editorial] Reform wage commission]]></title>
-        <id>https://v.daum.net/v/20240715053001755</id>
-        <link href="https://v.daum.net/v/20240715053001755"/>
-        <updated>2024-07-14T21:15:36.283Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기고] 탄소중립산업법, 기후위기를 성장의 기회로]]></title>
-        <id>https://v.daum.net/v/20240715051101610</id>
-        <link href="https://v.daum.net/v/20240715051101610"/>
-        <updated>2024-07-14T20:16:58.000Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">05:11</span>]]></content>
     </entry>
 </feed>
