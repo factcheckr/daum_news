@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-07-14T12:41:09.404Z</updated>
+    <updated>2024-07-14T13:39:25.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[생지옥을 견디게 해주는 힘은 어디에서 오는가 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20240714220004077</id>
+        <link href="https://v.daum.net/v/20240714220004077"/>
+        <updated>2024-07-14T13:39:08.153Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한 몸 같던 사람들의 갈등 [김선걸 칼럼]]]></title>
         <id>https://v.daum.net/v/20240714210311613</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240714203255350</id>
         <link href="https://v.daum.net/v/20240714203255350"/>
         <updated>2024-07-14T12:40:51.394Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[우리말 산책]안개비나 이슬비보다 굵은 가랑비]]></title>
-        <id>https://v.daum.net/v/20240714203252349</id>
-        <link href="https://v.daum.net/v/20240714203252349"/>
-        <updated>2024-07-14T12:40:51.395Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:32</span>]]></content>
     </entry>
 </feed>
