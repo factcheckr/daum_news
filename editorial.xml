@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-07-15T18:22:28.519Z</updated>
+    <updated>2024-07-15T19:16:46.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[기고] 역대급 예산과 출연연 체질전환]]></title>
+        <id>https://v.daum.net/v/20240716040006025</id>
+        <link href="https://v.daum.net/v/20240716040006025"/>
+        <updated>2024-07-15T19:16:30.750Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[예리하고 날카로운 통증, 회전근개 손상]]></title>
         <id>https://v.daum.net/v/20240716031009876</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240716004209319"/>
         <updated>2024-07-15T16:21:54.981Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[돋을새김] 여러분 마음은 안녕하십니까]]></title>
-        <id>https://v.daum.net/v/20240716003907299</id>
-        <link href="https://v.daum.net/v/20240716003907299"/>
-        <updated>2024-07-15T16:21:54.982Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:39</span>]]></content>
     </entry>
 </feed>
