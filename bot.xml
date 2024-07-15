@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-07-15T04:22:59.389Z</updated>
+    <updated>2024-07-15T05:17:35.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에이프로젠바이오로직스 수주공시 - AP096(휴미라 바이오시밀러) 제조위수탁계약 144.4억원 (매출액대비  16.53 %)]]></title>
+        <id>https://v.daum.net/v/20240715135103947</id>
+        <link href="https://v.daum.net/v/20240715135103947"/>
+        <updated>2024-07-15T05:17:34.373Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">13:51</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울 서초동 서초진흥 160㎡ 32억6000만원에 거래]]></title>
         <id>https://v.daum.net/v/20240715121039806</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240715092507904"/>
         <updated>2024-07-15T01:13:27.833Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['웨이브일렉트로' 52주 신고가 경신, 전일 외국인 대량 순매수]]></title>
-        <id>https://v.daum.net/v/20240715092103747</id>
-        <link href="https://v.daum.net/v/20240715092103747"/>
-        <updated>2024-07-15T01:13:27.834Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:21</span>]]></content>
     </entry>
 </feed>
