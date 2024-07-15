@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-07-15T22:16:58.951Z</updated>
+    <updated>2024-07-15T23:18:33.743Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[문익환 목사 방북…분단의 벽 훌쩍 넘은 대사건]]></title>
+        <id>https://v.daum.net/v/20240716080507949</id>
+        <link href="https://v.daum.net/v/20240716080507949"/>
+        <updated>2024-07-15T23:18:20.573Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">08:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘정치인 윤석열’의 미래를 예측했다 [뉴스룸에서]]]></title>
         <id>https://v.daum.net/v/20240716070511094</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240716060020966"/>
         <updated>2024-07-15T21:17:21.329Z</updated>
         <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[우보세] 총알 스친 트럼프, '혐오와 증오'의 정치]]></title>
-        <id>https://v.daum.net/v/20240716055508897</id>
-        <link href="https://v.daum.net/v/20240716055508897"/>
-        <updated>2024-07-15T21:17:21.329Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">05:55</span>]]></content>
     </entry>
 </feed>
