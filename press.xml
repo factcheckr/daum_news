@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-07-15T08:21:54.375Z</updated>
+    <updated>2024-07-15T09:19:47.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노보텍, 만성 림프구 백혈병 연구 및 치료의 글로벌 동향 및 발전 조명하는 신규 보고서 발간]]></title>
+        <id>https://v.daum.net/v/20240715175704675</id>
+        <link href="https://v.daum.net/v/20240715175704675"/>
+        <updated>2024-07-15T09:19:41.072Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:57</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삼성 타이젠 OS, 유럽 명품 로에베 TV에 탑재]]></title>
         <id>https://v.daum.net/v/20240715171704462</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240715164219108"/>
         <updated>2024-07-15T08:21:44.816Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[완주군, 긴급의료지원반 운영]]></title>
-        <id>https://v.daum.net/v/20240715163836968</id>
-        <link href="https://v.daum.net/v/20240715163836968"/>
-        <updated>2024-07-15T08:21:44.817Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:38</span>]]></content>
     </entry>
 </feed>
