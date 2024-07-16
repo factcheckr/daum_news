@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2024-07-16T18:22:31.275Z</updated>
+    <updated>2024-07-16T19:15:00.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이돌 서바이벌 'MA1', 파이널 생방송…꿈 이룰 주인공은?]]></title>
+        <id>https://v.daum.net/v/20240717040020015</id>
+        <link href="https://v.daum.net/v/20240717040020015"/>
+        <updated>2024-07-16T19:14:25.512Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오늘의 채널A ]김민채 “데니안에 심쿵했었다” 깜짝 고백]]></title>
         <id>https://v.daum.net/v/20240717030225906</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240717012522719"/>
         <updated>2024-07-16T17:15:09.964Z</updated>
         <content type="html"><![CDATA[뉴스엔<span class="txt_bar"> · </span><span class="info_time">01:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[르세라핌 홍은채 ‘모자 속 반짝이는 눈빛’[포토엔HD]]]></title>
-        <id>https://v.daum.net/v/20240717012148688</id>
-        <link href="https://v.daum.net/v/20240717012148688"/>
-        <updated>2024-07-16T17:15:09.966Z</updated>
-        <content type="html"><![CDATA[뉴스엔<span class="txt_bar"> · </span><span class="info_time">01:21</span>]]></content>
     </entry>
 </feed>

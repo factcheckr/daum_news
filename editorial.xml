@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-07-16T18:22:31.293Z</updated>
+    <updated>2024-07-16T19:15:00.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]중고거래 이용 보이스피싱 피해자들]]></title>
+        <id>https://v.daum.net/v/20240717033002982</id>
+        <link href="https://v.daum.net/v/20240717033002982"/>
+        <updated>2024-07-16T19:14:46.823Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">03:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[김양재 목사의 후한 선물] 문제 없는 게 문제다]]></title>
         <id>https://v.daum.net/v/20240717030609954</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240717003709497"/>
         <updated>2024-07-16T16:20:09.313Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[너섬情談] 여름이었다]]></title>
-        <id>https://v.daum.net/v/20240717003613489</id>
-        <link href="https://v.daum.net/v/20240717003613489"/>
-        <updated>2024-07-16T16:20:09.313Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:36</span>]]></content>
     </entry>
 </feed>
