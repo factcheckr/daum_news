@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-07-17T19:14:13.707Z</updated>
+    <updated>2024-07-17T20:18:23.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삼성, 이동형 로봇 ‘안전 SW 프레임워크’ 국제 인증]]></title>
+        <id>https://v.daum.net/v/20240718050215842</id>
+        <link href="https://v.daum.net/v/20240718050215842"/>
+        <updated>2024-07-17T20:17:59.349Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">05:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 개발에 ‘공개된 개인정보’ 활용 기준 나왔다… “정당한 이익 명확해야”]]></title>
+        <id>https://v.daum.net/v/20240718050132811</id>
+        <link href="https://v.daum.net/v/20240718050132811"/>
+        <updated>2024-07-17T20:17:59.352Z</updated>
+        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘국가 수소 중점연구실’ 출범… “청정수소 경쟁력 강화”]]></title>
+        <id>https://v.daum.net/v/20240718050127809</id>
+        <link href="https://v.daum.net/v/20240718050127809"/>
+        <updated>2024-07-17T20:17:59.352Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">05:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["BTS 언제 제대하나?" 네이버, 인물정보에 '병역정보' 추가]]></title>
+        <id>https://v.daum.net/v/20240718050039761</id>
+        <link href="https://v.daum.net/v/20240718050039761"/>
+        <updated>2024-07-17T20:17:59.354Z</updated>
+        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">05:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[위기의 카카오…짙어지는 '사법 먹구름']]></title>
+        <id>https://v.daum.net/v/20240718050003702</id>
+        <link href="https://v.daum.net/v/20240718050003702"/>
+        <updated>2024-07-17T20:17:59.355Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">05:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이지에이웍스, 카드 결제 데이터 분석 솔루션 ‘소비 인덱스’ 출시]]></title>
+        <id>https://v.daum.net/v/20240718044045534</id>
+        <link href="https://v.daum.net/v/20240718044045534"/>
+        <updated>2024-07-17T20:17:59.357Z</updated>
+        <content type="html"><![CDATA[스포츠경향<span class="txt_bar"> · </span><span class="info_time">04:40</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우주청 윤영빈 청장, 항우연 젊은 연구자와 '소통']]></title>
         <id>https://v.daum.net/v/20240718023650134</id>
@@ -67,47 +109,5 @@
         <link href="https://v.daum.net/v/20240718005037868"/>
         <updated>2024-07-17T16:23:15.421Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Small Read] 회로·전력선 분리하는 후면 전력 공급망 기술… 2나노 파운드리에 적용]]></title>
-        <id>https://v.daum.net/v/20240718005036867</id>
-        <link href="https://v.daum.net/v/20240718005036867"/>
-        <updated>2024-07-17T16:23:15.423Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[억양·발음·높낮이 조절, 감정 표현도… 인간처럼 글 읽어주는 AI]]></title>
-        <id>https://v.daum.net/v/20240718005026865</id>
-        <link href="https://v.daum.net/v/20240718005026865"/>
-        <updated>2024-07-17T16:23:15.425Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카메라로 ‘라이다’급 성능… 젠슨 황도 반했다]]></title>
-        <id>https://v.daum.net/v/20240718004628839</id>
-        <link href="https://v.daum.net/v/20240718004628839"/>
-        <updated>2024-07-17T16:23:15.427Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:46</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반도체 기술 뺏길라… 美, 네덜란드에 “中 유학생 줄여라”]]></title>
-        <id>https://v.daum.net/v/20240718004028815</id>
-        <link href="https://v.daum.net/v/20240718004028815"/>
-        <updated>2024-07-17T16:23:15.428Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“가장 얇고 가볍게”… 中 폴더블폰의 추격전]]></title>
-        <id>https://v.daum.net/v/20240718003533771</id>
-        <link href="https://v.daum.net/v/20240718003533771"/>
-        <updated>2024-07-17T16:23:15.429Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사진] 거대한 수중탐사 로봇]]></title>
-        <id>https://v.daum.net/v/20240718001031577</id>
-        <link href="https://v.daum.net/v/20240718001031577"/>
-        <updated>2024-07-17T15:20:22.524Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
     </entry>
 </feed>
