@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/sports</id>
     <title>다음 뉴스 ─ 전체기사 ─ 스포츠</title>
-    <updated>2024-07-17T18:22:44.923Z</updated>
+    <updated>2024-07-17T19:14:13.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[펩이 그렇게 원했는데... 1700억 공격수 굴욕! 맨시티 클럽 레코드→리그 3골]]></title>
+        <id>https://v.daum.net/v/20240718035504344</id>
+        <link href="https://v.daum.net/v/20240718035504344"/>
+        <updated>2024-07-17T19:13:42.207Z</updated>
+        <content type="html"><![CDATA[인터풋볼<span class="txt_bar"> · </span><span class="info_time">03:55</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우즈 “위닝샷을 쏴라” 위로문자 받은 매킬로이, 디오픈 출격]]></title>
         <id>https://v.daum.net/v/20240718030224199</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240718014522049"/>
         <updated>2024-07-17T17:14:55.475Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">01:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오타니 마수걸이 홈런… 가장 빛난 별은 듀랜]]></title>
-        <id>https://v.daum.net/v/20240718014452047</id>
-        <link href="https://v.daum.net/v/20240718014452047"/>
-        <updated>2024-07-17T17:14:55.476Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">01:44</span>]]></content>
     </entry>
 </feed>

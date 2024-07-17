@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-07-17T18:22:44.928Z</updated>
+    <updated>2024-07-17T19:14:13.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[광화문] 피격의 뒷면]]></title>
+        <id>https://v.daum.net/v/20240718035701346</id>
+        <link href="https://v.daum.net/v/20240718035701346"/>
+        <updated>2024-07-17T19:13:58.580Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">03:57</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[소강석 목사의  블루 시그널] 거룩한 ‘체리’ 운동을 일으키자]]></title>
         <id>https://v.daum.net/v/20240718030723290</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240718003909803"/>
         <updated>2024-07-17T16:23:23.458Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 국제 망신 자초한 국정원의 아마추어 공작]]></title>
-        <id>https://v.daum.net/v/20240718003634779</id>
-        <link href="https://v.daum.net/v/20240718003634779"/>
-        <updated>2024-07-17T16:23:23.459Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:36</span>]]></content>
     </entry>
 </feed>
