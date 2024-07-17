@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-07-17T17:15:30.935Z</updated>
+    <updated>2024-07-17T18:22:44.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우주청 윤영빈 청장, 항우연 젊은 연구자와 '소통']]></title>
+        <id>https://v.daum.net/v/20240718023650134</id>
+        <link href="https://v.daum.net/v/20240718023650134"/>
+        <updated>2024-07-17T18:22:21.802Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">02:36</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국립중앙과학관, 80억 들여 '한국과학기술사관' 개관]]></title>
         <id>https://v.daum.net/v/20240718020029088</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240718001031577"/>
         <updated>2024-07-17T15:20:22.524Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장수의 문 열리나, 염증 억제해 생쥐 수명 25% 늘렸다]]></title>
-        <id>https://v.daum.net/v/20240718000127383</id>
-        <link href="https://v.daum.net/v/20240718000127383"/>
-        <updated>2024-07-17T15:20:22.527Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
     </entry>
 </feed>
