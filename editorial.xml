@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-07-18T12:32:48.928Z</updated>
+    <updated>2024-07-18T13:24:06.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[9년 만의 '데시에르토 플로리도' [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20240718220026149</id>
+        <link href="https://v.daum.net/v/20240718220026149"/>
+        <updated>2024-07-18T13:23:48.786Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 7월 19일[김용민의 그림마당]]]></title>
         <id>https://v.daum.net/v/20240718205820251</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240718200925538</id>
         <link href="https://v.daum.net/v/20240718200925538"/>
         <updated>2024-07-18T11:15:27.189Z</updated>
-        <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">20:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시사난장] 꿈이 사라지는 나라]]></title>
-        <id>https://v.daum.net/v/20240718200921537</id>
-        <link href="https://v.daum.net/v/20240718200921537"/>
-        <updated>2024-07-18T11:15:27.195Z</updated>
         <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">20:09</span>]]></content>
     </entry>
 </feed>
