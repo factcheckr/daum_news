@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-07-18T05:17:54.375Z</updated>
+    <updated>2024-07-18T06:24:31.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[현장의 시각] 의사과학자, 한국만의 길을 찾아라]]></title>
+        <id>https://v.daum.net/v/20240718150349755</id>
+        <link href="https://v.daum.net/v/20240718150349755"/>
+        <updated>2024-07-18T06:24:13.745Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">15:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘읽씹’의 언어학 [말글살이]]]></title>
+        <id>https://v.daum.net/v/20240718143521444</id>
+        <link href="https://v.daum.net/v/20240718143521444"/>
+        <updated>2024-07-18T06:24:13.745Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">14:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[크리에이터 커머스의 도래]〈2〉소비 패러다임, 결핍 해소에서 주체적 완성으로 진화]]></title>
         <id>https://v.daum.net/v/20240718140126926</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240718115312885"/>
         <updated>2024-07-18T03:21:40.913Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:53</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[망가진 국정원 정보·공작 실상 보여준 수미 테리 파문[사설]]]></title>
-        <id>https://v.daum.net/v/20240718114823612</id>
-        <link href="https://v.daum.net/v/20240718114823612"/>
-        <updated>2024-07-18T03:21:40.914Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘면허 취소’ 음주운전 적발에도 한 달 일 시킨 대통령실[사설]]]></title>
-        <id>https://v.daum.net/v/20240718114822609</id>
-        <link href="https://v.daum.net/v/20240718114822609"/>
-        <updated>2024-07-18T03:21:40.915Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:48</span>]]></content>
     </entry>
 </feed>
