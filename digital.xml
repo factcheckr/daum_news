@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-07-18T13:24:06.137Z</updated>
+    <updated>2024-07-18T14:16:58.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[플레어, 스타게이트 V2 지원 발표…크로스체인 유동성 접근성 확대 기대]]></title>
+        <id>https://v.daum.net/v/20240718230214743</id>
+        <link href="https://v.daum.net/v/20240718230214743"/>
+        <updated>2024-07-18T14:16:33.596Z</updated>
+        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">23:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[퍼스트 디센던트, '보이드 조각' 획득량 상향]]></title>
+        <id>https://v.daum.net/v/20240718225705682</id>
+        <link href="https://v.daum.net/v/20240718225705682"/>
+        <updated>2024-07-18T14:16:33.596Z</updated>
+        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">22:57</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에버소울 "데어라 컬래버 한국 출시 논의 중"]]></title>
         <id>https://v.daum.net/v/20240718222023375</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240718205625218"/>
         <updated>2024-07-18T12:32:25.952Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">20:56</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국에서만 사라진 구글 실시간 검색어, 왜?]]></title>
-        <id>https://v.daum.net/v/20240718204541045</id>
-        <link href="https://v.daum.net/v/20240718204541045"/>
-        <updated>2024-07-18T12:32:25.953Z</updated>
-        <content type="html"><![CDATA[미디어오늘<span class="txt_bar"> · </span><span class="info_time">20:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과학기자대회 패널토론]]></title>
-        <id>https://v.daum.net/v/20240718204359021</id>
-        <link href="https://v.daum.net/v/20240718204359021"/>
-        <updated>2024-07-18T12:32:25.956Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">20:43</span>]]></content>
     </entry>
 </feed>
