@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2024-07-18T16:20:58.784Z</updated>
+    <updated>2024-07-18T17:20:57.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이준호, 우아한 남성美 [화보]]]></title>
+        <id>https://v.daum.net/v/20240719020013840</id>
+        <link href="https://v.daum.net/v/20240719020013840"/>
+        <updated>2024-07-18T17:20:07.907Z</updated>
+        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">02:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['구제역 반박' 쯔양 "협박 이메일 공개..5천5백만원 줬다" [Oh!쎈 리뷰]]]></title>
         <id>https://v.daum.net/v/20240719011939734</id>
@@ -27,7 +34,7 @@
         <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">01:11</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[최화정 "결혼했다면 난 X됐다..반대한 구남친 어머님께 감사"(비보TV)[종합]]]></title>
+        <title type="html"><![CDATA[최화정 "결혼했다면 난 X됐을 것..반대해준 구남친 어머님 감사"(비보TV)[종합]]]></title>
         <id>https://v.daum.net/v/20240719010824696</id>
         <link href="https://v.daum.net/v/20240719010824696"/>
         <updated>2024-07-18T16:20:12.883Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240719002400449"/>
         <updated>2024-07-18T16:20:12.898Z</updated>
         <content type="html"><![CDATA[스타투데이<span class="txt_bar"> · </span><span class="info_time">00:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이시언, 한혜진에 정색 "야, 그만하자"··'나혼산' 우정 끝날까 ('한혜진')]]></title>
-        <id>https://v.daum.net/v/20240719001841418</id>
-        <link href="https://v.daum.net/v/20240719001841418"/>
-        <updated>2024-07-18T15:19:31.224Z</updated>
-        <content type="html"><![CDATA[OSEN<span class="txt_bar"> · </span><span class="info_time">00:18</span>]]></content>
     </entry>
 </feed>
