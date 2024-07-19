@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-07-19T22:19:11.585Z</updated>
+    <updated>2024-07-19T23:17:18.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['고수익 미끼' 부동산 투자리딩의 허와 실[이시훈 변호사의 돈 버는 부동산]]]></title>
+        <id>https://v.daum.net/v/20240720080022988</id>
+        <link href="https://v.daum.net/v/20240720080022988"/>
+        <updated>2024-07-19T23:17:05.390Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[김회룡의 시사 TOON]]]></title>
+        <id>https://v.daum.net/v/20240720080005953</id>
+        <link href="https://v.daum.net/v/20240720080005953"/>
+        <updated>2024-07-19T23:17:05.391Z</updated>
+        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[기자수첩] 금융시장과 따로 노는 대출금리 책임은 정부다]]></title>
         <id>https://v.daum.net/v/20240720060519997</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240720003710870"/>
         <updated>2024-07-19T16:20:34.395Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[로컬의 발견] 제주 여름 탐구생활]]></title>
-        <id>https://v.daum.net/v/20240720003421841</id>
-        <link href="https://v.daum.net/v/20240720003421841"/>
-        <updated>2024-07-19T16:20:34.395Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이주윤의 딴생각] 시간을 절약하는 방법]]></title>
-        <id>https://v.daum.net/v/20240720003417840</id>
-        <link href="https://v.daum.net/v/20240720003417840"/>
-        <updated>2024-07-19T16:20:34.395Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:34</span>]]></content>
     </entry>
 </feed>
