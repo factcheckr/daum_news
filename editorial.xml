@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-07-19T03:22:00.503Z</updated>
+    <updated>2024-07-19T04:22:10.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[부고] 문성주(티에프이 대표이사)씨 모친상]]></title>
+        <id>https://v.daum.net/v/20240719131316067</id>
+        <link href="https://v.daum.net/v/20240719131316067"/>
+        <updated>2024-07-19T04:21:53.977Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">13:13</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[金여사 문자로 시작해 청탁 소동으로 막 내리는 與 전대[사설]]]></title>
         <id>https://v.daum.net/v/20240719114519661</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240719102544147"/>
         <updated>2024-07-19T01:59:53.288Z</updated>
         <content type="html"><![CDATA[머니S<span class="txt_bar"> · </span><span class="info_time">10:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A significant step toward a nuclear renaissance (KOR)]]></title>
-        <id>https://v.daum.net/v/20240719102449119</id>
-        <link href="https://v.daum.net/v/20240719102449119"/>
-        <updated>2024-07-19T01:59:53.290Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">10:24</span>]]></content>
     </entry>
 </feed>
