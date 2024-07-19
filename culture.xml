@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2024-07-19T17:17:05.770Z</updated>
+    <updated>2024-07-19T18:22:28.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[쯔양, 구제역 '협박' 영상 공개..."전 남자친구 변호인이 자료 넘겨"]]></title>
+        <id>https://v.daum.net/v/20240720031013353</id>
+        <link href="https://v.daum.net/v/20240720031013353"/>
+        <updated>2024-07-19T18:21:45.273Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">03:10</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[책의 향기]여행하다 마주친 책방, 뜻밖의 인생 책 만날지도]]></title>
         <id>https://v.daum.net/v/20240720014259205</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240720010125009"/>
         <updated>2024-07-19T16:20:01.644Z</updated>
         <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">01:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['2024 네오픽션상' 공모…대상 상금 2000만 원]]></title>
-        <id>https://v.daum.net/v/20240720010020002</id>
-        <link href="https://v.daum.net/v/20240720010020002"/>
-        <updated>2024-07-19T16:20:01.645Z</updated>
-        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">01:00</span>]]></content>
     </entry>
 </feed>
