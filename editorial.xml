@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-07-19T04:22:10.674Z</updated>
+    <updated>2024-07-19T05:19:32.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인사] 공정거래위원회]]></title>
+        <id>https://v.daum.net/v/20240719140629726</id>
+        <link href="https://v.daum.net/v/20240719140629726"/>
+        <updated>2024-07-19T05:19:12.885Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">14:06</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인사] 보건복지부]]></title>
+        <id>https://v.daum.net/v/20240719135053079</id>
+        <link href="https://v.daum.net/v/20240719135053079"/>
+        <updated>2024-07-19T05:19:12.886Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">13:50</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부고] 문성주(티에프이 대표이사)씨 모친상]]></title>
         <id>https://v.daum.net/v/20240719131316067</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240719105707411"/>
         <updated>2024-07-19T01:59:53.285Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">10:57</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기자수첩]"새벽에 보자" 체코측 요청에…1시간 전부터 기다린 한수원]]></title>
-        <id>https://v.daum.net/v/20240719102738226</id>
-        <link href="https://v.daum.net/v/20240719102738226"/>
-        <updated>2024-07-19T01:59:53.287Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">10:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인사] 머니투데이]]></title>
-        <id>https://v.daum.net/v/20240719102544147</id>
-        <link href="https://v.daum.net/v/20240719102544147"/>
-        <updated>2024-07-19T01:59:53.288Z</updated>
-        <content type="html"><![CDATA[머니S<span class="txt_bar"> · </span><span class="info_time">10:25</span>]]></content>
     </entry>
 </feed>
