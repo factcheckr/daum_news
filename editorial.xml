@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-07-20T11:14:57.140Z</updated>
+    <updated>2024-07-20T12:29:23.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[친구의 아내와 함께 산 ‘에른스트’ ‘달리’ [유경희의 ‘연금술의 미술관’]]]></title>
+        <id>https://v.daum.net/v/20240720210304953</id>
+        <link href="https://v.daum.net/v/20240720210304953"/>
+        <updated>2024-07-20T12:29:08.397Z</updated>
+        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">21:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일본은 왜 ‘푸른 산호초’에 열광했나 [조홍석의 ‘알아두면 쓸데 있는 유쾌한 상식 이야기’]]]></title>
+        <id>https://v.daum.net/v/20240720210300950</id>
+        <link href="https://v.daum.net/v/20240720210300950"/>
+        <updated>2024-07-20T12:29:08.400Z</updated>
+        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">21:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[심상찮은 집값 상승, 땜질처방으로 시장 안정 되겠나 [논설실의 관점]]]></title>
         <id>https://v.daum.net/v/20240720141033350</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240720053034632"/>
         <updated>2024-07-19T21:15:50.534Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[긴급여권 발급비 재검토해보자 [최연진의 IT 프리즘]]]></title>
-        <id>https://v.daum.net/v/20240720050003482</id>
-        <link href="https://v.daum.net/v/20240720050003482"/>
-        <updated>2024-07-19T20:19:52.123Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">05:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[젠더살롱] 멕시코에 대해 잘 알지 못 했던 두세 가지 것들 II]]></title>
-        <id>https://v.daum.net/v/20240720043059452</id>
-        <link href="https://v.daum.net/v/20240720043059452"/>
-        <updated>2024-07-19T20:19:52.123Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
     </entry>
 </feed>
