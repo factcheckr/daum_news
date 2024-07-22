@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-07-22T11:18:00.090Z</updated>
+    <updated>2024-07-22T12:34:20.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Nature Study Reveals: BGM0504 Exhibits Superior Potency]]></title>
+        <id>https://v.daum.net/v/20240722205950727</id>
+        <link href="https://v.daum.net/v/20240722205950727"/>
+        <updated>2024-07-22T12:34:11.898Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:59</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[동덕여대 사회봉사센터, ‘제3회 동덕 어린이 인문예술 프로그램’ 진행]]></title>
         <id>https://v.daum.net/v/20240722172906273</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240722155158620"/>
         <updated>2024-07-22T07:19:46.894Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">15:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] Vantage, Online Money Awards서 '최우수 다중 자산 브로커상' 수상]]></title>
-        <id>https://v.daum.net/v/20240722154844462</id>
-        <link href="https://v.daum.net/v/20240722154844462"/>
-        <updated>2024-07-22T07:19:46.895Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">15:48</span>]]></content>
     </entry>
 </feed>
