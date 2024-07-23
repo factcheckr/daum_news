@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-07-23T22:17:34.379Z</updated>
+    <updated>2024-07-23T23:19:54.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[초동시각]"국장에 질렸다" 이민 가는 개미들]]></title>
+        <id>https://v.daum.net/v/20240724073321078</id>
+        <link href="https://v.daum.net/v/20240724073321078"/>
+        <updated>2024-07-23T23:19:41.270Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">07:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중국인을 미워하지 않는 방법 [조형근의 낮은 목소리]]]></title>
         <id>https://v.daum.net/v/20240724070507715</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240724053901603"/>
         <updated>2024-07-23T21:21:26.642Z</updated>
         <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">05:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Kim Seong-kon] To have or not to have children, that is the question]]></title>
-        <id>https://v.daum.net/v/20240724053430585</id>
-        <link href="https://v.daum.net/v/20240724053430585"/>
-        <updated>2024-07-23T21:21:26.643Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:34</span>]]></content>
     </entry>
 </feed>
