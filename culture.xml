@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2024-07-23T16:24:28.718Z</updated>
+    <updated>2024-07-23T17:16:05.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[데일리 헬스] 하루 앞으로 다가온 중복…열 많은 체질은 '이 음식' 피해야]]></title>
+        <id>https://v.daum.net/v/20240724020403436</id>
+        <link href="https://v.daum.net/v/20240724020403436"/>
+        <updated>2024-07-23T17:15:24.014Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">02:04</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[날씨] 전국 대체로 흐림‥밤사이 중부·경북 비]]></title>
+        <id>https://v.daum.net/v/20240724010605216</id>
+        <link href="https://v.daum.net/v/20240724010605216"/>
+        <updated>2024-07-23T17:15:24.017Z</updated>
+        <content type="html"><![CDATA[MBC<span class="txt_bar"> · </span><span class="info_time">01:06</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오늘의 운세] 7월 24일 수요일 (음력 6월 19일 /己丑) 띠별 / 생년월일 운세]]></title>
         <id>https://v.daum.net/v/20240724010110167</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240724000507591"/>
         <updated>2024-07-23T15:18:34.185Z</updated>
         <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[신간] 3분만 바라보면 눈이 젊어진다]]></title>
-        <id>https://v.daum.net/v/20240724000409579</id>
-        <link href="https://v.daum.net/v/20240724000409579"/>
-        <updated>2024-07-23T15:18:34.191Z</updated>
-        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 운세] 7월 24일]]></title>
-        <id>https://v.daum.net/v/20240724000333567</id>
-        <link href="https://v.daum.net/v/20240724000333567"/>
-        <updated>2024-07-23T15:18:34.193Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
     </entry>
 </feed>
