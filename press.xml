@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-07-23T10:18:17.194Z</updated>
+    <updated>2024-07-23T11:16:39.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Trinasolar Celebrates Success of Rangitaiki Solar Farm]]></title>
+        <id>https://v.daum.net/v/20240723193620942</id>
+        <link href="https://v.daum.net/v/20240723193620942"/>
+        <updated>2024-07-23T11:16:30.519Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">19:36</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[프릿지크루, 구글 창구 프로그램 6기 선정]]></title>
         <id>https://v.daum.net/v/20240723175703991</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240723172125494"/>
         <updated>2024-07-23T08:23:22.167Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] 싱가포르, 전세계 가장 강력한 여권 순위에서 다시 1위에 등극]]></title>
-        <id>https://v.daum.net/v/20240723170746992</id>
-        <link href="https://v.daum.net/v/20240723170746992"/>
-        <updated>2024-07-23T08:23:22.169Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:07</span>]]></content>
     </entry>
 </feed>
