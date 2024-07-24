@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-07-24T16:23:26.270Z</updated>
+    <updated>2024-07-24T17:15:56.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]투자자 우위 시장에 대처하는 자세]]></title>
+        <id>https://v.daum.net/v/20240725020502145</id>
+        <link href="https://v.daum.net/v/20240725020502145"/>
+        <updated>2024-07-24T17:15:39.218Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]개츠비스크의 꿈]]></title>
+        <id>https://v.daum.net/v/20240725020301134</id>
+        <link href="https://v.daum.net/v/20240725020301134"/>
+        <updated>2024-07-24T17:15:39.219Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[한마당] 난장판 국민청원]]></title>
         <id>https://v.daum.net/v/20240725004215695</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240725003307618"/>
         <updated>2024-07-24T16:23:08.339Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:33</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[여의도포럼] 드레스덴에서 만난 극우정당의 얼굴]]></title>
-        <id>https://v.daum.net/v/20240725003306617</id>
-        <link href="https://v.daum.net/v/20240725003306617"/>
-        <updated>2024-07-24T16:23:08.340Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:33</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[중앙시평] 불행한 역사를 피하는 학습능력]]></title>
-        <id>https://v.daum.net/v/20240725003231609</id>
-        <link href="https://v.daum.net/v/20240725003231609"/>
-        <updated>2024-07-24T16:23:08.341Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:32</span>]]></content>
     </entry>
 </feed>
