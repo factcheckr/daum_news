@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-07-24T11:17:32.342Z</updated>
+    <updated>2024-07-24T12:32:00.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 매뉴라이프 인베스트먼트 매니지먼트, 미국 외 매력적인 기회 포착]]></title>
+        <id>https://v.daum.net/v/20240724212142448</id>
+        <link href="https://v.daum.net/v/20240724212142448"/>
+        <updated>2024-07-24T12:31:52.700Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">21:21</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] 중국 신유교 구이저우 스터디 투어 8일간의 일정 마무리]]></title>
         <id>https://v.daum.net/v/20240724200724039</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240724200025908</id>
         <link href="https://v.daum.net/v/20240724200025908"/>
         <updated>2024-07-24T11:17:23.834Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1달러 이상 구매하면 ‘프랑스 한 달 살기’ 경품 추첨]]></title>
-        <id>https://v.daum.net/v/20240724200023905</id>
-        <link href="https://v.daum.net/v/20240724200023905"/>
-        <updated>2024-07-24T11:17:23.835Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:00</span>]]></content>
     </entry>
 </feed>
