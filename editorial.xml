@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-07-25T05:17:52.025Z</updated>
+    <updated>2024-07-25T06:24:37.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[현장의 시각] 확률형 아이템 규제, 확률 공개만이 답은 아니다]]></title>
+        <id>https://v.daum.net/v/20240725150038107</id>
+        <link href="https://v.daum.net/v/20240725150038107"/>
+        <updated>2024-07-25T06:24:20.488Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">15:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[근시와 원시 [말글살이]]]></title>
+        <id>https://v.daum.net/v/20240725143512820</id>
+        <link href="https://v.daum.net/v/20240725143512820"/>
+        <updated>2024-07-25T06:24:20.488Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">14:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[기자수첩] 잘못된 법은 정의를 해친다]]></title>
         <id>https://v.daum.net/v/20240725141540913</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240725104503714"/>
         <updated>2024-07-25T02:36:19.249Z</updated>
         <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">10:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[초동시각]2024년의 올림픽 정신과 일·가정 양립]]></title>
-        <id>https://v.daum.net/v/20240725103013045</id>
-        <link href="https://v.daum.net/v/20240725103013045"/>
-        <updated>2024-07-25T02:36:19.251Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">10:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김동기의 뷰포인트]미국 대선 핵심이슈는 ‘이민 문제’]]></title>
-        <id>https://v.daum.net/v/20240725102845974</id>
-        <link href="https://v.daum.net/v/20240725102845974"/>
-        <updated>2024-07-25T02:36:19.252Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">10:28</span>]]></content>
     </entry>
 </feed>
