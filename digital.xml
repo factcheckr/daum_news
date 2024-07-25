@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-07-25T16:25:00.188Z</updated>
+    <updated>2024-07-25T17:15:49.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MMORPG '레이븐2', 대규모 업데이트...마법사 국가 ‘시너림’ 추가]]></title>
+        <id>https://v.daum.net/v/20240726013034539</id>
+        <link href="https://v.daum.net/v/20240726013034539"/>
+        <updated>2024-07-25T17:15:25.267Z</updated>
+        <content type="html"><![CDATA[OSEN<span class="txt_bar"> · </span><span class="info_time">01:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넥슨 ‘바람의나라: 연’, ‘던파모바일’과 컬래버레이션...'던파모바일' 세계관 활용 콘텐츠 추가]]></title>
         <id>https://v.daum.net/v/20240726012256498</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240726001043810"/>
         <updated>2024-07-25T15:17:40.965Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인사]과학기술연합대학원대학교(UST)]]></title>
-        <id>https://v.daum.net/v/20240726000735767</id>
-        <link href="https://v.daum.net/v/20240726000735767"/>
-        <updated>2024-07-25T15:17:40.967Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">00:07</span>]]></content>
     </entry>
 </feed>
