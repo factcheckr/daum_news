@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-07-26T06:24:19.052Z</updated>
+    <updated>2024-07-26T07:18:56.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[온라인에서 관계의 지경을 넓히다[요즘 어른의 관계 맺기](20)]]></title>
+        <id>https://v.daum.net/v/20240726160106324</id>
+        <link href="https://v.daum.net/v/20240726160106324"/>
+        <updated>2024-07-26T07:18:40.033Z</updated>
+        <content type="html"><![CDATA[주간경향<span class="txt_bar"> · </span><span class="info_time">16:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[상·증세법 개정안…‘부자감세’ 논란의 진실은 [홍길용의 화식열전]]]></title>
+        <id>https://v.daum.net/v/20240726154558882</id>
+        <link href="https://v.daum.net/v/20240726154558882"/>
+        <updated>2024-07-26T07:18:40.035Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">15:45</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[’채 상병 특검법‘ 한발 빼는 한동훈… 돌파구 찾을 수 있겠나 [논설실의 관점]]]></title>
         <id>https://v.daum.net/v/20240726144603905</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240726112013337"/>
         <updated>2024-07-26T02:36:39.152Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정말 일반주주에게 유리한 합병인가 [취재수첩]]]></title>
-        <id>https://v.daum.net/v/20240726111509133</id>
-        <link href="https://v.daum.net/v/20240726111509133"/>
-        <updated>2024-07-26T02:36:39.154Z</updated>
-        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">11:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시론]유전자도 힘이 다했다, 힘든 한국 미래를 보여 줄 올림픽]]></title>
-        <id>https://v.daum.net/v/20240726110406651</id>
-        <link href="https://v.daum.net/v/20240726110406651"/>
-        <updated>2024-07-26T02:36:39.159Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:04</span>]]></content>
     </entry>
 </feed>
