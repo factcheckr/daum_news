@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-07-26T18:22:27.418Z</updated>
+    <updated>2024-07-26T19:17:25.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[데스크 칼럼] 재계 반면교사 된 카카오]]></title>
+        <id>https://v.daum.net/v/20240727040222197</id>
+        <link href="https://v.daum.net/v/20240727040222197"/>
+        <updated>2024-07-26T19:17:09.643Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">04:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[임보혁 기자의 ‘예며들다’] 교회, 전투함보다 구조선 역할부터 해야]]></title>
         <id>https://v.daum.net/v/20240727030821694</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240727002702842</id>
         <link href="https://v.daum.net/v/20240727002702842"/>
         <updated>2024-07-26T16:22:00.013Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 약자 복지 확대도 좋지만 과속은 경계해야]]></title>
-        <id>https://v.daum.net/v/20240727002701841</id>
-        <link href="https://v.daum.net/v/20240727002701841"/>
-        <updated>2024-07-26T16:22:00.015Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:27</span>]]></content>
     </entry>
 </feed>
