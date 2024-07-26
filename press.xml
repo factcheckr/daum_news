@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-07-26T03:20:03.920Z</updated>
+    <updated>2024-07-26T04:21:14.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여론 조사의 기본 정신을 재조명 ‘제77회 세계여론조사학회 컨퍼런스’ 개최]]></title>
+        <id>https://v.daum.net/v/20240726131703229</id>
+        <link href="https://v.daum.net/v/20240726131703229"/>
+        <updated>2024-07-26T04:21:05.573Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">13:17</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bureau Veritas appoints Maria Lorente Fraguas as Executive Vice President and Chief People Officer]]></title>
         <id>https://v.daum.net/v/20240726115705735</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240726112710647"/>
         <updated>2024-07-26T02:36:47.052Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">11:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남해군, '2024년 청렴 토크 콘서트'개최]]></title>
-        <id>https://v.daum.net/v/20240726112619602</id>
-        <link href="https://v.daum.net/v/20240726112619602"/>
-        <updated>2024-07-26T02:36:47.053Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:26</span>]]></content>
     </entry>
 </feed>
