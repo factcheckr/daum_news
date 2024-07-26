@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2024-07-26T17:16:37.659Z</updated>
+    <updated>2024-07-26T18:22:27.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[티몬·위메프 "환불 늦어지면 카드사에 취소요청해야"]]></title>
+        <id>https://v.daum.net/v/20240727031800773</id>
+        <link href="https://v.daum.net/v/20240727031800773"/>
+        <updated>2024-07-26T18:21:32.223Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">03:18</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[큐텐 수장 구영배, 자회사 큐익스프레스 대표 사임]]></title>
+        <id>https://v.daum.net/v/20240727022700426</id>
+        <link href="https://v.daum.net/v/20240727022700426"/>
+        <updated>2024-07-26T18:21:32.226Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">02:27</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구영배, 큐익스프레스 대표직 사임…티몬·위메프 사태 '선 긋기']]></title>
+        <id>https://v.daum.net/v/20240727021704389</id>
+        <link href="https://v.daum.net/v/20240727021704389"/>
+        <updated>2024-07-26T18:21:32.226Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">02:17</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[티몬, 피해 금액 환불 거부 ... “자금 집행 어려워"]]></title>
         <id>https://v.daum.net/v/20240727021240383</id>
@@ -31,6 +52,13 @@
         <id>https://v.daum.net/v/20240727014210250</id>
         <link href="https://v.daum.net/v/20240727014210250"/>
         <updated>2024-07-26T17:15:32.435Z</updated>
+        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">01:42</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“20대 청년 5명중 1명만 졸업후 바로 취업”]]></title>
+        <id>https://v.daum.net/v/20240727014202246</id>
+        <link href="https://v.daum.net/v/20240727014202246"/>
+        <updated>2024-07-26T18:21:32.230Z</updated>
         <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">01:42</span>]]></content>
     </entry>
     <entry>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20240727013122199"/>
         <updated>2024-07-26T17:15:32.446Z</updated>
         <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">01:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[교원그룹 "재결제 고객 환불 못 받으면 포인트 보상"]]></title>
-        <id>https://v.daum.net/v/20240727011611140</id>
-        <link href="https://v.daum.net/v/20240727011611140"/>
-        <updated>2024-07-26T16:20:58.645Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">01:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카드업계 "결제 취소 지원"...은행도 대출 연장]]></title>
-        <id>https://v.daum.net/v/20240727011609139</id>
-        <link href="https://v.daum.net/v/20240727011609139"/>
-        <updated>2024-07-26T16:20:58.645Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">01:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티몬, 현장 고객에 환불...위메프 "온라인 환불 접수"]]></title>
-        <id>https://v.daum.net/v/20240727011204118</id>
-        <link href="https://v.daum.net/v/20240727011204118"/>
-        <updated>2024-07-26T16:20:58.649Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">01:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가스공사, 제주서 국내 최초 1㎿급 수전해 그린수소 생산 성공]]></title>
-        <id>https://v.daum.net/v/20240727010832100</id>
-        <link href="https://v.daum.net/v/20240727010832100"/>
-        <updated>2024-07-26T16:20:58.649Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">01:08</span>]]></content>
     </entry>
 </feed>
