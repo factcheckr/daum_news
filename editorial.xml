@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-07-26T22:17:30.297Z</updated>
+    <updated>2024-07-26T23:17:24.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[김회룡의 시사 TOON]]]></title>
+        <id>https://v.daum.net/v/20240727080002344</id>
+        <link href="https://v.daum.net/v/20240727080002344"/>
+        <updated>2024-07-26T23:17:07.229Z</updated>
+        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">08:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인도네시아 음악[서우석의 문화 프리즘]]]></title>
         <id>https://v.daum.net/v/20240727064022059</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240727003104871</id>
         <link href="https://v.daum.net/v/20240727003104871"/>
         <updated>2024-07-26T16:22:00.007Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[천자칼럼] 축구인 자서전]]></title>
-        <id>https://v.daum.net/v/20240727003102870</id>
-        <link href="https://v.daum.net/v/20240727003102870"/>
-        <updated>2024-07-26T16:22:00.009Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:31</span>]]></content>
     </entry>
 </feed>
