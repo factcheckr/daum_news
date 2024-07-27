@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-07-27T13:19:19.077Z</updated>
+    <updated>2024-07-27T14:15:54.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하이델 연회 "폭염, 폭우도 막지 못한 모험가들의 열정"]]></title>
+        <id>https://v.daum.net/v/20240727222918125</id>
+        <link href="https://v.daum.net/v/20240727222918125"/>
+        <updated>2024-07-27T14:15:31.671Z</updated>
+        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">22:29</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[네카오도 '티메프' 사태 해결 총력…"48시간 내 환불 제공"]]></title>
         <id>https://v.daum.net/v/20240727221226926</id>
@@ -27,7 +34,7 @@
         <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">22:02</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[압도적 1위였는데…“꼴찌 추락” 충격 휩싸인 ‘명가’ CJ]]></title>
+        <title type="html"><![CDATA[압도적 1위였는데…“꼴찌 추락” 충격 사태 터진 ‘명가’ CJ]]></title>
         <id>https://v.daum.net/v/20240727214326521</id>
         <link href="https://v.daum.net/v/20240727214326521"/>
         <updated>2024-07-27T13:18:53.634Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240727204129680"/>
         <updated>2024-07-27T12:31:20.093Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">20:41</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[검은사막 모바일 "별무덤ㆍ검은별 무기 추가한다"]]></title>
-        <id>https://v.daum.net/v/20240727203653612</id>
-        <link href="https://v.daum.net/v/20240727203653612"/>
-        <updated>2024-07-27T12:31:20.094Z</updated>
-        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">20:36</span>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2024-07-27T13:19:19.074Z</updated>
+    <updated>2024-07-27T14:15:54.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트래비스와 떠난 시원한 여름 휴가…"여러분 오랜만이에요"]]></title>
+        <id>https://v.daum.net/v/20240727222829112</id>
+        <link href="https://v.daum.net/v/20240727222829112"/>
+        <updated>2024-07-27T14:15:08.599Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">22:28</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오늘의 별자리 운세] 7월 28일 일요일]]></title>
         <id>https://v.daum.net/v/20240727220017743</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240727193035583"/>
         <updated>2024-07-27T11:16:08.001Z</updated>
         <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">19:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주말에 함께] 고양이와 시 外]]></title>
-        <id>https://v.daum.net/v/20240727193032582</id>
-        <link href="https://v.daum.net/v/20240727193032582"/>
-        <updated>2024-07-27T11:16:08.001Z</updated>
-        <content type="html"><![CDATA[더스쿠프<span class="txt_bar"> · </span><span class="info_time">19:30</span>]]></content>
     </entry>
 </feed>
