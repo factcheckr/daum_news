@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-07-28T16:21:36.429Z</updated>
+    <updated>2024-07-28T17:15:27.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[청계광장]'가장 고독했던 아폴로 11호 우주인' 마이클 콜린스의 또 다른 업적]]></title>
+        <id>https://v.daum.net/v/20240729020304372</id>
+        <link href="https://v.daum.net/v/20240729020304372"/>
+        <updated>2024-07-28T17:15:10.394Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]초저출산이 만드는 서울만 강세장]]></title>
+        <id>https://v.daum.net/v/20240729020301371</id>
+        <link href="https://v.daum.net/v/20240729020301371"/>
+        <updated>2024-07-28T17:15:10.398Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[한마당] 도쿄 화장실 프로젝트]]></title>
         <id>https://v.daum.net/v/20240729004211617</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240729003555577"/>
         <updated>2024-07-28T16:21:22.109Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박권의 미래를 묻다] 공룡·소행성·라그랑주 점, 그리고 우주 탐험]]></title>
-        <id>https://v.daum.net/v/20240729003425565</id>
-        <link href="https://v.daum.net/v/20240729003425565"/>
-        <updated>2024-07-28T16:21:22.110Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[천자칼럼] 비트코인도 준비자산?]]></title>
-        <id>https://v.daum.net/v/20240729003305562</id>
-        <link href="https://v.daum.net/v/20240729003305562"/>
-        <updated>2024-07-28T16:21:22.112Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:33</span>]]></content>
     </entry>
 </feed>
