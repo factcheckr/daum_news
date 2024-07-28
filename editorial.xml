@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-07-28T22:16:42.926Z</updated>
+    <updated>2024-07-28T23:17:40.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘수소’가 신사업일까 [오동재의 파도를 넘어]]]></title>
+        <id>https://v.daum.net/v/20240729080502076</id>
+        <link href="https://v.daum.net/v/20240729080502076"/>
+        <updated>2024-07-28T23:17:24.304Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">08:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지연된 종말의 시간 [한승훈 칼럼]]]></title>
         <id>https://v.daum.net/v/20240729070506244</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240729053032091</id>
         <link href="https://v.daum.net/v/20240729053032091"/>
         <updated>2024-07-28T21:17:14.106Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시론]‘IT 재난’ 대비는 선택 아닌 필수]]></title>
-        <id>https://v.daum.net/v/20240729053022085</id>
-        <link href="https://v.daum.net/v/20240729053022085"/>
-        <updated>2024-07-28T21:17:14.107Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
     </entry>
 </feed>
