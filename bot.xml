@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-07-29T07:17:56.875Z</updated>
+    <updated>2024-07-29T08:22:15.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에이텍 수주공시 - 24년 경찰청 PC본체 2차 구매(리스계약 조건) 112.3억원 (매출액대비  15.60 %)]]></title>
+        <id>https://v.daum.net/v/20240729171104324</id>
+        <link href="https://v.daum.net/v/20240729171104324"/>
+        <updated>2024-07-29T08:22:14.756Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">17:11</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스킨앤스킨, 10억원 3자배정 유상증자 결정]]></title>
+        <id>https://v.daum.net/v/20240729170519084</id>
+        <link href="https://v.daum.net/v/20240729170519084"/>
+        <updated>2024-07-29T08:22:14.758Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">17:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국고채 금리 일제히 하락…3년물 연 2.978%]]></title>
+        <id>https://v.daum.net/v/20240729164840499</id>
+        <link href="https://v.daum.net/v/20240729164840499"/>
+        <updated>2024-07-29T08:22:14.759Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">16:48</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국내화 수주공시 - 순천 CAL 연소시스템 변경 및 저녹스 버너 설치 219.8억원 (매출액대비  5.34 %)]]></title>
+        <id>https://v.daum.net/v/20240729164702450</id>
+        <link href="https://v.daum.net/v/20240729164702450"/>
+        <updated>2024-07-29T08:22:14.761Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">16:47</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[예스티 수주공시 - 반도체 제조용 장비(네오콘, 칠러) 83억원 (매출액대비  10.40 %)]]></title>
         <id>https://v.daum.net/v/20240729152604708</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20240729100902450"/>
         <updated>2024-07-29T01:14:13.417Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">10:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[와이씨 수주공시 - 반도체 검사장비 1,017억원 (매출액대비  39.85 %)]]></title>
-        <id>https://v.daum.net/v/20240729095603900</id>
-        <link href="https://v.daum.net/v/20240729095603900"/>
-        <updated>2024-07-29T01:14:13.418Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:56</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['한화3우B' 52주 신고가 경신, 외국인 3일 연속 순매수(4.2만주)]]></title>
-        <id>https://v.daum.net/v/20240729094507398</id>
-        <link href="https://v.daum.net/v/20240729094507398"/>
-        <updated>2024-07-29T01:14:13.419Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['HD한국조선해양' 52주 신고가 경신, 2Q24 Review: mid-single 진입]]></title>
-        <id>https://v.daum.net/v/20240729094207270</id>
-        <link href="https://v.daum.net/v/20240729094207270"/>
-        <updated>2024-07-29T01:14:13.421Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['종근당바이오' 52주 신고가 경신, 전일 외국인 대량 순매수]]></title>
-        <id>https://v.daum.net/v/20240729093903135</id>
-        <link href="https://v.daum.net/v/20240729093903135"/>
-        <updated>2024-07-29T01:14:13.423Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:39</span>]]></content>
     </entry>
 </feed>
