@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2024-07-29T16:22:06.354Z</updated>
+    <updated>2024-07-29T17:16:24.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["레스토랑 음식 맛보다 변덕 더 심한 것은 주식 가격"]]></title>
+        <id>https://v.daum.net/v/20240730020104077</id>
+        <link href="https://v.daum.net/v/20240730020104077"/>
+        <updated>2024-07-29T17:15:31.105Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">02:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오늘의 운세] 7월 30일 화요일 (음력 6월 25일 /乙未) 띠별 / 생년월일 운세]]></title>
         <id>https://v.daum.net/v/20240730010110489</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240730000201771"/>
         <updated>2024-07-29T15:20:46.528Z</updated>
         <content type="html"><![CDATA[bnt뉴스<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세수 빨간불인데 감세만 강조…문제점도 함께 지적해야]]></title>
-        <id>https://v.daum.net/v/20240730000155768</id>
-        <link href="https://v.daum.net/v/20240730000155768"/>
-        <updated>2024-07-29T15:20:46.532Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
     </entry>
 </feed>
