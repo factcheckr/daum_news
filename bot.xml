@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-07-29T03:21:41.776Z</updated>
+    <updated>2024-07-29T04:21:04.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수원 인계동 신반포수원 52㎡ 2억5800만원에 거래]]></title>
+        <id>https://v.daum.net/v/20240729122541712</id>
+        <link href="https://v.daum.net/v/20240729122541712"/>
+        <updated>2024-07-29T04:21:03.488Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:25</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수원 화서동 화서주공4단지 59㎡ 4억9800만원에 거래]]></title>
         <id>https://v.daum.net/v/20240729122043655</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240729093804100</id>
         <link href="https://v.daum.net/v/20240729093804100"/>
         <updated>2024-07-29T01:14:13.424Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:38</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['HD현대미포' 52주 신고가 경신, 2Q24 Review: 날쌘 턴어라운드 - 메리츠증권, BUY]]></title>
-        <id>https://v.daum.net/v/20240729093803096</id>
-        <link href="https://v.daum.net/v/20240729093803096"/>
-        <updated>2024-07-29T01:14:13.425Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:38</span>]]></content>
     </entry>
 </feed>
