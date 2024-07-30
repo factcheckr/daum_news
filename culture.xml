@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2024-07-30T16:23:27.269Z</updated>
+    <updated>2024-07-30T17:15:49.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사이비 우주 장사꾼에게 말하다 '당신은 화성으로 떠날 수 없다']]></title>
+        <id>https://v.daum.net/v/20240731020017334</id>
+        <link href="https://v.daum.net/v/20240731020017334"/>
+        <updated>2024-07-30T17:15:00.185Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">02:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오늘의 운세] 7월 31일 수요일 (음력 6월 26일 /丙申) 띠별 / 생년월일 운세]]></title>
         <id>https://v.daum.net/v/20240731010130921</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240731000506174"/>
         <updated>2024-07-30T15:17:43.762Z</updated>
         <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 운세] 2024년 07월 31일 별자리 운세]]></title>
-        <id>https://v.daum.net/v/20240731000304137</id>
-        <link href="https://v.daum.net/v/20240731000304137"/>
-        <updated>2024-07-30T15:17:43.763Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
     </entry>
 </feed>
