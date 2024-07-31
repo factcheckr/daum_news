@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-07-31T05:19:30.942Z</updated>
+    <updated>2024-07-31T06:20:27.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘스드메’ 불공정 약관 개선이 먼저 꺼낼 인구비상대책인가[플랫]]]></title>
+        <id>https://v.daum.net/v/20240731145410691</id>
+        <link href="https://v.daum.net/v/20240731145410691"/>
+        <updated>2024-07-31T06:20:10.318Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">14:54</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인사] 대한무역투자진흥공사(KOTRA)]]></title>
+        <id>https://v.daum.net/v/20240731143340956</id>
+        <link href="https://v.daum.net/v/20240731143340956"/>
+        <updated>2024-07-31T06:20:10.318Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">14:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[데일리안 시사만평] 탄핵밖에 모른다…민주당, 이동관·김홍일에 이어 이진숙도 탄핵 시동]]></title>
         <id>https://v.daum.net/v/20240731141652306</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240731110342506"/>
         <updated>2024-07-31T02:17:34.181Z</updated>
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[강혜신의 미국 대선 따라 잡기] (4) 공화당 전당대회와 밴스 부통령 후보]]></title>
-        <id>https://v.daum.net/v/20240731110130395</id>
-        <link href="https://v.daum.net/v/20240731110130395"/>
-        <updated>2024-07-31T02:17:34.181Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">11:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[칼럼]지금까지 이런 정치는 없었다]]></title>
-        <id>https://v.daum.net/v/20240731105404043</id>
-        <link href="https://v.daum.net/v/20240731105404043"/>
-        <updated>2024-07-31T02:17:34.183Z</updated>
-        <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">10:54</span>]]></content>
     </entry>
 </feed>
