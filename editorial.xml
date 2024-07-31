@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-07-31T16:21:22.002Z</updated>
+    <updated>2024-07-31T17:21:08.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]'텍스트 힙'(Text Hip)은 과시욕의 산물인가]]></title>
+        <id>https://v.daum.net/v/20240801020302503</id>
+        <link href="https://v.daum.net/v/20240801020302503"/>
+        <updated>2024-07-31T17:20:50.217Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 윤석열의 김문수 vs 슈뢰더의 하르츠]]></title>
         <id>https://v.daum.net/v/20240801004421082</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240801003314988</id>
         <link href="https://v.daum.net/v/20240801003314988"/>
         <updated>2024-07-31T16:21:04.482Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:33</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 돌아오지 않은 전공의… ‘전문의 중심 병원’ 서둘러야]]></title>
-        <id>https://v.daum.net/v/20240801003307987</id>
-        <link href="https://v.daum.net/v/20240801003307987"/>
-        <updated>2024-07-31T16:21:04.484Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:33</span>]]></content>
     </entry>
 </feed>
