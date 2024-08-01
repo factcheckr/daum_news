@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-08-01T05:17:39.763Z</updated>
+    <updated>2024-08-01T06:24:47.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[민테크 수주공시 - 사용후 배터리 자동평가 전 공정 및 자동이송시스템 30.5억원 (매출액대비  17.37 %)]]></title>
+        <id>https://v.daum.net/v/20240801143107041</id>
+        <link href="https://v.daum.net/v/20240801143107041"/>
+        <updated>2024-08-01T06:24:46.994Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">14:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HB솔루션 수주공시 - 장비공급계약 118.3억원 (매출액대비  12.31 %)]]></title>
         <id>https://v.daum.net/v/20240801141102209</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240801091409479</id>
         <link href="https://v.daum.net/v/20240801091409479"/>
         <updated>2024-08-01T01:18:09.264Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['넥슨게임즈' 52주 신고가 경신, 전일 기관 대량 순매수]]></title>
-        <id>https://v.daum.net/v/20240801091404475</id>
-        <link href="https://v.daum.net/v/20240801091404475"/>
-        <updated>2024-08-01T01:18:09.265Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:14</span>]]></content>
     </entry>
 </feed>
