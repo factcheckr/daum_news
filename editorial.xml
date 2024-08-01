@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-08-01T06:24:47.662Z</updated>
+    <updated>2024-08-01T07:16:30.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뼛속 깊이 ‘백인우월’ 공화당, 어디까지 추락하려나 [특파원 칼럼]]]></title>
+        <id>https://v.daum.net/v/20240801161114313</id>
+        <link href="https://v.daum.net/v/20240801161114313"/>
+        <updated>2024-08-01T07:16:13.990Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">16:11</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ET시론]통신의 미래와 융복합]]></title>
+        <id>https://v.daum.net/v/20240801160117909</id>
+        <link href="https://v.daum.net/v/20240801160117909"/>
+        <updated>2024-08-01T07:16:13.990Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">16:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[기고] “어려운 경제여건을 극복하는 유일한 통로는 오직 협업뿐”]]></title>
+        <id>https://v.daum.net/v/20240801160115908</id>
+        <link href="https://v.daum.net/v/20240801160115908"/>
+        <updated>2024-08-01T07:16:13.990Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">16:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[황보현우의 AI시대] 〈11〉금융권 망분리 규제, 지금이 개선할 적기다]]></title>
+        <id>https://v.daum.net/v/20240801160112904</id>
+        <link href="https://v.daum.net/v/20240801160112904"/>
+        <updated>2024-08-01T07:16:13.990Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">16:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[지평선] 미스터리 DSR]]></title>
+        <id>https://v.daum.net/v/20240801160053886</id>
+        <link href="https://v.daum.net/v/20240801160053886"/>
+        <updated>2024-08-01T07:16:13.991Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">16:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인사] 한국농어촌공사]]></title>
+        <id>https://v.daum.net/v/20240801154217068</id>
+        <link href="https://v.daum.net/v/20240801154217068"/>
+        <updated>2024-08-01T07:16:13.992Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">15:42</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[기고] 동반성장을 위한 빌드업]]></title>
         <id>https://v.daum.net/v/20240801152054182</id>
@@ -67,47 +109,5 @@
         <link href="https://v.daum.net/v/20240801113107067"/>
         <updated>2024-08-01T02:40:32.678Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">11:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[초동시각]반복되는 인파밀집 공포, 달라진 게 없다]]></title>
-        <id>https://v.daum.net/v/20240801112020629</id>
-        <link href="https://v.daum.net/v/20240801112020629"/>
-        <updated>2024-08-01T02:40:32.678Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[아시아르포]마지막 공산주의자 ‘응우옌 푸쫑 서기장’의 서거]]></title>
-        <id>https://v.daum.net/v/20240801111538392</id>
-        <link href="https://v.daum.net/v/20240801111538392"/>
-        <updated>2024-08-01T02:40:32.678Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 美 금리인하 시사, 한은도 경제상황 고려 적기 단행해야]]></title>
-        <id>https://v.daum.net/v/20240801111319265</id>
-        <link href="https://v.daum.net/v/20240801111319265"/>
-        <updated>2024-08-01T02:40:32.680Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 美 온라인 유해물 ‘미성년보호법’ 통과, 우리도 시급하다]]></title>
-        <id>https://v.daum.net/v/20240801111314258</id>
-        <link href="https://v.daum.net/v/20240801111314258"/>
-        <updated>2024-08-01T02:40:32.682Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[헤럴드시론] 수리할 권리가 여는 지속가능한 미래]]></title>
-        <id>https://v.daum.net/v/20240801111234235</id>
-        <link href="https://v.daum.net/v/20240801111234235"/>
-        <updated>2024-08-01T02:40:32.683Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[필리핀 이모 쓰려면 홍콩 70만원, 한국은 230만원 들어…외국인 가사관리사가 구원투수 되려면 [이은아 칼럼]]]></title>
-        <id>https://v.daum.net/v/20240801111204203</id>
-        <link href="https://v.daum.net/v/20240801111204203"/>
-        <updated>2024-08-01T02:40:32.685Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">11:12</span>]]></content>
     </entry>
 </feed>

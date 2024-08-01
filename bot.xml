@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-08-01T06:24:47.703Z</updated>
+    <updated>2024-08-01T07:16:31.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['HD현대' 52주 신고가 경신, 외국인 4일 연속 순매수(16.4만주)]]></title>
+        <id>https://v.daum.net/v/20240801153715849</id>
+        <link href="https://v.daum.net/v/20240801153715849"/>
+        <updated>2024-08-01T07:16:30.334Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">15:37</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[민테크 수주공시 - 사용후 배터리 자동평가 전 공정 및 자동이송시스템 30.5억원 (매출액대비  17.37 %)]]></title>
         <id>https://v.daum.net/v/20240801143107041</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240801091502503"/>
         <updated>2024-08-01T01:18:09.263Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이니텍' 52주 신고가 경신, 최근 3일간 기관 대량 순매수]]></title>
-        <id>https://v.daum.net/v/20240801091409479</id>
-        <link href="https://v.daum.net/v/20240801091409479"/>
-        <updated>2024-08-01T01:18:09.264Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:14</span>]]></content>
     </entry>
 </feed>
