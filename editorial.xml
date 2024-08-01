@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-08-01T07:16:30.978Z</updated>
+    <updated>2024-08-01T08:21:49.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[데일리안 시사만평] 북한만 아니면 기밀정보를 유출해도 간첩죄 아니라고?]]></title>
+        <id>https://v.daum.net/v/20240801170404187</id>
+        <link href="https://v.daum.net/v/20240801170404187"/>
+        <updated>2024-08-01T08:21:32.026Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">17:04</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사이언스 톡] 금메달 아깝게 놓친 인공지능]]></title>
+        <id>https://v.daum.net/v/20240801163100005</id>
+        <link href="https://v.daum.net/v/20240801163100005"/>
+        <updated>2024-08-01T08:21:32.027Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">16:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뼛속 깊이 ‘백인우월’ 공화당, 어디까지 추락하려나 [특파원 칼럼]]]></title>
         <id>https://v.daum.net/v/20240801161114313</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240801130641238"/>
         <updated>2024-08-01T04:21:02.740Z</updated>
         <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">13:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현직 검사가 조국당 대변인으로 활동하는 기막힌 현실[사설]]]></title>
-        <id>https://v.daum.net/v/20240801130640236</id>
-        <link href="https://v.daum.net/v/20240801130640236"/>
-        <updated>2024-08-01T04:21:02.744Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">13:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인사] 우주항공청]]></title>
-        <id>https://v.daum.net/v/20240801113107067</id>
-        <link href="https://v.daum.net/v/20240801113107067"/>
-        <updated>2024-08-01T02:40:32.678Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">11:31</span>]]></content>
     </entry>
 </feed>
