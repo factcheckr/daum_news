@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-08-01T08:21:49.927Z</updated>
+    <updated>2024-08-01T09:17:34.729Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘제2회 광양시 발달장애인 자기권리 주장대회’ 개최]]></title>
+        <id>https://v.daum.net/v/20240801173705417</id>
+        <link href="https://v.daum.net/v/20240801173705417"/>
+        <updated>2024-08-01T09:17:26.133Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:37</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수원도시재단-가든버런티어, 고등동·매산동 취약계층 위한 사랑의 반찬 나눔]]></title>
+        <id>https://v.daum.net/v/20240801173703412</id>
+        <link href="https://v.daum.net/v/20240801173703412"/>
+        <updated>2024-08-01T09:17:26.133Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:37</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[건국대 박훈철 교수, 장수풍뎅이 날갯짓 모방한 비행 로봇 개발]]></title>
         <id>https://v.daum.net/v/20240801171702599</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240801164309434"/>
         <updated>2024-08-01T08:21:41.428Z</updated>
         <content type="html"><![CDATA[쿠키뉴스<span class="txt_bar"> · </span><span class="info_time">16:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부산진구, 혹서기 옥외사업장 수시 점검 실시]]></title>
-        <id>https://v.daum.net/v/20240801164220393</id>
-        <link href="https://v.daum.net/v/20240801164220393"/>
-        <updated>2024-08-01T08:21:41.429Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장성군, 2년 연속 매니페스토 경진대회 '우수상' 수상]]></title>
-        <id>https://v.daum.net/v/20240801164102346</id>
-        <link href="https://v.daum.net/v/20240801164102346"/>
-        <updated>2024-08-01T08:21:41.431Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:41</span>]]></content>
     </entry>
 </feed>
