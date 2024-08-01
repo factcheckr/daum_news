@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-08-01T12:32:48.171Z</updated>
+    <updated>2024-08-01T13:20:58.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노화에 적응하는 유연함에 대하여 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20240801220021843</id>
+        <link href="https://v.daum.net/v/20240801220021843"/>
+        <updated>2024-08-01T13:20:41.553Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 8월 2일[김용민의 그림마당]]]></title>
         <id>https://v.daum.net/v/20240801210708845</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240801201437743</id>
         <link href="https://v.daum.net/v/20240801201437743"/>
         <updated>2024-08-01T11:16:50.130Z</updated>
-        <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">20:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 낮엔 폭염 밤엔 열대야, 취약계층 관리 빈틈 없어야]]></title>
-        <id>https://v.daum.net/v/20240801201434742</id>
-        <link href="https://v.daum.net/v/20240801201434742"/>
-        <updated>2024-08-01T11:16:50.132Z</updated>
         <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">20:14</span>]]></content>
     </entry>
 </feed>
