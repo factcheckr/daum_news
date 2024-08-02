@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-08-02T20:18:41.167Z</updated>
+    <updated>2024-08-02T21:17:24.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우주의 시간 [ESC]]]></title>
+        <id>https://v.daum.net/v/20240803060502910</id>
+        <link href="https://v.daum.net/v/20240803060502910"/>
+        <updated>2024-08-02T21:17:03.109Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">06:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[데스크 칼럼] ‘무법 지대’ 방치하는 국회]]></title>
+        <id>https://v.daum.net/v/20240803060117819</id>
+        <link href="https://v.daum.net/v/20240803060117819"/>
+        <updated>2024-08-02T21:17:03.112Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">06:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[설왕설래] 일상으로 다가온 일본 노래]]></title>
+        <id>https://v.daum.net/v/20240803055717713</id>
+        <link href="https://v.daum.net/v/20240803055717713"/>
+        <updated>2024-08-02T21:17:03.116Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">05:57</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[홍성걸의 정치나침반] 지긋지긋한 국회]]></title>
+        <id>https://v.daum.net/v/20240803053020476</id>
+        <link href="https://v.daum.net/v/20240803053020476"/>
+        <updated>2024-08-02T21:17:03.119Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[젠더살롱] 성평등 올림픽 단상]]></title>
         <id>https://v.daum.net/v/20240803043025953</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20240803003417654"/>
         <updated>2024-08-02T16:20:49.219Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[천자칼럼] 기내식 라면의 민폐]]></title>
-        <id>https://v.daum.net/v/20240803003402647</id>
-        <link href="https://v.daum.net/v/20240803003402647"/>
-        <updated>2024-08-02T16:20:49.222Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 취임 이틀 만에 탄핵… 野 명분없는 폭주]]></title>
-        <id>https://v.daum.net/v/20240803003315636</id>
-        <link href="https://v.daum.net/v/20240803003315636"/>
-        <updated>2024-08-02T16:20:49.223Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:33</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베네수엘라 국민의 對마두로 메시지]]></title>
-        <id>https://v.daum.net/v/20240803003201621</id>
-        <link href="https://v.daum.net/v/20240803003201621"/>
-        <updated>2024-08-02T16:20:49.225Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[취재수첩] '기적의 비만약' 기약 없는 한국의 현주소]]></title>
-        <id>https://v.daum.net/v/20240803003102610</id>
-        <link href="https://v.daum.net/v/20240803003102610"/>
-        <updated>2024-08-02T16:20:49.227Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:31</span>]]></content>
     </entry>
 </feed>
