@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-08-02T17:16:40.549Z</updated>
+    <updated>2024-08-02T18:23:21.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[송길원 목사의 고백록] 로스형과 환담]]></title>
+        <id>https://v.daum.net/v/20240803030908434</id>
+        <link href="https://v.daum.net/v/20240803030908434"/>
+        <updated>2024-08-02T18:23:02.167Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">03:09</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[내 인생의 나침반이 된 성경말씀] 교회의 존재 의미 깨닫게 해준 고마운 권사님]]></title>
+        <id>https://v.daum.net/v/20240803030405383</id>
+        <link href="https://v.daum.net/v/20240803030405383"/>
+        <updated>2024-08-02T18:23:02.167Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">03:04</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[한마당] 김예지 신드롬]]></title>
         <id>https://v.daum.net/v/20240803004215776</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240803002902572"/>
         <updated>2024-08-02T16:20:49.229Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:29</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 요직마다 공석인 우주청, 이래서 5대 강국으로 날겠나]]></title>
-        <id>https://v.daum.net/v/20240803002801566</id>
-        <link href="https://v.daum.net/v/20240803002801566"/>
-        <updated>2024-08-02T16:20:49.231Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:28</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[아르떼 칼럼] 비극 멈추려면 더 많이 말해야]]></title>
-        <id>https://v.daum.net/v/20240803002701556</id>
-        <link href="https://v.daum.net/v/20240803002701556"/>
-        <updated>2024-08-02T16:20:49.232Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:27</span>]]></content>
     </entry>
 </feed>
