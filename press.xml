@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-08-02T09:19:28.527Z</updated>
+    <updated>2024-08-02T10:18:47.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[킨더네트워크, 알파세대의 생존을 위한 경제 교육 프로그램 ‘킨더에셋’ 출시]]></title>
+        <id>https://v.daum.net/v/20240802183703229</id>
+        <link href="https://v.daum.net/v/20240802183703229"/>
+        <updated>2024-08-02T10:18:39.809Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">18:37</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[킨더네트워크, 신개념 유아 미술 프로그램 ‘오브젤리’ 출시]]></title>
         <id>https://v.daum.net/v/20240802173703316</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240802163151998"/>
         <updated>2024-08-02T08:22:48.589Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강릉 옥계항 통해 강원 4개 시군 생산품 몽골 수출 첫 선적]]></title>
-        <id>https://v.daum.net/v/20240802163055958</id>
-        <link href="https://v.daum.net/v/20240802163055958"/>
-        <updated>2024-08-02T08:22:48.590Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:30</span>]]></content>
     </entry>
 </feed>
