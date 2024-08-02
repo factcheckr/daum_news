@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-08-02T03:20:49.066Z</updated>
+    <updated>2024-08-02T04:22:02.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘고객 경험을 최우선으로’ MSI, 노트북 사업 20주년 맞아 자사 저력 소개]]></title>
+        <id>https://v.daum.net/v/20240802131704365</id>
+        <link href="https://v.daum.net/v/20240802131704365"/>
+        <updated>2024-08-02T04:21:52.204Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">13:17</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국청소년연맹 ‘2024 국제청소년캠페스트’ 1박 2일간의 일정 성료]]></title>
+        <id>https://v.daum.net/v/20240802130704208</id>
+        <link href="https://v.daum.net/v/20240802130704208"/>
+        <updated>2024-08-02T04:21:52.206Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">13:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[버티브, 아시아 지역의 분산형 IT 네트워크 및 엣지 컴퓨팅 위한 단상 UPS 포트폴리오 확장]]></title>
         <id>https://v.daum.net/v/20240802114703732</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240802111715329"/>
         <updated>2024-08-02T03:20:40.483Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NielsenIQ and JD Worldwide Jointly Release the 2024 White Paper on China Cross-Border Import Consumption Trends]]></title>
-        <id>https://v.daum.net/v/20240802111704323</id>
-        <link href="https://v.daum.net/v/20240802111704323"/>
-        <updated>2024-08-02T03:20:40.484Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">11:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[닐슨IQ-JD 월드와이드, 2024년 중국 해외직구 소비 트렌드 백서 공동 발간]]></title>
-        <id>https://v.daum.net/v/20240802111703322</id>
-        <link href="https://v.daum.net/v/20240802111703322"/>
-        <updated>2024-08-02T03:20:40.485Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">11:17</span>]]></content>
     </entry>
 </feed>
