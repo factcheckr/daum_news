@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-08-03T09:18:38.721Z</updated>
+    <updated>2024-08-03T10:18:35.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA["애플 제품 안살 것"…태국서 불매 여론 나오자 애플 광고 내렸다]]></title>
+        <title type="html"><![CDATA[유명 BJ 3억원 벌고도…“세금 0원” 결국 터질게 터졌다]]></title>
+        <id>https://v.daum.net/v/20240803185032776</id>
+        <link href="https://v.daum.net/v/20240803185032776"/>
+        <updated>2024-08-03T10:18:11.788Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">18:50</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["우리 나라 무시한 애플, 사지 말자"…불매 여론 폭주하더니]]></title>
         <id>https://v.daum.net/v/20240803180702263</id>
         <link href="https://v.daum.net/v/20240803180702263"/>
         <updated>2024-08-03T09:18:14.143Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240803152400329"/>
         <updated>2024-08-03T07:18:29.891Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">15:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[법원, 티몬·위메프 자율구조조정 승인…회생 절차 보류]]></title>
-        <id>https://v.daum.net/v/20240803151852302</id>
-        <link href="https://v.daum.net/v/20240803151852302"/>
-        <updated>2024-08-03T06:23:04.415Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">15:18</span>]]></content>
     </entry>
 </feed>
