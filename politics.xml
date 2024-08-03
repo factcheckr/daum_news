@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2024-08-03T17:15:21.967Z</updated>
+    <updated>2024-08-03T18:22:22.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[노란봉투법 필리버스터 종료...8월 국회 '도돌이표' 우려]]></title>
+        <id>https://v.daum.net/v/20240804024006515</id>
+        <link href="https://v.daum.net/v/20240804024006515"/>
+        <updated>2024-08-03T18:21:07.207Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">02:40</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이재명, 전북 경선도 압승...'명심' 김민석 최고위원 누적 1위]]></title>
         <id>https://v.daum.net/v/20240804020717437</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240804000511430"/>
         <updated>2024-08-03T15:16:04.862Z</updated>
         <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노란봉투법 필리버스터 31시간만에 종료…5일 본회의 표결]]></title>
-        <id>https://v.daum.net/v/20240804000402422</id>
-        <link href="https://v.daum.net/v/20240804000402422"/>
-        <updated>2024-08-03T15:16:04.864Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
     </entry>
 </feed>
