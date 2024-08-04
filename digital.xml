@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-08-04T19:14:24.037Z</updated>
+    <updated>2024-08-04T20:18:34.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["상상대로 구현되는 AI시대…규제완화·데이터 개방 필요"]]></title>
+        <id>https://v.daum.net/v/20240805050003309</id>
+        <link href="https://v.daum.net/v/20240805050003309"/>
+        <updated>2024-08-04T20:18:10.160Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">05:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[USA NASA SPACE PROGRAMS]]></title>
         <id>https://v.daum.net/v/20240805005856923</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240805003044599"/>
         <updated>2024-08-04T16:20:50.459Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 거품론 와중에…황이 뽐낸 ‘괴물칩’ 결함]]></title>
-        <id>https://v.daum.net/v/20240805000358135</id>
-        <link href="https://v.daum.net/v/20240805000358135"/>
-        <updated>2024-08-04T15:18:33.783Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
     </entry>
 </feed>
