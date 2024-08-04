@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2024-08-04T18:21:46.256Z</updated>
+    <updated>2024-08-04T19:14:24.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국방부, '실미도 사건' 첫 사과...암매장 유해발굴도]]></title>
+        <id>https://v.daum.net/v/20240805033909832</id>
+        <link href="https://v.daum.net/v/20240805033909832"/>
+        <updated>2024-08-04T19:13:22.889Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">03:39</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘실미도 사건’ 53년만에 국방장관 첫 사과한다]]></title>
         <id>https://v.daum.net/v/20240805030126714</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240805011507093"/>
         <updated>2024-08-04T16:20:07.616Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">01:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘이재명 변호사’ 양부남, ‘찐명 대결’ 광주시당위원장 당선]]></title>
-        <id>https://v.daum.net/v/20240805011417082</id>
-        <link href="https://v.daum.net/v/20240805011417082"/>
-        <updated>2024-08-04T16:20:07.618Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">01:14</span>]]></content>
     </entry>
 </feed>
