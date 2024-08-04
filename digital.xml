@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-08-04T13:20:11.449Z</updated>
+    <updated>2024-08-04T14:16:26.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[차트분석 도구 ‘트레이딩뷰’ 파고들기 - 22]]></title>
+        <id>https://v.daum.net/v/20240804224800021</id>
+        <link href="https://v.daum.net/v/20240804224800021"/>
+        <updated>2024-08-04T14:16:00.573Z</updated>
+        <content type="html"><![CDATA[IT동아<span class="txt_bar"> · </span><span class="info_time">22:48</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“10억까지 벌었다” 월급 받는 족족 코인 ‘올인’…인생건 베팅하더니]]></title>
         <id>https://v.daum.net/v/20240804214136042</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240804183035604"/>
         <updated>2024-08-04T10:17:03.465Z</updated>
         <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">18:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“송가인 공항 신발·캐리어 맘에 든다, 근데 어디서 사?”…구글이 신속히 알려준다는데]]></title>
-        <id>https://v.daum.net/v/20240804183000595</id>
-        <link href="https://v.daum.net/v/20240804183000595"/>
-        <updated>2024-08-04T10:17:03.468Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">18:30</span>]]></content>
     </entry>
 </feed>
