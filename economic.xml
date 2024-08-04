@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2024-08-04T16:21:12.968Z</updated>
+    <updated>2024-08-04T17:16:47.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최악 악재 만난 전기차 시장… 3·4분기 신차 효과 타격]]></title>
+        <id>https://v.daum.net/v/20240805015707433</id>
+        <link href="https://v.daum.net/v/20240805015707433"/>
+        <updated>2024-08-04T17:15:41.351Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">01:57</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[환전 안 해도, 카드 없어도 OK… QR 결제로 초간단 해외여행 [마이머니]]]></title>
         <id>https://v.daum.net/v/20240805010144954</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240805003124611</id>
         <link href="https://v.daum.net/v/20240805003124611"/>
         <updated>2024-08-04T16:20:15.302Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그룹 구조 개편 반발에… 두산 3社, 주주 설득 나섰다]]></title>
-        <id>https://v.daum.net/v/20240805003117610</id>
-        <link href="https://v.daum.net/v/20240805003117610"/>
-        <updated>2024-08-04T16:20:15.304Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:31</span>]]></content>
     </entry>
 </feed>
