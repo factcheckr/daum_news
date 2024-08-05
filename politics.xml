@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2024-08-05T18:24:43.591Z</updated>
+    <updated>2024-08-05T19:17:30.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[민주, '인천 전기차 화재' 특별재난지역 선포 건의]]></title>
+        <id>https://v.daum.net/v/20240806032416769</id>
+        <link href="https://v.daum.net/v/20240806032416769"/>
+        <updated>2024-08-05T19:16:11.436Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">03:24</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독]내주 광복절 특사에 ‘김경수 복권’ 제외 가닥]]></title>
         <id>https://v.daum.net/v/20240806030141551</id>
@@ -20,7 +27,7 @@
         <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">03:01</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[예금자보호법-공공주택특별법-K칩스법…민생법안 일몰 눈앞인데, 여야 논의 ‘0’]]></title>
+        <title type="html"><![CDATA[예금자보호법-공공주택특별법-K칩스법… 민생법안 일몰 눈앞인데, 여야 논의 ‘0’]]></title>
         <id>https://v.daum.net/v/20240806030133546</id>
         <link href="https://v.daum.net/v/20240806030133546"/>
         <updated>2024-08-05T18:23:26.359Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240806011447059"/>
         <updated>2024-08-05T16:20:22.278Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">01:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여연 원장만 보류 주요당직 ‘친한계’ 포진… 한동훈, 탕평 아닌 친정체제 구축]]></title>
-        <id>https://v.daum.net/v/20240806011408058</id>
-        <link href="https://v.daum.net/v/20240806011408058"/>
-        <updated>2024-08-05T16:20:22.279Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">01:14</span>]]></content>
     </entry>
 </feed>

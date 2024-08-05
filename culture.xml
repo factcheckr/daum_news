@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2024-08-05T18:24:43.586Z</updated>
+    <updated>2024-08-05T19:17:30.860Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[갑자기 얼굴에 생긴 점, 가볍게 넘겼다가는 '아찔']]></title>
+        <id>https://v.daum.net/v/20240806040933990</id>
+        <link href="https://v.daum.net/v/20240806040933990"/>
+        <updated>2024-08-05T19:16:38.797Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">04:09</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방심위, 청소년 대상 ‘도박 온라인 정보’ 중점 모니터링]]></title>
         <id>https://v.daum.net/v/20240806030258603</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240806014324194"/>
         <updated>2024-08-05T17:16:12.015Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">01:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 운세] 8월 6일 화요일 (음력 7월 3일 /壬寅) 띠별 / 생년월일 운세]]></title>
-        <id>https://v.daum.net/v/20240806010110975</id>
-        <link href="https://v.daum.net/v/20240806010110975"/>
-        <updated>2024-08-05T16:20:45.068Z</updated>
-        <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">01:01</span>]]></content>
     </entry>
 </feed>
