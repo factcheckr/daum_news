@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-08-05T10:18:57.024Z</updated>
+    <updated>2024-08-05T11:16:07.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 포춘, 2024 포춘 글로벌 500 발표]]></title>
+        <id>https://v.daum.net/v/20240805194716694</id>
+        <link href="https://v.daum.net/v/20240805194716694"/>
+        <updated>2024-08-05T11:15:59.604Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">19:47</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[동덕여대 시니어모델 정명주씨, ‘2024 더룩오브더이어 코리아’ 대상 수상]]></title>
         <id>https://v.daum.net/v/20240805175850923</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240805165545607"/>
         <updated>2024-08-05T08:22:32.016Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:55</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이정선 광주교육감 "초등 돌봄교실 방학 중 무상 중식 차질없이 지원"]]></title>
-        <id>https://v.daum.net/v/20240805165348543</id>
-        <link href="https://v.daum.net/v/20240805165348543"/>
-        <updated>2024-08-05T08:22:32.017Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:53</span>]]></content>
     </entry>
 </feed>
