@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-08-06T04:21:46.621Z</updated>
+    <updated>2024-08-06T05:17:42.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국의 슬픈 현실, 65세 이상 214만명 “혼자 산다”…이젠 식물도 가족이 되는 시대 [필동정담]]]></title>
+        <id>https://v.daum.net/v/20240806140003322</id>
+        <link href="https://v.daum.net/v/20240806140003322"/>
+        <updated>2024-08-06T05:17:27.673Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[데일리안 시사만평] '미국발 경기침체 공포'에 '아시아 증시 폭락']]></title>
+        <id>https://v.daum.net/v/20240806135642213</id>
+        <link href="https://v.daum.net/v/20240806135642213"/>
+        <updated>2024-08-06T05:17:27.674Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">13:56</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[변방 장수의 건곤일척 승부수 은행을 살리다 [내 인생의 오브제]]]></title>
         <id>https://v.daum.net/v/20240806114502543</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240806093810169"/>
         <updated>2024-08-06T01:12:09.840Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">09:38</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정쟁의 전리품된 공영방송 [핫이슈]]]></title>
-        <id>https://v.daum.net/v/20240806093300931</id>
-        <link href="https://v.daum.net/v/20240806093300931"/>
-        <updated>2024-08-06T01:12:09.841Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">09:33</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[초동시각]한동훈·이재명, 지옥같은 정치의 해법을 찾아야 한다]]></title>
-        <id>https://v.daum.net/v/20240806093230910</id>
-        <link href="https://v.daum.net/v/20240806093230910"/>
-        <updated>2024-08-06T01:12:09.842Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">09:32</span>]]></content>
     </entry>
 </feed>
