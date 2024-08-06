@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-08-06T16:23:05.044Z</updated>
+    <updated>2024-08-06T17:17:32.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]21세기 기업의 부는 '본질'에서 나온다]]></title>
+        <id>https://v.daum.net/v/20240807020504129</id>
+        <link href="https://v.daum.net/v/20240807020504129"/>
+        <updated>2024-08-06T17:17:16.488Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]'인적자본 공시 제도화'가 필요하다]]></title>
+        <id>https://v.daum.net/v/20240807020502127</id>
+        <link href="https://v.daum.net/v/20240807020502127"/>
+        <updated>2024-08-06T17:17:16.490Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[전석운 칼럼] 제2부속실을 복원한다고, 이제 와서?]]></title>
         <id>https://v.daum.net/v/20240807005530740</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240807002925461"/>
         <updated>2024-08-06T16:22:47.497Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:29</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김승현의 시시각각] ‘갈등 금메달’, 보수 vs 진보]]></title>
-        <id>https://v.daum.net/v/20240807002726443</id>
-        <link href="https://v.daum.net/v/20240807002726443"/>
-        <updated>2024-08-06T16:22:47.497Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 정보는 유출, 사령관·여단장은 고소전, 여기도 ‘군대’라니]]></title>
-        <id>https://v.daum.net/v/20240807002517421</id>
-        <link href="https://v.daum.net/v/20240807002517421"/>
-        <updated>2024-08-06T16:22:47.497Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:25</span>]]></content>
     </entry>
 </feed>
