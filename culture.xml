@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2024-08-06T18:24:23.396Z</updated>
+    <updated>2024-08-06T19:14:52.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[천주교순교자박물관, 정미연 작가 초대전…'무명순교자를 위한 진혼곡']]></title>
+        <id>https://v.daum.net/v/20240807040013610</id>
+        <link href="https://v.daum.net/v/20240807040013610"/>
+        <updated>2024-08-06T19:13:54.461Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세계 미술 거장들 서울로… 9월 갤러리 더 뜨거워진다]]></title>
         <id>https://v.daum.net/v/20240807030220371</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240807014330014"/>
         <updated>2024-08-06T17:16:38.940Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">01:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 운세] 8월 7일 수요일 (음력 7월 4일 /癸卯) 띠별 / 생년월일 운세]]></title>
-        <id>https://v.daum.net/v/20240807010131780</id>
-        <link href="https://v.daum.net/v/20240807010131780"/>
-        <updated>2024-08-06T16:22:10.592Z</updated>
-        <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">01:01</span>]]></content>
     </entry>
 </feed>
