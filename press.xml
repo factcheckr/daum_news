@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-08-07T03:20:15.282Z</updated>
+    <updated>2024-08-07T04:22:32.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[옵티멈윈도우필름, 파카룬과 협력해 ‘옵티멈트레이닝센터’ 8월 오픈]]></title>
+        <id>https://v.daum.net/v/20240807130704866</id>
+        <link href="https://v.daum.net/v/20240807130704866"/>
+        <updated>2024-08-07T04:22:18.376Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">13:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 비나밀크, 2024 세계 낙농회의에서 혁신 및 지속 가능성 전략 공유]]></title>
+        <id>https://v.daum.net/v/20240807130420798</id>
+        <link href="https://v.daum.net/v/20240807130420798"/>
+        <updated>2024-08-07T04:22:18.376Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">13:04</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Exyte Selects LTIMindtree as its Global IT Service Provider]]></title>
         <id>https://v.daum.net/v/20240807120705927</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240807112534544"/>
         <updated>2024-08-07T03:20:06.964Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하나은행, '연금 더드림 라운지 분당' 오픈]]></title>
-        <id>https://v.daum.net/v/20240807111937270</id>
-        <link href="https://v.daum.net/v/20240807111937270"/>
-        <updated>2024-08-07T03:20:06.965Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:19</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KT＆G, 장애예술인 기획전 '제7회 오버 더 레인보우' 개최]]></title>
-        <id>https://v.daum.net/v/20240807111839241</id>
-        <link href="https://v.daum.net/v/20240807111839241"/>
-        <updated>2024-08-07T03:20:06.967Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:18</span>]]></content>
     </entry>
 </feed>
