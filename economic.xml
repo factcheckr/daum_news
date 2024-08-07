@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2024-08-07T16:21:40.021Z</updated>
+    <updated>2024-08-07T17:18:12.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[경기침체 판단 '삼법칙' 개발자 "연준 긴급인하 불필요"]]></title>
+        <id>https://v.daum.net/v/20240808014054370</id>
+        <link href="https://v.daum.net/v/20240808014054370"/>
+        <updated>2024-08-07T17:16:59.198Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">01:40</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[올 상반기 자연 재해로 전 세계 경제손실 165조원 달해]]></title>
+        <id>https://v.daum.net/v/20240808013703349</id>
+        <link href="https://v.daum.net/v/20240808013703349"/>
+        <updated>2024-08-07T17:16:59.198Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">01:37</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SKT, 자율주행 로봇 기술 실증 성공]]></title>
+        <id>https://v.daum.net/v/20240808012837299</id>
+        <link href="https://v.daum.net/v/20240808012837299"/>
+        <updated>2024-08-07T17:16:59.198Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:28</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[포토] 올림픽 출장 마친 이재용·정의선]]></title>
+        <id>https://v.daum.net/v/20240808012610279</id>
+        <link href="https://v.daum.net/v/20240808012610279"/>
+        <updated>2024-08-07T17:16:59.198Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">01:26</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“휴가 떠나기 전 무료 보안 점검 받으세요”]]></title>
         <id>https://v.daum.net/v/20240808010531179</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20240808005017069"/>
         <updated>2024-08-07T16:20:31.758Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기업] 11번가, 정산주기 앞당긴다...배송 다음날 70% 지급]]></title>
-        <id>https://v.daum.net/v/20240808004610053</id>
-        <link href="https://v.daum.net/v/20240808004610053"/>
-        <updated>2024-08-07T16:20:31.760Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:46</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현대차 386억 투입… 태국에 전기차 공장]]></title>
-        <id>https://v.daum.net/v/20240808004604050</id>
-        <link href="https://v.daum.net/v/20240808004604050"/>
-        <updated>2024-08-07T16:20:31.762Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:46</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기업 브리핑] 아시아나 화물, 에어인천에 4700억원 매각]]></title>
-        <id>https://v.daum.net/v/20240808004604049</id>
-        <link href="https://v.daum.net/v/20240808004604049"/>
-        <updated>2024-08-07T16:20:31.764Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:46</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아쉬운 롯데·신세계]]></title>
-        <id>https://v.daum.net/v/20240808004540043</id>
-        <link href="https://v.daum.net/v/20240808004540043"/>
-        <updated>2024-08-07T16:20:31.766Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:45</span>]]></content>
     </entry>
 </feed>

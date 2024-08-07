@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2024-08-07T16:21:40.016Z</updated>
+    <updated>2024-08-07T17:18:12.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[데일리 헬스] 이렇게 먹으면 ‘독’ 될 수도…여름 제철 복숭아, 어떤 효능이?]]></title>
+        <id>https://v.daum.net/v/20240808021408585</id>
+        <link href="https://v.daum.net/v/20240808021408585"/>
+        <updated>2024-08-07T17:17:16.740Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">02:14</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빅히트, 슈가 CCTV 공개되자 추가 입장 "사안 축소 의도 전혀 없어"]]></title>
+        <id>https://v.daum.net/v/20240808014802392</id>
+        <link href="https://v.daum.net/v/20240808014802392"/>
+        <updated>2024-08-07T17:17:16.742Z</updated>
+        <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">01:48</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오늘의 운세] 8월 8일 목요일 (음력 7월 5일 /甲辰) 띠별 / 생년월일 운세]]></title>
         <id>https://v.daum.net/v/20240808010115142</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240808000203428"/>
         <updated>2024-08-07T15:17:55.415Z</updated>
         <content type="html"><![CDATA[bnt뉴스<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쏠퀴즈 정답 8월 8일]]></title>
-        <id>https://v.daum.net/v/20240808000202426</id>
-        <link href="https://v.daum.net/v/20240808000202426"/>
-        <updated>2024-08-07T15:17:55.415Z</updated>
-        <content type="html"><![CDATA[bnt뉴스<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 운세] 8월 8일]]></title>
-        <id>https://v.daum.net/v/20240808000201424</id>
-        <link href="https://v.daum.net/v/20240808000201424"/>
-        <updated>2024-08-07T15:17:55.415Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
     </entry>
 </feed>

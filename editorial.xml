@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-08-07T16:21:40.013Z</updated>
+    <updated>2024-08-07T17:18:12.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]상사의 빨간펜은 직장 내 괴롭힘이 될 수 있을까]]></title>
+        <id>https://v.daum.net/v/20240808020304516</id>
+        <link href="https://v.daum.net/v/20240808020304516"/>
+        <updated>2024-08-07T17:17:54.573Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]세계경제의 정치적 트릴레마]]></title>
+        <id>https://v.daum.net/v/20240808020301515</id>
+        <link href="https://v.daum.net/v/20240808020301515"/>
+        <updated>2024-08-07T17:17:54.578Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[한마당] 한글 유니폼]]></title>
         <id>https://v.daum.net/v/20240808004210008</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240808003018853"/>
         <updated>2024-08-07T16:21:22.047Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시론] 남녀 선수 성별 논란과 스포츠 공정성]]></title>
-        <id>https://v.daum.net/v/20240808002819835</id>
-        <link href="https://v.daum.net/v/20240808002819835"/>
-        <updated>2024-08-07T16:21:22.048Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:28</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 정쟁서 독립된 ‘여야정 협의체’로 민생 법안만 전담하길]]></title>
-        <id>https://v.daum.net/v/20240808002815834</id>
-        <link href="https://v.daum.net/v/20240808002815834"/>
-        <updated>2024-08-07T16:21:22.050Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:28</span>]]></content>
     </entry>
 </feed>
