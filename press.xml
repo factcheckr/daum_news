@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-08-07T11:14:59.201Z</updated>
+    <updated>2024-08-07T12:38:07.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 'Made in Chengdu' becoming an international hallmark]]></title>
+        <id>https://v.daum.net/v/20240807202249306</id>
+        <link href="https://v.daum.net/v/20240807202249306"/>
+        <updated>2024-08-07T12:37:59.348Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:22</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Upcoming EBS-aired Meta Animation IP ‘Aeko and Friends’ Launches Local Game Jam with 50,000 SAND in Rewards]]></title>
         <id>https://v.daum.net/v/20240807182711478</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240807164640194"/>
         <updated>2024-08-07T08:23:12.301Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:46</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정남진 장흥물축제 별빛달빛 청년 부스 '유종의 미']]></title>
-        <id>https://v.daum.net/v/20240807164123927</id>
-        <link href="https://v.daum.net/v/20240807164123927"/>
-        <updated>2024-08-07T08:23:12.301Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:41</span>]]></content>
     </entry>
 </feed>
