@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-08-07T13:22:06.823Z</updated>
+    <updated>2024-08-07T14:16:40.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소드 오브 콘발라리아 "고전 SRPG의 현대적 해석"]]></title>
+        <id>https://v.daum.net/v/20240807230736814</id>
+        <link href="https://v.daum.net/v/20240807230736814"/>
+        <updated>2024-08-07T14:16:18.012Z</updated>
+        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">23:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[캐릭터 스토리만 들어도 매력적인 '카잔']]></title>
+        <id>https://v.daum.net/v/20240807224513553</id>
+        <link href="https://v.daum.net/v/20240807224513553"/>
+        <updated>2024-08-07T14:16:18.013Z</updated>
+        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">22:45</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[월성 1·3호기 예비 발전기 기동 원인 조사]]></title>
         <id>https://v.daum.net/v/20240807220147012</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240807203525560"/>
         <updated>2024-08-07T12:37:43.711Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PG사들 "티메프 재결제 유도 여행사, 전자상거래법 위반 행위"]]></title>
-        <id>https://v.daum.net/v/20240807202852430</id>
-        <link href="https://v.daum.net/v/20240807202852430"/>
-        <updated>2024-08-07T12:37:43.712Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">20:28</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[S&P, SK하이닉스 신용등급 'BBB'로 상향…"HBM 시장 선도"]]></title>
-        <id>https://v.daum.net/v/20240807202711398</id>
-        <link href="https://v.daum.net/v/20240807202711398"/>
-        <updated>2024-08-07T12:37:43.713Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">20:27</span>]]></content>
     </entry>
 </feed>
