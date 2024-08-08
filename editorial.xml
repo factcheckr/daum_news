@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-08-08T07:17:03.681Z</updated>
+    <updated>2024-08-08T08:21:56.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[트럼프도 올라탄 ‘이대남’ 현상 [코즈모폴리턴]]]></title>
+        <title type="html"><![CDATA[[인사] 국세청]]></title>
+        <id>https://v.daum.net/v/20240808171747410</id>
+        <link href="https://v.daum.net/v/20240808171747410"/>
+        <updated>2024-08-08T08:21:40.136Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">17:17</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[지평선] AI 미래, 세 갈래 가능성]]></title>
+        <id>https://v.daum.net/v/20240808163100610</id>
+        <link href="https://v.daum.net/v/20240808163100610"/>
+        <updated>2024-08-08T08:21:40.136Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">16:31</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트럼프와 만난 ‘이대남 갈라치기’ [코즈모폴리턴]]]></title>
         <id>https://v.daum.net/v/20240808161011762</id>
         <link href="https://v.daum.net/v/20240808161011762"/>
         <updated>2024-08-08T07:16:45.959Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240808132400702"/>
         <updated>2024-08-08T05:17:18.526Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">13:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데스크라인]AI 시대 '기술과 교육의 경주']]></title>
-        <id>https://v.daum.net/v/20240808131305443</id>
-        <link href="https://v.daum.net/v/20240808131305443"/>
-        <updated>2024-08-08T04:22:42.957Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">13:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데일리안 시사만평] '입추' 무색한 36도 폭염…더위도 탄핵감?]]></title>
-        <id>https://v.daum.net/v/20240808125912125</id>
-        <link href="https://v.daum.net/v/20240808125912125"/>
-        <updated>2024-08-08T04:22:42.958Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">12:59</span>]]></content>
     </entry>
 </feed>
