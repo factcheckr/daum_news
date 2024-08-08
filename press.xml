@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-08-08T11:17:09.045Z</updated>
+    <updated>2024-08-08T12:32:50.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Hou Zhihui Shatters Olympic Record]]></title>
+        <id>https://v.daum.net/v/20240808202505002</id>
+        <link href="https://v.daum.net/v/20240808202505002"/>
+        <updated>2024-08-08T12:32:41.953Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:25</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] 20명의 서머, 하나의 아부다비]]></title>
         <id>https://v.daum.net/v/20240808173715028</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240808164528189"/>
         <updated>2024-08-08T08:21:47.860Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] ETS, 2023 세계 토플 시험 성적 보고서 발간]]></title>
-        <id>https://v.daum.net/v/20240808163750875</id>
-        <link href="https://v.daum.net/v/20240808163750875"/>
-        <updated>2024-08-08T08:21:47.861Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:37</span>]]></content>
     </entry>
 </feed>
