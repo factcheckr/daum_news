@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2024-08-08T18:25:49.347Z</updated>
+    <updated>2024-08-08T19:15:05.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["100만원짜리 가방을 2만원에…" 놀라서 들어갔더니 '깜짝']]></title>
+        <id>https://v.daum.net/v/20240809040933887</id>
+        <link href="https://v.daum.net/v/20240809040933887"/>
+        <updated>2024-08-08T19:14:15.326Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">04:09</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[베스트셀러] 히가시노 게이고 '당신이 누군가를 죽였다' 2주 연속 1위]]></title>
+        <id>https://v.daum.net/v/20240809040016833</id>
+        <link href="https://v.daum.net/v/20240809040016833"/>
+        <updated>2024-08-08T19:14:15.329Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“올가을 경복궁서 궁중 다과 맛보세요”]]></title>
         <id>https://v.daum.net/v/20240809030229489</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240809004658766"/>
         <updated>2024-08-08T16:20:42.761Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">00:46</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대한제국때 주미공사관, 미국 국가 사적지 된다]]></title>
-        <id>https://v.daum.net/v/20240809003551646</id>
-        <link href="https://v.daum.net/v/20240809003551646"/>
-        <updated>2024-08-08T16:20:42.762Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[일사일언] 문맹에서 ‘컴맹’으로]]></title>
-        <id>https://v.daum.net/v/20240809003536643</id>
-        <link href="https://v.daum.net/v/20240809003536643"/>
-        <updated>2024-08-08T16:20:42.762Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:35</span>]]></content>
     </entry>
 </feed>

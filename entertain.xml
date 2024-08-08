@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2024-08-08T18:25:49.336Z</updated>
+    <updated>2024-08-08T19:15:05.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘낮밤녀’ 정은지 “각자의 속도 존중 받아 마땅”]]></title>
+        <id>https://v.daum.net/v/20240809040411868</id>
+        <link href="https://v.daum.net/v/20240809040411868"/>
+        <updated>2024-08-08T19:14:23.809Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:04</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[피프티 피프티 새 멤버 공개…'알유넥스트' 문샤넬·예원 포함 [엑's 이슈]]]></title>
+        <id>https://v.daum.net/v/20240809040002827</id>
+        <link href="https://v.daum.net/v/20240809040002827"/>
+        <updated>2024-08-08T19:14:23.810Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["새 선생님 만나고"…'파경' 박지윤, 이사·개학 후 子와 근황]]></title>
         <id>https://v.daum.net/v/20240809032002605</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240809004346733"/>
         <updated>2024-08-08T16:20:50.480Z</updated>
         <content type="html"><![CDATA[MBC연예<span class="txt_bar"> · </span><span class="info_time">00:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤가이 "인테리어 셀프로…빈티지 미드센추리 콘셉트"]]></title>
-        <id>https://v.daum.net/v/20240809004207719</id>
-        <link href="https://v.daum.net/v/20240809004207719"/>
-        <updated>2024-08-08T16:20:50.481Z</updated>
-        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">00:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘끝사랑’ 메인 예고편 공개! 선남선녀 시니어들의 끝사랑 찾기]]></title>
-        <id>https://v.daum.net/v/20240809004003684</id>
-        <link href="https://v.daum.net/v/20240809004003684"/>
-        <updated>2024-08-08T16:20:50.483Z</updated>
-        <content type="html"><![CDATA[bnt뉴스<span class="txt_bar"> · </span><span class="info_time">00:40</span>]]></content>
     </entry>
 </feed>
