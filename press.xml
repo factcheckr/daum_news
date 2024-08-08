@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-08-08T03:19:39.377Z</updated>
+    <updated>2024-08-08T04:22:59.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비에이티, 올해 2분기 연속 영업이익 흑자 달성… 신규 서비스 확장 박차]]></title>
+        <id>https://v.daum.net/v/20240808123708838</id>
+        <link href="https://v.daum.net/v/20240808123708838"/>
+        <updated>2024-08-08T04:22:51.060Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">12:37</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[셀리드, 유상증자 일반공모 7000억원 몰려 흥행 성공… 총경쟁률 212.8대 1 기록]]></title>
         <id>https://v.daum.net/v/20240808114706534</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240808112009397"/>
         <updated>2024-08-08T02:37:18.519Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캠핑장·체육관 등 공공시설 예약을 한 곳서…안산시, 통합예약시스템 도입]]></title>
-        <id>https://v.daum.net/v/20240808111805294</id>
-        <link href="https://v.daum.net/v/20240808111805294"/>
-        <updated>2024-08-08T02:37:18.520Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:18</span>]]></content>
     </entry>
 </feed>
