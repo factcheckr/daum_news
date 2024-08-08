@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2024-08-08T16:21:29.296Z</updated>
+    <updated>2024-08-08T17:17:50.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[카카오의 위기 돌파… 카톡·AI 남기고 비핵심 사업 정리한다]]></title>
+        <id>https://v.daum.net/v/20240809021411197</id>
+        <link href="https://v.daum.net/v/20240809021411197"/>
+        <updated>2024-08-08T17:16:43.502Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">02:14</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전기차에 어디 제품 썼나...'배터리 실명제' 검토]]></title>
+        <id>https://v.daum.net/v/20240809012225962</id>
+        <link href="https://v.daum.net/v/20240809012225962"/>
+        <updated>2024-08-08T17:16:43.504Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">01:22</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["남양주~잠실 27분 만에" 모레부터 별내선 운행 시작]]></title>
         <id>https://v.daum.net/v/20240809011510923</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240809004044701"/>
         <updated>2024-08-08T16:20:27.731Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기업] 농협 하나로마트 '한우 페스티벌'..."최대 40% 할인"]]></title>
-        <id>https://v.daum.net/v/20240809004022695</id>
-        <link href="https://v.daum.net/v/20240809004022695"/>
-        <updated>2024-08-08T16:20:27.732Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기업] 한수원, 경로당 540여 곳에 냉방비 1억 3천만 원 지원]]></title>
-        <id>https://v.daum.net/v/20240809004021694</id>
-        <link href="https://v.daum.net/v/20240809004021694"/>
-        <updated>2024-08-08T16:20:27.735Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:40</span>]]></content>
     </entry>
 </feed>
