@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-08-09T11:16:02.788Z</updated>
+    <updated>2024-08-09T12:32:39.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[갑작스런 관절통 ‘냉찜질’ 회복 후 ‘온찜질’ [Health]]]></title>
+        <id>https://v.daum.net/v/20240809210307946</id>
+        <link href="https://v.daum.net/v/20240809210307946"/>
+        <updated>2024-08-09T12:32:22.630Z</updated>
+        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">21:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[기자수첩] 쿠팡·네이버 쏠림이 걱정되는 이유]]></title>
         <id>https://v.daum.net/v/20240809182149048</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240809174205216</id>
         <link href="https://v.daum.net/v/20240809174205216"/>
         <updated>2024-08-09T09:21:30.163Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김세완의 주말경제산책] 노령화가 저축과 주택시장에 미치는 영향]]></title>
-        <id>https://v.daum.net/v/20240809174202212</id>
-        <link href="https://v.daum.net/v/20240809174202212"/>
-        <updated>2024-08-09T09:21:30.165Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:42</span>]]></content>
     </entry>
 </feed>
