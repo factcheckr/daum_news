@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-08-09T16:21:41.343Z</updated>
+    <updated>2024-08-09T17:18:01.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[토요칼럼] 인류를 먹여 살린 과학式 돌아보기]]></title>
+        <id>https://v.daum.net/v/20240810012502346</id>
+        <link href="https://v.daum.net/v/20240810012502346"/>
+        <updated>2024-08-09T17:17:44.445Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">01:25</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[천자칼럼] 난카이 대지진]]></title>
+        <id>https://v.daum.net/v/20240810012202329</id>
+        <link href="https://v.daum.net/v/20240810012202329"/>
+        <updated>2024-08-09T17:17:44.445Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">01:22</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카멀라 해리스의 재발견]]></title>
         <id>https://v.daum.net/v/20240810012101316</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240810003705003"/>
         <updated>2024-08-09T16:21:25.881Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 사고 터질 때마다 “별일 아니다”라는 軍, 정말인가]]></title>
-        <id>https://v.daum.net/v/20240810002015778</id>
-        <link href="https://v.daum.net/v/20240810002015778"/>
-        <updated>2024-08-09T15:21:01.274Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 한국도 외국대리인 등록법 제정과 간첩죄 개정 시급하다]]></title>
-        <id>https://v.daum.net/v/20240810001745749</id>
-        <link href="https://v.daum.net/v/20240810001745749"/>
-        <updated>2024-08-09T15:21:01.278Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:17</span>]]></content>
     </entry>
 </feed>
