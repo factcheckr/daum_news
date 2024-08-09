@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2024-08-09T17:18:01.729Z</updated>
+    <updated>2024-08-09T18:23:15.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["그린벨트 인근 땅 사겠다"…내곡·세곡·방이동 '들썩']]></title>
+        <id>https://v.daum.net/v/20240810031903781</id>
+        <link href="https://v.daum.net/v/20240810031903781"/>
+        <updated>2024-08-09T18:22:08.133Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">03:19</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["훼손 심한 땅 위주로 강남…그린벨트 풀어 신혼 전세자가 확대"]]></title>
+        <id>https://v.daum.net/v/20240810030501710</id>
+        <link href="https://v.daum.net/v/20240810030501710"/>
+        <updated>2024-08-09T18:22:08.134Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">03:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에어프레미아, 13일까지 24개 항공편 일정 변경 "연결 지연"]]></title>
         <id>https://v.daum.net/v/20240810021614658</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20240810010033199</id>
         <link href="https://v.daum.net/v/20240810010033199"/>
         <updated>2024-08-09T16:20:33.332Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">01:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[벤츠 “피해 주민들에 45억원 지원하겠다”]]></title>
-        <id>https://v.daum.net/v/20240810010031198</id>
-        <link href="https://v.daum.net/v/20240810010031198"/>
-        <updated>2024-08-09T16:20:33.333Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">01:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전기차 화재에 놀란 배터리 업계, ‘열폭주 방지’ 신기술에 사활]]></title>
-        <id>https://v.daum.net/v/20240810010027197</id>
-        <link href="https://v.daum.net/v/20240810010027197"/>
-        <updated>2024-08-09T16:20:33.333Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">01:00</span>]]></content>
     </entry>
 </feed>
