@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-08-09T20:19:29.806Z</updated>
+    <updated>2024-08-09T21:17:03.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[데스크 칼럼] 전 세계의 원전 회귀, 한국이 기회를 놓치지 않으려면]]></title>
+        <id>https://v.daum.net/v/20240810060038986</id>
+        <link href="https://v.daum.net/v/20240810060038986"/>
+        <updated>2024-08-09T21:16:45.767Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[이혁재의 칩 비하인드]벼랑 끝에 몰린 인텔]]></title>
+        <id>https://v.daum.net/v/20240810053021588</id>
+        <link href="https://v.daum.net/v/20240810053021588"/>
+        <updated>2024-08-09T21:16:45.770Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지휘자의 명쾌한 설득력 [休·味·樂(휴·미·락)]]]></title>
         <id>https://v.daum.net/v/20240810043013981</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20240810004209075</id>
         <link href="https://v.daum.net/v/20240810004209075"/>
         <updated>2024-08-09T16:21:25.873Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창] 그들을 가사관리사로 부를 때]]></title>
-        <id>https://v.daum.net/v/20240810004206074</id>
-        <link href="https://v.daum.net/v/20240810004206074"/>
-        <updated>2024-08-09T16:21:25.874Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[빛과 소금] 베네수엘라처럼 되지 말란 법 없다]]></title>
-        <id>https://v.daum.net/v/20240810004204073</id>
-        <link href="https://v.daum.net/v/20240810004204073"/>
-        <updated>2024-08-09T16:21:25.876Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:42</span>]]></content>
     </entry>
 </feed>
