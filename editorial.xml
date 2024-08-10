@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-08-10T01:13:42.288Z</updated>
+    <updated>2024-08-10T02:37:06.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[핵보유국 북한, “중국의, 중국에 의한, 중국을 위한” 항미(抗美)의 전초기지]]></title>
+        <id>https://v.daum.net/v/20240810110831460</id>
+        <link href="https://v.daum.net/v/20240810110831460"/>
+        <updated>2024-08-10T02:36:51.026Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">11:08</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쓴소리 곧은 소리] ‘전 국민 25만원법’, 예산 전액을 신규 국채로 조달해야]]></title>
         <id>https://v.daum.net/v/20240810100002742</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240810031018747"/>
         <updated>2024-08-09T18:22:59.581Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">03:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[토요칼럼] 인류를 먹여 살린 과학式 돌아보기]]></title>
-        <id>https://v.daum.net/v/20240810012502346</id>
-        <link href="https://v.daum.net/v/20240810012502346"/>
-        <updated>2024-08-09T17:17:44.445Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">01:25</span>]]></content>
     </entry>
 </feed>
