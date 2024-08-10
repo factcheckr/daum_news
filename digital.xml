@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-08-10T10:19:13.848Z</updated>
+    <updated>2024-08-10T11:14:46.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[에듀플러스]팀모노리스, '찾아가는 학교 컨설팅 선도운영' 시작]]></title>
+        <id>https://v.daum.net/v/20240810193904048</id>
+        <link href="https://v.daum.net/v/20240810193904048"/>
+        <updated>2024-08-10T11:14:19.572Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">19:39</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“시청률 1%, 올림픽 사라질 판” 전세계 역대급 추락…방송 ‘발칵’]]></title>
         <id>https://v.daum.net/v/20240810184042199</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240810164500907"/>
         <updated>2024-08-10T08:20:24.473Z</updated>
         <content type="html"><![CDATA[매경게임진<span class="txt_bar"> · </span><span class="info_time">16:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["2차 각성부터 신규 레이드까지" 던파 모바일 하반기 업데이트 로드맵 공개]]></title>
-        <id>https://v.daum.net/v/20240810163300817</id>
-        <link href="https://v.daum.net/v/20240810163300817"/>
-        <updated>2024-08-10T08:20:24.474Z</updated>
-        <content type="html"><![CDATA[게임동아<span class="txt_bar"> · </span><span class="info_time">16:33</span>]]></content>
     </entry>
 </feed>
