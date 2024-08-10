@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-08-10T02:37:06.869Z</updated>
+    <updated>2024-08-10T03:22:16.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["역대 최강 팀 코리아"…올림픽 최다 金 눈앞에 네카오 '함박웃음']]></title>
+        <id>https://v.daum.net/v/20240810120114967</id>
+        <link href="https://v.daum.net/v/20240810120114967"/>
+        <updated>2024-08-10T03:21:48.205Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">12:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[애플워치10, 전작에 비해 얼마나 바뀔까]]></title>
         <id>https://v.daum.net/v/20240810113022654</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240810092147361"/>
         <updated>2024-08-10T01:13:18.227Z</updated>
         <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">09:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설마했는데…“이건 진짜 일어날 수 있는 일” 섬뜩한 ‘경고’]]></title>
-        <id>https://v.daum.net/v/20240810091338252</id>
-        <link href="https://v.daum.net/v/20240810091338252"/>
-        <updated>2024-08-10T01:13:18.228Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">09:13</span>]]></content>
     </entry>
 </feed>
