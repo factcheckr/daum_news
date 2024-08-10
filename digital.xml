@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-08-10T13:18:56.791Z</updated>
+    <updated>2024-08-10T14:16:18.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우주청, 항우연 및 천문연 원장 공모 결정]]></title>
+        <id>https://v.daum.net/v/20240810224356165</id>
+        <link href="https://v.daum.net/v/20240810224356165"/>
+        <updated>2024-08-10T14:15:53.101Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">22:43</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KT, 유선전화 서울·충청 등서 한때 장애…10시간 만에 정상 복구]]></title>
+        <id>https://v.daum.net/v/20240810223033072</id>
+        <link href="https://v.daum.net/v/20240810223033072"/>
+        <updated>2024-08-10T14:15:53.104Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">22:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[파리 올림픽 시청률 처참하다는데…남몰래 웃는 '이곳' [김소연의 엔터비즈]]]></title>
         <id>https://v.daum.net/v/20240810220101786</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240810175856592"/>
         <updated>2024-08-10T09:17:48.999Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:58</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["AI가 국방력···군, 사업발주와 관리만 하면 안돼"]]></title>
-        <id>https://v.daum.net/v/20240810175831588</id>
-        <link href="https://v.daum.net/v/20240810175831588"/>
-        <updated>2024-08-10T09:17:49.000Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">17:58</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美실리콘밸리 공실률 34%인데, 韓판교는 고작 1.9%...비결은?]]></title>
-        <id>https://v.daum.net/v/20240810174903501</id>
-        <link href="https://v.daum.net/v/20240810174903501"/>
-        <updated>2024-08-10T09:17:49.001Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">17:49</span>]]></content>
     </entry>
 </feed>
