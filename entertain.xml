@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2024-08-11T16:20:35.251Z</updated>
+    <updated>2024-08-11T17:15:40.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘심야괴담회’ 김숙의 ‘창문없는 집’ “부모님이 올린 제사상에 내 얼굴이”]]></title>
+        <id>https://v.daum.net/v/20240812012825191</id>
+        <link href="https://v.daum.net/v/20240812012825191"/>
+        <updated>2024-08-11T17:15:01.986Z</updated>
+        <content type="html"><![CDATA[MBC연예<span class="txt_bar"> · </span><span class="info_time">01:28</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[과즙세연 "방시혁 안면인식장애 있어, 우연 만남 NO..언니와 아는 사이"[종합]]]></title>
         <id>https://v.daum.net/v/20240812011021159</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240812000838876"/>
         <updated>2024-08-11T15:17:36.917Z</updated>
         <content type="html"><![CDATA[스포츠한국<span class="txt_bar"> · </span><span class="info_time">00:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마이큐, ♥김나영과 첫만남 심정 "너무 예뻐 깜짝..장문의 문자 보내" [노필터] [종합]]]></title>
-        <id>https://v.daum.net/v/20240812000812874</id>
-        <link href="https://v.daum.net/v/20240812000812874"/>
-        <updated>2024-08-11T15:17:36.917Z</updated>
-        <content type="html"><![CDATA[스타뉴스<span class="txt_bar"> · </span><span class="info_time">00:08</span>]]></content>
     </entry>
 </feed>
