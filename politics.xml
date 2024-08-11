@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2024-08-11T18:23:50.827Z</updated>
+    <updated>2024-08-11T19:16:03.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[尹 "우리 선수들 국민에게 큰 감동...잊지 못할 것"]]></title>
+        <id>https://v.daum.net/v/20240812035513626</id>
+        <link href="https://v.daum.net/v/20240812035513626"/>
+        <updated>2024-08-11T19:14:43.183Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">03:55</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조국 딸 조민, 비공개 결혼…김어준‧유시민‧고민정 등 하객]]></title>
+        <id>https://v.daum.net/v/20240812034004575</id>
+        <link href="https://v.daum.net/v/20240812034004575"/>
+        <updated>2024-08-11T19:14:43.183Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">03:40</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대통령실 “대통령 권한, 與대표가 흔드나”… 韓측 “수차례 ‘반대’ 전달에도 마이동풍”]]></title>
         <id>https://v.daum.net/v/20240812030159364</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240812010306148"/>
         <updated>2024-08-11T16:19:27.185Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">01:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“김경수 복권 반대” 韓의 속내… 외연 확장·野 견제 다목적 포석]]></title>
-        <id>https://v.daum.net/v/20240812010228144</id>
-        <link href="https://v.daum.net/v/20240812010228144"/>
-        <updated>2024-08-11T16:19:27.185Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">01:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민주당, 오늘 광복절 경축식 행사 불참 여부 결정]]></title>
-        <id>https://v.daum.net/v/20240812010038127</id>
-        <link href="https://v.daum.net/v/20240812010038127"/>
-        <updated>2024-08-11T16:19:27.187Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">01:00</span>]]></content>
     </entry>
 </feed>
