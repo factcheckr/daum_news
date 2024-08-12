@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-08-12T12:34:58.172Z</updated>
+    <updated>2024-08-12T13:23:05.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[국민만평-서민호 화백] 2024년 8월 13일]]></title>
+        <id>https://v.daum.net/v/20240812220506215</id>
+        <link href="https://v.daum.net/v/20240812220506215"/>
+        <updated>2024-08-12T13:22:48.176Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">22:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[외로움의 시대, 브랜드 온기 높여라 [최순화 칼럼]]]></title>
         <id>https://v.daum.net/v/20240812210300594</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240812201412981"/>
         <updated>2024-08-12T11:16:27.117Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[생각그림]사랑의 공간]]></title>
-        <id>https://v.daum.net/v/20240812200355869</id>
-        <link href="https://v.daum.net/v/20240812200355869"/>
-        <updated>2024-08-12T11:16:27.117Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:03</span>]]></content>
     </entry>
 </feed>
