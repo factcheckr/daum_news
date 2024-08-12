@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-08-12T07:17:07.293Z</updated>
+    <updated>2024-08-12T08:26:02.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코오롱 "자회사 코오롱데크컴퍼지트 주식 700억원에 추가취득"]]></title>
+        <id>https://v.daum.net/v/20240812172437538</id>
+        <link href="https://v.daum.net/v/20240812172437538"/>
+        <updated>2024-08-12T08:26:02.102Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">17:24</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국고채 금리 대체로 하락…3년물 연 2.946%]]></title>
+        <id>https://v.daum.net/v/20240812164758217</id>
+        <link href="https://v.daum.net/v/20240812164758217"/>
+        <updated>2024-08-12T08:26:02.104Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">16:47</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['프레스티지바이오로직스' 52주 신고가 경신, 전일 외국인 대량 순매수]]></title>
         <id>https://v.daum.net/v/20240812144402026</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240812122039960"/>
         <updated>2024-08-12T04:21:11.812Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울 신정동 목동10단지 70㎡ 15억6500만원에 거래]]></title>
-        <id>https://v.daum.net/v/20240812121539900</id>
-        <link href="https://v.daum.net/v/20240812121539900"/>
-        <updated>2024-08-12T03:20:30.228Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울 목동 목동7단지 66㎡ 20억원에 거래]]></title>
-        <id>https://v.daum.net/v/20240812121043792</id>
-        <link href="https://v.daum.net/v/20240812121043792"/>
-        <updated>2024-08-12T03:20:30.233Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:10</span>]]></content>
     </entry>
 </feed>
