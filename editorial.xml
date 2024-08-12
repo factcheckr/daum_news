@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-08-12T22:17:34.462Z</updated>
+    <updated>2024-08-12T23:18:53.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[망조 든 국가의 이상한 세금 [똑똑! 한국사회]]]></title>
+        <id>https://v.daum.net/v/20240813080503318</id>
+        <link href="https://v.daum.net/v/20240813080503318"/>
+        <updated>2024-08-12T23:18:35.872Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">08:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[박순찬의 장도리 카툰] 이념전쟁 - 진격의 몽둥이즘]]></title>
+        <id>https://v.daum.net/v/20240813073300848</id>
+        <link href="https://v.daum.net/v/20240813073300848"/>
+        <updated>2024-08-12T23:18:35.874Z</updated>
+        <content type="html"><![CDATA[오마이뉴스<span class="txt_bar"> · </span><span class="info_time">07:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘슬기로운 의사’들은 다 어디에 있나 [시민편집인의 눈]]]></title>
         <id>https://v.daum.net/v/20240813070506537</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240813060126874"/>
         <updated>2024-08-12T21:18:14.837Z</updated>
         <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">06:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[유효상 칼럼] 왜 끊임없이 지배구조에 손을 댈까]]></title>
-        <id>https://v.daum.net/v/20240813060018731</id>
-        <link href="https://v.daum.net/v/20240813060018731"/>
-        <updated>2024-08-12T21:18:14.840Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Grace Kao] What it’s like to ride in a driverless car]]></title>
-        <id>https://v.daum.net/v/20240813053043523</id>
-        <link href="https://v.daum.net/v/20240813053043523"/>
-        <updated>2024-08-12T21:18:14.840Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
     </entry>
 </feed>
