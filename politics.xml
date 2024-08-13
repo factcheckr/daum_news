@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2024-08-13T18:24:02.983Z</updated>
+    <updated>2024-08-13T19:17:07.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여야, 28일 본회의 합의…'구하라법' 등 처리 전망]]></title>
+        <id>https://v.daum.net/v/20240814040000243</id>
+        <link href="https://v.daum.net/v/20240814040000243"/>
+        <updated>2024-08-13T19:15:43.290Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘국군의 날’ 2년 연속 시가행진 한다]]></title>
+        <id>https://v.daum.net/v/20240814034804237</id>
+        <link href="https://v.daum.net/v/20240814034804237"/>
+        <updated>2024-08-13T19:15:43.290Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">03:48</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[野6당 원내대표 만찬 회동...거부권 대응 공조 모색]]></title>
         <id>https://v.daum.net/v/20240814031915205</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240814023602985"/>
         <updated>2024-08-13T18:22:43.951Z</updated>
         <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">02:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김진태, 與 시·도지사 중 도정평가 선두…'텃밭' 영남도 제쳤다]]></title>
-        <id>https://v.daum.net/v/20240814020000904</id>
-        <link href="https://v.daum.net/v/20240814020000904"/>
-        <updated>2024-08-13T17:15:41.954Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">02:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“국토부, 미흡한 관리·오판이 전세사기 키웠다”]]></title>
-        <id>https://v.daum.net/v/20240814013802848</id>
-        <link href="https://v.daum.net/v/20240814013802848"/>
-        <updated>2024-08-13T17:15:41.955Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">01:38</span>]]></content>
     </entry>
 </feed>
