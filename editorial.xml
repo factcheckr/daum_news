@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-08-14T03:21:31.098Z</updated>
+    <updated>2024-08-14T04:22:49.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[부고] 정수호씨(계룡건설 커뮤니케이션실 부장) 부친상]]></title>
+        <id>https://v.daum.net/v/20240814130336718</id>
+        <link href="https://v.daum.net/v/20240814130336718"/>
+        <updated>2024-08-14T04:22:32.729Z</updated>
+        <content type="html"><![CDATA[머니S<span class="txt_bar"> · </span><span class="info_time">13:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[언스타그램] 기억되고 싶은 기대]]></title>
         <id>https://v.daum.net/v/20240814120109494</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240814094455572"/>
         <updated>2024-08-14T01:13:48.123Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">09:44</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시시비비]'찻잔 속 태풍'된 배터리 제조사 공개]]></title>
-        <id>https://v.daum.net/v/20240814073012155</id>
-        <link href="https://v.daum.net/v/20240814073012155"/>
-        <updated>2024-08-13T23:17:18.503Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">07:30</span>]]></content>
     </entry>
 </feed>
