@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-08-14T13:21:25.489Z</updated>
+    <updated>2024-08-14T14:17:28.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[8월 2주 코로나19 입원 환자, 1357명으로 '올해 최다' 기록]]></title>
+        <id>https://v.daum.net/v/20240814223731230</id>
+        <link href="https://v.daum.net/v/20240814223731230"/>
+        <updated>2024-08-14T14:17:08.501Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">22:37</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["영화만큼 재밌다" 에일리언 게임 시리즈 모아보기]]></title>
+        <id>https://v.daum.net/v/20240814222146109</id>
+        <link href="https://v.daum.net/v/20240814222146109"/>
+        <updated>2024-08-14T14:17:08.502Z</updated>
+        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">22:21</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유료 AI 상품 속속 등장…AI도 구독시대 열리나?]]></title>
         <id>https://v.daum.net/v/20240814214226539</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240814201801241"/>
         <updated>2024-08-14T12:33:48.028Z</updated>
         <content type="html"><![CDATA[IT동아<span class="txt_bar"> · </span><span class="info_time">20:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시스원, 12회 미래와소프트웨어 꿈찾기 캠프 개최]]></title>
-        <id>https://v.daum.net/v/20240814201455188</id>
-        <link href="https://v.daum.net/v/20240814201455188"/>
-        <updated>2024-08-14T11:17:00.493Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">20:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[상반기 스팸문자 2억건…'RCS 메시지'로 해결책 모색]]></title>
-        <id>https://v.daum.net/v/20240814200917090</id>
-        <link href="https://v.daum.net/v/20240814200917090"/>
-        <updated>2024-08-14T11:17:00.493Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">20:09</span>]]></content>
     </entry>
 </feed>
