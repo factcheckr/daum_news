@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-08-14T17:20:03.894Z</updated>
+    <updated>2024-08-14T18:23:02.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[김주용 목사의 스티그마] 만나가 그친 시대]]></title>
+        <id>https://v.daum.net/v/20240815030516527</id>
+        <link href="https://v.daum.net/v/20240815030516527"/>
+        <updated>2024-08-14T18:22:47.140Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">03:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[장유정의 음악 정류장] [128] “우리나라 조선 나라 정다운 나라”]]></title>
+        <id>https://v.daum.net/v/20240815030017510</id>
+        <link href="https://v.daum.net/v/20240815030017510"/>
+        <updated>2024-08-14T18:22:47.143Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">03:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[한마당] ‘테러리스트 김구’]]></title>
         <id>https://v.daum.net/v/20240815004206125</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240815003208059"/>
         <updated>2024-08-14T16:25:31.732Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김현기의 시시각각] 이래서 G8, G9이 되겠는가]]></title>
-        <id>https://v.daum.net/v/20240815003153055</id>
-        <link href="https://v.daum.net/v/20240815003153055"/>
-        <updated>2024-08-14T16:25:31.734Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이광형의 퍼스펙티브] AI 기술로 육아 부담 덜어주고, 획일적 입시 바꿔야]]></title>
-        <id>https://v.daum.net/v/20240815003103049</id>
-        <link href="https://v.daum.net/v/20240815003103049"/>
-        <updated>2024-08-14T16:25:31.735Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:31</span>]]></content>
     </entry>
 </feed>

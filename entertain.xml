@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2024-08-14T17:20:03.868Z</updated>
+    <updated>2024-08-14T18:23:02.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[양세종, 세련된 수트핏…댄디 매력에 빠져든다 [화보]]]></title>
+        <id>https://v.daum.net/v/20240815030012509</id>
+        <link href="https://v.daum.net/v/20240815030012509"/>
+        <updated>2024-08-14T18:22:21.006Z</updated>
+        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">03:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수지, 300만원짜리 시계로 뽐낸 성숙美..올블랙도 청순하네]]></title>
         <id>https://v.daum.net/v/20240815020356400</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240815003712103"/>
         <updated>2024-08-14T16:25:07.371Z</updated>
         <content type="html"><![CDATA[마이데일리<span class="txt_bar"> · </span><span class="info_time">00:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[스브스夜] '골때녀' 불나비, 탑걸과 '역대급 접전' 끝에 1승…최진철, "탑걸 무서운 팀, 다시 만나고 싶지 않아"]]></title>
-        <id>https://v.daum.net/v/20240815003306078</id>
-        <link href="https://v.daum.net/v/20240815003306078"/>
-        <updated>2024-08-14T16:25:07.371Z</updated>
-        <content type="html"><![CDATA[SBS연예뉴스<span class="txt_bar"> · </span><span class="info_time">00:33</span>]]></content>
     </entry>
 </feed>
