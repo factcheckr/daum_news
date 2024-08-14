@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-08-14T10:21:25.409Z</updated>
+    <updated>2024-08-14T11:17:22.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[8월 15일 한겨레 그림판]]></title>
+        <id>https://v.daum.net/v/20240814194002522</id>
+        <link href="https://v.daum.net/v/20240814194002522"/>
+        <updated>2024-08-14T11:17:07.077Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:40</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[국민만평-서민호 화백] 2024년 8월 15일]]></title>
+        <id>https://v.daum.net/v/20240814193209368</id>
+        <link href="https://v.daum.net/v/20240814193209368"/>
+        <updated>2024-08-14T11:17:07.078Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">19:32</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[박용석 만평] 8월 15일]]></title>
+        <id>https://v.daum.net/v/20240814193024325</id>
+        <link href="https://v.daum.net/v/20240814193024325"/>
+        <updated>2024-08-14T11:17:07.078Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">19:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[먹고사니즘에 꺾이지 않는 낭만 [세상읽기]]]></title>
         <id>https://v.daum.net/v/20240814191509001</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240814183941257"/>
         <updated>2024-08-14T10:21:09.631Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">18:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[fn광장] 지속가능한 나라살림을 위한 과제들]]></title>
-        <id>https://v.daum.net/v/20240814183932251</id>
-        <link href="https://v.daum.net/v/20240814183932251"/>
-        <updated>2024-08-14T10:21:09.633Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">18:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인사] 기획재정부]]></title>
-        <id>https://v.daum.net/v/20240814183819229</id>
-        <link href="https://v.daum.net/v/20240814183819229"/>
-        <updated>2024-08-14T10:21:09.634Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">18:38</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[눈이 밝으면 쓰레기속에서도 꽃을 본다네]]></title>
-        <id>https://v.daum.net/v/20240814183506137</id>
-        <link href="https://v.daum.net/v/20240814183506137"/>
-        <updated>2024-08-14T10:21:09.636Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">18:35</span>]]></content>
     </entry>
 </feed>
