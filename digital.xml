@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-08-15T18:23:37.621Z</updated>
+    <updated>2024-08-15T19:14:44.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인조이 "8월 21일부터 '캐릭터 스튜디오' 제공한다"]]></title>
+        <id>https://v.daum.net/v/20240816040644978</id>
+        <link href="https://v.daum.net/v/20240816040644978"/>
+        <updated>2024-08-15T19:14:19.062Z</updated>
+        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">04:06</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘스크래치에도 OK, 구부러져도 OK, 고열에도 OK’… 혁신적 산화막 기술, 폴더블 기판 시장 판도 바꿀까]]></title>
         <id>https://v.daum.net/v/20240816030626880</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240816001032280"/>
         <updated>2024-08-15T15:18:05.892Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반도체 호황에 떼돈 번 SK하이닉스, 올해 안에 ‘이것’ 먼저 한다는데]]></title>
-        <id>https://v.daum.net/v/20240816000300135</id>
-        <link href="https://v.daum.net/v/20240816000300135"/>
-        <updated>2024-08-15T15:18:05.894Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
     </entry>
 </feed>
