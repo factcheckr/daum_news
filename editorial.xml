@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-08-16T17:15:45.176Z</updated>
+    <updated>2024-08-16T18:23:03.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[신은정 기자의 온화한 시선] 하나님께 받은 생명 ‘아름다운 기부’]]></title>
+        <id>https://v.daum.net/v/20240817030808157</id>
+        <link href="https://v.daum.net/v/20240817030808157"/>
+        <updated>2024-08-16T18:22:49.628Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">03:08</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[내 인생의 나침반이 된 성경말씀] 자리를 든 ‘38년 된 병자’ 보며 내 구습을 바꾸다]]></title>
+        <id>https://v.daum.net/v/20240817030408145</id>
+        <link href="https://v.daum.net/v/20240817030408145"/>
+        <updated>2024-08-16T18:22:49.629Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">03:04</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[토요칼럼] '복지부동 열전'에 이름 올릴 후보는]]></title>
         <id>https://v.daum.net/v/20240817005402476</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240817003418389"/>
         <updated>2024-08-16T16:23:14.015Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한경에세이] 새로운 기회, 엔터테크]]></title>
-        <id>https://v.daum.net/v/20240817003401386</id>
-        <link href="https://v.daum.net/v/20240817003401386"/>
-        <updated>2024-08-16T16:23:14.017Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 응급실 뺑뺑이 대란, 추석이 더 걱정이다]]></title>
-        <id>https://v.daum.net/v/20240817003310384</id>
-        <link href="https://v.daum.net/v/20240817003310384"/>
-        <updated>2024-08-16T16:23:14.018Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:33</span>]]></content>
     </entry>
 </feed>
