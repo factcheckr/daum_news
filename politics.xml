@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2024-08-16T18:23:03.411Z</updated>
+    <updated>2024-08-16T19:16:03.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[러 "러북 정상 신뢰 최고조…변함없는 우크라작전 지지 감사"]]></title>
+        <id>https://v.daum.net/v/20240817033856193</id>
+        <link href="https://v.daum.net/v/20240817033856193"/>
+        <updated>2024-08-16T19:15:00.065Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">03:38</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尹 ‘25만원 지원법’ ‘노란봉투법’ 거부권… 취임 후 21번째]]></title>
         <id>https://v.daum.net/v/20240817021610852</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240817014018750"/>
         <updated>2024-08-16T17:14:42.476Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">01:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[25만원법·노란봉투법 尹대통령 거부권 행사]]></title>
-        <id>https://v.daum.net/v/20240817013714746</id>
-        <link href="https://v.daum.net/v/20240817013714746"/>
-        <updated>2024-08-16T17:14:42.478Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">01:37</span>]]></content>
     </entry>
 </feed>
