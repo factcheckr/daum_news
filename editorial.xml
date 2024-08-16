@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-08-16T19:16:03.940Z</updated>
+    <updated>2024-08-16T20:19:20.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국인의 '얼큰한' 국물 사랑  [休·味·樂(휴·미·락)]]]></title>
+        <id>https://v.daum.net/v/20240817043004249</id>
+        <link href="https://v.daum.net/v/20240817043004249"/>
+        <updated>2024-08-16T20:19:05.024Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[데스크 칼럼] 기이한 현실의 ‘퍼펙트 데이즈’]]></title>
         <id>https://v.daum.net/v/20240817040223215</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240817003601403"/>
         <updated>2024-08-16T16:23:14.013Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이주윤의 딴생각] 호랑이 세 자매]]></title>
-        <id>https://v.daum.net/v/20240817003508392</id>
-        <link href="https://v.daum.net/v/20240817003508392"/>
-        <updated>2024-08-16T16:23:14.014Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:35</span>]]></content>
     </entry>
 </feed>
