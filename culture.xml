@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2024-08-17T19:15:05.561Z</updated>
+    <updated>2024-08-17T20:18:13.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘의 운세] 8월 18일 일요일]]></title>
+        <id>https://v.daum.net/v/20240818050018994</id>
+        <link href="https://v.daum.net/v/20240818050018994"/>
+        <updated>2024-08-17T20:17:24.468Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">05:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코미디 열풍 계속될까...오싹한 공포물도 줄개봉]]></title>
         <id>https://v.daum.net/v/20240818032208687</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240818000102120"/>
         <updated>2024-08-17T15:18:32.701Z</updated>
         <content type="html"><![CDATA[bnt뉴스<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인플루언서 프리즘] '절도 있는 댄스!'…K-비보이 매력에 '퐁당']]></title>
-        <id>https://v.daum.net/v/20240818000038114</id>
-        <link href="https://v.daum.net/v/20240818000038114"/>
-        <updated>2024-08-17T15:18:32.702Z</updated>
-        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
