@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-08-17T04:22:14.982Z</updated>
+    <updated>2024-08-17T05:18:15.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코미디 영화의 이유 있는 흥행 질주 [양경미의 영화로 보는 세상]]]></title>
+        <id>https://v.daum.net/v/20240817140030709</id>
+        <link href="https://v.daum.net/v/20240817140030709"/>
+        <updated>2024-08-17T05:18:00.077Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤 대통령 “허위 선동·사이비 논리에 휘둘리지 마라”]]></title>
         <id>https://v.daum.net/v/20240817090306346</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240817004208437"/>
         <updated>2024-08-16T16:23:14.003Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[취재수첩] 티메프 사태 불똥 맞은 e커머스 스타트업]]></title>
-        <id>https://v.daum.net/v/20240817004002423</id>
-        <link href="https://v.daum.net/v/20240817004002423"/>
-        <updated>2024-08-16T16:23:14.003Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:40</span>]]></content>
     </entry>
 </feed>
