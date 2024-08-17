@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-08-16T23:18:31.197Z</updated>
+    <updated>2024-08-17T01:11:02.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윤 대통령 “허위 선동·사이비 논리에 휘둘리지 마라”]]></title>
+        <id>https://v.daum.net/v/20240817090306346</id>
+        <link href="https://v.daum.net/v/20240817090306346"/>
+        <updated>2024-08-17T01:10:45.533Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">09:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정책을 알아야 부동산이 보인다 [김상학의 초보 재테크 이야기]]]></title>
         <id>https://v.daum.net/v/20240817080053823</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240817004002423"/>
         <updated>2024-08-16T16:23:14.003Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 기업 투자로 엇갈린 한·미 소비 명암]]></title>
-        <id>https://v.daum.net/v/20240817003803416</id>
-        <link href="https://v.daum.net/v/20240817003803416"/>
-        <updated>2024-08-16T16:23:14.006Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:38</span>]]></content>
     </entry>
 </feed>
