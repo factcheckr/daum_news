@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-08-18T16:20:37.214Z</updated>
+    <updated>2024-08-18T17:14:35.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[청계광장]데이터, 業에 대한 이해도 높아야 시너지 크다]]></title>
+        <id>https://v.daum.net/v/20240819020500355</id>
+        <link href="https://v.daum.net/v/20240819020500355"/>
+        <updated>2024-08-18T17:14:17.542Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]우리는 '전투민족']]></title>
+        <id>https://v.daum.net/v/20240819020301353</id>
+        <link href="https://v.daum.net/v/20240819020301353"/>
+        <updated>2024-08-18T17:14:17.542Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[한마당] 계절적 이주민]]></title>
         <id>https://v.daum.net/v/20240819004209197</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240819002515101"/>
         <updated>2024-08-18T16:20:11.783Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[리셋 코리아] 일반주주 이익 외면하는 한국 상장기업]]></title>
-        <id>https://v.daum.net/v/20240819002424099</id>
-        <link href="https://v.daum.net/v/20240819002424099"/>
-        <updated>2024-08-18T16:20:11.786Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[장세정의 시선]한·일 역전 시대, 철 지난 '일본 콤플렉스']]></title>
-        <id>https://v.daum.net/v/20240819002224096</id>
-        <link href="https://v.daum.net/v/20240819002224096"/>
-        <updated>2024-08-18T16:20:11.786Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:22</span>]]></content>
     </entry>
 </feed>
