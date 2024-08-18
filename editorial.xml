@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-08-18T22:16:58.668Z</updated>
+    <updated>2024-08-18T23:18:47.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[권익위 국장의 죽음 [한겨레 프리즘]]]></title>
+        <id>https://v.daum.net/v/20240819080509197</id>
+        <link href="https://v.daum.net/v/20240819080509197"/>
+        <updated>2024-08-18T23:18:34.367Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">08:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삼계탕 단골손님 ‘황기’… 아이와 남자에게도 좋아]]></title>
         <id>https://v.daum.net/v/20240819071545482</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240819053024279"/>
         <updated>2024-08-18T21:15:12.106Z</updated>
         <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['도입 20년' 고용허가제, 이것부터 고치자[이희용의 세계시민]]]></title>
-        <id>https://v.daum.net/v/20240819053011274</id>
-        <link href="https://v.daum.net/v/20240819053011274"/>
-        <updated>2024-08-18T21:15:12.107Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
     </entry>
 </feed>
