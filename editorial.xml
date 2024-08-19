@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-08-19T03:20:04.303Z</updated>
+    <updated>2024-08-19T04:21:14.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[기자수첩]전도연·황정민·유승호·이민호…연극계 스타 마케팅 명암]]></title>
+        <id>https://v.daum.net/v/20240819131200339</id>
+        <link href="https://v.daum.net/v/20240819131200339"/>
+        <updated>2024-08-19T04:20:58.669Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">13:12</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[논단]지구 열탕화 시대와 폭염 살인]]></title>
         <id>https://v.daum.net/v/20240819121259399</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240819084953188"/>
         <updated>2024-08-19T01:16:22.337Z</updated>
         <content type="html"><![CDATA[베이비뉴스<span class="txt_bar"> · </span><span class="info_time">08:49</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시론]‘한국판 발렌베리’는 너무 먼 얘기일까]]></title>
-        <id>https://v.daum.net/v/20240819082948694</id>
-        <link href="https://v.daum.net/v/20240819082948694"/>
-        <updated>2024-08-19T01:16:22.339Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">08:29</span>]]></content>
     </entry>
 </feed>
