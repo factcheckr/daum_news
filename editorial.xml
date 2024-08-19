@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-08-19T16:21:29.298Z</updated>
+    <updated>2024-08-19T17:17:30.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]광해우(光海雨)]]></title>
+        <id>https://v.daum.net/v/20240820020304676</id>
+        <link href="https://v.daum.net/v/20240820020304676"/>
+        <updated>2024-08-19T17:17:14.554Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]석탄화력의 애가(哀歌)]]></title>
+        <id>https://v.daum.net/v/20240820020301675</id>
+        <link href="https://v.daum.net/v/20240820020301675"/>
+        <updated>2024-08-19T17:17:14.554Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[천자칼럼] 저탄소 시대의 항공유 전환]]></title>
         <id>https://v.daum.net/v/20240820011506600</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240820003702417"/>
         <updated>2024-08-19T16:21:11.218Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 과징금 이행도 못 하는 방통위 불능, 누가 책임질 건가]]></title>
-        <id>https://v.daum.net/v/20240820003701416</id>
-        <link href="https://v.daum.net/v/20240820003701416"/>
-        <updated>2024-08-19T16:21:11.221Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시론] 캠프데이비드 1년… 한·미·일 협력 2.0 시대]]></title>
-        <id>https://v.daum.net/v/20240820003412396</id>
-        <link href="https://v.daum.net/v/20240820003412396"/>
-        <updated>2024-08-19T16:21:11.222Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:34</span>]]></content>
     </entry>
 </feed>
