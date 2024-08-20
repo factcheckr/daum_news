@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-08-20T06:25:27.758Z</updated>
+    <updated>2024-08-20T07:19:22.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엠젠솔루션, 9억원 3자배정 유상증자 결정]]></title>
+        <id>https://v.daum.net/v/20240820160612442</id>
+        <link href="https://v.daum.net/v/20240820160612442"/>
+        <updated>2024-08-20T07:19:21.320Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">16:06</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아스타, 10억원 3자배정 유상증자 결정]]></title>
+        <id>https://v.daum.net/v/20240820152846710</id>
+        <link href="https://v.daum.net/v/20240820152846710"/>
+        <updated>2024-08-20T07:19:21.327Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">15:28</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['크래프톤' 52주 신고가 경신, 먼길을 돌아왔다. - 하나증권, BUY(신규)]]></title>
         <id>https://v.daum.net/v/20240820151203982</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240820092702397"/>
         <updated>2024-08-20T01:12:47.781Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['대웅제약' 52주 신고가 경신, 조정 속에서도 실적은 달린다 - 신한투자증권, 매수]]></title>
-        <id>https://v.daum.net/v/20240820091904066</id>
-        <link href="https://v.daum.net/v/20240820091904066"/>
-        <updated>2024-08-20T01:12:47.783Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:19</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['동아쏘시오홀딩스' 52주 신고가 경신, CMO 성장 및 로열티 수익 본격화 - iM증권, BUY(유지)]]></title>
-        <id>https://v.daum.net/v/20240820091603947</id>
-        <link href="https://v.daum.net/v/20240820091603947"/>
-        <updated>2024-08-20T01:12:47.785Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:16</span>]]></content>
     </entry>
 </feed>
