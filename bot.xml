@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-08-20T07:19:22.010Z</updated>
+    <updated>2024-08-20T09:22:05.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미코바이오메드, 100억원 3자배정 유상증자 결정]]></title>
+        <id>https://v.daum.net/v/20240820180039284</id>
+        <link href="https://v.daum.net/v/20240820180039284"/>
+        <updated>2024-08-20T09:22:04.840Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">18:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미코바이오메드, 50억원 3자배정 유상증자 결정]]></title>
+        <id>https://v.daum.net/v/20240820175702159</id>
+        <link href="https://v.daum.net/v/20240820175702159"/>
+        <updated>2024-08-20T09:22:04.842Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">17:57</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2024년 08월 20일)]]></title>
+        <id>https://v.daum.net/v/20240820173348472</id>
+        <link href="https://v.daum.net/v/20240820173348472"/>
+        <updated>2024-08-20T09:22:04.850Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:33</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아주스틸 "폴란드 자회사 주식 53억원에 추가 취득"]]></title>
+        <id>https://v.daum.net/v/20240820172630219</id>
+        <link href="https://v.daum.net/v/20240820172630219"/>
+        <updated>2024-08-20T09:22:04.850Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">17:26</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엠젠솔루션, 9억원 3자배정 유상증자 결정]]></title>
         <id>https://v.daum.net/v/20240820160612442</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20240820094804277"/>
         <updated>2024-08-20T01:12:47.776Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['바이넥스' 52주 신고가 경신, 미국 생물보안법 수혜 및 내년 수익성 개선 가속화]]></title>
-        <id>https://v.daum.net/v/20240820092903469</id>
-        <link href="https://v.daum.net/v/20240820092903469"/>
-        <updated>2024-08-20T01:12:47.777Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:29</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['티앤엘' 52주 신고가 경신, 2분기 최대 실적, 3분기 수주도 서프라이즈 - 유안타증권, BUY]]></title>
-        <id>https://v.daum.net/v/20240820092901468</id>
-        <link href="https://v.daum.net/v/20240820092901468"/>
-        <updated>2024-08-20T01:12:47.778Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:29</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모나용평' 52주 신고가 경신, 대관령 아래에서 텐베거의 향기가 난다 - 신한투자증권, 매수]]></title>
-        <id>https://v.daum.net/v/20240820092808446</id>
-        <link href="https://v.daum.net/v/20240820092808446"/>
-        <updated>2024-08-20T01:12:47.780Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:28</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['휴젤' 52주 신고가 경신, 최근 3일간 기관 대량 순매수]]></title>
-        <id>https://v.daum.net/v/20240820092702397</id>
-        <link href="https://v.daum.net/v/20240820092702397"/>
-        <updated>2024-08-20T01:12:47.781Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:27</span>]]></content>
     </entry>
 </feed>
