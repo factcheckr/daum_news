@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-08-20T04:22:39.882Z</updated>
+    <updated>2024-08-20T05:17:05.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['한화손해보험' 52주 신고가 경신, 전일 외국인 대량 순매수]]></title>
+        <id>https://v.daum.net/v/20240820141202640</id>
+        <link href="https://v.daum.net/v/20240820141202640"/>
+        <updated>2024-08-20T05:17:05.119Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">14:12</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['BNK금융지주' 52주 신고가 경신, 2Q24 Review: BIS비율 상승에 따른 주주환원 기대 유효 - 교보증권, BUY]]></title>
         <id>https://v.daum.net/v/20240820131801001</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240820091411874</id>
         <link href="https://v.daum.net/v/20240820091411874"/>
         <updated>2024-08-20T01:12:47.788Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['메리츠금융지주' 52주 신고가 경신, 기대 이상의 주주환원 예상 - 미래에셋증권, 매수]]></title>
-        <id>https://v.daum.net/v/20240820091409871</id>
-        <link href="https://v.daum.net/v/20240820091409871"/>
-        <updated>2024-08-20T01:12:47.790Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:14</span>]]></content>
     </entry>
 </feed>
