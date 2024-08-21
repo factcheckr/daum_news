@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-08-21T18:23:31.872Z</updated>
+    <updated>2024-08-21T19:16:44.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘나는 왜 자제력이 부족할까’ 알고 보니…[유용하 기자의 사이언스 톡]]]></title>
+        <id>https://v.daum.net/v/20240822040103871</id>
+        <link href="https://v.daum.net/v/20240822040103871"/>
+        <updated>2024-08-21T19:16:18.763Z</updated>
+        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">04:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삼성, 베트남에 반도체 패키징 공장]]></title>
+        <id>https://v.daum.net/v/20240822040001858</id>
+        <link href="https://v.daum.net/v/20240822040001858"/>
+        <updated>2024-08-21T19:16:18.764Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[해봄] 독일서 만난 넥슨 ‘카잔’, 보는맛 손맛 남다르네]]></title>
         <id>https://v.daum.net/v/20240822031222789</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240822003042222"/>
         <updated>2024-08-21T16:32:55.194Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“여기서 이목 끌어야 산다”…성장 멎은 K게임사 총출동]]></title>
-        <id>https://v.daum.net/v/20240822001200072</id>
-        <link href="https://v.daum.net/v/20240822001200072"/>
-        <updated>2024-08-21T15:18:24.862Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">00:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Biz & Now] SKT·람다, AI 데이터센터 조성 협약]]></title>
-        <id>https://v.daum.net/v/20240822000253915</id>
-        <link href="https://v.daum.net/v/20240822000253915"/>
-        <updated>2024-08-21T15:18:24.863Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
     </entry>
 </feed>
