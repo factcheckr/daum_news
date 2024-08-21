@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-08-21T17:16:45.710Z</updated>
+    <updated>2024-08-21T18:23:31.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[해봄] 독일서 만난 넥슨 ‘카잔’, 보는맛 손맛 남다르네]]></title>
+        <id>https://v.daum.net/v/20240822031222789</id>
+        <link href="https://v.daum.net/v/20240822031222789"/>
+        <updated>2024-08-21T18:23:05.048Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">03:12</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[가봄] 파란눈 게이머도 韓 게임 보러 왔다… 포문 연 게임스컴]]></title>
         <id>https://v.daum.net/v/20240822021012553</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240822000253915</id>
         <link href="https://v.daum.net/v/20240822000253915"/>
         <updated>2024-08-21T15:18:24.863Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오픈AI, 언론과 잇단 제휴…구글 검색패권 넘보나]]></title>
-        <id>https://v.daum.net/v/20240822000231899</id>
-        <link href="https://v.daum.net/v/20240822000231899"/>
-        <updated>2024-08-21T15:18:24.865Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
     </entry>
 </feed>
