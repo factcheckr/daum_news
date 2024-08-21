@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2024-08-21T16:33:21.856Z</updated>
+    <updated>2024-08-21T17:16:45.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[민·관·군·경, 부산항 테러 가정 통합 방호 훈련]]></title>
+        <id>https://v.daum.net/v/20240822021312560</id>
+        <link href="https://v.daum.net/v/20240822021312560"/>
+        <updated>2024-08-21T17:15:23.770Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">02:13</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤석열 대통령 "강력한 안보태세만이 北 오판 막을 수 있어"]]></title>
+        <id>https://v.daum.net/v/20240822013802495</id>
+        <link href="https://v.daum.net/v/20240822013802495"/>
+        <updated>2024-08-21T17:15:23.770Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">01:38</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尹 "북한 정권에 '침략은 곧 종말'임을 인식시켜야"]]></title>
         <id>https://v.daum.net/v/20240822012401428</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240822002743206"/>
         <updated>2024-08-21T16:32:02.263Z</updated>
         <content type="html"><![CDATA[JTBC<span class="txt_bar"> · </span><span class="info_time">00:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한동훈 “국정원 대공수사권 당론 추진”]]></title>
-        <id>https://v.daum.net/v/20240822002216177</id>
-        <link href="https://v.daum.net/v/20240822002216177"/>
-        <updated>2024-08-21T16:32:02.265Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['전세사기법' 본회의만 남았다...여야 합의 2호 법안은?]]></title>
-        <id>https://v.daum.net/v/20240822002214176</id>
-        <link href="https://v.daum.net/v/20240822002214176"/>
-        <updated>2024-08-21T16:32:02.266Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:22</span>]]></content>
     </entry>
 </feed>
