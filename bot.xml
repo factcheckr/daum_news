@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-08-21T08:22:53.346Z</updated>
+    <updated>2024-08-21T09:19:40.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[셀루메드, 20억원 3자배정 유상증자 결정]]></title>
+        <id>https://v.daum.net/v/20240821175035840</id>
+        <link href="https://v.daum.net/v/20240821175035840"/>
+        <updated>2024-08-21T09:19:39.295Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">17:50</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2024년 08월 21일)]]></title>
+        <id>https://v.daum.net/v/20240821173319285</id>
+        <link href="https://v.daum.net/v/20240821173319285"/>
+        <updated>2024-08-21T09:19:39.295Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HDC현대산업개발 수주공시 - 삼성아파트주택재건축정비사업 1,793.9억원 (매출액대비  4.3 %)]]></title>
         <id>https://v.daum.net/v/20240821170602405</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240821092605772"/>
         <updated>2024-08-21T01:13:03.586Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서희건설' 52주 신고가 경신, 전일 기관 대량 순매수]]></title>
-        <id>https://v.daum.net/v/20240821092407704</id>
-        <link href="https://v.daum.net/v/20240821092407704"/>
-        <updated>2024-08-21T01:13:03.587Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['티앤엘' 52주 신고가 경신, 전일 기관 대량 순매수]]></title>
-        <id>https://v.daum.net/v/20240821092202625</id>
-        <link href="https://v.daum.net/v/20240821092202625"/>
-        <updated>2024-08-21T01:13:03.587Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:22</span>]]></content>
     </entry>
 </feed>
