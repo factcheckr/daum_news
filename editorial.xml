@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-08-22T05:22:15.945Z</updated>
+    <updated>2024-08-22T06:24:37.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뭔가 부족하지만 행동의 의지 있기에…우리는 취약하다 [말글살이]]]></title>
+        <id>https://v.daum.net/v/20240822144502163</id>
+        <link href="https://v.daum.net/v/20240822144502163"/>
+        <updated>2024-08-22T06:24:18.123Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">14:45</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Clear up the suspicion of external pressure (KOR)]]></title>
         <id>https://v.daum.net/v/20240822142135908</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240822111328809</id>
         <link href="https://v.daum.net/v/20240822111328809"/>
         <updated>2024-08-22T02:38:49.597Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 은행 이자이익 역대최고...대출규제, 예대마진만 키워선 안돼]]></title>
-        <id>https://v.daum.net/v/20240822111326808</id>
-        <link href="https://v.daum.net/v/20240822111326808"/>
-        <updated>2024-08-22T02:38:49.598Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:13</span>]]></content>
     </entry>
 </feed>
