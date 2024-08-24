@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-08-24T03:22:26.068Z</updated>
+    <updated>2024-08-24T04:20:27.895Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[부고] 황순관(기획재정부 국고국장)씨 모친상]]></title>
+        <id>https://v.daum.net/v/20240824131021772</id>
+        <link href="https://v.daum.net/v/20240824131021772"/>
+        <updated>2024-08-24T04:20:12.317Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">13:10</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 여름은 한국 영화산업의 변곡점 [라제기의 슛 & 숏]]]></title>
         <id>https://v.daum.net/v/20240824120103280</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240824043211287"/>
         <updated>2024-08-23T20:19:55.401Z</updated>
         <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[항공사 기내 커피가 맛없는 이유 [休·味·樂(휴·미·락)]]]></title>
-        <id>https://v.daum.net/v/20240824043131280</id>
-        <link href="https://v.daum.net/v/20240824043131280"/>
-        <updated>2024-08-23T20:19:55.405Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:31</span>]]></content>
     </entry>
 </feed>
