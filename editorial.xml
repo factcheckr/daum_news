@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-08-25T06:24:50.065Z</updated>
+    <updated>2024-08-25T07:16:46.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[ESG칼럼] 효율적인 기업 탄소 거버넌스와 내부탄소가격]]></title>
+        <id>https://v.daum.net/v/20240825160251330</id>
+        <link href="https://v.daum.net/v/20240825160251330"/>
+        <updated>2024-08-25T07:16:30.088Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">16:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ET단상] 클라우드 네이티브와 오픈소스 DBMS]]></title>
+        <id>https://v.daum.net/v/20240825160245326</id>
+        <link href="https://v.daum.net/v/20240825160245326"/>
+        <updated>2024-08-25T07:16:30.088Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">16:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[人사이트]이원희 스페이스뱅크 대표, “맞춤형 디지털전환 로드맵 제공”]]></title>
+        <id>https://v.daum.net/v/20240825160235322</id>
+        <link href="https://v.daum.net/v/20240825160235322"/>
+        <updated>2024-08-25T07:16:30.088Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">16:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[지평선] 교토국제고의 선전]]></title>
+        <id>https://v.daum.net/v/20240825153230887</id>
+        <link href="https://v.daum.net/v/20240825153230887"/>
+        <updated>2024-08-25T07:16:30.092Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">15:32</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부고] 차용주 씨(NH투자증권 프라이빗 에쿼티 1부 이사) 모친상]]></title>
         <id>https://v.daum.net/v/20240825151430581</id>
@@ -81,12 +109,5 @@
         <link href="https://v.daum.net/v/20240825070708577"/>
         <updated>2024-08-24T22:16:27.006Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박순규의 창] 교토국제고의 '기적'과 오사카 TMA 개최 '의미']]></title>
-        <id>https://v.daum.net/v/20240825000245596</id>
-        <link href="https://v.daum.net/v/20240825000245596"/>
-        <updated>2024-08-24T15:18:18.302Z</updated>
-        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
     </entry>
 </feed>
