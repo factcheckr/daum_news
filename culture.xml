@@ -2,11 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2024-08-25T13:18:54.927Z</updated>
+    <updated>2024-08-25T14:15:21.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA["결혼 전 구입한 아파트는 '내 집'?"…호칭에 고부갈등 '폭발']]></title>
+        <title type="html"><![CDATA[유명 연예인 와야만 축제?…“우리가 직접 만들어요”]]></title>
+        <id>https://v.daum.net/v/20240825223121374</id>
+        <link href="https://v.daum.net/v/20240825223121374"/>
+        <updated>2024-08-25T14:14:31.413Z</updated>
+        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">22:31</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제11회 명주인형극제 오늘 폐막…만 천여 명 찾아]]></title>
+        <id>https://v.daum.net/v/20240825223055372</id>
+        <link href="https://v.daum.net/v/20240825223055372"/>
+        <updated>2024-08-25T14:14:31.413Z</updated>
+        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">22:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영동포도축제 29일부터 나흘간 열려]]></title>
+        <id>https://v.daum.net/v/20240825222133322</id>
+        <link href="https://v.daum.net/v/20240825222133322"/>
+        <updated>2024-08-25T14:14:31.413Z</updated>
+        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">22:21</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘음주운전’ BTS 슈가 자필 사과…“처분과 비판·질책 달게 받겠다”]]></title>
+        <id>https://v.daum.net/v/20240825222001314</id>
+        <link href="https://v.daum.net/v/20240825222001314"/>
+        <updated>2024-08-25T14:14:31.414Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">22:20</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["결혼 전 구입한 아파트는 '내 집'?"…호칭두고 고부갈등 '폭발']]></title>
         <id>https://v.daum.net/v/20240825221502275</id>
         <link href="https://v.daum.net/v/20240825221502275"/>
         <updated>2024-08-25T13:18:05.014Z</updated>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20240825213853998"/>
         <updated>2024-08-25T13:18:05.025Z</updated>
         <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">21:38</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘8월의 크리스마스 골목길 축제’, 오늘 군산서 열려]]></title>
-        <id>https://v.daum.net/v/20240825213813992</id>
-        <link href="https://v.daum.net/v/20240825213813992"/>
-        <updated>2024-08-25T13:18:05.027Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">21:38</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이미리내, 美 윌리엄 사로얀 국제문학상]]></title>
-        <id>https://v.daum.net/v/20240825212531900</id>
-        <link href="https://v.daum.net/v/20240825212531900"/>
-        <updated>2024-08-25T12:29:47.986Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">21:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘키아프리즈’ 열기 속 판 커진 미술계]]></title>
-        <id>https://v.daum.net/v/20240825211051736</id>
-        <link href="https://v.daum.net/v/20240825211051736"/>
-        <updated>2024-08-25T12:29:47.989Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">21:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[갤러리 산책]'만약에'…서도호의 스페큘레이션스.zip]]></title>
-        <id>https://v.daum.net/v/20240825205506527</id>
-        <link href="https://v.daum.net/v/20240825205506527"/>
-        <updated>2024-08-25T12:29:47.989Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">20:55</span>]]></content>
     </entry>
 </feed>
