@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2024-08-25T17:17:32.552Z</updated>
+    <updated>2024-08-25T18:21:33.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘의 채널A]10년만에 재회한 연예계 ‘소문난 의남매’]]></title>
+        <id>https://v.daum.net/v/20240826030225506</id>
+        <link href="https://v.daum.net/v/20240826030225506"/>
+        <updated>2024-08-25T18:20:46.357Z</updated>
+        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">03:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[스브스夜] '미우새' 배성재, "두 사람 소개해준 것이 내 인생 업적"…박지성♥김민지, 10주년 축하]]></title>
         <id>https://v.daum.net/v/20240826013001305</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240826000610896"/>
         <updated>2024-08-25T15:17:07.357Z</updated>
         <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">00:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['가족X멜로' 정웅인, 최민호 아버지 아닌 이복 형이었다 [TV나우]]]></title>
-        <id>https://v.daum.net/v/20240826000551878</id>
-        <link href="https://v.daum.net/v/20240826000551878"/>
-        <updated>2024-08-25T15:17:07.359Z</updated>
-        <content type="html"><![CDATA[티브이데일리<span class="txt_bar"> · </span><span class="info_time">00:05</span>]]></content>
     </entry>
 </feed>
