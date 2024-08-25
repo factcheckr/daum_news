@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2024-08-25T18:21:33.455Z</updated>
+    <updated>2024-08-25T19:15:39.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서울시발레단 창단공연… 미장센·안무 돋보이나 ‘과유불급’]]></title>
+        <id>https://v.daum.net/v/20240826033206595</id>
+        <link href="https://v.daum.net/v/20240826033206595"/>
+        <updated>2024-08-25T19:14:46.781Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">03:32</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LED-전광판 등으로 빚어낸 일상 속 감정]]></title>
         <id>https://v.daum.net/v/20240826030218501</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240826000303811"/>
         <updated>2024-08-25T15:16:59.599Z</updated>
         <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 운세] 8월 26일]]></title>
-        <id>https://v.daum.net/v/20240826000212786</id>
-        <link href="https://v.daum.net/v/20240826000212786"/>
-        <updated>2024-08-25T15:16:59.600Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
     </entry>
 </feed>
