@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-08-26T13:24:01.871Z</updated>
+    <updated>2024-08-26T14:17:49.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[민주 이정헌 "이통3사, 멤버십 할인혜택 교묘히 줄여"]]></title>
+        <id>https://v.daum.net/v/20240826231050186</id>
+        <link href="https://v.daum.net/v/20240826231050186"/>
+        <updated>2024-08-26T14:17:22.410Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">23:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['30회 듣기 쿠폰 제공'···플로, 삼성 모니모와 프로모션]]></title>
+        <id>https://v.daum.net/v/20240826225327057</id>
+        <link href="https://v.daum.net/v/20240826225327057"/>
+        <updated>2024-08-26T14:17:22.410Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">22:53</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세계지질과학 올림픽 개막…대지진 연구 관심]]></title>
         <id>https://v.daum.net/v/20240826220606711</id>
@@ -25,13 +39,6 @@
         <link href="https://v.daum.net/v/20240826212924311"/>
         <updated>2024-08-26T12:32:50.829Z</updated>
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">21:29</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐나다, 中에 신규 관세 부과 예정… 전기차 100%, 알루미늄·철강엔 25%]]></title>
-        <id>https://v.daum.net/v/20240826212028161</id>
-        <link href="https://v.daum.net/v/20240826212028161"/>
-        <updated>2024-08-26T12:32:50.830Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">21:20</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[양자·학생인건비 등 R&D사업 예타 대거 면제]]></title>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240826200651178"/>
         <updated>2024-08-26T11:15:32.248Z</updated>
         <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">20:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성 준감위, 한경협 회비 납부 ‘승인’… “정경유착 시 탈퇴 권고”]]></title>
-        <id>https://v.daum.net/v/20240826200356141</id>
-        <link href="https://v.daum.net/v/20240826200356141"/>
-        <updated>2024-08-26T11:15:32.250Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">20:03</span>]]></content>
     </entry>
 </feed>
