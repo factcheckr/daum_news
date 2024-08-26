@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2024-08-26T18:23:26.347Z</updated>
+    <updated>2024-08-26T19:15:27.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[살림 팍팍한데…하루 쉰다고 지갑 열릴까]]></title>
+        <id>https://v.daum.net/v/20240827041001618</id>
+        <link href="https://v.daum.net/v/20240827041001618"/>
+        <updated>2024-08-26T19:14:06.356Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">04:10</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[北 ‘자폭형 드론’ 성능시험 공개]]></title>
         <id>https://v.daum.net/v/20240827030142417</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240827012652171"/>
         <updated>2024-08-26T17:16:06.816Z</updated>
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[野 텃밭 쟁탈전… 김민석 “호남 유일세력” 조국 “고인물은 썩어”]]></title>
-        <id>https://v.daum.net/v/20240827012230155</id>
-        <link href="https://v.daum.net/v/20240827012230155"/>
-        <updated>2024-08-26T17:16:06.821Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">01:22</span>]]></content>
     </entry>
 </feed>
