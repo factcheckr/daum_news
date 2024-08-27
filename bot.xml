@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-08-27T07:17:09.104Z</updated>
+    <updated>2024-08-27T08:23:10.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국고채 금리 일제히 상승…3년물 연 2.940%]]></title>
+        <id>https://v.daum.net/v/20240827164647538</id>
+        <link href="https://v.daum.net/v/20240827164647538"/>
+        <updated>2024-08-27T08:23:10.038Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">16:46</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SGC E&C 수주공시 - PDH/PP EPC Package(프로필렌/폴리프로필렌 생산설비 건설공사) 1,135억원 (매출액대비  6.1 %)]]></title>
         <id>https://v.daum.net/v/20240827160110420</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240827102604299"/>
         <updated>2024-08-27T02:40:11.388Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">10:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['동아쏘시오홀딩스' 52주 신고가 경신, 기관 6일 연속 순매수(2.3만주)]]></title>
-        <id>https://v.daum.net/v/20240827101002600</id>
-        <link href="https://v.daum.net/v/20240827101002600"/>
-        <updated>2024-08-27T01:15:10.609Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">10:10</span>]]></content>
     </entry>
 </feed>
