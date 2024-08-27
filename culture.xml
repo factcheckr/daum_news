@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2024-08-27T16:23:08.445Z</updated>
+    <updated>2024-08-27T17:15:53.906Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[와콤, 24시간 한정 와콤 플래시 데이(Wacom Flash Day) 프로모션 진행]]></title>
+        <id>https://v.daum.net/v/20240828015233681</id>
+        <link href="https://v.daum.net/v/20240828015233681"/>
+        <updated>2024-08-27T17:15:09.324Z</updated>
+        <content type="html"><![CDATA[스포츠경향<span class="txt_bar"> · </span><span class="info_time">01:52</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['교제살인' 지금 얼마나 더 죽어야 되는 거예요?]]></title>
         <id>https://v.daum.net/v/20240828011850553</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240828000300982"/>
         <updated>2024-08-27T15:18:40.322Z</updated>
         <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘날씨, 시간당 20mm 강한 비 곳... 체감온도 33~35도]]></title>
-        <id>https://v.daum.net/v/20240828000203958</id>
-        <link href="https://v.daum.net/v/20240828000203958"/>
-        <updated>2024-08-27T15:18:40.323Z</updated>
-        <content type="html"><![CDATA[bnt뉴스<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
     </entry>
 </feed>
