@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2024-08-28T18:23:44.105Z</updated>
+    <updated>2024-08-28T19:16:50.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['이 음식' 자주 먹는 男, 발기부전 3배 증가한다]]></title>
+        <id>https://v.daum.net/v/20240829040133177</id>
+        <link href="https://v.daum.net/v/20240829040133177"/>
+        <updated>2024-08-28T19:16:02.588Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">04:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“첼로와 피아노, 낭만이 넘치는 무대 기대하세요”]]></title>
         <id>https://v.daum.net/v/20240829030425991</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240829004920545"/>
         <updated>2024-08-28T16:23:17.594Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:49</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세계 최고 마린스키 발레단에 ‘한국인 브라더스’가 빛난다]]></title>
-        <id>https://v.daum.net/v/20240829004849541</id>
-        <link href="https://v.daum.net/v/20240829004849541"/>
-        <updated>2024-08-28T16:23:17.595Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:48</span>]]></content>
     </entry>
 </feed>
