@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-08-28T22:17:19.255Z</updated>
+    <updated>2024-08-28T23:19:51.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘전동킥보드’ 어떻게 생각하십니까]]></title>
+        <id>https://v.daum.net/v/20240829080505488</id>
+        <link href="https://v.daum.net/v/20240829080505488"/>
+        <updated>2024-08-28T23:19:35.850Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">08:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[내가 치러낸 여름 이야기 [똑똑! 한국사회]]]></title>
         <id>https://v.daum.net/v/20240829070508494</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240829051201716"/>
         <updated>2024-08-28T20:19:21.525Z</updated>
         <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">05:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[씨줄날줄] K팝 팬덤의 명암]]></title>
-        <id>https://v.daum.net/v/20240829050518676</id>
-        <link href="https://v.daum.net/v/20240829050518676"/>
-        <updated>2024-08-28T20:19:21.526Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:05</span>]]></content>
     </entry>
 </feed>
