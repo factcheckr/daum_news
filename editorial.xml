@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-08-28T20:19:39.031Z</updated>
+    <updated>2024-08-28T21:19:26.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[Takatoshi Ito] Japan after Kishida]]></title>
+        <id>https://v.daum.net/v/20240829053230957</id>
+        <link href="https://v.daum.net/v/20240829053230957"/>
+        <updated>2024-08-28T21:19:09.909Z</updated>
+        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:32</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Wang Son-taek] Were they not Koreans?]]></title>
+        <id>https://v.daum.net/v/20240829053050904</id>
+        <link href="https://v.daum.net/v/20240829053050904"/>
+        <updated>2024-08-28T21:19:09.910Z</updated>
+        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Editorial] Uproot sexual deepfakes]]></title>
+        <id>https://v.daum.net/v/20240829053033893</id>
+        <link href="https://v.daum.net/v/20240829053033893"/>
+        <updated>2024-08-28T21:19:09.911Z</updated>
+        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[기자수첩]쉬운 길 택한 은행…정부는 어려운 길 가고 있을까]]></title>
         <id>https://v.daum.net/v/20240829051201716</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240829050154520"/>
         <updated>2024-08-28T20:19:21.540Z</updated>
         <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">05:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설]한은이 제안한 입시제도 개선안, 공론화해 볼 만하다]]></title>
-        <id>https://v.daum.net/v/20240829050153519</id>
-        <link href="https://v.daum.net/v/20240829050153519"/>
-        <updated>2024-08-28T20:19:21.541Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">05:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[36.5˚C] '집게손' 수사 유감]]></title>
-        <id>https://v.daum.net/v/20240829043239278</id>
-        <link href="https://v.daum.net/v/20240829043239278"/>
-        <updated>2024-08-28T20:19:21.542Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대한민국, 첨단 해양모빌리티의 내일을 열다 [기고]]]></title>
-        <id>https://v.daum.net/v/20240829043147264</id>
-        <link href="https://v.daum.net/v/20240829043147264"/>
-        <updated>2024-08-28T20:19:21.544Z</updated>
-        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:31</span>]]></content>
     </entry>
 </feed>
