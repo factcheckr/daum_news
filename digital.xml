@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-08-28T12:34:20.505Z</updated>
+    <updated>2024-08-28T13:22:40.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기념촬영하는 오영주 장관]]></title>
+        <id>https://v.daum.net/v/20240828221532025</id>
+        <link href="https://v.daum.net/v/20240828221532025"/>
+        <updated>2024-08-28T13:22:20.253Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">22:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] 공공기관 정보가 장난감?…직접 물었더니 “이유 없다” [사이버위협]]]></title>
+        <id>https://v.daum.net/v/20240828215305659</id>
+        <link href="https://v.daum.net/v/20240828215305659"/>
+        <updated>2024-08-28T13:22:20.255Z</updated>
+        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">21:53</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“그림인 줄 알았다” 알고보니 ‘소름 돋는 사진’…덜 익은 삼겹살 먹었다간]]></title>
+        <id>https://v.daum.net/v/20240828214232511</id>
+        <link href="https://v.daum.net/v/20240828214232511"/>
+        <updated>2024-08-28T13:22:20.256Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">21:42</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[네이버, 딥페이크 성착취물 신고 채널 개설…"실시간 탐지 중"]]></title>
         <id>https://v.daum.net/v/20240828205328662</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240828195651423"/>
         <updated>2024-08-28T11:15:10.140Z</updated>
         <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">19:56</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["여행 갈 때 USIM 보다 eSIM”...클룩, '트래블 이심' 출시]]></title>
-        <id>https://v.daum.net/v/20240828195632411</id>
-        <link href="https://v.daum.net/v/20240828195632411"/>
-        <updated>2024-08-28T11:15:10.141Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">19:56</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷마블 '아스달 연대기: 세 개의 세력' 총력전 업데이트]]></title>
-        <id>https://v.daum.net/v/20240828195404355</id>
-        <link href="https://v.daum.net/v/20240828195404355"/>
-        <updated>2024-08-28T11:15:10.141Z</updated>
-        <content type="html"><![CDATA[게임동아<span class="txt_bar"> · </span><span class="info_time">19:54</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["韓, 딥페이크 불법영상 심각…성폭력특별법 조속히 마련돼야"]]></title>
-        <id>https://v.daum.net/v/20240828195354343</id>
-        <link href="https://v.daum.net/v/20240828195354343"/>
-        <updated>2024-08-28T11:15:10.141Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">19:53</span>]]></content>
     </entry>
 </feed>
