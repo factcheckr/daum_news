@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-08-28T08:23:08.023Z</updated>
+    <updated>2024-08-28T09:20:26.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수원시 ‘제17회 전국 창업·발명 경진대회’ 시상식 개최]]></title>
+        <id>https://v.daum.net/v/20240828175704477</id>
+        <link href="https://v.daum.net/v/20240828175704477"/>
+        <updated>2024-08-28T09:20:16.820Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:57</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화성시문화재단, ESG 경영 실천을 위한 ‘유기동물 돌봄 활동’ 전개]]></title>
         <id>https://v.daum.net/v/20240828171704292</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240828162729283"/>
         <updated>2024-08-28T08:22:58.928Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마다예 선수, '굿네이버스 글로벌 인플루언서' 위촉]]></title>
-        <id>https://v.daum.net/v/20240828161919001</id>
-        <link href="https://v.daum.net/v/20240828161919001"/>
-        <updated>2024-08-28T08:22:58.930Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">16:19</span>]]></content>
     </entry>
 </feed>
