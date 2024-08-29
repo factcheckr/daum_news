@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-08-29T18:23:49.070Z</updated>
+    <updated>2024-08-29T19:15:53.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[쓰레기의 소원 [뉴스룸에서]]]></title>
+        <id>https://v.daum.net/v/20240830040004819</id>
+        <link href="https://v.daum.net/v/20240830040004819"/>
+        <updated>2024-08-29T19:15:36.552Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[데스크 칼럼] ‘잠룡’ 김동연호 친노·친문 집결의 의미]]></title>
         <id>https://v.daum.net/v/20240830030135563</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240830005318121"/>
         <updated>2024-08-29T16:23:10.541Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:53</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김인혜의 방방곡곡 미술기행] 불교계 항일 거점은 어떻게 예술로 기록됐나]]></title>
-        <id>https://v.daum.net/v/20240830005216120</id>
-        <link href="https://v.daum.net/v/20240830005216120"/>
-        <updated>2024-08-29T16:23:10.542Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:52</span>]]></content>
     </entry>
 </feed>
