@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-08-29T09:20:26.045Z</updated>
+    <updated>2024-08-29T10:19:44.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[K-좀비 사냥 MMORPG ‘조선 이변’ 정식 출시]]></title>
+        <id>https://v.daum.net/v/20240829183706299</id>
+        <link href="https://v.daum.net/v/20240829183706299"/>
+        <updated>2024-08-29T10:19:35.452Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">18:37</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘삼국지 전략판’ 글로벌 리뉴얼 영상 공개… 역대급 업데이트 진행]]></title>
+        <id>https://v.daum.net/v/20240829183703297</id>
+        <link href="https://v.daum.net/v/20240829183703297"/>
+        <updated>2024-08-29T10:19:35.453Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">18:37</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[함께하는한숲, 다문화 청소년들 위한 ‘한국문화기행’ 진행]]></title>
         <id>https://v.daum.net/v/20240829180703487</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240829165127947"/>
         <updated>2024-08-29T08:22:36.460Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[광주 서구형 장애인일자리, 무장애 착한도시 실현 앞장]]></title>
-        <id>https://v.daum.net/v/20240829165034902</id>
-        <link href="https://v.daum.net/v/20240829165034902"/>
-        <updated>2024-08-29T08:22:36.461Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부산 사상구, 로컬크리에이터와 함께 '리틀 아시아 상권' 조성]]></title>
-        <id>https://v.daum.net/v/20240829164906834</id>
-        <link href="https://v.daum.net/v/20240829164906834"/>
-        <updated>2024-08-29T08:22:36.463Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:49</span>]]></content>
     </entry>
 </feed>
