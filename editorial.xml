@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-08-29T12:34:10.886Z</updated>
+    <updated>2024-08-29T13:23:12.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[봄눈처럼 사라지다 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20240829220231500</id>
+        <link href="https://v.daum.net/v/20240829220231500"/>
+        <updated>2024-08-29T13:22:53.214Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024년 8월 30일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20240829220055465</id>
+        <link href="https://v.daum.net/v/20240829220055465"/>
+        <updated>2024-08-29T13:22:53.215Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["소비자 호갱만드는 규제와 싸우는 게 저희 일···”]]></title>
+        <id>https://v.daum.net/v/20240829215335332</id>
+        <link href="https://v.daum.net/v/20240829215335332"/>
+        <updated>2024-08-29T13:22:53.215Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">21:53</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 소득보장보다 지속가능으로 기운 윤석열표 연금개혁]]></title>
         <id>https://v.daum.net/v/20240829205125319</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240829201543688"/>
         <updated>2024-08-29T11:16:43.793Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">20:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dokdo is safely ours even without Lee]]></title>
-        <id>https://v.daum.net/v/20240829201411671</id>
-        <link href="https://v.daum.net/v/20240829201411671"/>
-        <updated>2024-08-29T11:16:43.794Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Find a new growth engine in ‘marine mobility’]]></title>
-        <id>https://v.daum.net/v/20240829201207654</id>
-        <link href="https://v.daum.net/v/20240829201207654"/>
-        <updated>2024-08-29T11:16:43.796Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">20:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설]‘뉴라이트·채 상병’ 궤변 연발한 윤 대통령, 국민이 바보인가]]></title>
-        <id>https://v.daum.net/v/20240829201140640</id>
-        <link href="https://v.daum.net/v/20240829201140640"/>
-        <updated>2024-08-29T11:16:43.797Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:11</span>]]></content>
     </entry>
 </feed>
