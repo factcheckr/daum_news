@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-08-30T08:23:20.226Z</updated>
+    <updated>2024-08-30T09:20:09.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[앰플엔, 9월 올리브영 '올영픽' 선정 기념 할인]]></title>
+        <id>https://v.daum.net/v/20240830172326383</id>
+        <link href="https://v.daum.net/v/20240830172326383"/>
+        <updated>2024-08-30T09:20:02.155Z</updated>
+        <content type="html"><![CDATA[한국경제TV<span class="txt_bar"> · </span><span class="info_time">17:23</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안성시, 추(秋)향저격 안성여행 가을세일 페스타 운영]]></title>
         <id>https://v.daum.net/v/20240830171832231</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240830161204057"/>
         <updated>2024-08-30T07:17:21.136Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">16:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[거창군, 제16회 자원순환의 날 기념 행사 개최]]></title>
-        <id>https://v.daum.net/v/20240830161155047</id>
-        <link href="https://v.daum.net/v/20240830161155047"/>
-        <updated>2024-08-30T07:17:21.137Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:11</span>]]></content>
     </entry>
 </feed>
