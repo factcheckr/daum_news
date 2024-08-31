@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2024-08-31T17:15:01.183Z</updated>
+    <updated>2024-08-31T18:21:57.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어둠 밝히는 '얼굴천재' 차은우, "헬로 홍콩"]]></title>
+        <id>https://v.daum.net/v/20240901024527327</id>
+        <link href="https://v.daum.net/v/20240901024527327"/>
+        <updated>2024-08-31T18:21:23.249Z</updated>
+        <content type="html"><![CDATA[마이데일리<span class="txt_bar"> · </span><span class="info_time">02:45</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“아무도 날 필요로 하지 않아” 장나라 퇴사 통보에 눈물 (굿파트너)[종합]]]></title>
         <id>https://v.daum.net/v/20240901013216181</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240901003152964"/>
         <updated>2024-08-31T16:21:04.216Z</updated>
         <content type="html"><![CDATA[MBC연예<span class="txt_bar"> · </span><span class="info_time">00:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아나운서 최선규, "20년 동안 기러기 생활...불륜 루머에 시달려"('동치미')]]></title>
-        <id>https://v.daum.net/v/20240901002802959</id>
-        <link href="https://v.daum.net/v/20240901002802959"/>
-        <updated>2024-08-31T16:21:04.217Z</updated>
-        <content type="html"><![CDATA[텐아시아<span class="txt_bar"> · </span><span class="info_time">00:28</span>]]></content>
     </entry>
 </feed>
