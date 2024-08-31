@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2024-08-31T15:18:29.023Z</updated>
+    <updated>2024-08-31T16:21:49.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[데일리 헬스] 벌초 나섰다가 '이것'에 물리면 치명적…예방·대처법은?]]></title>
+        <id>https://v.daum.net/v/20240901010954112</id>
+        <link href="https://v.daum.net/v/20240901010954112"/>
+        <updated>2024-08-31T16:20:56.506Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">01:09</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[오늘의 운세] 9월 1일 일요일 (음력 7월 29일 /戊辰) 띠별 / 생년월일 운세]]></title>
+        <id>https://v.daum.net/v/20240901010125065</id>
+        <link href="https://v.daum.net/v/20240901010125065"/>
+        <updated>2024-08-31T16:20:56.507Z</updated>
+        <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">01:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울 거리에 뜬 방시혁, 과즙세연?…네티즌 폭소한 SNL 패러디]]></title>
         <id>https://v.daum.net/v/20240901000443827</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240901000051794"/>
         <updated>2024-08-31T15:17:44.859Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 날씨] 9월 첫날 전국 가끔 구름…일부 지역 빗방울]]></title>
-        <id>https://v.daum.net/v/20240901000032787</id>
-        <link href="https://v.daum.net/v/20240901000032787"/>
-        <updated>2024-08-31T15:17:44.861Z</updated>
-        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 운세] 9월 1일, 적극적이고 소신 있게 행동해야할 띠는?]]></title>
-        <id>https://v.daum.net/v/20240901000031786</id>
-        <link href="https://v.daum.net/v/20240901000031786"/>
-        <updated>2024-08-31T15:17:44.862Z</updated>
-        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
