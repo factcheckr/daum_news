@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-09-01T16:21:38.580Z</updated>
+    <updated>2024-09-01T17:15:26.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[특파원리포트] 美대선 목소리 커진 아시아계 미국인]]></title>
+        <id>https://v.daum.net/v/20240902020231087</id>
+        <link href="https://v.daum.net/v/20240902020231087"/>
+        <updated>2024-09-01T17:15:10.076Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">02:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정유신의 China Story]스마트 양로산업, 연평균 43%의 급성장세]]></title>
+        <id>https://v.daum.net/v/20240902020230086</id>
+        <link href="https://v.daum.net/v/20240902020230086"/>
+        <updated>2024-09-01T17:15:10.076Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[韓銀, 정책금리 변경과 함께 지표금리 교체도 신경 써야 [한상춘의 국제경제 읽기]]]></title>
         <id>https://v.daum.net/v/20240902004401713</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20240902003434643</id>
         <link href="https://v.daum.net/v/20240902003434643"/>
         <updated>2024-09-01T16:21:23.329Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박권의 미래를 묻다] 영원한 생명은 영원할 수 없다]]></title>
-        <id>https://v.daum.net/v/20240902003433641</id>
-        <link href="https://v.daum.net/v/20240902003433641"/>
-        <updated>2024-09-01T16:21:23.331Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가리사니] 한동훈, ‘알리바이 정치’를 넘어서려면]]></title>
-        <id>https://v.daum.net/v/20240902003432640</id>
-        <link href="https://v.daum.net/v/20240902003432640"/>
-        <updated>2024-09-01T16:21:23.333Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:34</span>]]></content>
     </entry>
 </feed>
