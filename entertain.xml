@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2024-09-01T18:22:26.206Z</updated>
+    <updated>2024-09-01T19:14:56.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김용만 "신혼여행서 '이혼' 생각, 그날 밤…"]]></title>
+        <id>https://v.daum.net/v/20240902032349512</id>
+        <link href="https://v.daum.net/v/20240902032349512"/>
+        <updated>2024-09-01T19:14:09.883Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">03:23</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[데이식스 오늘 신보 발매… 뮤비 티저 공개]]></title>
         <id>https://v.daum.net/v/20240902032032498</id>
@@ -20,7 +27,7 @@
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">03:15</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[태양 콘서트서 빅뱅 3人 깜짝 완천체…지드래곤·대성 게스트]]></title>
+        <title type="html"><![CDATA[태양 콘서트서 빅뱅 3人 깜짝 완전체…지드래곤·대성 게스트]]></title>
         <id>https://v.daum.net/v/20240902030749446</id>
         <link href="https://v.daum.net/v/20240902030749446"/>
         <updated>2024-09-01T18:21:42.367Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240902002453588"/>
         <updated>2024-09-01T16:21:00.860Z</updated>
         <content type="html"><![CDATA[OSEN<span class="txt_bar"> · </span><span class="info_time">00:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[종합]최준석 아내, 결국 이혼 선언..20억 사기 후폭풍 "그만하자"('한이결')]]></title>
-        <id>https://v.daum.net/v/20240902002301578</id>
-        <link href="https://v.daum.net/v/20240902002301578"/>
-        <updated>2024-09-01T16:21:00.862Z</updated>
-        <content type="html"><![CDATA[텐아시아<span class="txt_bar"> · </span><span class="info_time">00:23</span>]]></content>
     </entry>
 </feed>
