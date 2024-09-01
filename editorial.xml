@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-09-01T22:18:04.884Z</updated>
+    <updated>2024-09-01T23:17:29.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이들의 건강한 온라인 이용을 위한 '놀이의 전환']]></title>
+        <id>https://v.daum.net/v/20240902081031401</id>
+        <link href="https://v.daum.net/v/20240902081031401"/>
+        <updated>2024-09-01T23:17:12.434Z</updated>
+        <content type="html"><![CDATA[베이비뉴스<span class="txt_bar"> · </span><span class="info_time">08:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XY염색체 여자 복싱선수 논란… 악플보다 격려 쏟아져야 한다?]]></title>
+        <id>https://v.daum.net/v/20240902074530923</id>
+        <link href="https://v.daum.net/v/20240902074530923"/>
+        <updated>2024-09-01T23:17:12.437Z</updated>
+        <content type="html"><![CDATA[헬스조선<span class="txt_bar"> · </span><span class="info_time">07:45</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[딥페이크 성범죄, 텔레그램이 위험하다 [뉴스 콕]]]></title>
         <id>https://v.daum.net/v/20240902070300356</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240902054501360"/>
         <updated>2024-09-01T21:16:15.441Z</updated>
         <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">05:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Yoo Choon-sik] Rising housing prices in Seoul and trust in policy]]></title>
-        <id>https://v.daum.net/v/20240902053234251</id>
-        <link href="https://v.daum.net/v/20240902053234251"/>
-        <updated>2024-09-01T21:16:15.441Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Jean Pisani-Ferry] What is needed to awaken Europe?]]></title>
-        <id>https://v.daum.net/v/20240902053232250</id>
-        <link href="https://v.daum.net/v/20240902053232250"/>
-        <updated>2024-09-01T21:16:15.443Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:32</span>]]></content>
     </entry>
 </feed>
