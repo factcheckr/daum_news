@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-09-02T03:22:17.688Z</updated>
+    <updated>2024-09-02T04:22:38.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오페라 최고의 빌런은…‘오텔로’의 이아고? ‘토스카’의 스카르피아?[유윤종의 클래식感]]]></title>
+        <id>https://v.daum.net/v/20240902122220304</id>
+        <link href="https://v.daum.net/v/20240902122220304"/>
+        <updated>2024-09-02T04:22:22.461Z</updated>
+        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">12:22</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[李 “계엄 선포 뒤 국회의원 체포” 근거 못 대면 혹세무민[사설]]]></title>
         <id>https://v.daum.net/v/20240902114406043</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240902100142225"/>
         <updated>2024-09-02T01:17:34.062Z</updated>
         <content type="html"><![CDATA[헬스조선<span class="txt_bar"> · </span><span class="info_time">10:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인간에 대한 예의를 내던진 아리셀의 자본가들 [6411의 목소리]]]></title>
-        <id>https://v.daum.net/v/20240902093519111</id>
-        <link href="https://v.daum.net/v/20240902093519111"/>
-        <updated>2024-09-02T01:17:34.062Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">09:35</span>]]></content>
     </entry>
 </feed>
