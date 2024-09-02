@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2024-09-02T16:24:09.175Z</updated>
+    <updated>2024-09-02T17:16:18.711Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["예쁜 수영복 드디어 입어"…오윤아, 완벽한 몸매 자랑]]></title>
+        <id>https://v.daum.net/v/20240903020011959</id>
+        <link href="https://v.daum.net/v/20240903020011959"/>
+        <updated>2024-09-02T17:15:31.432Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">02:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[움짤] 김혜윤, 임솔 '감성 업고 가을']]></title>
+        <id>https://v.daum.net/v/20240903013623909</id>
+        <link href="https://v.daum.net/v/20240903013623909"/>
+        <updated>2024-09-02T17:15:31.433Z</updated>
+        <content type="html"><![CDATA[MBC연예<span class="txt_bar"> · </span><span class="info_time">01:36</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박지민, "원래 여자는 힘든 것→전동휠 출근’ 남편에 "최악의 등장신" (결혼 지옥)]]></title>
         <id>https://v.daum.net/v/20240903011423842</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240903003520655"/>
         <updated>2024-09-02T16:23:12.909Z</updated>
         <content type="html"><![CDATA[MBC연예<span class="txt_bar"> · </span><span class="info_time">00:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['시구' 박신혜, '랜디 신혜'의 재림.. 김선우 "유희관보다 구속 빨라"('최강야구')]]></title>
-        <id>https://v.daum.net/v/20240903003431650</id>
-        <link href="https://v.daum.net/v/20240903003431650"/>
-        <updated>2024-09-02T16:23:12.911Z</updated>
-        <content type="html"><![CDATA[TV리포트<span class="txt_bar"> · </span><span class="info_time">00:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스파링 남편 "교도소서 복싱 배워→집안일은 女만" 충격 고백 (결혼지옥) [종합]]]></title>
-        <id>https://v.daum.net/v/20240903003127623</id>
-        <link href="https://v.daum.net/v/20240903003127623"/>
-        <updated>2024-09-02T16:23:12.912Z</updated>
-        <content type="html"><![CDATA[TV리포트<span class="txt_bar"> · </span><span class="info_time">00:31</span>]]></content>
     </entry>
 </feed>
