@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-09-02T13:23:28.852Z</updated>
+    <updated>2024-09-02T14:17:16.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[동영상] 24년 9월 1주차 신작 게임 소식]]></title>
+        <id>https://v.daum.net/v/20240902231501857</id>
+        <link href="https://v.daum.net/v/20240902231501857"/>
+        <updated>2024-09-02T14:16:51.445Z</updated>
+        <content type="html"><![CDATA[게임동아<span class="txt_bar"> · </span><span class="info_time">23:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔비디아, 오픈AI에 1억달러 투자 검토]]></title>
+        <id>https://v.daum.net/v/20240902224250603</id>
+        <link href="https://v.daum.net/v/20240902224250603"/>
+        <updated>2024-09-02T14:16:51.445Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">22:42</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘양자 도시’ 굳히기…‘산업 생태계’ 필요]]></title>
         <id>https://v.daum.net/v/20240902221156331</id>
@@ -48,7 +62,7 @@
         <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">21:23</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[퍼스트 디센던트, 침공 시즌 평가 떡락한 이유는?]]></title>
+        <title type="html"><![CDATA[퍼스트 디센던트, 침공 시즌 대대적 개선 착수]]></title>
         <id>https://v.daum.net/v/20240902211936777</id>
         <link href="https://v.daum.net/v/20240902211936777"/>
         <updated>2024-09-02T12:35:02.134Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240902203927302"/>
         <updated>2024-09-02T12:35:02.142Z</updated>
         <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">20:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["복잡한 블록체인, 라인 메신저 하나로 쉽게…'미니 디앱'이 핵심"]]></title>
-        <id>https://v.daum.net/v/20240902203751291</id>
-        <link href="https://v.daum.net/v/20240902203751291"/>
-        <updated>2024-09-02T12:35:02.144Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">20:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서경배과학재단 신진 과학자 박승열·이준용 교수 선정 영예]]></title>
-        <id>https://v.daum.net/v/20240902203529267</id>
-        <link href="https://v.daum.net/v/20240902203529267"/>
-        <updated>2024-09-02T12:35:02.147Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">20:35</span>]]></content>
     </entry>
 </feed>
