@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-09-03T22:18:21.563Z</updated>
+    <updated>2024-09-03T23:19:25.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미추홀 전세사기의 결말 [전국 프리즘]]]></title>
+        <id>https://v.daum.net/v/20240904080510174</id>
+        <link href="https://v.daum.net/v/20240904080510174"/>
+        <updated>2024-09-03T23:19:08.214Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">08:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[초동시각] 8년 만에 풀린 푸드트럭 규제]]></title>
+        <id>https://v.daum.net/v/20240904075509975</id>
+        <link href="https://v.daum.net/v/20240904075509975"/>
+        <updated>2024-09-03T23:19:08.216Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">07:55</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국의 보수 세력이 남다른 이유 [하종강 칼럼]]]></title>
         <id>https://v.daum.net/v/20240904070508270</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240904060102385"/>
         <updated>2024-09-03T21:17:00.195Z</updated>
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">06:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[건국절 논쟁, 제대로 해봅시다[편집실에서]]]></title>
-        <id>https://v.daum.net/v/20240904060102384</id>
-        <link href="https://v.daum.net/v/20240904060102384"/>
-        <updated>2024-09-03T21:17:00.195Z</updated>
-        <content type="html"><![CDATA[주간경향<span class="txt_bar"> · </span><span class="info_time">06:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기자수첩]"어쩌면 사과 받고 싶었는지도 몰라"]]></title>
-        <id>https://v.daum.net/v/20240904060017318</id>
-        <link href="https://v.daum.net/v/20240904060017318"/>
-        <updated>2024-09-03T21:17:00.196Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
     </entry>
 </feed>
