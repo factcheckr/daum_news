@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-09-03T07:17:52.758Z</updated>
+    <updated>2024-09-03T08:23:26.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이디]]></title>
+        <id>https://v.daum.net/v/20240903171204721</id>
+        <link href="https://v.daum.net/v/20240903171204721"/>
+        <updated>2024-09-03T08:23:06.902Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:12</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[61회 방송의 날, 방송의 미래는]]></title>
+        <id>https://v.daum.net/v/20240903164552478</id>
+        <link href="https://v.daum.net/v/20240903164552478"/>
+        <updated>2024-09-03T08:23:06.904Z</updated>
+        <content type="html"><![CDATA[미디어오늘<span class="txt_bar"> · </span><span class="info_time">16:45</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[옥수수가 비명을 지르자 콩이 나섰다 [오철우의 과학풍경]]]></title>
+        <id>https://v.daum.net/v/20240903163512989</id>
+        <link href="https://v.daum.net/v/20240903163512989"/>
+        <updated>2024-09-03T08:23:06.905Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">16:35</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[지평선] 고향사랑기부, 곡성의 기적]]></title>
+        <id>https://v.daum.net/v/20240903162233418</id>
+        <link href="https://v.daum.net/v/20240903162233418"/>
+        <updated>2024-09-03T08:23:06.909Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">16:22</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[김경환 변호사의 디지털법] 〈38〉영업비밀 사용 추정규정 신설해서 영업비밀 침해 억제해야]]></title>
         <id>https://v.daum.net/v/20240903160236276</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20240903113502875"/>
         <updated>2024-09-03T02:41:03.738Z</updated>
         <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">11:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 주담대 규제 강화 필요하나 실수요자 피해 최소화해야]]></title>
-        <id>https://v.daum.net/v/20240903111431827</id>
-        <link href="https://v.daum.net/v/20240903111431827"/>
-        <updated>2024-09-03T02:41:03.742Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 반도체 명가 인텔의 위기, IT 기업들 반면교사 삼길]]></title>
-        <id>https://v.daum.net/v/20240903111231742</id>
-        <link href="https://v.daum.net/v/20240903111231742"/>
-        <updated>2024-09-03T02:41:03.742Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데일리안 시사만평] 22대 국회, '96일 최장 지각 개원'…'사상 첫 대통령 불참'까지 '신기록']]></title>
-        <id>https://v.daum.net/v/20240903110122183</id>
-        <link href="https://v.daum.net/v/20240903110122183"/>
-        <updated>2024-09-03T02:41:03.742Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">11:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시시비비]딥페이크 범죄와의 전쟁]]></title>
-        <id>https://v.daum.net/v/20240903105910046</id>
-        <link href="https://v.daum.net/v/20240903105910046"/>
-        <updated>2024-09-03T02:41:03.745Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">10:59</span>]]></content>
     </entry>
 </feed>
