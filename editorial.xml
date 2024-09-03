@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-09-03T12:34:37.793Z</updated>
+    <updated>2024-09-03T13:24:04.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024년 9월 4일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20240903214240136</id>
+        <link href="https://v.daum.net/v/20240903214240136"/>
+        <updated>2024-09-03T13:23:45.365Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">21:42</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[공감]반짝이던 것이 스러진 자리에서]]></title>
         <id>https://v.daum.net/v/20240903212651930</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240903195242232</id>
         <link href="https://v.daum.net/v/20240903195242232"/>
         <updated>2024-09-03T11:15:32.221Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">19:52</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김행의 민심깨기] 비혼출산, 혁명적으로 받아들이자]]></title>
-        <id>https://v.daum.net/v/20240903195233224</id>
-        <link href="https://v.daum.net/v/20240903195233224"/>
-        <updated>2024-09-03T11:15:32.222Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">19:52</span>]]></content>
     </entry>
 </feed>
