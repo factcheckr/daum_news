@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-09-04T03:20:08.730Z</updated>
+    <updated>2024-09-04T04:22:16.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“어떻게 세운 나라인데”…산업·민주·선진화세대 갈등 심각, 공존의 시대 열려면 [김명수 칼럼]]]></title>
+        <id>https://v.daum.net/v/20240904125101567</id>
+        <link href="https://v.daum.net/v/20240904125101567"/>
+        <updated>2024-09-04T04:21:52.949Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">12:51</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“밸류업으로 증시 부양도 못하고 가계빚 폭발”…그런데 빚줄이기 고통 감내하라고? [필동정담]]]></title>
         <id>https://v.daum.net/v/20240904121500869</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240904094448523"/>
         <updated>2024-09-04T01:16:50.060Z</updated>
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">09:44</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alarming insensitivity to protecting human rights (KOR)]]></title>
-        <id>https://v.daum.net/v/20240904093323063</id>
-        <link href="https://v.daum.net/v/20240904093323063"/>
-        <updated>2024-09-04T01:16:50.060Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">09:33</span>]]></content>
     </entry>
 </feed>
