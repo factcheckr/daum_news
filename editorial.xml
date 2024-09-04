@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-09-04T04:22:16.568Z</updated>
+    <updated>2024-09-04T05:19:13.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사설] 스쿨존 교통사고 판결, 국민 납득할 수 있도록]]></title>
+        <id>https://v.daum.net/v/20240904141050093</id>
+        <link href="https://v.daum.net/v/20240904141050093"/>
+        <updated>2024-09-04T05:18:56.665Z</updated>
+        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">14:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사설] 서산공항 연내 기본계획 수립 차질 없어야]]></title>
+        <id>https://v.daum.net/v/20240904140951037</id>
+        <link href="https://v.daum.net/v/20240904140951037"/>
+        <updated>2024-09-04T05:18:56.668Z</updated>
+        <content type="html"><![CDATA[대전일보<span class="txt_bar"> · </span><span class="info_time">14:09</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“어떻게 세운 나라인데”…산업·민주·선진화세대 갈등 심각, 공존의 시대 열려면 [김명수 칼럼]]]></title>
         <id>https://v.daum.net/v/20240904125101567</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240904110128335"/>
         <updated>2024-09-04T02:43:32.195Z</updated>
         <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">11:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기자수첩]‘정치 팬덤 쇼츠’로 변질된 검찰총장 인사청문회]]></title>
-        <id>https://v.daum.net/v/20240904100036243</id>
-        <link href="https://v.daum.net/v/20240904100036243"/>
-        <updated>2024-09-04T01:16:50.060Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">10:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기자수첩]서울시가 나서 '전기차 포비아' 키워서야]]></title>
-        <id>https://v.daum.net/v/20240904094448523</id>
-        <link href="https://v.daum.net/v/20240904094448523"/>
-        <updated>2024-09-04T01:16:50.060Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">09:44</span>]]></content>
     </entry>
 </feed>
