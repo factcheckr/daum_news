@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-09-05T07:17:24.250Z</updated>
+    <updated>2024-09-05T08:23:20.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[포토에세이] 둥지 떠날 채비]]></title>
+        <id>https://v.daum.net/v/20240905164814457</id>
+        <link href="https://v.daum.net/v/20240905164814457"/>
+        <updated>2024-09-05T08:23:00.075Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">16:48</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[기고] 피터팬증후군 키우는 기업 지배구조 옥죄기]]></title>
+        <id>https://v.daum.net/v/20240905164813456</id>
+        <link href="https://v.daum.net/v/20240905164813456"/>
+        <updated>2024-09-05T08:23:00.075Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">16:48</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[매경의 창] MBC의 잃어버린 7년]]></title>
+        <id>https://v.daum.net/v/20240905164811455</id>
+        <link href="https://v.daum.net/v/20240905164811455"/>
+        <updated>2024-09-05T08:23:00.077Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">16:48</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[기자24시] 민주당이 음모론을 만났을 때]]></title>
+        <id>https://v.daum.net/v/20240905164809452</id>
+        <link href="https://v.daum.net/v/20240905164809452"/>
+        <updated>2024-09-05T08:23:00.077Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">16:48</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[남자들이 민주주의를 구할 시간 [특파원 칼럼]]]></title>
+        <id>https://v.daum.net/v/20240905164007092</id>
+        <link href="https://v.daum.net/v/20240905164007092"/>
+        <updated>2024-09-05T08:23:00.077Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">16:40</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[당신도 중산층이라고요? [아침햇발]]]></title>
         <id>https://v.daum.net/v/20240905161510018</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20240905143509581"/>
         <updated>2024-09-05T06:25:06.113Z</updated>
         <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">14:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부고] 조홍래(한국투자신탁운용 부회장)씨 부친상]]></title>
-        <id>https://v.daum.net/v/20240905142232748</id>
-        <link href="https://v.daum.net/v/20240905142232748"/>
-        <updated>2024-09-05T06:25:06.113Z</updated>
-        <content type="html"><![CDATA[머니S<span class="txt_bar"> · </span><span class="info_time">14:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[신간] 'C랩처럼 도전하라(사원에서 사장으로 대한민국 창업대국을 꿈꾸다)']]></title>
-        <id>https://v.daum.net/v/20240905135557381</id>
-        <link href="https://v.daum.net/v/20240905135557381"/>
-        <updated>2024-09-05T05:17:39.051Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">13:55</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여야, 연금개혁 정부안 토대로 정기국회에서 타결하라[사설]]]></title>
-        <id>https://v.daum.net/v/20240905114136762</id>
-        <link href="https://v.daum.net/v/20240905114136762"/>
-        <updated>2024-09-05T02:44:10.365Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:41</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세계 국방비 급증 속 폴란드 전시회도 사로잡은 K-방산[사설]]]></title>
-        <id>https://v.daum.net/v/20240905114134760</id>
-        <link href="https://v.daum.net/v/20240905114134760"/>
-        <updated>2024-09-05T02:44:10.365Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:41</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘딥페이크 범죄’ 입법 팽개치다 호들갑 떠는 뒷북 국회[사설]]]></title>
-        <id>https://v.daum.net/v/20240905114133759</id>
-        <link href="https://v.daum.net/v/20240905114133759"/>
-        <updated>2024-09-05T02:44:10.365Z</updated>
-        <content type="html"><![CDATA[문화일보<span class="txt_bar"> · </span><span class="info_time">11:41</span>]]></content>
     </entry>
 </feed>
