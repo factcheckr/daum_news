@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-09-05T03:21:18.981Z</updated>
+    <updated>2024-09-05T04:22:59.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[파미고, 글쓰기 공모전 ‘My Dream, My Future’ 개최]]></title>
+        <id>https://v.daum.net/v/20240905131703155</id>
+        <link href="https://v.daum.net/v/20240905131703155"/>
+        <updated>2024-09-05T04:22:45.845Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">13:17</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 혁신의 진행: NPCI, GFF 2024에서 미래의 디지털 결제를 재상상]]></title>
+        <id>https://v.daum.net/v/20240905131359082</id>
+        <link href="https://v.daum.net/v/20240905131359082"/>
+        <updated>2024-09-05T04:22:45.845Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">13:13</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘벤디트’가 빠른 성장에 맞춰 선택한 채용 솔루션 ‘라운드HR’]]></title>
         <id>https://v.daum.net/v/20240905120704832</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240905112345739"/>
         <updated>2024-09-05T02:44:18.162Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:23</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이브자리, 전국 대리점서 ‘추석맞이 선물대전’ 실시]]></title>
-        <id>https://v.daum.net/v/20240905111712373</id>
-        <link href="https://v.daum.net/v/20240905111712373"/>
-        <updated>2024-09-05T02:44:18.163Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">11:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성스토어, 고객 성원에 한 번 더 ‘앙코르 AI 삼세페’ 9월 8일까지 열려]]></title>
-        <id>https://v.daum.net/v/20240905111710372</id>
-        <link href="https://v.daum.net/v/20240905111710372"/>
-        <updated>2024-09-05T02:44:18.165Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">11:17</span>]]></content>
     </entry>
 </feed>
