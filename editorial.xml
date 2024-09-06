@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-09-06T09:19:36.683Z</updated>
+    <updated>2024-09-06T10:19:58.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[Top 5 베이비뉴스] 국민의 마음 속으로, 더 깊이 들어가야 해결책이 나옵니다]]></title>
+        <id>https://v.daum.net/v/20240906182928426</id>
+        <link href="https://v.daum.net/v/20240906182928426"/>
+        <updated>2024-09-06T10:19:40.163Z</updated>
+        <content type="html"><![CDATA[베이비뉴스<span class="txt_bar"> · </span><span class="info_time">18:29</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설]여야의정 협의체, 대통령이 태도 변화 밝히고 의료계도 동참해야]]></title>
         <id>https://v.daum.net/v/20240906181015025</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240906173606792</id>
         <link href="https://v.daum.net/v/20240906173606792"/>
         <updated>2024-09-06T09:19:21.771Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김상준의 횡단] AI백신이 필요하다]]></title>
-        <id>https://v.daum.net/v/20240906173604790</id>
-        <link href="https://v.daum.net/v/20240906173604790"/>
-        <updated>2024-09-06T09:19:21.773Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:36</span>]]></content>
     </entry>
 </feed>
