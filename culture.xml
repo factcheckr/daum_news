@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2024-09-08T16:22:39.568Z</updated>
+    <updated>2024-09-08T17:16:56.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시주함 훔친 소년 품어준 스님… 남자의 인생 바꿨다]]></title>
+        <id>https://v.daum.net/v/20240909013642652</id>
+        <link href="https://v.daum.net/v/20240909013642652"/>
+        <updated>2024-09-08T17:15:48.542Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">01:36</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오늘의 운세] 9월 9일 월요일 (음력 8월 7일 /丙子) 띠별 / 생년월일 운세]]></title>
         <id>https://v.daum.net/v/20240909010115565</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240909001505379"/>
         <updated>2024-09-08T15:18:38.037Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 운세] 9월 9일]]></title>
-        <id>https://v.daum.net/v/20240909000256228</id>
-        <link href="https://v.daum.net/v/20240909000256228"/>
-        <updated>2024-09-08T15:18:38.038Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
     </entry>
 </feed>
