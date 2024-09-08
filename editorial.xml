@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-09-08T07:16:15.097Z</updated>
+    <updated>2024-09-08T08:21:31.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이디]]></title>
+        <id>https://v.daum.net/v/20240908172100349</id>
+        <link href="https://v.daum.net/v/20240908172100349"/>
+        <updated>2024-09-08T08:21:14.705Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:21</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[전화성의 기술창업 Targeting] 〈317〉 [AC협회장 주간록27] 내년도 중기부 예산과 스타트업 생태계 전망]]></title>
+        <id>https://v.daum.net/v/20240908170231079</id>
+        <link href="https://v.daum.net/v/20240908170231079"/>
+        <updated>2024-09-08T08:21:14.708Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">17:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사설]의정갈등 해결 위해 협의체 참여해야]]></title>
+        <id>https://v.daum.net/v/20240908165232876</id>
+        <link href="https://v.daum.net/v/20240908165232876"/>
+        <updated>2024-09-08T08:21:14.708Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">16:52</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기후위기에서, 다시 기후붕괴로 [한겨레 프리즘]]]></title>
+        <id>https://v.daum.net/v/20240908162501337</id>
+        <link href="https://v.daum.net/v/20240908162501337"/>
+        <updated>2024-09-08T08:21:14.710Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">16:25</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나 태어난 집은 어디인가? [정끝별의 소소한 시선]]]></title>
+        <id>https://v.daum.net/v/20240908162011267</id>
+        <link href="https://v.daum.net/v/20240908162011267"/>
+        <updated>2024-09-08T08:21:14.710Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">16:20</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[ESG칼럼] 기후소송 판결과 '기후테크']]></title>
         <id>https://v.daum.net/v/20240908160327973</id>
@@ -74,19 +109,5 @@
         <link href="https://v.daum.net/v/20240908080139359"/>
         <updated>2024-09-07T23:17:04.611Z</updated>
         <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">08:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내 집 마련 원하는 주부, '전세 vs 월세' 뭐가 더 좋을까?[이예원의 똑똑한 주부 재테크]]]></title>
-        <id>https://v.daum.net/v/20240908080127350</id>
-        <link href="https://v.daum.net/v/20240908080127350"/>
-        <updated>2024-09-07T23:17:04.612Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">08:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국에 ‘조선 골리앗’이 출범한다 [김규환의 핸디 차이나]]]></title>
-        <id>https://v.daum.net/v/20240908070707889</id>
-        <link href="https://v.daum.net/v/20240908070707889"/>
-        <updated>2024-09-07T22:16:06.838Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:07</span>]]></content>
     </entry>
 </feed>
