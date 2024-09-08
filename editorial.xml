@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-09-08T18:24:06.971Z</updated>
+    <updated>2024-09-08T19:16:28.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[광화문] '확장현실' 만난 메타버스]]></title>
+        <id>https://v.daum.net/v/20240909040131923</id>
+        <link href="https://v.daum.net/v/20240909040131923"/>
+        <updated>2024-09-08T19:16:06.139Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">04:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[지지대] 대통령 추석선물 거부]]></title>
         <id>https://v.daum.net/v/20240909030128768</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240909012204608"/>
         <updated>2024-09-08T16:22:19.895Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">01:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 여야, 증시 발목 잡지 말고 금투세 폐지 논의 서두르길]]></title>
-        <id>https://v.daum.net/v/20240909011937605</id>
-        <link href="https://v.daum.net/v/20240909011937605"/>
-        <updated>2024-09-08T16:22:19.896Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">01:19</span>]]></content>
     </entry>
 </feed>
