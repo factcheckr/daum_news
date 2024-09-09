@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-09-09T11:16:22.264Z</updated>
+    <updated>2024-09-09T12:35:19.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] HSBC 데이터, 해외 유학에 대한 세대 간의 의견 격차를 보여]]></title>
+        <id>https://v.daum.net/v/20240909205036791</id>
+        <link href="https://v.daum.net/v/20240909205036791"/>
+        <updated>2024-09-09T12:35:12.723Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:50</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화성시문화재단, 총 350명 생활문화동호인과 함께하는 화성시 생활문화동호회 페스티벌 성료]]></title>
         <id>https://v.daum.net/v/20240909180704226</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240909165520645"/>
         <updated>2024-09-09T08:25:08.563Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">16:55</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한-UAE 투자 및 비즈니스 설명회 통해 “미래지향적 경제협력 방안 모색”]]></title>
-        <id>https://v.daum.net/v/20240909165339599</id>
-        <link href="https://v.daum.net/v/20240909165339599"/>
-        <updated>2024-09-09T08:25:08.564Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">16:53</span>]]></content>
     </entry>
 </feed>
