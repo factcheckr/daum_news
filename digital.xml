@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-09-09T18:24:02.199Z</updated>
+    <updated>2024-09-09T19:15:13.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[애플 아이폰16·애플워치10, 오는 20일 국내 출시]]></title>
+        <id>https://v.daum.net/v/20240910041230372</id>
+        <link href="https://v.daum.net/v/20240910041230372"/>
+        <updated>2024-09-09T19:14:48.947Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">04:12</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[속보] ‘아이폰 16’ 1차 출시국 한국 포함...오는 20일 출시]]></title>
+        <id>https://v.daum.net/v/20240910040554365</id>
+        <link href="https://v.daum.net/v/20240910040554365"/>
+        <updated>2024-09-09T19:14:48.947Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">04:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["담수설비로 탄소까지 포집, 내년 착공"]]></title>
+        <id>https://v.daum.net/v/20240910040004339</id>
+        <link href="https://v.daum.net/v/20240910040004339"/>
+        <updated>2024-09-09T19:14:48.947Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이폰16, A18칩 탑재...첫 번째 ‘애플 인텔리전스’ 내달 제공]]></title>
+        <id>https://v.daum.net/v/20240910034105327</id>
+        <link href="https://v.daum.net/v/20240910034105327"/>
+        <updated>2024-09-09T19:14:48.948Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">03:41</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[속보] “애플 인텔리전스, 내달 베타 버전 출시”]]></title>
         <id>https://v.daum.net/v/20240910030408196</id>
@@ -81,12 +109,5 @@
         <link href="https://v.daum.net/v/20240910001041580"/>
         <updated>2024-09-09T15:19:27.846Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20년 안에 전 세계 인구 70%, 극단적 기후 변화 겪는다]]></title>
-        <id>https://v.daum.net/v/20240910000142358</id>
-        <link href="https://v.daum.net/v/20240910000142358"/>
-        <updated>2024-09-09T15:19:27.848Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
     </entry>
 </feed>
