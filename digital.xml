@@ -2,112 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-09-09T14:21:42.008Z</updated>
+    <updated>2024-09-09T15:19:49.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA["우주에서 숲 샅샅이"...산림위성센터, 본격 출범]]></title>
-        <id>https://v.daum.net/v/20240909231929035</id>
-        <link href="https://v.daum.net/v/20240909231929035"/>
-        <updated>2024-09-09T14:21:12.006Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">23:19</span>]]></content>
+        <title type="html"><![CDATA[[사진] 횡단보도 문제없죠, 완벽한 배달]]></title>
+        <id>https://v.daum.net/v/20240910001041580</id>
+        <link href="https://v.daum.net/v/20240910001041580"/>
+        <updated>2024-09-09T15:19:27.846Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:10</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[밴드 '봉제인간', 멜론 9월 아티스트로 선정]]></title>
-        <id>https://v.daum.net/v/20240909230703949</id>
-        <link href="https://v.daum.net/v/20240909230703949"/>
-        <updated>2024-09-09T14:21:12.008Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">23:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔씨, 웹젠에 "R2M 사용·배표 중단하고 600억원 내라"]]></title>
-        <id>https://v.daum.net/v/20240909224832796</id>
-        <link href="https://v.daum.net/v/20240909224832796"/>
-        <updated>2024-09-09T14:21:12.008Z</updated>
-        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">22:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[동영상] 24년 9월 2주차 신작 게임 소식]]></title>
-        <id>https://v.daum.net/v/20240909220603535</id>
-        <link href="https://v.daum.net/v/20240909220603535"/>
-        <updated>2024-09-09T13:26:14.624Z</updated>
-        <content type="html"><![CDATA[게임동아<span class="txt_bar"> · </span><span class="info_time">22:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인공근육 달린 로봇 개발···"자갈·모래서도 13cm 점프"]]></title>
-        <id>https://v.daum.net/v/20240909220550530</id>
-        <link href="https://v.daum.net/v/20240909220550530"/>
-        <updated>2024-09-09T13:26:14.624Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">22:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["스마트폰 그만하세요" 말한 곳이…통신사들 두 발 벗고 나섰다]]></title>
-        <id>https://v.daum.net/v/20240909220102471</id>
-        <link href="https://v.daum.net/v/20240909220102471"/>
-        <updated>2024-09-09T13:26:14.624Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우주항공 중소기업 71% “우항청 기술개발 주력해야”]]></title>
-        <id>https://v.daum.net/v/20240909220012459</id>
-        <link href="https://v.daum.net/v/20240909220012459"/>
-        <updated>2024-09-09T13:26:14.625Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[산부인과의사회 “전공의·의대생, 여야의정 협의체서 끝장토론해야”]]></title>
-        <id>https://v.daum.net/v/20240909215932449</id>
-        <link href="https://v.daum.net/v/20240909215932449"/>
-        <updated>2024-09-09T13:26:14.628Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">21:59</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KT, 경기스쿨넷서비스협동조합과 경기도 교육환경 개선 맞손]]></title>
-        <id>https://v.daum.net/v/20240909215830441</id>
-        <link href="https://v.daum.net/v/20240909215830441"/>
-        <updated>2024-09-09T13:26:14.629Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">21:58</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“LTE 요금제, 5G보다 비싸고 데이터 적어”…1,300만 명 ‘바가지’ 피해]]></title>
-        <id>https://v.daum.net/v/20240909214915337</id>
-        <link href="https://v.daum.net/v/20240909214915337"/>
-        <updated>2024-09-09T13:26:14.630Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">21:49</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“반짝반짝 저게 뭐야”…몇년 뒤 밤하늘 가득 뒤덮을 거라는 이 물건, 정체는 [디지털+]]]></title>
-        <id>https://v.daum.net/v/20240909214501301</id>
-        <link href="https://v.daum.net/v/20240909214501301"/>
-        <updated>2024-09-09T13:26:14.632Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">21:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KAZAKHSTAN BAIKONUR DAILY LIFE]]></title>
-        <id>https://v.daum.net/v/20240909213354226</id>
-        <link href="https://v.daum.net/v/20240909213354226"/>
-        <updated>2024-09-09T12:34:59.561Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">21:33</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KAZAKHSTAN BAIKONUR DAILY LIFE]]></title>
-        <id>https://v.daum.net/v/20240909213134211</id>
-        <link href="https://v.daum.net/v/20240909213134211"/>
-        <updated>2024-09-09T12:34:59.561Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">21:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KAZAKHSTAN BAIKONUR DAILY LIFE]]></title>
-        <id>https://v.daum.net/v/20240909213130210</id>
-        <link href="https://v.daum.net/v/20240909213130210"/>
-        <updated>2024-09-09T12:34:59.561Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">21:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[게임위, 2024 게임물 사후관리 청년 서포터즈 발대식 진행]]></title>
-        <id>https://v.daum.net/v/20240909212127128</id>
-        <link href="https://v.daum.net/v/20240909212127128"/>
-        <updated>2024-09-09T12:34:59.563Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">21:21</span>]]></content>
+        <title type="html"><![CDATA[20년 안에 전 세계 인구 70%, 극단적 기후 변화 겪는다]]></title>
+        <id>https://v.daum.net/v/20240910000142358</id>
+        <link href="https://v.daum.net/v/20240910000142358"/>
+        <updated>2024-09-09T15:19:27.848Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
     </entry>
 </feed>
