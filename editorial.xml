@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-09-10T22:21:09.647Z</updated>
+    <updated>2024-09-10T23:17:59.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[시시비비]해상풍력에 드리워진 ‘큰 정부’ 그림자]]></title>
+        <id>https://v.daum.net/v/20240911073011147</id>
+        <link href="https://v.daum.net/v/20240911073011147"/>
+        <updated>2024-09-10T23:17:43.078Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">07:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[명예훼손죄 존폐를 묻는다 [홍성수 칼럼]]]></title>
         <id>https://v.daum.net/v/20240911070507886</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240911055134799"/>
         <updated>2024-09-10T21:18:00.090Z</updated>
         <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">05:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Christophe Andre] Will AI hit employment, raise productivity, and increase inequality?]]></title>
-        <id>https://v.daum.net/v/20240911053045511</id>
-        <link href="https://v.daum.net/v/20240911053045511"/>
-        <updated>2024-09-10T21:18:00.091Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
     </entry>
 </feed>
