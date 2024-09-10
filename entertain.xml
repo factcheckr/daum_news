@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2024-09-10T16:21:42.529Z</updated>
+    <updated>2024-09-10T17:16:40.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송혜교, 시크하고 우아하게…도회적인 매력 [화보]]]></title>
+        <id>https://v.daum.net/v/20240911020127368</id>
+        <link href="https://v.daum.net/v/20240911020127368"/>
+        <updated>2024-09-10T17:15:53.925Z</updated>
+        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">02:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주우재 "반성문 써오라 하는 남친? 컨트롤 할 사람 만나려는 것"(연애의 참견)]]></title>
         <id>https://v.daum.net/v/20240911010350986</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240911001128592"/>
         <updated>2024-09-10T15:19:07.031Z</updated>
         <content type="html"><![CDATA[TV리포트<span class="txt_bar"> · </span><span class="info_time">00:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[종합]예지원, ♥이동준과 진실토크 "연애 3번, 배우 만난 적 없다"('사생활')]]></title>
-        <id>https://v.daum.net/v/20240911000902574</id>
-        <link href="https://v.daum.net/v/20240911000902574"/>
-        <updated>2024-09-10T15:19:07.032Z</updated>
-        <content type="html"><![CDATA[텐아시아<span class="txt_bar"> · </span><span class="info_time">00:09</span>]]></content>
     </entry>
 </feed>
