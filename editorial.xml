@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-09-10T06:25:46.452Z</updated>
+    <updated>2024-09-10T07:18:59.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[기고] 학술지 네이처(Nature) 유감(遺憾)]]></title>
+        <id>https://v.daum.net/v/20240910160303447</id>
+        <link href="https://v.daum.net/v/20240910160303447"/>
+        <updated>2024-09-10T07:18:43.801Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">16:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[THE VIEW]삼성전자 기술인력 유출 심각하다]]></title>
+        <id>https://v.daum.net/v/20240910153434240</id>
+        <link href="https://v.daum.net/v/20240910153434240"/>
+        <updated>2024-09-10T07:18:43.801Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">15:34</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기초연금 40만원 시대 [유레카]]]></title>
         <id>https://v.daum.net/v/20240910151008135</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240910111031327"/>
         <updated>2024-09-10T02:44:25.065Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 빅테크 사후 규제, 혁신 생태계 훼손 막을 고육책]]></title>
-        <id>https://v.daum.net/v/20240910110919266</id>
-        <link href="https://v.daum.net/v/20240910110919266"/>
-        <updated>2024-09-10T02:44:25.067Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기고] 가상자산 시장 활성화 시급]]></title>
-        <id>https://v.daum.net/v/20240910110217827</id>
-        <link href="https://v.daum.net/v/20240910110217827"/>
-        <updated>2024-09-10T02:44:25.069Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">11:02</span>]]></content>
     </entry>
 </feed>
