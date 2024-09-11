@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-09-11T16:22:49.360Z</updated>
+    <updated>2024-09-11T17:16:28.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]바이브세션과 블랙스완]]></title>
+        <id>https://v.daum.net/v/20240912020301211</id>
+        <link href="https://v.daum.net/v/20240912020301211"/>
+        <updated>2024-09-11T17:16:13.508Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]AI 시대, 법학의 위기]]></title>
+        <id>https://v.daum.net/v/20240912020201210</id>
+        <link href="https://v.daum.net/v/20240912020201210"/>
+        <updated>2024-09-11T17:16:13.509Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 저출생 반등 성공한 헝가리 정책 연구할 가치 있다]]></title>
         <id>https://v.daum.net/v/20240912010010853</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240912003452655"/>
         <updated>2024-09-11T16:22:32.756Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 청소년 SNS 사용 금지법 만드는 호주, 우린 필요 없나]]></title>
-        <id>https://v.daum.net/v/20240912003424653</id>
-        <link href="https://v.daum.net/v/20240912003424653"/>
-        <updated>2024-09-11T16:22:32.756Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[김현기의 시시각각] 22년만의 국빈 방일 가능할까]]></title>
-        <id>https://v.daum.net/v/20240912003332652</id>
-        <link href="https://v.daum.net/v/20240912003332652"/>
-        <updated>2024-09-11T16:22:32.759Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:33</span>]]></content>
     </entry>
 </feed>

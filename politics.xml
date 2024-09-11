@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2024-09-11T16:22:49.345Z</updated>
+    <updated>2024-09-11T17:16:28.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대구취수원 안동댐 이전 계획에 민주당 "취수원 이전 예산 전액 삭감할 것"]]></title>
+        <id>https://v.daum.net/v/20240912012701974</id>
+        <link href="https://v.daum.net/v/20240912012701974"/>
+        <updated>2024-09-11T17:15:16.798Z</updated>
+        <content type="html"><![CDATA[오마이뉴스<span class="txt_bar"> · </span><span class="info_time">01:27</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한-캐나다 국방장관 회담..."한국 잠수함 능력 강조"]]></title>
         <id>https://v.daum.net/v/20240912011536930</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240912005613812</id>
         <link href="https://v.daum.net/v/20240912005613812"/>
         <updated>2024-09-11T16:21:32.231Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:56</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[추석 연휴에도 응급센터는 정상 진료]]></title>
-        <id>https://v.daum.net/v/20240912005605809</id>
-        <link href="https://v.daum.net/v/20240912005605809"/>
-        <updated>2024-09-11T16:21:32.233Z</updated>
         <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:56</span>]]></content>
     </entry>
 </feed>
