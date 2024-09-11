@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-09-11T18:26:01.734Z</updated>
+    <updated>2024-09-11T19:14:58.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[기고]싱가프로에 금투세가 있었다면 금융허브가 됐을까]]></title>
+        <id>https://v.daum.net/v/20240912040004651</id>
+        <link href="https://v.daum.net/v/20240912040004651"/>
+        <updated>2024-09-11T19:14:44.854Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[김주용 목사의 스티그마] 죽은 ‘꼰대’의 사회]]></title>
         <id>https://v.daum.net/v/20240912030633491</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240912004031709</id>
         <link href="https://v.daum.net/v/20240912004031709"/>
         <updated>2024-09-11T16:22:32.741Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[손영옥의 컬처 아이] 토종 아트페어 키아프, 어디로 가야 할까]]></title>
-        <id>https://v.daum.net/v/20240912004030708</id>
-        <link href="https://v.daum.net/v/20240912004030708"/>
-        <updated>2024-09-11T16:22:32.742Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:40</span>]]></content>
     </entry>
 </feed>
