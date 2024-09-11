@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-09-11T22:18:52.196Z</updated>
+    <updated>2024-09-11T23:18:53.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1360만명이 본 트위트 [뉴스룸에서]]]></title>
+        <id>https://v.daum.net/v/20240912080505492</id>
+        <link href="https://v.daum.net/v/20240912080505492"/>
+        <updated>2024-09-11T23:18:36.760Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">08:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘멸종위기종’ 2급 흰목물떼새는 돌아왔지만 [프리스타일]]]></title>
+        <id>https://v.daum.net/v/20240912073254847</id>
+        <link href="https://v.daum.net/v/20240912073254847"/>
+        <updated>2024-09-11T23:18:36.762Z</updated>
+        <content type="html"><![CDATA[시사IN<span class="txt_bar"> · </span><span class="info_time">07:32</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[응급실 문턱은 평등하지 않다 [똑똑! 한국사회]]]></title>
         <id>https://v.daum.net/v/20240912070502436</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240912052922212"/>
         <updated>2024-09-11T21:18:00.206Z</updated>
         <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:29</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[씨줄날줄] AI 대체불가 직업]]></title>
-        <id>https://v.daum.net/v/20240912050535118</id>
-        <link href="https://v.daum.net/v/20240912050535118"/>
-        <updated>2024-09-11T20:18:23.795Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데스크 시각] 진화론을 부정하는 당신에게]]></title>
-        <id>https://v.daum.net/v/20240912050533117</id>
-        <link href="https://v.daum.net/v/20240912050533117"/>
-        <updated>2024-09-11T20:18:23.796Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:05</span>]]></content>
     </entry>
 </feed>
