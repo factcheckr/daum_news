@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-09-11T03:20:00.167Z</updated>
+    <updated>2024-09-11T04:24:36.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[데일리안 시사만평] 대정부질문 한덕수의 면목?…골키퍼 유능?, 키커 무능?]]></title>
+        <id>https://v.daum.net/v/20240911124517909</id>
+        <link href="https://v.daum.net/v/20240911124517909"/>
+        <updated>2024-09-11T04:24:19.909Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">12:45</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[계엄법, 검사 공소시효… 악성화하는 野 ‘돈키호테 입법’[사설]]]></title>
         <id>https://v.daum.net/v/20240911115124445</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240911102358929"/>
         <updated>2024-09-11T02:42:38.579Z</updated>
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">10:23</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘협의하자’며 ‘의대교수 늘리겠다’는 정부…어쩌자는 건가?[9월11일 뉴스뷰리핑]]]></title>
-        <id>https://v.daum.net/v/20240911092505269</id>
-        <link href="https://v.daum.net/v/20240911092505269"/>
-        <updated>2024-09-11T01:16:44.746Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">09:25</span>]]></content>
     </entry>
 </feed>
