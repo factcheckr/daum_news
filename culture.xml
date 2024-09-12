@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2024-09-12T18:25:41.472Z</updated>
+    <updated>2024-09-12T19:15:06.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘 날씨] 추석 앞두고 수도권 비·남부 '늦더위'…장거리 운전, 안전하게 하려면]]></title>
+        <id>https://v.daum.net/v/20240913040759822</id>
+        <link href="https://v.daum.net/v/20240913040759822"/>
+        <updated>2024-09-12T19:14:17.638Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">04:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연휴 볼거리도 한가위만 같아라]]></title>
+        <id>https://v.daum.net/v/20240913040417789</id>
+        <link href="https://v.daum.net/v/20240913040417789"/>
+        <updated>2024-09-12T19:14:17.640Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:04</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사이다 응징 대신… ‘惡을 대하는 우리 방식은 옳은가’ 묻다[재미있는 한가위 고향가는 길]]]></title>
+        <id>https://v.daum.net/v/20240913040030756</id>
+        <link href="https://v.daum.net/v/20240913040030756"/>
+        <updated>2024-09-12T19:14:17.642Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“소설보다 더 소설 같은 삶” 특별한 자서전 쓴 보통사람들[작은 도서관에 날개를]]]></title>
         <id>https://v.daum.net/v/20240913030445646</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240913010120323"/>
         <updated>2024-09-12T16:22:47.319Z</updated>
         <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">01:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['연출 사진 거장' 우에다 쇼지, 한국 첫 사진전]]></title>
-        <id>https://v.daum.net/v/20240913010012315</id>
-        <link href="https://v.daum.net/v/20240913010012315"/>
-        <updated>2024-09-12T16:22:47.320Z</updated>
-        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">01:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GD가 10년 전 공연서 입은 털 코트…경매 낙찰가가 무려]]></title>
-        <id>https://v.daum.net/v/20240913004948266</id>
-        <link href="https://v.daum.net/v/20240913004948266"/>
-        <updated>2024-09-12T16:22:47.320Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:49</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화요일만 되면 관객 급증… 영화 ‘빅토리’ 깜짝 1위 수수께끼]]></title>
-        <id>https://v.daum.net/v/20240913003458170</id>
-        <link href="https://v.daum.net/v/20240913003458170"/>
-        <updated>2024-09-12T16:22:47.322Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:34</span>]]></content>
     </entry>
 </feed>
