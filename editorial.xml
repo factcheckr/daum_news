@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-09-12T04:24:00.895Z</updated>
+    <updated>2024-09-12T05:18:54.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[기자수첩] 코스닥 기업 밸류업의 전제조건]]></title>
+        <id>https://v.daum.net/v/20240912141254382</id>
+        <link href="https://v.daum.net/v/20240912141254382"/>
+        <updated>2024-09-12T05:18:35.786Z</updated>
+        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">14:12</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“아파트 3분의 1 값에…온실같은 주택에서 살아요”[정성갑의 공간의 재발견]]]></title>
+        <id>https://v.daum.net/v/20240912135327452</id>
+        <link href="https://v.daum.net/v/20240912135327452"/>
+        <updated>2024-09-12T05:18:35.786Z</updated>
+        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">13:53</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“매일 천 명 죽어나갔으면…” 막말과 의료개혁 절박성[사설]]]></title>
         <id>https://v.daum.net/v/20240912113733537</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240912093151260"/>
         <updated>2024-09-12T01:19:05.193Z</updated>
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">09:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[토론회는 해리스가 압도적 ‘판정승’…득표로 이어질까? [9월12일 뉴스뷰리핑]]]></title>
-        <id>https://v.daum.net/v/20240912091022322</id>
-        <link href="https://v.daum.net/v/20240912091022322"/>
-        <updated>2024-09-12T01:19:05.193Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">09:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이들이 좋아하는 아이스크림에 카페인이?]]></title>
-        <id>https://v.daum.net/v/20240912083150109</id>
-        <link href="https://v.daum.net/v/20240912083150109"/>
-        <updated>2024-09-12T01:19:05.195Z</updated>
-        <content type="html"><![CDATA[베이비뉴스<span class="txt_bar"> · </span><span class="info_time">08:31</span>]]></content>
     </entry>
 </feed>
