@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-09-12T11:15:53.934Z</updated>
+    <updated>2024-09-12T12:34:32.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[국민만평-서민호 화백] 2024년 9월 13일]]></title>
+        <id>https://v.daum.net/v/20240912211914055</id>
+        <link href="https://v.daum.net/v/20240912211914055"/>
+        <updated>2024-09-12T12:34:17.031Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">21:19</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[만물상] 추석(秋夕) 아니라 하석(夏夕)]]></title>
+        <id>https://v.daum.net/v/20240912205505627</id>
+        <link href="https://v.daum.net/v/20240912205505627"/>
+        <updated>2024-09-12T12:34:17.034Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">20:55</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024년 9월 13일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20240912204143325</id>
+        <link href="https://v.daum.net/v/20240912204143325"/>
+        <updated>2024-09-12T12:34:17.034Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:41</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Discipline must start with the presidential office]]></title>
         <id>https://v.daum.net/v/20240912194751394</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240912193430156"/>
         <updated>2024-09-12T11:15:38.134Z</updated>
         <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">19:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[박용석 만평] 9월 13일]]></title>
-        <id>https://v.daum.net/v/20240912193020051</id>
-        <link href="https://v.daum.net/v/20240912193020051"/>
-        <updated>2024-09-12T11:15:38.136Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">19:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] `생존엔 영원한 적도 아군도 없다` 사실 일깨운 현대차·GM 동맹]]></title>
-        <id>https://v.daum.net/v/20240912190822631</id>
-        <link href="https://v.daum.net/v/20240912190822631"/>
-        <updated>2024-09-12T10:20:05.474Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">19:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[승승장구하던 부역자]]></title>
-        <id>https://v.daum.net/v/20240912190732616</id>
-        <link href="https://v.daum.net/v/20240912190732616"/>
-        <updated>2024-09-12T10:20:05.474Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:07</span>]]></content>
     </entry>
 </feed>
