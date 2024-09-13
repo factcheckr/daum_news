@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-09-13T09:19:46.490Z</updated>
+    <updated>2024-09-13T10:19:52.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사설] 정부 “내수 회복 조짐” 말만 되풀이, 실질 대책 내놓아야]]></title>
+        <id>https://v.daum.net/v/20240913182506076</id>
+        <link href="https://v.daum.net/v/20240913182506076"/>
+        <updated>2024-09-13T10:19:36.348Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">18:25</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[메아리] 인텔 폭스바겐 삼성… 졸면 죽는다]]></title>
         <id>https://v.daum.net/v/20240913180151634</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240913161801120"/>
         <updated>2024-09-13T07:19:17.934Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">16:18</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[매경춘추] 나 혼삶, 그리고 불변의 법칙]]></title>
-        <id>https://v.daum.net/v/20240913161225925</id>
-        <link href="https://v.daum.net/v/20240913161225925"/>
-        <updated>2024-09-13T07:19:17.935Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">16:12</span>]]></content>
     </entry>
 </feed>
