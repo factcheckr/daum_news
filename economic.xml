@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/economic</id>
     <title>다음 뉴스 ─ 전체기사 ─ 경제</title>
-    <updated>2024-09-13T18:24:52.319Z</updated>
+    <updated>2024-09-13T19:15:40.889Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오라클 CEO 엘리슨, 아마존 창업자 베이조스와 세계 2위 부자 싸움]]></title>
+        <id>https://v.daum.net/v/20240914040026365</id>
+        <link href="https://v.daum.net/v/20240914040026365"/>
+        <updated>2024-09-13T19:14:26.727Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수십년간 전세계 수익률 1등, 미국 아니라 '이 국가'였다...장기 고성장 주목]]></title>
+        <id>https://v.daum.net/v/20240914033128345</id>
+        <link href="https://v.daum.net/v/20240914033128345"/>
+        <updated>2024-09-13T19:14:26.727Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">03:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독]방수작업 2주만에, 김포공항 관제탑 또 누수]]></title>
         <id>https://v.daum.net/v/20240914021432265</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240914004306876"/>
         <updated>2024-09-13T16:20:53.293Z</updated>
         <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이국종 교수가 개발?"...관절염 치료제 가짜광고 주의]]></title>
-        <id>https://v.daum.net/v/20240914003900842</id>
-        <link href="https://v.daum.net/v/20240914003900842"/>
-        <updated>2024-09-13T16:20:53.295Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘교황의 차’ 선택된 현대차 아이오닉 5]]></title>
-        <id>https://v.daum.net/v/20240914003206786</id>
-        <link href="https://v.daum.net/v/20240914003206786"/>
-        <updated>2024-09-13T16:20:53.296Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:32</span>]]></content>
     </entry>
 </feed>
