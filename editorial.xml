@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-09-13T21:19:36.241Z</updated>
+    <updated>2024-09-13T22:18:25.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[터전 잃고있는 북극곰과 부산 해상도시 [이경화의 하이브리드 美MI]]]></title>
+        <id>https://v.daum.net/v/20240914070248117</id>
+        <link href="https://v.daum.net/v/20240914070248117"/>
+        <updated>2024-09-13T22:18:10.526Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">07:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[그럼에도 불구하고 [ESC]]]></title>
         <id>https://v.daum.net/v/20240914060502385</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240914004801914"/>
         <updated>2024-09-13T16:21:47.010Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 고려아연 공개매수 나선 MBK, 행동주의 펀드 흉내내나]]></title>
-        <id>https://v.daum.net/v/20240914004604906</id>
-        <link href="https://v.daum.net/v/20240914004604906"/>
-        <updated>2024-09-13T16:21:47.016Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:46</span>]]></content>
     </entry>
 </feed>
