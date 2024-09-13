@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/sports</id>
     <title>다음 뉴스 ─ 전체기사 ─ 스포츠</title>
-    <updated>2024-09-13T17:19:04.213Z</updated>
+    <updated>2024-09-13T18:24:52.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[배드민턴협회, 문체부 중간발표에 강력 반발 "명확한 근거없는 배임·횡령 주장 법적 책임 묻겠다"]]></title>
+        <id>https://v.daum.net/v/20240914023246279</id>
+        <link href="https://v.daum.net/v/20240914023246279"/>
+        <updated>2024-09-13T18:24:15.635Z</updated>
+        <content type="html"><![CDATA[스포츠조선<span class="txt_bar"> · </span><span class="info_time">02:32</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배드민턴협회 "김택규 횡령·배임 몬 문체부…법적 책임 따질 것"]]></title>
         <id>https://v.daum.net/v/20240914015500243</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240914010433035"/>
         <updated>2024-09-13T16:21:29.527Z</updated>
         <content type="html"><![CDATA[스타뉴스<span class="txt_bar"> · </span><span class="info_time">01:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ITALY TENNIS]]></title>
-        <id>https://v.daum.net/v/20240914010150012</id>
-        <link href="https://v.daum.net/v/20240914010150012"/>
-        <updated>2024-09-13T16:21:29.529Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">01:01</span>]]></content>
     </entry>
 </feed>

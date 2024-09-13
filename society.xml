@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/society</id>
     <title>다음 뉴스 ─ 전체기사 ─ 사회</title>
-    <updated>2024-09-13T17:19:04.205Z</updated>
+    <updated>2024-09-13T18:24:52.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[흑산도 북서쪽 바다서 규모 2.3 지진...피해 없을 듯]]></title>
+        <id>https://v.daum.net/v/20240914031906335</id>
+        <link href="https://v.daum.net/v/20240914031906335"/>
+        <updated>2024-09-13T18:23:16.851Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">03:19</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천 합성수지 재활용 공장서 큰불...다친 사람 없어]]></title>
+        <id>https://v.daum.net/v/20240914031606330</id>
+        <link href="https://v.daum.net/v/20240914031606330"/>
+        <updated>2024-09-13T18:23:16.852Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">03:16</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울 양천구·구로구 5만8천 세대 온수·난방 중단]]></title>
+        <id>https://v.daum.net/v/20240914030300307</id>
+        <link href="https://v.daum.net/v/20240914030300307"/>
+        <updated>2024-09-13T18:23:16.853Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">03:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[영상] 추석 도로 이용 안전 수칙]]></title>
+        <id>https://v.daum.net/v/20240914030106305</id>
+        <link href="https://v.daum.net/v/20240914030106305"/>
+        <updated>2024-09-13T18:23:16.856Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">03:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천 서구 공장에서 화재…3시간 만에 초진]]></title>
+        <id>https://v.daum.net/v/20240914023551280</id>
+        <link href="https://v.daum.net/v/20240914023551280"/>
+        <updated>2024-09-13T18:23:16.859Z</updated>
+        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">02:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인천 폐기물공장 큰 불…3시간 만에 완진(종합)]]></title>
         <id>https://v.daum.net/v/20240914021548268</id>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20240914020007244"/>
         <updated>2024-09-13T17:17:38.950Z</updated>
         <content type="html"><![CDATA[중앙SUNDAY<span class="txt_bar"> · </span><span class="info_time">02:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[의대 수시 지원, 정원의 23배…SKY 18대 1]]></title>
-        <id>https://v.daum.net/v/20240914015306242</id>
-        <link href="https://v.daum.net/v/20240914015306242"/>
-        <updated>2024-09-13T17:17:38.951Z</updated>
-        <content type="html"><![CDATA[중앙SUNDAY<span class="txt_bar"> · </span><span class="info_time">01:53</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온가족이 모여서 ‘쿵쾅’… 한가위 층간소음 조심]]></title>
-        <id>https://v.daum.net/v/20240914014559236</id>
-        <link href="https://v.daum.net/v/20240914014559236"/>
-        <updated>2024-09-13T17:17:38.953Z</updated>
-        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">01:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“‘金여사’ 계좌, 증권사 직원 아닌 권오수 의사 따라 시세조종 이용”]]></title>
-        <id>https://v.daum.net/v/20240914014458221</id>
-        <link href="https://v.daum.net/v/20240914014458221"/>
-        <updated>2024-09-13T17:17:38.955Z</updated>
-        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">01:44</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“터전 잃어” vs “수해 예방”… 신규댐 놓고 엇갈리는 지역 사회]]></title>
-        <id>https://v.daum.net/v/20240914014432208</id>
-        <link href="https://v.daum.net/v/20240914014432208"/>
-        <updated>2024-09-13T17:17:38.957Z</updated>
-        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">01:44</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[환경부 “年 506억 원 경제적 효과”… 일부 환경오염 주장도]]></title>
-        <id>https://v.daum.net/v/20240914014430207</id>
-        <link href="https://v.daum.net/v/20240914014430207"/>
-        <updated>2024-09-13T17:17:38.958Z</updated>
-        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">01:44</span>]]></content>
     </entry>
 </feed>
