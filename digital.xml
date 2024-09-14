@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-09-14T12:32:12.401Z</updated>
+    <updated>2024-09-14T13:22:01.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“이건 너무 심했다” 선물 줬더니, 받는 족족 되팔이…당근마켓 불났다]]></title>
+        <id>https://v.daum.net/v/20240914214037728</id>
+        <link href="https://v.daum.net/v/20240914214037728"/>
+        <updated>2024-09-14T13:21:37.831Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">21:40</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“택시 덜 기다리고 지하철 더 안전하게”…교통약자 챙기는 AI]]></title>
         <id>https://v.daum.net/v/20240914212410531</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240914181009547"/>
         <updated>2024-09-14T09:18:02.958Z</updated>
         <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">18:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[영상] "물때·물비린내 어떻게?"…식기세척기 전문가 꿀팁]]></title>
-        <id>https://v.daum.net/v/20240914180129391</id>
-        <link href="https://v.daum.net/v/20240914180129391"/>
-        <updated>2024-09-14T09:18:02.958Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">18:01</span>]]></content>
     </entry>
 </feed>
