@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2024-09-15T17:15:36.358Z</updated>
+    <updated>2024-09-15T18:24:25.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어셔가 밝힌 '45세에도 꾸준한 식스팩 비결'은?]]></title>
+        <id>https://v.daum.net/v/20240916031150204</id>
+        <link href="https://v.daum.net/v/20240916031150204"/>
+        <updated>2024-09-15T18:23:41.316Z</updated>
+        <content type="html"><![CDATA[마이데일리<span class="txt_bar"> · </span><span class="info_time">03:11</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김준수·영탁, 무인도에서 생고생…역대급 노동에 탈출 시도까지 (푹다행)]]></title>
+        <id>https://v.daum.net/v/20240916030128162</id>
+        <link href="https://v.daum.net/v/20240916030128162"/>
+        <updated>2024-09-15T18:23:41.316Z</updated>
+        <content type="html"><![CDATA[스포츠동아<span class="txt_bar"> · </span><span class="info_time">03:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“영탁 덕분에 건강 되찾아” 관객 사연에 눈물 (영탁쇼)]]></title>
         <id>https://v.daum.net/v/20240916020017078</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240916000237692"/>
         <updated>2024-09-15T15:17:12.698Z</updated>
         <content type="html"><![CDATA[스포츠한국<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['S대 출신' 정다은 아나 "'월드클래스 동서'에게 주눅" 누구길래]]></title>
-        <id>https://v.daum.net/v/20240916000217689</id>
-        <link href="https://v.daum.net/v/20240916000217689"/>
-        <updated>2024-09-15T15:17:12.701Z</updated>
-        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이창섭, 10월 2일 솔로 데뷔 6년 만에 정규 1집 발매 확정 [공식]]]></title>
-        <id>https://v.daum.net/v/20240916000201685</id>
-        <link href="https://v.daum.net/v/20240916000201685"/>
-        <updated>2024-09-15T15:17:12.702Z</updated>
-        <content type="html"><![CDATA[스타뉴스<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
     </entry>
 </feed>
