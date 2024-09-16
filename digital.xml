@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-09-16T08:25:11.159Z</updated>
+    <updated>2024-09-16T09:23:32.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엔씨 게임만 하던 '퍼플'에서 경쟁사 소니 게임도 파는 까닭은]]></title>
+        <id>https://v.daum.net/v/20240916180127017</id>
+        <link href="https://v.daum.net/v/20240916180127017"/>
+        <updated>2024-09-16T09:23:07.812Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">18:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["홤잠실이 넘무 작암욤"…한국인만 안다던 에어비앤비체, 오픈AI도 안다?]]></title>
+        <id>https://v.daum.net/v/20240916175431963</id>
+        <link href="https://v.daum.net/v/20240916175431963"/>
+        <updated>2024-09-16T09:23:07.812Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">17:54</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“쩔때싸먹지마쎄요” 한국인만 알아듣는 ‘후기’였는데…이제 안 통한다?]]></title>
+        <id>https://v.daum.net/v/20240916174233887</id>
+        <link href="https://v.daum.net/v/20240916174233887"/>
+        <updated>2024-09-16T09:23:07.813Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">17:42</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“올해 추석에는 ‘슈퍼문’ 볼 수 있다는데”… 17일 오후 6시 17분 예상]]></title>
+        <id>https://v.daum.net/v/20240916172808778</id>
+        <link href="https://v.daum.net/v/20240916172808778"/>
+        <updated>2024-09-16T09:23:07.814Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:28</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이번 추석엔 보름달 더 가까이 온다…'슈퍼문' 볼 수 있는 시간은?]]></title>
         <id>https://v.daum.net/v/20240916162128128</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20240916143308971"/>
         <updated>2024-09-16T06:28:57.896Z</updated>
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">14:33</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["하루 150만원" X알바 가입해보니…'호구' 잡힌 남성들, 세상 등지기도]]></title>
-        <id>https://v.daum.net/v/20240916142602898</id>
-        <link href="https://v.daum.net/v/20240916142602898"/>
-        <updated>2024-09-16T06:28:57.897Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">14:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["호날두·네이마르 보자" 아프리카TV, AFC 챔스 생중계]]></title>
-        <id>https://v.daum.net/v/20240916141528803</id>
-        <link href="https://v.daum.net/v/20240916141528803"/>
-        <updated>2024-09-16T05:20:06.282Z</updated>
-        <content type="html"><![CDATA[일간스포츠<span class="txt_bar"> · </span><span class="info_time">14:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["이번 추석, 10명 중 6명은 고향 안 간다"]]></title>
-        <id>https://v.daum.net/v/20240916140832742</id>
-        <link href="https://v.daum.net/v/20240916140832742"/>
-        <updated>2024-09-16T05:20:06.282Z</updated>
-        <content type="html"><![CDATA[머니S<span class="txt_bar"> · </span><span class="info_time">14:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대면환자 약 배송 서비스 등장…“비대면진료 약 배송 금지 논리에 균열”]]></title>
-        <id>https://v.daum.net/v/20240916140057665</id>
-        <link href="https://v.daum.net/v/20240916140057665"/>
-        <updated>2024-09-16T05:20:06.282Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
     </entry>
 </feed>
