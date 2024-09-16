@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2024-09-16T18:24:58.420Z</updated>
+    <updated>2024-09-16T19:15:47.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이영애, 1박에 천만 원 한옥 호텔…초호화 명절 일상]]></title>
+        <id>https://v.daum.net/v/20240917040150948</id>
+        <link href="https://v.daum.net/v/20240917040150948"/>
+        <updated>2024-09-16T19:15:02.813Z</updated>
+        <content type="html"><![CDATA[엑스포츠뉴스<span class="txt_bar"> · </span><span class="info_time">04:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["풍요롭고 행복한 한가위"…정은지부터 더보이즈까지, 릴레이 추석 인사]]></title>
+        <id>https://v.daum.net/v/20240917040128944</id>
+        <link href="https://v.daum.net/v/20240917040128944"/>
+        <updated>2024-09-16T19:15:02.813Z</updated>
+        <content type="html"><![CDATA[마이데일리<span class="txt_bar"> · </span><span class="info_time">04:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['11월 계약종료' (여자)아이들, 큐브 추석 인사 등판 "보여줄 모습 기대해"]]></title>
         <id>https://v.daum.net/v/20240917013750689</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240917003519529"/>
         <updated>2024-09-16T16:25:17.301Z</updated>
         <content type="html"><![CDATA[엑스포츠뉴스<span class="txt_bar"> · </span><span class="info_time">00:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘이병헌♥’ 이민정, 어마어마한 모둠전 자랑 “전 좋아하는 이민전”]]></title>
-        <id>https://v.daum.net/v/20240917002950517</id>
-        <link href="https://v.daum.net/v/20240917002950517"/>
-        <updated>2024-09-16T16:25:17.303Z</updated>
-        <content type="html"><![CDATA[MBC연예<span class="txt_bar"> · </span><span class="info_time">00:29</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['손보싫' 신민아♥김영대, 박력 키스로 마음 확인→'한 집' 살림 엔딩  [종합]]]></title>
-        <id>https://v.daum.net/v/20240917002550508</id>
-        <link href="https://v.daum.net/v/20240917002550508"/>
-        <updated>2024-09-16T16:25:17.304Z</updated>
-        <content type="html"><![CDATA[스포츠한국<span class="txt_bar"> · </span><span class="info_time">00:25</span>]]></content>
     </entry>
 </feed>
