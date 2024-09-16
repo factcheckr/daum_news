@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2024-09-16T03:27:25.940Z</updated>
+    <updated>2024-09-16T04:22:33.341Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[6M까지 날아오르는 꿈... '스턴트 치어리딩'의 세계]]></title>
+        <id>https://v.daum.net/v/20240916131500285</id>
+        <link href="https://v.daum.net/v/20240916131500285"/>
+        <updated>2024-09-16T04:21:43.387Z</updated>
+        <content type="html"><![CDATA[오마이뉴스<span class="txt_bar"> · </span><span class="info_time">13:15</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연휴에 고궁·박물관서 추억 쌓아볼까…"전통문화 함께 즐겨요"]]></title>
         <id>https://v.daum.net/v/20240916121838915</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240916112721402"/>
         <updated>2024-09-16T02:54:56.000Z</updated>
         <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">11:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[날씨] '서울 33도' 늦더위 기승…남부 중심 5~60mm 소나기]]></title>
-        <id>https://v.daum.net/v/20240916112709398</id>
-        <link href="https://v.daum.net/v/20240916112709398"/>
-        <updated>2024-09-16T02:54:56.003Z</updated>
-        <content type="html"><![CDATA[SBS<span class="txt_bar"> · </span><span class="info_time">11:27</span>]]></content>
     </entry>
 </feed>
