@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-09-17T10:19:47.650Z</updated>
+    <updated>2024-09-17T11:16:13.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지구 망치는 ‘나쁜 전기’ 싫은데…안 쓰려면 어떡해야 해? [지구, 뭐래?]]]></title>
+        <id>https://v.daum.net/v/20240917194043548</id>
+        <link href="https://v.daum.net/v/20240917194043548"/>
+        <updated>2024-09-17T11:15:49.124Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">19:40</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘물의 위성’ 유로파 탐사 준비 순풍…최종 기술 점검 통과]]></title>
+        <id>https://v.daum.net/v/20240917193211489</id>
+        <link href="https://v.daum.net/v/20240917193211489"/>
+        <updated>2024-09-17T11:15:49.124Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">19:32</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[추석 당일 오후 6시17분, 슈퍼문 떠오른다[우주를 보다]]]></title>
         <id>https://v.daum.net/v/20240917191632338</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240917151127873"/>
         <updated>2024-09-17T06:23:12.908Z</updated>
         <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">15:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메타, 인스타·페북서 러 국영 매체 퇴출]]></title>
-        <id>https://v.daum.net/v/20240917150129735</id>
-        <link href="https://v.daum.net/v/20240917150129735"/>
-        <updated>2024-09-17T06:23:12.910Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">15:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민간 연봉 받는 'IT 공무원' 탄생, “정보시스템 개선”]]></title>
-        <id>https://v.daum.net/v/20240917145927695</id>
-        <link href="https://v.daum.net/v/20240917145927695"/>
-        <updated>2024-09-17T06:23:12.912Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">14:59</span>]]></content>
     </entry>
 </feed>
