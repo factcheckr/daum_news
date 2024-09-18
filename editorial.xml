@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-09-18T18:24:26.082Z</updated>
+    <updated>2024-09-18T19:17:04.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[국민만평-서민호 화백] 2024년 9월 19일]]></title>
+        <id>https://v.daum.net/v/20240919033122253</id>
+        <link href="https://v.daum.net/v/20240919033122253"/>
+        <updated>2024-09-18T19:16:47.091Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">03:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Change your governance style, Mr. President]]></title>
         <id>https://v.daum.net/v/20240919030156059</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240919020632017"/>
         <updated>2024-09-18T17:16:35.954Z</updated>
         <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설]개혁다운 개혁도 안 하면서 “곳곳에서 반개혁 저항” 탓하나]]></title>
-        <id>https://v.daum.net/v/20240919003915745</id>
-        <link href="https://v.daum.net/v/20240919003915745"/>
-        <updated>2024-09-18T16:22:19.270Z</updated>
-        <content type="html"><![CDATA[동아일보<span class="txt_bar"> · </span><span class="info_time">00:39</span>]]></content>
     </entry>
 </feed>
