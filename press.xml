@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-09-18T11:16:26.640Z</updated>
+    <updated>2024-09-18T12:36:39.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Polus Capital Management Secures ADIA Commitment]]></title>
+        <id>https://v.daum.net/v/20240918201834726</id>
+        <link href="https://v.daum.net/v/20240918201834726"/>
+        <updated>2024-09-18T12:36:31.738Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:18</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] Xinhua Silk Road: Lantern fair commences in Kunshan]]></title>
         <id>https://v.daum.net/v/20240918182724355</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240918152704642</id>
         <link href="https://v.daum.net/v/20240918152704642"/>
         <updated>2024-09-18T07:18:21.556Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">15:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코그나이트, 데이터 검색 및 문맥화 통한 코흐 애그 앤 에너지 솔루션스의 운영 혁신 제공업체로 선정]]></title>
-        <id>https://v.daum.net/v/20240918152702641</id>
-        <link href="https://v.daum.net/v/20240918152702641"/>
-        <updated>2024-09-18T07:18:21.564Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">15:27</span>]]></content>
     </entry>
 </feed>
