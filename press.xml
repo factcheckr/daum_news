@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-09-18T07:18:29.768Z</updated>
+    <updated>2024-09-18T08:23:13.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] it.com 도메인스, APAC에서 혁신적인 도메인 솔루션들을 발표]]></title>
+        <id>https://v.daum.net/v/20240918164738690</id>
+        <link href="https://v.daum.net/v/20240918164738690"/>
+        <updated>2024-09-18T08:23:04.828Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:47</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] Vantage Markets celebrates 15 years anniversary]]></title>
         <id>https://v.daum.net/v/20240918161329295</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240918141503393"/>
         <updated>2024-09-18T05:21:17.488Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">14:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] 팬-타스틱한 여정: 팬들을 새로운 여행지로 이끈 스포츠와 음악 행사]]></title>
-        <id>https://v.daum.net/v/20240918141430381</id>
-        <link href="https://v.daum.net/v/20240918141430381"/>
-        <updated>2024-09-18T05:21:17.488Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">14:14</span>]]></content>
     </entry>
 </feed>
