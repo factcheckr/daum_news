@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-09-19T13:25:19.007Z</updated>
+    <updated>2024-09-19T14:17:48.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[관심 큰 'DPG 허브' KT 컨소시엄이 구축한다]]></title>
+        <id>https://v.daum.net/v/20240919225528044</id>
+        <link href="https://v.daum.net/v/20240919225528044"/>
+        <updated>2024-09-19T14:17:27.318Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">22:55</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[P의 거짓, DLC 아트워크 및 OST 공개]]></title>
+        <id>https://v.daum.net/v/20240919225127001</id>
+        <link href="https://v.daum.net/v/20240919225127001"/>
+        <updated>2024-09-19T14:17:27.318Z</updated>
+        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">22:51</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘원전 부활’ 본격화…고리원전은?]]></title>
         <id>https://v.daum.net/v/20240919222054724</id>
@@ -20,7 +34,7 @@
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">22:09</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[카톡보다 더 많이 쓰는데…10대 인스타 계정 막는다 '초강수']]></title>
+        <title type="html"><![CDATA["요즘 누가 카톡 써요?" 하더니…10대들 이제 어쩌나]]></title>
         <id>https://v.daum.net/v/20240919220101536</id>
         <link href="https://v.daum.net/v/20240919220101536"/>
         <updated>2024-09-19T13:24:54.812Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240919204130289"/>
         <updated>2024-09-19T13:24:54.834Z</updated>
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">20:41</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“세수하다간 큰일” 유명 대학병원도 설치한다는 ‘거대 변기’…알고 보니]]></title>
-        <id>https://v.daum.net/v/20240919204046271</id>
-        <link href="https://v.daum.net/v/20240919204046271"/>
-        <updated>2024-09-19T13:24:54.835Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">20:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘원전 부활’ 본격화…고리원전은?]]></title>
-        <id>https://v.daum.net/v/20240919203351158</id>
-        <link href="https://v.daum.net/v/20240919203351158"/>
-        <updated>2024-09-19T13:24:54.836Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">20:33</span>]]></content>
     </entry>
 </feed>
