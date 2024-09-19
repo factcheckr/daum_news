@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-09-19T04:22:18.457Z</updated>
+    <updated>2024-09-19T05:18:41.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뻔뻔하다 [말글살이]]]></title>
+        <id>https://v.daum.net/v/20240919141501146</id>
+        <link href="https://v.daum.net/v/20240919141501146"/>
+        <updated>2024-09-19T05:18:22.619Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">14:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여당과 대통령 지지율 동반 최저, 왜일까 [정치에 속지 않기]]]></title>
+        <id>https://v.daum.net/v/20240919140904973</id>
+        <link href="https://v.daum.net/v/20240919140904973"/>
+        <updated>2024-09-19T05:18:22.621Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">14:09</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[데일리안 시사만평] 혐오정치 "추석 의료대란 일어난다"…그런데 시민과 의사 덕분에 없었다]]></title>
         <id>https://v.daum.net/v/20240919123910899</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240919111135763"/>
         <updated>2024-09-19T02:47:24.351Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리 엄마가 ‘백종원’으로 변했어요~]]></title>
-        <id>https://v.daum.net/v/20240919103504136</id>
-        <link href="https://v.daum.net/v/20240919103504136"/>
-        <updated>2024-09-19T02:47:24.353Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">10:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인사] 우주항공청]]></title>
-        <id>https://v.daum.net/v/20240919101048023</id>
-        <link href="https://v.daum.net/v/20240919101048023"/>
-        <updated>2024-09-19T01:19:31.899Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">10:10</span>]]></content>
     </entry>
 </feed>
