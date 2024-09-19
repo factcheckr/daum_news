@@ -2,112 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-09-19T14:17:48.026Z</updated>
+    <updated>2024-09-19T15:20:23.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[관심 큰 'DPG 허브' KT 컨소시엄이 구축한다]]></title>
-        <id>https://v.daum.net/v/20240919225528044</id>
-        <link href="https://v.daum.net/v/20240919225528044"/>
-        <updated>2024-09-19T14:17:27.318Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">22:55</span>]]></content>
+        <title type="html"><![CDATA[신작 게임, 맛봤거나 새롭거나]]></title>
+        <id>https://v.daum.net/v/20240920001405728</id>
+        <link href="https://v.daum.net/v/20240920001405728"/>
+        <updated>2024-09-19T15:19:58.511Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:14</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[P의 거짓, DLC 아트워크 및 OST 공개]]></title>
-        <id>https://v.daum.net/v/20240919225127001</id>
-        <link href="https://v.daum.net/v/20240919225127001"/>
-        <updated>2024-09-19T14:17:27.318Z</updated>
-        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">22:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘원전 부활’ 본격화…고리원전은?]]></title>
-        <id>https://v.daum.net/v/20240919222054724</id>
-        <link href="https://v.daum.net/v/20240919222054724"/>
-        <updated>2024-09-19T13:24:54.812Z</updated>
-        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">22:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI휴먼소사이어티-서울대 AI연구원, 창립 포럼 개최]]></title>
-        <id>https://v.daum.net/v/20240919220901630</id>
-        <link href="https://v.daum.net/v/20240919220901630"/>
-        <updated>2024-09-19T13:24:54.812Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">22:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["요즘 누가 카톡 써요?" 하더니…10대들 이제 어쩌나]]></title>
-        <id>https://v.daum.net/v/20240919220101536</id>
-        <link href="https://v.daum.net/v/20240919220101536"/>
-        <updated>2024-09-19T13:24:54.812Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["유튜브 천하에 망한줄 알았는데" 100만명 이탈에도…멜론 '반전']]></title>
-        <id>https://v.daum.net/v/20240919214047179</id>
-        <link href="https://v.daum.net/v/20240919214047179"/>
-        <updated>2024-09-19T13:24:54.821Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">21:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금융 디도스 공격 갈수록 늘어…"가짜 은행사이트 조심"]]></title>
-        <id>https://v.daum.net/v/20240919212652948</id>
-        <link href="https://v.daum.net/v/20240919212652948"/>
-        <updated>2024-09-19T13:24:54.822Z</updated>
-        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">21:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘알테쉬’ 판매 귀걸이·반지엔 중금속, 방향제선 ‘가습기살균제 독성물질’]]></title>
-        <id>https://v.daum.net/v/20240919212255890</id>
-        <link href="https://v.daum.net/v/20240919212255890"/>
-        <updated>2024-09-19T13:24:54.824Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">21:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“쇼핑 안 간다던 오빠, 제일 신났네”…대형몰 한복판에 게임 판이 들썩]]></title>
-        <id>https://v.daum.net/v/20240919211500766</id>
-        <link href="https://v.daum.net/v/20240919211500766"/>
-        <updated>2024-09-19T13:24:54.825Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">21:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내 체류 외국인 유학생 86.5% "한국 취업 하고파"]]></title>
-        <id>https://v.daum.net/v/20240919210929681</id>
-        <link href="https://v.daum.net/v/20240919210929681"/>
-        <updated>2024-09-19T13:24:54.827Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">21:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[29CM, 리빙브랜드 '테클라' 국내 첫 팝업 연다]]></title>
-        <id>https://v.daum.net/v/20240919210633653</id>
-        <link href="https://v.daum.net/v/20240919210633653"/>
-        <updated>2024-09-19T13:24:54.832Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">21:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국바른채용인증원-한전KDN, ‘역량면접코칭 클리닉’ 운영]]></title>
-        <id>https://v.daum.net/v/20240919210431622</id>
-        <link href="https://v.daum.net/v/20240919210431622"/>
-        <updated>2024-09-19T13:24:54.832Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">21:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뺑소니범 몰렸다? 여기선 '2만원짜리 한문철' 찾아준다]]></title>
-        <id>https://v.daum.net/v/20240919210030557</id>
-        <link href="https://v.daum.net/v/20240919210030557"/>
-        <updated>2024-09-19T13:24:54.832Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">21:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스줌인] AI 담은 비스포크 김치냉장고, 뭐가 달라졌을까?]]></title>
-        <id>https://v.daum.net/v/20240919204801374</id>
-        <link href="https://v.daum.net/v/20240919204801374"/>
-        <updated>2024-09-19T13:24:54.833Z</updated>
-        <content type="html"><![CDATA[IT동아<span class="txt_bar"> · </span><span class="info_time">20:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘온난화 주범’ 이산화탄소 바다에 녹여 없앤다]]></title>
-        <id>https://v.daum.net/v/20240919204130289</id>
-        <link href="https://v.daum.net/v/20240919204130289"/>
-        <updated>2024-09-19T13:24:54.834Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">20:41</span>]]></content>
+        <title type="html"><![CDATA[국민연금이 지분 줄인 바람에…‘KT 최대주주’ 돼버린 현대차]]></title>
+        <id>https://v.daum.net/v/20240920000245574</id>
+        <link href="https://v.daum.net/v/20240920000245574"/>
+        <updated>2024-09-19T15:19:58.512Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
     </entry>
 </feed>
