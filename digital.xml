@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-09-21T10:18:07.020Z</updated>
+    <updated>2024-09-21T11:15:02.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“현실은 더 막장이다” 200만명 이탈 넷플릭스 흔든…‘이혼’ 쇼크]]></title>
+        <id>https://v.daum.net/v/20240921194232896</id>
+        <link href="https://v.daum.net/v/20240921194232896"/>
+        <updated>2024-09-21T11:14:42.077Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">19:42</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“SNS 유행도 지겹다” 두바이 끝나니 이젠 ‘스웨덴 캔디’ 난리]]></title>
         <id>https://v.daum.net/v/20240921184045100</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240921142728306"/>
         <updated>2024-09-21T06:23:46.043Z</updated>
         <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">14:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["애플, 내년부터 아이폰에 자체개발 5G 모뎀 탑재"]]></title>
-        <id>https://v.daum.net/v/20240921140831079</id>
-        <link href="https://v.daum.net/v/20240921140831079"/>
-        <updated>2024-09-21T05:18:12.613Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">14:08</span>]]></content>
     </entry>
 </feed>
