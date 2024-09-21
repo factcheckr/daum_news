@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-09-21T08:23:01.907Z</updated>
+    <updated>2024-09-21T09:18:09.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“SNS에 중독된 아이들 지키자”…美캘리포니아주, ‘알림 금지’ 법 제정]]></title>
+        <id>https://v.daum.net/v/20240921175151641</id>
+        <link href="https://v.daum.net/v/20240921175151641"/>
+        <updated>2024-09-21T09:17:47.806Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">17:51</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["퀄컴, 인텔 인수 추진… 당국 합병심사 등 장애물"]]></title>
+        <id>https://v.daum.net/v/20240921173133365</id>
+        <link href="https://v.daum.net/v/20240921173133365"/>
+        <updated>2024-09-21T09:17:47.808Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“설마 이럴 줄이야” 정작 학교에서…쓰레기 함부로 버린다 [지구, 뭐래?]]]></title>
         <id>https://v.daum.net/v/20240921165048809</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240921140323020"/>
         <updated>2024-09-21T05:18:12.613Z</updated>
         <content type="html"><![CDATA[스포츠조선<span class="txt_bar"> · </span><span class="info_time">14:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[녹색 채소, 과일, 생선 중심 식사가 치매 막는다 [달콤한 사이언스]]]></title>
-        <id>https://v.daum.net/v/20240921140252009</id>
-        <link href="https://v.daum.net/v/20240921140252009"/>
-        <updated>2024-09-21T05:18:12.613Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">14:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“폭탄 떨어졌어?” 그보다 더 끔찍…다신 보고 싶지 않은 이 사진]]></title>
-        <id>https://v.daum.net/v/20240921140052984</id>
-        <link href="https://v.daum.net/v/20240921140052984"/>
-        <updated>2024-09-21T05:18:12.617Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
     </entry>
 </feed>
