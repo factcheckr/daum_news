@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2024-09-22T16:21:30.760Z</updated>
+    <updated>2024-09-22T17:16:45.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국회 법사위, 야당 주도로 '검사 탄핵·검찰 개혁' 처리 강행]]></title>
+        <id>https://v.daum.net/v/20240923013726973</id>
+        <link href="https://v.daum.net/v/20240923013726973"/>
+        <updated>2024-09-22T17:15:28.800Z</updated>
+        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">01:37</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국회 여가위, ‘딥페이크 성범죄물 처벌 강화’ 법안 처리]]></title>
+        <id>https://v.daum.net/v/20240923013724972</id>
+        <link href="https://v.daum.net/v/20240923013724972"/>
+        <updated>2024-09-22T17:15:28.811Z</updated>
+        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">01:37</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대통령 거부권에 막힌 6법, 26일 재표결]]></title>
         <id>https://v.daum.net/v/20240923011128937</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240923002414694"/>
         <updated>2024-09-22T16:20:28.607Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[체코 방문 마친 尹, ‘원전동맹’ 성과… 의료공백 등 현안 산적]]></title>
-        <id>https://v.daum.net/v/20240923002327685</id>
-        <link href="https://v.daum.net/v/20240923002327685"/>
-        <updated>2024-09-22T16:20:28.610Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:23</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘尹·韓 독대’ 의정갈등 돌파구 주목]]></title>
-        <id>https://v.daum.net/v/20240923002041675</id>
-        <link href="https://v.daum.net/v/20240923002041675"/>
-        <updated>2024-09-22T16:20:28.611Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:20</span>]]></content>
     </entry>
 </feed>
