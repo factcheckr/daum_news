@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2024-09-22T12:32:54.319Z</updated>
+    <updated>2024-09-22T13:21:09.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제주도민 대출 도서 1위…김호연 작가 ‘불편한 편의점’]]></title>
+        <id>https://v.daum.net/v/20240922221050662</id>
+        <link href="https://v.daum.net/v/20240922221050662"/>
+        <updated>2024-09-22T13:20:23.375Z</updated>
+        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">22:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[오늘의 별자리 운세] 9월 23일 월요일]]></title>
+        <id>https://v.daum.net/v/20240922220016562</id>
+        <link href="https://v.daum.net/v/20240922220016562"/>
+        <updated>2024-09-22T13:20:23.376Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[청원생명축제 27일부터 열흘간 개최]]></title>
+        <id>https://v.daum.net/v/20240922215537521</id>
+        <link href="https://v.daum.net/v/20240922215537521"/>
+        <updated>2024-09-22T13:20:23.377Z</updated>
+        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">21:55</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“해례본·미인도 보러 가자”…간송미술관 ‘문전성시’]]></title>
+        <id>https://v.daum.net/v/20240922213659350</id>
+        <link href="https://v.daum.net/v/20240922213659350"/>
+        <updated>2024-09-22T13:20:23.378Z</updated>
+        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">21:36</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KORAD-체코 SURAO, 방폐물관리 협력 강화 MOU 체결]]></title>
         <id>https://v.daum.net/v/20240922212415204</id>
@@ -34,7 +62,7 @@
         <content type="html"><![CDATA[kbc광주방송<span class="txt_bar"> · </span><span class="info_time">21:11</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[신유빈 기특하다…16세 때 운동화 보낸 곳에 바나나·주먹밥 기부]]></title>
+        <title type="html"><![CDATA[신유빈 기특하다…16세때 운동화 보낸 곳에 바나나·주먹밥 기부]]></title>
         <id>https://v.daum.net/v/20240922211051048</id>
         <link href="https://v.daum.net/v/20240922211051048"/>
         <updated>2024-09-22T12:32:00.879Z</updated>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20240922204632811"/>
         <updated>2024-09-22T12:32:00.890Z</updated>
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">20:46</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[날씨] '추분' 가을 성큼, 당분간 쾌청‥일교차 조심]]></title>
-        <id>https://v.daum.net/v/20240922203346719</id>
-        <link href="https://v.daum.net/v/20240922203346719"/>
-        <updated>2024-09-22T12:32:00.892Z</updated>
-        <content type="html"><![CDATA[MBC<span class="txt_bar"> · </span><span class="info_time">20:33</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리가 알던 AIDA 다시 돌아올까]]></title>
-        <id>https://v.daum.net/v/20240922203255705</id>
-        <link href="https://v.daum.net/v/20240922203255705"/>
-        <updated>2024-09-22T12:32:00.893Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">20:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘인생역전’ 노린 살인… 무시무시하게 웃긴다]]></title>
-        <id>https://v.daum.net/v/20240922203253704</id>
-        <link href="https://v.daum.net/v/20240922203253704"/>
-        <updated>2024-09-22T12:32:00.895Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">20:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[축제로 꽃피운 우정…한일가왕전·아방가르디 떴다]]></title>
-        <id>https://v.daum.net/v/20240922201417450</id>
-        <link href="https://v.daum.net/v/20240922201417450"/>
-        <updated>2024-09-22T12:32:00.896Z</updated>
-        <content type="html"><![CDATA[MBN<span class="txt_bar"> · </span><span class="info_time">20:14</span>]]></content>
     </entry>
 </feed>
