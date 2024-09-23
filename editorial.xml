@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-09-23T18:25:10.968Z</updated>
+    <updated>2024-09-23T19:16:08.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[워런 버핏 '세 가지 판단' [특파원 칼럼]]]></title>
+        <id>https://v.daum.net/v/20240924040327499</id>
+        <link href="https://v.daum.net/v/20240924040327499"/>
+        <updated>2024-09-23T19:15:55.405Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">04:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]돌아보는 과거 대출규제]]></title>
+        <id>https://v.daum.net/v/20240924040301498</id>
+        <link href="https://v.daum.net/v/20240924040301498"/>
+        <updated>2024-09-23T19:15:55.406Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">04:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[건강한 무릎 가진 젊은 노인의 비결]]></title>
         <id>https://v.daum.net/v/20240924031015437</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240924004337913"/>
         <updated>2024-09-23T16:22:30.447Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한마당] ‘스포츠의 GOAT’ 오타니 쇼헤이]]></title>
-        <id>https://v.daum.net/v/20240924004244912</id>
-        <link href="https://v.daum.net/v/20240924004244912"/>
-        <updated>2024-09-23T16:22:30.450Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[최민우의 시시각각]임종석의 커밍아웃]]></title>
-        <id>https://v.daum.net/v/20240924004237911</id>
-        <link href="https://v.daum.net/v/20240924004237911"/>
-        <updated>2024-09-23T16:22:30.451Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:42</span>]]></content>
     </entry>
 </feed>
