@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-09-23T02:54:03.274Z</updated>
+    <updated>2024-09-23T03:24:20.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인사] 고용노동부]]></title>
+        <id>https://v.daum.net/v/20240923120000314</id>
+        <link href="https://v.daum.net/v/20240923120000314"/>
+        <updated>2024-09-23T03:24:04.952Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">12:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[재활용 악기, 비행기 안타기…음악가들의 ‘저탄소 협주곡’ [유윤종의 클래식感]]]></title>
         <id>https://v.daum.net/v/20240923114929048</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240923093552086"/>
         <updated>2024-09-23T01:20:26.665Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">09:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나는 10년차 베테랑 환경미화원이다 [6411의 목소리]]]></title>
-        <id>https://v.daum.net/v/20240923093511052</id>
-        <link href="https://v.daum.net/v/20240923093511052"/>
-        <updated>2024-09-23T01:20:26.667Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">09:35</span>]]></content>
     </entry>
 </feed>
