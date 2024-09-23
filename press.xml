@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-09-23T10:24:07.048Z</updated>
+    <updated>2024-09-23T11:16:21.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주식 모으기부터 투자대회까지…증권사들 “서학개미 잡아라”]]></title>
+        <id>https://v.daum.net/v/20240923201308947</id>
+        <link href="https://v.daum.net/v/20240923201308947"/>
+        <updated>2024-09-23T11:16:11.529Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:13</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] Huawei Updates FTTO 2.0 and Releases New Scenario-based Products]]></title>
         <id>https://v.daum.net/v/20240923173528338</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240923165727858"/>
         <updated>2024-09-23T08:24:23.657Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:57</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 울산고래축제와 함께하는 '글로컬 아트마켓' 개최]]></title>
-        <id>https://v.daum.net/v/20240923165645813</id>
-        <link href="https://v.daum.net/v/20240923165645813"/>
-        <updated>2024-09-23T08:24:23.659Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:56</span>]]></content>
     </entry>
 </feed>
