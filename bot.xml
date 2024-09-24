@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-09-24T08:25:10.330Z</updated>
+    <updated>2024-09-24T09:21:04.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[보성파워텍 수주공시 - 동해안-신가평 송전선로 강관철탑 공급계약 243.8억원 (매출액대비  31.0 %)]]></title>
+        <id>https://v.daum.net/v/20240924175104681</id>
+        <link href="https://v.daum.net/v/20240924175104681"/>
+        <updated>2024-09-24T09:21:04.118Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">17:51</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조선내화 "계열사 시티인베스트먼트 주식 399억원에 추가취득"]]></title>
+        <id>https://v.daum.net/v/20240924173944303</id>
+        <link href="https://v.daum.net/v/20240924173944303"/>
+        <updated>2024-09-24T09:21:04.119Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">17:39</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2024년 09월 24일)]]></title>
+        <id>https://v.daum.net/v/20240924173320102</id>
+        <link href="https://v.daum.net/v/20240924173320102"/>
+        <updated>2024-09-24T09:21:04.121Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코스맥스엔비티 "건기식 제조 종속회사 주식 36억원에 추가취득"]]></title>
         <id>https://v.daum.net/v/20240924163325531</id>
@@ -88,12 +109,5 @@
         <link href="https://v.daum.net/v/20240924091503428"/>
         <updated>2024-09-24T01:20:42.827Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘의 날씨 - 오전 (2024년 09월 24일)]]></title>
-        <id>https://v.daum.net/v/20240924053316308</id>
-        <link href="https://v.daum.net/v/20240924053316308"/>
-        <updated>2024-09-23T21:18:03.821Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">05:33</span>]]></content>
     </entry>
 </feed>
