@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-09-24T03:24:32.400Z</updated>
+    <updated>2024-09-24T04:24:55.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중랑구, 청소년 ‘마음성장 프렌즈’ 캠프 2차 참가자 모집]]></title>
+        <id>https://v.daum.net/v/20240924130706046</id>
+        <link href="https://v.daum.net/v/20240924130706046"/>
+        <updated>2024-09-24T04:24:48.329Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">13:07</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스마트비즈니스 ‘그 사람은 말을 참 예쁘게 하더라’ 출간]]></title>
+        <id>https://v.daum.net/v/20240924130703045</id>
+        <link href="https://v.daum.net/v/20240924130703045"/>
+        <updated>2024-09-24T04:24:48.329Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">13:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사이버한국외대 야구부 홍대인 · 도재현 선수, 2025 KBO 신인드래프트 ‘SSG 랜더스’ 지명]]></title>
         <id>https://v.daum.net/v/20240924120153560</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240924113302154"/>
         <updated>2024-09-24T02:54:14.782Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:33</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[군산시, 2024 군산 희망복지박람회 개최]]></title>
-        <id>https://v.daum.net/v/20240924112812900</id>
-        <link href="https://v.daum.net/v/20240924112812900"/>
-        <updated>2024-09-24T02:54:14.782Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:28</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KG 모빌리티, 2024 미래 모빌리티 테크쇼 개최]]></title>
-        <id>https://v.daum.net/v/20240924112703846</id>
-        <link href="https://v.daum.net/v/20240924112703846"/>
-        <updated>2024-09-24T02:54:14.783Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">11:27</span>]]></content>
     </entry>
 </feed>

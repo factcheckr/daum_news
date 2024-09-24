@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-09-24T03:24:32.381Z</updated>
+    <updated>2024-09-24T04:24:55.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[김종면의 K브랜드 집중탐구] 〈21〉가히, 글로벌 무대 휩쓰는 'K-뷰티의 시작과 끝']]></title>
+        <id>https://v.daum.net/v/20240924132327434</id>
+        <link href="https://v.daum.net/v/20240924132327434"/>
+        <updated>2024-09-24T04:24:40.233Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">13:23</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[금투세 분수령 野 토론회…현실적 대안은 시행 유예뿐[사설]]]></title>
         <id>https://v.daum.net/v/20240924113734409</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240924085950802"/>
         <updated>2024-09-24T01:20:27.238Z</updated>
         <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">08:59</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시시비비]관광수지 적자, 나쁘게만 볼 일인가]]></title>
-        <id>https://v.daum.net/v/20240924084148258</id>
-        <link href="https://v.daum.net/v/20240924084148258"/>
-        <updated>2024-09-24T01:20:27.240Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">08:41</span>]]></content>
     </entry>
 </feed>
