@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2024-09-24T13:28:41.953Z</updated>
+    <updated>2024-09-24T14:17:16.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['아트대구 2024' 엑스코서 26~29일 개최]]></title>
+        <id>https://v.daum.net/v/20240924223950928</id>
+        <link href="https://v.daum.net/v/20240924223950928"/>
+        <updated>2024-09-24T14:16:24.388Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">22:39</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘스미스’ 작가 김지숙, 신작 ‘이 아이를 삭제할까요?’ 발간…“소설로 누군가를 위로하고 싶어”]]></title>
         <id>https://v.daum.net/v/20240924222701833</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240924210908751"/>
         <updated>2024-09-24T12:36:25.022Z</updated>
         <content type="html"><![CDATA[일간스포츠<span class="txt_bar"> · </span><span class="info_time">21:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[날씨] 내일 흐리고 가끔 비…큰 일교차 유의]]></title>
-        <id>https://v.daum.net/v/20240924210903745</id>
-        <link href="https://v.daum.net/v/20240924210903745"/>
-        <updated>2024-09-24T12:36:25.025Z</updated>
-        <content type="html"><![CDATA[SBS<span class="txt_bar"> · </span><span class="info_time">21:09</span>]]></content>
     </entry>
 </feed>
