@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-09-25T03:26:45.586Z</updated>
+    <updated>2024-09-25T04:23:45.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윈드리버, AI와 핵심 워크로드를 지원하는 엔터프라이즈 리눅스 오퍼링 ‘eLxr Pro’ 출시]]></title>
+        <id>https://v.daum.net/v/20240925130703630</id>
+        <link href="https://v.daum.net/v/20240925130703630"/>
+        <updated>2024-09-25T04:23:34.788Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">13:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세인트조지대학교 ‘세계 알츠하이머의 달’ 맞아 알츠하이머 인식 개선 위한 글로벌 행동 촉구]]></title>
         <id>https://v.daum.net/v/20240925120704545</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240925112941647"/>
         <updated>2024-09-25T02:54:05.591Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:29</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한화, 자기주식 소각으로 주주가치 제고]]></title>
-        <id>https://v.daum.net/v/20240925112704525</id>
-        <link href="https://v.daum.net/v/20240925112704525"/>
-        <updated>2024-09-25T02:54:05.592Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">11:27</span>]]></content>
     </entry>
 </feed>
