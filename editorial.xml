@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-09-25T18:25:01.896Z</updated>
+    <updated>2024-09-25T19:14:19.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[광화문]삼성의 실력]]></title>
+        <id>https://v.daum.net/v/20240926041101545</id>
+        <link href="https://v.daum.net/v/20240926041101545"/>
+        <updated>2024-09-25T19:14:02.684Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">04:11</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[기고] 차세대 보안혁신, 예산이 관건]]></title>
+        <id>https://v.daum.net/v/20240926040005525</id>
+        <link href="https://v.daum.net/v/20240926040005525"/>
+        <updated>2024-09-25T19:14:02.685Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[황덕영 목사의 다함께 선교] 일상에서 시작하십시오]]></title>
         <id>https://v.daum.net/v/20240926030720333</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240926005001753"/>
         <updated>2024-09-25T16:27:02.463Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[천자칼럼] 사적 제재]]></title>
-        <id>https://v.daum.net/v/20240926004901748</id>
-        <link href="https://v.daum.net/v/20240926004901748"/>
-        <updated>2024-09-25T16:27:02.463Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:49</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 여권 수뇌부의 맹탕 만찬…국민 염장 지르기로 작정했나]]></title>
-        <id>https://v.daum.net/v/20240926004729743</id>
-        <link href="https://v.daum.net/v/20240926004729743"/>
-        <updated>2024-09-25T16:27:02.463Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:47</span>]]></content>
     </entry>
 </feed>
