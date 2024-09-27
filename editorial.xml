@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-09-27T21:17:53.066Z</updated>
+    <updated>2024-09-27T22:21:11.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“황금세대 낭비” 헛발질만 하는 정몽규 회장 체제, 어디까지 가려나 [기자수첩-스포츠]]]></title>
+        <id>https://v.daum.net/v/20240928070029395</id>
+        <link href="https://v.daum.net/v/20240928070029395"/>
+        <updated>2024-09-27T22:20:50.556Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코스모스가 필요한 시대 [ESC]]]></title>
         <id>https://v.daum.net/v/20240928060501839</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240928003802219"/>
         <updated>2024-09-27T16:23:22.087Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:38</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외교의 힘을 과신한 바이든]]></title>
-        <id>https://v.daum.net/v/20240928003701212</id>
-        <link href="https://v.daum.net/v/20240928003701212"/>
-        <updated>2024-09-27T16:23:22.088Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:37</span>]]></content>
     </entry>
 </feed>
