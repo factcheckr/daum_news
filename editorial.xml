@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-09-27T04:23:41.624Z</updated>
+    <updated>2024-09-27T05:20:00.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[멜로보다 진한 우정을 말한다 [양경미의 영화로 보는 세상]]]></title>
+        <id>https://v.daum.net/v/20240927140126359</id>
+        <link href="https://v.daum.net/v/20240927140126359"/>
+        <updated>2024-09-27T05:19:44.214Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">14:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[기자수첩] 한국거래소스러웠던 코리아 밸류업지수, 그래도 오답은 아니다]]></title>
+        <id>https://v.daum.net/v/20240927133940742</id>
+        <link href="https://v.daum.net/v/20240927133940742"/>
+        <updated>2024-09-27T05:19:44.216Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:39</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to thwart a nuclear energy renaissance? (KOR)]]></title>
         <id>https://v.daum.net/v/20240927130517033</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240927103527403"/>
         <updated>2024-09-27T02:51:46.575Z</updated>
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">10:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빈뇨에 좋은 음식 3가지]]></title>
-        <id>https://v.daum.net/v/20240927103456378</id>
-        <link href="https://v.daum.net/v/20240927103456378"/>
-        <updated>2024-09-27T02:51:46.576Z</updated>
-        <content type="html"><![CDATA[베이비뉴스<span class="txt_bar"> · </span><span class="info_time">10:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인권 침해 드러난 ‘외국인 가사관리사 시범사업’ [플랫]]]></title>
-        <id>https://v.daum.net/v/20240927103004173</id>
-        <link href="https://v.daum.net/v/20240927103004173"/>
-        <updated>2024-09-27T02:51:46.577Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">10:30</span>]]></content>
     </entry>
 </feed>
