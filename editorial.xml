@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-09-27T10:22:08.780Z</updated>
+    <updated>2024-09-27T11:17:39.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2野, 현금 살포 공약 경쟁… 10·16 재보선 투전판 만들 건가 [논설실의 관점]]]></title>
+        <id>https://v.daum.net/v/20240927200135464</id>
+        <link href="https://v.daum.net/v/20240927200135464"/>
+        <updated>2024-09-27T11:17:22.827Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">20:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[의학칼럼] 10·20대 마약 중독, 생각보다 심각… 병폐 끊는 가장 첫 번째 방법은]]></title>
+        <id>https://v.daum.net/v/20240927200046448</id>
+        <link href="https://v.daum.net/v/20240927200046448"/>
+        <updated>2024-09-27T11:17:22.827Z</updated>
+        <content type="html"><![CDATA[헬스조선<span class="txt_bar"> · </span><span class="info_time">20:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 취약 자영업자 연체율 2년새 두배 급등, 채무재조정 시급하다]]></title>
         <id>https://v.daum.net/v/20240927181504814</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240927174053887"/>
         <updated>2024-09-27T09:20:26.480Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">17:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[최근도의 이해] 정글에서 살아남기]]></title>
-        <id>https://v.daum.net/v/20240927173911843</id>
-        <link href="https://v.daum.net/v/20240927173911843"/>
-        <updated>2024-09-27T09:20:26.482Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이디]]></title>
-        <id>https://v.daum.net/v/20240927173910841</id>
-        <link href="https://v.daum.net/v/20240927173910841"/>
-        <updated>2024-09-27T09:20:26.483Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:39</span>]]></content>
     </entry>
 </feed>
