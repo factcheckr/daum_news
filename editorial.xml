@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-09-27T07:18:49.202Z</updated>
+    <updated>2024-09-27T08:26:22.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인사] 한화에어로스페이스]]></title>
+        <id>https://v.daum.net/v/20240927163650005</id>
+        <link href="https://v.daum.net/v/20240927163650005"/>
+        <updated>2024-09-27T08:26:03.746Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">16:36</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[fn사설] 모건 보고서 일축한 SK-삼성 AI반도체 개발 개가]]></title>
+        <id>https://v.daum.net/v/20240927163314900</id>
+        <link href="https://v.daum.net/v/20240927163314900"/>
+        <updated>2024-09-27T08:26:03.746Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">16:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인사] ㈜한화]]></title>
         <id>https://v.daum.net/v/20240927161124259</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240927130332001"/>
         <updated>2024-09-27T04:23:20.530Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">13:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“공장폐쇄로 2만명 이상 해고된다”...1인당 평균소득 2억 넘던 도시의 몰락 왜? [필동정담]]]></title>
-        <id>https://v.daum.net/v/20240927130300985</id>
-        <link href="https://v.daum.net/v/20240927130300985"/>
-        <updated>2024-09-27T04:23:20.530Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">13:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘시청역 참사’ 재발 막을 울타리...교통사고 사망 68%는 보행 중 사고, 예산 우선 순위는? [기자24시]]]></title>
-        <id>https://v.daum.net/v/20240927123000568</id>
-        <link href="https://v.daum.net/v/20240927123000568"/>
-        <updated>2024-09-27T04:23:20.532Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">12:30</span>]]></content>
     </entry>
 </feed>
