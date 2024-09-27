@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-09-27T20:21:51.552Z</updated>
+    <updated>2024-09-27T21:17:53.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코스모스가 필요한 시대 [ESC]]]></title>
+        <id>https://v.daum.net/v/20240928060501839</id>
+        <link href="https://v.daum.net/v/20240928060501839"/>
+        <updated>2024-09-27T21:17:33.978Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">06:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[데스크 칼럼] 가계빚은 한국 경제 뇌관인가]]></title>
+        <id>https://v.daum.net/v/20240928060102759</id>
+        <link href="https://v.daum.net/v/20240928060102759"/>
+        <updated>2024-09-27T21:17:33.980Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">06:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[홍성걸의 정치나침반] 누구를 위한 대통령인가]]></title>
+        <id>https://v.daum.net/v/20240928053021359</id>
+        <link href="https://v.daum.net/v/20240928053021359"/>
+        <updated>2024-09-27T21:17:33.980Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[초선의 첫 보람, 딥페이크 법 통과 [초선의원이 말한다]]]></title>
         <id>https://v.daum.net/v/20240928043103026</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20240928003701212"/>
         <updated>2024-09-27T16:23:22.088Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토 카페] 백팀이 이긴 까닭]]></title>
-        <id>https://v.daum.net/v/20240928003614200</id>
-        <link href="https://v.daum.net/v/20240928003614200"/>
-        <updated>2024-09-27T16:23:22.088Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 책방] 책방의 친구가 돼 주세요]]></title>
-        <id>https://v.daum.net/v/20240928003610195</id>
-        <link href="https://v.daum.net/v/20240928003610195"/>
-        <updated>2024-09-27T16:23:22.088Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[진지하게 웃기는 인생] 북페어에서 가산 탕진하기]]></title>
-        <id>https://v.daum.net/v/20240928003549190</id>
-        <link href="https://v.daum.net/v/20240928003549190"/>
-        <updated>2024-09-27T16:23:22.089Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:35</span>]]></content>
     </entry>
 </feed>
