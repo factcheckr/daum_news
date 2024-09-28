@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-09-28T13:24:12.550Z</updated>
+    <updated>2024-09-28T14:16:53.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조용준 동구바이오제약 대표, 큐리언트 통해 신약개발 색채 강화[화제의 바이오人]]]></title>
+        <id>https://v.daum.net/v/20240928223007903</id>
+        <link href="https://v.daum.net/v/20240928223007903"/>
+        <updated>2024-09-28T14:16:27.153Z</updated>
+        <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">22:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[밤 11시 강남서 집에 가다 ‘화들짝’…‘요금 0원’ 유령 택시 정체]]></title>
         <id>https://v.daum.net/v/20240928214046413</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240928180018953"/>
         <updated>2024-09-28T09:18:56.184Z</updated>
         <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">18:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부음] 문재남(통신대안평가 대표)씨 부친상]]></title>
-        <id>https://v.daum.net/v/20240928175918936</id>
-        <link href="https://v.daum.net/v/20240928175918936"/>
-        <updated>2024-09-28T09:18:56.184Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">17:59</span>]]></content>
     </entry>
 </feed>
