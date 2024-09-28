@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-09-28T06:25:00.330Z</updated>
+    <updated>2024-09-28T07:18:42.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인사] 환경부]]></title>
+        <id>https://v.daum.net/v/20240928153519373</id>
+        <link href="https://v.daum.net/v/20240928153519373"/>
+        <updated>2024-09-28T07:18:22.443Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">15:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인사] 국세청]]></title>
         <id>https://v.daum.net/v/20240928152418268</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240928060501839"/>
         <updated>2024-09-27T21:17:33.978Z</updated>
         <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">06:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데스크 칼럼] 가계빚은 한국 경제 뇌관인가]]></title>
-        <id>https://v.daum.net/v/20240928060102759</id>
-        <link href="https://v.daum.net/v/20240928060102759"/>
-        <updated>2024-09-27T21:17:33.980Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">06:01</span>]]></content>
     </entry>
 </feed>
