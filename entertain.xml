@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2024-09-29T16:22:34.959Z</updated>
+    <updated>2024-09-29T17:16:53.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정영주 "ADHD 아들 사회 부적응…쇼크 받아 쓰러져"]]></title>
+        <id>https://v.daum.net/v/20240930012306471</id>
+        <link href="https://v.daum.net/v/20240930012306471"/>
+        <updated>2024-09-29T17:16:16.378Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">01:23</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전종서, 결국 '황금 골반' 훤히 노출…논란 종결]]></title>
         <id>https://v.daum.net/v/20240930011107429</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240930002001179"/>
         <updated>2024-09-29T16:21:48.595Z</updated>
         <content type="html"><![CDATA[텐아시아<span class="txt_bar"> · </span><span class="info_time">00:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[종합]'마약 투약' 로버트 할리, 희귀암 투병→경제적 문제 "죽을 때까지 미안"('한이결')]]></title>
-        <id>https://v.daum.net/v/20240930001902176</id>
-        <link href="https://v.daum.net/v/20240930001902176"/>
-        <updated>2024-09-29T16:21:48.597Z</updated>
-        <content type="html"><![CDATA[텐아시아<span class="txt_bar"> · </span><span class="info_time">00:19</span>]]></content>
     </entry>
 </feed>
