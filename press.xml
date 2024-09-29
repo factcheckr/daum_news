@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-09-29T22:17:08.187Z</updated>
+    <updated>2024-09-29T23:20:32.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[피엠그로우-헤이딜러, EV 중고차 배터리 안전 위한 배터리 상태 공개]]></title>
+        <id>https://v.daum.net/v/20240930080704768</id>
+        <link href="https://v.daum.net/v/20240930080704768"/>
+        <updated>2024-09-29T23:20:23.020Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">08:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[자동차] 브랜드 최초로 지능형 라이팅 시스템 탑재 … 업그레이드된 디자인도 눈길]]></title>
         <id>https://v.daum.net/v/20240930053150491</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20240930053122474</id>
         <link href="https://v.daum.net/v/20240930053122474"/>
         <updated>2024-09-29T21:16:56.895Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">05:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[함께하는 금융] MS·애플·엔비디아에 집중 투자 등 ETF 2종 선봬]]></title>
-        <id>https://v.daum.net/v/20240930053120473</id>
-        <link href="https://v.daum.net/v/20240930053120473"/>
-        <updated>2024-09-29T21:16:56.896Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">05:31</span>]]></content>
     </entry>
 </feed>
