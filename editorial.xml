@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-09-30T04:25:29.619Z</updated>
+    <updated>2024-09-30T05:23:58.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[깊은 맛의 원두커피, 간편한 스틱… 당신의 선택은]]></title>
+        <id>https://v.daum.net/v/20240930142300708</id>
+        <link href="https://v.daum.net/v/20240930142300708"/>
+        <updated>2024-09-30T05:23:39.905Z</updated>
+        <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">14:23</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[시가 있는 월요일] 가을의 거지]]></title>
+        <id>https://v.daum.net/v/20240930134803418</id>
+        <link href="https://v.daum.net/v/20240930134803418"/>
+        <updated>2024-09-30T05:23:39.910Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">13:48</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[시시비비] 월요병·불목 없는 주 4일제]]></title>
         <id>https://v.daum.net/v/20240930120044011</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20240930102716665"/>
         <updated>2024-09-30T02:59:33.483Z</updated>
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">10:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인사] 식품의약품안전처]]></title>
-        <id>https://v.daum.net/v/20240930101537059</id>
-        <link href="https://v.daum.net/v/20240930101537059"/>
-        <updated>2024-09-30T01:26:14.676Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">10:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사이비가 가스라이팅, 부끄러움을 잃은 권력자]]></title>
-        <id>https://v.daum.net/v/20240930101006824</id>
-        <link href="https://v.daum.net/v/20240930101006824"/>
-        <updated>2024-09-30T01:26:14.677Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">10:10</span>]]></content>
     </entry>
 </feed>
