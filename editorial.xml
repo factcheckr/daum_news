@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-09-30T02:59:51.268Z</updated>
+    <updated>2024-09-30T03:29:34.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[시시비비] 월요병·불목 없는 주 4일제]]></title>
+        <id>https://v.daum.net/v/20240930120044011</id>
+        <link href="https://v.daum.net/v/20240930120044011"/>
+        <updated>2024-09-30T03:29:14.883Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">12:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[탄핵 투쟁 강도 높이는 민주당, 내부 분란 악화하는 여권[사설]]]></title>
         <id>https://v.daum.net/v/20240930113615179</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240930101006824"/>
         <updated>2024-09-30T01:26:14.677Z</updated>
         <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">10:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[계절의 실종, 미래를 보다 [6411의 목소리]]]></title>
-        <id>https://v.daum.net/v/20240930093508388</id>
-        <link href="https://v.daum.net/v/20240930093508388"/>
-        <updated>2024-09-30T01:26:14.678Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">09:35</span>]]></content>
     </entry>
 </feed>
