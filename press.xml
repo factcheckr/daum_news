@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-09-30T10:22:37.650Z</updated>
+    <updated>2024-09-30T11:17:20.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] OCI Global Completes Sale of Clean Ammonia to Woodside]]></title>
+        <id>https://v.daum.net/v/20240930200732286</id>
+        <link href="https://v.daum.net/v/20240930200732286"/>
+        <updated>2024-09-30T11:17:08.064Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[AsiaNet] Shanxi power grid photovoltaic "green electricity" of more than 60%]]></title>
         <id>https://v.daum.net/v/20240930184524758</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20240930170740938"/>
         <updated>2024-09-30T09:22:26.661Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영호남 시도지사-국회의원, 상생협력 방안 논의 위해 한자리에 모여]]></title>
-        <id>https://v.daum.net/v/20240930170255767</id>
-        <link href="https://v.daum.net/v/20240930170255767"/>
-        <updated>2024-09-30T09:22:26.663Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:02</span>]]></content>
     </entry>
 </feed>
