@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-09-30T23:19:20.599Z</updated>
+    <updated>2024-10-01T01:27:48.194Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Time for self-reflection and retrospection (KOR)]]></title>
+        <id>https://v.daum.net/v/20241001085754588</id>
+        <link href="https://v.daum.net/v/20241001085754588"/>
+        <updated>2024-10-01T01:27:33.213Z</updated>
+        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">08:57</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[기고]'오류 투성이' 野 체코 원전 성명서]]></title>
+        <id>https://v.daum.net/v/20241001084048402</id>
+        <link href="https://v.daum.net/v/20241001084048402"/>
+        <updated>2024-10-01T01:27:33.213Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">08:40</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["대한민국 아동들에게는 충분한 쉼이 필요합니다"]]></title>
         <id>https://v.daum.net/v/20241001081003086</id>
@@ -94,20 +108,6 @@
         <id>https://v.daum.net/v/20241001050338201</id>
         <link href="https://v.daum.net/v/20241001050338201"/>
         <updated>2024-09-30T20:22:09.211Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[씨줄날줄] ‘배민’의 갑질]]></title>
-        <id>https://v.daum.net/v/20241001050336200</id>
-        <link href="https://v.daum.net/v/20241001050336200"/>
-        <updated>2024-09-30T20:22:09.221Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] ‘못된 중앙정치’ 빼닮은 군수 후보들 공약이라니]]></title>
-        <id>https://v.daum.net/v/20241001050334198</id>
-        <link href="https://v.daum.net/v/20241001050334198"/>
-        <updated>2024-09-30T20:22:09.221Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
     </entry>
 </feed>
