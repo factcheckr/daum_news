@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-10-01T01:27:48.194Z</updated>
+    <updated>2024-10-01T02:59:56.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[프랑스 혁명 후, 분리된 ‘수사·기소’…“다 주면 폭군 나와”]]></title>
+        <id>https://v.daum.net/v/20241001113501125</id>
+        <link href="https://v.daum.net/v/20241001113501125"/>
+        <updated>2024-10-01T02:59:40.735Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">11:35</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인사] 한국해양교통안전공단]]></title>
+        <id>https://v.daum.net/v/20241001110510534</id>
+        <link href="https://v.daum.net/v/20241001110510534"/>
+        <updated>2024-10-01T02:59:40.735Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">11:05</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Time for self-reflection and retrospection (KOR)]]></title>
         <id>https://v.daum.net/v/20241001085754588</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241001053039366"/>
         <updated>2024-09-30T21:18:32.422Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재용 회장의 '미소와 침묵' 사이…삼성의 미래는?]]></title>
-        <id>https://v.daum.net/v/20241001053006352</id>
-        <link href="https://v.daum.net/v/20241001053006352"/>
-        <updated>2024-09-30T21:18:32.424Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[열린세상] 북핵 협상은 왜 실패했나]]></title>
-        <id>https://v.daum.net/v/20241001050338201</id>
-        <link href="https://v.daum.net/v/20241001050338201"/>
-        <updated>2024-09-30T20:22:09.211Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
     </entry>
 </feed>
