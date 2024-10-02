@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-10-02T06:27:20.861Z</updated>
+    <updated>2024-10-02T07:18:19.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[진짜 ‘어른’이 되기 위해 [똑똑! 한국사회]]]></title>
+        <id>https://v.daum.net/v/20241002161512008</id>
+        <link href="https://v.daum.net/v/20241002161512008"/>
+        <updated>2024-10-02T07:18:01.246Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">16:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국감의 계절 [옵스큐라]]]></title>
+        <id>https://v.daum.net/v/20241002161511005</id>
+        <link href="https://v.daum.net/v/20241002161511005"/>
+        <updated>2024-10-02T07:18:01.246Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">16:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인사] DL그룹]]></title>
+        <id>https://v.daum.net/v/20241002155252823</id>
+        <link href="https://v.daum.net/v/20241002155252823"/>
+        <updated>2024-10-02T07:18:01.247Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">15:52</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[거꾸로 가는 주식부자 세금 [박현 칼럼]]]></title>
+        <id>https://v.daum.net/v/20241002155018666</id>
+        <link href="https://v.daum.net/v/20241002155018666"/>
+        <updated>2024-10-02T07:18:01.251Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">15:50</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인사] 통계청]]></title>
         <id>https://v.daum.net/v/20241002152249288</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20241002110955125"/>
         <updated>2024-10-02T02:53:49.731Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">11:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 정부 ‘한은 마통’ 152조 역대 최대...돌려막기 중독 안돼]]></title>
-        <id>https://v.daum.net/v/20241002110932115</id>
-        <link href="https://v.daum.net/v/20241002110932115"/>
-        <updated>2024-10-02T02:53:49.733Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 반년 이상 백수 절반이 청년, 노동시장 이중구조의 그늘]]></title>
-        <id>https://v.daum.net/v/20241002110930113</id>
-        <link href="https://v.daum.net/v/20241002110930113"/>
-        <updated>2024-10-02T02:53:49.734Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:09</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[논단]고려아연 M&A를 어떻게 볼까]]></title>
-        <id>https://v.daum.net/v/20241002110745051</id>
-        <link href="https://v.daum.net/v/20241002110745051"/>
-        <updated>2024-10-02T02:53:49.737Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[걸으며 서울을 생각하다]서울에 다양한 건물이 필요한 이유]]></title>
-        <id>https://v.daum.net/v/20241002110411893</id>
-        <link href="https://v.daum.net/v/20241002110411893"/>
-        <updated>2024-10-02T02:53:49.738Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:04</span>]]></content>
     </entry>
 </feed>
