@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-10-02T09:20:45.629Z</updated>
+    <updated>2024-10-02T10:20:42.876Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서울시인대학, 2024학년도 등단식 및 제14호 사화집 ‘첫 만남의 기쁨’ 출판기념회 개최]]></title>
+        <id>https://v.daum.net/v/20241002183704852</id>
+        <link href="https://v.daum.net/v/20241002183704852"/>
+        <updated>2024-10-02T10:20:33.494Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">18:37</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] SolaX Power Announces 1.498 Billion USD Investment]]></title>
         <id>https://v.daum.net/v/20241002175720714</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241002170730082"/>
         <updated>2024-10-02T08:25:03.351Z</updated>
         <content type="html"><![CDATA[헬스조선<span class="txt_bar"> · </span><span class="info_time">17:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[옹진군, 2024년 제3차 통합사례관리 솔루션회의 개최]]></title>
-        <id>https://v.daum.net/v/20241002170508982</id>
-        <link href="https://v.daum.net/v/20241002170508982"/>
-        <updated>2024-10-02T08:25:03.353Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:05</span>]]></content>
     </entry>
 </feed>
