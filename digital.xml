@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-10-03T19:15:31.579Z</updated>
+    <updated>2024-10-03T20:20:50.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삼성전자, 모바일과 가전 통합 가속화.. 가전과 TV에도 One UI 적용]]></title>
+        <id>https://v.daum.net/v/20241004050900097</id>
+        <link href="https://v.daum.net/v/20241004050900097"/>
+        <updated>2024-10-03T20:20:21.686Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">05:09</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[취업·결혼·육아…'현타' 세게 온다는 요즘 젊은이들[샷집]]]></title>
+        <id>https://v.daum.net/v/20241004050102810</id>
+        <link href="https://v.daum.net/v/20241004050102810"/>
+        <updated>2024-10-03T20:20:21.688Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">05:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['특고=근로자' 잇단 판결…대리기사·라이더 플랫폼업계 '한숨']]></title>
         <id>https://v.daum.net/v/20241004040500360</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241004004358685"/>
         <updated>2024-10-03T16:23:43.418Z</updated>
         <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">00:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FRANCE TECH FAIR]]></title>
-        <id>https://v.daum.net/v/20241004004220670</id>
-        <link href="https://v.daum.net/v/20241004004220670"/>
-        <updated>2024-10-03T16:23:43.419Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">00:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FRANCE TECH FAIR]]></title>
-        <id>https://v.daum.net/v/20241004004217669</id>
-        <link href="https://v.daum.net/v/20241004004217669"/>
-        <updated>2024-10-03T16:23:43.421Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">00:42</span>]]></content>
     </entry>
 </feed>
