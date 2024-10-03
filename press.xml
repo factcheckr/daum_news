@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-10-03T04:23:38.753Z</updated>
+    <updated>2024-10-03T05:21:31.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Arthur D. Little and Mathlabs Announce Strategic Partnership to Improve Open Innovation Outcomes Using AI]]></title>
+        <id>https://v.daum.net/v/20241003140703827</id>
+        <link href="https://v.daum.net/v/20241003140703827"/>
+        <updated>2024-10-03T05:21:24.136Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">14:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[푸마, 글로벌 목표 홍보대사와 함께 가죽과 비건 가죽 탐구]]></title>
         <id>https://v.daum.net/v/20241003120705550</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241003094703788"/>
         <updated>2024-10-03T01:22:09.850Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">09:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] 상하이 링강에서 '세계 최고 성과 인큐베이터 콘퍼런스 2024' 개최]]></title>
-        <id>https://v.daum.net/v/20241003085148944</id>
-        <link href="https://v.daum.net/v/20241003085148944"/>
-        <updated>2024-10-03T01:22:09.850Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">08:51</span>]]></content>
     </entry>
 </feed>

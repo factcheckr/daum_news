@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-10-03T04:23:38.744Z</updated>
+    <updated>2024-10-03T05:21:31.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[데스크라인]국가AI위원회의 기대치]]></title>
+        <id>https://v.daum.net/v/20241003141603103</id>
+        <link href="https://v.daum.net/v/20241003141603103"/>
+        <updated>2024-10-03T05:21:16.242Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">14:16</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임란 부산포 대첩 기리는 '부산시민의 날' 취지 살려야]]></title>
         <id>https://v.daum.net/v/20241003130858688</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20241003050325395</id>
         <link href="https://v.daum.net/v/20241003050325395"/>
         <updated>2024-10-02T20:21:32.414Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[길섶에서] 시들어 가는 가을]]></title>
-        <id>https://v.daum.net/v/20241003050324394</id>
-        <link href="https://v.daum.net/v/20241003050324394"/>
-        <updated>2024-10-02T20:21:32.415Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
     </entry>
 </feed>
