@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-10-04T06:28:18.904Z</updated>
+    <updated>2024-10-04T07:19:32.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[HL홀딩스 "자회사 에이치엘로보틱스 주식 490억원에 추가취득"]]></title>
+        <id>https://v.daum.net/v/20241004161024878</id>
+        <link href="https://v.daum.net/v/20241004161024878"/>
+        <updated>2024-10-04T07:19:31.758Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">16:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HL홀딩스 "자회사 제이제이한라 주식 1천170억원에 추가취득"]]></title>
+        <id>https://v.daum.net/v/20241004155916398</id>
+        <link href="https://v.daum.net/v/20241004155916398"/>
+        <updated>2024-10-04T07:19:31.758Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">15:59</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[브이엠 수주공시 - 반도체 제조장비 43억원 (매출액대비  16.53 %)]]></title>
         <id>https://v.daum.net/v/20241004145102766</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241004112303419"/>
         <updated>2024-10-04T02:51:51.703Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">11:23</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인스코비' 52주 신고가 경신, 최근 3일간 기관 대량 순매수]]></title>
-        <id>https://v.daum.net/v/20241004102006946</id>
-        <link href="https://v.daum.net/v/20241004102006946"/>
-        <updated>2024-10-04T01:21:20.036Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">10:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['셀루메드' 52주 신고가 경신, 전일 외국인 대량 순매수]]></title>
-        <id>https://v.daum.net/v/20241004092004636</id>
-        <link href="https://v.daum.net/v/20241004092004636"/>
-        <updated>2024-10-04T01:21:20.036Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:20</span>]]></content>
     </entry>
 </feed>
