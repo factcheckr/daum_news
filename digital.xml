@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-10-04T12:36:44.024Z</updated>
+    <updated>2024-10-04T13:26:23.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[멜론 트랙제로, 윤석철트리오 10월 '이달의 아티스트' 선정]]></title>
+        <id>https://v.daum.net/v/20241004221324438</id>
+        <link href="https://v.daum.net/v/20241004221324438"/>
+        <updated>2024-10-04T13:25:50.757Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">22:13</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이통 3사, AI 도약 위해 누구와 손잡았나]]></title>
+        <id>https://v.daum.net/v/20241004214802175</id>
+        <link href="https://v.daum.net/v/20241004214802175"/>
+        <updated>2024-10-04T13:25:50.758Z</updated>
+        <content type="html"><![CDATA[IT동아<span class="txt_bar"> · </span><span class="info_time">21:48</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“한국이 만만했나”…해외선 잘내는 구글·애플, 국내 과징금 4000억 불복]]></title>
         <id>https://v.daum.net/v/20241004213000009</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241004191600485"/>
         <updated>2024-10-04T11:16:13.442Z</updated>
         <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">19:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인사] 중소벤처기업부]]></title>
-        <id>https://v.daum.net/v/20241004190803336</id>
-        <link href="https://v.daum.net/v/20241004190803336"/>
-        <updated>2024-10-04T11:16:13.443Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">19:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hyundai's Ioniq 5 to join Waymo's robotaxi fleet]]></title>
-        <id>https://v.daum.net/v/20241004190010210</id>
-        <link href="https://v.daum.net/v/20241004190010210"/>
-        <updated>2024-10-04T11:16:13.445Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:00</span>]]></content>
     </entry>
 </feed>
