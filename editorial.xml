@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-10-04T03:24:28.168Z</updated>
+    <updated>2024-10-04T04:23:59.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[김대식 칼럼]AGI 등장하면 인간처럼 자아가 생길까]]></title>
+        <title type="html"><![CDATA[[데일리안 시사만평] 尹대통령, '한동훈 빼놓은' 여당 만찬서…"우리는 하나다?"]]></title>
+        <id>https://v.daum.net/v/20241004125534624</id>
+        <link href="https://v.daum.net/v/20241004125534624"/>
+        <updated>2024-10-04T04:23:39.498Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">12:55</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[김대식 칼럼]기계에도 자아가 생길까]]></title>
         <id>https://v.daum.net/v/20241004122324143</id>
         <link href="https://v.daum.net/v/20241004122324143"/>
         <updated>2024-10-04T03:24:11.306Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241004093107034"/>
         <updated>2024-10-04T01:20:59.284Z</updated>
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">09:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘김건희 리스크’ 해결 없이 윤석열 정부는 뭘 할 수 있나? [10월4일 뉴스뷰리핑]]]></title>
-        <id>https://v.daum.net/v/20241004093014010</id>
-        <link href="https://v.daum.net/v/20241004093014010"/>
-        <updated>2024-10-04T01:20:59.284Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">09:30</span>]]></content>
     </entry>
 </feed>
