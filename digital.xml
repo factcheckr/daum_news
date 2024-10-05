@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-10-05T05:20:34.891Z</updated>
+    <updated>2024-10-05T06:25:30.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 LoL 월즈 8강 앞두고 韓 내전…"한화생명 vs 젠지"]]></title>
+        <id>https://v.daum.net/v/20241005144844984</id>
+        <link href="https://v.daum.net/v/20241005144844984"/>
+        <updated>2024-10-05T06:25:02.555Z</updated>
+        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">14:48</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엔씨가 달라졌어요…'TL' 이어 '저니 오브 모나크'도 흥행 예고]]></title>
         <id>https://v.daum.net/v/20241005141009307</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241005100037565"/>
         <updated>2024-10-05T01:19:29.190Z</updated>
         <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">10:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["무임승차하면서 이용료는 기습 인상"…발톱 드러낸 빅테크[구글 韓 진출 20년③]]]></title>
-        <id>https://v.daum.net/v/20241005100016548</id>
-        <link href="https://v.daum.net/v/20241005100016548"/>
-        <updated>2024-10-05T01:19:29.190Z</updated>
-        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">10:00</span>]]></content>
     </entry>
 </feed>
