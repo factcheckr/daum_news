@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-10-05T09:22:40.071Z</updated>
+    <updated>2024-10-05T10:18:17.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인천 옥련동 옥련현대2차 59㎡ 2억6000만원에 거래]]></title>
+        <id>https://v.daum.net/v/20241005183539632</id>
+        <link href="https://v.daum.net/v/20241005183539632"/>
+        <updated>2024-10-05T10:18:17.337Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:35</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[용인 구갈동 기흥역센트럴푸르지오 84㎡ 8억5300만원에 거래]]></title>
+        <id>https://v.daum.net/v/20241005183041594</id>
+        <link href="https://v.daum.net/v/20241005183041594"/>
+        <updated>2024-10-05T10:18:17.343Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천 청라동 청라호반베르디움2차아파트 59㎡ 4억9500만원에 거래]]></title>
+        <id>https://v.daum.net/v/20241005182603548</id>
+        <link href="https://v.daum.net/v/20241005182603548"/>
+        <updated>2024-10-05T10:18:17.343Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">18:26</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[용인 상현동 진산마을성원상떼빌아파트 59㎡ 5억4400만원에 거래]]></title>
         <id>https://v.daum.net/v/20241005182039512</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20241005173047984"/>
         <updated>2024-10-05T09:22:39.434Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 망포동 힐스테이트 영통아파트 62㎡ 8억1500만원에 거래]]></title>
-        <id>https://v.daum.net/v/20241005172629930</id>
-        <link href="https://v.daum.net/v/20241005172629930"/>
-        <updated>2024-10-05T09:22:39.436Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 동춘동 연수 대우삼환 아파트 90㎡ 4억2800만원에 거래]]></title>
-        <id>https://v.daum.net/v/20241005172042855</id>
-        <link href="https://v.daum.net/v/20241005172042855"/>
-        <updated>2024-10-05T08:24:02.195Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 옥련동 옥련현대2차 59㎡ 2억4850만원에 거래]]></title>
-        <id>https://v.daum.net/v/20241005171538788</id>
-        <link href="https://v.daum.net/v/20241005171538788"/>
-        <updated>2024-10-05T08:24:02.197Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">17:15</span>]]></content>
     </entry>
 </feed>
