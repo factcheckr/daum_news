@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-10-05T04:22:37.225Z</updated>
+    <updated>2024-10-05T05:20:34.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[최영미 시론] 시와 와인의 날들, 슬로베니아 기행]]></title>
+        <id>https://v.daum.net/v/20241005140002103</id>
+        <link href="https://v.daum.net/v/20241005140002103"/>
+        <updated>2024-10-05T05:20:19.591Z</updated>
+        <content type="html"><![CDATA[시사저널<span class="txt_bar"> · </span><span class="info_time">14:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부고] 하주호(전 SPC그룹·호텔신라 부사장)씨 장인상]]></title>
+        <id>https://v.daum.net/v/20241005132649748</id>
+        <link href="https://v.daum.net/v/20241005132649748"/>
+        <updated>2024-10-05T05:20:19.591Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">13:26</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영상산업 불황의 끝이 보이지 않는데… [라제기의 슛 & 숏]]]></title>
         <id>https://v.daum.net/v/20241005120103835</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241005003920941"/>
         <updated>2024-10-04T16:24:08.394Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[빛과 소금] 긴츠기 인생]]></title>
-        <id>https://v.daum.net/v/20241005003812938</id>
-        <link href="https://v.daum.net/v/20241005003812938"/>
-        <updated>2024-10-04T16:24:08.395Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:38</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[토요칼럼] 트로트, 아웃도어, 리니지의 공통점]]></title>
-        <id>https://v.daum.net/v/20241005003601922</id>
-        <link href="https://v.daum.net/v/20241005003601922"/>
-        <updated>2024-10-04T16:24:08.398Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:36</span>]]></content>
     </entry>
 </feed>
