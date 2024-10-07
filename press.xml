@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-10-07T03:27:38.859Z</updated>
+    <updated>2024-10-07T04:25:55.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[눈 침침한 것 노안 아니었다… ‘이 증상’ 동반되면 실명 조심]]></title>
+        <id>https://v.daum.net/v/20241007131534443</id>
+        <link href="https://v.daum.net/v/20241007131534443"/>
+        <updated>2024-10-07T04:25:45.539Z</updated>
+        <content type="html"><![CDATA[헬스조선<span class="txt_bar"> · </span><span class="info_time">13:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유블럭스, 원격 연결 문제 해결하는 GNSS 내장된 최초의 위성 IoT-NTN 셀룰러 모듈 출시]]></title>
+        <id>https://v.daum.net/v/20241007130703191</id>
+        <link href="https://v.daum.net/v/20241007130703191"/>
+        <updated>2024-10-07T04:25:45.540Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">13:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화성시문화재단, 화성시 예술단과 함께하는 ‘시네마 콘서트’ 공연 성황리 마무리]]></title>
         <id>https://v.daum.net/v/20241007120705927</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241007112939198"/>
         <updated>2024-10-07T02:54:51.564Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:29</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[K2, 가을 산행 필수 등산화 ‘카이로스’ 출시]]></title>
-        <id>https://v.daum.net/v/20241007112935195</id>
-        <link href="https://v.daum.net/v/20241007112935195"/>
-        <updated>2024-10-07T02:54:51.565Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">11:29</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제주삼다수, 고객 경험 팝업스토어 연다… 잔잔한 일상의 새로운 물결, 웨이브]]></title>
-        <id>https://v.daum.net/v/20241007112718062</id>
-        <link href="https://v.daum.net/v/20241007112718062"/>
-        <updated>2024-10-07T02:54:51.566Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">11:27</span>]]></content>
     </entry>
 </feed>
