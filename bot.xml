@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-10-08T06:30:44.296Z</updated>
+    <updated>2024-10-08T07:20:33.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다산네트웍스 "엔지스테크널러지 주식 230억원에 추가취득"]]></title>
+        <id>https://v.daum.net/v/20241008161602123</id>
+        <link href="https://v.daum.net/v/20241008161602123"/>
+        <updated>2024-10-08T07:20:32.644Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">16:16</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['한화에어로스페이스' 52주 신고가 경신, 육·해·공·우주 종합 방산 기업으로 거듭나다 - 한화투자증권, BUY(신규)]]></title>
+        <id>https://v.daum.net/v/20241008153402703</id>
+        <link href="https://v.daum.net/v/20241008153402703"/>
+        <updated>2024-10-08T07:20:32.645Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">15:34</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['삼일제약' 52주 신고가 경신, GMP 인증 획득 완료, 남은 건 빅파마 계약 - KB증권, None]]></title>
         <id>https://v.daum.net/v/20241008143506234</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241008131042087"/>
         <updated>2024-10-08T04:23:22.637Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 율전동 율전밤꽃마을뜨란채 84㎡ 4억8000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20241008130534965</id>
-        <link href="https://v.daum.net/v/20241008130534965"/>
-        <updated>2024-10-08T04:23:22.637Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용인 지곡동 자봉마을써니밸리 114㎡ 3억6500만원에 거래]]></title>
-        <id>https://v.daum.net/v/20241008130053888</id>
-        <link href="https://v.daum.net/v/20241008130053888"/>
-        <updated>2024-10-08T04:23:22.638Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:00</span>]]></content>
     </entry>
 </feed>
