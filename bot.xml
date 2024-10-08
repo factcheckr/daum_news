@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-10-08T08:25:23.397Z</updated>
+    <updated>2024-10-08T09:21:29.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2024년 10월 08일)]]></title>
+        <id>https://v.daum.net/v/20241008173316588</id>
+        <link href="https://v.daum.net/v/20241008173316588"/>
+        <updated>2024-10-08T09:21:28.900Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[네오펙트, 10억원 3자배정 유상증자 결정]]></title>
         <id>https://v.daum.net/v/20241008170158610</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241008133046654"/>
         <updated>2024-10-08T05:19:20.296Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용인 동백동 용인동백두산위브더제니스 69㎡ 5억8300만원에 거래]]></title>
-        <id>https://v.daum.net/v/20241008132627519</id>
-        <link href="https://v.daum.net/v/20241008132627519"/>
-        <updated>2024-10-08T05:19:20.297Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">13:26</span>]]></content>
     </entry>
 </feed>
