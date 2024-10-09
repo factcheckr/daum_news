@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-10-09T21:18:24.268Z</updated>
+    <updated>2024-10-09T22:18:46.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[줌, 'AI 컴패니언 2.0'으로 MS·구글과 오피스 대전]]></title>
+        <id>https://v.daum.net/v/20241010070250264</id>
+        <link href="https://v.daum.net/v/20241010070250264"/>
+        <updated>2024-10-09T22:18:23.486Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">07:02</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그리드위즈, ESS용 PCS 국내외 인증 획득...전력망 문제 해결사 기대]]></title>
+        <id>https://v.daum.net/v/20241010070104242</id>
+        <link href="https://v.daum.net/v/20241010070104242"/>
+        <updated>2024-10-09T22:18:23.486Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">07:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["경쟁사는 3040인데 우린 '이대남'이 주고객"…사업방향 바꿔버린 '이곳' 데이터 [인터뷰+]]]></title>
+        <id>https://v.daum.net/v/20241010070104240</id>
+        <link href="https://v.daum.net/v/20241010070104240"/>
+        <updated>2024-10-09T22:18:23.486Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">07:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“AI 제국주의 시대, 최소한 독립국은 돼야”...하정우 센터장 인터뷰]]></title>
+        <id>https://v.daum.net/v/20241010070058235</id>
+        <link href="https://v.daum.net/v/20241010070058235"/>
+        <updated>2024-10-09T22:18:23.487Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LG CNS, 구글 클라우드 '생성형 AI 전문기업' 인증 획득]]></title>
+        <id>https://v.daum.net/v/20241010070009186</id>
+        <link href="https://v.daum.net/v/20241010070009186"/>
+        <updated>2024-10-09T22:18:23.487Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">07:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해양·빙하에 숨은 기후변화 비밀은...월동대원들 남극행 준비한다]]></title>
+        <id>https://v.daum.net/v/20241010065910154</id>
+        <link href="https://v.daum.net/v/20241010065910154"/>
+        <updated>2024-10-09T22:18:23.487Z</updated>
+        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">06:59</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['제2의 중동 붐' 온다…사우디·UAE 네카오 방문, 국내 기업 러브콜 기대]]></title>
         <id>https://v.daum.net/v/20241010061303644</id>
@@ -55,7 +97,7 @@
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[단독] ‘수출용 신형 연구로’ 건설 8개월 늦어진다…R&D 예산 삭감에 직격탄]]></title>
+        <title type="html"><![CDATA[[단독] ‘수출용 신형 연구로’ 건설 8개월 지연…R&D 예산 삭감에 직격탄]]></title>
         <id>https://v.daum.net/v/20241010060025371</id>
         <link href="https://v.daum.net/v/20241010060025371"/>
         <updated>2024-10-09T21:17:54.946Z</updated>
@@ -67,47 +109,5 @@
         <link href="https://v.daum.net/v/20241010060012341"/>
         <updated>2024-10-09T21:17:54.948Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성바이오로직스, CDO 플랫폼 확장하는 이유는]]></title>
-        <id>https://v.daum.net/v/20241010060003325</id>
-        <link href="https://v.daum.net/v/20241010060003325"/>
-        <updated>2024-10-09T21:17:54.949Z</updated>
-        <content type="html"><![CDATA[비즈워치<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쿠플·티빙 말고도 있다…네이버 '치지직' AFC 챔스·V리그 중계권 획득]]></title>
-        <id>https://v.daum.net/v/20241010055302280</id>
-        <link href="https://v.daum.net/v/20241010055302280"/>
-        <updated>2024-10-09T21:17:54.951Z</updated>
-        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">05:53</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USA NOBEL PRIZE DAVID BECKER]]></title>
-        <id>https://v.daum.net/v/20241010054727250</id>
-        <link href="https://v.daum.net/v/20241010054727250"/>
-        <updated>2024-10-09T21:17:54.952Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">05:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도쿄게임쇼 '팰월드'... 지스타 크래프톤 생각나는 이유]]></title>
-        <id>https://v.daum.net/v/20241010054118178</id>
-        <link href="https://v.daum.net/v/20241010054118178"/>
-        <updated>2024-10-09T21:17:54.953Z</updated>
-        <content type="html"><![CDATA[머니S<span class="txt_bar"> · </span><span class="info_time">05:41</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노벨상 휩쓰는 AI···화학상에 이세돌 이긴 '알파고 아버지']]></title>
-        <id>https://v.daum.net/v/20241010054020166</id>
-        <link href="https://v.daum.net/v/20241010054020166"/>
-        <updated>2024-10-09T21:17:54.955Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">05:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USA NOBEL PRIZE DAVID BECKER]]></title>
-        <id>https://v.daum.net/v/20241010053450090</id>
-        <link href="https://v.daum.net/v/20241010053450090"/>
-        <updated>2024-10-09T21:17:54.957Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">05:34</span>]]></content>
     </entry>
 </feed>
