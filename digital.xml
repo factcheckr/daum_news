@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-10-09T13:27:25.822Z</updated>
+    <updated>2024-10-09T14:18:40.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[철권8 "중국 샤오첸첸 선수 TWT LCQ 참가권 제공"]]></title>
+        <id>https://v.daum.net/v/20241009223644939</id>
+        <link href="https://v.daum.net/v/20241009223644939"/>
+        <updated>2024-10-09T14:18:12.075Z</updated>
+        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">22:36</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[충청북도 “첨단재생바이오 일본 실증 시작”]]></title>
         <id>https://v.daum.net/v/20241009215854614</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241009210600169"/>
         <updated>2024-10-09T12:39:18.002Z</updated>
         <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">21:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2024 노벨상] ‘AI  광풍’ 맞은 기초과학...연구 패러다임 바뀌나]]></title>
-        <id>https://v.daum.net/v/20241009210501162</id>
-        <link href="https://v.daum.net/v/20241009210501162"/>
-        <updated>2024-10-09T12:39:18.003Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">21:05</span>]]></content>
     </entry>
 </feed>
