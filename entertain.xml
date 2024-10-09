@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2024-10-09T18:25:20.794Z</updated>
+    <updated>2024-10-09T19:16:22.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴진스 하니 “국정감사 나갈 것···나와 멤버, 팬들 위해”]]></title>
+        <id>https://v.daum.net/v/20241010032936371</id>
+        <link href="https://v.daum.net/v/20241010032936371"/>
+        <updated>2024-10-09T19:15:39.109Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">03:29</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오늘의 채널A]金여사 관련 불붙은 명태균 논란]]></title>
         <id>https://v.daum.net/v/20241010030652292</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241010012107972"/>
         <updated>2024-10-09T16:22:17.900Z</updated>
         <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">01:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] 윤계상 "불의의 피해 겪은 분들 외면하는 일이 가장 무서운 것 같아"]]></title>
-        <id>https://v.daum.net/v/20241010011925962</id>
-        <link href="https://v.daum.net/v/20241010011925962"/>
-        <updated>2024-10-09T16:22:17.907Z</updated>
-        <content type="html"><![CDATA[스포츠한국<span class="txt_bar"> · </span><span class="info_time">01:19</span>]]></content>
     </entry>
 </feed>
