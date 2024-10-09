@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-10-08T23:22:31.801Z</updated>
+    <updated>2024-10-09T01:21:48.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['대체조제' 약국 찾으러 뺑뺑이…왜 불편함은 환자 몫인가[기자수첩]]]></title>
+        <id>https://v.daum.net/v/20241009100105620</id>
+        <link href="https://v.daum.net/v/20241009100105620"/>
+        <updated>2024-10-09T01:21:30.797Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">10:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘초파리 뇌 지도’ 게이머들도 나섰다 [오철우의 과학풍경]]]></title>
         <id>https://v.daum.net/v/20241009080504018</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20241009050340882</id>
         <link href="https://v.daum.net/v/20241009050340882"/>
         <updated>2024-10-08T20:18:21.356Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] ‘순살 아파트’ 업체에 또 일감을… 정신 못 차린 LH]]></title>
-        <id>https://v.daum.net/v/20241009050340881</id>
-        <link href="https://v.daum.net/v/20241009050340881"/>
-        <updated>2024-10-08T20:18:21.359Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
     </entry>
 </feed>
