@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-10-09T10:21:36.868Z</updated>
+    <updated>2024-10-09T11:20:12.801Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Infosys and Microsoft Expand Strategic Collaboration]]></title>
+        <id>https://v.daum.net/v/20241009195756490</id>
+        <link href="https://v.daum.net/v/20241009195756490"/>
+        <updated>2024-10-09T11:20:03.764Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">19:57</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] 산시성의 가을 문화 체험]]></title>
         <id>https://v.daum.net/v/20241009184429500</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241009135452564"/>
         <updated>2024-10-09T05:22:37.696Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">13:54</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] 쭐랄롱꼰대, '지속가능한 태국 코코아 연구·개발 혁신 센터' 출범]]></title>
-        <id>https://v.daum.net/v/20241009134921477</id>
-        <link href="https://v.daum.net/v/20241009134921477"/>
-        <updated>2024-10-09T05:22:37.697Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">13:49</span>]]></content>
     </entry>
 </feed>
