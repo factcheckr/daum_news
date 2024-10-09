@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-10-09T02:52:21.696Z</updated>
+    <updated>2024-10-09T03:25:59.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인사] 고용노동부]]></title>
+        <id>https://v.daum.net/v/20241009120100875</id>
+        <link href="https://v.daum.net/v/20241009120100875"/>
+        <updated>2024-10-09T03:25:42.454Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">12:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부고] 허남덕(환경부 사무관)씨 부친상]]></title>
         <id>https://v.daum.net/v/20241009105216596</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20241009050343884</id>
         <link href="https://v.daum.net/v/20241009050343884"/>
         <updated>2024-10-08T20:18:21.354Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[열린세상] ‘尹·韓’의 아주 작은 정치]]></title>
-        <id>https://v.daum.net/v/20241009050341883</id>
-        <link href="https://v.daum.net/v/20241009050341883"/>
-        <updated>2024-10-08T20:18:21.356Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:03</span>]]></content>
     </entry>
 </feed>
