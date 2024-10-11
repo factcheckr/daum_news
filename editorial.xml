@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-10-11T06:29:13.335Z</updated>
+    <updated>2024-10-11T07:19:17.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나는 왜 그들의 편에 서게 됐나[오늘을 생각한다]]]></title>
+        <id>https://v.daum.net/v/20241011160105314</id>
+        <link href="https://v.daum.net/v/20241011160105314"/>
+        <updated>2024-10-11T07:18:58.351Z</updated>
+        <content type="html"><![CDATA[주간경향<span class="txt_bar"> · </span><span class="info_time">16:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[지평선] 위대한 K컬처 도장 깨기]]></title>
+        <id>https://v.daum.net/v/20241011160008255</id>
+        <link href="https://v.daum.net/v/20241011160008255"/>
+        <updated>2024-10-11T07:18:58.352Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">16:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[형지에스콰이아, 장해일 사장 선임… "글로벌 제화기업으로 도약"]]></title>
         <id>https://v.daum.net/v/20241011150451996</id>
@@ -18,6 +32,13 @@
         <link href="https://v.daum.net/v/20241011142546693"/>
         <updated>2024-10-11T06:28:59.317Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">14:25</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[양기대 칼럼] '김 여사 문제'의 본질은 '국가권력 사유화'...윤 대통령 결단이 필요하다]]></title>
+        <id>https://v.daum.net/v/20241011120027050</id>
+        <link href="https://v.daum.net/v/20241011120027050"/>
+        <updated>2024-10-11T07:18:58.362Z</updated>
+        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">12:00</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[작가 한강의 노벨 문학상 쾌거와 문화 강국의 길[사설]]]></title>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20241011102057381"/>
         <updated>2024-10-11T01:22:06.363Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">10:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민간인 무차별 공격하고도 편애받는 이스라엘은 대체 뭐길래? [필동정담]]]></title>
-        <id>https://v.daum.net/v/20241011093906634</id>
-        <link href="https://v.daum.net/v/20241011093906634"/>
-        <updated>2024-10-11T01:22:06.365Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">09:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고자세 한동훈에 윤, 독대 요청...결단 없이 만나면 ‘독’ 된다]]></title>
-        <id>https://v.daum.net/v/20241011093509476</id>
-        <link href="https://v.daum.net/v/20241011093509476"/>
-        <updated>2024-10-11T01:22:06.373Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">09:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저속노화는 개인 하기 나름? 정부도 공부 필요하다 [건강한겨레]]]></title>
-        <id>https://v.daum.net/v/20241011090509386</id>
-        <link href="https://v.daum.net/v/20241011090509386"/>
-        <updated>2024-10-11T01:22:06.374Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">09:05</span>]]></content>
     </entry>
 </feed>
