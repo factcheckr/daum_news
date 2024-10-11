@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-10-11T11:17:19.363Z</updated>
+    <updated>2024-10-11T12:35:42.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이게 명문 골프장 잔디 맞아? [정현권의 감성골프]]]></title>
+        <id>https://v.daum.net/v/20241011210301730</id>
+        <link href="https://v.daum.net/v/20241011210301730"/>
+        <updated>2024-10-11T12:35:29.192Z</updated>
+        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">21:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[만물상] 제 국민을 가두는 장벽]]></title>
         <id>https://v.daum.net/v/20241011201220198</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20241011173303540</id>
         <link href="https://v.daum.net/v/20241011173303540"/>
         <updated>2024-10-11T09:20:14.289Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:33</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[테마진단] AI로 노벨상 받는 시대]]></title>
-        <id>https://v.daum.net/v/20241011173301536</id>
-        <link href="https://v.daum.net/v/20241011173301536"/>
-        <updated>2024-10-11T09:20:14.291Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:33</span>]]></content>
     </entry>
 </feed>
