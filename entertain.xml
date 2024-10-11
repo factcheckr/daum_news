@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2024-10-11T17:18:28.506Z</updated>
+    <updated>2024-10-11T18:25:06.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이광수·도경수, '콩콩팥팥' 스핀오프서 감자 식당 연다]]></title>
+        <id>https://v.daum.net/v/20241012032211385</id>
+        <link href="https://v.daum.net/v/20241012032211385"/>
+        <updated>2024-10-11T18:24:25.173Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">03:22</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[스브스夜] '지옥 판사' 김재영-박신혜, 25년 간 추적한 '연쇄살인 용의자' 쫓는 김혜화, 찾을까?]]></title>
+        <id>https://v.daum.net/v/20241012031801370</id>
+        <link href="https://v.daum.net/v/20241012031801370"/>
+        <updated>2024-10-11T18:24:25.177Z</updated>
+        <content type="html"><![CDATA[SBS연예뉴스<span class="txt_bar"> · </span><span class="info_time">03:18</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[TV조선] 최양락·김태흠 ‘충남 맛기행’]]></title>
         <id>https://v.daum.net/v/20241012020514127</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241012004558766"/>
         <updated>2024-10-11T16:25:37.456Z</updated>
         <content type="html"><![CDATA[스포츠한국<span class="txt_bar"> · </span><span class="info_time">00:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김숙, 개인 캠핑장 공개…“박나래 수입으로 못 사” (‘나혼산’)]]></title>
-        <id>https://v.daum.net/v/20241012004501762</id>
-        <link href="https://v.daum.net/v/20241012004501762"/>
-        <updated>2024-10-11T16:25:37.457Z</updated>
-        <content type="html"><![CDATA[스타투데이<span class="txt_bar"> · </span><span class="info_time">00:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몽골 떠난 '지닦남'…대자연부터 충격의 쓰레기 산까지]]></title>
-        <id>https://v.daum.net/v/20241012004208759</id>
-        <link href="https://v.daum.net/v/20241012004208759"/>
-        <updated>2024-10-11T16:25:37.460Z</updated>
-        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">00:42</span>]]></content>
     </entry>
 </feed>
