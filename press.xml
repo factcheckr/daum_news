@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-10-11T03:23:51.421Z</updated>
+    <updated>2024-10-11T04:26:47.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남해군, '쏠비치 남해 리조트' 개장 준비 박차]]></title>
+        <id>https://v.daum.net/v/20241011131703576</id>
+        <link href="https://v.daum.net/v/20241011131703576"/>
+        <updated>2024-10-11T04:26:37.236Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">13:17</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[도로, 2024 잡아드림 안산 미래 진로직업교육박람회 참가]]></title>
+        <id>https://v.daum.net/v/20241011130703398</id>
+        <link href="https://v.daum.net/v/20241011130703398"/>
+        <updated>2024-10-11T04:26:37.239Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">13:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성수역 골목형 상점가, 매주 금요일 ‘위생 청결의 날’ 캠페인 실시]]></title>
         <id>https://v.daum.net/v/20241011120704305</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241011111435703"/>
         <updated>2024-10-11T02:51:25.042Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">11:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경희대, 탄소중립 달성을 위한 국제 워크숍 개최]]></title>
-        <id>https://v.daum.net/v/20241011111335662</id>
-        <link href="https://v.daum.net/v/20241011111335662"/>
-        <updated>2024-10-11T02:51:25.043Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">11:13</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울과학기술대학교, 보험개발원 자동차기술연구소와 함께 미래 자동차기술 인재 양성 위한 현장 직무체험 진행]]></title>
-        <id>https://v.daum.net/v/20241011111215612</id>
-        <link href="https://v.daum.net/v/20241011111215612"/>
-        <updated>2024-10-11T02:51:25.045Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">11:12</span>]]></content>
     </entry>
 </feed>
