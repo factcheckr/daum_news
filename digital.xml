@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-10-12T12:33:07.954Z</updated>
+    <updated>2024-10-12T13:22:13.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[탐사보도 뉴스프리즘] 밀려오는 한파에…'K-반도체' 대비책은]]></title>
+        <id>https://v.daum.net/v/20241012220029000</id>
+        <link href="https://v.daum.net/v/20241012220029000"/>
+        <updated>2024-10-12T13:21:46.366Z</updated>
+        <content type="html"><![CDATA[연합뉴스TV<span class="txt_bar"> · </span><span class="info_time">22:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지구 위 나풀거리는 ‘환상의 우주쇼’…우주와 지상에서 본 오로라 [우주를 보다]]]></title>
+        <id>https://v.daum.net/v/20241012215801974</id>
+        <link href="https://v.daum.net/v/20241012215801974"/>
+        <updated>2024-10-12T13:21:46.366Z</updated>
+        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">21:58</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[몬헌 나우 "10등급 몬스터 보상 문제 개선 검토 중"]]></title>
         <id>https://v.daum.net/v/20241012205713128</id>
@@ -13,7 +27,7 @@
         <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">20:57</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['흑백요리사' 역대급 흥행에…"미친 가성비" 난리난 까닭 [김소연의 엔터비즈]]]></title>
+        <title type="html"><![CDATA["넷플릭스, 한국에 700억을…" '흑백요리사' 열풍의 이면 [김소연의 엔터비즈]]]></title>
         <id>https://v.daum.net/v/20241012204201934</id>
         <link href="https://v.daum.net/v/20241012204201934"/>
         <updated>2024-10-12T12:32:41.691Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241012165028359"/>
         <updated>2024-10-12T08:22:38.088Z</updated>
         <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">16:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파판14 리미트 브레이커스 "다크호스가 챔피언 끌어내렸다"]]></title>
-        <id>https://v.daum.net/v/20241012164646319</id>
-        <link href="https://v.daum.net/v/20241012164646319"/>
-        <updated>2024-10-12T08:22:38.091Z</updated>
-        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">16:46</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설마했는데…“이건 너무 심했다” 흑백요리사 대박, 8천억 벌고도]]></title>
-        <id>https://v.daum.net/v/20241012164105252</id>
-        <link href="https://v.daum.net/v/20241012164105252"/>
-        <updated>2024-10-12T08:22:38.091Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">16:41</span>]]></content>
     </entry>
 </feed>
