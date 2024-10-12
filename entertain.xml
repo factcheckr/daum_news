@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2024-10-12T17:15:59.866Z</updated>
+    <updated>2024-10-12T18:23:03.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘전지적 참견 시점’ 한재이, 알고보니 ‘알바 고수’ “카페부터 인형탈까지”]]></title>
+        <id>https://v.daum.net/v/20241013022317899</id>
+        <link href="https://v.daum.net/v/20241013022317899"/>
+        <updated>2024-10-12T18:22:24.609Z</updated>
+        <content type="html"><![CDATA[MBC연예<span class="txt_bar"> · </span><span class="info_time">02:23</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['시크릿 불화설' 한선화, SNS 댓글창 폐쇄 왜?]]></title>
         <id>https://v.daum.net/v/20241013020005872</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241013001918684"/>
         <updated>2024-10-12T16:23:50.424Z</updated>
         <content type="html"><![CDATA[OSEN<span class="txt_bar"> · </span><span class="info_time">00:19</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소리 들릴까봐…하하·양세찬, 송지효 생리현상도 가려주는 의리男 [런닝맨]]]></title>
-        <id>https://v.daum.net/v/20241013001904683</id>
-        <link href="https://v.daum.net/v/20241013001904683"/>
-        <updated>2024-10-12T16:23:50.427Z</updated>
-        <content type="html"><![CDATA[마이데일리<span class="txt_bar"> · </span><span class="info_time">00:19</span>]]></content>
     </entry>
 </feed>
