@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-10-12T10:18:51.427Z</updated>
+    <updated>2024-10-12T11:17:36.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘나 혼자만 레벨업:어라이즈’, 광휘의 공방 신규 던전 ‘백염의 군주 바란’ 추가…신규 SSR 헌터 합류]]></title>
+        <id>https://v.daum.net/v/20241012194516382</id>
+        <link href="https://v.daum.net/v/20241012194516382"/>
+        <updated>2024-10-12T11:17:10.127Z</updated>
+        <content type="html"><![CDATA[OSEN<span class="txt_bar"> · </span><span class="info_time">19:45</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“유명 연예인 가까이 보려고” 20대 난리났는데…어떻게 이런일이]]></title>
+        <id>https://v.daum.net/v/20241012194104316</id>
+        <link href="https://v.daum.net/v/20241012194104316"/>
+        <updated>2024-10-12T11:17:10.127Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">19:41</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[선민승 우모 대표 "작은 성과부터 지속적으로 뿌려라"]]></title>
         <id>https://v.daum.net/v/20241012190242969</id>
@@ -69,7 +83,7 @@
         <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">16:46</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[불편한 진실…“결국 터질게 터졌다” 흑백요리사 대박, 8천억 벌고도]]></title>
+        <title type="html"><![CDATA[설마했는데…“이건 너무 심했다” 흑백요리사 대박, 8천억 벌고도]]></title>
         <id>https://v.daum.net/v/20241012164105252</id>
         <link href="https://v.daum.net/v/20241012164105252"/>
         <updated>2024-10-12T08:22:38.091Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241012162554090"/>
         <updated>2024-10-12T08:22:38.093Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">16:25</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["5년 만에 다시 왔어요"…뜨거운 열기 가득한 '파판14' 팬 페스트]]></title>
-        <id>https://v.daum.net/v/20241012162229068</id>
-        <link href="https://v.daum.net/v/20241012162229068"/>
-        <updated>2024-10-12T08:22:38.094Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">16:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하스스톤 차기 확장팩, ‘끝없는 어둠’ 내달 6일 출시]]></title>
-        <id>https://v.daum.net/v/20241012161909038</id>
-        <link href="https://v.daum.net/v/20241012161909038"/>
-        <updated>2024-10-12T08:22:38.096Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">16:19</span>]]></content>
     </entry>
 </feed>
