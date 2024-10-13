@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-10-13T10:19:04.366Z</updated>
+    <updated>2024-10-13T11:16:21.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 화웨이, '이노트랜스 2024'서 혁신적 지능형 기술 공개]]></title>
+        <id>https://v.daum.net/v/20241013193321001</id>
+        <link href="https://v.daum.net/v/20241013193321001"/>
+        <updated>2024-10-13T11:16:12.551Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">19:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] 90th CMEF Showcases Global MedTech Innovations and Insights]]></title>
         <id>https://v.daum.net/v/20241013184655482</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241013114704646"/>
         <updated>2024-10-13T03:27:00.724Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">11:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Duck Creek Technologies, 종합적인 리스크 관리 및 완화 솔루션 제공 위해 ‘Risk Control Technologies’ 인수]]></title>
-        <id>https://v.daum.net/v/20241013112703353</id>
-        <link href="https://v.daum.net/v/20241013112703353"/>
-        <updated>2024-10-13T03:27:00.725Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">11:27</span>]]></content>
     </entry>
 </feed>
