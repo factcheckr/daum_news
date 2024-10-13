@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-10-13T22:17:32.295Z</updated>
+    <updated>2024-10-13T23:18:45.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한강의 소설이 디디고 선 고통 [젠더 프리즘]]]></title>
+        <id>https://v.daum.net/v/20241014080506942</id>
+        <link href="https://v.daum.net/v/20241014080506942"/>
+        <updated>2024-10-13T23:18:29.006Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">08:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[김형기 칼럼] '삼성전자 반성문'의 뒷장]]></title>
+        <id>https://v.daum.net/v/20241014080106882</id>
+        <link href="https://v.daum.net/v/20241014080106882"/>
+        <updated>2024-10-13T23:18:29.006Z</updated>
+        <content type="html"><![CDATA[머니S<span class="txt_bar"> · </span><span class="info_time">08:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[컴백, 레티놀! 피부과 전문의들이 유독 좋아하는 ‘성분’]]></title>
         <id>https://v.daum.net/v/20241014071530222</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241014054500118"/>
         <updated>2024-10-13T21:17:41.013Z</updated>
         <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">05:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Lorraine Ali] Elon Musk's courtship with MAGA]]></title>
-        <id>https://v.daum.net/v/20241014053811009</id>
-        <link href="https://v.daum.net/v/20241014053811009"/>
-        <updated>2024-10-13T21:17:41.013Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:38</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Yoo Choon-sik] A rare apology for disappointing corporate earnings]]></title>
-        <id>https://v.daum.net/v/20241014053111883</id>
-        <link href="https://v.daum.net/v/20241014053111883"/>
-        <updated>2024-10-13T21:17:41.016Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:31</span>]]></content>
     </entry>
 </feed>
