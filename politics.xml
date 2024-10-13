@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2024-10-13T18:23:26.972Z</updated>
+    <updated>2024-10-13T19:17:14.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘의 국감](14일)]]></title>
+        <id>https://v.daum.net/v/20241014040003095</id>
+        <link href="https://v.daum.net/v/20241014040003095"/>
+        <updated>2024-10-13T19:16:13.407Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남수단 한빛부대, 'K-쌀' 500kg 수확해 현지 분양]]></title>
         <id>https://v.daum.net/v/20241014031911054</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241014012302792"/>
         <updated>2024-10-13T16:24:22.803Z</updated>
         <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">01:23</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[긴장 높아진 한반도…北 “국경 부근 8개 포병여단 완전사격 준비”]]></title>
-        <id>https://v.daum.net/v/20241014012101780</id>
-        <link href="https://v.daum.net/v/20241014012101780"/>
-        <updated>2024-10-13T16:24:22.805Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">01:21</span>]]></content>
     </entry>
 </feed>
