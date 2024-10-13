@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-10-13T16:25:38.491Z</updated>
+    <updated>2024-10-13T17:15:53.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[청계광장]분열과 융합]]></title>
+        <id>https://v.daum.net/v/20241014020302872</id>
+        <link href="https://v.daum.net/v/20241014020302872"/>
+        <updated>2024-10-13T17:15:36.496Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MT시평]기후변화에 대응하는 모습]]></title>
+        <id>https://v.daum.net/v/20241014020300870</id>
+        <link href="https://v.daum.net/v/20241014020300870"/>
+        <updated>2024-10-13T17:15:36.497Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 평양 상공 무인기와 전단 미스터리, 극한 대결은 피해야]]></title>
         <id>https://v.daum.net/v/20241014005201668</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241014003640608"/>
         <updated>2024-10-13T16:25:22.923Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[국민논단] 순우리말이라는 우상]]></title>
-        <id>https://v.daum.net/v/20241014003620605</id>
-        <link href="https://v.daum.net/v/20241014003620605"/>
-        <updated>2024-10-13T16:25:22.924Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[중국읽기] 어느 배달 알바 청년의 고민]]></title>
-        <id>https://v.daum.net/v/20241014003540602</id>
-        <link href="https://v.daum.net/v/20241014003540602"/>
-        <updated>2024-10-13T16:25:22.926Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:35</span>]]></content>
     </entry>
 </feed>
