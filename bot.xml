@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-10-13T06:25:36.245Z</updated>
+    <updated>2024-10-13T07:17:54.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서울 잠실동 잠실리센츠 84㎡ 28억5000만원... 역대 최고가]]></title>
+        <id>https://v.daum.net/v/20241013152622978</id>
+        <link href="https://v.daum.net/v/20241013152622978"/>
+        <updated>2024-10-13T07:17:54.056Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">15:26</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울 응암동 백련산힐스테이트1차 59㎡ 7억3800만원... 역대 최고가]]></title>
         <id>https://v.daum.net/v/20241013152102861</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241013141534030"/>
         <updated>2024-10-13T05:19:21.224Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 송도동 송도더샵퍼스트월드 101㎡ 8억3000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20241013141035889</id>
-        <link href="https://v.daum.net/v/20241013141035889"/>
-        <updated>2024-10-13T05:19:21.225Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:10</span>]]></content>
     </entry>
 </feed>
