@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-10-13T08:23:02.485Z</updated>
+    <updated>2024-10-13T09:21:27.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2024년 10월 13일)]]></title>
+        <id>https://v.daum.net/v/20241013173311154</id>
+        <link href="https://v.daum.net/v/20241013173311154"/>
+        <updated>2024-10-13T09:21:27.214Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울 잠실동 잠실리센츠 84㎡ 28억5000만원... 역대 최고가]]></title>
         <id>https://v.daum.net/v/20241013152622978</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241013142046136"/>
         <updated>2024-10-13T06:25:35.435Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 송도동 송도글로벌캠퍼스푸르지오 115㎡ 8억3000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20241013141534030</id>
-        <link href="https://v.daum.net/v/20241013141534030"/>
-        <updated>2024-10-13T05:19:21.224Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">14:15</span>]]></content>
     </entry>
 </feed>
