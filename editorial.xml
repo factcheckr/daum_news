@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-10-14T16:24:25.053Z</updated>
+    <updated>2024-10-14T17:18:16.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]EU 인공지능법의 브뤼셀 효과]]></title>
+        <id>https://v.daum.net/v/20241015020301522</id>
+        <link href="https://v.daum.net/v/20241015020301522"/>
+        <updated>2024-10-14T17:18:00.465Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:03</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 김 여사 문제 정리 못하면 정권 미래는 어둡다]]></title>
         <id>https://v.daum.net/v/20241015004500047</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241015003402926"/>
         <updated>2024-10-14T16:24:07.749Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 무인기 빌미 위협 이어가는 北… 軍, 상황관리 철저히 하라]]></title>
-        <id>https://v.daum.net/v/20241015003357925</id>
-        <link href="https://v.daum.net/v/20241015003357925"/>
-        <updated>2024-10-14T16:24:07.751Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:33</span>]]></content>
     </entry>
 </feed>
