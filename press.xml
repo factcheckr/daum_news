@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-10-14T10:22:15.211Z</updated>
+    <updated>2024-10-14T11:17:44.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Canton Fair Launches New Mobile App]]></title>
+        <id>https://v.daum.net/v/20241014201034402</id>
+        <link href="https://v.daum.net/v/20241014201034402"/>
+        <updated>2024-10-14T11:17:34.056Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:10</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] SANY Recognized in Forbes China's Top 10 Inspirational ESG Cases]]></title>
+        <id>https://v.daum.net/v/20241014192928340</id>
+        <link href="https://v.daum.net/v/20241014192928340"/>
+        <updated>2024-10-14T11:17:34.057Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">19:29</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] 136th Canton Fair to Boost Global Trade with New Records]]></title>
         <id>https://v.daum.net/v/20241014175930784</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241014165245178"/>
         <updated>2024-10-14T08:26:22.806Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">16:52</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] Xinhua Silk Road: Financial Street Forum 2024 to kick off]]></title>
-        <id>https://v.daum.net/v/20241014164854034</id>
-        <link href="https://v.daum.net/v/20241014164854034"/>
-        <updated>2024-10-14T08:26:22.807Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼육대, 미주 동문·기부자 초청 행사 개최]]></title>
-        <id>https://v.daum.net/v/20241014164643964</id>
-        <link href="https://v.daum.net/v/20241014164643964"/>
-        <updated>2024-10-14T08:26:22.810Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">16:46</span>]]></content>
     </entry>
 </feed>
