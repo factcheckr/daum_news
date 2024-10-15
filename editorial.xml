@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-10-15T22:18:51.621Z</updated>
+    <updated>2024-10-15T23:20:20.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘금투세 좌초’와 기본사회 헛꿈 [한겨레 프리즘]]]></title>
+        <id>https://v.daum.net/v/20241016080501022</id>
+        <link href="https://v.daum.net/v/20241016080501022"/>
+        <updated>2024-10-15T23:20:05.134Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">08:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[만화] 지금 이대로 [날백수인생]]]></title>
+        <id>https://v.daum.net/v/20241016080301989</id>
+        <link href="https://v.daum.net/v/20241016080301989"/>
+        <updated>2024-10-15T23:20:05.136Z</updated>
+        <content type="html"><![CDATA[오마이뉴스<span class="txt_bar"> · </span><span class="info_time">08:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[송정열의 Echo]미국 대선 톺아보기②: 어차피 승부는 여기서 갈린다]]></title>
+        <id>https://v.daum.net/v/20241016080109949</id>
+        <link href="https://v.daum.net/v/20241016080109949"/>
+        <updated>2024-10-15T23:20:05.139Z</updated>
+        <content type="html"><![CDATA[머니S<span class="txt_bar"> · </span><span class="info_time">08:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부채감을 느끼도록 진화한 이유 [하종강 칼럼]]]></title>
         <id>https://v.daum.net/v/20241016070512121</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20241016060304289"/>
         <updated>2024-10-15T21:19:25.941Z</updated>
         <content type="html"><![CDATA[주간경향<span class="txt_bar"> · </span><span class="info_time">06:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방시혁 리스크[우보세]]]></title>
-        <id>https://v.daum.net/v/20241016055002979</id>
-        <link href="https://v.daum.net/v/20241016055002979"/>
-        <updated>2024-10-15T21:19:25.942Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">05:50</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Jon D. Michaels, David L. Noll] Vigilante democracy raging in US]]></title>
-        <id>https://v.daum.net/v/20241016053613830</id>
-        <link href="https://v.daum.net/v/20241016053613830"/>
-        <updated>2024-10-15T21:19:25.942Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Kim Seong-kon] The Nobel Prize in Literature and the task of translation]]></title>
-        <id>https://v.daum.net/v/20241016053113764</id>
-        <link href="https://v.daum.net/v/20241016053113764"/>
-        <updated>2024-10-15T21:19:25.944Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:31</span>]]></content>
     </entry>
 </feed>
