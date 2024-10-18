@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-10-18T09:21:31.829Z</updated>
+    <updated>2024-10-18T10:21:42.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사설] 윤-한 회동, ‘김건희의 나라냐’ 성난 민심 직시해야]]></title>
+        <id>https://v.daum.net/v/20241018185504400</id>
+        <link href="https://v.daum.net/v/20241018185504400"/>
+        <updated>2024-10-18T10:21:23.803Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">18:55</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] ‘굉장히 노력’했다더니 압수수색도 안한 검찰, ‘김건희 의혹’ 규명 특검이 유일한 길]]></title>
         <id>https://v.daum.net/v/20241018180648470</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20241018173005297</id>
         <link href="https://v.daum.net/v/20241018173005297"/>
         <updated>2024-10-18T09:21:13.466Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필동정담] 日 출판사의 '토지' 완역]]></title>
-        <id>https://v.daum.net/v/20241018173005296</id>
-        <link href="https://v.daum.net/v/20241018173005296"/>
-        <updated>2024-10-18T09:21:13.468Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:30</span>]]></content>
     </entry>
 </feed>
