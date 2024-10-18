@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-10-18T20:20:09.859Z</updated>
+    <updated>2024-10-18T21:20:19.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[데스크 칼럼] 헌법재판관 ‘정원 미달’ 사태]]></title>
+        <id>https://v.daum.net/v/20241019060119810</id>
+        <link href="https://v.daum.net/v/20241019060119810"/>
+        <updated>2024-10-18T21:20:04.218Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">06:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[신율의 정치난타] 10·16 재보선, 누가 본전을 했나]]></title>
+        <id>https://v.daum.net/v/20241019053026365</id>
+        <link href="https://v.daum.net/v/20241019053026365"/>
+        <updated>2024-10-18T21:20:04.218Z</updated>
+        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[확대 필요한 경북의 노인급식 실험 [기고]]]></title>
         <id>https://v.daum.net/v/20241019043223135</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241019003803495"/>
         <updated>2024-10-18T16:23:34.116Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:38</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 선택 아니라 필수 돼가는 계속고용…정년 연장만 고집해선 안 돼]]></title>
-        <id>https://v.daum.net/v/20241019003802494</id>
-        <link href="https://v.daum.net/v/20241019003802494"/>
-        <updated>2024-10-18T16:23:34.117Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:38</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[아르떼 칼럼] '북극의 빛'으로 그린 뭉크]]></title>
-        <id>https://v.daum.net/v/20241019003703492</id>
-        <link href="https://v.daum.net/v/20241019003703492"/>
-        <updated>2024-10-18T16:23:34.118Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:37</span>]]></content>
     </entry>
 </feed>
