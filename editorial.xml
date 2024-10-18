@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-10-18T19:17:09.558Z</updated>
+    <updated>2024-10-18T20:20:09.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[확대 필요한 경북의 노인급식 실험 [기고]]]></title>
+        <id>https://v.daum.net/v/20241019043223135</id>
+        <link href="https://v.daum.net/v/20241019043223135"/>
+        <updated>2024-10-18T20:19:53.900Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:32</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[커피 로스팅 속의 '호리천리' [休·味·樂(휴·미·락)]]]></title>
+        <id>https://v.daum.net/v/20241019043149130</id>
+        <link href="https://v.daum.net/v/20241019043149130"/>
+        <updated>2024-10-18T20:19:53.901Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:31</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[‘복음과 도시’ 속 예수] 성경 읽기는 사람을 변화시킨다]]></title>
         <id>https://v.daum.net/v/20241019031009040</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241019003703492"/>
         <updated>2024-10-18T16:23:34.118Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[포토 카페] 새 역할 맡은 공중전화 부스]]></title>
-        <id>https://v.daum.net/v/20241019003307479</id>
-        <link href="https://v.daum.net/v/20241019003307479"/>
-        <updated>2024-10-18T16:23:34.120Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:33</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 책방] 서점은 다정한 곳이에요]]></title>
-        <id>https://v.daum.net/v/20241019003306478</id>
-        <link href="https://v.daum.net/v/20241019003306478"/>
-        <updated>2024-10-18T16:23:34.121Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:33</span>]]></content>
     </entry>
 </feed>
