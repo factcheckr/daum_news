@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2024-10-19T17:16:54.603Z</updated>
+    <updated>2024-10-19T18:23:48.492Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한 작품에 감독 4명....'각양각색' 색다른 재미]]></title>
+        <id>https://v.daum.net/v/20241020032207048</id>
+        <link href="https://v.daum.net/v/20241020032207048"/>
+        <updated>2024-10-19T18:23:01.444Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">03:22</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[짤막상식] 독서는 멋지다! '텍스트힙' 열풍]]></title>
+        <id>https://v.daum.net/v/20241020023407019</id>
+        <link href="https://v.daum.net/v/20241020023407019"/>
+        <updated>2024-10-19T18:23:01.444Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">02:34</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오늘 날씨] 최저기온 5도 '강원산지 한파주의보'…단풍놀이, 낙상사고 조심하려면]]></title>
         <id>https://v.daum.net/v/20241020020752990</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241020000106671"/>
         <updated>2024-10-19T15:17:42.621Z</updated>
         <content type="html"><![CDATA[bnt뉴스<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국증시 해외 주요 증시 10월20일]]></title>
-        <id>https://v.daum.net/v/20241020000102668</id>
-        <link href="https://v.daum.net/v/20241020000102668"/>
-        <updated>2024-10-19T15:17:42.624Z</updated>
-        <content type="html"><![CDATA[bnt뉴스<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 날씨] 휴일 아침 10도 안팎 추위…강한 바람에 체감온도 '뚝']]></title>
-        <id>https://v.daum.net/v/20241020000030657</id>
-        <link href="https://v.daum.net/v/20241020000030657"/>
-        <updated>2024-10-19T15:17:42.625Z</updated>
-        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
