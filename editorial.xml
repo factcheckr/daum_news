@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-10-19T04:24:30.658Z</updated>
+    <updated>2024-10-19T05:18:11.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사랑, 그 수수께끼에 대한 탐구 [양경미의 영화로 보는 세상]]]></title>
+        <id>https://v.daum.net/v/20241019140712035</id>
+        <link href="https://v.daum.net/v/20241019140712035"/>
+        <updated>2024-10-19T05:17:54.534Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">14:07</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임신 꼼수를 부리던 비행소년들 그리고 비행소년들이 보내온 편지 [부장판사 출신 김태형 변호사의 알쏭달쏭 소년심판]]]></title>
         <id>https://v.daum.net/v/20241019090020718</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241019004102515"/>
         <updated>2024-10-18T16:23:34.112Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:41</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[빛과 소금] 이 시대의 정탐꾼들에게 고함]]></title>
-        <id>https://v.daum.net/v/20241019004053511</id>
-        <link href="https://v.daum.net/v/20241019004053511"/>
-        <updated>2024-10-18T16:23:34.112Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:40</span>]]></content>
     </entry>
 </feed>
