@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-10-19T03:24:03.727Z</updated>
+    <updated>2024-10-19T04:24:30.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한울원전 4호기 정비 중 안전설비 작동...원안위 조사 시작]]></title>
+        <id>https://v.daum.net/v/20241019130301358</id>
+        <link href="https://v.daum.net/v/20241019130301358"/>
+        <updated>2024-10-19T04:24:04.445Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">13:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[던파, 이벤트 대리 계정 솜방망이 제재 논란]]></title>
+        <id>https://v.daum.net/v/20241019125344232</id>
+        <link href="https://v.daum.net/v/20241019125344232"/>
+        <updated>2024-10-19T04:24:04.445Z</updated>
+        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">12:53</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한울4호기 계획예방정비 도중 이상신호…"방사선 특이 사항은 없음"]]></title>
         <id>https://v.daum.net/v/20241019122225970</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241019101201538"/>
         <updated>2024-10-19T01:19:47.144Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">10:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드로그바·피구·카카 '전설들의 빅매치'…넥슨 아이콘 매치 관전 포인트는]]></title>
-        <id>https://v.daum.net/v/20241019101012512</id>
-        <link href="https://v.daum.net/v/20241019101012512"/>
-        <updated>2024-10-19T01:19:47.146Z</updated>
-        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">10:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재용 찾은 '스마트폰 격전지'인데…갤럭시, 중국에 또 밀렸다]]></title>
-        <id>https://v.daum.net/v/20241019100554466</id>
-        <link href="https://v.daum.net/v/20241019100554466"/>
-        <updated>2024-10-19T01:19:47.147Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">10:05</span>]]></content>
     </entry>
 </feed>
