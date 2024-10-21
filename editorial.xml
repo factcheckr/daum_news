@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-10-21T04:23:17.174Z</updated>
+    <updated>2024-10-21T05:19:41.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[예산안 자동부의 조항, 설계는 이상적이었으나…]]></title>
+        <id>https://v.daum.net/v/20241021135845377</id>
+        <link href="https://v.daum.net/v/20241021135845377"/>
+        <updated>2024-10-21T05:19:22.313Z</updated>
+        <content type="html"><![CDATA[프레시안<span class="txt_bar"> · </span><span class="info_time">13:58</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[데일리안 시사만평] 통합? 분열?…윤석열-한동훈 면담서 '김 여사 해법' 나올까]]></title>
+        <id>https://v.daum.net/v/20241021133527593</id>
+        <link href="https://v.daum.net/v/20241021133527593"/>
+        <updated>2024-10-21T05:19:22.314Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">13:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김 여사 ‘실질적 활동 중단’ 없인 국민 신뢰 못 얻는다[사설]]]></title>
         <id>https://v.daum.net/v/20241021114525522</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241021102334126"/>
         <updated>2024-10-21T02:57:05.767Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">10:23</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The decision to not indict Kim will backfire (KOR)]]></title>
-        <id>https://v.daum.net/v/20241021094517591</id>
-        <link href="https://v.daum.net/v/20241021094517591"/>
-        <updated>2024-10-21T01:22:33.823Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">09:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The real estate market still frozen in China (KOR)]]></title>
-        <id>https://v.daum.net/v/20241021094226472</id>
-        <link href="https://v.daum.net/v/20241021094226472"/>
-        <updated>2024-10-21T01:22:33.824Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">09:42</span>]]></content>
     </entry>
 </feed>
