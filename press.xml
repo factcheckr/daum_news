@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-10-21T09:24:51.631Z</updated>
+    <updated>2024-10-21T10:22:13.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[건국대 대학일자리플러스사업단, 2024학년도 2학기 ‘데이터 역량 강화 프로그램’ 운영]]></title>
+        <id>https://v.daum.net/v/20241021182703640</id>
+        <link href="https://v.daum.net/v/20241021182703640"/>
+        <updated>2024-10-21T10:22:04.270Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">18:27</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구례군, 제48회 지리산피아골단풍축제 개최]]></title>
         <id>https://v.daum.net/v/20241021174302096</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241021172203360"/>
         <updated>2024-10-21T09:24:43.487Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경기주택도시공사, '홈 그(GH)라운드'로 주거 혁신 이끈다]]></title>
-        <id>https://v.daum.net/v/20241021171145904</id>
-        <link href="https://v.daum.net/v/20241021171145904"/>
-        <updated>2024-10-21T09:24:43.488Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:11</span>]]></content>
     </entry>
 </feed>
