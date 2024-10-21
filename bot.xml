@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-10-21T07:20:20.021Z</updated>
+    <updated>2024-10-21T09:24:51.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2024년 10월 21일)]]></title>
+        <id>https://v.daum.net/v/20241021173308747</id>
+        <link href="https://v.daum.net/v/20241021173308747"/>
+        <updated>2024-10-21T09:24:50.963Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:33</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국고채 금리 대체로 하락…3년물 연 2.902%]]></title>
+        <id>https://v.daum.net/v/20241021164323457</id>
+        <link href="https://v.daum.net/v/20241021164323457"/>
+        <updated>2024-10-21T09:24:50.970Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">16:43</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HL D&I 수주공시 - 발안남양 고속화도로 민간투자사업 건설공사 2,395.4억원 (매출액대비  15.24 %)]]></title>
+        <id>https://v.daum.net/v/20241021164102326</id>
+        <link href="https://v.daum.net/v/20241021164102326"/>
+        <updated>2024-10-21T09:24:50.972Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">16:41</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[계양전기 수주공시 - 현대기아자동차 시트모터 SR 14차 2,884.1억원 (매출액대비  75.6 %)]]></title>
         <id>https://v.daum.net/v/20241021155105884</id>
@@ -88,12 +109,5 @@
         <link href="https://v.daum.net/v/20241021091504412"/>
         <updated>2024-10-21T01:22:47.741Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘의 날씨 - 오전 (2024년 10월 21일)]]></title>
-        <id>https://v.daum.net/v/20241021053343703</id>
-        <link href="https://v.daum.net/v/20241021053343703"/>
-        <updated>2024-10-20T21:17:31.838Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">05:33</span>]]></content>
     </entry>
 </feed>
