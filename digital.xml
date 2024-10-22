@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-10-22T18:26:03.553Z</updated>
+    <updated>2024-10-22T19:17:00.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[퀄컴-구글, '생성형 AI' 디지털 콕핏 솔루션 개발 협력]]></title>
+        <id>https://v.daum.net/v/20241023040107760</id>
+        <link href="https://v.daum.net/v/20241023040107760"/>
+        <updated>2024-10-22T19:16:34.213Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">04:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“AI 성능 12배 강화”…퀄컴, 차량용 '스냅드래곤 엘리트' 발표]]></title>
+        <id>https://v.daum.net/v/20241023040104759</id>
+        <link href="https://v.daum.net/v/20241023040104759"/>
+        <updated>2024-10-22T19:16:34.214Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">04:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[바이러스 진단 6분이면 OK...메타 표면 기반 PCR 기술]]></title>
         <id>https://v.daum.net/v/20241023022209525</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241023000237723"/>
         <updated>2024-10-22T15:20:41.670Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:02</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LoL 신챔 '암베사' 한국 매체 최초 공개]]></title>
-        <id>https://v.daum.net/v/20241023000019636</id>
-        <link href="https://v.daum.net/v/20241023000019636"/>
-        <updated>2024-10-22T15:20:41.672Z</updated>
-        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라이엇 아케인 써밋 "훌륭한 IP의 멋진 선순환"]]></title>
-        <id>https://v.daum.net/v/20241023000010629</id>
-        <link href="https://v.daum.net/v/20241023000010629"/>
-        <updated>2024-10-22T15:20:41.675Z</updated>
-        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
