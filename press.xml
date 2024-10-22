@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-10-22T03:26:00.891Z</updated>
+    <updated>2024-10-22T04:23:50.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삼성전자, KES 2024서 모두를 위한 ‘AI 라이프’ 제안]]></title>
+        <id>https://v.daum.net/v/20241022131706977</id>
+        <link href="https://v.daum.net/v/20241022131706977"/>
+        <updated>2024-10-22T04:23:42.355Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">13:17</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마우저 일렉트로닉스, 산업 자동화 및 환경 애플리케이션 위한 어드밴텍의 EVA-2000 LoRaWAN 센서 공급]]></title>
+        <id>https://v.daum.net/v/20241022131703975</id>
+        <link href="https://v.daum.net/v/20241022131703975"/>
+        <updated>2024-10-22T04:23:42.357Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">13:17</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[초록우산-라스트워, 취약계층 아동을 위한 ‘라스트워 데이’ 행사 성황리에 종료]]></title>
         <id>https://v.daum.net/v/20241022120706410</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241022113544153"/>
         <updated>2024-10-22T02:56:49.705Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">11:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경희사이버대 문화예술경영학과와 문화창조대학원 문화예술경영전공, 남원 실상사에서 '전환마을영화제' 개최]]></title>
-        <id>https://v.daum.net/v/20241022113235996</id>
-        <link href="https://v.daum.net/v/20241022113235996"/>
-        <updated>2024-10-22T02:56:49.706Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">11:32</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울시립대 스포츠과학과 스포츠안전 논문 공모전 우수상 수상]]></title>
-        <id>https://v.daum.net/v/20241022113145962</id>
-        <link href="https://v.daum.net/v/20241022113145962"/>
-        <updated>2024-10-22T02:56:49.707Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">11:31</span>]]></content>
     </entry>
 </feed>

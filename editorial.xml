@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-10-22T03:26:00.873Z</updated>
+    <updated>2024-10-22T04:23:50.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[데일리안 시사만평] 처음부터 잔치 열 생각 없었네…윤석열·한동훈 면담 결과 '빈손']]></title>
+        <id>https://v.daum.net/v/20241022125315475</id>
+        <link href="https://v.daum.net/v/20241022125315475"/>
+        <updated>2024-10-22T04:23:34.247Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">12:53</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[시시비비] 언론을 죽이는 또는 살리는 AI]]></title>
         <id>https://v.daum.net/v/20241022120039130</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241022103438823"/>
         <updated>2024-10-22T02:56:40.759Z</updated>
         <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">10:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[초동시각]직원의 일 가정 양립으로 회사가 얻는 것은]]></title>
-        <id>https://v.daum.net/v/20241022103009571</id>
-        <link href="https://v.daum.net/v/20241022103009571"/>
-        <updated>2024-10-22T02:56:40.761Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">10:30</span>]]></content>
     </entry>
 </feed>
