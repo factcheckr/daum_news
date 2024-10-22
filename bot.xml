@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-10-22T08:25:07.824Z</updated>
+    <updated>2024-10-22T09:20:39.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2024년 10월 22일)]]></title>
+        <id>https://v.daum.net/v/20241022173219288</id>
+        <link href="https://v.daum.net/v/20241022173219288"/>
+        <updated>2024-10-22T09:20:39.255Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:32</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국고채 금리 일제히 상승…3년물 연 2.943%]]></title>
         <id>https://v.daum.net/v/20241022164212130</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241022121101514"/>
         <updated>2024-10-22T03:26:00.085Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수원 화서동 화서주공4단지 59㎡ 5억7000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20241022120542351</id>
-        <link href="https://v.daum.net/v/20241022120542351"/>
-        <updated>2024-10-22T03:26:00.085Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">12:05</span>]]></content>
     </entry>
 </feed>
