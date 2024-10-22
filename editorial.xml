@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-10-22T22:19:07.233Z</updated>
+    <updated>2024-10-22T23:20:02.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘미세플라스틱’ 20년 [오철우의 과학풍경]]]></title>
+        <id>https://v.daum.net/v/20241023080507414</id>
+        <link href="https://v.daum.net/v/20241023080507414"/>
+        <updated>2024-10-22T23:19:47.416Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">08:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[차장칼럼] 분노가 아닌 책임을 보여주는 리더의 품격]]></title>
+        <id>https://v.daum.net/v/20241023080247382</id>
+        <link href="https://v.daum.net/v/20241023080247382"/>
+        <updated>2024-10-22T23:19:47.419Z</updated>
+        <content type="html"><![CDATA[머니S<span class="txt_bar"> · </span><span class="info_time">08:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘지옥에서 온 판사’ 잘나가는 이유 [홍성수 칼럼]]]></title>
         <id>https://v.daum.net/v/20241023070501554</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241023060004366"/>
         <updated>2024-10-22T21:18:05.394Z</updated>
         <content type="html"><![CDATA[주간경향<span class="txt_bar"> · </span><span class="info_time">06:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[광화문]속터지는 한국 경제]]></title>
-        <id>https://v.daum.net/v/20241023055145230</id>
-        <link href="https://v.daum.net/v/20241023055145230"/>
-        <updated>2024-10-22T21:18:05.395Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">05:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["피감 기관장이 죄인입니까"[기고]]]></title>
-        <id>https://v.daum.net/v/20241023055143227</id>
-        <link href="https://v.daum.net/v/20241023055143227"/>
-        <updated>2024-10-22T21:18:05.397Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">05:51</span>]]></content>
     </entry>
 </feed>
