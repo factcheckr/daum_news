@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-10-22T11:17:57.242Z</updated>
+    <updated>2024-10-22T12:37:58.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] UBBF 2024 Is Coming Soon]]></title>
+        <id>https://v.daum.net/v/20241022205449991</id>
+        <link href="https://v.daum.net/v/20241022205449991"/>
+        <updated>2024-10-22T12:37:50.023Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:54</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안리쓰와 Bluetest, 최신 WLAN 표준의 삼중 주파수 대역에서 RF 성능을 검증하기 위한 MIMO 환경에서 OTA 측정 솔루션 공동 개발]]></title>
         <id>https://v.daum.net/v/20241022180703628</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241022165545784"/>
         <updated>2024-10-22T08:24:57.104Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:55</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해남군 '땅끝햇살' 쌀 중국 수출길 올라]]></title>
-        <id>https://v.daum.net/v/20241022165345666</id>
-        <link href="https://v.daum.net/v/20241022165345666"/>
-        <updated>2024-10-22T08:24:57.106Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:53</span>]]></content>
     </entry>
 </feed>
