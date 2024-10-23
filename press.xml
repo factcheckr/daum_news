@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-10-23T08:25:02.456Z</updated>
+    <updated>2024-10-23T09:20:47.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 아조레스, 북대서양 최대의 해양 보호 구역 네트워크 설정]]></title>
+        <id>https://v.daum.net/v/20241023174325427</id>
+        <link href="https://v.daum.net/v/20241023174325427"/>
+        <updated>2024-10-23T09:20:39.224Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:43</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김문수 고용노동부 장관, 건국대 일자리플러스센터 방문]]></title>
+        <id>https://v.daum.net/v/20241023173703083</id>
+        <link href="https://v.daum.net/v/20241023173703083"/>
+        <updated>2024-10-23T09:20:39.227Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">17:37</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[0해남미남축제 올해 주인공은 '고구마']]></title>
         <id>https://v.daum.net/v/20241023172347319</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241023164702372"/>
         <updated>2024-10-23T08:24:53.299Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">16:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대구시교육청, '2024. 대구 학생 책축제' 개최]]></title>
-        <id>https://v.daum.net/v/20241023164549312</id>
-        <link href="https://v.daum.net/v/20241023164549312"/>
-        <updated>2024-10-23T08:24:53.301Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동작구의 가을, 축제로 물들다! 동별 특색 살린 축제 ‘가득’]]></title>
-        <id>https://v.daum.net/v/20241023164402204</id>
-        <link href="https://v.daum.net/v/20241023164402204"/>
-        <updated>2024-10-23T08:24:53.302Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">16:44</span>]]></content>
     </entry>
 </feed>
