@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-10-23T05:19:48.698Z</updated>
+    <updated>2024-10-23T06:27:46.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[ET톡]한국 반도체, 이제 고객을 볼 때]]></title>
+        <id>https://v.daum.net/v/20241023144202878</id>
+        <link href="https://v.daum.net/v/20241023144202878"/>
+        <updated>2024-10-23T06:27:28.427Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">14:42</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[데일리안 시사만평] '명태균 리스트'에 용산·여의도 정치인 '침몰?'…가짜뉴스? 진짜뉴스?]]></title>
         <id>https://v.daum.net/v/20241023141235651</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241023102605277"/>
         <updated>2024-10-23T02:53:40.813Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">10:26</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인사] 대보그룹]]></title>
-        <id>https://v.daum.net/v/20241023102415214</id>
-        <link href="https://v.daum.net/v/20241023102415214"/>
-        <updated>2024-10-23T02:53:40.814Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">10:24</span>]]></content>
     </entry>
 </feed>
