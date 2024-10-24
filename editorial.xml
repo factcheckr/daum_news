@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-10-24T02:51:18.290Z</updated>
+    <updated>2024-10-24T03:24:50.857Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[장은수의 책으로 읽는 세계]인공지능이 신탁을 내리는 사회는 불행해진다]]></title>
+        <id>https://v.daum.net/v/20241024120047150</id>
+        <link href="https://v.daum.net/v/20241024120047150"/>
+        <updated>2024-10-24T03:24:31.609Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">12:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3분기도 성장률 쇼크, 尹정부부터 당장 낙관론 버려야[사설]]]></title>
         <id>https://v.daum.net/v/20241024114150433</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241024094803320"/>
         <updated>2024-10-24T01:21:15.041Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">09:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[환절기 여드름 해결하는 우엉 씨앗, 우방자]]></title>
-        <id>https://v.daum.net/v/20241024094134079</id>
-        <link href="https://v.daum.net/v/20241024094134079"/>
-        <updated>2024-10-24T01:21:15.046Z</updated>
-        <content type="html"><![CDATA[베이비뉴스<span class="txt_bar"> · </span><span class="info_time">09:41</span>]]></content>
     </entry>
 </feed>
