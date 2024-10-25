@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-10-25T09:20:57.075Z</updated>
+    <updated>2024-10-25T10:21:09.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[Top 5 베이비뉴스] 출산율 다시 오른다... 유보통합은 여전히 산너머 산]]></title>
+        <id>https://v.daum.net/v/20241025190048077</id>
+        <link href="https://v.daum.net/v/20241025190048077"/>
+        <updated>2024-10-25T10:20:51.609Z</updated>
+        <content type="html"><![CDATA[베이비뉴스<span class="txt_bar"> · </span><span class="info_time">19:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 수출마저 꺾인 경제, 정부 낙관론 접고 비상하게 대응해야]]></title>
         <id>https://v.daum.net/v/20241025181021838</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241025172401577"/>
         <updated>2024-10-25T08:24:38.430Z</updated>
         <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">17:24</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설]우크라 살상무기 지원, 국민 82%가 하지 말라는데]]></title>
-        <id>https://v.daum.net/v/20241025171755404</id>
-        <link href="https://v.daum.net/v/20241025171755404"/>
-        <updated>2024-10-25T08:24:38.432Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">17:17</span>]]></content>
     </entry>
 </feed>
