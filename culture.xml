@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2024-10-26T16:22:00.935Z</updated>
+    <updated>2024-10-26T17:16:56.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[황금신전 같은 피라미드 앞 '강익중 한글신전'…이집트 '포에버 이즈 나우']]></title>
+        <id>https://v.daum.net/v/20241027014334537</id>
+        <link href="https://v.daum.net/v/20241027014334537"/>
+        <updated>2024-10-26T17:16:09.139Z</updated>
+        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">01:43</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[데뷔 40주년 노찾사 "지금도 따뜻한 치유의 노래 필요"]]></title>
         <id>https://v.daum.net/v/20241027011613493</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241027000102217"/>
         <updated>2024-10-26T15:17:40.710Z</updated>
         <content type="html"><![CDATA[bnt뉴스<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[아하!] 한국과 북한이 '노벨경제학상'을 안겨줬다고? (영상)]]></title>
-        <id>https://v.daum.net/v/20241027000047214</id>
-        <link href="https://v.daum.net/v/20241027000047214"/>
-        <updated>2024-10-26T15:17:40.711Z</updated>
-        <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
