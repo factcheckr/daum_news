@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-10-26T06:24:55.165Z</updated>
+    <updated>2024-10-26T07:18:27.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[USA NASA SPACEX]]></title>
+        <id>https://v.daum.net/v/20241026155254905</id>
+        <link href="https://v.daum.net/v/20241026155254905"/>
+        <updated>2024-10-26T07:18:02.243Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">15:52</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부고] 권기수(카카오엔터테인먼트 공동대표)씨 장모상]]></title>
         <id>https://v.daum.net/v/20241026152259366</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241026110107094"/>
         <updated>2024-10-26T02:48:09.347Z</updated>
         <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">11:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[게임위드인] 딥페이크로 '밈' 소재 된 게임 개발자들…엇갈린 업계 시선]]></title>
-        <id>https://v.daum.net/v/20241026110011071</id>
-        <link href="https://v.daum.net/v/20241026110011071"/>
-        <updated>2024-10-26T02:48:09.348Z</updated>
-        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">11:00</span>]]></content>
     </entry>
 </feed>
