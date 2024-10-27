@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-10-27T12:33:53.377Z</updated>
+    <updated>2024-10-27T13:22:50.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[10회 대한민국원자력산업대전 29일 창원에서 열려]]></title>
+        <id>https://v.daum.net/v/20241027214402563</id>
+        <link href="https://v.daum.net/v/20241027214402563"/>
+        <updated>2024-10-27T13:22:27.311Z</updated>
+        <content type="html"><![CDATA[KBS<span class="txt_bar"> · </span><span class="info_time">21:44</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“30일간 비행하며 임무 수행”…‘성층권 드론’ 상용화 추진]]></title>
         <id>https://v.daum.net/v/20241027213309480</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241027181401257"/>
         <updated>2024-10-27T10:22:01.644Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">18:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中 게임 시장 또 문 열었다…엔씨·시프트업 레벨업 하나]]></title>
-        <id>https://v.daum.net/v/20241027181302245</id>
-        <link href="https://v.daum.net/v/20241027181302245"/>
-        <updated>2024-10-27T10:22:01.644Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">18:13</span>]]></content>
     </entry>
 </feed>

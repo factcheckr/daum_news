@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-10-27T12:33:53.380Z</updated>
+    <updated>2024-10-27T13:22:50.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[의사가 환자에게 피해를 준다면… [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20241027220143729</id>
+        <link href="https://v.daum.net/v/20241027220143729"/>
+        <updated>2024-10-27T13:22:35.562Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[만성질환이 내 마음을 짓누를 때… '이걸' 기억하세요]]></title>
+        <id>https://v.daum.net/v/20241027220120721</id>
+        <link href="https://v.daum.net/v/20241027220120721"/>
+        <updated>2024-10-27T13:22:35.562Z</updated>
+        <content type="html"><![CDATA[헬스조선<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이병천 칼럼]노벨 경제학 바로 읽기 : 제도·권력·진보]]></title>
         <id>https://v.daum.net/v/20241027212343422</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241027211723385"/>
         <updated>2024-10-27T12:33:31.298Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">21:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 경제 이대로 대기업병에 발목? [편집장 레터]]]></title>
-        <id>https://v.daum.net/v/20241027210315271</id>
-        <link href="https://v.daum.net/v/20241027210315271"/>
-        <updated>2024-10-27T12:33:31.300Z</updated>
-        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">21:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국이 누워 있는 동안 [김선걸 칼럼]]]></title>
-        <id>https://v.daum.net/v/20241027210314269</id>
-        <link href="https://v.daum.net/v/20241027210314269"/>
-        <updated>2024-10-27T12:33:31.302Z</updated>
-        <content type="html"><![CDATA[매경이코노미<span class="txt_bar"> · </span><span class="info_time">21:03</span>]]></content>
     </entry>
 </feed>
