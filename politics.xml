@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2024-10-27T18:24:06.815Z</updated>
+    <updated>2024-10-27T19:16:47.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘의 국감](28일)]]></title>
+        <id>https://v.daum.net/v/20241028040145458</id>
+        <link href="https://v.daum.net/v/20241028040145458"/>
+        <updated>2024-10-27T19:15:41.302Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">04:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["尹캠프 외장하드에 '명태균 보고서'‥대선 당일도 파일 보고받아"]]></title>
+        <id>https://v.daum.net/v/20241028034004435</id>
+        <link href="https://v.daum.net/v/20241028034004435"/>
+        <updated>2024-10-27T19:15:41.302Z</updated>
+        <content type="html"><![CDATA[MBC<span class="txt_bar"> · </span><span class="info_time">03:40</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“尹캠프, 대선 당일까지 明 여론조사 자료로 회의”]]></title>
         <id>https://v.daum.net/v/20241028030347347</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241028005705940"/>
         <updated>2024-10-27T16:22:34.843Z</updated>
         <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:57</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민생·공통공약 협의체 오늘 출범‥미래먹거리·저출생 등 대응]]></title>
-        <id>https://v.daum.net/v/20241028004604877</id>
-        <link href="https://v.daum.net/v/20241028004604877"/>
-        <updated>2024-10-27T16:22:34.844Z</updated>
-        <content type="html"><![CDATA[MBC<span class="txt_bar"> · </span><span class="info_time">00:46</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정부 대표단, 오늘 나토 방문… 브리핑·단계별 대응 협의]]></title>
-        <id>https://v.daum.net/v/20241028003014806</id>
-        <link href="https://v.daum.net/v/20241028003014806"/>
-        <updated>2024-10-27T16:22:34.844Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:30</span>]]></content>
     </entry>
 </feed>
