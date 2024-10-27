@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/entertain</id>
     <title>다음 뉴스 ─ 전체기사 ─ 연예</title>
-    <updated>2024-10-27T16:23:50.587Z</updated>
+    <updated>2024-10-27T17:18:00.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[TV조선] 배연정의 당뇨 잡기]]></title>
+        <id>https://v.daum.net/v/20241028021611235</id>
+        <link href="https://v.daum.net/v/20241028021611235"/>
+        <updated>2024-10-27T17:17:16.830Z</updated>
+        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">02:16</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['영원한 가왕' 나훈아, 은퇴까지 콘서트 두 번 남았다! '완판 신화' 끝까지 이어가나]]></title>
+        <id>https://v.daum.net/v/20241028020143208</id>
+        <link href="https://v.daum.net/v/20241028020143208"/>
+        <updated>2024-10-27T17:17:16.831Z</updated>
+        <content type="html"><![CDATA[마이데일리<span class="txt_bar"> · </span><span class="info_time">02:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김혜윤, 마멜 공주 나타났다..팬미팅 성료 속 행복한 미소 [★SHOT!]]]></title>
         <id>https://v.daum.net/v/20241028011744061</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241028003110812"/>
         <updated>2024-10-27T16:23:09.222Z</updated>
         <content type="html"><![CDATA[마이데일리<span class="txt_bar"> · </span><span class="info_time">00:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['잘생쁨' 노민우 "너무 잘생겨서 고민"… 친동생 "자꾸 들으니 짜증" 분노 ('개콘')]]></title>
-        <id>https://v.daum.net/v/20241028002330766</id>
-        <link href="https://v.daum.net/v/20241028002330766"/>
-        <updated>2024-10-27T16:23:09.223Z</updated>
-        <content type="html"><![CDATA[TV리포트<span class="txt_bar"> · </span><span class="info_time">00:23</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘심야괴담회’ 김호영, 또 우승! ‘괴담꾼의 활약’]]></title>
-        <id>https://v.daum.net/v/20241028002207763</id>
-        <link href="https://v.daum.net/v/20241028002207763"/>
-        <updated>2024-10-27T16:23:09.225Z</updated>
-        <content type="html"><![CDATA[MBC연예<span class="txt_bar"> · </span><span class="info_time">00:22</span>]]></content>
     </entry>
 </feed>
