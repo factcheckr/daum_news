@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-10-27T04:25:25.337Z</updated>
+    <updated>2024-10-27T05:19:52.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Listing on the Tokyo Stock Exchange Prime Market]]></title>
+        <id>https://v.daum.net/v/20241027133704523</id>
+        <link href="https://v.daum.net/v/20241027133704523"/>
+        <updated>2024-10-27T05:19:41.294Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">13:37</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[리가쿠, 도쿄증권거래소 프라임 마켓 상장]]></title>
+        <id>https://v.daum.net/v/20241027133703521</id>
+        <link href="https://v.daum.net/v/20241027133703521"/>
+        <updated>2024-10-27T05:19:41.295Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">13:37</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Muhwa x noin, 컬래버레이션 앨범 ‘Light Shower’ 발매]]></title>
         <id>https://v.daum.net/v/20241027130706112</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241027100704300"/>
         <updated>2024-10-27T01:29:26.873Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">10:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엑솔라, 캄보디아와 인도네시아에서 결제 솔루션을 대폭 확장하여 동남아시아 현지 시장에서 게임 개발자의 진출 극대화]]></title>
-        <id>https://v.daum.net/v/20241027100702298</id>
-        <link href="https://v.daum.net/v/20241027100702298"/>
-        <updated>2024-10-27T01:29:26.875Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">10:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GS리테일, ESG 통합 등급 A+ 획득…역대 최고 성과]]></title>
-        <id>https://v.daum.net/v/20241027094702936</id>
-        <link href="https://v.daum.net/v/20241027094702936"/>
-        <updated>2024-10-27T01:29:26.876Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">09:47</span>]]></content>
     </entry>
 </feed>
