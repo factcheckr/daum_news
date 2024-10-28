@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-10-28T18:26:08.875Z</updated>
+    <updated>2024-10-28T19:16:29.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[기고] 합성생물학 국제협력과 혁신]]></title>
+        <id>https://v.daum.net/v/20241029040146517</id>
+        <link href="https://v.daum.net/v/20241029040146517"/>
+        <updated>2024-10-28T19:16:13.800Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">04:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[줄기세포, 항노화의 새로운 패러다임 될 수도]]></title>
         <id>https://v.daum.net/v/20241029031050447</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241029005902885"/>
         <updated>2024-10-28T16:24:14.564Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:59</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기고] 지방의회법 제정, 이제는 이룰 때다]]></title>
-        <id>https://v.daum.net/v/20241029005852880</id>
-        <link href="https://v.daum.net/v/20241029005852880"/>
-        <updated>2024-10-28T16:24:14.565Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">00:58</span>]]></content>
     </entry>
 </feed>
