@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-10-28T22:18:45.395Z</updated>
+    <updated>2024-10-28T23:18:57.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["아이들의 마음속 이야기들에도 귀 기울여 주세요!"]]></title>
+        <id>https://v.daum.net/v/20241029081143953</id>
+        <link href="https://v.daum.net/v/20241029081143953"/>
+        <updated>2024-10-28T23:18:42.632Z</updated>
+        <content type="html"><![CDATA[베이비뉴스<span class="txt_bar"> · </span><span class="info_time">08:11</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미국 대선 당선자보다 중요한 것 [뉴스룸에서]]]></title>
+        <id>https://v.daum.net/v/20241029080503805</id>
+        <link href="https://v.daum.net/v/20241029080503805"/>
+        <updated>2024-10-28T23:18:42.632Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">08:05</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[박순찬의 장도리 카툰] 맞으며 간다]]></title>
+        <id>https://v.daum.net/v/20241029074501421</id>
+        <link href="https://v.daum.net/v/20241029074501421"/>
+        <updated>2024-10-28T23:18:42.632Z</updated>
+        <content type="html"><![CDATA[오마이뉴스<span class="txt_bar"> · </span><span class="info_time">07:45</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[스타트업 필독法]한국과 실리콘밸리 투자계약 차이 이해해야]]></title>
+        <id>https://v.daum.net/v/20241029073026155</id>
+        <link href="https://v.daum.net/v/20241029073026155"/>
+        <updated>2024-10-28T23:18:42.634Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">07:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[민영보험에 직불제 허용? ‘판도라 상자’ 기어코 여나 [왜냐면]]]></title>
         <id>https://v.daum.net/v/20241029070510807</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20241029053148360"/>
         <updated>2024-10-28T21:18:30.200Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">05:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Grace Kao] Taking gratitude into our own hands]]></title>
-        <id>https://v.daum.net/v/20241029053051325</id>
-        <link href="https://v.daum.net/v/20241029053051325"/>
-        <updated>2024-10-28T21:18:30.201Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Editorial] Multicultural era]]></title>
-        <id>https://v.daum.net/v/20241029053030313</id>
-        <link href="https://v.daum.net/v/20241029053030313"/>
-        <updated>2024-10-28T21:18:30.203Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[씨줄날줄] ‘퇴직연금’ 관리하기]]></title>
-        <id>https://v.daum.net/v/20241029050522116</id>
-        <link href="https://v.daum.net/v/20241029050522116"/>
-        <updated>2024-10-28T20:21:12.185Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[열린세상] 게임체인저, 바이오헬스 산업]]></title>
-        <id>https://v.daum.net/v/20241029050519114</id>
-        <link href="https://v.daum.net/v/20241029050519114"/>
-        <updated>2024-10-28T20:21:12.186Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">05:05</span>]]></content>
     </entry>
 </feed>
