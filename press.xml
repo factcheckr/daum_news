@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-10-29T09:22:24.586Z</updated>
+    <updated>2024-10-29T11:16:51.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 새로운 유전자 6개의 암 발병 위험 관련성 발견]]></title>
+        <id>https://v.daum.net/v/20241029195051092</id>
+        <link href="https://v.daum.net/v/20241029195051092"/>
+        <updated>2024-10-29T11:16:43.744Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">19:50</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] OPEC 기금, 2024 세계은행 회의에서 전 세계 파트너십 촉진]]></title>
+        <id>https://v.daum.net/v/20241029194943079</id>
+        <link href="https://v.daum.net/v/20241029194943079"/>
+        <updated>2024-10-29T11:16:43.744Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">19:49</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성수역 골목형 상점가 ‘가을야행’ 축제 성황리에 종료]]></title>
         <id>https://v.daum.net/v/20241029174703320</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241029170609709"/>
         <updated>2024-10-29T09:22:14.358Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[울산 남구, 하반기 어린이 이용시설 종사자 안전교육 실시]]></title>
-        <id>https://v.daum.net/v/20241029170544682</id>
-        <link href="https://v.daum.net/v/20241029170544682"/>
-        <updated>2024-10-29T09:22:14.359Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부산 남구, 열린대학 특강 '그림자도 차별하실 건가요?' 성료]]></title>
-        <id>https://v.daum.net/v/20241029170452641</id>
-        <link href="https://v.daum.net/v/20241029170452641"/>
-        <updated>2024-10-29T09:22:14.361Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:04</span>]]></content>
     </entry>
 </feed>
