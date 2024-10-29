@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2024-10-29T18:26:25.981Z</updated>
+    <updated>2024-10-29T19:18:18.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신문방송편집인협회장에 이태규 한국일보 논설실장]]></title>
+        <id>https://v.daum.net/v/20241030032744859</id>
+        <link href="https://v.daum.net/v/20241030032744859"/>
+        <updated>2024-10-29T19:17:25.508Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">03:27</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박찬일 시인 7년 만의 신작 시집 '기쁨의 총회' 출간]]></title>
         <id>https://v.daum.net/v/20241030032006842</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241030012714534"/>
         <updated>2024-10-29T17:17:25.549Z</updated>
         <content type="html"><![CDATA[스포츠경향<span class="txt_bar"> · </span><span class="info_time">01:27</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팀스파르타, 기업교육 커리큘럼 AX로 확대···B2B 수강생 수 전년 대비 7배 이상 증가]]></title>
-        <id>https://v.daum.net/v/20241030012015503</id>
-        <link href="https://v.daum.net/v/20241030012015503"/>
-        <updated>2024-10-29T16:23:57.688Z</updated>
-        <content type="html"><![CDATA[스포츠경향<span class="txt_bar"> · </span><span class="info_time">01:20</span>]]></content>
     </entry>
 </feed>

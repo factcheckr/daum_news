@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-10-29T18:26:25.994Z</updated>
+    <updated>2024-10-29T19:18:18.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[기고]징벌적인 기업 상속세율 60%, 완화해야]]></title>
+        <id>https://v.daum.net/v/20241030041102922</id>
+        <link href="https://v.daum.net/v/20241030041102922"/>
+        <updated>2024-10-29T19:18:01.252Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">04:11</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[광화문] GDP 높일 IP수출 정책]]></title>
+        <id>https://v.daum.net/v/20241030040003887</id>
+        <link href="https://v.daum.net/v/20241030040003887"/>
+        <updated>2024-10-29T19:18:01.258Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[허요환 목사의 새벽묵상] 해는 어느 방향에 있어도 아름답잖아요]]></title>
         <id>https://v.daum.net/v/20241030030447730</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241030003906306"/>
         <updated>2024-10-29T16:24:31.117Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:39</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[살며 사랑하며] 숲의 비밀]]></title>
-        <id>https://v.daum.net/v/20241030003743301</id>
-        <link href="https://v.daum.net/v/20241030003743301"/>
-        <updated>2024-10-29T16:24:31.119Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[염재호 칼럼] 세종 국회의사당과 하이퍼루프]]></title>
-        <id>https://v.daum.net/v/20241030003444286</id>
-        <link href="https://v.daum.net/v/20241030003444286"/>
-        <updated>2024-10-29T16:24:31.123Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:34</span>]]></content>
     </entry>
 </feed>
