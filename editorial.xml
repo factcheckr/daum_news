@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-10-31T03:28:05.619Z</updated>
+    <updated>2024-10-31T04:24:24.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[데일리안 시사만평] 이재명은 사법부에 선처 구애중…"법관 출신 주제에" 막말 김우영 경고?]]></title>
+        <id>https://v.daum.net/v/20241031131244618</id>
+        <link href="https://v.daum.net/v/20241031131244618"/>
+        <updated>2024-10-31T04:24:06.301Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">13:12</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[시론]자연휴양림을 10배 늘린다면]]></title>
         <id>https://v.daum.net/v/20241031114010859</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241031094221060"/>
         <updated>2024-10-31T02:54:12.222Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">09:42</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부고]김형렬씨(교보증권 리서치센터장) 본인상]]></title>
-        <id>https://v.daum.net/v/20241031093929916</id>
-        <link href="https://v.daum.net/v/20241031093929916"/>
-        <updated>2024-10-31T02:54:12.224Z</updated>
-        <content type="html"><![CDATA[머니S<span class="txt_bar"> · </span><span class="info_time">09:39</span>]]></content>
     </entry>
 </feed>
