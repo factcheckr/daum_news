@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-11-01T06:29:36.563Z</updated>
+    <updated>2024-11-01T07:21:31.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[지평선] ‘파우치 앵커’가 낮춘 시청률]]></title>
+        <id>https://v.daum.net/v/20241101160153086</id>
+        <link href="https://v.daum.net/v/20241101160153086"/>
+        <updated>2024-11-01T07:21:12.806Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">16:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[흑백요리사, 셰르파와 이모님[오늘을 생각한다]]]></title>
+        <id>https://v.daum.net/v/20241101160006003</id>
+        <link href="https://v.daum.net/v/20241101160006003"/>
+        <updated>2024-11-01T07:21:12.806Z</updated>
+        <content type="html"><![CDATA[주간경향<span class="txt_bar"> · </span><span class="info_time">16:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인사] 환경부]]></title>
+        <id>https://v.daum.net/v/20241101154951613</id>
+        <link href="https://v.daum.net/v/20241101154951613"/>
+        <updated>2024-11-01T07:21:12.806Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">15:49</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[데일리안 시사만평] 윤 대통령 녹취 파장… '공천 개입 vs 일방적 주장' 국민들은 어느 장단에]]></title>
         <id>https://v.daum.net/v/20241101145635620</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20241101113014550"/>
         <updated>2024-11-01T03:04:13.836Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“읍참마속 심정으로 상장폐지 칼 갈아라”...좀비기업·작전주 솎아내야 밸류업 가능 [기자24시]]]></title>
-        <id>https://v.daum.net/v/20241101113006541</id>
-        <link href="https://v.daum.net/v/20241101113006541"/>
-        <updated>2024-11-01T03:04:13.837Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">11:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시시비비]게임체인저 된 'AI 에이전트']]></title>
-        <id>https://v.daum.net/v/20241101111439890</id>
-        <link href="https://v.daum.net/v/20241101111439890"/>
-        <updated>2024-11-01T03:04:13.839Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">11:14</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 생산·소비 또 감소...경제불확실성 대비 선제적 대응 필요]]></title>
-        <id>https://v.daum.net/v/20241101110703613</id>
-        <link href="https://v.daum.net/v/20241101110703613"/>
-        <updated>2024-11-01T03:04:13.840Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:07</span>]]></content>
     </entry>
 </feed>
