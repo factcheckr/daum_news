@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-11-01T05:20:49.888Z</updated>
+    <updated>2024-11-01T06:29:36.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[데일리안 시사만평] 윤 대통령 녹취 파장… '공천 개입 vs 일방적 주장' 국민들은 어느 장단에]]></title>
+        <id>https://v.daum.net/v/20241101145635620</id>
+        <link href="https://v.daum.net/v/20241101145635620"/>
+        <updated>2024-11-01T06:29:15.943Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">14:56</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[fn사설]국회운영마저 장악하려는 야당의 폭주, 역풍을 부를 것]]></title>
+        <id>https://v.daum.net/v/20241101142059442</id>
+        <link href="https://v.daum.net/v/20241101142059442"/>
+        <updated>2024-11-01T06:29:15.944Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">14:20</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아름다운 풍광 속 애잔한 하와이 이민사 [양경미의 영화로 보는 세상]]]></title>
         <id>https://v.daum.net/v/20241101141745286</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241101110703613"/>
         <updated>2024-11-01T03:04:13.840Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] “나라의 미래는 인재가 결정”...SK의 인재보국 50년]]></title>
-        <id>https://v.daum.net/v/20241101110543531</id>
-        <link href="https://v.daum.net/v/20241101110543531"/>
-        <updated>2024-11-01T03:04:13.841Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">11:05</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기자수첩]공사비 안정화 대책에 한숨 깊은 자재업계]]></title>
-        <id>https://v.daum.net/v/20241101110005197</id>
-        <link href="https://v.daum.net/v/20241101110005197"/>
-        <updated>2024-11-01T03:04:13.843Z</updated>
-        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">11:00</span>]]></content>
     </entry>
 </feed>
