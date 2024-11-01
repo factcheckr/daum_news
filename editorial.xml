@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-11-01T18:25:55.236Z</updated>
+    <updated>2024-11-01T19:17:43.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[데스크 칼럼] 블랙핑크 로제는 다 알고 있다]]></title>
+        <id>https://v.daum.net/v/20241102040221668</id>
+        <link href="https://v.daum.net/v/20241102040221668"/>
+        <updated>2024-11-01T19:17:28.851Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">04:02</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[목양실에서] 인공지능 시대에 던져야 할 질문]]></title>
         <id>https://v.daum.net/v/20241102030849629</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241102004135150"/>
         <updated>2024-11-01T16:23:03.681Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:41</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[창] 공영성의 종말]]></title>
-        <id>https://v.daum.net/v/20241102003908127</id>
-        <link href="https://v.daum.net/v/20241102003908127"/>
-        <updated>2024-11-01T16:23:03.682Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:39</span>]]></content>
     </entry>
 </feed>
