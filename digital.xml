@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-11-01T13:26:04.641Z</updated>
+    <updated>2024-11-01T14:19:11.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[존 니덤 라이엇 사장 "T1·젠지전 최고 동시 시청자 수 481만명"]]></title>
+        <id>https://v.daum.net/v/20241101231828618</id>
+        <link href="https://v.daum.net/v/20241101231828618"/>
+        <updated>2024-11-01T14:18:42.662Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">23:18</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[폐로 앞둔 ‘마흔 살’ 한빛원전…수명 연장 쟁점은?]]></title>
         <id>https://v.daum.net/v/20241101220448072</id>
@@ -41,7 +48,7 @@
         <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">21:21</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“정년이만 믿었다가” 하루 30만명 이탈 ‘쇼크’…결국 월 6000원 내렸다]]></title>
+        <title type="html"><![CDATA[“정년이 믿었다가” ‘쇼크’ 30만명 이탈 …결국 월 6000원 내렸다]]></title>
         <id>https://v.daum.net/v/20241101203047534</id>
         <link href="https://v.daum.net/v/20241101203047534"/>
         <updated>2024-11-01T12:35:03.323Z</updated>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241101191743220"/>
         <updated>2024-11-01T10:21:13.598Z</updated>
         <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">19:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5G 원가자료 공개, 상고심서 확정…이통업계 '심기 복잡']]></title>
-        <id>https://v.daum.net/v/20241101191440163</id>
-        <link href="https://v.daum.net/v/20241101191440163"/>
-        <updated>2024-11-01T10:21:13.598Z</updated>
-        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">19:14</span>]]></content>
     </entry>
 </feed>
