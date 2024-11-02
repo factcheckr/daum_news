@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-11-02T13:23:38.658Z</updated>
+    <updated>2024-11-02T14:17:34.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[몬헌 나우 카니발 "초보자도 이벤트 장비로 1인분 가능"]]></title>
+        <id>https://v.daum.net/v/20241102223822841</id>
+        <link href="https://v.daum.net/v/20241102223822841"/>
+        <updated>2024-11-02T14:17:10.578Z</updated>
+        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">22:38</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[승상싱 "아케인 소재로 한 13시즌이 복귀에 최적"]]></title>
+        <id>https://v.daum.net/v/20241102223543823</id>
+        <link href="https://v.daum.net/v/20241102223543823"/>
+        <updated>2024-11-02T14:17:10.579Z</updated>
+        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">22:35</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“국회가 국회했네” 팡팡 쓰더니 전기 값만 80억…이래도 돼? [지구, 뭐래?]]]></title>
         <id>https://v.daum.net/v/20241102214052275</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241102164046827"/>
         <updated>2024-11-02T08:22:34.880Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">16:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보청기에 혈당관리 앱까지 만든다...헬스케어 보폭 키우는 빅테크 기업 [홍키자의 빅테크]]]></title>
-        <id>https://v.daum.net/v/20241102163600766</id>
-        <link href="https://v.daum.net/v/20241102163600766"/>
-        <updated>2024-11-02T08:22:34.880Z</updated>
-        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">16:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["제발 내년 이날 대체공휴일로"…금토일월화수목금토일 쉰다]]></title>
-        <id>https://v.daum.net/v/20241102153902920</id>
-        <link href="https://v.daum.net/v/20241102153902920"/>
-        <updated>2024-11-02T07:19:22.302Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">15:39</span>]]></content>
     </entry>
 </feed>
