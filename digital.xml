@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-11-02T02:48:58.214Z</updated>
+    <updated>2024-11-02T03:23:46.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[내년 롤드컵 결승, 중국 청두에서 열린다]]></title>
+        <id>https://v.daum.net/v/20241102120344831</id>
+        <link href="https://v.daum.net/v/20241102120344831"/>
+        <updated>2024-11-02T03:23:15.488Z</updated>
+        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">12:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삼성SDS·현대오토에버, 그룹사 덕에 실적 '신바람']]></title>
+        <id>https://v.daum.net/v/20241102120004748</id>
+        <link href="https://v.daum.net/v/20241102120004748"/>
+        <updated>2024-11-02T03:23:15.489Z</updated>
+        <content type="html"><![CDATA[비즈워치<span class="txt_bar"> · </span><span class="info_time">12:00</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“너무 비싸다” 소문 난 이 카드, 쓰는 사람 있어? [지구, 뭐래?]]]></title>
         <id>https://v.daum.net/v/20241102114053611</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241102103449005"/>
         <updated>2024-11-02T02:48:31.526Z</updated>
         <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">10:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025년 롤드컵 개최지는 중국 청두]]></title>
-        <id>https://v.daum.net/v/20241102103049971</id>
-        <link href="https://v.daum.net/v/20241102103049971"/>
-        <updated>2024-11-02T02:48:31.527Z</updated>
-        <content type="html"><![CDATA[게임톡<span class="txt_bar"> · </span><span class="info_time">10:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플, 머스크와 대결구도?...위성통신사 글로벌스타에 2조 투자]]></title>
-        <id>https://v.daum.net/v/20241102101611844</id>
-        <link href="https://v.daum.net/v/20241102101611844"/>
-        <updated>2024-11-02T01:20:43.969Z</updated>
-        <content type="html"><![CDATA[디지털타임스<span class="txt_bar"> · </span><span class="info_time">10:16</span>]]></content>
     </entry>
 </feed>
