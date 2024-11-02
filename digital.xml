@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-11-02T09:18:56.151Z</updated>
+    <updated>2024-11-02T10:20:00.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["은행 믿고 있다가 16억 털렸다"…60대 '멘붕'온 사연 [유지희의 ITMI]]]></title>
+        <id>https://v.daum.net/v/20241102190303875</id>
+        <link href="https://v.daum.net/v/20241102190303875"/>
+        <updated>2024-11-02T10:19:36.007Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">19:03</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[천왕성의 얼음 위성 미란다에 ‘물의 비밀’이 숨어 있다?[아하! 우주]]]></title>
+        <id>https://v.daum.net/v/20241102182143297</id>
+        <link href="https://v.daum.net/v/20241102182143297"/>
+        <updated>2024-11-02T10:19:36.008Z</updated>
+        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">18:21</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[베트남에서 '카카오 택시' 부르려다가…깜짝 놀란 까닭]]></title>
         <id>https://v.daum.net/v/20241102175202882</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241102134146667"/>
         <updated>2024-11-02T05:19:51.447Z</updated>
         <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">13:41</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신사업 고전하는 하이브, 부산에서 반전 성공할까 [이주현의 킬러콘텐츠]]]></title>
-        <id>https://v.daum.net/v/20241102134001639</id>
-        <link href="https://v.daum.net/v/20241102134001639"/>
-        <updated>2024-11-02T05:19:51.448Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">13:40</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박준규 에이디테크놀로지 대표 "AI·HPC 칩렛 플랫폼 혁신 이끌겠다"]]></title>
-        <id>https://v.daum.net/v/20241102133543594</id>
-        <link href="https://v.daum.net/v/20241102133543594"/>
-        <updated>2024-11-02T05:19:51.449Z</updated>
-        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">13:35</span>]]></content>
     </entry>
 </feed>
