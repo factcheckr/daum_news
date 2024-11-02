@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2024-11-02T16:23:27.937Z</updated>
+    <updated>2024-11-02T17:16:32.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘 날씨] "나들이 가기 좋아요" 낮 최고 23도…내주 한파 예고, 조심해야 할 질환은?]]></title>
+        <id>https://v.daum.net/v/20241103015013180</id>
+        <link href="https://v.daum.net/v/20241103015013180"/>
+        <updated>2024-11-02T17:15:45.115Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">01:50</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오늘의 운세] 11월 3일 일요일 (음력 10월 3일 /辛未) 띠별 / 생년월일 운세]]></title>
         <id>https://v.daum.net/v/20241103010135875</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241103000038376"/>
         <updated>2024-11-02T15:21:43.238Z</updated>
         <content type="html"><![CDATA[엘르<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 운세] 11월 3일, 마음을 예쁘게 쓰면 복 받을 수 있는 띠]]></title>
-        <id>https://v.daum.net/v/20241103000021371</id>
-        <link href="https://v.daum.net/v/20241103000021371"/>
-        <updated>2024-11-02T15:21:43.239Z</updated>
-        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
