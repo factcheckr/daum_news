@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-11-03T17:16:34.785Z</updated>
+    <updated>2024-11-03T18:26:20.876Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[지지대] 학교 내 스마트폰 금지]]></title>
+        <id>https://v.daum.net/v/20241104030138065</id>
+        <link href="https://v.daum.net/v/20241104030138065"/>
+        <updated>2024-11-03T18:26:03.511Z</updated>
+        <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">03:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사설] 윤 대통령 지지율 10%대, 국정쇄신만이 답이다]]></title>
+        <id>https://v.daum.net/v/20241104030136064</id>
+        <link href="https://v.daum.net/v/20241104030136064"/>
+        <updated>2024-11-03T18:26:03.511Z</updated>
+        <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">03:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사설] 경기도, 국제공항 문제를 너무 가벼이 보나]]></title>
+        <id>https://v.daum.net/v/20241104030135061</id>
+        <link href="https://v.daum.net/v/20241104030135061"/>
+        <updated>2024-11-03T18:26:03.516Z</updated>
+        <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">03:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[경기만평] 오염된건가...?!]]></title>
+        <id>https://v.daum.net/v/20241104030131058</id>
+        <link href="https://v.daum.net/v/20241104030131058"/>
+        <updated>2024-11-03T18:26:03.518Z</updated>
+        <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">03:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[정유신의 China Story]중국의 대대적 경기부양책, 대중수출 확대 기회로 삼아야]]></title>
         <id>https://v.daum.net/v/20241104020453987</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20241104003711530"/>
         <updated>2024-11-03T16:23:51.091Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:37</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[하현옥의 시선] 주주는 호구도 물주도 아니다]]></title>
-        <id>https://v.daum.net/v/20241104003635527</id>
-        <link href="https://v.daum.net/v/20241104003635527"/>
-        <updated>2024-11-03T16:23:51.091Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[장하석의 과학하는 마음] 잊혀진 전기의 맛]]></title>
-        <id>https://v.daum.net/v/20241104003555523</id>
-        <link href="https://v.daum.net/v/20241104003555523"/>
-        <updated>2024-11-03T16:23:51.092Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[살며 사랑하며] 문학적이라는 것]]></title>
-        <id>https://v.daum.net/v/20241104003543520</id>
-        <link href="https://v.daum.net/v/20241104003543520"/>
-        <updated>2024-11-03T16:23:51.093Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:35</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[국민논단] 정치 지도자와 운칠기삼]]></title>
-        <id>https://v.daum.net/v/20241104003411512</id>
-        <link href="https://v.daum.net/v/20241104003411512"/>
-        <updated>2024-11-03T16:23:51.094Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:34</span>]]></content>
     </entry>
 </feed>
