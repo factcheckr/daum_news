@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-11-03T09:20:07.155Z</updated>
+    <updated>2024-11-03T10:22:06.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] Global Spotlight on International Aquarium Conference]]></title>
+        <id>https://v.daum.net/v/20241103185547749</id>
+        <link href="https://v.daum.net/v/20241103185547749"/>
+        <updated>2024-11-03T10:21:57.078Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">18:55</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CRH, 루마니아 시멘트 공장의 전력 공급을 위한 풍력발전단지 개발]]></title>
         <id>https://v.daum.net/v/20241103115704761</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20241103111706194</id>
         <link href="https://v.daum.net/v/20241103111706194"/>
         <updated>2024-11-03T02:59:35.702Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">11:17</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[람다테스트, AI 기반 테스트 매니저에 새로운 기능 도입으로 테스트 관리 간소화]]></title>
-        <id>https://v.daum.net/v/20241103111703190</id>
-        <link href="https://v.daum.net/v/20241103111703190"/>
-        <updated>2024-11-03T02:59:35.705Z</updated>
         <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">11:17</span>]]></content>
     </entry>
 </feed>
