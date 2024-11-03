@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-11-03T21:19:21.712Z</updated>
+    <updated>2024-11-03T22:19:55.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주가 소송에 여혐 논란까지…네이버웹툰 김준구 위기 관리 시험대]]></title>
+        <id>https://v.daum.net/v/20241104070143395</id>
+        <link href="https://v.daum.net/v/20241104070143395"/>
+        <updated>2024-11-03T22:19:32.998Z</updated>
+        <content type="html"><![CDATA[일간스포츠<span class="txt_bar"> · </span><span class="info_time">07:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["실사 융합으로 가상콘텐츠 품질 UP…현실 연동 메타버스 보상"]]></title>
+        <id>https://v.daum.net/v/20241104062143634</id>
+        <link href="https://v.daum.net/v/20241104062143634"/>
+        <updated>2024-11-03T22:19:33.004Z</updated>
+        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">06:21</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["물량 곧 소진됩니다"…과열된 위고비 마케팅전에 커지는 오남용 우려]]></title>
         <id>https://v.daum.net/v/20241104061746592</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241104055744163"/>
         <updated>2024-11-03T21:18:56.041Z</updated>
         <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">05:57</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스마일게이트, '이프선셋' 스팀 출시… 무인도에서 좀비와 싸워]]></title>
-        <id>https://v.daum.net/v/20241104055249108</id>
-        <link href="https://v.daum.net/v/20241104055249108"/>
-        <updated>2024-11-03T21:18:56.042Z</updated>
-        <content type="html"><![CDATA[머니S<span class="txt_bar"> · </span><span class="info_time">05:52</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돈 먹는 하마에서 캐시카우로···AI 유료화 속도내는 IT 기업]]></title>
-        <id>https://v.daum.net/v/20241104053149892</id>
-        <link href="https://v.daum.net/v/20241104053149892"/>
-        <updated>2024-11-03T21:18:56.044Z</updated>
-        <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">05:31</span>]]></content>
     </entry>
 </feed>
