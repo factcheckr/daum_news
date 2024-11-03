@@ -2,11 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-11-03T10:22:06.026Z</updated>
+    <updated>2024-11-03T11:16:11.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[금 캐고 청바지도 팔고…AI, 돈되기 시작했다]]></title>
+        <title type="html"><![CDATA[“인기 없으면 화질 낮아도 되잖아”…돈 되는 것만 밀어주는 인스타그램]]></title>
+        <id>https://v.daum.net/v/20241103195701401</id>
+        <link href="https://v.daum.net/v/20241103195701401"/>
+        <updated>2024-11-03T11:15:49.935Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">19:57</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[240억㎞ 떨어진 ‘보이저 1호’ 다시 깨웠다]]></title>
+        <id>https://v.daum.net/v/20241103195447378</id>
+        <link href="https://v.daum.net/v/20241103195447378"/>
+        <updated>2024-11-03T11:15:49.937Z</updated>
+        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">19:54</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“결국 80% 파격 할인” 쏟아지는 ‘뭇매’…100만명 이탈 ‘사태’ 벌어지더니]]></title>
+        <id>https://v.daum.net/v/20241103194251261</id>
+        <link href="https://v.daum.net/v/20241103194251261"/>
+        <updated>2024-11-03T11:15:49.937Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">19:42</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美기술인재 주7일 일한다는데…주52시간 족쇄에 뒤쳐지는 韓반도체]]></title>
+        <id>https://v.daum.net/v/20241103192704105</id>
+        <link href="https://v.daum.net/v/20241103192704105"/>
+        <updated>2024-11-03T11:15:49.937Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">19:27</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세계서 가장 큰 뱀은 무엇? 길이·무게로 나눠 보니… [핵잼 사이언스]]]></title>
+        <id>https://v.daum.net/v/20241103192502084</id>
+        <link href="https://v.daum.net/v/20241103192502084"/>
+        <updated>2024-11-03T11:15:49.937Z</updated>
+        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">19:25</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[기획] 빅테크, 클라우드로 AI투자 감잡았다]]></title>
         <id>https://v.daum.net/v/20241103190038797</id>
         <link href="https://v.daum.net/v/20241103190038797"/>
         <updated>2024-11-03T10:21:36.333Z</updated>
@@ -74,40 +109,5 @@
         <link href="https://v.daum.net/v/20241103180447092"/>
         <updated>2024-11-03T09:19:41.023Z</updated>
         <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">18:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KT, 6G시대 대비 앞장선다… KT SAT·KAI와 업무협약]]></title>
-        <id>https://v.daum.net/v/20241103180438090</id>
-        <link href="https://v.daum.net/v/20241103180438090"/>
-        <updated>2024-11-03T09:19:41.025Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">18:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최태원 회장 ‘롤드컵 V5’ T1에 축전]]></title>
-        <id>https://v.daum.net/v/20241103180435089</id>
-        <link href="https://v.daum.net/v/20241103180435089"/>
-        <updated>2024-11-03T09:19:41.025Z</updated>
-        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">18:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OLED 패치 붙이면 모발 쑥쑥…웨어러블 전자약 개발 첫사례]]></title>
-        <id>https://v.daum.net/v/20241103180405081</id>
-        <link href="https://v.daum.net/v/20241103180405081"/>
-        <updated>2024-11-03T09:19:41.026Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">18:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MS·메타 등 4社 'AI 쩐의 전쟁' 내년에도 계속]]></title>
-        <id>https://v.daum.net/v/20241103180405080</id>
-        <link href="https://v.daum.net/v/20241103180405080"/>
-        <updated>2024-11-03T09:19:41.027Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">18:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시지바이오, 대만 진출…'칼슘 필러' 중화권 공략 속도]]></title>
-        <id>https://v.daum.net/v/20241103180304058</id>
-        <link href="https://v.daum.net/v/20241103180304058"/>
-        <updated>2024-11-03T09:19:41.028Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">18:03</span>]]></content>
     </entry>
 </feed>
