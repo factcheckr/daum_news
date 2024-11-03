@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-11-03T16:24:08.188Z</updated>
+    <updated>2024-11-03T17:16:34.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정유신의 China Story]중국의 대대적 경기부양책, 대중수출 확대 기회로 삼아야]]></title>
+        <id>https://v.daum.net/v/20241104020453987</id>
+        <link href="https://v.daum.net/v/20241104020453987"/>
+        <updated>2024-11-03T17:16:17.466Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:04</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 中의 전격적 단기 비자 면제… 양국 관계 개선 기회로 삼길]]></title>
         <id>https://v.daum.net/v/20241104012247868</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241104003411512"/>
         <updated>2024-11-03T16:23:51.094Z</updated>
         <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:34</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정김경숙의 실리콘밸리노트] ‘보고’가 아닌 ‘토론’을 해요]]></title>
-        <id>https://v.daum.net/v/20241104003215503</id>
-        <link href="https://v.daum.net/v/20241104003215503"/>
-        <updated>2024-11-03T16:23:51.096Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:32</span>]]></content>
     </entry>
 </feed>
