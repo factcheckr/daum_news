@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-11-04T03:30:16.620Z</updated>
+    <updated>2024-11-04T04:23:09.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“노조간부와 친하다”...이런 말이 ‘사바사바’ 취업사기로 이어지는 한국 [기자24시]]]></title>
+        <id>https://v.daum.net/v/20241104131803181</id>
+        <link href="https://v.daum.net/v/20241104131803181"/>
+        <updated>2024-11-04T04:22:52.365Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">13:18</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尹 시정연설 불참과 비상식적 해명… 국민 자괴감 키운다[사설]]]></title>
         <id>https://v.daum.net/v/20241104114953257</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241104084501421"/>
         <updated>2024-11-04T01:24:10.815Z</updated>
         <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">08:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시시비비] 대박과 쪽박 사이에 선 '체코 원전']]></title>
-        <id>https://v.daum.net/v/20241104084155321</id>
-        <link href="https://v.daum.net/v/20241104084155321"/>
-        <updated>2024-11-04T01:24:10.816Z</updated>
-        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">08:41</span>]]></content>
     </entry>
 </feed>
