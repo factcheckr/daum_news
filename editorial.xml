@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-11-05T03:25:04.449Z</updated>
+    <updated>2024-11-05T04:23:36.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[데일리안 시사만평] 기로에 선 尹 대통령, 오는 7일 대국민 담화…'위기' vs '기회']]></title>
+        <id>https://v.daum.net/v/20241105124624862</id>
+        <link href="https://v.daum.net/v/20241105124624862"/>
+        <updated>2024-11-05T04:23:18.085Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">12:46</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[북-러 결탁 전, 러시아는 윤석열에게 경고했었다 [논썰]]]></title>
+        <id>https://v.daum.net/v/20241105122502503</id>
+        <link href="https://v.daum.net/v/20241105122502503"/>
+        <updated>2024-11-05T04:23:18.086Z</updated>
+        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">12:25</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尹 7일 담화, ‘김 여사 막후’ 논란 다시는 안 나오게 해야[사설]]]></title>
         <id>https://v.daum.net/v/20241105113917154</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241105092002886"/>
         <updated>2024-11-05T01:19:33.277Z</updated>
         <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">09:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[은퇴설계의 핵심은 연금... 인생의 후반기, 빈틈없이 준비하는 방법]]></title>
-        <id>https://v.daum.net/v/20241105085247925</id>
-        <link href="https://v.daum.net/v/20241105085247925"/>
-        <updated>2024-11-05T01:19:33.277Z</updated>
-        <content type="html"><![CDATA[베이비뉴스<span class="txt_bar"> · </span><span class="info_time">08:52</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제주의 명품 숲 ‘머체왓숲길’을 아시나요?]]></title>
-        <id>https://v.daum.net/v/20241105083329451</id>
-        <link href="https://v.daum.net/v/20241105083329451"/>
-        <updated>2024-11-05T01:19:33.277Z</updated>
-        <content type="html"><![CDATA[베이비뉴스<span class="txt_bar"> · </span><span class="info_time">08:33</span>]]></content>
     </entry>
 </feed>
