@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2024-11-06T18:25:31.466Z</updated>
+    <updated>2024-11-06T19:16:31.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[GS문화재단 공연장 초대수장에 박선희 전 국립심포니 대표]]></title>
+        <id>https://v.daum.net/v/20241107033744615</id>
+        <link href="https://v.daum.net/v/20241107033744615"/>
+        <updated>2024-11-06T19:15:50.470Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">03:37</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유니클로, ‘2024 겨울 유니클로 X 안야 힌드마치’ 컬렉션 출시]]></title>
+        <id>https://v.daum.net/v/20241107033251609</id>
+        <link href="https://v.daum.net/v/20241107033251609"/>
+        <updated>2024-11-06T19:15:50.472Z</updated>
+        <content type="html"><![CDATA[스포츠경향<span class="txt_bar"> · </span><span class="info_time">03:32</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[센트비, 앱 전면 개편 “직관적이고 사용자 친화적인 UI·UX 구현으로 비대면 해외송금 편의성 강화”]]></title>
         <id>https://v.daum.net/v/20241107031645562</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241107011201123"/>
         <updated>2024-11-06T16:23:22.285Z</updated>
         <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">01:12</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 운세] 11월 7일 목요일 (음력 10월 7일 /乙亥) 띠별 / 생년월일 운세]]></title>
-        <id>https://v.daum.net/v/20241107010110071</id>
-        <link href="https://v.daum.net/v/20241107010110071"/>
-        <updated>2024-11-06T16:23:22.288Z</updated>
-        <content type="html"><![CDATA[경기일보<span class="txt_bar"> · </span><span class="info_time">01:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[신간] 스님의 호흡법]]></title>
-        <id>https://v.daum.net/v/20241107010015067</id>
-        <link href="https://v.daum.net/v/20241107010015067"/>
-        <updated>2024-11-06T16:23:22.288Z</updated>
-        <content type="html"><![CDATA[뉴시스<span class="txt_bar"> · </span><span class="info_time">01:00</span>]]></content>
     </entry>
 </feed>
