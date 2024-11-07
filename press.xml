@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-11-07T09:19:57.453Z</updated>
+    <updated>2024-11-07T10:19:46.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 비바챔버앙상블 제6회 정기연주회 개최]]></title>
+        <id>https://v.daum.net/v/20241107184703361</id>
+        <link href="https://v.daum.net/v/20241107184703361"/>
+        <updated>2024-11-07T10:19:38.732Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">18:47</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] ADQ, 아부다비 파이낸스 위크의 헤드라인 파트너로 발표]]></title>
         <id>https://v.daum.net/v/20241107174447839</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241107164515555"/>
         <updated>2024-11-07T08:23:06.906Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">16:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최민호 세종시장, 공공비축미곡 첫 매입 현장 방문]]></title>
-        <id>https://v.daum.net/v/20241107164144435</id>
-        <link href="https://v.daum.net/v/20241107164144435"/>
-        <updated>2024-11-07T08:23:06.908Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:41</span>]]></content>
     </entry>
 </feed>
