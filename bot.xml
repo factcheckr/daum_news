@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-11-07T08:23:15.738Z</updated>
+    <updated>2024-11-07T09:19:57.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[테라사이언스, 30억원 유상증자...서진판지에 제3자배정]]></title>
+        <id>https://v.daum.net/v/20241107175049045</id>
+        <link href="https://v.daum.net/v/20241107175049045"/>
+        <updated>2024-11-07T09:19:56.828Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">17:50</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘의 날씨 - 오후 (2024년 11월 07일)]]></title>
+        <id>https://v.daum.net/v/20241107173307475</id>
+        <link href="https://v.daum.net/v/20241107173307475"/>
+        <updated>2024-11-07T09:19:56.829Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">17:33</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KS인더스트리, 10억원 3자배정 유상증자 결정]]></title>
         <id>https://v.daum.net/v/20241107171156720</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241107162149644"/>
         <updated>2024-11-07T08:23:15.126Z</updated>
         <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">16:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 만수동 만수 주공4단지 아파트 75㎡ 3억3000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20241107162042579</id>
-        <link href="https://v.daum.net/v/20241107162042579"/>
-        <updated>2024-11-07T08:23:15.128Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">16:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 당하동 검단 신안인스빌어반퍼스트 94㎡ 5억9000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20241107161548406</id>
-        <link href="https://v.daum.net/v/20241107161548406"/>
-        <updated>2024-11-07T07:17:49.870Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">16:15</span>]]></content>
     </entry>
 </feed>
