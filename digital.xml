@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-11-09T03:21:52.710Z</updated>
+    <updated>2024-11-09T04:21:11.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[페이스북, 한국인 정치성향까지 수집해 광고주에 넘겼다]]></title>
+        <id>https://v.daum.net/v/20241109131344007</id>
+        <link href="https://v.daum.net/v/20241109131344007"/>
+        <updated>2024-11-09T04:20:49.220Z</updated>
+        <content type="html"><![CDATA[미디어오늘<span class="txt_bar"> · </span><span class="info_time">13:13</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SWC2024 월드 파이널] 8강 1경기: H프로그 압살한 커리안 바오의 강력한 '한방']]></title>
+        <id>https://v.daum.net/v/20241109125400841</id>
+        <link href="https://v.daum.net/v/20241109125400841"/>
+        <updated>2024-11-09T04:20:49.223Z</updated>
+        <content type="html"><![CDATA[게임동아<span class="txt_bar"> · </span><span class="info_time">12:54</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“1만원→12만원, 이 정도 일줄은” 2년만에 12배…떼돈 벌었다]]></title>
+        <id>https://v.daum.net/v/20241109125248824</id>
+        <link href="https://v.daum.net/v/20241109125248824"/>
+        <updated>2024-11-09T04:20:49.223Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">12:52</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2억5천만 명 쓰는 챗GPT, 또 안되네?…샘 알트먼 "불편 끼쳐 죄송"]]></title>
+        <id>https://v.daum.net/v/20241109122848680</id>
+        <link href="https://v.daum.net/v/20241109122848680"/>
+        <updated>2024-11-09T04:20:49.224Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">12:28</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[SWC2024 월드 파이널] 뜨겁게 달아오른 도쿄 스미토모 빌딩 삼각광장]]></title>
         <id>https://v.daum.net/v/20241109121801628</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20241109113006213"/>
         <updated>2024-11-09T02:42:48.768Z</updated>
         <content type="html"><![CDATA[매경게임진<span class="txt_bar"> · </span><span class="info_time">11:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘글로벌 인디게임 제작 경진대회’ 시상식 개최…20개 작품 수상자 ‘한자리’]]></title>
-        <id>https://v.daum.net/v/20241109113003209</id>
-        <link href="https://v.daum.net/v/20241109113003209"/>
-        <updated>2024-11-09T02:42:48.769Z</updated>
-        <content type="html"><![CDATA[매경게임진<span class="txt_bar"> · </span><span class="info_time">11:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[챗 GPT 대규모 접속 장애 발생…오픈AI "원인 조사 중"]]></title>
-        <id>https://v.daum.net/v/20241109112034120</id>
-        <link href="https://v.daum.net/v/20241109112034120"/>
-        <updated>2024-11-09T02:42:48.771Z</updated>
-        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">11:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘챗GPT’ 접속장애로 1만9000여명 영향…한 시간 만에 복구]]></title>
-        <id>https://v.daum.net/v/20241109110833033</id>
-        <link href="https://v.daum.net/v/20241109110833033"/>
-        <updated>2024-11-09T02:42:48.772Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">11:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[챗GPT 접속 장애, 1시간 만에 복구…오픈AI "원인 조사 중" [종합]]]></title>
-        <id>https://v.daum.net/v/20241109110701019</id>
-        <link href="https://v.daum.net/v/20241109110701019"/>
-        <updated>2024-11-09T02:42:48.775Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">11:07</span>]]></content>
     </entry>
 </feed>
