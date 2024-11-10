@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-11-10T07:16:59.647Z</updated>
+    <updated>2024-11-10T08:21:22.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인천 주안동 주안역센트레빌아파트 47㎡ 3억3800만원... 역대 최고가]]></title>
+        <id>https://v.daum.net/v/20241110163040644</id>
+        <link href="https://v.daum.net/v/20241110163040644"/>
+        <updated>2024-11-10T08:21:21.768Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">16:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울 명일동 명일삼익그린2차 42㎡ 9억4000만원... 역대 최고가]]></title>
+        <id>https://v.daum.net/v/20241110162615576</id>
+        <link href="https://v.daum.net/v/20241110162615576"/>
+        <updated>2024-11-10T08:21:21.772Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">16:26</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울 자양동 자양더샵스타시티 100㎡ 18억5500만원... 역대 최고가]]></title>
+        <id>https://v.daum.net/v/20241110162038475</id>
+        <link href="https://v.daum.net/v/20241110162038475"/>
+        <updated>2024-11-10T08:21:21.776Z</updated>
+        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">16:20</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울 신천동 신천장미1차2차 155㎡ 32억원... 역대 최고가]]></title>
         <id>https://v.daum.net/v/20241110161544385</id>
@@ -88,26 +109,5 @@
         <link href="https://v.daum.net/v/20241110152039134"/>
         <updated>2024-11-10T06:24:20.079Z</updated>
         <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">15:20</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 청라동 청라힐데스하임 59㎡ 5억2900만원에 거래]]></title>
-        <id>https://v.daum.net/v/20241110151541022</id>
-        <link href="https://v.daum.net/v/20241110151541022"/>
-        <updated>2024-11-10T06:24:20.081Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">15:15</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 구월동 구월 힐스테이트&롯데캐슬골드 83㎡ 4억7000만원에 거래]]></title>
-        <id>https://v.daum.net/v/20241110151040940</id>
-        <link href="https://v.daum.net/v/20241110151040940"/>
-        <updated>2024-11-10T06:24:20.082Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">15:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 송도동 더샵송도마리나베이 84㎡ 6억5900만원에 거래]]></title>
-        <id>https://v.daum.net/v/20241110150539805</id>
-        <link href="https://v.daum.net/v/20241110150539805"/>
-        <updated>2024-11-10T06:24:20.084Z</updated>
-        <content type="html"><![CDATA[조선비즈<span class="txt_bar"> · </span><span class="info_time">15:05</span>]]></content>
     </entry>
 </feed>
