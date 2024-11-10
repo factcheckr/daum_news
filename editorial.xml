@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-11-10T22:17:05.620Z</updated>
+    <updated>2024-11-10T23:18:05.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["아동 성착취 범죄 방지 위한 온라인 안전 장치 만들자"]]></title>
+        <id>https://v.daum.net/v/20241111081544633</id>
+        <link href="https://v.daum.net/v/20241111081544633"/>
+        <updated>2024-11-10T23:17:50.936Z</updated>
+        <content type="html"><![CDATA[베이비뉴스<span class="txt_bar"> · </span><span class="info_time">08:15</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가려운 계절이 온다… 보습제·비누·선블럭 세가지 바꾸면 도움]]></title>
         <id>https://v.daum.net/v/20241111071529528</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241111053148166"/>
         <updated>2024-11-10T21:16:02.109Z</updated>
         <content type="html"><![CDATA[서울경제<span class="txt_bar"> · </span><span class="info_time">05:31</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Editorial] Remain cautious, proactive]]></title>
-        <id>https://v.daum.net/v/20241111053034147</id>
-        <link href="https://v.daum.net/v/20241111053034147"/>
-        <updated>2024-11-10T21:16:02.111Z</updated>
-        <content type="html"><![CDATA[코리아헤럴드<span class="txt_bar"> · </span><span class="info_time">05:30</span>]]></content>
     </entry>
 </feed>
