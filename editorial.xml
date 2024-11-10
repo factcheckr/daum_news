@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-11-10T18:23:37.864Z</updated>
+    <updated>2024-11-10T19:15:45.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[광화문]돌아선 민심, 돌아온 트럼프]]></title>
+        <id>https://v.daum.net/v/20241111035501502</id>
+        <link href="https://v.daum.net/v/20241111035501502"/>
+        <updated>2024-11-10T19:15:33.259Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">03:55</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[지지대] ‘아파트’ 열풍]]></title>
         <id>https://v.daum.net/v/20241111030125233</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241111011046890"/>
         <updated>2024-11-10T17:14:55.194Z</updated>
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">01:10</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한마당] 은둔의 영부인]]></title>
-        <id>https://v.daum.net/v/20241111004247720</id>
-        <link href="https://v.daum.net/v/20241111004247720"/>
-        <updated>2024-11-10T17:14:55.196Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:42</span>]]></content>
     </entry>
 </feed>
