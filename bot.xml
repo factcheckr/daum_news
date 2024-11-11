@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-11-11T07:18:57.638Z</updated>
+    <updated>2024-11-11T08:24:29.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빅텐츠, 주당 2.0주 무상증자 결정]]></title>
+        <id>https://v.daum.net/v/20241111161852089</id>
+        <link href="https://v.daum.net/v/20241111161852089"/>
+        <updated>2024-11-11T08:24:28.382Z</updated>
+        <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">16:18</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[피노 수주공시 - NCM 전구체 공급 계약 24.9억원 (매출액대비  35.79 %)]]></title>
         <id>https://v.daum.net/v/20241111153602278</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20241111091907573</id>
         <link href="https://v.daum.net/v/20241111091907573"/>
         <updated>2024-11-11T01:21:13.190Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:19</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['코엔텍' 52주 신고가 경신, 외국인 3일 연속 순매수(24.1만주)]]></title>
-        <id>https://v.daum.net/v/20241111091902569</id>
-        <link href="https://v.daum.net/v/20241111091902569"/>
-        <updated>2024-11-11T01:21:13.191Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">09:19</span>]]></content>
     </entry>
 </feed>
