@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-11-11T12:36:11.955Z</updated>
+    <updated>2024-11-11T13:25:07.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[국민만평-서민호 화백] 2024년 11월 12일]]></title>
+        <id>https://v.daum.net/v/20241111221744911</id>
+        <link href="https://v.daum.net/v/20241111221744911"/>
+        <updated>2024-11-11T13:24:53.606Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">22:17</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024년 11월 12일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20241111221513899</id>
+        <link href="https://v.daum.net/v/20241111221513899"/>
+        <updated>2024-11-11T13:24:53.608Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:15</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[만물상] 비만 기준 변화]]></title>
         <id>https://v.daum.net/v/20241111210610248</id>
@@ -55,7 +69,7 @@
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:13</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[이선의 인물과 식물]유박(花品)과 화품(柳璞)]]></title>
+        <title type="html"><![CDATA[[이선의 인물과 식물]유박(柳璞)과 화품(花品)]]></title>
         <id>https://v.daum.net/v/20241111201322463</id>
         <link href="https://v.daum.net/v/20241111201322463"/>
         <updated>2024-11-11T11:15:38.643Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241111194726066"/>
         <updated>2024-11-11T11:15:38.649Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What to do to build a ‘bromance’ with Trump]]></title>
-        <id>https://v.daum.net/v/20241111194606047</id>
-        <link href="https://v.daum.net/v/20241111194606047"/>
-        <updated>2024-11-11T11:15:38.650Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:46</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11월 12일 한겨레 그림판]]></title>
-        <id>https://v.daum.net/v/20241111194513034</id>
-        <link href="https://v.daum.net/v/20241111194513034"/>
-        <updated>2024-11-11T11:15:38.652Z</updated>
-        <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">19:45</span>]]></content>
     </entry>
 </feed>
