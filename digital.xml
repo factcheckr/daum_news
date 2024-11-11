@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-11-11T13:25:07.068Z</updated>
+    <updated>2024-11-11T14:18:58.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[카카오, 개인정보 유출 과징금 부과에 행정소송 제기]]></title>
+        <id>https://v.daum.net/v/20241111230449250</id>
+        <link href="https://v.daum.net/v/20241111230449250"/>
+        <updated>2024-11-11T14:18:36.022Z</updated>
+        <content type="html"><![CDATA[파이낸셜뉴스<span class="txt_bar"> · </span><span class="info_time">23:04</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KT “최선 다하고 만나요”…수험생 특별한 멤버십 혜택 공개[포토뉴스]]]></title>
+        <id>https://v.daum.net/v/20241111224811124</id>
+        <link href="https://v.daum.net/v/20241111224811124"/>
+        <updated>2024-11-11T14:18:36.025Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:48</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인공지능 자율 제조 프로젝트…‘후발 주자’ 전북의 도전장은]]></title>
         <id>https://v.daum.net/v/20241111215620705</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241111204343945"/>
         <updated>2024-11-11T12:35:50.201Z</updated>
         <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">20:43</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원자력연, 전자선 이용 하·폐수처리기술 국제워크숍 개최]]></title>
-        <id>https://v.daum.net/v/20241111203847884</id>
-        <link href="https://v.daum.net/v/20241111203847884"/>
-        <updated>2024-11-11T12:35:50.203Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">20:38</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KISTI, 국가 슈퍼컴퓨터 6호기 사전규격 공개 개시]]></title>
-        <id>https://v.daum.net/v/20241111203544836</id>
-        <link href="https://v.daum.net/v/20241111203544836"/>
-        <updated>2024-11-11T12:35:50.204Z</updated>
-        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">20:35</span>]]></content>
     </entry>
 </feed>
