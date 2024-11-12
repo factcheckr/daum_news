@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-11-12T11:16:06.455Z</updated>
+    <updated>2024-11-12T12:36:54.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 오이좀, 폴루센스 출시를 통해 공기 질 모니터링의 새로운 표준 수립]]></title>
+        <id>https://v.daum.net/v/20241112204344089</id>
+        <link href="https://v.daum.net/v/20241112204344089"/>
+        <updated>2024-11-12T12:36:42.454Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:43</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 애드낙 가스, 강력한 3분기 실적 달성]]></title>
+        <id>https://v.daum.net/v/20241112201648703</id>
+        <link href="https://v.daum.net/v/20241112201648703"/>
+        <updated>2024-11-12T12:36:42.456Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:16</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PRNewswire] COP28 의장, 당사국의 UAE 협약 추진 및 이행 촉구]]></title>
         <id>https://v.daum.net/v/20241112200948625</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241112164725337"/>
         <updated>2024-11-12T08:24:00.000Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 쿠시먼앤드웨이크필드, 서울 오피스 시장 보고서 발표]]></title>
-        <id>https://v.daum.net/v/20241112164702325</id>
-        <link href="https://v.daum.net/v/20241112164702325"/>
-        <updated>2024-11-12T08:24:00.002Z</updated>
-        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">16:47</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PRNewswire] OCI Global Q3 2024 Trading Update]]></title>
-        <id>https://v.daum.net/v/20241112164543278</id>
-        <link href="https://v.daum.net/v/20241112164543278"/>
-        <updated>2024-11-12T08:24:00.003Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:45</span>]]></content>
     </entry>
 </feed>
