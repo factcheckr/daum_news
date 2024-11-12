@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-11-12T10:20:13.754Z</updated>
+    <updated>2024-11-12T11:16:06.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] COP28 의장, 당사국의 UAE 협약 추진 및 이행 촉구]]></title>
+        <id>https://v.daum.net/v/20241112200948625</id>
+        <link href="https://v.daum.net/v/20241112200948625"/>
+        <updated>2024-11-12T11:15:58.615Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">20:09</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[AsiaNet] Side event held at 12th World Urban Forum]]></title>
         <id>https://v.daum.net/v/20241112175818732</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241112164543278"/>
         <updated>2024-11-12T08:24:00.003Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:45</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부산진구, 동의대에 청년 창업·주거 복합 공간 개소]]></title>
-        <id>https://v.daum.net/v/20241112164037095</id>
-        <link href="https://v.daum.net/v/20241112164037095"/>
-        <updated>2024-11-12T08:24:00.005Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:40</span>]]></content>
     </entry>
 </feed>
