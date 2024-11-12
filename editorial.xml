@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-11-12T12:36:54.273Z</updated>
+    <updated>2024-11-12T13:25:38.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[국민만평-서민호 화백] 2024년 11월 13일]]></title>
+        <id>https://v.daum.net/v/20241112221848394</id>
+        <link href="https://v.daum.net/v/20241112221848394"/>
+        <updated>2024-11-12T13:25:25.668Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">22:18</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 11월 13일[김용민의 그림마당]]]></title>
         <id>https://v.daum.net/v/20241112213450816</id>
@@ -101,13 +108,6 @@
         <id>https://v.daum.net/v/20241112195151289</id>
         <link href="https://v.daum.net/v/20241112195151289"/>
         <updated>2024-11-12T11:15:51.731Z</updated>
-        <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">19:51</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[도청도설] 농단과 도움 사이]]></title>
-        <id>https://v.daum.net/v/20241112195149288</id>
-        <link href="https://v.daum.net/v/20241112195149288"/>
-        <updated>2024-11-12T11:15:51.732Z</updated>
         <content type="html"><![CDATA[국제신문<span class="txt_bar"> · </span><span class="info_time">19:51</span>]]></content>
     </entry>
 </feed>
