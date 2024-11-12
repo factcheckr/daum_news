@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-11-12T16:24:18.769Z</updated>
+    <updated>2024-11-12T17:22:50.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[투데이 窓]아침드라마가 깨운 일본 '대법관 국민심사제']]></title>
+        <id>https://v.daum.net/v/20241113020651028</id>
+        <link href="https://v.daum.net/v/20241113020651028"/>
+        <updated>2024-11-12T17:22:36.738Z</updated>
+        <content type="html"><![CDATA[머니투데이<span class="txt_bar"> · </span><span class="info_time">02:06</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사설] 한국 방위산업에 손 내미는 美… 경쟁력 강화 기회 삼아야]]></title>
+        <id>https://v.daum.net/v/20241113013248899</id>
+        <link href="https://v.daum.net/v/20241113013248899"/>
+        <updated>2024-11-12T17:22:36.738Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">01:32</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사설] 트럼프 랠리에 소외된 韓 증시, 비상등 켜진 한국경제]]></title>
         <id>https://v.daum.net/v/20241113012212847</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241113004457653"/>
         <updated>2024-11-12T16:24:04.374Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:44</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이은혜의 마음 읽기] 감정이 흘러넘치는 이곳, 이 세대]]></title>
-        <id>https://v.daum.net/v/20241113004407651</id>
-        <link href="https://v.daum.net/v/20241113004407651"/>
-        <updated>2024-11-12T16:24:04.375Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">00:44</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한마당] 엘살바도르의 비트코인 도박]]></title>
-        <id>https://v.daum.net/v/20241113004212641</id>
-        <link href="https://v.daum.net/v/20241113004212641"/>
-        <updated>2024-11-12T16:24:04.377Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">00:42</span>]]></content>
     </entry>
 </feed>
