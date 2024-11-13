@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-11-13T12:35:58.198Z</updated>
+    <updated>2024-11-13T13:26:08.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024년 11월 14일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20241113214006140</id>
+        <link href="https://v.daum.net/v/20241113214006140"/>
+        <updated>2024-11-13T13:25:52.899Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">21:40</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[만물상] “남녀 공학 안 할래요”]]></title>
         <id>https://v.daum.net/v/20241113211857778</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241113200314396"/>
         <updated>2024-11-13T11:16:25.333Z</updated>
         <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기고]윤석열 정부를 시험하는 김정은]]></title>
-        <id>https://v.daum.net/v/20241113200256379</id>
-        <link href="https://v.daum.net/v/20241113200256379"/>
-        <updated>2024-11-13T11:16:25.334Z</updated>
-        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">20:02</span>]]></content>
     </entry>
 </feed>
