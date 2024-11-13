@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/politics</id>
     <title>다음 뉴스 ─ 전체기사 ─ 정치</title>
-    <updated>2024-11-13T18:25:02.083Z</updated>
+    <updated>2024-11-13T19:15:57.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주한 중국대사에 다이빙 유엔주재 부대사]]></title>
+        <id>https://v.daum.net/v/20241114040047142</id>
+        <link href="https://v.daum.net/v/20241114040047142"/>
+        <updated>2024-11-13T19:14:55.084Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">04:00</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘탱크킬러’ 주한미군 공격기 퇴역… 전력은 이상무]]></title>
+        <id>https://v.daum.net/v/20241114035451124</id>
+        <link href="https://v.daum.net/v/20241114035451124"/>
+        <updated>2024-11-13T19:14:55.084Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">03:54</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤 대통령, 오늘부터 남미 순방..."APEC·G20 다자회의 참석"]]></title>
         <id>https://v.daum.net/v/20241114031205065</id>
@@ -20,7 +34,7 @@
         <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">03:12</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[예금보호 5000만원 →1억원… 23년만에 확대]]></title>
+        <title type="html"><![CDATA[예금보호 5000만원→1억원… 23년만에 확대]]></title>
         <id>https://v.daum.net/v/20241114030548003</id>
         <link href="https://v.daum.net/v/20241114030548003"/>
         <updated>2024-11-13T18:24:05.236Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241114023607899"/>
         <updated>2024-11-13T18:24:05.257Z</updated>
         <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">02:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한·미·일 정상, 15일 페루서 북·러 군사협력 강력 규탄]]></title>
-        <id>https://v.daum.net/v/20241114023342888</id>
-        <link href="https://v.daum.net/v/20241114023342888"/>
-        <updated>2024-11-13T18:24:05.258Z</updated>
-        <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">02:33</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尹대통령-美바이든-日이시바, 15일 페루서 3자 정상회의]]></title>
-        <id>https://v.daum.net/v/20241114023300885</id>
-        <link href="https://v.daum.net/v/20241114023300885"/>
-        <updated>2024-11-13T18:24:05.259Z</updated>
-        <content type="html"><![CDATA[노컷뉴스<span class="txt_bar"> · </span><span class="info_time">02:33</span>]]></content>
     </entry>
 </feed>
