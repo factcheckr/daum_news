@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2024-11-14T16:24:33.853Z</updated>
+    <updated>2024-11-14T17:18:20.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["이제 못 참겠는데" 채림, 전 남편 루머에 '허위사실' 분노]]></title>
+        <id>https://v.daum.net/v/20241115020411998</id>
+        <link href="https://v.daum.net/v/20241115020411998"/>
+        <updated>2024-11-14T17:17:36.026Z</updated>
+        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">02:04</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오늘의 운세] 11월 15일 금요일 (음력 10월 15일 /癸未) 띠별 / 생년월일 운세]]></title>
         <id>https://v.daum.net/v/20241115010135552</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241115000305867"/>
         <updated>2024-11-14T15:19:48.033Z</updated>
         <content type="html"><![CDATA[더팩트<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 운세] 2024년 11월 15일 별자리 운세]]></title>
-        <id>https://v.daum.net/v/20241115000301862</id>
-        <link href="https://v.daum.net/v/20241115000301862"/>
-        <updated>2024-11-14T15:19:48.035Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
     </entry>
 </feed>
