@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-11-14T12:37:00.378Z</updated>
+    <updated>2024-11-14T13:26:55.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024년 11월 15일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20241114221534614</id>
+        <link href="https://v.daum.net/v/20241114221534614"/>
+        <updated>2024-11-14T13:26:42.494Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">22:15</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새로운 옛것이 새롭지 않을 때 [삶과 문화]]]></title>
+        <id>https://v.daum.net/v/20241114220143403</id>
+        <link href="https://v.daum.net/v/20241114220143403"/>
+        <updated>2024-11-14T13:26:42.497Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">22:01</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[만물상] 美 장군 숙청]]></title>
         <id>https://v.daum.net/v/20241114204912321</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241114195819355"/>
         <updated>2024-11-14T11:16:25.285Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:58</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump is not liable for our own problems]]></title>
-        <id>https://v.daum.net/v/20241114195608309</id>
-        <link href="https://v.daum.net/v/20241114195608309"/>
-        <updated>2024-11-14T11:16:25.286Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:56</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Time to set up a ‘Ukraine response center’]]></title>
-        <id>https://v.daum.net/v/20241114195436273</id>
-        <link href="https://v.daum.net/v/20241114195436273"/>
-        <updated>2024-11-14T11:16:25.286Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:54</span>]]></content>
     </entry>
 </feed>
