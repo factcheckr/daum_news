@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-11-15T16:24:28.469Z</updated>
+    <updated>2024-11-15T17:17:47.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사설] 李 피선거권 박탈형… 법원 판단 존중해야]]></title>
+        <id>https://v.daum.net/v/20241116013252444</id>
+        <link href="https://v.daum.net/v/20241116013252444"/>
+        <updated>2024-11-15T17:17:34.851Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">01:32</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[한마당] 영 마가]]></title>
         <id>https://v.daum.net/v/20241116004252165</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241116001901030"/>
         <updated>2024-11-15T15:20:46.482Z</updated>
         <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:19</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[ON 선데이] 또 한 번 수능은 가고]]></title>
-        <id>https://v.daum.net/v/20241116001824027</id>
-        <link href="https://v.daum.net/v/20241116001824027"/>
-        <updated>2024-11-15T15:20:46.484Z</updated>
-        <content type="html"><![CDATA[중앙SUNDAY<span class="txt_bar"> · </span><span class="info_time">00:18</span>]]></content>
     </entry>
 </feed>
