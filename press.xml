@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-11-15T09:20:38.244Z</updated>
+    <updated>2024-11-15T10:21:24.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삼성전자, 10조원 규모 자사주 매입 결정]]></title>
+        <id>https://v.daum.net/v/20241115183702628</id>
+        <link href="https://v.daum.net/v/20241115183702628"/>
+        <updated>2024-11-15T10:21:16.854Z</updated>
+        <content type="html"><![CDATA[뉴스와이어<span class="txt_bar"> · </span><span class="info_time">18:37</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[몰렉스, SAP 솔루션으로 지능형 공급망 협업 추진]]></title>
         <id>https://v.daum.net/v/20241115180706976</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241115163619435"/>
         <updated>2024-11-15T08:24:40.962Z</updated>
         <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">16:36</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[명지대학교, 한국SMC㈜ · 삼원&로댕코리아와 MOU 체결]]></title>
-        <id>https://v.daum.net/v/20241115163336368</id>
-        <link href="https://v.daum.net/v/20241115163336368"/>
-        <updated>2024-11-15T08:24:40.963Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">16:33</span>]]></content>
     </entry>
 </feed>
