@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-11-15T19:15:57.918Z</updated>
+    <updated>2024-11-15T20:21:40.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[애플에 대한 '갑질 대응' 입법도 해야 하나? [초선의원이 말한다]]]></title>
+        <id>https://v.daum.net/v/20241116043049058</id>
+        <link href="https://v.daum.net/v/20241116043049058"/>
+        <updated>2024-11-15T20:21:27.050Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[명품 커피에도 호우시절은 있다 [休·味·樂(휴·미·락)]]]></title>
+        <id>https://v.daum.net/v/20241116043031052</id>
+        <link href="https://v.daum.net/v/20241116043031052"/>
+        <updated>2024-11-15T20:21:27.050Z</updated>
+        <content type="html"><![CDATA[한국일보<span class="txt_bar"> · </span><span class="info_time">04:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Top 5 베이비뉴스] 아이들에게 참 부끄러운 세상... 정책보다 중요한 것은?]]></title>
         <id>https://v.daum.net/v/20241116031943859</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241116002226051"/>
         <updated>2024-11-15T16:24:14.835Z</updated>
         <content type="html"><![CDATA[중앙SUNDAY<span class="txt_bar"> · </span><span class="info_time">00:22</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사설] 특별감찰관, 늦었지만 임명해서 더 이상 문제없게 해야]]></title>
-        <id>https://v.daum.net/v/20241116002124045</id>
-        <link href="https://v.daum.net/v/20241116002124045"/>
-        <updated>2024-11-15T16:24:14.837Z</updated>
-        <content type="html"><![CDATA[조선일보<span class="txt_bar"> · </span><span class="info_time">00:21</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[토요칼럼] 北 오물 풍선이 두려운 이유]]></title>
-        <id>https://v.daum.net/v/20241116002101044</id>
-        <link href="https://v.daum.net/v/20241116002101044"/>
-        <updated>2024-11-15T16:24:14.838Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">00:21</span>]]></content>
     </entry>
 </feed>
