@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-11-16T09:18:38.145Z</updated>
+    <updated>2024-11-16T10:19:17.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[넷마블 신작 '세븐나이츠 리버스' 내년 상반기 출시]]></title>
+        <id>https://v.daum.net/v/20241116190100290</id>
+        <link href="https://v.daum.net/v/20241116190100290"/>
+        <updated>2024-11-16T10:18:55.543Z</updated>
+        <content type="html"><![CDATA[뉴스1<span class="txt_bar"> · </span><span class="info_time">19:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“야구 돈 내고 보라니, 다들 욕했는데”…국대 경기마저 ‘유료’ 어쩌나]]></title>
+        <id>https://v.daum.net/v/20241116184150071</id>
+        <link href="https://v.daum.net/v/20241116184150071"/>
+        <updated>2024-11-16T10:18:55.543Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">18:41</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[지스타 2024] 푸린·릴카도 즐겼다...하이브IM ‘아키텍트’ 시선집중]]></title>
+        <id>https://v.daum.net/v/20241116184040057</id>
+        <link href="https://v.daum.net/v/20241116184040057"/>
+        <updated>2024-11-16T10:18:55.543Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">18:40</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[게이머 울린 넥슨 30주년 오케스트라, “추억 선물해줘서 고마워요”]]></title>
+        <id>https://v.daum.net/v/20241116183008968</id>
+        <link href="https://v.daum.net/v/20241116183008968"/>
+        <updated>2024-11-16T10:18:55.544Z</updated>
+        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">18:30</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[지스타 2024] 이세돌 멤버 고세구, 넷마블 ‘몬길’ 시연 즐겨]]></title>
         <id>https://v.daum.net/v/20241116181605787</id>
@@ -81,33 +109,5 @@
         <link href="https://v.daum.net/v/20241116171600808"/>
         <updated>2024-11-16T08:22:50.624Z</updated>
         <content type="html"><![CDATA[이데일리<span class="txt_bar"> · </span><span class="info_time">17:16</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[지스타 2024] 30주년 맞은 넥슨, 67인조 풀밴드 오케스트라 공연 선보여]]></title>
-        <id>https://v.daum.net/v/20241116170759666</id>
-        <link href="https://v.daum.net/v/20241116170759666"/>
-        <updated>2024-11-16T08:22:50.626Z</updated>
-        <content type="html"><![CDATA[아이뉴스24<span class="txt_bar"> · </span><span class="info_time">17:07</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[지스타 2024] 하이브IM, 인기 연예인 김종국과 신작 ‘아키텍트’ 특별 무대 진행]]></title>
-        <id>https://v.daum.net/v/20241116170600640</id>
-        <link href="https://v.daum.net/v/20241116170600640"/>
-        <updated>2024-11-16T08:22:50.626Z</updated>
-        <content type="html"><![CDATA[매경게임진<span class="txt_bar"> · </span><span class="info_time">17:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[지스타 2024] 하이브IM 신작 ‘아키텍트’, 현장 관람객에게 눈도장]]></title>
-        <id>https://v.daum.net/v/20241116165703360</id>
-        <link href="https://v.daum.net/v/20241116165703360"/>
-        <updated>2024-11-16T08:22:50.627Z</updated>
-        <content type="html"><![CDATA[매경게임진<span class="txt_bar"> · </span><span class="info_time">16:57</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[해봄] 하이브IM ‘아키텍트’, 당장 출시해도 OK]]></title>
-        <id>https://v.daum.net/v/20241116165343302</id>
-        <link href="https://v.daum.net/v/20241116165343302"/>
-        <updated>2024-11-16T08:22:50.627Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">16:53</span>]]></content>
     </entry>
 </feed>
