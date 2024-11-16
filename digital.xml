@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-11-16T12:34:55.342Z</updated>
+    <updated>2024-11-16T13:24:22.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[설마했는데…“5만원도 아니고, 5천원” 다이소 ‘품절 대란’ 터졌다?]]></title>
+        <id>https://v.daum.net/v/20241116214148028</id>
+        <link href="https://v.daum.net/v/20241116214148028"/>
+        <updated>2024-11-16T13:24:02.343Z</updated>
+        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">21:41</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“이젠 아이폰만 믿다가는 망한다”…애플이 눈독들이는 이 시장]]></title>
+        <id>https://v.daum.net/v/20241116213600964</id>
+        <link href="https://v.daum.net/v/20241116213600964"/>
+        <updated>2024-11-16T13:24:02.343Z</updated>
+        <content type="html"><![CDATA[매일경제<span class="txt_bar"> · </span><span class="info_time">21:36</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["넥슨과 함께한 추억 뿌듯"…기립박수 터져나온 넥슨 오케스트라]]></title>
         <id>https://v.daum.net/v/20241116213016898</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241116181146702"/>
         <updated>2024-11-16T09:18:17.381Z</updated>
         <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">18:11</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국, 2028년 달 상공에 휴머노이드 로봇 날린다[아하! 우주]]]></title>
-        <id>https://v.daum.net/v/20241116180654628</id>
-        <link href="https://v.daum.net/v/20241116180654628"/>
-        <updated>2024-11-16T09:18:17.382Z</updated>
-        <content type="html"><![CDATA[서울신문<span class="txt_bar"> · </span><span class="info_time">18:06</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[지스타 2024] “나혼렙 경기 볼래?”...주말에도 넷마블 즐길거리 ‘풍성’]]></title>
-        <id>https://v.daum.net/v/20241116175754487</id>
-        <link href="https://v.daum.net/v/20241116175754487"/>
-        <updated>2024-11-16T09:18:17.382Z</updated>
-        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">17:57</span>]]></content>
     </entry>
 </feed>
