@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2024-11-16T16:22:49.365Z</updated>
+    <updated>2024-11-16T17:16:24.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘 날씨] 기온 '뚝' 겨울 한파 시작·강원 눈…즐겨먹는 '아아', 수족냉증엔 독?]]></title>
+        <id>https://v.daum.net/v/20241117014540499</id>
+        <link href="https://v.daum.net/v/20241117014540499"/>
+        <updated>2024-11-16T17:15:43.425Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">01:45</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오늘의 운세] 11월 17일 일요일 (음력 10월 17일 /乙酉) 띠별 / 생년월일 운세]]></title>
         <id>https://v.daum.net/v/20241117010110426</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241117000101220"/>
         <updated>2024-11-16T15:18:41.131Z</updated>
         <content type="html"><![CDATA[bnt뉴스<span class="txt_bar"> · </span><span class="info_time">00:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남은 한해를 특별하게 만들어줄 11월의 라이프스타일 뉴스]]></title>
-        <id>https://v.daum.net/v/20241117000055217</id>
-        <link href="https://v.daum.net/v/20241117000055217"/>
-        <updated>2024-11-16T15:18:41.132Z</updated>
-        <content type="html"><![CDATA[코스모폴리탄<span class="txt_bar"> · </span><span class="info_time">00:00</span>]]></content>
     </entry>
 </feed>
