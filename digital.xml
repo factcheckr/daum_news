@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/digital</id>
     <title>다음 뉴스 ─ 전체기사 ─ IT</title>
-    <updated>2024-11-16T11:15:06.166Z</updated>
+    <updated>2024-11-16T12:34:55.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["넥슨과 함께한 추억 뿌듯"…기립박수 터져나온 넥슨 오케스트라]]></title>
+        <id>https://v.daum.net/v/20241116213016898</id>
+        <link href="https://v.daum.net/v/20241116213016898"/>
+        <updated>2024-11-16T12:34:34.588Z</updated>
+        <content type="html"><![CDATA[지디넷코리아<span class="txt_bar"> · </span><span class="info_time">21:30</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRM 글로벌 1위 세일즈포스, DB 오류로 9시간 서비스 중단]]></title>
+        <id>https://v.daum.net/v/20241116205503506</id>
+        <link href="https://v.daum.net/v/20241116205503506"/>
+        <updated>2024-11-16T12:34:34.589Z</updated>
+        <content type="html"><![CDATA[전자신문<span class="txt_bar"> · </span><span class="info_time">20:55</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넷마블, 신작 '세븐나이츠 리버스' 첫 공개…원작 '세븐 나이츠' 감성+최신 트렌드 조화]]></title>
         <id>https://v.daum.net/v/20241116194259672</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241116175754487"/>
         <updated>2024-11-16T09:18:17.382Z</updated>
         <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">17:57</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“굶겨 죽일 셈?” 바글바글 비둘기…보기 싫다고, 이렇게까지 [지구, 뭐래?]]]></title>
-        <id>https://v.daum.net/v/20241116175351427</id>
-        <link href="https://v.daum.net/v/20241116175351427"/>
-        <updated>2024-11-16T09:18:17.383Z</updated>
-        <content type="html"><![CDATA[헤럴드경제<span class="txt_bar"> · </span><span class="info_time">17:53</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["피가 거꾸로 솟을 판"…'165만' 유튜버 분노한 '영상' 정체 [김소연의 엔터비즈]]]></title>
-        <id>https://v.daum.net/v/20241116174901367</id>
-        <link href="https://v.daum.net/v/20241116174901367"/>
-        <updated>2024-11-16T09:18:17.384Z</updated>
-        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">17:49</span>]]></content>
     </entry>
 </feed>
