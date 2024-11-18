@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/press</id>
     <title>다음 뉴스 ─ 전체기사 ─ 보도자료</title>
-    <updated>2024-11-18T08:29:51.321Z</updated>
+    <updated>2024-11-18T09:22:08.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 렌징 부직포, LENZING ™ Lyocell Dry 섬유 포트폴리오 확장]]></title>
+        <id>https://v.daum.net/v/20241118175343171</id>
+        <link href="https://v.daum.net/v/20241118175343171"/>
+        <updated>2024-11-18T09:22:01.358Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:53</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PRNewswire] 짐 톰슨, 원 방콕에 첫 번째 라이프스타일 스토어 개장]]></title>
+        <id>https://v.daum.net/v/20241118174400895</id>
+        <link href="https://v.daum.net/v/20241118174400895"/>
+        <updated>2024-11-18T09:22:01.359Z</updated>
+        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">17:44</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[증평군, 군민 체감 생활밀착형 사업 발굴로 '내일의 도시 증평' 구현]]></title>
         <id>https://v.daum.net/v/20241118171553958</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241118165204994"/>
         <updated>2024-11-18T08:29:14.475Z</updated>
         <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:52</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제천시, 공직기강 확립 및 조직문화 쇄신]]></title>
-        <id>https://v.daum.net/v/20241118164650779</id>
-        <link href="https://v.daum.net/v/20241118164650779"/>
-        <updated>2024-11-18T08:29:14.476Z</updated>
-        <content type="html"><![CDATA[연합뉴스 보도자료<span class="txt_bar"> · </span><span class="info_time">16:46</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[덕성여대, ‘도봉구 기후지킬 앰배서더’ 최종보고회 개최]]></title>
-        <id>https://v.daum.net/v/20241118164525732</id>
-        <link href="https://v.daum.net/v/20241118164525732"/>
-        <updated>2024-11-18T08:29:14.477Z</updated>
-        <content type="html"><![CDATA[중앙일보<span class="txt_bar"> · </span><span class="info_time">16:45</span>]]></content>
     </entry>
 </feed>
