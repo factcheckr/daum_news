@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/botnews</id>
     <title>다음 뉴스 ─ 전체기사 ─ 자동생성기사</title>
-    <updated>2024-11-18T04:23:47.581Z</updated>
+    <updated>2024-11-18T05:20:21.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[계룡건설 수주공시 - 남양주왕숙 A-2BL 아파트 건설공사 2공구 930.7억원 (매출액대비  3.13 %)]]></title>
+        <id>https://v.daum.net/v/20241118140103309</id>
+        <link href="https://v.daum.net/v/20241118140103309"/>
+        <updated>2024-11-18T05:20:21.007Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">14:01</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에스티아이 수주공시 - 디스플레이 제조장비 공급 230.8억원 (매출액대비  7.2 %)]]></title>
+        <id>https://v.daum.net/v/20241118134604855</id>
+        <link href="https://v.daum.net/v/20241118134604855"/>
+        <updated>2024-11-18T05:20:21.008Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">13:46</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['디지털대성' 52주 신고가 경신, 내년을 바라보면 기회 - 신한투자증권, 매수(유지)]]></title>
+        <id>https://v.daum.net/v/20241118132902411</id>
+        <link href="https://v.daum.net/v/20241118132902411"/>
+        <updated>2024-11-18T05:20:21.009Z</updated>
+        <content type="html"><![CDATA[한국경제<span class="txt_bar"> · </span><span class="info_time">13:29</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인천 청라동 청라호반베르디움2차아파트 59㎡ 4억9550만원에 거래]]></title>
         <id>https://v.daum.net/v/20241118120541952</id>
@@ -88,12 +109,5 @@
         <link href="https://v.daum.net/v/20241118080103549"/>
         <updated>2024-11-17T23:19:05.917Z</updated>
         <content type="html"><![CDATA[연합뉴스<span class="txt_bar"> · </span><span class="info_time">08:01</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘의 날씨 - 오전 (2024년 11월 18일)]]></title>
-        <id>https://v.daum.net/v/20241118053207385</id>
-        <link href="https://v.daum.net/v/20241118053207385"/>
-        <updated>2024-11-17T21:17:23.316Z</updated>
-        <content type="html"><![CDATA[국민일보<span class="txt_bar"> · </span><span class="info_time">05:32</span>]]></content>
     </entry>
 </feed>
