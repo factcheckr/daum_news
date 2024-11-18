@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-11-18T11:17:44.574Z</updated>
+    <updated>2024-11-18T12:38:56.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[정수종의 기후변화 이야기]아이들 미래를 위한 기후위기 대응]]></title>
+        <id>https://v.daum.net/v/20241118213540801</id>
+        <link href="https://v.daum.net/v/20241118213540801"/>
+        <updated>2024-11-18T12:38:43.087Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">21:35</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024년 11월 19일[김용민의 그림마당]]]></title>
+        <id>https://v.daum.net/v/20241118210422458</id>
+        <link href="https://v.daum.net/v/20241118210422458"/>
+        <updated>2024-11-18T12:38:43.091Z</updated>
+        <content type="html"><![CDATA[경향신문<span class="txt_bar"> · </span><span class="info_time">21:04</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[만물상] 음모론자도 장관하는 시대]]></title>
         <id>https://v.daum.net/v/20241118201020845</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241118194948491"/>
         <updated>2024-11-18T11:17:29.469Z</updated>
         <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:49</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What matters more than practicing golf]]></title>
-        <id>https://v.daum.net/v/20241118194856481</id>
-        <link href="https://v.daum.net/v/20241118194856481"/>
-        <updated>2024-11-18T11:17:29.471Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:48</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Help the students find jobs in Korea and Japan]]></title>
-        <id>https://v.daum.net/v/20241118194659457</id>
-        <link href="https://v.daum.net/v/20241118194659457"/>
-        <updated>2024-11-18T11:17:29.472Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">19:46</span>]]></content>
     </entry>
 </feed>
