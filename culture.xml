@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/culture</id>
     <title>다음 뉴스 ─ 전체기사 ─ 문화</title>
-    <updated>2024-11-18T16:25:10.299Z</updated>
+    <updated>2024-11-18T17:17:55.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[오늘 날씨] '체감온도 0도↓' 초겨울 추위…찬바람 불 때 먹어야 하는 영양제]]></title>
+        <id>https://v.daum.net/v/20241119020830846</id>
+        <link href="https://v.daum.net/v/20241119020830846"/>
+        <updated>2024-11-18T17:17:18.492Z</updated>
+        <content type="html"><![CDATA[데일리안<span class="txt_bar"> · </span><span class="info_time">02:08</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[잠시만요] 발달장애인 오케스트라 지휘자 안두현"기립 박수 받았을 때, 뭉클함을 넘어...]]></title>
+        <id>https://v.daum.net/v/20241119014201767</id>
+        <link href="https://v.daum.net/v/20241119014201767"/>
+        <updated>2024-11-18T17:17:18.495Z</updated>
+        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">01:42</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[열린라디오] 프랑스 칸에서 열린 'MIPCOM2024' 현장 후기와 트렌드]]></title>
         <id>https://v.daum.net/v/20241119010304614</id>
@@ -95,19 +109,5 @@
         <link href="https://v.daum.net/v/20241119000849093"/>
         <updated>2024-11-18T15:21:44.504Z</updated>
         <content type="html"><![CDATA[세계일보<span class="txt_bar"> · </span><span class="info_time">00:08</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘날씨, 전국 아침 기온 0도 내외... 해안 중심 강풍 유의]]></title>
-        <id>https://v.daum.net/v/20241119000423971</id>
-        <link href="https://v.daum.net/v/20241119000423971"/>
-        <updated>2024-11-18T15:21:44.505Z</updated>
-        <content type="html"><![CDATA[bnt뉴스<span class="txt_bar"> · </span><span class="info_time">00:04</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오늘의 운세] 2024년 11월 19일 별자리 운세]]></title>
-        <id>https://v.daum.net/v/20241119000303940</id>
-        <link href="https://v.daum.net/v/20241119000303940"/>
-        <updated>2024-11-18T15:21:44.505Z</updated>
-        <content type="html"><![CDATA[YTN<span class="txt_bar"> · </span><span class="info_time">00:03</span>]]></content>
     </entry>
 </feed>
