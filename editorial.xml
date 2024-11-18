@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.daum.net/breakingnews/editorial</id>
     <title>다음 뉴스 ─ 전체기사 ─ 칼럼</title>
-    <updated>2024-11-18T03:37:53.266Z</updated>
+    <updated>2024-11-18T04:23:47.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.daum.net/breakingnews/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[시시비비] 한 손엔 펜, 한 손엔 AI를]]></title>
+        <id>https://v.daum.net/v/20241118123921586</id>
+        <link href="https://v.daum.net/v/20241118123921586"/>
+        <updated>2024-11-18T04:23:34.242Z</updated>
+        <content type="html"><![CDATA[아시아경제<span class="txt_bar"> · </span><span class="info_time">12:39</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[K우먼톡]美 마초·영웅 문화의 완결판 '트럼프의 귀환']]></title>
         <id>https://v.daum.net/v/20241118122955399</id>
@@ -102,12 +109,5 @@
         <link href="https://v.daum.net/v/20241118093025169"/>
         <updated>2024-11-18T01:26:21.981Z</updated>
         <content type="html"><![CDATA[한겨레<span class="txt_bar"> · </span><span class="info_time">09:30</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Bitcoin divides the world (KOR)]]></title>
-        <id>https://v.daum.net/v/20241118092753058</id>
-        <link href="https://v.daum.net/v/20241118092753058"/>
-        <updated>2024-11-18T01:26:21.981Z</updated>
-        <content type="html"><![CDATA[코리아중앙데일리<span class="txt_bar"> · </span><span class="info_time">09:27</span>]]></content>
     </entry>
 </feed>
